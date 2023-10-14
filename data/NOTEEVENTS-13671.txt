@@ -1,0 +1,489 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13671,,,,3281-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-21**] 6:20 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2483**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       year old man found down, intubated in field
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Found down.
+     
+     HEAD CT WITHOUT CONTRAST:  There is no intra or extraaxial hemorrhage.  There
+     is no shift of normally midline structures.  There is no evidence of mass
+     effect.  The ventricles, cisterns and sulci are unremarkable.  The [**Doctor Last Name 63**]-white
+     matter differentiation is normal.
+     
+     The osseous structures are unremarkable.  The visualized paranasal sinuses are
+     clear.
+     
+     IMPRESSION:
+     
+     No evidence of acute intracranial hemorrhage, edema or mass effect.
+     
+
+",,
+13671,,,,3281-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-21**] 7:10 PM
+     C-SPINE, TRAUMA PORT                                            Clip # [**Clip Number (Radiology) 2485**]
+     Reason: r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       year old man found down, intubated in field
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: R/O fracture found down:
+     
+     C-SPINE, TWO VIEWS: Only C1 through C6 are visualized on the lateral
+     projection.  Of the visualized vertebral bodies there is no prevertebral soft
+     tissue swelling. There is no evidence of fracture. The vertebral bodies are in
+     normal alignment without loss of volume or disc height.
+     
+     IMPRESSION: No cervical spine fracture seen in the visualized cervical bodies.
+     
+
+",,
+13671,,,,3281-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-21**] 6:51 PM
+     CT CHEST W/CONTRAST; LAB RECONSTRUCTIONS                        Clip # [**Clip Number (Radiology) 2484**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o aortic dissection
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      young male found unresponsive now with wide mediastinum on CXR
+     REASON FOR THIS EXAMINATION:
+      r/o aortic dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Indication:
+     Evaluation for aortic dissection unresponsive with wide mediastinum.
+     
+     Technique:  Axial thin section CT imaging was performed during the rapid IV
+     administration of iodinated contrast material.
+     
+     The soft tissue windows reveal no significant axillary, mediastinal or hilar
+     lymph node enlargement. There is a small right paratracheal lymph node which
+     measures 1.6cm. The heart pericardium and great vessels are normal in
+     appearance. No pleural effusions are present. There is bilateral dependent
+     atelectasis vs. consolidation within the posterior lower lobes. The lungs
+     reveal no suspicious nodules. The airways appear patent from the level of the
+     segmental bronchi bilaterally. An ET tube is located above the level of the
+     carina. An NG tube is noted within the esophagus. In the imaged portion of the
+     upper abdomen, the visualized liver, spleen, adrenal glands, pancreas,
+     gallbladder and kidneys are normal in appearance. The skeletal structures of
+     the thorax reveal no significant abnormality.
+     
+     IMPRESSION: No evidence of aortic dissection. Bibasilar atelectasis vs.
+     consolidation.
+     
+     
+     
+
+",,
+13671,,,,3281-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-21**] 6:51 PM
+     CT CHEST W/CONTRAST; LAB RECONSTRUCTIONS                        Clip # [**Clip Number (Radiology) 2484**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o aortic dissection
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      young male found unresponsive now with wide mediastinum on CXR
+     REASON FOR THIS EXAMINATION:
+      r/o aortic dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Indication:
+     Evaluation for aortic dissection unresponsive with wide mediastinum.
+     
+     Technique:  Axial thin section CT imaging was performed during the rapid IV
+     administration of iodinated contrast material.
+     
+     The soft tissue windows reveal no significant axillary, mediastinal or hilar
+     lymph node enlargement. There is a small right paratracheal lymph node which
+     measures 1.6cm. The heart pericardium and great vessels are normal in
+     appearance. No pleural effusions are present. There is bilateral dependent
+     atelectasis vs. consolidation within the posterior lower lobes. The lungs
+     reveal no suspicious nodules. The airways appear patent from the level of the
+     segmental bronchi bilaterally. An ET tube is located above the level of the
+     carina. An NG tube is noted within the esophagus. In the imaged portion of the
+     upper abdomen, the visualized liver, spleen, adrenal glands, pancreas,
+     gallbladder and kidneys are normal in appearance. The skeletal structures of
+     the thorax reveal no significant abnormality.
+     
+     IMPRESSION: No evidence of aortic dissection. Bibasilar atelectasis vs.
+     consolidation.
+     
+     
+     
+
+",,
+13671,,,,3281-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-21**] 6:51 PM
+     CT CHEST W/CONTRAST; LAB RECONSTRUCTIONS                        Clip # [**Clip Number (Radiology) 2484**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: r/o aortic dissection
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      young male found unresponsive now with wide mediastinum on CXR
+     REASON FOR THIS EXAMINATION:
+      r/o aortic dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Indication:
+     Evaluation for aortic dissection unresponsive with wide mediastinum.
+     
+     Technique:  Axial thin section CT imaging was performed during the rapid IV
+     administration of iodinated contrast material.
+     
+     The soft tissue windows reveal no significant axillary, mediastinal or hilar
+     lymph node enlargement. There is a small right paratracheal lymph node which
+     measures 1.6cm. The heart pericardium and great vessels are normal in
+     appearance. No pleural effusions are present. There is bilateral dependent
+     atelectasis vs. consolidation within the posterior lower lobes. The lungs
+     reveal no suspicious nodules. The airways appear patent from the level of the
+     segmental bronchi bilaterally. An ET tube is located above the level of the
+     carina. An NG tube is noted within the esophagus. In the imaged portion of the
+     upper abdomen, the visualized liver, spleen, adrenal glands, pancreas,
+     gallbladder and kidneys are normal in appearance. The skeletal structures of
+     the thorax reveal no significant abnormality.
+     
+     IMPRESSION: No evidence of aortic dissection. Bibasilar atelectasis vs.
+     consolidation.
+     
+     
+     
+
+",,
+13671,,,,3281-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-21**] 6:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2482**]
+     Reason: r/o pneumonia, CHF; assess ETT placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       year old man found down, intubated in field
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia, CHF; assess ETT placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Found unresponsive and intubated.
+     
+     AP CHEST:  There is an ET tube with the tip 4 cm from the carina.  An NG tube
+     has been placed with the tip in the fundus of the stomach.  Overall there is a
+     shallow inspiration and low lung volumes.  Given that, the cardiac silhouette,
+     hilar and mediastinal contours are within normal limits.  There is mild linear
+     opacity in the lingula that likely represents atelectasis.  There is
+     prominence of the pulmonary vascularity centrally however this is most likely
+     due to the patient's supine position.  No definite infiltrates are seen.
+     There are no effusions.
+     
+     IMPRESSION:
+     1.  Status post intubation and NG tube placement with appropriate positions.
+     2.  Linear opacity in the lingula likely represents atelectasis.
+     
+
+",,
+13671,,17024,,3281-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-22**] 12:18 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 2486**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 35 yo male found down yesterday, hct decreased from 42 to 33
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      35 yo male with h/o hep C, s/p TCA overdose yesterday, now with declining hct
+      and ruq tenderness
+     REASON FOR THIS EXAMINATION:
+      35 yo male found down yesterday, hct decreased from 42 to 33 today, now with
+      RUQ tenderness (h/o pancreatitis and GI bleed)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hepatitis C, right upper quadrant tenderness, decreasing
+     hematocrit.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST: CT PELVIS WITH CONTRAST:
+     
+     TECHNIQUE: Pre-and-post contrast abdomen and post contrast pelvis was
+     performed following administration of 150cc of Optiray for indication of
+     multiple allergies.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST: There is bilateral dependent atelectasis
+     vs small consolidation in the lung bases. There is a small hiatal hernia.
+     There are no pleural effusions.  Precontrast hepatic Hounsfelds of 42 [**Doctor Last Name **]
+     suggest mild fatty replacement, consistent with hepatitis.  Although the post
+     contrast attenuation of the liver is somewhat heterogeneous, there are no
+     focal lesions.  There is no evidence of biliary obstruction.  Increased
+     attenuation of the bile within the gallbladder is consistent with vicarious
+     excretion from previous contrast enhanced CT. There are several enlarged lymph
+     nodes within the portahepatis which are consistent with hepatitis.  The
+     pancreas, spleen, adrenals, kidneys and abdominal bowel loops are normal in
+     appearance. There is no ascites.
+     
+     CT PELVIS WITH CONTRAST: The kidneys enhance symmetrically.  There is a foley
+     catheter within the bladder.  Contrast reaches the rectum without evidence of
+     obstruction.  There is a right iliac vessel catheter.  There is no pelvic
+     lymphadenopathy or free fluid.
+     
+     Bone windows reveal no suspicious osseous lesions.
+     
+     IMPRESSION: Fatty liver and portahepatis lymphadenopathy.  No evidence of
+     pancreatitis or intraabdominal hemorrhage.
+
+",,
+13671,,17024,,3281-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-22**] 12:18 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 2486**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 35 yo male found down yesterday, hct decreased from 42 to 33
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      35 yo male with h/o hep C, s/p TCA overdose yesterday, now with declining hct
+      and ruq tenderness
+     REASON FOR THIS EXAMINATION:
+      35 yo male found down yesterday, hct decreased from 42 to 33 today, now with
+      RUQ tenderness (h/o pancreatitis and GI bleed)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hepatitis C, right upper quadrant tenderness, decreasing
+     hematocrit.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST: CT PELVIS WITH CONTRAST:
+     
+     TECHNIQUE: Pre-and-post contrast abdomen and post contrast pelvis was
+     performed following administration of 150cc of Optiray for indication of
+     multiple allergies.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST: There is bilateral dependent atelectasis
+     vs small consolidation in the lung bases. There is a small hiatal hernia.
+     There are no pleural effusions.  Precontrast hepatic Hounsfelds of 42 [**Doctor Last Name **]
+     suggest mild fatty replacement, consistent with hepatitis.  Although the post
+     contrast attenuation of the liver is somewhat heterogeneous, there are no
+     focal lesions.  There is no evidence of biliary obstruction.  Increased
+     attenuation of the bile within the gallbladder is consistent with vicarious
+     excretion from previous contrast enhanced CT. There are several enlarged lymph
+     nodes within the portahepatis which are consistent with hepatitis.  The
+     pancreas, spleen, adrenals, kidneys and abdominal bowel loops are normal in
+     appearance. There is no ascites.
+     
+     CT PELVIS WITH CONTRAST: The kidneys enhance symmetrically.  There is a foley
+     catheter within the bladder.  Contrast reaches the rectum without evidence of
+     obstruction.  There is a right iliac vessel catheter.  There is no pelvic
+     lymphadenopathy or free fluid.
+     
+     Bone windows reveal no suspicious osseous lesions.
+     
+     IMPRESSION: Fatty liver and portahepatis lymphadenopathy.  No evidence of
+     pancreatitis or intraabdominal hemorrhage.
+
+",,
+13671,,17024,,3281-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-6-22**] 12:18 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 2486**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 35 yo male found down yesterday, hct decreased from 42 to 33
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      35 yo male with h/o hep C, s/p TCA overdose yesterday, now with declining hct
+      and ruq tenderness
+     REASON FOR THIS EXAMINATION:
+      35 yo male found down yesterday, hct decreased from 42 to 33 today, now with
+      RUQ tenderness (h/o pancreatitis and GI bleed)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hepatitis C, right upper quadrant tenderness, decreasing
+     hematocrit.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST: CT PELVIS WITH CONTRAST:
+     
+     TECHNIQUE: Pre-and-post contrast abdomen and post contrast pelvis was
+     performed following administration of 150cc of Optiray for indication of
+     multiple allergies.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST: There is bilateral dependent atelectasis
+     vs small consolidation in the lung bases. There is a small hiatal hernia.
+     There are no pleural effusions.  Precontrast hepatic Hounsfelds of 42 [**Doctor Last Name **]
+     suggest mild fatty replacement, consistent with hepatitis.  Although the post
+     contrast attenuation of the liver is somewhat heterogeneous, there are no
+     focal lesions.  There is no evidence of biliary obstruction.  Increased
+     attenuation of the bile within the gallbladder is consistent with vicarious
+     excretion from previous contrast enhanced CT. There are several enlarged lymph
+     nodes within the portahepatis which are consistent with hepatitis.  The
+     pancreas, spleen, adrenals, kidneys and abdominal bowel loops are normal in
+     appearance. There is no ascites.
+     
+     CT PELVIS WITH CONTRAST: The kidneys enhance symmetrically.  There is a foley
+     catheter within the bladder.  Contrast reaches the rectum without evidence of
+     obstruction.  There is a right iliac vessel catheter.  There is no pelvic
+     lymphadenopathy or free fluid.
+     
+     Bone windows reveal no suspicious osseous lesions.
+     
+     IMPRESSION: Fatty liver and portahepatis lymphadenopathy.  No evidence of
+     pancreatitis or intraabdominal hemorrhage.
+
+",,
+13671,,,,3281-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13671,,,,3281-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2824-2-14**] 4:34 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2487**]
+     Reason: r/o cardiomegaly                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with depression and recent episodes of low BP, palpitations, 
+      and increased HR. 
+     REASON FOR THIS EXAMINATION:
+      r/o cardiomegaly                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  41 y/o male with depression with recent episode and
+     hypotension and palpitations.
+     
+     PA and lateral chest dated [**2824-2-14**] is submitted for evaluation.  There are
+     no prior studies for comparison.
+     
+     FINDINGS:  The heart is within the upper limits of normal for size.  The
+     mediastinal contours and pulmonary vascularity are within normal limits.
+     There is linear atelectasis within the left costophrenic angle.  Otherwise,
+     the lungs appear clear with no focal areas of opacification.  There are no
+     pleural effusions.  The visualized osseous structures and soft tissues are
+     unremarkable.
+     
+     IMPRESSION: No acute cardiopulmonary disease.
+     
+
+",,
+13671,,,,3281-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2824-2-17**] 11:46 AM
+     CHEST FLUORO WITHOUT RADIOLOGIST                                Clip # [**Clip Number (Radiology) 2488**]
+     Reason: PORTA CATH LINE PLACMNT W CARM
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest fluoroscopy was performed without a radiologist present.  28 seconds of
+     fluoro time were used.  No films submitted.
+     
+
+",,
+13671,,,,3281-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2824-2-17**] 11:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2489**]
+     Reason: s/p portacath placement.  Is there a PTX; where is the tip o
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p portacath placement.  Is there a PTX; where is the tip of the catheter?     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient s/p portacath placement. R/O pneumothorax.
+     
+     PORTABLE AP CHEST dated [**2824-2-17**] is compared to prior study dated [**2824-2-14**].
+     
+     FINDINGS: There has been interval placement of a right subclavian portacath
+     terminating within the distal SVC. There is no associated pneumothorax. The
+     cardiac and mediastinal contours are within normal limits. The pulmonary
+     vascularity is unremarkable. There is plate-like atelectasis at the left base.
+     The lungs are otherwise clear, with no focal infiltrates or opacities. There
+     are no pleural effusions. The visualized osseous structures and soft tissues
+     are unremarkable.
+     
+     IMPRESSION: Satisfactory placement of portacath with no evidence of
+     pneumothorax.
+
+",,
+13671,,,,3281-11-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2824-2-26**] 8:49 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2490**]
+     Reason: 41 yo man s/p portacath placement 2* poor periph IV access; 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with depression and recent episodes of low BP, palpitations,  
+      and increased HR. 
+     REASON FOR THIS EXAMINATION:
+      41 yo man s/p portacath placement 2* poor periph IV access; presently spiking 
+      fevers; please help evaluate intrathoracic etiology vs cellulitis as best as 
+      possible.Thank [**Doctor First Name 1041**] for your help.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, TWO VIEWS, PA AND LATERAL.
+     
+     HISTORY:  Fever and cath. placement with hypertension.
+     
+     Portacath is in proximal SVC.  No pneumothorax.  Heart size is normal.
+     Discoid atelectasis is present  at the left lung base.  No pulmonary
+     consolidation or pleural effusions.
+     
+     IMPRESSION:  Left basilar discoid atelectasis.
+     
+     
+
+",,
+13671,,,,3281-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2824-2-27**] 3:05 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2491**]
+     Reason: F/U PORTACATH REMOVAL , r ij PLACEMENT                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        41 year old man with depression and recent episodes of low BP, palpitations,  
+       and increased HR. 
+     REASON FOR THIS EXAMINATION:
+      F/U PORTACATH REMOVAL , r ij PLACEMENT                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post right IJ placement.
+     
+     PA and lateral chest is compared to the prior study performed one day earlier.
+     
+     
+     FINDINGS:  In the interval, there has been removal of the right-sided
+     Portacath and placement of a right IJ catheter, which terminates within the
+     mid SVC.  There is no associated pneumothorax.  The cardiac and mediastinal
+     contours are within normal limits.  The pulmonry vascularity is unremarkable.
+     There is platelike atelectasis involving the left lower lobe.  Otherwise, the
+     lungs appear grossly clear. There are no focal infiltrates.  There are no
+     pleural effusions.  The visualized osseous structures and soft tissues are
+     unremarkable.
+     
+     IMPRESSION:  Satisfactory placement of right IJ catheter.
+
+",,

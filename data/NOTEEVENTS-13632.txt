@@ -1,0 +1,174 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13632,33356,,,2776-08-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2776-8-3**]              Discharge Date:   [**2776-8-3**]
+ 
+Date of Birth:  [**2691-6-29**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1991**] 
+Chief Complaint:
+seizure
+ 
+Major Surgical or Invasive Procedure:
+dialysis
+intubation
+DCCV cardioversion
+ 
+History of Present Illness:
+Pt presented with a seizure.  Found to have a chronic subdural 
+hematoma.  Taken to dialysis. Otherwise, history of present 
+illness was unknown.
+ 
+Past Medical History:
+ESRD, otherwise unknown
+ 
+Social History:
+unknown
+ 
+Family History:
+unknown
+ 
+Physical Exam:
+When I first saw the patiet, he was pulseless in ventricular 
+tachycardia.  He had no BP, and his ventricular rate was > 150.  
+He appeared cyanotic and was not breathing.
+ 
+Pertinent Results:
+[**2776-8-3**] 05:08PM BLOOD WBC-16.8*# RBC-3.45* Hgb-10.7* Hct-32.3* 
+MCV-94 MCH-31.1 MCHC-33.2 RDW-15.6* Plt Ct-198
+[**2776-8-3**] 03:45PM BLOOD Neuts-48.8* Lymphs-44.4* Monos-5.5 
+Eos-1.1 Baso-0.4
+[**2776-8-3**] 05:08PM BLOOD Plt Ct-198
+[**2776-8-2**] 10:50PM BLOOD PT-13.0 PTT-30.7 INR(PT)-1.1
+[**2776-8-3**] 05:08PM BLOOD Glucose-157* UreaN-18 Creat-3.4* Na-147* 
+K-3.5 Cl-97 HCO3-36* AnGap-18
+[**2776-8-3**] 05:08PM BLOOD ALT-52* AST-89* LD(LDH)-318* AlkPhos-78 
+TotBili-1.6*
+[**2776-8-3**] 05:08PM BLOOD Albumin-3.6 Calcium-11.5* Phos-3.6 Mg-1.6
+[**2776-8-3**] 03:45PM BLOOD Albumin-2.8* Calcium-17.6* Phos-2.6*# 
+Mg-1.9
+[**2776-8-3**] 05:08PM BLOOD TSH-4.2
+[**2776-8-3**] 06:17PM BLOOD Type-ART pO2-460* pCO2-26* pH-7.73* 
+calHCO3-36* Base XS-15 Intubat-INTUBATED
+[**2776-8-3**] 05:23PM BLOOD Type-MIX pH-7.54*
+[**2776-8-3**] 05:43PM BLOOD Type-ART pO2-520* pCO2-34* pH-7.67* 
+calHCO3-40* Base XS-17
+[**2776-8-3**] 06:17PM BLOOD Glucose-181* Lactate-7.1* Na-144 K-3.5 
+Cl-100
+[**2776-8-3**] 06:17PM BLOOD freeCa-1.26
+[**2776-8-3**] 05:43PM BLOOD freeCa-1.32
+[**2776-8-3**] 05:23PM BLOOD freeCa-1.36*
+ 
+Brief Hospital Course:
+As part of the MICU team, I first saw the pt during a code blue. 
+ He was in pulseless VT after dialysis.  He was presumed to have 
+hyperkalemia, and was treated as such with calcium gluconate, 
+and insulin & dextrose.  Given amiodorone bolus and shocked [**3-5**] 
+times with reversion to NSR.  Pt was taken to the MICU and 
+subsequently reverted to pulseless VT then V-fib.  Family 
+discussion was done and the pt's daughter felt full resucitation 
+measures were indicated.  Attempt to revive pt was unsuccessful 
+with numerous attempted cardioversions, amiodorone and lidocaine 
+boluses and CPR.  
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+deceased
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+deceased
+ 
+Followup Instructions:
+decaeased
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 1993**] MD [**MD Number 1994**]
+ 
+Completed by: [**First Name8 (NamePattern2) 5182**] [**Last Name (NamePattern1) **] MD [**MD Number 5183**] [**2776-8-17**] @ 1324
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) 826**]
+ on: [**Doctor First Name 123**] [**2776-10-21**] 1:37 PM
+(End of Report)
+
+
+",,
+13632,33356,,,2776-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2776-8-3**] 4:24 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 2071**]
+     Reason: Eval for ETT placment, line placemnet,                      
+     Admitting Diagnosis: SPINAL DETRUSOR HYPERREFLEXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with acute VT arrest s/p intubation and fem line placement      
+     REASON FOR THIS EXAMINATION:
+      Eval for ETT placment, line placemnet,                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Tachycardic arrest.  Check line placement.
+     
+     PORTABLE SUPINE AP CHEST:  No prior studies are available for comparison.  The
+     endotracheal tube is in satisfactory position in the mid trachea.  No other
+     central venous lines or access devices are seen.  There is cardiomegaly.  The
+     aorta is calcified and unfolded.  There is upper lung zone redistribution.
+     There are no focal consolidations.  Mild gastric distention.
+     
+     IMPRESSION:  Endotracheal tube is in satisfactory position.  CHF.
+
+",,
+13632,33356,,,2776-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2776-8-3**] 6:21 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2070**]
+     Reason: eval for interval change                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with SDH                                                        
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SGA TUE [**2776-8-3**] 6:46 AM
+      left SDH with mild rightward midline shift
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Subdural hematoma.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial noncontrast MDCT images were obtained through the head.
+     
+     CT HEAD WITHOUT IV CONTRAST:  There is a mixed attenuation, extra-axial
+     collection overlying the left cerebral convexity with adjacent mass effect and
+     mild rightward shift.  There is approximately 7 mm shift of the septum
+     pellucidum to the right.  No uncal herniation is identified.  There is
+     prominence of the rest of the sulci and ventricles consistent with cerebral
+     atrophy.  The [**Doctor Last Name 63**]- white matter differentiation appears intact throughout.
+     There is periventricular white matter hypoattenuation consistent with chronic
+     small vessel ischemic changes. There are dense calcifications of the cavernous
+     portions of the internal carotid arteries bilaterally. The paranasal sinuses
+     are well aerated.
+     
+     IMPRESSION:  Left-sided subdural hematoma with adjacent mass effect and mild
+     rightward shift.
+
+",,
+13632,,16969,0,2776-08-03 18:12:00 EST,2776-08-03 18:23:00 EST,2377,"N",69,"Nursing/Other","MICU event note","
+MICU event note
+Pt arrived to MICU s/p cardiac-resp arrest in HD.  He was in NSR on arrival with BP 210's/70's.  BP treated with 10mg IV hydralazine.  Labs from arrest back with Ca++ 17, Na+ 150, K+ 3.4.  On arrival, there was some confusion about pt's code status.  In [**Name6 (MD) 317**] chart, RN documentation in EW stated that pt was DNR/CMO.
+
+At approx 1730, pt's rhythm changed to what looked like torsades, which evoloved into VT.  Pt's family consulted at that time and they wished to continue to attempt to resuscitate pt.  Pt shocked several times with palpable pulse in between shocks.  However, pt cont to revert back into pulseless VT.  Pt rec'd morphine for comfort and code called at 1805.  Time of death 1815.
+",,

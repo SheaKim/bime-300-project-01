@@ -1,0 +1,2227 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13625,6961,,,2669-04-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2669-4-14**]     Discharge Date:  [**2669-5-2**]
+
+Date of Birth:   [**2599-8-2**]     Sex:  M
+
+Service:  CARDIAC SURGERY
+
+CHIEF COMPLAINT:  Transferred for cardiac catheterization.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 69 year old
+white male who was transferred from [**Hospital 607**] Hospital for
+cardiac catheterization.  He had been sent to the hospital by
+his cardiologist to whom it had gone for two syncopal
+episodes.  He was transferred to an outside hospital where he
+was ruled out for a myocardial infarction.  He has a history
+of worsening cardiac function over the last year.
+
+One year prior to admission, he had an episode of difficulty
+in talking which was possibly a transient ischemic attack.
+He had a stroke workup which involved an echocardiogram
+showing ejection fraction of 50% with mild aortic stenosis
+and mild mitral regurgitation.  He is now transferred to [**Hospital1 471**] for cardiac catheterization.
+
+PAST MEDICAL HISTORY:
+1.  Congestive heart failure with recent echocardiogram
+showing ejection fraction of 25%, mild aortic stenosis,
+moderate mitral regurgitation and tricuspid regurgitation,
+mild pulmonary hypertension, dilated severe global left
+ventricular hypokinesis.
+2.  Noninsulin dependent diabetes mellitus.
+3.  Hypertension.
+4.  Right knee arthritis.
+5.  Transient ischemic attacks, possible small vessel disease
+on magnetic resonance scan.
+6.  Polio as a child with no long term side effects.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Aspirin Enteric Coated 325 mg q.d.
+2.  Toprol XL 12.5 mg q.d.
+3.  Lisinopril 10 mg p.o. q.d.
+4.  Glipizide 5 mg q.d.
+5.  Simvastatin unknown dose.
+6.  Lasix 40 mg q.d.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+service for cardiac catheterization.  He was in stable
+condition.  He underwent cardiac catheterization on [**2669-4-15**],
+which showed severe three vessel disease.  Cardiothoracic
+surgery consultation was obtained at this point.  He was
+started on Heparin drip.  Prior to surgery, he had a carotid
+ultrasound study which showed less than 40% stenosis in the
+left internal carotid artery.
+
+On [**2669-4-19**], he underwent a coronary artery bypass graft
+times four with left internal mammary artery to left anterior
+descending, RSVG segmental to diagonal, RSVG to right
+coronary artery to posterolateral.  His intraoperative course
+was uneventful, and he was transferred to the CSRU in stable
+condition.  He was extubated overnight.
+
+He was noted to have some episodes of confusion and language
+difficulty.  The possibility of transient ischemic attack was
+raised and a neurology consultation was obtained on
+postoperative day one. They recommended a CT scan and a
+magnetic resonance scan.  CT scan was done and showed no
+acute hemorrhage.
+
+Recommendations were made to keep the systolic blood pressure
+about 130 to 140.  It was noted subsequently that when the
+patient's systolic blood pressure was below 130, he would be
+symptomatic with language difficulties and a seizure.  He
+underwent a magnetic resonance scan on [**2669-4-22**], which showed
+a small area of restricted diffusion in the right prefrontal
+subcortical area and also showed right internal carotid
+artery and left middle cerebral artery narrowing with
+significant intracranial disease.  Per neurology
+recommendations, he was started on Coumadin and Aspirin.
+
+Over the next few days, he continued to have episodes of
+transient ischemic attacks.  His electroencephalogram was
+negative at this point.  He continued to be on a
+Neo-Synephrine drip to his blood pressure about 130s to
+prevent transient ischemic attacks.  He was hemodynamically
+stable with the only issue being the transient ischemic
+attacks at this point.
+
+Because of his continuing condition, it was decided to
+surgically intervene at this point.  On [**2669-4-27**], he
+underwent a cerebral angiography with stenting of the right
+internal carotid artery stenosis using two stents.  He was
+neurologically stable postoperatively and continued on his
+Heparin drip.
+
+Subsequently, he was deemed ready for transfer to the regular
+floor.  Per neurology recommendations, he was continued on
+Aspirin and Plavix and will continue on it for some time in
+the future.  He was transferred to the regular floor on
+[**2669-4-30**], in stable condition.  Currently, he is able to
+ambulate well.  His pain is under control with p.o.
+analgesics.  He is now ready for discharge home.
+
+MEDICATIONS ON DISCHARGE:
+1.  Lasix 40 mg q.d.
+2.  Potassium Chloride 20 mEq q.d.
+3.  Colace 100 mg b.i.d.
+4.  Aspirin Enteric Coated 325 mg q.d.
+5.  Plavix 75 mg q.d.
+6.  Amiodarone 400 mg q.d.
+7.  Glipizide 5 mg q.d.
+8.  Lisinopril 5 mg q.d.
+9.  Percocet one to two tablets q4-6hours p.r.n.
+
+FO[**Last Name (STitle) 1533**]P:  Dr. [**Last Name (Prefixes) 2**] in clinic in four weeks,
+follow-up with primary care physician in two weeks, and with
+neurology in four weeks.
+
+
+
+
+                          [**Doctor Last Name 5**] [**Last Name (Prefixes) **], M.D.  [**MD Number 6**]
+
+Dictated By:[**Last Name (NamePattern1) 3266**]
+
+MEDQUIST36
+
+D:  [**2669-5-1**]  23:05
+T:  [**2669-5-4**]  20:23
+JOB#:  [**Job Number 9404**]
+Signed electronically by: DR. [**First Name (STitle) 5**] [**Last Name (Prefixes) **]
+ on: MON [**2669-5-24**] 5:15 PM
+(End of Report)
+
+
+",,
+13625,6961,,,2669-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-15**] 8:12 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 1990**]
+     Reason: CARDIOMYOPATHY\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with severe CAD, pre-op for CABG.                               
+     REASON FOR THIS EXAMINATION:
+      Pre-op.                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Preop
+     
+     COMPARISON: None
+     
+     PA AND LATERAL CHEST: There is left ventricular enlargement but no definite
+     redistribution of the pulmonary vasculature.  No focal areas of consolidation.
+     There are no effusions and there is no pneumothorax.  The soft tissue and
+     osseous structures are grossly normal, though anterior osteophytes are seen
+     within the lower thoracic spine.
+     
+     IMPRESSION: No evidence of acute cardiopulmonary disease.
+     
+
+",,
+13625,6961,,,2669-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-16**] 2:37 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 1991**]
+     Reason: PREOP CABG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with severe CAD, may be going for CABG, will need pre-op 
+      assessment of carotid arteries. 
+     REASON FOR THIS EXAMINATION:
+      Assess for carotid stenosis.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient with known atherosclerosis undergoing coronary bypass,
+     evaluate carotid arteries.
+     
+     FINDINGS: Duplex evaluation was performed of both carotid arteries. Minimal
+     plaque was identified bilaterally.
+     
+     On the right, peak systolic velocities are 98, 68, 72 in the ICA, CCA, ECA
+     respectively. The ICA to CCA ratio is 1.4. This is consistent with less than
+     40% stenosis.
+     
+     On the left, peak systolic velocities are 62, 63, 106 in the ICA, CCA, ECA
+     respectively. The ICA to CCA ratio is 1. This is consistent with less than 40%
+     stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION: Minimal plaque bilateral less than 40% carotid stenosis.
+
+",,
+13625,6961,16956,,2669-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-20**] 2:30 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1993**]
+     Reason: tia's post op cabg
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with tia's post cabg
+     REASON FOR THIS EXAMINATION:
+      tia's post op cabg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  TIA's S/P CABG, post-op.
+     
+     TECHNIQUE:  Standard non-contrast head CT.
+     
+     FINDINGS:  There is no intra or extra-axial hemorrhage.  There is no shift of
+     normally mid-line structures or mass effect.  The ventricles cisterns and
+     sulci are unremarkable.  The [**Doctor Last Name 63**] white matter differentiation is preserved.
+     No territorial infarcts.  Punctate calcifications are noted within the right
+     basal ganglia.
+     
+     Soft tissues orbits and osseous structures are unremarkable.  There is mucosal
+     thickening in the ethmoid sinuses.
+     
+     IMPRESSION:  No acute intracranial pathology.
+
+",,
+13625,6961,16956,,2669-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-20**] 1:55 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 1992**]
+     Reason: s/p CABG w/TIA-evaluate carotids ASAP
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with as above
+     REASON FOR THIS EXAMINATION:
+      s/p CABG w/TIA-evaluate carotids ASAP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient preoperative for CABG with prior TIA.
+     
+     FINDINGS: Duplex evaluation was performed of the carotid arteries. Due to the
+     right internal jugular line, we are unable to visualize the internal carotid
+     artery, external carotid artery on the right.
+     
+     On the left, there is minimal plaque. Peak systolic velocities are 88, 115,
+     120 in the ICA, CCA, ECA respectively. This is consistent with less than 40%
+     stenosis.
+     
+     IMPRESSION: Very limited study due to the right internal jugular venous line.
+     There is no evidence of significant left carotid stenosis.
+
+",,
+13625,6961,16956,,2669-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-21**] 4:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1994**]
+     Reason: s/p cabg  ct dcd                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p cabg  ct dcd                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY: CABG and chest tube removal.
+     
+     S/P CABG. There are linear atelectases in both mid and right lower zones and
+     subsegmental atelectasis in the left lower lobe.  CV line overlies right
+     jugular vein.
+
+",,
+13625,6961,16956,,2669-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-22**] 9:24 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1995**]
+     Reason: 69yo man with postop tia's/ clean carotids
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with see above
+     REASON FOR THIS EXAMINATION:
+      69yo man with postop tia's/ clean carotids
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Postop TIA's.  Clean carotids.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images as well as diffusion
+     weighting FLAIR and in susceptibility images were performed through the brain.
+     3D time of flight images of the circle of [**Location (un) **] and its tributaries were also
+     obtained with multiplanar reconstructions.
+     
+     MRI OF THE BRAIN:  On diffusion weighted imaging, there are a few areas of
+     restricted diffusion.  The largest is in the right posterior frontal region.
+     There are three regions within the left cortex, one in the posterior frontal
+     lobe, one in the parietal lobe and a small one in the inferior temporal lobe.
+     The right region corresponds to areas of T2 hyperintensity on T2 and FLAIR
+     imaging.  The punctate areas in the left lobe are difficulty to match up with
+     the T2 and FLAIR imaging but likely have corresponding areas of T2
+     hyperintensity.  There are additional areas of T2 hyperintensity in the
+     periventricular white matter likely related to chronic ischemic changes. There
+     is no intra or extra-axial hemorrhage.  There is no shift of normally midline
+     structures or mass effect.  The ventricles and cisterns are unremarkable. The
+     soft tissues and sinuses are within normal limits.
+     
+     MRA OF THE BRAIN:  In the right internal carotid, there is an area of
+     decreased signal at the junction of the petrous and posterior cavernous
+     portions.  It cannot be determined if this is due to a stenosis or diminutive
+     flow.  No other areas of abnormal flow are noted.  The source data was
+     reviewed.
+     
+     IMPRESSION:  Punctate areas of increased diffusion within both hemispheres.
+     This is consistent with subacute areas of ischemia.  Given the bilateral
+     distribution, likely related to embolic phenomenon.  Chronic small vessel
+     ischemic changes as well.  Decreased signal within the right internal carotid
+     artery as described above.
+     
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-22**] 9:24 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1995**]
+     Reason: 69yo man with postop tia's/ clean carotids
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with see above
+     REASON FOR THIS EXAMINATION:
+      69yo man with postop tia's/ clean carotids
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Postop TIA's.  Clean carotids.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images as well as diffusion
+     weighting FLAIR and in susceptibility images were performed through the brain.
+     3D time of flight images of the circle of [**Location (un) **] and its tributaries were also
+     obtained with multiplanar reconstructions.
+     
+     MRI OF THE BRAIN:  On diffusion weighted imaging, there are a few areas of
+     restricted diffusion.  The largest is in the right posterior frontal region.
+     There are three regions within the left cortex, one in the posterior frontal
+     lobe, one in the parietal lobe and a small one in the inferior temporal lobe.
+     The right region corresponds to areas of T2 hyperintensity on T2 and FLAIR
+     imaging.  The punctate areas in the left lobe are difficulty to match up with
+     the T2 and FLAIR imaging but likely have corresponding areas of T2
+     hyperintensity.  There are additional areas of T2 hyperintensity in the
+     periventricular white matter likely related to chronic ischemic changes. There
+     is no intra or extra-axial hemorrhage.  There is no shift of normally midline
+     structures or mass effect.  The ventricles and cisterns are unremarkable. The
+     soft tissues and sinuses are within normal limits.
+     
+     MRA OF THE BRAIN:  In the right internal carotid, there is an area of
+     decreased signal at the junction of the petrous and posterior cavernous
+     portions.  It cannot be determined if this is due to a stenosis or diminutive
+     flow.  No other areas of abnormal flow are noted.  The source data was
+     reviewed.
+     
+     IMPRESSION:  Punctate areas of increased diffusion within both hemispheres.
+     This is consistent with subacute areas of ischemia.  Given the bilateral
+     distribution, likely related to embolic phenomenon.  Chronic small vessel
+     ischemic changes as well.  Decreased signal within the right internal carotid
+     artery as described above.
+     
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-23**] 1:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1996**]
+     Reason: check placment  of tlc in rt ij
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man s/p cabg
+     REASON FOR THIS EXAMINATION:
+      check placment  of tlc in rt ij
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CABG, check positioning of right internal jugular catheter.
+     
+     COMPARISON:  [**2669-4-21**]
+     
+     SINGLE VIEW CHEST:  A right internal jugular catheter is identified which
+     currently terminates in the expected location of the mid-SVC.  There is no
+     evidence for pneumothorax.  The cardiac and mediastinal contours appear
+     grossly unchanged.  Again noted is atelectasis of the mid and lower lung zones
+     bilaterally.  There is no evidence for failure.  The left costophrenic angle
+     has been cut off from the study.
+     
+     IMPRESSION:  Satisfactory positioning of right internal jugular catheter
+     without evidence for pneumothorax.  Unchanged appearance of bilateral mid and
+     lower lung zone atelectasis.
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,6961,16956,,2669-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ********************************* CPT Codes ********************************
+     * 37205 TRANSCATH PLCT STENTS, INITIAL 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75960 TRANSCATH INTRO STENT         *
+     * 75680 CAROTID/CEREBRAL BILAT         75671 CAROTID/CEREBRAL BILAT        *
+     * 75685 VERT/CAROTID A-GRAM            75710 EXT UNILAT A-GRAM             *
+     * -52 REDUCED SERVICES                                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with ? aneurysm.
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerebral angiogram with intracranial angioplasty.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PREOPERATIVE DIAGNOSIS:  Right intracranial internal carotid artery stenosis.
+     
+     POSTOPERATIVE DIAGNOSIS:  Same, status post stent angioplasty of internal
+     carotid artery stenosis.
+     
+     ANESTHESIA:  Monitored anesthesia care followed by general endotracheal
+     anesthesia.
+   [**Last Name (STitle) **]  INDICATION:  This gentleman is a 69 year old man who underwent a coronary
+     artery bypass procedure by Dr. [**Last Name (Prefixes) 1998**] which was followed by an episode of
+     confusion when the patient's blood pressure dropped below 130 mm Hg.  He
+     underwent an MR angiogram which revealed the presence of a high-grade stenosis
+     in the petrocavernous segment of the internal carotid artery.  He is
+     undergoing this diagnostic angiogram with a possibility of providing
+     revascularization and intracranial stent angioplasty.
+     
+     CONSENT:  The patient was given a full and complete explanation of the
+     procedure including the risk of stroke, coma, death, vessel rupture, vessel
+     injury, as well as other unforeseen complications.  The patient and his family
+     understood and wished to proceed with the operation.
+     
+     PROCEDURE IN DETAIL:  The patient was brought into the Endovascular Suite and
+     placed on the table in supine position.  The right and left groin areas were
+     prepped and draped in the usual sterile fashion.  A 5-French vascular sheath
+     was inserted into the left common femoral artery after administering
+     subcutaneous lidocaine.  This was performed over a wire and the sheath was
+     kept on a heparinized saline flush during the entirety of the procedure.  At
+     this point, a 5-French Berenstein catheter was used to selectively catheterize
+     these vessels in following succession:  right common carotid artery, left
+     subclavian artery, left vertebral artery, left common carotid artery, left
+     internal carotid artery.  The catheter was then withdrawn from the patient. At
+     this point, review of the studies revealed a mild-to-moderate stenosis at the
+     right common carotid artery bifurcation, however, a three-dimensional
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     rotational angiogram clearly delineated a greater-than-90% stenosis of the
+     right internal carotid artery in its high petrous segment at the
+     petrocavernous junction.  This stenosis is followed by a poststenotic
+     dilatation with the caliber of the carotid in that segment approximately 4 to
+     4.5 mm, whereas the caliber at the stenosis is less than .9 mm.  In addition,
+     the internal carotid artery on the right side provides the dominant flow for
+     the anterior cerebral arteries as the right A1 segment is the dominant one
+     providing flow to both distal anterior cerebral arteries.  Consequently, the
+     decision was made to proceed with the treatment of the symptomatic high-grade
+     lesion.  To that end, the patient's activated clotting time was increased to
+     around 250 seconds with administration of additional heparin intravenously and
+     the 5-French vascular sheath was exchanged for a 7-French vascular sheath and
+     a 7-French guide catheter was introduced into the right common carotid artery
+     proximal to the bifurcation over a wire and 5-French catheter.  With the guide
+     catheter in this position, a series of angiographic runs was performed, and
+     once the appropriate position was chosen for performing the procedure, an AVE
+     stent angioplasty catheter of type S7 4 mm x 15 mm was gently guided across
+     the stenosis and deployed under low pressure.  At this point, this resulted in
+     complete resolution of the stenosis which was the target lesion for treatment,
+     however, distally at the petrocavernous junction which was the transition
+     between the poststenotic dilatation and the distal internal carotid artery, a
+     stenosis which previously measured approximately 30% appeared to be somewhat
+     worsened by a tiny dissection flap.  Accordingly, a decision was made to treat
+     this in order to prevent it from progressively worsening and to that end, a
+     3.5 mm x [**Street Address 1999**] S7 stent was navigated across the first stent and across the
+     distal stenosis and inflated again under low pressure.  This resulted in
+     excellent result with tacking of the dissection flap and resolution of the
+     stenosis.  Multiple angiographic runs were performed in various projections to
+     document both the post-stent angioplasty result as well as to ensure the
+     absence of any intracranial distal branch occlusions.
+     
+     RESULTS:  Injection of the right common carotid artery revealed the presence
+     of an approximately 30% stenosis at the proximal right internal carotid
+     artery.  Injection of the left subclavian artery revealed no significant
+     stenosis of the left subclavian artery or of its branches.  The left vertebral
+     artery has somewhat of a tortuous origin, however, there are no stenoses
+     present.  Injection of the right common carotid artery reveals the right
+     internal carotid artery to also have a critical stenosis visualized by 3D
+     angiography to be greater than 85-90% at the petrocavernous junction and an
+     additional distal stenosis of 30% at the proximal cavernous segment.  These
+     two stenoses were treated successfully using deployment of two intracranial
+     stents with resolution of the stenosis.  There were no distal branch
+     occlusions to suggest any embolic events.  Injection of the left common
+     carotid artery revealed minimal changes at the bifurcation but no significant
+     or hemodynamically-significant stenosis.  The left internal carotid artery
+     provides mainly the left middle cerebral artery and has an atretic left A1
+                                                                 (Over)
+
+     DATE: [**2669-4-27**] 7:50 AM
+     [**Location (un) **]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 1997**]
+     Reason: diagnostic cerebral angiogram with intracranial angioplasty.
+      Contrast: OPTIRAY Amt: 460
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     segment.  There are no intracranial aneurysms or arteriovenous malformations.
+     Both the external carotid artery on the right and on the left showed normal
+     anatomy with no evidence of arteriovenous shunting and the injection of the
+     left vertebral artery intracranially shows no evidence of aneurysm or
+     arteriovenous malformation although there is a low tortuosity in the
+     intracranial segment of the vertebral artery.
+     
+     IMPRESSION:  Critical stenosis of the intracranial portion of the right
+     internal carotid artery treated successfully using tandem intracranial stents
+     with good angiographic result and no evidence of distal branch occlusion.
+     
+     
+     
+
+",,
+13625,,,,2669-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2669-10-20**] 9:17 AM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 2000**]
+     Reason: cyanosis  and unable to palpate distal pulses
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with CAd s/p cabg, R carotid stent, DMll, ischemic DCMP ef 25%.
+      Please evaluate for PVD. 
+     REASON FOR THIS EXAMINATION:
+      cyanosis  and unable to palpate distal pulses
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ARTERIAL DUPLEX LOWER EXTREMITY:
+     
+     REASON:  Patient with cyanosis and loss of distal foot pulses.
+     
+     FINDINGS:  Doppler evaluation was performed of both lower extremity arterial
+     systems at rest.
+     
+     On the right Doppler tracings are triphasic at all levels from the femoral to
+     the dorsalis pedis.  The ankle/brachial index is 1.06.  Pulse volume
+     recordings show some drop off at the metatarsal level.
+     
+     On the left Doppler tracings are triphasic at all levels from the femoral to
+     the dorsalis pedis.  The ankle/brachial index is 1.10.  Pulse volume
+     recordings show some drop off at the metatarsal level.
+     
+     IMPRESSION:  Normal triphasic flow from the femoral to the dorsalis pedis
+     arteries.  However based on diminished amplitude of distal pulse volume
+     recordings this may be consistent with poor cardiac function.  Clinical
+     correlation is warranted.
+
+",,
+13625,,,,2670-02-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 2001**]
+     Reason: CLASS 2 ANGINAL SYMPTOMS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy year old male with h/o ischemic dilated cardiomyopathy,  
+     reduced left ventricular ejection fraction of 25%, s/p CABG x [**2669-4-9**].  Now
+     with class 2 anginal symptoms.
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+      
+     Exercise protocol:  Modified [**Doctor First Name 216**].
+     Exercise duration:  6 minutes.   
+     Percent maximum predicted heart rate obtained:  60%.
+     Symptoms during exercise:  none.
+     Reason exercise terminated:  
+     ECG findings:  sinus rhythm with an isolated APB.  Complete RBBB.  At peak
+     exercise there was a 0.5-1.0 mm horizontal ST segment depression in leads V5 and
+     V6 which resolved to baseline by late recovery.  There was an appropriate
+     hemodynamic response to imposed demands in the setting of beta blockade therapy.
+      
+     INTERPRETATION: 
+      
+     Imaging Protocol: gated SPECT.
+      
+     Resting perfusion images were obtained with Tl-201.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+     Exercise images were obtained with Tc-99m sestamibi.
+      
+     Stress images show a slightly increased left ventricular cavity size compared to
+     the resting images.  A medium sized, moderately severe perfusion defect is
+     identified in the inferior and inferolateral walls which demonstrates
+     predominant reversibility on resting perfusion images.
+      
+     Ejection fraction calculated from gated SPECT wall motion images obtained after
+     exercise is 30%, with global hypokinesis.  The calculated left ventricular end
+     diastolic volume is 179 ml.
+      
+     IMPRESSION:  1) Medium sized, moderately severe, predominately reversible
+     perfusion defect involving the inferior extending into inferolateral wall.  2)
+     Reduced left ventricular ejection fraction estimated at 30% with global
+     hypokinesis.  3) Dilated left ventricular cavity with an estimated end diastolic
+     volume of 179 ml. /nkg  
+                                                                           
+
+             [**Name6 (MD) 795**] [**Name8 (MD) 796**], M.D.
+             [**Known patient firstname 149**] [**Last Name (NamePattern1) 150**], M.D.        Approved: [**Doctor First Name 151**] [**2670-2-17**] 10:44 AM
+
+
+             Date Mailed: [**2670-2-18**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13625,7539,16958,0,2670-07-14 21:47:00 EST,2670-07-14 22:08:00 EST,488,"N",1,"Nursing/Other","CCU NPN 1800-2300","
+CCU NPN 1800-2300
+S/O: PT ARRIVED FROM CATH LAB AT 1800.
+
+CV: NO CP SINCE ADMISSION. HR HIGH 40'S-50'S SB/SR WITH NO VEA. BP STABLE. ALL GTTS OFF ON ADMISSION. HEPARIN STARTED AT 2300 WITH NO BOLUS AT 1000U/HR. IABP ON 1:1 WITH GOOD AUGMENTATION AND UNLOADING. GROIN SITE INTACT WITH NO OOZING. PULSES PALP. PA 50'S/TEENS TO LOW 20'S. LABS PND. PA SATS PND. 
+
+RESP: SATS HIGH 90'S ON 4LNP. LUNGS DIMINISHED BILAT.
+
+ID: AFEB, WBC NL.
+
+GI: [**First Name9 (NamePattern2) **] [**Doctor First Name 196**] DIET. BS 143. POS BS.
+
+GU: FOLEY DRAINING CLEAR URINE.
+
+MS: PT A/O, PLEASANT. TEACHING DONE ON MEDS/EXERCISE AND LIFESTYLE MODIFICATION. WIFE [**Name (NI) 1986**] IS STAYING WITH DAUGHTER TONIGHT.
+
+A/P: D/C IABP IN AM. CHECK PTT WITH AM LABS. FOLLOW CK'S, AND LYTES. 
+FOLLOW RIGHT GROIN AND PULSES, SLEEPER TONIGHT.
+",,
+13625,7539,16958,0,2670-07-15 03:24:00 EST,2670-07-15 03:44:00 EST,889,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 2300-0700: CHF","
+CCU NURSING PROGRESS NOTE 2300-0700: CHF
+S-""MAYBE A BACKRUB WOULD HELP.""
+
+SEE CAREVUE FOR VS AND TRENDS IN HEMODYNAMICS
+SEE ICU UPDATE FOR OVERNIGHT EVENTS
+
+O-MS:A/O/X/3.VERY PLEASANT AND COOPERATIVE. C/O INTERMITENT BACK PAIN OVERNIGHT. INTIALLY RELIEVED WITH REPOSITIONING AND BACK RUBS BUT NEEDING PERCOCET. PERCOCET GIVEN WITH GOOD RELIEF. OTHERWISE DENYING OTHER PAIN. 
+CV:HR 40S TO 50S. SB WITH NO NOTED ECTOPY. LYTES WNLS. IABP WITH GOOD UNLOADING AND AUGMENTATION. PADS 20-29. MAPS 80S TO 100S. CO/CI 4.1/1.77 WITH AM COS PENDING. CCU TEAM DECLINING TO TREAT CO AND MAPS AT TIME. PT REMAINING CP FREE AND DENYING SOB THROUGHOUT NIGHT. HEPARIN STARTED AT 11PM AT 1000U/HR FOR IABP PROTECTION WITH AM PTT PENDING. NO HEPARIN PROTOCOL ORDERED. ADJUST PTTS PER CCU TEAM. RIGHT GROIN INTACT WITH NO HEMATOMA OR OOZE AT SITE. PULSES PALPABLE DISTAL. BLES WARM WITH GOOD CSM.
+RESP: LSCTA AND DIM AT BASES. O2SATS 97-99% ON 4LNP. OTHERWISE NO OTHER ISSUES.
+GU/GI:FOLEY DRAINING HEMATURIC URINE WITH RARE SEDIMENT. C/O OF PAIN AT CATHETER SITE WHEN FOLEY MANIPULATED. PROBALE TRAUMA ON INSERTION. CLEARING TO LIGHT YELLOW POST DIURESIS. GIVEN 20MG OF LASIX FOR INCREASING PADS. AT MN (-)390CC AND THIS AM FOR LOS (-)940CCS. ANTICIPATE WILL BE A 1L(-) BY AM. BUN/CR WNLS ALTHOUGH RECV'G MUCOMYST TIMES 4 DOSES D/T HO SOME RENAL INSUFFICENCY. ABD SOFTLY DISTENDED WITH (+) BSS. TAKING POS WELL AND TOLERATING CARDIAC DIET. 
+ENDO: HS FS 143 WITH AM PENDING. TREATING BS ACCORDING TO SLSCL.
+ID: AFEBRILE. NO ISSUES. 
+HCT: HCT AND PLTS STABLE. NO ISSUES. 
+A/P: S/P CATH WITH RE-OCCLUDED GRAFT WITH NO PLANS FOR SURGERY, CATH C/B CV SHOCK AND HYPOTENSION.
+WEAN IABP
+CARDIAC ECHO
+CONTINUE TO MAXIMIZE CARDIAC MEDS
+ 
+",,
+13625,7539,16958,0,2670-07-15 13:56:00 EST,2670-07-15 14:19:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S/P Cardiac cath c/b CHF and hypotension.
+
+S: ""I feel pretty good today.  When will they take the pump out?""
+
+O:  CV: Tele sinus brady with rate in 40's.  House staff aware.  Met XL changed to Lopressor 37.5mg BID. IV Heparin dc'd. IABP with good augmentation and systolic unloading.  Placed on 1:2 CO 5.3 CI 2.2.  IABP dc'd by cardiology fellow at 1145.  Hemostasis acheived at 1245.  R groin is C&D without evidence of hematoma.  Distal pulses are palpable.  Given Lasix 20mg IV. K 3.6 Repleted with 40meq po. 
+
+Resp:  Lungs diminished at the bases.  O2 sat 95-98% on 3l.
+
+GU/GI: Tolerating diet well.  Abd is lg & soft with bowel sounds present.  HCT 38.  Foley draining clear yellow urine. Lasix given as ordered. Creat 1.1 
+
+BS:  Restarted on Glipizide. No coverage with SS. Seen by Endocrine to establish better bld sugar control and pt education.
+
+Rheumatoid:  Seen and evaluated by Rheum for knee pain.  Both knees injected with steroids
+
+Social:  Wife and daughter in to visit updated on plan by MD and nursing staff.
+
+A&P: Hemodynamically stable after IABP dc'd.  Continue with gentle diuresis over next 24hrs. Bedrest until 11pm tonight. Check K later today. To be seen by EP service for possible placement of device. 
+",,
+13625,7539,16958,0,2670-07-16 04:26:00 EST,2670-07-16 04:35:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P PTCA/IABP","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P PTCA/IABP
+
+S- "" THEY SAY I CAN GET UP AND MOVE AROUND MORE THIS EVE""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- VR REMAINS STABLE- HR- 48-58, SR, SB- HELD LOPRESSOR D/T HR- 50. 
+NO CP/NOR ARRYTHMIAS THIS SHIFT.
+RT FEMORAL GROIN SITE DRY/INTACT AS WELL AS (+) PULSES. 
+REMAINS ON BEDREST- MOVING AROUND IN BED ON OWN- 
+LYTES CHECKED- ALL WNL.
+
+RESP- CLEAR LUNGS- RESP RATE- 18-24.
+NO FURTHER DIURESIS THIS SHIFT.
+COMFORTABLE LAYING AT 15 DEGREES.
+
+ID- AFEBRILE
+
+GI-NO ISSUES.
+
+GU- PUTTING OUT URINE 30-50CC HOURLY- FOLEY CATHETER IN PLACE
+
+MS- PT ASKING APPROPRIATE QUESTIONS
+SLEEPING MOST OF SHIFT.
+
+A/P PT HEMODYNAMICALLY STABLE S/P STENT REQUIRING IABP
+TOLERATING IABP WEAN.
+
+CONTINUE TO MONITOR HEMODYNAMICS- ASSSESS HR- NEED FOR LOPRESSOR.
+CONTINUE VALSARTAN AS ORDERED.
+CLOSE ASSESSMENT FOR CHF/NEED FOR FURTHER DIURESIS.
+D/C FOLEY CATH TODAY
+INCREASE ACTIVITY AS TOLERATED.
+SS REG INSULIN COVERAGE
+KEEP PT AWARE OF PLAN OF CARE.
+C/O TO FLOOR TODAY IF REMAINS HEMODYNAMICALLY STABLE.
+ 
+",,
+13625,7539,16958,0,2670-07-16 15:43:00 EST,2670-07-16 16:02:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+O:  CV:  Tele sinus brady 40'-50's. Lopressor dose remains at 25mg BID. BP >100 Valsartan dose increased to 160mg. K 4.5. OOB to chair and ambulating in unit.
+
+Resp:  Lungs CTA.  O2 sat 94-98% on room air.
+
+GU/GI:  Tolerated diet well. Abd is soft with bowel sounds present.  Foley dc'd at 8am voided x's 2 since.  Given Lasix 40mg IV given.
+
+Social:  Wife and daughter in to visit.  Wife spoke with Dr [**Last Name (STitle) **] aware of plan of care and probable discharge home in am.
+
+A&P: Continue to gently diuresis.  Transfer to floor when bed available.  Discharge home in am.
+",,
+13625,,16958,0,2670-07-17 03:31:00 EST,2670-07-17 03:34:00 EST,478,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+S: ""I KNOW I NEED TO LOSE SOME WEIGHT BUT IT IS DIFFIUCLT FOR ME TO EXERCISE BECAUSE OF MY KNEES.""
+O: SEE VS/OBJECTIVE DATA PER CARE VUE.  AFEBRILE, HR 50'S SB WITH NO VEA NOTED. BP 120-130'S, REC'ING LOPRESSOR AND TOLERATING IT WELL. LUNGS CLEAR THROUGHOUT, ON ROOM AIR WITH SAT 96%, REC'D LASIX 40MG AT 4AM, AWAITING DIURESIS. VOIDS VIA URINAL, HAD SM BROWN BM. DISTAL PULSES DOPPLERABLE. SLEPT ON/OFF THROUGH NIGHT. 
+A: STABLE POST CATH/IABP
+P: PREPARE FOR D/C
+",,

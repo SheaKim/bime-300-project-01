@@ -1,0 +1,1152 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36217 SEL CATH 3RD ORDER [**Last Name (un) 7**]       *
+     * -51 MULTI-PROCEDURE SAME DAY         75896  TRANS CATH INFUSSION         *
+     * 75898 F/U TRANS CATH THERAPY         75898 F/U TRANS CATH THERAPY        *
+     * 75898 F/U TRANS CATH THERAPY         75676 CAROTID/CEREBRAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     67 y/o man who was noted to have the onset of an acute stroke between 4 and
+     4:30 P.M.  He was brought to the ER by ambulance and following unenhanced CT
+     scan begun on intravenous TPA by the stroke neurology team.  The patient was
+     unable to cooperate and for his own safety intubated.  The patient was brought
+     for MRI and MRA.  These scans demonstrated a large right middle cerebral
+     territory diffusion deficit. There appeared to be little flow in the right
+     internal carotid when compared to the left. Stroke Neurology consulted
+     Interventional Neuroradiology for possible interventional management of this
+     evolving acute stroke .
+     
+     PROCEDURE:  The risks, benefits, and alternatives to the procedure were
+     explained in detail to the patient's wife and a person representing themselves
+     as very close to the family over the phone as the family had been unable to
+     travel to the hospital. This was done with the aide of the interpreter.  The
+     nature of the patient's possible stroke, difficulty in examining the patient,
+     and risks of interventional therapy were reviewed in detail. The alternative
+     of not approaching via an interventional route were fully discussed in the
+     presence of the stroke neuorlogists.  The family, and family friend, clearly
+     understood and wished us to proceed giving telephone consent.
+     
+     The patient was brought to the Interventional Neuroradiology suite urgently
+     and placed supine on the table.  Using a micropuncture set a 5 FR arterial
+     sheath was placed in the right common femoral artery.  A 5 FR Envoy catheter
+     in conjunction with Teriumo glidewire was used to select the combined origin
+     of the right and left [**Street Address 8**] map imaging demonstrated a bovine
+     origin to the carotid with flow into both the innominate and left carotid
+     system.
+     
+     The catheter was advanced with the aide of the Terumo guide wire into the
+     right common carotid artery.  Arteriographic examination was performed. The
+     camera was centered over the distal common carotid artery through the
+     supraclinoid carotid artery.
+     
+     There is slow flow into an extremely tortuous cervical carotid artery.  The
+     external carotid artery branches fill prior to the internal carotid artery
+     branches. There is moderate stenosis in the supraclinoid carotid artery.
+     
+     The camera is now centered over the head and injection repeated in the right
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     common carotid artery.  This injection demonstrates once again the
+     preferential filling of the external carotid to the internal carotid. There is
+     abrupt cutoff of the superior division of the right middle cerebral artery.
+     There is flow into the right M-1 segment and cutoff of flow as above and to
+     the superior division.  In addition, there is failure to fill the right
+     anterior cerebral territory although there is cross filling of the left
+     anterior cerebral territory.  Thus, angiographically only the inferior
+     division of the right middle cerebral artery was effectively filling in the
+     entire right circulation.
+     
+     Dr. [**Last Name (STitle) 9**] and Dr. [**Last Name (STitle) 10**] of Stroke Neurology were on hand for discussion of
+     continuing management and were available throughout the procedure.  It was
+     felt that given the aggressive nature of this stroke, aggressive management
+     with intra arterial TPA was required in order to give the patient the best
+     chance for a reasonable recovery.
+     
+     A Prowler 10 microcatheter in conjuction with an agility 10 wire was advanced
+     into the superior division of the right middle cerebral artery.  Extensive
+     efforts at mechanical disruption of the clot were performed with both the wire
+     and catheter.  The patient then received 5 units of intra arterial TPA
+     directly through the microcatheter.  Repeat arteriographic assessment was
+     performed after 5 units of intra arterial TPA through the main catheter which
+     was still positioned in the common carotid artery on this right side. It
+     continued to demonstrate failure of flow into the superior division of the
+     MCA.  Again, seen was failure flow into the right sided anterior cerebral
+     segment but as before in order to provide the patient with the best possible
+     outcome attention was specifically directed to the superior division of this
+     right MCA.  Further attempts were made at mechanical disruption of the clot
+     with the aide of the microwire and microcatheter.
+     
+     Hand injected run through the microcatheter demonstrated the distal extent of
+     the clot and the microcatheter was successfully able to pass through.
+     Injection at these points in the superior division of the right middle
+     cerebral artery demonstrated little antegrade flow presumably based on the
+     occlusion proximally.
+     
+     The Envoy catheter was advanced into the right internal carotid artery.  An
+     additional 3 units of intra arterial TPA were administered for a total of 8
+     units of intra arterial TPA and the catheter was manipulated with the aide of
+     the microwire for further mechanical disruption. The microcatheter pulled back
+     and additional 3 units of TPA were administered for a total of 11 units of TPA
+     directly into the clot.
+     
+     Arteriographic assessment was performed centered over the head in AP and
+     lateral projections through the main catheter which was in the right internal
+     carotid artery . This right internal carotid artery injection continued to
+                                                                 (Over)
+
+     DATE: [**2788-4-19**] 9:00 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 6**]
+     Reason: STROKE
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate findings described earlier including dense clot in the superior
+     division of the right middle cerebral artery.
+     
+     The discussion continued to ensue with Dr. [**Last Name (STitle) 9**] and it was decided to give
+     a total of 4 additional units of TPA which was done at the proximal clot for
+     a total of 15U intraarterial TPA.
+     
+     Final arterial assessment was performed through the main catheter in the right
+     internal carotid artery and continued to demonstrate the findings as described
+     earlier with cutoff of the superior division of the MCA and failure to fill
+     the right ACA.
+     
+     The patient tolerated the procedure well and transferred to the Neurointensive
+     Care Unit under the care of the stroke Neurology service. The family was
+     informed again with the aide of the interpreter at the completion of the
+     procedure.  The sheath remains in place and was sutured in position.  The
+     patient tolerated the procedure well and without complication.
+     
+     IMPRESSION:  Slow flow in right internal carotid artery with extensive
+     evidence of cerebral vascular insult including cutoff to the superior division
+     of the right middle cerebral artery and no flow into the A-2 segments on the
+     right side.  Aggressive treatment with intra arterial TPA was attempted as
+     described above.
+     
+
+             DR. [**First Name11 (Name Pattern1) 11**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 12**]
+",,
+13458,19449,,,2788-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2788-4-19**] 6:42 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1**]
+     Reason: left hemiplegia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with stroke, DWI, MRA..thanks
+     REASON FOR THIS EXAMINATION:
+      left hemiplegia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Present symptoms suggest an acute right hemisphere stroke.
+     
+     TECHNIQUE:  Multiplanar T1 and T2W brain imaging was obtained.
+     
+     FINDINGS:  There is a large area of restricted diffusion within the right
+     frontal, insular, temporal and parietal lobes, consistent with an acute area
+     of right middle cerebral artery territorial ischemia of the brain.  There is
+     negligible corresponding elevation of T2 signal, supporting the acuity of this
+     pathologic process.  There are a few punctate foci of high T2 signal within
+     both cerebral hemispheres, likely representing chronic microvascular
+     infarctions.  There is no hydrocephalus or shift of normally midline
+     structures.  No overt areas of extracranial pathology are noted, other than
+     fluid within the [**Last Name (un) 2**]- and oropharynx.  Findings likely are secondary to
+     intubation.
+     
+     CONCLUSION:  Acute right middle cerebral artery territory infarct.
+     
+     MR [**Name13 (STitle) 3**] OF THE CIRCLE OF [**Location (un) 4**] AND ITS TRIBUTARIES:
+     
+     TECHNIQUE:  3D TOF imaging with multiplanar reconstructions.
+     
+     FINDINGS:  There is limited visualization of the Circle of [**Location (un) **] tributaries,
+     probably reflecting reduced stroke volume.  However, there does appear to be
+     considerable asymmetry of flow within the ICAs, with reduced flow seen in the
+     visualized right ICA.  Additionally, there is virtually no flow within the
+     right middle cerebral artery, certainly consistent with the large infarct seen
+     on the conventional MR images.
+     
+     CONCLUSION:  Reduced flow in the right internal carotid artery.  This could
+     reflect the reduced distal middle cerebral atery perfusion, as well as a more
+     proximally situated stenosis.  Follow-up MR angiography of the neck arterial
+     vasculature will help to resolve the issue of more proximally situated
+     stenosis.
+     
+     
+     
+     
+
+",,
+13458,19449,16752,0,2788-04-20 06:24:00 EST,2788-04-20 06:37:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: PT ARRIVED AT 12AM, PT HAD RECIEVED SEDATION/PARALYTIC IN EW/ANGIO. PT AT THIS TIME NON RESPONSIVE, PUPILS 2MM SLUGGISH, NO RESPONSE TO NAILBED PRESSURE/STERNAL RUB. +GAG, POOR  COUGH. PT RECIEVED TPA. NEURO EXAM HAVING NO  CHANGE THIS SHIFT. 5AM REPEAT HEAD CT, LARGE BLEED FOUND,  R EYE DEVIATED TO R. - DOLLS EYES. 
+CV:  TMAX 98.8, HR 100-120'S AFIB, SBP INITIALLY 180-190'S PT STARTED ON LABETALOL, TO KEEP SBP 140-180. 4AM SBP DROPPED TO 110-120'S LABETALOL STOPPED. PT REMAINED LOW 120'S. INITIALLY UNABLE TO PALPATE/DOPPLER R PEDAL/POST TIBIAL. WARMED FEET WITH   BLANKETS  ABLE TO DOPPLER AT THIS TIME. 06 AM PT SBP DROPPED TO LOW 90'S. STARTED ON NEO AT 1.5MCG/KG/MIN WITH EFFECT PRESENTLY 130'S. 
+RESP: LUNGS WITH FINE CRACKLES AT BASES. RECIEVED CXR THIS AM. INTUBATED ON SIMV, NO VENT CHANGES DURING NOC.  
+PLAN: ? DRAIN PLACED, NEPHEW TO SEE PT WIFE ILL UNABLE TO VISIT PT. 
+",,
+13458,19449,16752,0,2788-04-20 17:28:00 EST,2788-04-20 17:40:00 EST,3441,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+neuro- unresponsive, no movement all 4 ext, no withdraw to pain, pupils right 4mm,nr, left initially 2mm/nr. after 2 pm both pupils 5mm/nr. neuro md aware. left ventricular drain placed at bedside at 10 above tragus. icp 7-10. drg blood tinged. started on mannitol 50 gm q6 after initial 100 gm x1 dose. +gag/+corneal reflex. + dolls eyes am. neg. doll's eyes pm-md aware. 
+
+hemodynamics- require neo gtt this am to keep sbp >140. sbp decreasing to 90's pre neo gtt. neo wean to off. require labatolol x2hrs this pm for sbp increase to 180 during drain insert. labatolol weaned off. neo resarted to keep cpp >70 pr md. neo at .5-.75 and cpp 75-90. a. fib hr 110 and up to 140's at times. piv x3, a line x2(left radial and right fem). no ctr line.
+
+misc/other- insulin gtt started for glucose 400. gtt at 2u/hr. ffp x2this pm for inr 1.6. spanish interpreter at bedside with neuro md. plan and pt progonosis discussed. consent for vent drain pr pt's wife and nephew. ? to remeet [**4-21**]. social service involved. 
+",,
+13458,19449,16752,0,2788-04-21 02:44:00 EST,2788-04-21 02:56:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: PT UNRESPONSIVE TO VERBAL STIMULI, UNABLE TO OPEN EYES, R PUPIL 5MM NONREACTIV, L PUPIL 4MM NONREACTIVE, + GAG REFLEX, L FOOT MOVING SPONTANEOUSLY/NONPURPOSEFUL, INITIALLY CORNEAL REFLEX IMPARED AT PRESENT INTACT. WITHDRAWS ALL EXTREMITIES TO NAIL BED PRESSURE. VENT DRAIN 10CM AT THE TRAGUS DRAINING SMALL AMOUNT OF BLOOD TINGED DRG. ICP 2-9, CONTINUES ON NEO TO KEEP CPP >70. PRESENTLY AT 0.5MCG/KG/MIN MANNITOL HELD AT 12 FOR SERUM OSMO 328. 
+CV; TMAX 100.5AX, HR 90-120'S AFIB WITH NO APPARENT ECTOPY, SBP 120-130'S.ATTEMPTING TO WEAN NEO. R FOOT COOLER THAN L. PEDAL PULSE ABSENT, DOPPLERABLE POST-TIBIAL, L FOOT WARM WITH PALPABLE PULSES. CVP 2-5.R FEM ARTERIAL LINE WNL, CORRELATING WITH L RADIAL A LINE. 
+RESP: LUNGS CLEAR DIM AT BASES. O2 SATS 99%, NO VENT CHANGES TONOC. SUCTIONED SEVERAL TIMES FOR THIN YELLOW SECRETIONS.
+GU: U/O 100+ CC Q HR. DIURESED LARGE AMOUNTS SINCE 1X DOSE OF MANNITOL.
+ENDOCRINE: BLOOD SUGAR 174 @2200 CONTINUED ON INSULIN GTT AT 5UHR.@3AM BLOOD SUGAR 63, INSULIN GTT HELD X 1HR. PRESENTLY 146 INSULIN GTT STARTED AT 2U/HR.   
+",,
+13458,19449,16752,0,2788-04-21 16:30:00 EST,2788-04-21 16:42:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO;  PT UNRESPONSIVE ALL SHIFT, DOES NOT OPEN EYES SPONT OR MOVE EXTREMITIES SPONT, VERY SLIGHT FLEXION OF RT ARM TO NAILBED PRESSURE, RT PUPIL LARGER THAN LEFT, BOTH NON -REACTIVE, ICED CALORICS AT BEDSIDE, TAKEN TO CAT SCAN-VERBAL REPORT WORSENING CAT SCAN WITH  HERNIATION, CORNEAL REFLEX ELICITED IN RT PUPIL, NOT IN LEFT, NEG DOLL'S EYES, WEAK GAG REFLEX,VENT DRAIN 10 CM AT TRAGUS, DRAINING APROX 90 CC BLOOD TINGED MATERIAL, ICP 5-10
+PT ON NEO GTT TO KEEP CPP> 70, ABLE TO WEAN NEO OFF, STARTED ON VASOPRESSIN GTT FOR DI, LAST SERUM OSMO 355, SERUM NA 165, BP 150'S, HR 90'S-100'S, A FIB, NOT ABLE TO PALPATE RT PEDAL PULSE BUT DOPPLERABLE, ABLE TO WEAKLY PALPATE OTHER PULSES
+RESPIR;  SUCTIONED FOR SCANT THIN WHITE-PALE YELLOW SECRETIONS, REMAINS ON SIMV MODE, 
+
+ENDOCRINE;  ON INSULIN GTT TITRATED FOR BS  190-150, PRESENTLY INSULIN GTT OFF PER ORDER SICU H.O.
+
+PLAN;  NEUROLOGY AND SICU TEAM AWARE OF CAT SCAN, FAMILY MEMBERS WHICH INCLUDED TWO NEPHEWS AND A STEPSON REQUESTED THAT THE PATIENT BE MADE A DNR WITH COMFORT MEASURES ONLY, SICU RESIDENT WILL ORDER MORPHINE GTT FOR PT COMFORT AND VENT CHANGES, ALL IV GTTS OFF AT PRESENT PER SICU H.O., FAMILY MEMBERS IN, LAST RITES THIS PM GIVEN
+
+",,
+13458,19449,16752,0,2788-04-21 17:36:00 EST,2788-04-21 17:38:00 EST,3229,"N",54,"Nursing/Other",,"
+
+ADDENDUM
+
+PT TEMP SPIKE TO 104.2 TODAY, H.O. INFORMED, TYLENOL GIVEN AND PT PLACED ON COOLING BLANKET, TEMP DOWN, PT NOW DNR AND WILL START MORPHINE GTT
+",,
+13458,19449,16752,0,2788-04-21 17:46:00 EST,2788-04-21 17:49:00 EST,3090,"N",54,"Nursing/Other",,"
+
+PATIENT WENT DOWN TODAY FOR HEAD CT MADE NOW DNR ON MSO4 GTT. VENT PARAMETERS CHANGED TO PSV5/5-.60; PATIENT GENERATING SPT VT 270,RR24,VE 6.7. FEBRILE,PERIODS OF A-FIB WILL CONTINUE TO FOLLOW PATIENT.
+",,
+13458,,16752,0,2788-04-22 04:21:00 EST,2788-04-22 04:38:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a: Full assessment in flow sheet.
+
+PT is DNR/DNI
+
+neuro: Nonresponsive to voice or painful stimuli (nailbed press). Do not open eyes. Pupil nonresponsive. No corneal reflex. No gag reflex, no cough reflex. No movement of extremeties (involuntary or to painful stimuli) - slight withdrawal of right shoulder in begin of shift. Ventricular drain - 10 cm above tragus - blood tinge/bloody drainage. ICP 7-9. HO clamped drained at 0200 - Inc ICP. Extremeties very cold - very weak pulses bilaterally.
+
+cv: Afib 110-170 without ectopy. Cold, dry, no edema. Morphine drip - increase to pt comfort. BP 90-110/56-66. Temp 96.5-99.
+
+resp; Lung sound clear, coarse at bases. ET tube ballon inflated. CPAP 5/5, FiO - 30%, TV700. 
+
+gu/gi: Flat abd, +BS X4, OG - +placement, minimal residual. 
+
+int: Skin intact.
+
+Plan: Comfort measure, Morphine drip titrate.
+ 
+",,
+13458,,16752,0,2788-04-22 14:36:00 EST,2788-04-22 14:46:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO;  UNRESPONSIVE ALL DAY, DOES NOT WITHDRAW EXTREMITIES TO TACTILE STIMULATION, DOES NOT SPONTANEOUSLY OPEN EYES, NO CORNEAL OR GAG REFLEX, PUPILS NON-REACTIVE, VENTRICULAR DRAIN REMOVED BY NEURO RESIDENT THIS AM, AREA SUTURED, SICU AND NEURO TEAM IN AND EVALUATING PATIENT,ALL GTTS OFF EXCEPT MORPHINE, NEPHEW CALLED AND UPDATED EARLIER THIS AM, AGREED WITH MEDICATION FOR COMFORT MEASURES,HR-150'S, AFIB, BP 90'S-70'S, PLACED ON T-PIECE, 02 SATS LOW, COMFORT AND CARE MEASURES APPLIED, FAMILY MEMBERS NOT IN TODAY, PT EXPIRED AT 1435, ATTENDING PCP HERE AND PRONOUNCED PT, DR. [**Last Name (STitle) 4841**] NOTIFIED, SICU ATTENDING AND H.O. INFORMED, MORTUARY CARE PERFORMED, FAMILY DECLINED TO COME IN PER REPORT OF PCP WHO TALKED TO THEM ON THE PHONE. 
+",,

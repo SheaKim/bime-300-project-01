@@ -1,0 +1,1067 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2614-1-6**]              Discharge Date:   [**2614-1-11**]
+ 
+Date of Birth:  [**2545-6-16**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2452**] 
+Chief Complaint:
+Right carotid stenosis
+ 
+Major Surgical or Invasive Procedure:
+right CEA with dacron patch [**2614-1-10**]
+
+ 
+History of Present Illness:
+This 68-year-old gentleman was recently admitted to the hospital 
+with a right ocular stroke.  He had previously had a TIA some 
+months back and had this stroke on antiplatelet agents.  
+Ultrasound showed a 40% stenosis of the
+right carotid artery but an arteriogram showed a large ulcerated 
+plaque at the carotid bifurcation. He is undergoing 
+endarterectomy today.
+
+ 
+Past Medical History:
+1. Hypercholesterolemia 
+2. Hypertension, recently diagnosed, started meds ~2 weeks ago 
+3. Ankylosing spondylitis
+ 
+Social History:
+Lives with his partner. Currently retired, part-time consulting. 
+Quit tobacco 1978, smoked 1 [**2-7**] ppd for 20 yrs prior. Has 1 
+[**Doctor Last Name 9327**] and 1 glass wine with dinner every night. When on 
+vacation drinks more wine. No other drugs.
+
+ 
+Family History:
+Father died of an aneurysm, unknown location, was ""vomiting 
+blood"". Mom with stroke in her 80s. Brother age 61 with some 
+kind of aphasia, neurodegenerative, started 5-6 years ago. Mom's 
+side with CAD/MI. Paternal GF with type I DM. 
+ 
+Physical Exam:
+PE:
+
+AFVSS
+
+NEURO:
+
+PERRL / EOMI
+
+MAE equally
+
+Answers simple commands
+
+Neg pronator drift
+
+Sensation intact to ST
+
+2 plus DTR
+
+Neg Babinski
+
+HEENT:
+
+NCAT 
+
+Neg lesions nares, oral pharnyx, auditory
+
+Supple / FAROM
+
+neg lyphandopathy, supra clavicular nodes
+
+LUNGS: CTA b/l
+
+CARDIAC: RRR without murmers
+
+ABDOMEN: Soft, NTTP, ND, pos BS, neg CVA tenderness
+
+EXT:
+
+rle - palp fem, [**Doctor Last Name **], pt, dp
+
+lle - palp fem, [**Doctor Last Name **], pt, dp
+
+ 
+Pertinent Results:
+[**2614-1-11**] 
+
+WBC-6.7 RBC-3.33* Hgb-10.9* Hct-31.0* MCV-93 MCH-32.9* 
+MCHC-35.3* RDW-13.2 Plt Ct-192
+
+[**2614-1-10**]
+
+PT-12.7 PTT-33.4 INR(PT)-1.1
+
+[**2614-1-11**]
+
+Glucose-117* UreaN-16 Creat-1.0 Na-139 K-4.3 Cl-108 HCO3-25 
+AnGap-10
+
+[**2614-1-11**] 
+
+Calcium-8.9 Phos-3.5 Mg-2.1
+
+[**2614-1-6**] 3:30 PM
+
+CLINICAL INFORMATION: Acute onset of monocular blindness. ? for 
+intra- arterial TPA.
+
+RADIOLOGISTS: Drs. [**Last Name (STitle) 9328**] and [**Name5 (PTitle) 803**], the Attending Radiologist, 
+present and supervising the entire procedure.
+
+TECHNIQUE: Informed consent was obtained from the patient and 
+the patient's family after explaining the risks, indications and 
+alternative management. Risks explained included stroke, loss of 
+vision and speech, temporary or permanent, with possible 
+treatment with stent and coils if needed. 
+
+The patient was brought to the Interventional Neuroradiology 
+Theater and placed on the biplane table in supine position. Both 
+groins were prepped and draped in the usual sterile fashion. 
+Access to the right common femoral artery was obtained using a 
+19-gauge single wall needle, under local anesthesia using 1% 
+lidocaine mixed with sodium bicarbonate and with aseptic 
+precautions. Through the needle, a 0.35 [**Last Name (un) 5606**] wire was 
+introduced and the needle taken out. Over the wire, a 5 Fr 
+vascular sheath was placed and connected to a saline infusion 
+(mixed with heparin 500 units in 500 cc of saline) with a 
+continuous drip. Through the sheath, a 4 Fr Berenstein catheter 
+was introduced and connected to continuous saline infusion (with 
+mixture of 1000 units of heparin in 1000 cc of saline). 
+The following blood vessel was selectively catheterized and 
+angiograms were obtained in AP, lateral, and 3-D projections:
+-Right common carotid artery
+
+FINDINGS: Evaluation of the right CCA, ECA, and ICA demonstrate 
+no evidence of aneurysm, vascular malformation, or vascular 
+occlusion. However, there is luminal irregularity at the 
+proximal segment of the cervical CCA, leading to an 
+approximately 40% of stenosis.
+
+CONCLUSION: Luminal irregularity, likely to indicate 
+atherosclerotic disease, at the proximal segment of the right 
+common carotid artery, suggestive of mild stenosis. No other 
+abnormality is identified.
+The opthalmic artery appears patent. 
+
+[**2614-1-6**] 1:55 PM
+
+CT HEAD
+
+CLINICAL INFORMATION: Acute loss of vision in right eye. ? 
+bleed.
+
+FINDINGS: There are several tiny, well-defined hypodense lesions 
+in the periventricular white matter of both cerebral hemispheres 
+and the head of the left caudate nucleus (series 2, image 15). 
+They are likely representative of chronic lacunar infarcts.
+
+[**Doctor Last Name **]-white matter differentiation is otherwise preserved. No 
+intracranial mass or mass effect is evident. No intra-axial or 
+extra-axial fluid collections or hematoma is seen. No 
+displacement of normally midline structures is evident.
+
+CONCLUSION:
+1. Chronic lacunar infarcts in the periventricular white matter 
+of both cerebral hemispheres and the head of the left caudate 
+nucleus.
+2. No intracranial hematoma.
+3. No CT features of acute major vascular territorial infarct, 
+although a head MRI with DWI images is a more sensitive study to 
+detect acute cerebral ischemic changes.
+
+CHEST (PRE-OP PA & LAT)  [**2614-1-9**] 6:18 PM
+
+PA AND LATERAL VIEWS OF THE CHEST: The heart is normal in size. 
+The mediastinal and hilar contours are normal. There is 
+calcification of the aortic knob. The pulmonary vascularity is 
+normal. The lungs are clear. There are no focal consolidations, 
+pleural effusions, or pneumothorax demonstrated. The osseous 
+structures are unremarkable.
+
+IMPRESSION: No acute cardiopulmonary abnormality
+
+Cardiology Report ECG Study 
+ 
+  
+Sinus rhythm. 
+Consider left atrial abnormality 
+Prominent precordial lead QRS voltage - is nonspecific but 
+consider left 
+ventricular hypertrophy
+ 
+Since previous tracing of [**2613-3-31**], probably no significant 
+change 
+  
+Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+69 152 100 398/416.71 66 48 65 
+ 
+  
+
+ 
+Brief Hospital Course:
+pt admitted on [**2615-1-6**]
+
+Stroke code initiated
+
+Stat opthamology consult obtained for acute painless vision 
+loss.
+
+Pt in ICU
+
+Heparin stared / NPO
+
+[**2615-1-7**]
+
+Vascular surgery consulted.
+
+Plaque found right carotid artery. Pt to be taken to the OR.
+
+Pt pre-op'd in the usual fashion.
+
+Head CT negative
+
+[**2614-1-8**]
+
+Pt stable  
+
+Heparin drip continued / BP control
+
+[**2614-1-9**]
+
+Stable
+
+[**2614-1-10**]
+
+Pt undergoes a Right carotid endarterectomy and Dacron patch 
+angioplasty. He tolerates the p[rocedure well. There are no 
+complications. Extubated in the OR. Transfered to the PACU in 
+stable condition.
+
+Once recovered from anesthesia. Pt Transfered to the VICU in 
+stable condition.
+
+[**2614-1-11**]
+
+Pt delined / ADAT / Heplocked IV
+
+Lytes replenished
+
+Pt stable for DC
+
+Taking PO / ambulatiing / urinating / pos bm
+
+ 
+Medications on Admission:
+ASA 81', 
+aggrenox 25/200"", 
+lipitor 20', 
+protonix 40', 
+norvasc 30', 
+fish oil 
+ 
+Discharge Medications:
+1. Lipitor 40 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed.  
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+4. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 HR 
+Sig: One (1) Cap PO BID (2 times a day).  
+5. Univasc 15 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Carotid Stenosis. TIA
+history of HTn
+history of hyperlipdemia
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOLLOWING CAROTID ENDARTERECTOMY
+
+.
+
+This information is designed as a guideline to assist [**Doctor First Name **] in a 
+speedy recovery from your surgery. Please follow these 
+guidelines unless your physician has specifically instructed [**Doctor First Name **] 
+otherwise. Please call our office nurse if [**Doctor First Name **] have any 
+questions. Dial 911 if [**Doctor First Name **] have any medical emergency.
+
+.
+
+ACTIVITY:
+
+.
+
+There are no specific restrictions on activity. Gradually 
+increase your level of activity back to normal depending upon 
+the way [**Doctor First Name **] feel. Fatigue is expected for the first several 
+weeks. Resume driving when [**Doctor First Name **] are able to comfortably move your 
+head without pain or stiffness. 
+
+.
+
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS: 
+
+.
+
+Weakness, numbness, tingling involving your arm, leg or face .
+
+.
+
+Loss of vision .
+
+.
+
+Difficulty speaking .
+
+.
+
+Severe headache (mild headache is common) .
+
+.
+
+Increasing swelling, pain, drainage or redness of the neck 
+wound,
+
+.
+
+Watch for signs and symptoms of infection. These are: a fever 
+greater than 101 degrees, chills, increased redness, or pus 
+draining from the incision site. If [**Doctor First Name **] experience any of these 
+or bleeding at the incision site, CALL THE DOCTOR.
+
+. 
+
+Exercise:
+
+.
+
+Limit strenuous activity for 2 weeks. 
+
+.
+
+No driving untill cleared by your surgeon. He should be able to 
+clear [**Doctor First Name **] to drive when [**Doctor First Name **] are able to comfortably move your 
+head without pain or stiffness . If [**Doctor First Name **] can do this before your 
+appointment with the doctor, call and ask him if [**Doctor First Name **] can drive.
+
+No heavy lifting greater than 20 pounds for the next 7 days. 
+
+.
+
+Avoid excessive turning of the head, nodding of the head for the 
+next 7 days. 
+
+.
+
+BATHING/SHOWERING:
+
+. 
+
+[**Doctor First Name 54**] may bathe or shower immediately upon coming home. Do not put 
+your neck / head into the water. A clear dressing will cover 
+your neck incision and this should be left in place for three 
+(3) days. Remove it after this time and wash your incision 
+gently with soap and water. Dissolving sutures, which do not 
+have to be removed, were used. Shaving is permitted when the 
+dressing is removed.
+
+. 
+
+WOUND CARE:
+
+.
+
+Suture / Staples may be removed before discharge. If they are 
+not, an appointment will be made for [**Doctor First Name **] to return for removal. 
+
+.
+
+When the sutures / staples are removed the doctor may or may not 
+place pieces of tape called steri-strips over the incision. 
+These will stay on about a week and [**Doctor First Name **] may shower with them on. 
+If these do not fall off after 10 days, [**Doctor First Name **] may peel them off 
+with warm water and soap in the shower. 
+
+.
+
+Avoid taking a tub bath, swimming, or soaking in a hot tub for 
+two weeks after surgery. 
+
+.
+
+MEDICATIONS:
+
+.
+
+[**Doctor First Name 54**] may resume taking medication [**Doctor First Name **] were on prior to your 
+surgery unless specifically instructed otherwise by your 
+physician [**Name9 (PRE) 54**] will be given a new prescription for pain 
+medication, which should be taken every three (3) to four (4) 
+hours only if necessary.
+
+. 
+
+Remember that narcotic pain meds can be constipating and [**Doctor First Name **] 
+should increase the fluid and bulk foods in your diet. (Check 
+with your physician if [**Doctor First Name **] have fluid restrictions.) If [**Doctor First Name **] feel 
+that [**Doctor First Name **] are constipated, do not strain at the toilet. [**Doctor First Name 54**] may 
+use over the counter Metamucil or Milk of Magnesia. Appetite 
+suppression may occur; this will improve with time. Eat small 
+balanced meals throughout the day.
+
+.
+
+CAUTIONS:
+
+.
+
+NO SMOKING! We know you've heard this before, but it really is 
+an important step to your recovery. Smoking causes narrowing of 
+your blood vessels which in turn decreases circulation. If [**Doctor First Name **] 
+smoke [**Doctor First Name **] will need to stop as soon as possible. Ask your nurse 
+or doctor for information on smoking cessation.
+
+.
+
+No strenuous activity for 4-6 weeks after surgery. 
+
+.
+
+DIET:
+
+.
+
+There are no special restrictions on your diet postoperatively. 
+Poor appetite is expected for several weeks and small, frequent 
+meals may be preferred. 
+
+.
+
+For people with vascular problems we would recommend a 
+cholesterol lowering diet: Follow a diet low in total fat and 
+low in saturated fat and in cholesterol to improve lipid profile 
+in your blood. Additionally, some people see a reduction in 
+serum cholesterol by reducing dietary cholesterol. Since a 
+reduction in dietary cholesterol is not harmful, we suggest that 
+most people reduce dietary fat, saturated fat and cholesterol to 
+decrease total cholesterol and LDL (Low Density Lipoprotein-the 
+bad cholesterol). Exercise will increase your HDL (High Density 
+Lipoprotein-the good cholesterol) and with your doctor's 
+permission, is typically recommended.. [**Doctor First Name 54**] may be self-referred 
+or get a referral from your doctor.
+
+. 
+
+If [**Doctor First Name **] are overweight, [**Doctor First Name **] need to think about starting a weight 
+management program. Your health and its improvement depend on 
+it. We know that making changes in your lifestyle will not be 
+easy, and it will require a whole new set of habits and a new 
+attitude.. If interested [**Doctor First Name **] can may be self-referred or can get 
+a referral from your doctor. 
+
+.
+
+If [**Doctor First Name **] have diabetes and would like additional guidance, [**Doctor First Name **] may 
+request a referral from your doctor.
+
+.
+
+FOLLOW-UP APPOINTMENT:
+
+.
+
+Be sure to keep your medical appointments. The key to your 
+improving health will be to keep a tight reign on any of the 
+chronic medical conditions that [**Doctor First Name **] have. Things like high blood 
+pressure, diabetes, and high cholesterol are major villains to 
+the blood vessels. Don't let them go untreated!
+
+. 
+
+Please call the office on the first working day after your 
+discharge from the hospital to schedule a follow-up visit. This 
+should be scheduled on the calendar for seven to fourteen days 
+after discharge. Normal office hours are 8:30-5:30 Monday 
+through Friday.
+
+.
+
+PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR 
+QUESTIONS THAT MIGHT ARISE 
+
+ 
+Followup Instructions:
+2 weeks Dr. [**Last Name (STitle) 1437**]. callfor appointment. [**Telephone/Fax (1) 1741**]
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD [**MD Number 2453**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 241**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4893**] [**MD Number 4894**] [**2614-3-28**] @ 1122
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 123**] [**2614-4-7**] 8:16 AM
+(End of Report)
+
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 2:23 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 1405**]
+     Reason: LEFT VISUAL LOSS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with left visual loss (monocular)                               
+     REASON FOR THIS EXAMINATION:
+      r/o left carotid stenosis                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDIES:  Carotid series complete.
+     
+     REASON:  Left TIA visual loss.
+     
+     FINDINGS:  Duplex evaluation was performed of both carotid arteries.  On the
+     right, although there is not significant elevation of velocities, there is a
+     fairly extensive plaque on Grayscale that extends proximally in the common
+     carotid artery.
+     
+     On the right, peak systolic velocities are 101, 102, 129 in the ICA, CCA, and
+     ECA respectively.  The ICA to CCA ratio is 1.  This is consistent with less
+     than 40% stenosis.
+     
+     On the left, peak systolic velocities are 80, 126, 126 in ICA, CCA, ECA
+     respectively.  The ICA to CCA ratio is 0.6.  This is consistent with less than
+     40% stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:  Bilateral less than 40% carotid stenosis.  Of note, on the right
+     side, there appears to be extensive plaque from a Grayscale perspective but
+     there are no elevation of velocities.  In addition, this appears to be located
+     in the common carotid artery.
+                                                                           
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             75676 CAROTID/CERVICAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT        C1769 GUID WIRES INFU/PERF          *
+     * C1892 INT/SHTH EP FXD CURVE/PEEL AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with acute onset monoocular blindness                           
+     REASON FOR THIS EXAMINATION:
+      IA TPA                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM
+     
+     CLINICAL INFORMATION:  Acute onset of monocular blindness.  ? for intra-
+     arterial TPA.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 1407**] and [**Name5 (PTitle) 731**], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     TECHNIQUE:  Informed consent was obtained from the patient and the patient's
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 528**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     The following blood vessel was selectively catheterized and angiograms were
+     obtained in AP, lateral, and 3-D projections:
+     -Right common carotid artery
+     
+     FINDINGS:  Evaluation of the right CCA, ECA, and ICA demonstrate no evidence
+     of aneurysm, vascular malformation, or vascular occlusion.  However, there is
+     luminal irregularity at the proximal segment of the cervical CCA, leading to
+     an approximately 40% of stenosis.
+     
+     CONCLUSION: Luminal irregularity, likely to indicate atherosclerotic disease,
+     at the proximal segment of the right common carotid artery, suggestive of mild
+     stenosis.  No other abnormality is identified.
+     The opthalmic artery appears patent. The patient symptoms improved. Upon
+     extensive discussion with the Neurology it was decided not to perform any
+                                                                 (Over)
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     intervention at this time.
+     
+     
+     
+     
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             75676 CAROTID/CERVICAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT        C1769 GUID WIRES INFU/PERF          *
+     * C1892 INT/SHTH EP FXD CURVE/PEEL AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with acute onset monoocular blindness                           
+     REASON FOR THIS EXAMINATION:
+      IA TPA                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM
+     
+     CLINICAL INFORMATION:  Acute onset of monocular blindness.  ? for intra-
+     arterial TPA.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 1407**] and [**Name5 (PTitle) 731**], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     TECHNIQUE:  Informed consent was obtained from the patient and the patient's
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 528**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     The following blood vessel was selectively catheterized and angiograms were
+     obtained in AP, lateral, and 3-D projections:
+     -Right common carotid artery
+     
+     FINDINGS:  Evaluation of the right CCA, ECA, and ICA demonstrate no evidence
+     of aneurysm, vascular malformation, or vascular occlusion.  However, there is
+     luminal irregularity at the proximal segment of the cervical CCA, leading to
+     an approximately 40% of stenosis.
+     
+     CONCLUSION: Luminal irregularity, likely to indicate atherosclerotic disease,
+     at the proximal segment of the right common carotid artery, suggestive of mild
+     stenosis.  No other abnormality is identified.
+     The opthalmic artery appears patent. The patient symptoms improved. Upon
+     extensive discussion with the Neurology it was decided not to perform any
+                                                                 (Over)
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     intervention at this time.
+     
+     
+     
+     
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             75676 CAROTID/CERVICAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT        C1769 GUID WIRES INFU/PERF          *
+     * C1892 INT/SHTH EP FXD CURVE/PEEL AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with acute onset monoocular blindness                           
+     REASON FOR THIS EXAMINATION:
+      IA TPA                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM
+     
+     CLINICAL INFORMATION:  Acute onset of monocular blindness.  ? for intra-
+     arterial TPA.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 1407**] and [**Name5 (PTitle) 731**], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     TECHNIQUE:  Informed consent was obtained from the patient and the patient's
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 528**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     The following blood vessel was selectively catheterized and angiograms were
+     obtained in AP, lateral, and 3-D projections:
+     -Right common carotid artery
+     
+     FINDINGS:  Evaluation of the right CCA, ECA, and ICA demonstrate no evidence
+     of aneurysm, vascular malformation, or vascular occlusion.  However, there is
+     luminal irregularity at the proximal segment of the cervical CCA, leading to
+     an approximately 40% of stenosis.
+     
+     CONCLUSION: Luminal irregularity, likely to indicate atherosclerotic disease,
+     at the proximal segment of the right common carotid artery, suggestive of mild
+     stenosis.  No other abnormality is identified.
+     The opthalmic artery appears patent. The patient symptoms improved. Upon
+     extensive discussion with the Neurology it was decided not to perform any
+                                                                 (Over)
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     intervention at this time.
+     
+     
+     
+     
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             75676 CAROTID/CERVICAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT        C1769 GUID WIRES INFU/PERF          *
+     * C1892 INT/SHTH EP FXD CURVE/PEEL AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with acute onset monoocular blindness                           
+     REASON FOR THIS EXAMINATION:
+      IA TPA                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM
+     
+     CLINICAL INFORMATION:  Acute onset of monocular blindness.  ? for intra-
+     arterial TPA.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 1407**] and [**Name5 (PTitle) 731**], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     TECHNIQUE:  Informed consent was obtained from the patient and the patient's
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 528**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     The following blood vessel was selectively catheterized and angiograms were
+     obtained in AP, lateral, and 3-D projections:
+     -Right common carotid artery
+     
+     FINDINGS:  Evaluation of the right CCA, ECA, and ICA demonstrate no evidence
+     of aneurysm, vascular malformation, or vascular occlusion.  However, there is
+     luminal irregularity at the proximal segment of the cervical CCA, leading to
+     an approximately 40% of stenosis.
+     
+     CONCLUSION: Luminal irregularity, likely to indicate atherosclerotic disease,
+     at the proximal segment of the right common carotid artery, suggestive of mild
+     stenosis.  No other abnormality is identified.
+     The opthalmic artery appears patent. The patient symptoms improved. Upon
+     extensive discussion with the Neurology it was decided not to perform any
+                                                                 (Over)
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     intervention at this time.
+     
+     
+     
+     
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36216 SEL CATH 2ND ORDER             75676 CAROTID/CERVICAL UNILAT       *
+     * 75665 CAROTID/CEREBRAL UNILAT        C1769 GUID WIRES INFU/PERF          *
+     * C1892 INT/SHTH EP FXD CURVE/PEEL AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with acute onset monoocular blindness                           
+     REASON FOR THIS EXAMINATION:
+      IA TPA                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM
+     
+     CLINICAL INFORMATION:  Acute onset of monocular blindness.  ? for intra-
+     arterial TPA.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 1407**] and [**Name5 (PTitle) 731**], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     TECHNIQUE:  Informed consent was obtained from the patient and the patient's
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 528**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     The following blood vessel was selectively catheterized and angiograms were
+     obtained in AP, lateral, and 3-D projections:
+     -Right common carotid artery
+     
+     FINDINGS:  Evaluation of the right CCA, ECA, and ICA demonstrate no evidence
+     of aneurysm, vascular malformation, or vascular occlusion.  However, there is
+     luminal irregularity at the proximal segment of the cervical CCA, leading to
+     an approximately 40% of stenosis.
+     
+     CONCLUSION: Luminal irregularity, likely to indicate atherosclerotic disease,
+     at the proximal segment of the right common carotid artery, suggestive of mild
+     stenosis.  No other abnormality is identified.
+     The opthalmic artery appears patent. The patient symptoms improved. Upon
+     extensive discussion with the Neurology it was decided not to perform any
+                                                                 (Over)
+
+     DATE: [**2614-1-6**] 3:30 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 1406**]
+     Reason: IA TPA                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     intervention at this time.
+     
+     
+     
+     
+
+",,
+13585,20050,,,2614-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-6**] 1:55 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1403**]
+     Reason: please eval for bleed acute stroke                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with acute loss of vision in right [**Hospital Unit Name 212**]                          
+     REASON FOR THIS EXAMINATION:
+      please eval for bleed acute stroke                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 1404**] [**Doctor First Name 151**] [**2614-1-6**] 2:38 PM
+      Prior MR study not available for comparison.  Using prior report, probable
+      redemonstration of chronic lacunar infarcts in both cerebral hemispheres.
+      
+      CANNOT R/O ACUTE BRAIN ISCHEMIA without MRI.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT HEAD
+     
+     CLINICAL INFORMATION:  Acute loss of vision in right [**Hospital Unit Name 212**].  ? bleed.
+     
+     TECHNIQUE:  Noncontrast axial head CT.
+     
+     FINDINGS:  There are several tiny, well-defined hypodense lesions in the
+     periventricular white matter of both cerebral hemispheres and the head of the
+     left caudate nucleus (series 2, image 15).  They are likely  representative of
+     chronic lacunar infarcts.
+     
+     [**Doctor Last Name **]-white matter differentiation is otherwise preserved.  No intracranial
+     mass or mass effect is evident.  No intra-axial or extra-axial fluid
+     collections or hematoma is seen.  No displacement of normally midline
+     structures is evident.
+     
+     CONCLUSION:
+     1.  Chronic lacunar infarcts in the periventricular white matter of both
+     cerebral hemispheres and the head of the left caudate nucleus.
+     2.  No intracranial hematoma.
+     3.  No CT features of acute major vascular territorial infarct, although a
+     head MRI with DWI images is a more sensitive study to detect acute cerebral
+     ischemic changes.
+     
+
+",,
+13585,20050,,,2614-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-1-9**] 6:18 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 1408**]
+     Reason: STROKE;TELEMETRY;TRANSIENT ISCHEMIC ATTACK;TELEMETRY
+     Admitting Diagnosis: STROKE;TELEMETRY;TRANSIENT ISCHEMIC ATTACK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with right opthalmic artery infarct, for CEA tomorrow           
+     REASON FOR THIS EXAMINATION:
+      Eval for infiltrates, effusions                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right ophthalmic artery infarct, preop for carotid endarterectomy.
+     
+     COMPARISON:  Report from chest CT from [**2612-5-22**].  Images are not available for
+     immediate comparison.
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  The heart is normal in size.  The
+     mediastinal and hilar contours are normal.  There is calcification of the
+     aortic knob.  The pulmonary vascularity is normal.  The lungs are clear. There
+     are no focal consolidations, pleural effusions, or pneumothorax demonstrated.
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:  No acute cardiopulmonary abnormality.
+                                                                           DFDdp
+
+",,
+13585,20050,16907,0,2614-01-10 15:44:00 EST,2614-01-10 15:53:00 EST,2511,"N",54,"Nursing/Other",,"
+
+s/p right cea.
+
+neuro:  arrived a&o x3.  pearl but sluggish.  mae, normal strength.  mso4 prn pain.  turns s->s w/supervision.
+
+cardiac:  sb->nsr hr 45-60.  no vea.  arrived on neo->weaned to off.  right neck dsg intact w/scant amt ss drainage.  +rp/pp bilat.  mgso4 repleated & kcl added to ivf.
+
+resp:  lungs clear.  sat's>95% on 2l nc.  cdb & using is effectively.
+
+gi/gu:  +bs.  tolerating clears w/o difficulty.  voided x3 125cc, 25cc &25cc.  able to palpate bladder.  team aware.  no order for foley at this time.  
+
+endo:  fs 96.
+
+social:  s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] at bedside.
+
+plan:  pain management.  neuro checks.  monitor vs, i&o, incision.  ?foley.
+",,
+13585,,16907,0,2614-01-11 03:49:00 EST,2614-01-11 04:04:00 EST,6845,"N",54,"Nursing/Other",,"
+
+NURSING NOTE 11P-7A:
+
+SEE CAREVUE FLOWSHEET FOR FULL ASSESSMENT DETAILS AND LABS.
+
+NEURO:  PT ALERT, ORIENTED X 3.  MAE.  PUPILS EQUAL/REACTIVE BILAT.  PT FOLLOW COMMANDS.  PT C/O INCISIONAL PAIN RECEIVING PERCOCET 2 TABS Q 4 HOURS WITH RELIEF.
+
+CV:  TMAX 99.1 (ORAL).  HR 55-80 SB-SR NO ECTOPY.  SBP DROPPED TO 93-97 WHILE SLEEPING, PHENYLEPHRINE GTT STARTED @ 0.5 MCG/KG/MIN.  SBP CURRENTLY 105-120 (GOAL SBP 100-160).  - EDEMA + PERIPHERAL PULSES. PT DENIES CHEST PAIN, SOB, DIZZINESS AT THIS TIME.
+
+PULM:  PT REMAINS ON RA.  LUNGS CTA BILAT.  SATS 97-100%.
+
+GI/GU:  ABD SOFT, NONTENDER HYPOACTIVE BOWEL SOUNDS.  PT TOLERATING CLEAR LIQUIDS WITHOUT ANY DIFFICULTY.  PT DENIES N/V.  - BM OVERNIGHT.  PT VOIDING SMALL AMOUNTS OF AMBER/CLEAR URINE IN URINAL.  
+
+SKIN:  R NECK INCISION WITH DSD NO DRAINAGE NOTED, NO HEMATOMA AT INCISIONAL SITE OBSERVED.
+
+PLAN:  WEAN PHENYLEPHRINE TO KEEP 100<SBP<160, FOLLOW LABS, POSSIBLE D/C IN AM  WILL CONT TO MONITOR.  
+
+ 
+",,
+13585,,16907,0,2614-01-11 11:52:00 EST,2614-01-11 11:53:00 EST,6870,"N",54,"Nursing/Other",,"
+
+MP NSR no ectopy noted, lungs clear, RA SPO2 > 92%, +BS, no BM, appetite good, delined, D/C instructions given and reviewed with pt and SO, pt discharged at 1115
+",,
+13585,,,,2614-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2614-7-14**] 5:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1409**]
+     Reason: Patient with high fever and NP cough recently arrived from t
+     ICD9 code from order: 780.6
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with fever
+     REASON FOR THIS EXAMINATION:
+      Patient with high fever and NP cough recently arrived from trip to Mideast.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  High fever and cough.
+     
+     CHEST, PA AND LATERAL:  The heart and mediastinum are normal.  Increased
+     densities are seen in the lingular segment and a lingular infiltrate is
+     probably present.
+     
+     IMPRESSION:  Probable lingular pneumonia.
+                                                                           
+
+",,

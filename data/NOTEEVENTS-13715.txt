@@ -1,0 +1,1351 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13715,3022,,,2696-04-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2696-4-11**]     Discharge Date:  [**2696-4-27**]
+
+Date of Birth:   [**2616-12-5**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 79-year-old male
+with history of hypertension transferred to the Coronary Care
+Unit following respiratory failure and hypercapnia on the
+floor requiring intubation.  History from spouse since the
+patient is intubated and sedated reports approximately 1-1.5
+weeks ago the patient started to complain of a cold (with
+productive cough, increased shortness of breath, and dyspnea
+on exertion).  Called the PCP who started Zithromax for
+presumed community acquired pneumonia, no chest x-ray, no
+culture, or data.
+
+The patient's symptoms increased to the point where he is not
+able to [**Doctor Last Name 292**] secondary to shortness of breath.  No chest
+pain, no palpitations, no weight changes, or lower extremity
+edema.  Wife reports increased dyspnea on exertion.  He could
+not walk in the room without becoming extremely short of
+breath, fatigue, and decided the morning of admission to go
+to the Emergency Department.  In the Emergency Department,
+the patient was found to be nonresponsive.  Arterial blood
+gas showed 7.14, 72, 109 on CPAP.  Laboratories showed a BMP
+of 690, normal less than 150 with a chest x-ray showing
+bilateral pulmonary edema.  The patient was started on CPAP
+and diuresed with Lasix.  His symptoms improved and the
+patient was transferred to [**Hospital3 **] for further care.
+
+Upon arrival to the floor, he was found to be lethargic with
+decreased responsiveness.  Arterial blood gas showed 7.10,
+96, and 41.  The patient was intubated and transferred to the
+CCU.
+
+PAST MEDICAL HISTORY:
+1. Hypertension.
+2. Hyperlipidemia.
+3. Osteomyelitis at age 14.
+
+ALLERGIES:  He has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1. Timolol 10 mg bid.
+2. Norvasc 5 mg po q day.
+3. Lipitor 10 mg q day.
+4. Zithromax for two days.
+
+SOCIAL HISTORY:  Rectal cancer and coronary artery disease.
+Smoker quit 30 years ago, approximately 60 pack years.
+Patient no alcohol use.  Lives at home with wife, two
+children in area.
+
+PHYSICAL EXAM ON ADMISSION:  He was sedated and intubated, no
+jugular venous distention, no lymphadenopathy.  Oropharynx is
+clear.  Mucous membranes moist.  Cardiovascular:
+Tachycardic, III/VI systolic murmur radiating to both
+carotids.  PMI increased, but not to place, soft S2.
+Pulmonary:  Unable to properly assess.  Abdomen is soft,
+nontender, nondistended, bowel sounds positive.  Extremities:
+ No clubbing, cyanosis, or edema.
+
+LABORATORIES:  White blood cell count 13.3, hematocrit 39.1,
+platelets 267, INR of 1.2.  Urine is positive for blood.
+Chem-7:  Sodium 141, potassium 3.8, chloride 104, CO2 25, BUN
+18, creatinine of 1, platelets of 292, magnesium of 1.6, PO4
+is 6.2, calcium 8.7.  AST 88, ALT of 44, LDH 231, alkaline
+phosphatase 109.  T bilirubin of 0.7, lactate of 1.6.  CK 86
+increased to 102, troponin 3.3, MB index of 9.8.
+
+Electrocardiogram showed a sinus rhythm, normal axis, left
+ventricular hypertrophy, left atrial abnormality, ST changes
+in precordial leads, ST depressions in V5 and V6, ST
+elevations, normal intervals.  More pronounced when
+tachycardic.
+
+A transthoracic echocardiogram for this patient showed severe
+aortic stenosis with approximate valve area of 0.7.  This was
+followed by a cardiac catheterization on [**2696-4-13**] and found
+to have a pulmonary capillary wedge of 14 with severe aortic
+stenosis, mean gradient of 65 mm and a valve area of 0.54.
+He also had diffuse coronary artery disease with 20% left
+main, a 60% left anterior descending artery, a mid and
+proximal circumflex lesion of approximately 30%, right
+coronary artery of mid 40% and 100% distal right coronary
+artery.
+
+The patient did rule in for myocardial infarction.  CT Surgery
+was consulted to assess for aortic valve replacement and CABG. CT
+Surgery agreed that aortic valve replacement/CABG  was indicated
+in this patient.
+Preoperative evaluation revealed a 90-100% stenosis of the
+right coronary artery. In view of the heavily calcified aorta and
+therefore the need for circulatory arrest during surgery it was
+felt that the risk of stroke was high and would require carotid
+intervention prior to that. After careful review of the options
+carotid stenting was recommended. This was successfully performed
+on [**4-16**]. He was then put on aspirin and Plavix with
+plans to wait two weeks for the surgery while controlling the
+patient's heart failure on the floor.  Patient was extubated
+and did well in the CCU.  He was transferred to the PCU
+subsequently.
+While in the PCU the patient had a recurrent episode of pulmonary
+edema requiring transfer back to the CCU as well as reintubation
+He also developed hemoptysis which was evaluated and felt to be
+predominantly related to his CHF.An IABP was place on [**4-21**] to
+optimize his hemodynamics and surgery was scheduled for [**4-23**].
+Prior to the scheduled surgery the patient developed a
+leukocytosis with gm + cocci in his sputum. The surgery was
+cancelled by the cardiac surgical team and the patient evaluated
+by ID. Antibiotic treatment was advised and their recommendations
+followed. Although there was a concern about a positive blood
+culture as well that was ultimately concluded to probably be a
+contaminant.
+The patient was successfully extubated on [**4-24**]. While in the CCU
+the patient had some recurrent hemoptysis (evaluated by
+pulmonary) and he began to develop renal insufficiency.On [**4-26**] he
+was noted to have an ischemic left lower extremity despite being
+on systemic heparin . He was evaluated by Dr. [**First Name8 (NamePattern2) 134**] [**Last Name (NamePattern1) **]-
+the IABP was removed. The renal service was also consulted due to
+a rising creatinine and they felt that the acute renal failure
+was possibly related to emboli from the IABP/aorta.CT surgery did
+not feel there was any role for urgent cardiac surgery at this
+time.
+
+On the night of 05/04, patient developed high
+grade transaminitis with AST and ALTs in the thousands, mild
+scleral icterus with bilirubin approximately 1.5. Lactate was
+initially stable throughout the night in the range of 2-3, but
+then rose dramatically to 9.
+
+In addition, the patient began to decompensate with
+hypotension requiring Neo-Synephrine and dopamine drips as
+well as fluid boluses to maintain MAPS above 90.  He was also
+having seizure-like activity and required increased doses of
+Fentanyl, diazepam, and Haldol for sedation.
+
+As the patient's condition deteriorated, CCU fellow and
+attending were contacted as well as Surgery to evaluate for a
+possible mesenteric ischemia and acute abdomen.  The team was
+united in feeling that any intervention at this time would be
+a high risk of mortality and more likely that would not only
+prolong an inevitable decline.  The family was contacted and
+told of the patient's grave prognosis and instructed to come
+in as soon as possible.
+
+Family arrived, and the seriousness of the condition and
+prognosis were explained to them.  After discussion, the
+family decided that it would not be consistent with the
+wishes of Mr. [**Known patient lastname 9550**] to become dialysis dependent or
+prolonged existence on a ventilator.  Spiritual counseling
+was brought in the early morning of 05/05.  The family
+decided to withdraw care.  Given the underlying medical
+conditions, the Medical and Surgical teams involved fully
+agreed with this decision.  Mr. [**Known patient lastname 9550**] passed away at 7:45 am
+on [**4-27**].
+
+CAUSE OF DEATH:  Respiratory arrest secondary to congestive
+heart failure and renal failure.
+
+HOSPITALIZATION DIAGNOSES:
+1. Critical aortic stenosis.
+2. Congestive heart failure.
+3. Coronary artery disease.
+4. Pneumonia.
+5. Hemoptysis.
+6. Acute renal failure.
+7. Acute hepatitis.
+8. Lower extremity vascular arterial thromboembolism.
+9. Probable mesenteric ischemia.
+10. Hypertension.
+11. Atrial fibrillation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[**Last Name (LF) **], [**Name8 (MD) **] M.D.  [**MD Number 833**]
+
+Dictated By:[**Last Name (NamePattern1) 2287**]
+
+MEDQUIST36
+
+D:  [**2696-4-27**]  10:49
+T:  [**2696-5-1**]  08:08
+JOB#:  [**Job Number 9551**]
+
+
+
+
+
+
+
+
+
+
+
+
+F1
+ESC
+
+
+
+
+
+
+
+
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**2696-6-19**] 7:02 PM
+(End of Report)
+
+
+",,
+13715,3022,17077,0,2696-04-11 16:05:00 EST,2696-04-11 16:08:00 EST,471,"N",1,"Nursing/Other",,"
+
+resp. care note - Pt. intubated with # 7.5 OET 21 at the lip, transferred to ccu, placed on the vent, simv tv600, rr16, 100%fio2,5ps,5peep.
+",,
+13715,3022,17077,0,2696-04-11 18:01:00 EST,2696-04-11 18:09:00 EST,488,"N",1,"Nursing/Other","CCU NPN 1600-1900","
+CCU NPN 1600-1900
+S/O:
+
+CV: DOPA UP AND DOWN TO KEEP SBP>90. HEP INC TO 1150U/HR FOR PTT IN 40'S. HR ST WITH FREQ APC'S PER EKG. A-LINE PLACED. TLC IN LEFT GROIN. SYSTOLIC MURMUR NOTED. ECHO SHOWED AS AND LEFT VENTRICULAR HYPERTROPHY. TROP 3.3 AT 1600. CK'S FLAT. K 3.8. 
+
+RESP: SEE CAREVUE FOR SETTINGS AND ABG. FIO2 WEANED TO 80%. REPEAT ABG IMPROVED. SUCTIONED FOR THICK PINK SECRETIONS. PROPOFOL STARTED FOR SEDATION, VERSED GIVEN BUT SEEMED TO DROP SBP. LUNGS COURSE BILAT.
+
+ID: TEMP 99.8 RECTALLY. WBC 13. BC, SPUTUM AND URINE SENT. ZITHROMAX AND CEFTRIAX TO START.
+
+GI: NGT PLACED FOR THIN YELLOW ASPIRATE, PH 4 OB NEG. POS BS.
+
+GU: MOD U/O AFTER LASIX ON FLOOR. URINE CLEAR. 
+
+MS: TRIED TO SIT UP AND PULLED AT TUBES WHEN AWOKE, PROPOFOL STARTED TO SEDATE. 
+
+SOCIAL: WIFE AND CHILDREN IN TO VISIT. WIFE IS DESIGNATED SPOKESPERSON AND WANTS TO BE THE SOLE INFORMANT. FAMILY TOLD ABOUT CATH, MAYBE ON MONDAY. ASKING APPROPRIATE QUESTIONS. 
+
+A/P: SEDATE OVERNIGHT AND DIURESE, EXTUBATE IN AM. FOLLOW TEMP AND CX. REPLETE K. CONT TO SUPPORT AND INFORM FAMILY.
+",,
+13715,3022,17077,0,2696-04-12 02:25:00 EST,2696-04-12 03:00:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: CHF ?sec to AS","
+CCU Nursing Progress Note 1900-0700: CHF ?sec to AS
+S-Sedated and intubated 
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA
+
+O-MS: Sedated and intubated on Propofol. Responds to verbal stimuli and obeying and following commands. Denies pain when asked. Attempting sedation wean of Propofol to improve BP but pt becoming increasingly agitated. Attempting to situp and kicking. Propofol as high as 15mcgs and currently at 13mcgs. Anticipate wean in AM for extubation. 
+
+CV: HR 60s to 120s. NSR to ST with frequent to rare PACs. Dopa weaned to off due to increase in HR and changed over to Neo. Neo a high as 1.9mcgs/kg/min. Currently at 0.5mcgs/kg/min and anticipate wean to off this AM. Question cause of hypotension secondary to sedation, septic or cardiac in nature. Heparin continues at 1150u/hr with therapeautic PTT of 79.2. EKG repeated with slower rate with slight improvement in lateral depression from previous. CKs repeated with CK of 106 and MB of 10 with AM pending. TLC at right groin site CDI with dopplerable pulses distal. No plans to Swan or cath this weekend unless decompesates. Anticipate Cath on Monday AM.  
+
+RESP: Vent IMV/600/16/.40/5. FiO2 weaned to 40% overnight and maintaining PO2s greater than 80s. ABG wnls. SEE CAREVUE FOR TRENDS.
+LS diminished in right base otherwise clear in other fields. Pt not bronchospastic or with high PIPS therefore not ETT suctioned. Breathing over vent by 3-4 breaths. Anticipate RSBI in AM and wean today to extubate. 
+
+GU/GI: Foley draining clear to cloudy colored urine. HUOs fair at 35-40cc/hr. No Lasix given overnight. Abd soft with (+) BSs. OGT aspirated for > 100ccs or undigested material. OGT to LIS. Heme (+).
+No BM overnight. 
+
+ID: Low grade overnight. Tm 100.1 oral. Continues Ceftriaxone ? suspect PNA. Cultures pending.
+
+HEME: HCT stable on admission. No issues. AM pending. 
+
+SOC: Son staying overnight. Updated by RN and MD on plan. Lots of family dynamics going on between current wife, who is 2nd wife, and children and in-laws in regards to information given and who can or cannot visit. 
+
+A/P: 79 yo with CHF question secondary to new AS as seen on Echo.
+Plan to extubate today
+Cath Lab on Monday
+
+",,
+13715,3022,17077,0,2696-04-12 17:09:00 EST,2696-04-12 17:31:00 EST,488,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S/O: SEE CAREVUE FOR OBJECTIVE DATA
+
+CV: LOPRESSOR 12.5 MG GIVEN AT NOON AND 5P FOR HR IN 90'S. HR THEN DEC TO 70'S-80'S. PT IN SR WITH OCC PVC'S. SBP INITIALLY HIGH IN 160'S, DEC AFTER LOPRESSOR AND DIURESIS. NTG STARTED BRIEFLY AT 1700 FOR INC SBP, TURNED OFF AT 1800. TROPONIN CONT TO INC, CK'S FLAT. K REPLETED X2, MAG GIVEN. LASIX GIVEN X2 WITH VIGOROUS DIURESIS. NEG 800 CC FOR TODAY SO FAR. PTT IN 90'S SO HEP GTT DEC BY 100U. DENIES CP
+
+RESP: PT EXTUBATED AT 7:30A, TOL WELL WITH 4LNP AND FACE TENT WITH SATS IN HIGH 90'S. LUNGS INITIALLY WITH RALES 1/2 UP BILAT, DEC IN PM. COUGH WITH THICK SPUTUM, WHITE AND BLOOD FLECKED. RR IN HIGH 20'S-30'S BUT NON-LABORED AND PT DENIES SOB. 
+
+ID: AFEB, WBC DEC. CX NEG SO FAR.
+
+GI: NO STOOL. ATE SOME CUSTARD AND DRANK SMALL AMOUNT OF BOOST. FELT THAT HIS THROAT WAS SORE AND FOOD WAS DIFFICULT TO SWALLOW. PT NEEDS TO BE NPO AFTER MN. OGT OUT. 
+
+GU: GOOD DIURESIS AFTER LASIX, URINE CLOUDY AT TIMES.
+
+ENDO: BS INC TO 177 AT NOON BEFORE PT ATE ANYTHING, COVERED WITH INSULIN.
+
+MS: INITIALLY DID NOT WANT MEDS OR INTERVENTIONS BUT MS CLEARED AND PT BECAME QUITE COOPERATIVE. HAS CONSENTED TO CATH IN AM. SPOKE AT LENGTH TO WIFE AND SON. MED TEACHING AND PRE-PROCEDURE TEACHING STARTED.
+
+A/P: VS BETTER AFTER LOPRESSOR AND NTG. RESPONDS WELL TO DIURESIS. FOLLOW LYTES AND O2 SATS. NPO AFTER MN FOR CATH. CHECK PTT WITH AM LABS. CONT WITH TEACHING AND PT SUPPORT.
+",,
+13715,3022,17077,0,2696-04-12 21:32:00 EST,2696-04-12 21:37:00 EST,61,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s:I feel allright
+o: see flowsheet for objective data. pt. denies sob, lungs with fine rales at bases, cont to diurese from earlier lasix. K+ sent and pnd
+heparin readjusted per ss, now at 950 units. afebrile, cont antibx
+sats remain good on face tent and 4lnc, resting comfortably. family in all evening. pt. denied questions about cath tomorrow, information reinforced
+A: stable, awaiting cath
+P: NPO after MN for cath in am, cont to diurese, follow hemodynamics and lytes
+",,
+13715,3022,17077,0,2696-04-13 04:55:00 EST,2696-04-13 05:07:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""HOW LONG WILL THIS (CATH) TAKE UPSTAIRS.""
+O: 79YO MALE WITH 1 [**12-26**] WEEK HX OF SOB, ADMITTED TO OUTLYING HOSP AND TREATED FOR CHF.  ON ADMIT TO [**Hospital1 10**] HE WAS INTUBATED FOR POOR ABG. C/B HYPOTENSION. DIURESED AND PRESSOR DC'D > EXTUBATED [**4-12**], NOW AWAITS CATH.  AFEBRILE ON ANTIBX FOR URI. HR 80'S SR, HAD EPISODE OF AFIB THAT LASTED APPROX 4HRS THEN CONVERTED BACK TO SR.  WHILE IN AFIB REC'D LOPRESSOR 5MG IV AND ADDITIONAL 12.5MG PO LOPRESSOR FOR RATE CONTROL. WHILE IN AFIB,  BP 90-110'S WITH RATE 80-100'S, NOW BACK IN SR WITH RATE IN THE 80'S. HEPARIN INCREASED PER SS FOR SUBTHERAPEUTIC PTT. L FEMORAL CENTRAL LINE INTACT. LUNGS WITH SCATTERED COURSE AERATION AND CRACKLES AT BASES. O2 INCREASED WITH AFIB EPISODE DUE TO DECREASE IN SATS (CXR DONE) BUT ONCE BACK IN SR ABLE TO DECREASE BACK TO ORIGINAL SETTING.  AT TIMES WITH PRODUCTIVE COUGH OF VERY THICK SECRETIONS, TAN TO BLOOD TINGED.  FOLEY DRNG CLEAR YELLOW URINE. HE IS ALERT AND ORIENTED, SON STAYED NIGHT IN ROOM.
+A: EPISODE OF AFIB, CONVERTED BACK TO SR ON OWN
+   DROP IN SATS WITH AFIB
+P: INCREASE DOSE OF LOPRESSOR TODAY
+   PREPARE FOR CATH
+   RECHECK PTT AT 12PM
+",,
+13715,3022,17077,0,2696-04-13 18:14:00 EST,2696-04-13 18:23:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: when can i get up
+o:pls see carevue flowsheet for complete vs/data/events
+pt underwent echo and cardiac cath this am confirmed aortic stenosis, valve area .5, mod 3vd. plan is for avr and cabg prob wednesday.
+
+ms: ox3. a little off since cath. easily reorients. cooperative. mae w purpose.
+cv: hr 70-90s sr, no vea. no atrial arrhythmia. cont on po lopressor 25mg bid. bp 110-130/60-70. heparin dc'd prior to cath and no plans to resume currently.
+r fem site angioseal. venous sheath pulled in lab.  l fem site tlc dc'd at 4pm by med student/w intern. d/i bilat pulses by doppler.
+
+resp: cxs at bases. sat 92-95% on 4-5l nc. added cn face tent for added moisture to facilitate and expectorate thick tan, maroon tinged sputum.
+gu: 40mg iv lasix at 11am. good diuresis. -1l since mn.
+gi: diet advanced this eve. tol well no n/v. no stool.
+id: afeb. abx dc'd.
+social: wife at bedside thruout day. son visiting.
+a: s/p cath. chf improving. needs cardiac surgery
+p: follow for ischemia/chf. monitor for bleeding precautions. follow ms, safety precautions. preop teaching, support to pt and family.
+
+",,
+13715,3022,17077,,2696-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-14**] 10:14 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2938**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: AS/CAD,PRE OP,EVAL ASC AND DEC AORTA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with AS/CAD                                                     
+     REASON FOR THIS EXAMINATION:
+      evaluate asc. & dec. aorta                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aneurysm.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis using a CTA protocol.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     CHEST CTA FINDINGS:  There is diffuse atherosclerotic disease of the ascending
+     and descending aorta. There is a focal linear endoluminal abnormality
+     identified along the left posterior aspect of the descending aorta, Series 3,
+     Image 32.  This may represent a small focal dissection or ulcerative plaque.
+     At the level of the main pulmonary artery, the ascending aorta is 4.0 x 3.9
+     cm, the descending aorta is 2.6 x 2.3 cm, and the main pulmonary artery is 3.0
+     cm.  There is dense calcification of the aortic valve.  There is mild
+     cardiomegaly.  There is no pericardial effusion.
+     
+     There are bilateral pleural effusions, moderate in size, right greater than
+     left. There is bilateral septal thickening with ground-glass opacity. The
+     findings likely represent congestive heart failure.  There is a 1 cm pleural-
+     based opacity in the right upper lobe laterally, Series 3, Image 23, which may
+     represent focal atelectasis.  Mild emphysematous changes are also identified
+     bilaterally, particularly at the apices.  Tracheobronchial tree is patent.
+     There are small mediastinal lymph nodes, the largest in the AP window,
+     measuring 1.5 x 0.7 cm.
+     
+     ABDOMINAL CT WITH IV CONTRAST FINDINGS:
+     
+     There are multiple calcifications in the liver and spleen, consistent with
+     calcified granuloma.  No enhancing liver lesions are identified.  There is
+     mild atrophy of the pancreas. There is significant vascular calcification. The
+     gallbladder, adrenal glands are unremarkable.  There are bilateral simple
+     renal cysts.  There is a hypodense lesion in the inferior pole of the right
+     kidney measuring 1.1 cm with a high-density centrally. This may represent
+     calcification; however, it is incompletely evaluated on this CT examination.
+     Therefore, ultrasound or a dedicated renal CT is recommended for further
+     evaluation.  There is no free fluid.  There is no infrarenal AAA. There is
+     diffuse atherosclerotic disease of the abdominal aorta. The celiac axis, SMA
+     and [**Female First Name (un) **] are patent.  There are two right renal arteries. There is a single
+     left renal artery.  Visualized loops of bowel are normal in contour and
+     caliber.
+                                                                 (Over)
+
+     DATE: [**2696-4-14**] 10:14 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2938**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: AS/CAD,PRE OP,EVAL ASC AND DEC AORTA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is a Foley catheter within the bladder. There is minimal air within the
+     bladder, likely from Foley catheter insertion.  There is no free fluid.  The
+     large bowel is normal in contour and caliber.
+     
+     Bone windows demonstrate degenerative changes throughout the lower thoracic
+     and lumbar spine.
+     
+     CONCLUSION:
+     
+     There is ectasia of the ascending aorta, as described above.  There is diffuse
+     atherosclerotic disease of the ascending and descending thoracic aorta. There
+     is severe atherosclerotic disease of the abdominal aorta.
+     
+     There is a focal linear abnormality along the posterior left aspect of the
+     descending aorta as described above. This may represent a focal dissection or
+     ulcerated plaque.
+     
+     Septal thickening with ground-glass opacity in the lungs and bilateral pleural
+     effusions, likely represent CHF.
+     
+     Calcified granuloma in the liver and spleen.
+     
+     Bilateral simple cysts.  There is a hypodense lesion in the inferior pole of
+     the right kidney posteriorly with a central high attenuation focus, which may
+     represent calcification.  Dedicated ultrasound or CT is recommended for
+     further evaluation of this finding.
+     
+     Multiplanar reformations were essential in delineating the anatomy and
+     pathology as described above.
+     
+     
+     
+
+",,
+13715,3022,17077,,2696-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-14**] 10:14 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2938**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: AS/CAD,PRE OP,EVAL ASC AND DEC AORTA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with AS/CAD                                                     
+     REASON FOR THIS EXAMINATION:
+      evaluate asc. & dec. aorta                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aneurysm.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis using a CTA protocol.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     CHEST CTA FINDINGS:  There is diffuse atherosclerotic disease of the ascending
+     and descending aorta. There is a focal linear endoluminal abnormality
+     identified along the left posterior aspect of the descending aorta, Series 3,
+     Image 32.  This may represent a small focal dissection or ulcerative plaque.
+     At the level of the main pulmonary artery, the ascending aorta is 4.0 x 3.9
+     cm, the descending aorta is 2.6 x 2.3 cm, and the main pulmonary artery is 3.0
+     cm.  There is dense calcification of the aortic valve.  There is mild
+     cardiomegaly.  There is no pericardial effusion.
+     
+     There are bilateral pleural effusions, moderate in size, right greater than
+     left. There is bilateral septal thickening with ground-glass opacity. The
+     findings likely represent congestive heart failure.  There is a 1 cm pleural-
+     based opacity in the right upper lobe laterally, Series 3, Image 23, which may
+     represent focal atelectasis.  Mild emphysematous changes are also identified
+     bilaterally, particularly at the apices.  Tracheobronchial tree is patent.
+     There are small mediastinal lymph nodes, the largest in the AP window,
+     measuring 1.5 x 0.7 cm.
+     
+     ABDOMINAL CT WITH IV CONTRAST FINDINGS:
+     
+     There are multiple calcifications in the liver and spleen, consistent with
+     calcified granuloma.  No enhancing liver lesions are identified.  There is
+     mild atrophy of the pancreas. There is significant vascular calcification. The
+     gallbladder, adrenal glands are unremarkable.  There are bilateral simple
+     renal cysts.  There is a hypodense lesion in the inferior pole of the right
+     kidney measuring 1.1 cm with a high-density centrally. This may represent
+     calcification; however, it is incompletely evaluated on this CT examination.
+     Therefore, ultrasound or a dedicated renal CT is recommended for further
+     evaluation.  There is no free fluid.  There is no infrarenal AAA. There is
+     diffuse atherosclerotic disease of the abdominal aorta. The celiac axis, SMA
+     and [**Female First Name (un) **] are patent.  There are two right renal arteries. There is a single
+     left renal artery.  Visualized loops of bowel are normal in contour and
+     caliber.
+                                                                 (Over)
+
+     DATE: [**2696-4-14**] 10:14 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2938**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: AS/CAD,PRE OP,EVAL ASC AND DEC AORTA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is a Foley catheter within the bladder. There is minimal air within the
+     bladder, likely from Foley catheter insertion.  There is no free fluid.  The
+     large bowel is normal in contour and caliber.
+     
+     Bone windows demonstrate degenerative changes throughout the lower thoracic
+     and lumbar spine.
+     
+     CONCLUSION:
+     
+     There is ectasia of the ascending aorta, as described above.  There is diffuse
+     atherosclerotic disease of the ascending and descending thoracic aorta. There
+     is severe atherosclerotic disease of the abdominal aorta.
+     
+     There is a focal linear abnormality along the posterior left aspect of the
+     descending aorta as described above. This may represent a focal dissection or
+     ulcerated plaque.
+     
+     Septal thickening with ground-glass opacity in the lungs and bilateral pleural
+     effusions, likely represent CHF.
+     
+     Calcified granuloma in the liver and spleen.
+     
+     Bilateral simple cysts.  There is a hypodense lesion in the inferior pole of
+     the right kidney posteriorly with a central high attenuation focus, which may
+     represent calcification.  Dedicated ultrasound or CT is recommended for
+     further evaluation of this finding.
+     
+     Multiplanar reformations were essential in delineating the anatomy and
+     pathology as described above.
+     
+     
+     
+
+",,
+13715,3022,17077,,2696-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-14**] 10:14 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2938**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: AS/CAD,PRE OP,EVAL ASC AND DEC AORTA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with AS/CAD                                                     
+     REASON FOR THIS EXAMINATION:
+      evaluate asc. & dec. aorta                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aneurysm.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis using a CTA protocol.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     CHEST CTA FINDINGS:  There is diffuse atherosclerotic disease of the ascending
+     and descending aorta. There is a focal linear endoluminal abnormality
+     identified along the left posterior aspect of the descending aorta, Series 3,
+     Image 32.  This may represent a small focal dissection or ulcerative plaque.
+     At the level of the main pulmonary artery, the ascending aorta is 4.0 x 3.9
+     cm, the descending aorta is 2.6 x 2.3 cm, and the main pulmonary artery is 3.0
+     cm.  There is dense calcification of the aortic valve.  There is mild
+     cardiomegaly.  There is no pericardial effusion.
+     
+     There are bilateral pleural effusions, moderate in size, right greater than
+     left. There is bilateral septal thickening with ground-glass opacity. The
+     findings likely represent congestive heart failure.  There is a 1 cm pleural-
+     based opacity in the right upper lobe laterally, Series 3, Image 23, which may
+     represent focal atelectasis.  Mild emphysematous changes are also identified
+     bilaterally, particularly at the apices.  Tracheobronchial tree is patent.
+     There are small mediastinal lymph nodes, the largest in the AP window,
+     measuring 1.5 x 0.7 cm.
+     
+     ABDOMINAL CT WITH IV CONTRAST FINDINGS:
+     
+     There are multiple calcifications in the liver and spleen, consistent with
+     calcified granuloma.  No enhancing liver lesions are identified.  There is
+     mild atrophy of the pancreas. There is significant vascular calcification. The
+     gallbladder, adrenal glands are unremarkable.  There are bilateral simple
+     renal cysts.  There is a hypodense lesion in the inferior pole of the right
+     kidney measuring 1.1 cm with a high-density centrally. This may represent
+     calcification; however, it is incompletely evaluated on this CT examination.
+     Therefore, ultrasound or a dedicated renal CT is recommended for further
+     evaluation.  There is no free fluid.  There is no infrarenal AAA. There is
+     diffuse atherosclerotic disease of the abdominal aorta. The celiac axis, SMA
+     and [**Female First Name (un) **] are patent.  There are two right renal arteries. There is a single
+     left renal artery.  Visualized loops of bowel are normal in contour and
+     caliber.
+                                                                 (Over)
+
+     DATE: [**2696-4-14**] 10:14 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2938**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: AS/CAD,PRE OP,EVAL ASC AND DEC AORTA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is a Foley catheter within the bladder. There is minimal air within the
+     bladder, likely from Foley catheter insertion.  There is no free fluid.  The
+     large bowel is normal in contour and caliber.
+     
+     Bone windows demonstrate degenerative changes throughout the lower thoracic
+     and lumbar spine.
+     
+     CONCLUSION:
+     
+     There is ectasia of the ascending aorta, as described above.  There is diffuse
+     atherosclerotic disease of the ascending and descending thoracic aorta. There
+     is severe atherosclerotic disease of the abdominal aorta.
+     
+     There is a focal linear abnormality along the posterior left aspect of the
+     descending aorta as described above. This may represent a focal dissection or
+     ulcerated plaque.
+     
+     Septal thickening with ground-glass opacity in the lungs and bilateral pleural
+     effusions, likely represent CHF.
+     
+     Calcified granuloma in the liver and spleen.
+     
+     Bilateral simple cysts.  There is a hypodense lesion in the inferior pole of
+     the right kidney posteriorly with a central high attenuation focus, which may
+     represent calcification.  Dedicated ultrasound or CT is recommended for
+     further evaluation of this finding.
+     
+     Multiplanar reformations were essential in delineating the anatomy and
+     pathology as described above.
+     
+     
+     
+
+",,
+13715,3022,17077,0,2696-04-14 04:50:00 EST,2696-04-14 05:50:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: Aortic Stenosis","
+CCU Nursing Progress Note 1900-0700: Aortic Stenosis
+S-""I think I'll go for a swim.""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND VS
+
+O-MS: Disoriented post cath procedure secondary to sedation. Easily re-oriented on evening but worsening overnight. Found out of bed times one and attempting to get many times. Sitter arriving at 11PM. Hallucinating and seeing ""sharks"" and thinking needing ""to go work."" Becoming beligerant with sitter and not re-orientating like prior. Given Haldol 2mg in divided dose of 1mg with fair effect. Sleeping in ""cat naps"" post Haldol. Later this morning oriented to self and time period but forgets where he is. More calm, pleasant, and easier re-oriented to whereabouts. Pt denies ETOH history stating ""quit many years ago when married second wife."" Answering questions more appropriately this morning. 
+
+CV: HR 80s to 100s. NSR to ST. Rare PVCs. Lytes WNLs. SBPs 90s to 120s. VS more hyperdynamic with agitation. Earlier in shift sustaining in the 90s to 100s. Given 5mg Lopressor IVP followed by extra dose of 25mg of PO Lopressor. HR mainly in the 80s overnight at rest. CCU decling to increase dose at current time and will re-address this AM. Bilateral groin site CDI with pulses palpable distal. Prior to R/I by troponing and MB since studies have trended down. Currently not Heparinized question if secondary to HCT drop over weekend. Discussed with team and holding off till morning. 
+
+RESP: LS with crackles at bases. Later crackles worsening about [**12-26**] way and requiring high amounts of O2, Cool Neb at 100%/15L and 4LNP. Post diuresis, Cool Neb at 50%/10L and 4LNP and maintaining Sat>95%. Pt denying SOB but RR mid 20s. In addition occasional cough overnight. Strong and productive. Expectorating thick rust colored sputum in small amounts. 
+
+GU/GI: Foley draining CYU. HUOS 25-400cc/hr. Recieving 40mg of Lasix IVP and diuresing about 800cc. Previously 500cc (-) into MN and 2.8L (-) for LOS. BUN/Creat stable. Abd soft with (+) BS. Passing flatus but no BM overnight. Tolerating POs well with fair appetite.
+
+HEME: Last HCT 31.9 with AM HCT pending.
+
+ENDO: FS at MN 176 covered with 2uR and AM FS 165 covered with 2UR. Continues FSQID and coverage with SLSC. 
+
+ID: Low grades overnight. Ceftriaxone and Azithromycin DC'd on [**4-13**].
+(+) Sputum cx from [**4-11**]. GPCs and staph. On no abx coverage.
+
+SOC:  Second wife, eldest daughter([**Doctor First Name 1276**]), and son([**Doctor Last Name 731**]) into visit last night all at different times. Family dynamics continue to exist between the eldest daughter, pt sisters and current wife. Eldest daughter very upset and crying when hearing pt needing surgery. States that ""she(mother-in-law) does not call her of his or his sisters to let us know what is going on."" Question social service c/s.
+
+A/P: Aortic stenosis with TO distal RCA
+AVR and single vessel CABG, PLAN for Wed or [**Last Name (un) **].
+
+ 
+",,
+13715,3022,17077,0,2696-04-14 15:30:00 EST,2696-04-14 15:59:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""My breathing is pretty good today.""
+O-Neuro-alert and oriented x2-3, person, place and occ time. Very pleasant and cooperative all day. No c/o pain or SOB.
+Carotid ultrasound revealed 90% stenosis Right
+CV-periods of tachy/brady HR low 38 junct and HR high 108ST. Lopressor increased to 50mg po BID. please see strips in chart. 
+Resp-O2 weaned to 5l np with O2 sats 92-96%. LS rales 1/2 up on left and base on the right. Freq productive cough thick dark tan sputum. Two episodes of hemoptysis dark red blood clots moderate sized, one small bright red clot x1. Chest CT completed to R/O dissection- negative.
+ID afebrile WBC 8.1 off abx.
+GU- foley draining 30-50cc/hr
+GI-appetite good one large soft BM OB- HCT stable 32.4
+Social- wife in all day, spoke with social worker today.
+Activity- OOB chair x2 for meals tolerated well.
+A/P-stable, improved MS, tachy/brady documented.
+Follow electrolytes.
+",,
+13715,3022,17077,,2696-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-15**] 11:42 AM
+     MR-ANGIO HEAD; MR HEAD W/O CONTRAST                             Clip # [**Clip Number (Radiology) 2939**]
+     Reason: MRA head and neck, assess for prev. CVA, pre-carotid stent  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with AS, CAD, carotid stenosis                                  
+     REASON FOR THIS EXAMINATION:
+      MRA head and neck, assess for prev. CVA, pre-carotid stent                      
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  MRA to assess intracranial circulation. Previous CVA. 80-90%
+     right sided internal carotid stenosis by ultrasound with 40% left sided
+     stenosis.  Aortic stenosis going for valve replacement.  Pre-operative.
+     
+     COMPARISONS: None.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted MR imaging of the brain plus 3D MR
+     angiographic imaging of the circle of [**Location (un) **].
+     
+     BRAIN MRI:  There is an area of encephalomalacia in the right occipital lobe
+     with associated increased FLAIR signal abnormality.  In addition, there are
+     bilateral areas of increased T2 signal in the periventricular and subcortical
+     white matter of the cerebral hemispheres, which is nonspecific in etiology but
+     probably represents chronic microvascular infarction in this patient. There is
+     prominence of the sulci representing brain atrophy of a global nature. There
+     are no masses identified.
+     
+     BRAIN MRA:  The vessels of the circle of [**Location (un) **] and their tributaries
+     demonstrate robust flow signal.  There are no areas of perceptible stenosis or
+     aneurysmal dilatation.  There is a minute fenestration in the proximal portion
+     of the basilar artery incidentally noted.
+     
+     IMPRESSION:
+     
+     1) Right occipital infarction on a background of chronic microvascular
+     ischemic change.
+     2) Normal brain MRA, other than  basilar arterial fenestration incidentally
+     noted.
+     
+     
+     
+
+",,
+13715,3022,17077,0,2696-04-15 02:33:00 EST,2696-04-15 03:13:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-700: AS","
+CCU Nursing Progress Note 1900-700: AS
+S-""The wire keeps getting caught in my back.""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND VS
+
+O-MS: MS significantly improved and not requiring sitter overnight. Sleeping for fair portion of night. Obeying and following commands. Very pleasant and appropriate. MRI called and notified of pt's awaiting study but unable to perform tonight due to  ""high volume."" Remains on call for today.  
+
+CV-HR 30s to 120s. Continues with tachy/brady events. Increased rate with frequent PACs, appearing as afib but not sustaining at higher rates and rare Ps noted. Closer look at strip and accelarated junctional. SBPs 90s to 120s. Tolerating Lopressor increase well. Denies CP. Skin warm and dry to touch.
+
+RESP: LS clear with with crackles [**12-28**] way from left base and dim at right bases. O2Sats 92-98% on 5LNP. Denies SOB. Showing no signs of DOE. 
+
+GU/GI: Foley draining CYU. HUOs 25-50cc/hr overnigt. CCU team well aware of HUOs and declining intervention. Will continue to follow. Abd soft with (+) BSs. Appetite fair. Taking POs well.  
+
+SOC: Son into visit during late evening. 
+
+ENDO: FSQID. Continues to cover with SLSC as needed. 
+
+ID: Aferbile. No issues.
+
+A/P: Severe AS awaiting surgical intervention post carotid stent placement. 
+
+MRI today
+Continue to monitor 
+",,
+13715,3022,17077,0,2696-04-15 17:58:00 EST,2696-04-15 18:14:00 EST,142,"N",1,"Nursing/Other","CCU Nuring Progress Note","
+CCU Nuring Progress Note
+S-""I feel pretty good""
+O-Neuro alert and oriented 3, very pleasant and cooperative. MRI completed of head/neck to r/o previous strokes.
+CV-VSS HR less variation today no brady/junctional rhythms. One short episode of tachy HR 120's while getting back to bed. Lopessor decreased to 25mg BID and plan to hold in am pre procedure.
+NO c/o chest pain or SOB.
+Resp-LS BBR O2 sats 97% on 4lnp.
+ID afebrile
+GU- foley draining well 30-40cc/hr increase sediment.
+GI- appetite good, 2 soft BM's OB negative
+Endo elevated blood sugars on SSRI, changed diet to diabetic/controled carbohydrate.
+Activity-OOB chair all day and ambulating x2 with supervision tolerated well.
+A/P-stable day, plan to have carotid stent and start on plavix for 1 week, then go for AVR/CABG.
+",,
+13715,3022,17077,0,2696-04-16 04:26:00 EST,2696-04-16 04:37:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+O:  Pt remains in sinus rhythm with short runs of SVT.  Given decreased dose of Lopressor.  Dose to be held in am.  Denies chest pain.  
+
+Resp:  Lungs with rales at the bases.  O2 at 4l NP with O2 sat 93-98%.
+
+GU/GI:  Urine output remains low.  House staff aware. Diuretics not needed at this time.  NPO after MN for possible carotid stent this am.
+Abd is soft with good bowel sounds.  Denies any nausea or vomiting.
+
+Neuro:  Pt is alert and oriented x's 3.  Pt is able to answer questions appropriately.  MAE.
+
+A&P:  Stable at present.  For possible carotid stent.  Hold am Lopressor.
+",,
+13715,3022,17077,0,2696-04-16 16:12:00 EST,2696-04-16 17:01:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""I 
+O-Neuro- alert and oriented x2-3, occ forgetting place. Returned from carotid stent without any neuro deficits, q1hr neruo checks x6hrs.
+MRI [**4-16**] old right occiput infarct.
+Very pleasant and cooperative.
+CV-VSS lopressor held this am pre procedure. Post procedure had one episode of bradycardia HR 37 lasting 10 seconds. HR tachy 92-103 with activity this evening. SBP 90-120/40. Returned from cath lab s/p succ right internal carotid stent with excellant flow post procedure. Bilateral groin sheaths removed, left groin small hematoma from failed angioseal-no bleeding, right groin no hematoma/bleeding. Pedal pulses weakly intact, feet cool.
+Resp-LS BBR O2 4l np O2 sats 96%.
+ID afebrile. WBC 7.0
+GU BUN/CR 22/.5 Foley draining clear yellow urine. IVF .45NS at 150cc/hr x 1000cc post procedure. Received 170cc contrast. 
+GI- Appetite good, HCT stable 29.4
+Activity-bedrest until 1700, OOB chair for dinner, tolerated well.
+Social-wife and [**Name2 (NI) 5197**] into visit, spoke to MD regarding results.
+A/P-stable post carotid stent procedure, stable vagal tone, not requiring Neo. COntinue to monitor neuro checks q4-6hrs.
+Check eve HCT, K pnd this evening,
+",,
+13715,3022,17077,0,2696-04-17 05:09:00 EST,2696-04-17 05:20:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: AS","
+CCU Nursing Progress Note 1900-0700: AS
+S-""I get tired of being in bed.""
+
+SEE CARVUE FOR ALL OBJECTIVE DATA
+
+O-MS: A/O/X/3. Very pleasant and cooperative. Obeys and follows commands. Answering questions appropriately. Does not like to complain or ask for much. MAEs.
+CV/HEME: HR 70s to 90s. NSR with no noted ectopy. NIBPs 100s. MAPs 70s.Groin sites CDI. Left groin slightly ecchymotic and soft. DSD intact. Right groin small stable hematoma. DSD intact. Pulses palpable distal with good CSM. Recieving Lopressor dose times one and tolerating well. Please check with HO if to resume in AM. HCT stable post procedure with 1pt HCT drop, 28(29).
+RESP: LSCTA. Dim at right base. O2Sats 92-97% on 4Ls. Denies SOB. No noted DOE.
+GU/GI: Foley draining adequate amounts of CYU. Abd soft with (+) BSs. Taking and tolerating POs well. Formed BM before bedtime. Brown and G(-).
+ENDO: FS at MN 170s and not treated. AM FS 151 and recieving 2UR this AM.
+ID: Afebrile with no issues. 
+A/P. Critical Aortic Stenosis.
+Possible call out to floor today. 
+",,
+13715,3022,17078,0,2696-04-21 03:26:00 EST,2696-04-21 04:02:00 EST,1771,"N",69,"Nursing/Other","pmicu npn","
+pmicu npn
+
+
+   please refer to previous ccu admission note for further details. briefly, the pt is a 79yow man who was transferred from [**Hospital3 **] hospital on [**4-11**] after presenting there w/a 1 week h/o sob. he was prescribed abx by his pcp, [**Name10 (NameIs) **] his sob became progressively worse and he was taken to the osh. at the osh, the pt was placed on bipap and was given mso4, heparin, ntg, and lasix. he did improve but was transferred to [**Hospital1 **] at the family's request. he decompensated on transfer, and eventually was admitted to the ccu after being emergently intubated on [**Wardname **]. he subsequently underwent a cardiac cath on [**4-16**], and his right carotid artery was stented d/t a 90% occlusion. the pt was also found to have critical as and is awaiting an avr. the pt was transferred to the micu from [**Wardname **] (where he has been since [**4-16**]) d/t worsening sob on nrb. 
+
+pmh: htn; angina; ^chol; osteo to the sternum
+
+nkda
+
+review of systems
+
+respiratory-> pt arrived on a 100% nrb, tachypneic into the 30's and desaturating acutely when his mask is off. he was restrained to insure his safty. lung exam is notable for crackles bilaterally t/o.
+
+cardiac-> pt arrived in afib w/rates >100. the intern was called and the pt received a total of 10mg iv lopressor and 25mg po lopressor. he converted back into a sinus rhythm w/rates 80-100's after approc 1hr. he was also started on a lasix qtt @5mg/hr to maintain a uop >75cc/hr. 
+ccu team to consult cardiac [**Doctor First Name **] re: avr although the surgical team plans to wait 7-10 days s/p cath before attempting surgery.
+
+neuro-> pt is oriented x3 but has been restless at times. he has been confused in the past, receiving haldol during his stay in the ccu.
+
+gi-> abd is soft, nontender w/+bs. he had a small, brown stool x1 on his arrival to the micu. he has been npo except for meds overnoc. ?need to keep npo d/t tenuous respiratory status.
+
+gu-> pt was restarted on a lasix qtt ~2:30am. the goal is to increase the qtt rate by 5mg/hr until goal output is achieved. per ccu team, sbp's in the 80's are acceptable. 
+
+heme-> hct is 26 this am after receiving a u prbc's last noc. the pt has apparently had hemoptosis in the past, and as a result, he was taken off of heparin.
+
+access-> #20 and 18g angios located in either arm.
+
+social-> pt is married to his second wife. he has a son and dtr from a previous marriage who were in to visit this am.
+
+",,
+13715,3022,17078,0,2696-04-21 13:49:00 EST,2696-04-21 14:26:00 EST,896,"N",1,"Nursing/Other","Nsg Progress/Transfer note 0700-1400","
+Nsg Progress/Transfer note 0700-1400
+Review of systems:  
+
+CV:  Successfully converted from Afib upon admission to MICU last noc with IV/ PO Lopressor. Remains in NSR with HR 95-110 without ectopy. SBP 90's. Received Lopressor this shift late d/t SBP <95.  Amiodarone load 200mg TID to given at 1400 (spaced around lopressor dose d/t transient hypotension).  On lasix gtt for acute decompensation overnoc (see below).  Plan- pt. transferred to CCU pending cardiac cath (? aortic balloon) and cardiac surgery (AVR, CABG) tom'row.  
+
+Resp:  Received on non-rebreather mask at 100% O2, changed to face tent for humidification. Maintaining sats at 95-100%. Attempted NC at 6liters/min with sats decreasing to 85%. Lungs initially coarse/with crackles bilat approx [**1-27**] way up. Receiving Lasix at 10mg/hr with good results, and by 1200 crackles receded to [**12-27**] way up. Pt able to transfer to chair with assist and tol well, able to eat small amt breakfast and lunch. Cough weak and generally unproductive except for one large bloody plug which he produced about 1300. Pt shown insp. spirometer and encouraged to use it freq.
+
+GU: Receiving Lasix at 10mg/hr with output 100-180ml/hr for total of 900 cc out since midnight. Urine clear/yellow without sed. Plan: Decrease Lasix to 5mg/hr and maintain output at 50-100ml/hr.
+
+GI/endo: Pt eating house diet in small portions. No difficulty in swallowing. Bowel sounds present, small stool X 1. Hct 26 and 1u PRBC's to be transfused. BS @ 1200 235. HO notified and Insulin drip to be started.
+
+ID: Afebrile. Last WBC 19.7. No abx.
+
+Neuro/Social:  Appearing disoriented at times, attempting to get out of bed in spite of soft restraints and reminders to stay in bed. Waist posey needed. Easily reoriented when spoken to. Generally pleasant and approp in conversation. Wife present and helpful, approp.
+
+Dispo: pt. transferred to CCU at 1400.
+
+
+",,
+13715,3022,17078,0,2696-04-21 18:05:00 EST,2696-04-21 18:41:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""I'm too tired""
+O-Neuro pt arrived from MICU ~1500, awake but dozing. Alert and oriented x2-3, cooperative. Pt sleeping soundly during lab draws, only awaking with moderate stimulation. After intubation pt receiving fentanyl bolus 50-100mcg IVB with good calming effect.
+CV-HR 88-110 ST without VEA K 3.8, slightly hypotensive with SBP 84-88
+and increased 90-100 while getting PRBC's.
+Resp-SOB at rest with rr 32-36 shallow. O2 sat 84% on 100% face tent, changed over to 100% NRB with O2 sats 100%. ABG's while pt was somulent 7.44/52/210/36/10. CCU resident intubated pt with anesthesia at bedside without difficulty. Vent 50% 600x10 PS 5/PEEP 5 O2 sats 97%
+ETT sx moderate amt of thick dark red secretions. 
+ID afebrile WBC 19.7 unclear source.
+GU- foley draining 50-100cc/hr on lasix gtt at 5mg/hr
+GI-NPO +BS x4 HCT 26 unclear source receiving first unit PRBC's slowly
+ENDO elevated BS >250 started on insulin gtt at 3u/hr presently on 1.5u/hr with BS 100.
+Social- wife and daughters in and very anxious. Spoke to attending and
+understand POC.
+A/P-Critical AS with CAD, requiring intubation for increase in CO2.
+To cath lab for IABP/PA catheter placement at 1930.
+Follow hemodynamcis closely, monitor ABG's.
+Keep family informed.
+",,
+13715,3022,17078,1,2696-04-22 01:42:00 EST,2696-04-22 02:36:00 EST,638,"Y",1,"Nursing/Other",,"
+
+DISREGARD ABOVE NOTE. WRONG PATIENT.
+",,
+13715,3022,17078,0,2696-04-22 01:42:00 EST,2696-04-22 01:45:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 700, A/c 12, Fio2 60%, Peep 5. PAP/Plateau 20/17. Sx'd for sm amount of thick white sputum. Fio2 weaned from 70% to 60%. O2 sats 98-100%. Pt. sedated with propofol and appears comfortable. No further changes made. Plan: Repeat Abg and wean Fio2 as tolerated. Continue with mechanical support. 
+",,
+13715,3022,17078,0,2696-04-22 02:36:00 EST,2696-04-22 02:44:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 600, Simiv 12, Fio2 50%, Psv 5, Peep 5. Spont RR 3-4 with vols 300's. Bs clear bilaterally. Sx'd via nurse [**First Name (Titles) **] [**Last Name (Titles) 1002**] sputum. Increasing PaCo2. Simv rate increased to 12. Abg results 7.44, 53, 152, 37, +10.  Metabolic alkalosis. Lasix drip decreased via  nurse. No further changes made. Pt. appears comfortable. Plan: Continue with mechanical suppport wean Fio2 as tolerated.  
+",,
+13715,3022,17078,0,2696-04-22 04:12:00 EST,2696-04-22 04:58:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: Severe AS","
+CCU Nursing Progress Note 1900-0700: Severe AS
+S-Intubated 
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND VS
+
+O-MS: Repsonding to voice. Occassionally opening eyes spontaneously. Lightly sedated on Fentanyl at 25mcg/hr. Prior to increased to 50mcgs/hr for line procedure. Continues to be very appropriate. Obeys and follow commands. Will mouth needs with tubes. Denying pain. Appearing comfortable. Hand unrestrained as pt very self aware of surrounding.
+
+CV: HR 70s to 90s. NSR with rare to occasional PACs. Returning from CL with IABP and RHC performed. RA 34/RV 38/7/PCWP 23. No other procedure peformed.  IABP 1:1 with systolic and diastolic unloading. MAPs 70s to 80s. PADs 23-28. CIs > 2.0. Right groin CDI with no hematoma or ooze noted. Left groin old percutaneous site from previous intervention with ecchymotic area. No hematoma noted. Pulses weakly palpable distal. RLE slightly cooler than LLE. Both with good palor. Heparin started at 800u/hr for IABP protection. AM PTT pending. Continues BB and Amiodorone for Afib. 
+
+RESP: IMV/600/12/PS 5/PEEP 5/.50. ABGs with metabolic akalosis. PCO2 as high as 55. Spontaneous RR 15-17 with spontaneous TVS 400s at time. Pt breathing comfortable and appearing comfortable. Question source of akalosis, Lasix gtt. Rate increased to 12 with no significant changed. 
+ABG slightly improved this AM. Would continue to follow ABGs till PCO2 normalizes.  Suctioning for bloody secretion in moderate to small amounts. Intubation non-traumatic. Question source of bleed. Question bronch for source of bleed. Strong cough. O2Sats 98-100%. 
+
+GU/GI: Foley draining yellow to amber colored urine towards. BUN/CReat at MN WNLs. Lasix gtt decreased from 5mg/hr to 2.5mg/hr due to question of contributing akalosis and volume status. Abd soft with (+) BSs. OGT placed and in place per XRAY. Aspirated for food particles and bilous. Small amount of stool noted at rectum, guiac and (-). 
+
+ID: Tm 100.4 Rectal. Pan cultured for elevated WBC, in addition foley changed. MN WBC trending down. Cultures still pending. 
+
+HEME: Transfused with addtional unit of PRBCs, totaling 2 units. HCT post 1st unit [**Unit Number **]. AM HCT pending post 2nd unit. HCT immediately drawn post transfusion. Question source of bleed. Question serial HCTs
+
+ENDO: Insulin gtt at 1.5u/hr. BS 112-133. No changes made overnight. COntinue to follow protocol. 
+
+A/P: 70 yo with severe AS who's stay has been complicated pulmonary edema time two requiring intubation and confusion secondary to sedatives. In addition carotid stent placement in preparation of AVR and single vessel CABG to take place on Thursday.
+
+Continue to BB and Amiodorone 
+Continue Heparin for IABP
+Follow serial HCT while on Heparin
+Follow ABGs wathcing PCO2
+Continue to gently diurese 
+Culture data pending
+
+",,
+13715,3022,17078,0,2696-04-22 14:15:00 EST,2696-04-22 14:46:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+Pt remains intubated.
+
+O:  CV:  Tele sinus rhythm with frequent PAC's.  IABP with good augmentation when pt in sinus rhythm.  IABP continues on 1:1.  SBP 90's-100 this am.  At approx 1pm SBP trending down to 80's along with PAD 14-17 CVP 2-4.  Lasix drip dc'd at 2pm.  Denies chest pain.  IV Heparin continues at 800u/hr.  Distal pulses are palpable.  R groin is C&D without evidence of hematoma.
+
+Resp:  Lungs diminished at bases.  O2 sat 97-99%. RR 12-18. Vent changed to A/C  600 12 50.  ABG without significant change.  House staff aware. Suctioned for moderate amt of brown bld tinged sputum. 
+
+Neuro:  Pt remains on Fentanyl drip at 25mcgs/hr. Sleeping off and on throughout the shift.  Easy to arouse.  Able to follow commands consistently. MAE.
+
+GU/GI:  Pt is NPO.  Abd is soft with good bowel sounds.  HCT after bld overnight 29.  Received 1 UPRBC's without incident. Lasix drip off with decrease in SBP.  HUO 90-40.  Urine is tea colored with old clots.
+
+Endo:  BS  120- 49.  Insulin drip dc'd with BS of 49.
+
+So[**Last Name (STitle) **] Wife in to visit for most of the shift. Spoke with Dr [**Last Name (Prefixes) **] regarding possiblity of AVR tomorrow.
+
+ID:  Afebrile.  Cultures pending.
+
+A&P:  Hemo's trending down while on Lasix drip. Continue to monitor hemodynamics.  Check Hct at 6pm.  Check cultures.  Final decision regarding surgery to be made later today.
+ 
+",,
+13715,3022,17078,0,2696-04-23 02:54:00 EST,2696-04-23 03:21:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: Severe AS","
+CCU Nursing Progress Note 1900-0700: Severe AS
+S-Intubated 
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND VS
+
+MS-Fent at 50mcg/hr. Very comfortable and relaxed at dose. Alert, responding to question by writing needson paper. Obeys and follows commands. No restraints in place. Writing questions in regards to surgery tommorow. 
+
+CV: HR 70s to 100s. NSR with rare to occassional PACs. IABP 1:1 with good systolic and diastolic unloading. MAPs 70s to 80s. PADs 18-23. CVPs 2-5. Heparin at 800u/hr for IABP protection. AM PTT pending. Groin CDI with palpable pulses distal. 
+
+RESP: AC/600/14/.50/5 PEEP. Very comfortable on setting. Suctioning for bloody to rust colored thick sputum. Very strong cough and productive in ETT. Bronchospastic.  Previous ABGs with metabolic acidosis. CCU team aware. 
+
+GU/GI: HUOs 30-50s. Urine tea colored in appearance. Lasix gtt restarted at 2.5mg/hr for low urine output and increased to 5mg/hr with failed result. Later DC'd due to hypotension. HUOs remain above 30cc/hr. Abd soft with good BSs. NPO. OGT in place.
+
+ID: Low grades. Tm 99.5 core. Culture data pending from [**4-22**].
+
+ENDO: Insulin gtt remains off FS followed Q2H. Overnight trending up. Will restart for > 180.
+
+A/P: Severe AS 
+AVR 2nd case this AM.
+",,
+13715,3022,17078,0,2696-04-23 05:22:00 EST,2696-04-23 05:35:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 600, A/c 14, Fio2 50%, and Peep 5. PAP/Plateau 22/16. Bs clear bilaterally. despite moderate amounts of secretions. Pt. with coughing episode, becoming bronchospastic, sob. Increased secretions. Pt. ambu'd/ Sx'd for thick bloody sputum. Coughing/sob resolving.  Adequate O2 sats 98-100%. No further changes made. Continue with mechanical support. Pt. to go to OR today. 
+",,
+13715,3022,17078,0,2696-04-23 14:22:00 EST,2696-04-23 14:44:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""I'm thirsty"" (writing on tablet to communicate)
+O-Neuro-alert and cooperative while intubated. Fentanyl gtt at 50mcg/, prn 50mcg bolus with treatments. Avoiding benzo's/propofol d/t documentated confusion/belligerance.
+Asking appropiate questions and appears mostly calm. 
+CV-IABP 1:1 with maps 80-100, good augmentation and systolic unloading. Hemodynamics 8am CO/CI/SVR 6.3/3.54/813 3pm 5.1/2.87/1427.
+PAP gradually increasing to 90/37 with HR 98ST and MAP >100. Team into evaluate and pt received lopressor 5mg IVB, lasix 20mg IVB and fentanyl 50mcg IVB with good effect-HR 86, PAD 26, MAP 88. Heparin restarted at 8am at 800u/hr. K 3.1 received 80meq KCL IV. Repeat pnd.
+
+Resp-vent 50% ACx15 5PEEP, changed to 5PS/5PEEP with rr 20 spont VT 425-640 with VT increasing to 950 with deep breath. ABG 7.41/48/124 Tolerated 40% 5/5 all day until 1430 when noted change in VS as stated above, ABG 7.39/54/81/34 and returned back to AC 600x14. O2 sats 93-97%. ETT freq sx moderate amt of thick bloody, plug like sputum, q1-2hrs. Requiring lavage and ambu. LS coarse with diminished BS at bases, At 1430 noted BBR-1/3 up. CXR done. 
+
+ID temp 101.4R WBC 14, ID consult into evaluate. Received tylenol 650mg PO at 1500. +Sputum culture, Blood cultures x2 sent.
+
+GU-foley draining 15cc/hr this am and lasix gtt restarted at 5mg/hr 
+at 0800 with minimal effect. Received lasix 20mg IVB with episode and urine output has increased to 120/hr x1h.
+
+GI-NPO, OGT for meds. +BS x4. HCT 30
+
+Social-wife stayed overnight thinkg pt was to go to surgery and AVR was cancelled d/t fever/+sputum/?LLL consolidation
+
+A/P-Episode of pulmonary edema with PAD 37, responding well to betablockers. Await ID for treatment of ?pneumonia.
+Check lytes, PTT, HCT at 1700
+Follow hemodynamics q8-12hrs.
+Check temp q4-8hrs.
+",,
+13715,3022,17078,0,2696-04-23 17:52:00 EST,2696-04-23 18:00:00 EST,104,"N",1,"Nursing/Other","CCU progress 4p-7p","
+CCU progress 4p-7p
+K 4.3. PTT WNL, Heparin gtt continues at 800u/hr. FS q2h - last 76, Insulin gtt off, recheck sugar at 8pm. 
+VSS. MAP 60-70s. IABP 1:1 good augmentation, good waveform. PAD 28-30. Increased Lopressor to 37.5mg TID. 
+Family @ bedside visiting. Pt A+Ox3, gesturing, cooperative. Fentanyl gtt @ 50mcg. 
+Temp 100.1->97.9. ID in to assess pt this evening. 
+Con't to suction large amts thick bloody secretions. Placed on new EvitaXL ventilator. 
+
+
+",,
+13715,3022,17078,0,2696-04-23 21:35:00 EST,2696-04-23 21:44:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: AS","
+CCU Nursing Progress Note 1900-0700: AS
+Pt to CT Scan this evening to view chest. Uneventful course. On return to room pt very upset and teary. Gesturing and mouthing ""tired"" and ""want to go."" Pt Fentanyl gtt increased to 100mcgs/hr and offered emotional support by family and RN. Later more calm and dozing in and out of [**Doctor Last Name 8**]. Otherwise very pleasant and cooperative. Neuro intact. IABP 1:1 with good augmentation. MAPs 70s. Insulin gtt remaining off. Lasix gtt started at 2200 for 5mg/hr. Heparin at 800u/hr with no changes. Overall plan, AVR on hold till next week secondary to temp and WBC spike, (+) sputum with GPCs, awaiting sensitivities to start treatment. Other culture data pending. ID following. Son staying in room overnight. 
+",,
+13715,3022,17078,0,2696-04-24 00:13:00 EST,2696-04-24 00:29:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 600, A/c 14, Fio2 40%, and Peep 5. PAP/Plateau 19/16. 02 sats 96-100%. Bs remain clear bilaterally. Still with bloody sputum. Pt. transported to CT for chest CT> Moderate R pleural effusion, sm L effusion, consolidation LLL, chronic lung dz.  Tolerated well. No further changes made. Failed Cpap/Psv wean yesterday. Plan: Continue with mechanical support and wean to Psv/Cpap as tolerated. 
+",,
+13715,3022,17078,0,2696-04-24 03:56:00 EST,2696-04-24 04:14:00 EST,867,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Neuro:  Pt sedated on 100mcg/hr fentanly.  Pt comfortable.  Pt able to follow all commands.  Pt became anxious at around 0100, Pt had been told about 2hr prior that ET tube would most likely be pulled in the morning, then pt began to fixate and became very angry and demanding.  Pt given a bolus of fentanyl with good effect.  Pt remains unrestrained.
+
+Cardiac:  Pt in SR HR 68-79, no ectopy.  BP stable with MAP >60 at all times; 93-120/45-56.  Pt has SWAN PA 46-74/45-56; (PA and BP increase with aggitation).  IABP set at 1:1 good dia augmentation with systolic and diastolic unloading.  CVP 6-9.  Heparin 800u/hr am PTT pending.  See careview for CO/CI.
+
+Resp:  Pt remains intubated on AC/600*14/.4%/5.  No am ABG due to no [**Doctor Last Name **].  O2 sat 96-98%  BS clear in upper airway decreased in LL's.  Pt suctioned for mod amt of thick bloody sputum.  CT of chest showed R Pleural effusion that will be tapped tomorrow, Pt will hopefully be extubated in am.
+
+GI:  Pt NPO for extubation.  Pt has OGT clamped.  +BS, abd soft NT.
+
+GU:  Pt has f/c with good u/o, urine amber in color with sediment.  Pt on lasix gtt at 5mg/hr.  Reasonable effect, unclear of goal.
+
+ID:  Low grade temp.  G+cocci in sputum; awaiting sensitivity.  #2 of 2 survalence BC sent at 0000.
+
+Endo:  since pt NPO, BG done q6 hr.  BG stable.
+
+Skin:  Pt has what appears to be a stage 1 on coccyx, duoderm placed.
+
+Access:  Pt has R fem SWAN and IABP.  PIV x3.
+
+Plan:  There remains some confusion as to if pt is going to CT surgery.  ID suggested since temp spike to wait at least 48 hours, where as CT [**Doctor First Name **] wrote note and orders to the contrary, that pt was second case.  Pt is on OR schedule as a ""possible"" case, pt had clot sent, pt still needs hebaclens if he goes to OR.  Make attemps to reconfirm or deny surgery.  Pt may be extubated tomorrow, will have pleural effusions tapped.
+",,
+13715,3022,17078,0,2696-04-24 04:21:00 EST,2696-04-24 04:22:00 EST,867,"N",1,"Nursing/Other",,"
+
+Pt will have pleural effusions tapped today and hopefully extubated in am...sorry for any confusion.
+",,
+13715,3022,17078,0,2696-04-24 06:00:00 EST,2696-04-24 06:01:00 EST,867,"N",1,"Nursing/Other",,"
+
+PTT re-checked from venous stick, and heparin restarted at 0700.  PTT 43.3.
+",,
+13715,3022,17078,0,2696-04-24 12:35:00 EST,2696-04-24 13:32:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""It feels good to talk""
+O-Neuro alert and oriented x2-3, cooperative. fentanyl gtt weaned and d/c'd for extubation. Taking naps.
+CV-IABP 1:1 with intermittant poor augmentation, associated with elevated PAD. Good systolic/diastolic unloading, MAPs 70-[**Telephone/Fax (1) 5198**] Started IV NTG during weaning of vent when PAD increased to 39 and MAP 110. Titrated NTG up to 4mcg/kg to get PAD <25 and weaned off shortly after extubation. Restarted IV NTG again at 1330 when pt was couging/gaging and PAD 40, HR 118, MAP 110, stable at .6mcg/kg/min.
+HR variable with activity lopressor increased to 50mg TID, with good effect HR 74 at 1400.
+Resp-succ extubated at 0845 to 100% neb. Large amt of secretions on top of cuff, pt able to cough up. LS diminished right side and rales at left base. Strong productuve cough thick blood tinged sputum.
+O2 weaned to 50% neb with O2 sats 96%. chest CT revealed bilateral pleural effusions R>L no tap scheduled.
+ID- Low grade temp 100R WBC unchanged 13.8, ID consult start Vanco for poss line infection.
+GU-foley draining 50-100cc/hr Lasix gtt at 5mcg/hr. BUN/CR 37/.7
+GI-OGT removed, GAG intact. Taking clear liquids well. Slight nausea after meds this afternoon with coughing. +BS LBM ?. HCT stable 33.1, LDH elevated 651.
+Endo- Insulin gtt restarted 1-1.5u/hr with FS 140-170.
+Skin- duoderm on coccyx
+Activity- bedrest maintained and tunred q2-3hrs.
+Access-RFA IABP, RFV PA, 3 PIV
+Social-Wife and daughters into visit, happy pt is extubated.
+A/P-Succ extubated, Plan for AVR/CABG on MOnday if pt remains afebrile
+COntinue to monitor hemodynamics. Keep PAD <25, use IV NTG.
+Keep heparin therapeutic. 
+",,
+13715,3022,17078,0,2696-04-24 20:58:00 EST,2696-04-24 21:34:00 EST,118,"N",1,"Nursing/Other","CCU NPN 3-11PM","
+CCU NPN 3-11PM
+CV: HR 70-80's NSR, rare PVC, on Amiodarone po. Remains on IABP 1:1 wtih good augmentation,good systolic unloading. MAP 80-90's. Cont on IV NTG at .6ug/kg/min. Lasix gtt decreased to 2.5mg/hr from 5mg/hr at 2200, UO has been ~200cc/hr, neg 2L at 2200. Cr bumped this eve to 1.4 from .7, will repeat at MN, if cont to rise will dc Lasix for the night. K+ 3.4, given 40mEq KCL po, 40 mEq KCL IV. Denies CP/SOB. CO/CI: 4.4/2.47 SVR 1473. ON IV hep at 800U/hr, PTT 45, no change made.
+
+Resp: on 50% CN sats 93-94%, increased to 100% after episode vomitting and sats dropping to 88%, sats up to 96-98%. LS clear, dim at bases. Strong productive cough, coughing up clots of blood. (emesis is bilious.)
+
+GI: c/o stomach pain after taking KCL po. 2 episodes vomitting occuring after coughing and gaging. Phenergan ordered for nausea. Has had only water and few sips of gingerale earlier. No stool. 
+
+GU: diuresing on lasix gtt as stated above with climbing Cr. 
+
+ID: T 99.7po, sputum with staph. a. coag(+), BC with gr (+) cocci, to start Vanco as soon as available. ID consult to see pt this eve. 
+
+Neuro: Alert, increase agitation and expression of anger towards family, confused to time, place, not remenbering things explained to him by MD's. Given Haldol 1mg IV after which pt has been calmer, sleeping on and off. He asked family to leave, and has been quieter, answering questions and cooperative. Has Haldol prn order. 
+
+Endo: maintaining BS 140-110 on 1.5U reg ins , increased to 2U/hr for few hrs, now back to 1.5u/hr. 
+
+Skin: duoderm intact over coccyx, otherwise intact. 
+
+soc: wife, son and daughter in. Pt in mild delirium, and taking frustrations out on family. 
+
+A/P:cachectic, ill appearing 79 yr old with tight AS awaiting AVR and 1 vessel CABG on IABP with fair CI, renal functioning worsening, requiring IV lasix gtt, IV NTG to keep him out of Pul.ed. Also On Reg ins gtt to maintain BS in normal range. Also has been running T, low grade, sputum with staph. a. coag(+), BC from [**4-23**] with gr (+) cocci.
+",,
+13715,3022,17078,0,2696-04-25 05:31:00 EST,2696-04-25 05:57:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+11 PM - 7 AM
+S/P RIGHT CAROTID STENT PLACEMENT 
+   TIGHT ARORTIC STENOSIS..AWAITING AVR/CABG
+S "" I FEEL THE BALLOON  IN MY CHEST ""
+O PLS SEE CAREVIEW  FLOWSHEET  FOR ALL OBJ/NUMERICAL  DATA
+  CV RIGHT FEM IAB/SWAN  INTACT ..IAB #'S AS 80-100...AD 90-110'S..BAEDP 40'S...MAPS 70-80'S...SYSTOLIC UNLOADING  8-14 PTS ....MV SAT 69..C.O 5.6..INDEX 3.1..PAD 17-19..NITRO AT .6 MCGS/KGMIN..PTT  56 ..HEPARIN GTT DECREASED TO 650 U/HR ...LASIX AT 2.5 MG/HR  WITH U/O 160-200 CC
+Q2..HR 70-80'S...K 4.1 AFTER REPLETION OF 20 MEQ ...
+   RESP ON 100% COOL  NEB..RR 28-30..LUNGS WITH CXS [**12-26**] ..STRONG COUGH ...BUT APPEARS UNABLE TO EXPECTORATE SXNS ..NOT  USING BEDSIDE YANKAUER..SUCTIONED TIMES 3 FOR MOD SIZE THICK DK BLDY CLOTS 
+   GI C/O NAUSEA INTER DURING THE NIGHT ..GIVEN 4 MG OF ZOFRAN..ONE  EPISODE  OF BILIOUS EMESIS...
+   GU URINE OUTPUT 160-200 CC Q2 ..CREATININE UP 1.6 ..
+PULLING OFF 02 MASK ...GIVEN 2.5 MG OF IV HALSOL TIMES  2 WITH GOOD AFFECT ...
+ID TEMP 100 R ..VANCO QD ...
+A   AWAIT SURGERY DATE 
+P FOLLOW HEMODYNAMIC #'S...MONITOR  U/O'S  ON LASIX GTT ...FINGER STICKS ..
+",,
+13715,3022,17078,0,2696-04-25 16:04:00 EST,2696-04-25 16:18:00 EST,488,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S/O: ""I JUST WANT TO DRINK ICE WATER"".
+
+CV: IABP CONT 1:1 WITH GOOD AUGMENTATION AND UNLOADING. R GROIN SITE D/I, PULSES PRESENT. NTG CONT UNCHANGED. HEP DEC AT 0600, PTT AT 1500 44. NO ADJUSTMENTS MADE. PLAVIX CONT. LOPRESSOR 5MG IV PUSHED X2 FOR HR IN 90'S. LOPRESSOR PO CHANGED TO 75MG TID. PLAVIX CONT. NO DATE FOR SURGERY AS YET. C/O 4.99 WITH INDEX 2.5.
+
+RESP: CONT ON 100% NEB, PT DESATS TO MID 80'S ON RA. LUNGS DEC BILAT WITH OCC WHEEZE AD RHONCHI. SATS IN HIGH 90'S WHEN MASK ON. PT TACHYPNIC ALL DAY DESPITE DENIAL OF SOB. 
+
+ID: LOW GRADE TEMP CONT. BC X2 AND URINE SENT. NO TYLENOL GIVEN. WBC DEC SLIGHTLY.
+
+F/E: LASIX GTT OFF AND PT CURRENTLY ABOUT 200CC NEG. PT IS THIRSTY. PAD'S INC TO HIGH 20'S FROM MID AM TO LATE AFTERNOON, NO CHANGE IN SBP OR HR AT THAT TIME. 
+
+GI: PT ATE BOOST X2, MAC/CHEESE AND PUDDING. ACCORDING TO WIFE, THIS IS MORE THAN HE ATE IN LAST 2 WEEKS. INSULIN GTT INC TO 7U/HR AND SUGARS FOLLOWED Q1H. NO STOOL BUT POS FLATUS. ? MOM TONIGHT?
+
+GU: HEMATURIA CLEARED SLOWLY OVER DAY, NOW BROWN WITH SEDIMENT. FOLEY BOTHERS PT AT TIMES.
+
+MS: SLEEPY BUT COOPERATIVE AND TALKING WHEN AWAKE. NO SEDATION GIVEN. PLAN IS TO CONT WITH HALDOL OR TRY MORPHINE IF NEEDED FOR TONIGHT AFTER TRAZADONE. WIFE IN ALL DAY, WAS VERY PLEASED THAT PT WAS RESTING. FAMILY SPOKE TO CARDIOLOGY ABOUT PT'S CONDITION.
+
+A/P: CONT TO FOLLOW CX AS AVAILIBLE. ASSESS TOLERANCE TO INC LOPRESSOR DOSE ON OFF LASIX GTT. TITRATE NTG AND INSULIN AS NEEDED. PUSH PO'S UNTIL SURGERY. MOM TONIGHT. FOLLOW LUNG EXAM AND SPUTUM CX. 
+",,
+13715,3022,17078,,2696-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-26**] 8:39 PM
+     ABDOMEN U.S. (COMPLETE STUDY) PORT; RENAL U.S. PORT             Clip # [**Clip Number (Radiology) 2940**]
+     DUPLEX DOPP ABD/PEL; -52 REDUCED SERVICES
+     Reason: new onset abd pain with highly elevated LFTs, ARF. please as
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with critical AS on iabp until thought to be throwing clots.    
+     REASON FOR THIS EXAMINATION:
+      new onset abd pain with highly elevated LFTs, ARF. please assess liver for 
+      lesions and doppler for blood flow in hepatic artery.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 79 year old male with critical aortic stenosis and new onset acute
+     renal failure. Elevated liver function test.
+     
+     TECHNIQUE: Complete abdominal ultrasound and renal ultrasound with doppler.
+     
+     COMPARISON: Renal ultrasound performed 5 hours earlier.
+     
+     FINDINGS: The liver is diffusely hyperechoic, consistent with fatty
+     infiltration of the liver. No focal abnormalities are detected. The portal
+     veins and hepatic arteries demonstrate normal doppler wave forms. There is no
+     intra or extrahepatic ductal dilatation.  The common bile duct measures
+     4.6 mm. There is sludge within a dilated gallbladder but no evidence of
+     cholecystitis.
+     
+     The right and left kidneys demonstrate preserved renal architecture without
+     evidence of hydronephrosis.  Both renal arteries and veins are patent.
+     Suboptimal arterial wave forms are demonstrated.  There arterial flow within
+     the upper pole of the right kidney with a resistive index of .7.  The lower
+     pole demonstrates arterial wave form with a resitive index of .5. Within the
+     left kidney, arterial wave form within the upper pole was obtained, with
+     evaluation of the mid and lower pole was limited.
+     
+     IMPRESSION:
+     
+     1. Diffusely hyperechoic liver consistent with fatty infiltration.  Some forms
+     of liver disease including significant hepatic fibrosis or cirrhosis cannot be
+     excluded.
+     2. Patent hepatic vasculature.
+     3. Limited doppler analysis of both kidneys as described above.
+     4. Sludge-filled, dilated gallbladder.
+
+",,
+13715,3022,17078,,2696-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-26**] 8:39 PM
+     ABDOMEN U.S. (COMPLETE STUDY) PORT; RENAL U.S. PORT             Clip # [**Clip Number (Radiology) 2940**]
+     DUPLEX DOPP ABD/PEL; -52 REDUCED SERVICES
+     Reason: new onset abd pain with highly elevated LFTs, ARF. please as
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with critical AS on iabp until thought to be throwing clots.    
+     REASON FOR THIS EXAMINATION:
+      new onset abd pain with highly elevated LFTs, ARF. please assess liver for 
+      lesions and doppler for blood flow in hepatic artery.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 79 year old male with critical aortic stenosis and new onset acute
+     renal failure. Elevated liver function test.
+     
+     TECHNIQUE: Complete abdominal ultrasound and renal ultrasound with doppler.
+     
+     COMPARISON: Renal ultrasound performed 5 hours earlier.
+     
+     FINDINGS: The liver is diffusely hyperechoic, consistent with fatty
+     infiltration of the liver. No focal abnormalities are detected. The portal
+     veins and hepatic arteries demonstrate normal doppler wave forms. There is no
+     intra or extrahepatic ductal dilatation.  The common bile duct measures
+     4.6 mm. There is sludge within a dilated gallbladder but no evidence of
+     cholecystitis.
+     
+     The right and left kidneys demonstrate preserved renal architecture without
+     evidence of hydronephrosis.  Both renal arteries and veins are patent.
+     Suboptimal arterial wave forms are demonstrated.  There arterial flow within
+     the upper pole of the right kidney with a resistive index of .7.  The lower
+     pole demonstrates arterial wave form with a resitive index of .5. Within the
+     left kidney, arterial wave form within the upper pole was obtained, with
+     evaluation of the mid and lower pole was limited.
+     
+     IMPRESSION:
+     
+     1. Diffusely hyperechoic liver consistent with fatty infiltration.  Some forms
+     of liver disease including significant hepatic fibrosis or cirrhosis cannot be
+     excluded.
+     2. Patent hepatic vasculature.
+     3. Limited doppler analysis of both kidneys as described above.
+     4. Sludge-filled, dilated gallbladder.
+
+",,
+13715,3022,17078,,2696-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2696-4-26**] 8:39 PM
+     ABDOMEN U.S. (COMPLETE STUDY) PORT; RENAL U.S. PORT             Clip # [**Clip Number (Radiology) 2940**]
+     DUPLEX DOPP ABD/PEL; -52 REDUCED SERVICES
+     Reason: new onset abd pain with highly elevated LFTs, ARF. please as
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with critical AS on iabp until thought to be throwing clots.    
+     REASON FOR THIS EXAMINATION:
+      new onset abd pain with highly elevated LFTs, ARF. please assess liver for 
+      lesions and doppler for blood flow in hepatic artery.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 79 year old male with critical aortic stenosis and new onset acute
+     renal failure. Elevated liver function test.
+     
+     TECHNIQUE: Complete abdominal ultrasound and renal ultrasound with doppler.
+     
+     COMPARISON: Renal ultrasound performed 5 hours earlier.
+     
+     FINDINGS: The liver is diffusely hyperechoic, consistent with fatty
+     infiltration of the liver. No focal abnormalities are detected. The portal
+     veins and hepatic arteries demonstrate normal doppler wave forms. There is no
+     intra or extrahepatic ductal dilatation.  The common bile duct measures
+     4.6 mm. There is sludge within a dilated gallbladder but no evidence of
+     cholecystitis.
+     
+     The right and left kidneys demonstrate preserved renal architecture without
+     evidence of hydronephrosis.  Both renal arteries and veins are patent.
+     Suboptimal arterial wave forms are demonstrated.  There arterial flow within
+     the upper pole of the right kidney with a resistive index of .7.  The lower
+     pole demonstrates arterial wave form with a resitive index of .5. Within the
+     left kidney, arterial wave form within the upper pole was obtained, with
+     evaluation of the mid and lower pole was limited.
+     
+     IMPRESSION:
+     
+     1. Diffusely hyperechoic liver consistent with fatty infiltration.  Some forms
+     of liver disease including significant hepatic fibrosis or cirrhosis cannot be
+     excluded.
+     2. Patent hepatic vasculature.
+     3. Limited doppler analysis of both kidneys as described above.
+     4. Sludge-filled, dilated gallbladder.
+
+",,
+13715,3022,17078,0,2696-04-26 05:51:00 EST,2696-04-26 06:17:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+7 PM - 7 AM
+S/P RIGHT CAROTID STENT  DEPLOYMENT
+PRE-OP AVR/CABG 
+S   ""  I'VE  HAD STOMACH PAIN FOR THE LAST 6 MONTHS ""
+O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA 
+ID TEMP 100 R ..WBC UP TO 16.8..VANCOMYCIN ONE GM QDAY..FOR GPC IN SPUTUM ..AND STAPH EPI IN 1/4 BLD CXS ..LINE COVERAGE ..LEVOFLOXACIN FOR BACTERIA IN URINE ..CXS PNDG
+  CV    HR 60-80'S...CONTINUES ON IAB VIA RIGHT GROIN 1:1 MODE..AUGMENTING WELL..SYSTOLIC UNLOADING 8-12 PTS ..AS 80-100'S..AD 90-110'S..BAEDP 40-50'S..MAPS 70'S...NTG AT .6 MCGS/KG ..HEPARIN AT 650 U/HR WITHA PTT OF 45....C.O 5.6 ..INDEX 3.2...
+  RESP    ON 100% COOL NEB ...RR 32..CONGESTED COUGH ..UNABLE TO COUGH UP SPUTUM ..APPEARS TO CHOKE WHEN ATTEMPTS TO SWALLOW ..TOO WEAK TO USE YANKAUER ...LUNGS  DIMINISHED BUT CXS AT THE BASES 
+  GI   POOR PO INTAKE ... SHORTLY AFTER SWALLOWING MEDS ..HAD COUGHING FIT AND NEARLY ASPIRATED MEDS MIXED WITH OLD BLDY CLOTS ....PT REPORTS NEAR CONSTANT LOWER ABD PAIN ...AND NAUSEA ...NO RELIEF FROM PR COMPAZINE ..WIFE REPORTS 35-40 LB WT LOSS OVER 3 MONTH PERIOD ...SMALL AMOUNT OF SOFT STOOL ..OB NEG..NGT INSERTED FOR MEDS BUT PT SELF D/C'D SHORTLY AFTER 
+  GU URINE OUTPUT POOR ..FOLLOWING BUMP IN CREATININE....URINE BROWN WITH SEDIMENT ..MANY BACTERIA ..URINE LYTES TO BE SENT ...CREATININE UP TO 2.7
+  COMFORT ..GENERAL DISCOMFORT ...DAY 6 ON BEDREST WITH IAB IN PLACE
+ ...Q1 HOUR FINGER STICKS ...NO [**Doctor Last Name **] WITH TRAZADONE 
+  ENDOCRINE ..TIGHT  CONTROL OF FINGER STICKS ...PER CSRU PRE CABG PROTOCAL ..RECEIVED PT ON INSULIN GTT AT 7 U/HR WITH GLUCOSE OF 110 ..PER PROTOCAL NO CHANGE IN INSULIN GTT MADE ..FINGER STICKS CHECKED Q1HOUR WITH GLUCOSE RANGE OF 90-108..INSULIN GTT DECREASED TO 5 U/HR ...AND TO BE RE-CHECKED INAN HOUR ..WENT INTO  PT'S ROOM D/T ..OBSERVED HR IN THE 90'S..WHEN  PT  OBSERVED WITH A DAZED LOOK ..UNABLE TO FOLLOW COMMANDS OR ANSWER QUESTIONS ...FINGER STICK CHECKED AND FOUND TO 8 ( SERUM 10 ) RESPIRATIONS SHALLOW......STAT CHEM 7 AND ABG SENT ..2 AMPS OF D50 GIVEN ...INSULIN GTT STOPPED ...D51/2 AT 50 CC/HR BEGUN ..WITH FINGER STICK RANGE 230-235...WIDER FINGER STICK RANGE NEEDED ..
+A AVR/CABG SCHEDULED FOR MONDAY 
+P MONITOR IAB/PA #'S CLOSELY....? ABD CT SCAN TO ASSESS ABD PAIN ...WILL NEED NGT FOR MEDS ..
+
+
+
+",,
+13715,3022,17078,0,2696-04-26 17:12:00 EST,2696-04-26 18:09:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""My left foot is burning.""
+O- Neuro lethargic but easily arousable. Oriented x1-2, person/hospital. Started fentanyl gtt at 50mcg for persistant pain and discomfort in left groin, feet and abd with good effect. 
+CV-IABP weaned and d/c'd at 1300, d/t new evidence of possible embolus to LLE. Heparin stopped and then restarted at 1500 at 800u/hr goal PTT 60-80. CO/CI/SVR on IABP 1:1 4.9/2.75/1192, off IABP 5.1/2.87/737.
+Right fem swan left in place and PAP 60-80/24-30. IV NTG at .56mcg/kg and d/c'd with MAPs <60 at 1600. Right radial aline placed. Able to take po lopressor 75mg and amioderone 200mg at 11am and HR 57-64 SB-SR. K 4.7. PLT count 105.
+Resp-RR 34-36 shallow with O2 sats 92% on 100% neb. Changed to 100% NRB with O2 sats improving but rr remained 36. LS diminished right with rales left base. ABG 7.40/47/71. Intubated at 1400 7.5/21 lip. Vent 100% 600x14AC 5 PEEP ABG 7.35/50/290, FIO2 weaned down to 50% with O2 sats 99%. Moderate amts of thick red plugs, using lavage
+with good effect. 
+ID temp 100.6R WBC 14.6 vanco-renal dosed.
+GU- foley draining thick sludge 1-5cc and stopped~12noon. Renal consult following now. BUN/CR 74/4.0 To received mucomist x4 doses pre AVP.  LFT's grossly abnormal LDH 3470,
+AST 1936, ALT 1176 Alk phos 54. Kidney ultrasound completed in am without emobolus, rescheduled for ultrasound with doppler flow this evening. Urine lytes sent.
+GI-c/o lower abd pain esp with coughing, usiing pillow for splinting.
++BS x4 abd soft with rebound tender lower abd. Vomited mucomist ~50cc bile OB- received zofran 4mg IV x1.  OGT placed after ETT. HCT stable 30. +flatus no BM.
+Endo-insulin gtt restarted at 1.5u/hr with improvment of BS 150-297. Presently at 3u/hr with FS 148.
+Circulation-0730 c/o left foot burning, repositioned and elevated foot off bed with pillow. 0800 c/o left groin sharp pain, left pedal pulses absent and foot cold. (right foot warm). Pedal pulses checked q1hr and remained absent with foot becoming mottled/cyanotic and dusky. After IABP removed from right fem art, pt lost pedal pulses on the right.
+BLE cold dusky and cyanotic. De [**Doctor Last Name **] aware and examined. Plan to restart heparin and keep goal PTT 60-80. Lactate level 2.9 at 1700.
+Social- family in and very upset regarding pt setback. Aware pt will not go to surgery any time soon and that the plan for AVP is not without risk. ALso aware of possible HD if pt ATN does not resolve.
+A/P-Possible emoboli from IABP, ?mesenteric ischemia, liver shock,
+ATN and loss of pedal pulses.
+CLosely monitor pedal pulses q1hr, Follow lactate level with ABG's
+Restart IV NTG for PAD >30
+FOllow electrolytes closely with ATN
+
+",,
+13715,,17078,0,2696-04-27 05:26:00 EST,2696-04-27 05:50:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+7 PM - 7 AM
+IAB REMOVAL   C/B  LOST  OF DISTAL PULSES
+  DECREASED BLD FLOW TO KIDNEYS AND ISCHEMIC BOWEL
+S/O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA  
+   CV   INITIAL PAD #'S  40'S/20'S  ^^  60'S/30'S...WITH GRADUAL  DOWNWARD  FALL OF SBP REQUIRING  NEO SUPPORT AND WIDE OPEN FLUIDS ..HR 90-100'S  SINUS ..ISCHEMIC ..COMPLEX WIDE ....K 4.4  ^^ 6.2..RX'D WITH 10 U INSULIN ..ONE AMP OF D50 AND BICARB...
+    RESP   ..VENT SUPPORT CONTINUES ...ABG'S  ACIDOTIC DESPITE ^^ RR ..RATE OF 18 AC..TV OF 600 5 PEEP ..FI02 VARIED ..BUT PRESENTLY  AT 60%...ANESTHESIA CALLED TO RE-INTUBATE PT DUE TO SEVERE  AIR LEAK..ETT FOUND ON TOP/JUST BETWEEN CORDS ..ETT ADVANCED TO 25 CM AT THE LIP...CXR CONFIRMED PLACEMENT ..SXNS ORAL/ETT  THICK BLD TINGED ..LUNGS CXS AT BASES 
+   GI   ABSENT BOWEL SOUNDS  ..GI OUTPUT  300 CC BILIOUS ..OB POS ..NO STOOL DESPITE DULCOLOX SUPP..DR [**Last Name (STitle) **] AWARE OF ABSENT BOWEL SOUNDS 
+  GU  NO URINE OUTPUT ...BUN/CREAT RISING ..CREAT >5 ...KIDNEY U/S WITH POOR FLOW TO CORTEX BILAT 
+  ID ..SPIKED TO 101.4....2 SETS OF BLD CXS OBTAINED ..TYLENOL ONE GRAM GIVEN 
+  COMFORT ..FENTANYL AT 150 MCGS CONTINUE 
+  LFTS  GROSSLY ELEVATED ..HEPARIN AT 800 U/HR CONTINUES ..
+A/P  HEMODYNAMIC INSTABLITY..MULTI SYSTEM FAILURE ..FAMILY AT BEDSIDE
+
+",,
+13715,,17078,0,2696-04-27 08:10:00 EST,2696-04-27 08:13:00 EST,142,"N",1,"Nursing/Other",,"
+
+Family at bedside, chaplan called and pt received last rites. Pt was pronounced at 0745 by [**First Name8 (NamePattern2) 427**] [**Last Name (NamePattern1) 1533**] [**Last Name (NamePattern1) **] MD. [**First Name (Titles) **] [**Last Name (Titles) 5199**] sent homw with family, upper denture placed in pt. Pt to morgue at 0915
+",,

@@ -1,0 +1,462 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13943,27356,,,2860-05-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2860-5-16**]              Discharge Date:   [**2860-5-17**]
+ 
+Date of Birth:  [**2808-7-2**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2141**] 
+Chief Complaint:
+tx from [**Hospital 508**] Hospital for resp failure  
+
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+51 yo m with h/o IPF was in USOH at home until 7 days PTA when 
+he developed inc brown sptum, SOB, and chills. Developed 
+diarrhea 3 days PTA. last few days SOB got worse. During the 
+last few days, his pulm increased steroids ans stated on a 
+Zpack. Over the next day, had decreased eating and inc weakness. 
+He is normally on 1.5 L NC O2 at home since his DC from [**2-15**].  
+Wife called EMS at midnight of 4/8. who brought him to [**Hospital 508**] 
+Hosp ED. EMS was unable to obtain an O2 sat and placed him on 
+NRB. On presentation to the ED, his O2 sat was 55% on arrival 
+and then 79% on NRB. ABG pn NRB was 7.44/27/72. He was given 
+tylenol, ativen, rochephin, solumedrol 125 IV, Bactrim, flagyl, 
+and azithro in the ED. Was intubated in the ICU at [**Hospital1 508**] at 
+0245. While intubated, becamse hypotensive and was started on 
+neo and given fluids. Was switched to levophed and vasopression 
+in the ICU. BP reported at 60's systolic. Under sterile 
+conditions, placed L IJ and L art groin line [**3-12**] him being 
+clamped down. Gave aggressive IVF (4L). CVP went from 10 -> 30 
+with fluids. ABG after intubation 7.05/40/86 on AC 
+500/30/10/100. He was noted to have WBC of 29 with 8% bands and 
+given ceftax, vanc, flagyl (?cdiff) in the ICU. Also wanted to 
+give bactrim for PCP, [**Name10 (NameIs) 5552**] did not get b/f transfer. Got a DFA 
+for flu which is neg. Also noted to be in ARF with Cr 2.1. Also 
+got bicarb gtt and stress dose steroids. MD [**MD Number **] was Dr. [**Last Name (STitle) **].  
+
+.  
+Transfered via medflight to [**Hospital1 19**]. On route, required vecuronium 
+an fentanyl bolus. Stopped propofol for hypotension. On 
+presentation to the ICU, gas was 6.98/66/84 on AC 500/18/13/100. 
+Was on levophed and vasopression and bicarb gtt.  
+ 
+Past Medical History:
+1. NIDDM  
+2. HTN  
+3. Intersitial pulm fibrosis - Starting in 9/06, the patietn 
+started to have some SOB. Admitted to OSH [**1-13**] and CT showed 
+pulm infilatrates and honeycoming. VATs-bx at [**Hospital 508**] hosp showed 
+diffuse aveolar damage. Felt to have rapidly accerleating IPF. 
+That admission was started on steroids and went into rehab. DC 
+from rehab in 1/07 on 1.5 L home O2. on a VERY slow pred taper.  
+
+4. hyperchol  
+
+ 
+Social History:
+non smoker, worked at GE. According to wife, never had been sick 
+before this. Is an avid golfer. In the last few weeks, has been 
+using his arms to climb stairs, some SOB. 
+ 
+Family History:
+NC
+ 
+Physical Exam:
+PCV 31, PEEP 13 rate 27 Fio2 100%  
+levophed 0.09  
+vaso 2.4  
+General: unarousable, sedated.  
+HEENT: NC/AT, pinpoint pupils, fixed and symmetric, EOMI without 
+nystagmus, no scleral icterus. Mucous membranes dry.  
+Neck: supple, no JVD or carotid bruits appreciated. Echymoses 
+and erythema at sight of IJ.  
+Pulmonary: diminished breath sounds bilaterally, + bibasalar 
+crackles, or no wheezing heard.  
+Cardiac: RRR, nl. S1S2, no M/R/G noted, soft heart sounds  
+Abdomen: soft, NT/ND, distant bowel sounds  
+Extremities: AKA, no lesions, echymoses. ext very cool, mottled. 
+distal pulses dopplerable  
+Skin: no rashes or lesions noted.  
+Neurologic: sedated  
+
+ 
+Pertinent Results:
+Labs from OSH:  
+BNP 956 picograms/ml  
+NA 137 K 4.3 Cl 101 Bicarb 22 BUN 19 Cr 2.1  
+ca 8, alt P, ast 40, ap 68, alb 2.2, chol 139, INR 1.5, PTT 35  
+WBC 29 with 8 band, 74 neut, HCT 41, plt 352  
+Trop I 0.96 (normal < 0.06)  
+Ddimer 3.69 ug/ml (normal 0 - 0.49)  
+UA 1030, 2+ prot, -LE, +nit  
+.
+notable for INR 2.9, K 6.3, elevated LFTs, elevated Ddimer.  
+.  
+EKG: sinus tach, normal axis, ST depressions V5 - V6, Q in III 
+and TWI III, Q and TWI in III and F  
+.  
+Reports: No radiology sent from OSH.  
+CXR on admission here: diffuse bilateral interstial markings 
+eparing the LUL. No effusions, ETT 8CM from carina.  
+.
+[**2860-5-16**] 08:38AM   FIBRINOGE-667* D-DIMER-6285*
+[**2860-5-16**] 08:38AM   WBC-20.0* RBC-4.06* HGB-12.1* HCT-39.0* 
+MCV-96 MCH-29.8 MCHC-31.1 RDW-13.4
+[**2860-5-16**] 08:38AM   ALBUMIN-2.3* CALCIUM-7.1* PHOSPHATE-9.1* 
+MAGNESIUM-2.2 URIC ACID-8.9*
+[**2860-5-16**] 08:38AM   CK-MB-3 cTropnT-0.17*
+[**2860-5-16**] 08:38AM   ALT(SGPT)-133* AST(SGOT)-197* LD(LDH)-860* 
+CK(CPK)-78 ALK PHOS-64 AMYLASE-52 TOT BILI-1.6*
+[**2860-5-16**] 08:55AM   LACTATE-7.8*
+[**2860-5-16**] 08:55AM   TYPE-ART RATES-18/0 TIDAL VOL-500 PEEP-13 
+O2-100 PO2-84* PCO2-66* PH-6.98* TOTAL CO2-17* BASE XS--17 
+AADO2-576 REQ O2-93 -ASSIST/CON INTUBATED-INTUBATED
+[**2860-5-16**] 05:15PM   LACTATE-11.1* K+-4.5
+[**2860-5-16**] 11:03PM   O2 SAT-88
+[**2860-5-16**] 11:54PM   TYPE-ART PO2-69* PCO2-45 PH-7.11* TOTAL 
+CO2-15* BASE XS--15
+.
+CHEST (PORTABLE AP)  [**2860-5-16**] 6:50 PM
+Slight worsening of bilateral interstitial/alveolar opacities 
+bilaterally, which may represent pulmonary edema.
+.
+[**2860-5-16**] EKG
+Sinus tachycardia. Compared to the previous tracing of [**2860-5-16**] 
+the T wave 
+inversions in the inferior leads are slightly more prominent.  
+.
+
+ 
+Brief Hospital Course:
+Assessment: 51 yo m with h/o IPF dx at [**Hospital 508**] hospital in 12/06 
+here with septic shock and acute resp failure who expired 
+shortly after presentation to the hospital given profound shock. 
+
+.  
+# Resp failure: Most likley [**3-12**] to acceleration of IPF. Was on 
+steroids with a long taper and no PCP [**Name9 (PRE) 1885**] that can be 
+ascertained from records we have. Therefore, at increased risk 
+for pathogens such as PCP, [**Name10 (NameIs) 9868**], [**Name11 (NameIs) **], Aspergillus, 
+coccidioidomycosis, and nocardia, given his immunocompromised 
+state. Diagnostics:  
+sputum cultures, viral screen, U leg antigen. Considered bronch 
+but unable to decrease FiO2. Family was to bring the path slides 
+and CT scans from [**Hospital1 508**] hosptial pathology and Dr. [**First Name4 (NamePattern1) 338**] [**Last Name (NamePattern1) **] 
+will review them to give second opnion on diagnosis of IPF. 
+Theraputics: continued abx which included cefepime for gram pos 
+and pseudomonas coverage; azithro for leginella and mycoplasma 
+coverage; Vanc by level for MRSA (no history of MRSA); bactrim 
+for PCP and nocardia. Ventilation and oxygenation: esopheal 
+balloon to measure trans plumonary pressures. Pt with high chest 
+wall compliance, but very low lung compliance. Continued on PCV 
+to limit peak pressures, need to limit PEEP as well. was 
+initially having very low sats on 100% Fio2 and 13 PEEP. 
+Attempted to wean FiO2.  
+.  
+# Septic Shock: Most concerning for pulmonary etiology. Pan 
+culture and f/u OSH cultures. Broad spectrum abx. Stress dose 
+steroids. Attempted to keep CVP > 20 given high PEEP. Monitored 
+UO which slowly decreased to anuria at time of demise.   
+Continued levophed and vasopressin.  
+.  
+# Gap metabolic acidosis and respiratory acidosis: was on bicarb 
+gtt for most of the day. Elevated lactate, which continued to 
+trend up until the patients demise.  
+.  
+# DM: insulin gtt  
+.  
+# ARF: Cr 2.1 on presentation. No h/o renal failure. could be 
+related to sepsis, volume depletion. Fluid repletion, but 
+patient with lactic acidosis, renal failure, anuric at time of 
+demise.   
+.  
+# Coagulopathy: Concerning for DIC. D-dimer high and INR 
+increasing. PE lower on differential since has clear infectious 
+signs and labs. Avoided heparin.
+.  
+# Diarrhea, has a h/o ciff in the past and has had 3 days 
+diarrhea since starting zpack. Flagyl emperically. c-diff toxin 
+was to be checked x3  
+.  
+# HTN: Held HCTZ while in shock  
+# Hyperchol: Held statin while has shock liver  
+# FEN: NPO, bolus for low UO   
+.
+# Communication/Code: had family discussion on [**5-16**] about 
+expectations. Told family that his IPF is a terminal disease and 
+that his chance of making it though this illness is very low. 
+The family was unaware of the severity of the diagnosis and its 
+natural progression for unclear reasons. The patient did not 
+share much of his medical history with the family. Of note, he 
+told his wife that he did not want to go to the hospital though 
+he had been very ill for the last few days. The outcome of the 
+meeting was to proceed with very aggressive care for the next 48 
+hours and then reassess his status if it has not improved for 
+withdrawl of care. Unfortunately pt's condition continued to 
+deteriorate. 11:30 PM [**2860-5-17**], in discussion with the family 
+members- decision was made that no chest compressions, or shocks 
+would be delivered in the event of cardiac arrest. The 
+implications of this decision were discussed in detail and 
+decision was confirmed. No chest compressions, defibrillation 
+etc to be delivered to the patient in the event of code. Family 
+would like abx, fluids, pressors and other aggressive measures 
+to be continued at this time. Soon therafter patient became 
+bradycardic, overwhleming acidosis, renal failure and shock, and 
+pt expired with family by his side. 
+
+ 
+Medications on Admission:
+Meds on transfer:  
+levophed  
+vasopressin  
+ceftaz 1gm  
+azithrom 500  
+solumedrol 80 IV  
+flagyl 250  
+ativan 1mg  
+vanc 1gm  
+heparin SC  
+insulin gtt  
+bicarb gtt  
+.  
+Meds at home:  
+pred 25  
+protonix 40  
+seroquel 50  
+simvastain 10  
+HCTZ  
+
+ 
+Discharge Medications:
+Pt expired 
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+respiratory failure
+metabolic acidosis
+septic shock
+IPF
+ 
+Discharge Condition:
+expired 
+ 
+Discharge Instructions:
+expired 
+ 
+Followup Instructions:
+expired 
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2147**] MD [**MD Number 2148**]
+ 
+Completed by: [**Name6 (MD) 5056**] [**Last Name (NamePattern4) 5057**] MD [**MD Number 5058**] [**2860-7-26**] @ 1515
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SUN [**2860-8-8**] 10:39 PM
+(End of Report)
+
+
+",,
+13943,27356,,,2860-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-5-16**] 9:54 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4881**]
+     Reason: assess tube placement.                                      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with IPF here with resp failure, sudden worse hypotension,  
+      intubated with high pressures, advanced ETT tube given 8 cm above the carina  
+     REASON FOR THIS EXAMINATION:
+      assess tube placement.                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Worsening respiratory failure.
+     
+     A single AP view of the chest is obtained [**2860-5-16**] at 21:00 hours and is
+     compared with the prior radiograph performed at 19:35 hours.  No significant
+     change is noted between the two studies.  Bilateral alveolar/interstitial
+     opacities persist unchanged.  Patient remains intubated with the tip of the ET
+     tube approximately 6 cm above the carina.  Left-sided central line is
+     unchanged.  Nasogastric tube tip is not visualized.  There may be a left
+     pleural effusion.
+                                                                           
+
+",,
+13943,27356,,,2860-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-5-16**] 9:54 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4881**]
+     Reason: assess tube placement.                                      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with IPF here with resp failure, sudden worse hypotension,  
+      intubated with high pressures, advanced ETT tube given 8 cm above the carina  
+     REASON FOR THIS EXAMINATION:
+      assess tube placement.                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Worsening respiratory failure.
+     
+     A single AP view of the chest is obtained [**2860-5-16**] at 21:00 hours and is
+     compared with the prior radiograph performed at 19:35 hours.  No significant
+     change is noted between the two studies.  Bilateral alveolar/interstitial
+     opacities persist unchanged.  Patient remains intubated with the tip of the ET
+     tube approximately 6 cm above the carina.  Left-sided central line is
+     unchanged.  Nasogastric tube tip is not visualized.  There may be a left
+     pleural effusion.
+                                                                           
+
+",,
+13943,27356,,,2860-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-5-16**] 6:50 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4880**]
+     Reason: eval for PTX                                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with IPF here with resp failure, sudden worse hypotension, 
+      intubated with high pressures  
+     REASON FOR THIS EXAMINATION:
+      eval for PTX                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Respiratory failure.  Hypotension.
+     
+     A single AP view of the chest is obtained [**2860-5-16**] at 1935 hours and is compared
+     with the prior radiograph performed [**2860-5-16**] at 0900 hours.  When compared with
+     the prior examination, there appears to be slight worsening of the mixed
+     interstitial alveolar opacities in both lungs which are relatively sparing in
+     the left upper lobe.  The patient remains intubated with the tip of the ET
+     tube approximately 6 cm above the carina.  A left-sided IJ line is unchanged
+     in position.  Nasogastric tube is in place, but its tip is not included on the
+     current examination.
+     
+     IMPRESSION:
+     
+     Slight worsening of bilateral interstitial/alveolar opacities bilaterally,
+     which may represent pulmonary edema.
+
+",,
+13943,27356,,,2860-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-5-16**] 6:50 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4880**]
+     Reason: eval for PTX                                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with IPF here with resp failure, sudden worse hypotension, 
+      intubated with high pressures  
+     REASON FOR THIS EXAMINATION:
+      eval for PTX                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Respiratory failure.  Hypotension.
+     
+     A single AP view of the chest is obtained [**2860-5-16**] at 1935 hours and is compared
+     with the prior radiograph performed [**2860-5-16**] at 0900 hours.  When compared with
+     the prior examination, there appears to be slight worsening of the mixed
+     interstitial alveolar opacities in both lungs which are relatively sparing in
+     the left upper lobe.  The patient remains intubated with the tip of the ET
+     tube approximately 6 cm above the carina.  A left-sided IJ line is unchanged
+     in position.  Nasogastric tube is in place, but its tip is not included on the
+     current examination.
+     
+     IMPRESSION:
+     
+     Slight worsening of bilateral interstitial/alveolar opacities bilaterally,
+     which may represent pulmonary edema.
+
+",,
+13943,27356,,,2860-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-5-16**] 8:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4879**]
+     Reason: eval for ETT placement                                      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with IPF here with resp failure, hypotension                    
+     REASON FOR THIS EXAMINATION:
+      eval for ETT placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**5-16**]
+     
+     HISTORY:  Respiratory failure.
+     
+     FINDINGS:  The endotracheal tube tip is 8 cm above the carina.  The NG tube
+     tip is in the stomach.  There is a left IJ line with tip in the superior vena
+     cava.  There is increased opacity in the right lung and left lower lobe
+     consistent with a predominantly alveolar infiltrate with an interstitial
+     component.  The cardiac and mediastinal silhouettes are normal.  There are
+     small bilateral effusions.
+                                                                           
+
+",,
+13943,27356,17342,0,2860-05-16 14:57:00 EST,2860-05-16 15:00:00 EST,471,"N",69,"Nursing/Other",,"
+
+Resp. care note - Intubated pt. transffered from OSH to [**Hospital1 10**]. Pt.intubated with @ 7.5 OET 24 at the lip. Esophageal ballon placed without icident, Ptrans 28 cmH2O, pt. on PCV at this time.
+",,
+13943,27356,17342,0,2860-05-16 15:34:00 EST,2860-05-16 16:34:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name **] 4 ICU NPN 0700-1900
+   51 YO with HX idiopathic pulmonary fibrosis, HTN, transferred from [**Hospital **] Hospital in [**Location (un) **] with resp failure, sepsis, ? ARDS, renal failure, ?DIC. 
+PMH sig for IPF dx [**1-13**]. Home O2, high chol, HTN, c-diff colitis.
+P/W SOB, recent diarrhea, brown sputum. RA sats 50's.Placed on 100% NRB. ABG 7.44/27/70. CXR ARDS Temp 100 AX. Developed increased resp distress. Intubated. Became hypotensive to 60's. Initially on neo (then changed to levo) vasopressin, propofol. Given tylenol 1gm, IVF 6.1 liters, antibiotics, steriods.
+ABG prior to transfer 7.01/49/86 on 500 X 30 X 100%, PEEP 10.
+
+RESP: Multuple vent changes. Esophageal ballon placed. Currently on PCV .8 PEEP 13, IP 42. VT's approx 600 cc's. Abg
+
+CV; On levo & vasopressin. Sbp 90's to low 100's most of the day. SBP down to 70's after fentanyl and versed gtts started SBP low 60's. Levophed titrated up. HR high 90's to 120's when waking up. Began having frequent VEA with hypotensive episoded. Potassium, Ionized Ca sent. 
+",,
+13943,27356,17342,0,2860-05-16 16:42:00 EST,2860-05-16 17:19:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN  cont'd 0815-1900","
+[**Hospital Ward Name **] 4 ICU NPN  cont'd 0815-1900
+Hypotensive to low 60's 1L LR infusing. Dopamine gtt started. 
+UO 5-10 cc past few hrs. CVP 23 in AM 25 this afternoon. team aware. No uo previous hr. Receiving fld bolus Intern & resident evaluating pt.ABG 7.41.75.80.14.-12. Lactate 11.1, free calcium 0.98. SBP up to 120's on dopamine. 
+ID:Afeb. WBC 20 (from 29) On azithro. To receive cefepime X1 dose.  bactrim & flagyl to be started. Vanco will be dosed according to levels. On contact precautions for HX c-diff, resp precautions per ID rec's pnd nasopharangea aspirate.
+On insulin gtt. BS uo to 400 with bicarb liter bolus and maint IV. When BS >400,pt given 5 units IV & gtt increased to 15 units hour from 11. 
+Received K-exelate 30 for potassium 6.3. K-exelate 30 grams. Repeat K 4.1. No stool.
+OGT. NPO. Abd sl distended. Hypoactive BS. 
+Skin intact
+SOCIAL: married. Family meeting with ICU team, pts' wife, pt's sister, brother and other family members. Updated on gravity of pt's condition. [**Last Name (un) **] are discussing code status among themselves. Appropriately pset. Social service dept aware. Family declined services today. wife said she will speak with social service Monday.
+A/P: 
+? end-stage IPF with sepsis, ARDS, RF. will continue to support with pressors, vent, antibiotics, insulin gtt
+Dose vanco according to levels
+Follow culture data
+replete lytes
+Hyperglycemia most likely [**3-12**] dextrose load with biacarb gtt, steroids. Cont to follow FS Q1 hr. titrate insulin gtt to BS 80-120.
+Support to family. Social service to follow up 4/9 
+
+
+",,
+13943,,17342,0,2860-05-17 01:55:00 EST,2860-05-17 01:58:00 EST,514,"N",69,"Nursing/Other",,"
+
+O. Patient was made a dnr by wife and family. He continued on all his drips. At 0030 he began to brady down to the 30's and he became hypotensive. All the family was called in and he expired at 0145am
+",,

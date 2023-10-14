@@ -1,0 +1,115 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13252,12685,,,2963-11-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2963-11-12**]              Discharge Date:   [**2963-11-15**]
+ 
+Date of Birth:  [**2916-12-14**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2149**] 
+Addendum:
+As a correction to the discharge summary, the pt's prior cardiac 
+catheterization was performed at [**Hospital6 759**] as 
+opposed to [**Hospital3 3632**] [**Hospital3 126**].
+ 
+Discharge Disposition:
+Home
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2157**] MD [**MD Number 2158**]
+ 
+Completed by: [**First Name8 (NamePattern2) 5368**] [**Name8 (MD) 5369**] MD [**MD Number 5370**] [**2963-11-22**] @ 1827
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2963-11-23**] 2:13 PM
+(End of Report)
+
+
+",,
+13252,12685,16499,0,2963-11-13 05:50:00 EST,2963-11-13 06:16:00 EST,1807,"N",1,"Nursing/Other",,"
+
+PT. IS A 46 Y/O WHO PRESENTED TO [**Hospital1 **] GEN. HOSP AFTER EXPERIENCING OVER 12 HRS OF CHEST DISCOMFORT ASSOCIATED WITH NAUSEA, DIAPHORESIS.  EKG CHANGES ST ELEVATIONS NOTED IN ANT LEADS.  WHILE IN ER PT. HAD V-FIB ARREST, DEFIB X1 WITH 200 JOULES.  CONVERTED TO SR.  TREATED WITH LOPRESSOR, NTG, ASA, INTEG, HEPARIN.  TRANSFERED TO [**Hospital1 10**] FOR CARDIAC CATH.  CATH REVEALED MILD LUMINAL IRREGULARITIES IN LAD, ? SPASM VS CLOT, MILD DZ IN LCX AND RCA, LMCA 20%.  NO INTERVENTION DONE.  TRANSFERED TO CCU FOR CLOSE MONITORING AND POST MI CARE.
+
+NEURO:  PT. IS SPANISH SPEAKING, ALBE TO COMMUNICATE SOME ENGLISH.  [**First Name8 (NamePattern2) 885**] [**Last Name (NamePattern1) 886**] RN IN TO TRANSLATE FOR PT. PT. ALERT AND ORIENTED, C/O HEADACHE THIS AM.  GIVEN TYLENOL FOR PAIN.  
+
+CV:  S/P STEMI BY EKG.  BP STABLE.  SEE FLOWSHEET FOR DATA.  RIGHT GROIN BLEEDING ON ARRIVAL TO CCU.  SHEATH D/C'D AT 0100 BY CARD FELLOW.  NO FURTHER BLEEDING NOTED 3+ DP PULSES BILAT.  2+ PT PULSES BILAT. FEET WARM.  MAG 1.7 REPLETED WITH 3 GM MAG SULFATE IVPB.  DENIES C/O CP.
+
+RESP:  LUNGS CLEAR, O2 SAT 100% ON 2L.  DENIES SOB.
+
+GU:  FOLEY DRAING CLEAR YELLOW URINE IN GOOD AMTS.  SEE FLOWSHEET FOR I/O
+
+GI:  ABD SOFT.  + BOWEL SOUNDS.  NO NAUSEA.  NPO OVERNIGHT.  DRANK CUP OF COFFEE THIS AM.
+
+ID:  AFEBRILE, WBC WNL
+
+A:  S/P STEMI, MILD DISEASE IN CORONARIES.  ? CLOT (DISSOLVED WITH ANTICOAGULANTS) VS CORONARY SPASM.  S/P VF ARREST.
+
+P:  MONITOR LYTES, FOLLOW CK/TROP.  MONITOR GROIN SITE FOR BLEEDING PALP PULSES.  UPDATE PT. AND FAMILY ON PLAN OF CARE PER CCU TEAM.
+",,
+13252,12685,16499,0,2963-11-13 15:08:00 EST,2963-11-13 15:36:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: Pt primarily spanish speaking, interpreter at bedside this am during rounds, some translation provided via nursing staff, pt able to communicate basic needs.
+
+O:Please see careview for VS and additional data.
+
+CV: Pt HR 56-78 SB/NSR, no ectopy noted.  Pt HR increased briefly up to 116 this am during rounds with MD[**Name6 (MD) **] and RN at bedside, HR decreased to 70's without intervention after CCU Team left room. Pt NBP 100-133/56-75.  Pt continues on integrillin gtt 2 mcg/kg/min, gtt d/t be dc'd at 2330.  Pt started on 25 mg PO metoprolol this am, pt tol. Pt received 5 mg Norvasc for ? vasospasm this afternoon, pt tol. Pt bilateral radial & DP/PT pulses palp, R groin CDI, area soft, no hematoma noted.  Afternoon labs-> K 3.5, Dr. [**First Name (STitle) **] aware, to be repleted. CPK 201 (was 183), CPK/MB 3 (was 3), cardiac enzymes d/t be drawn at 2200. Pt denies CP.
+
+Resp: Pt LS CTA, pt denies SOB, RR 20's, O2 sats 100% on 2 L n.c, 97% on room air. 
+
+Neuro: Pt primarily Spanish speaking, interpreter present at bedside this am for CCU rounds.  Additional translation provided via nursing staff and family.  Pt able to communicate basic needs to RN. Pt with minimal c/o shoulder discomfort, PO tylenol given, pt repositoned with some relief. Pt denies CP. Pt MAE, turning self in bed.
+
+GI/GU: Pt abd soft, +BS x 4, pt tol meals, denies nausea, no stool this shift. Pt with foley cath draining clr yellow u/o 90-170 cc/hr. Post cath hydration fluids continue at 1/2 NS @ 100 cc/hr.
+
+ID: Pt afebrile, WBC 8.4.
+
+A/P: 46 y/o female with STEMI c/b Vfib arrest at OSH->to [**Hospital1 10**] cath lab-> LAD with mild luminal irregularity->? clot (sponataneous reperfusion) vs ?vasospasm. Pt hemodynamically stable, conts on integrillin gtt, metoprolol and norvasc started.  As discussed per interdisciplinary rounds, continue to monitor pt hemodynamics, lytes, groin site/pulses.  Continue to monitor pt resp status, u/o, advance activity as pt tol. Continue to provide emotional support to pt and family, interpreter services as needed.
+",,
+13252,12685,16499,0,2963-11-14 03:37:00 EST,2963-11-14 03:49:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS BOTE","
+CCU NURSING PROGRESS BOTE
+S:PRIMARY LANGUAGE:SPANISH
+O:ABLE TO COMMUNICATE W/ PT IN SPANISH. PT IS 46YR OLD FEMALE  ADM TO LH W/ +STEMI, HAD A VF ARREST . PT WAS TRANSFERED TO [**Hospital1 10**] FOR CATH. 
+CATH SHOWED NO SIGNIFICANT CAD. LUMINAL LAD IRREGULARITYC/W MASOSPASM VS SPONTANEOUS REPERFUSION
+CV: PT HEMODYNAMICALLY STABLE. MHF 60-70, NO VDZ, TOL LOPRESSOR, ISORDIL, RIGHT GROIN DSG D'I
+GI: +BS, NO BM. ON BED REEST
+A/PPROVIDE TEACHING MATERIAL IN SPANISH. OBTAIN INTERPERTER AS NEED. CONTINUE VASODILATING MEDS 
+",,
+13252,12685,16499,0,2963-11-14 16:21:00 EST,2963-11-14 16:24:00 EST,2396,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+see nursing transfer note- awaiting floor bed- amb in room without incident- no c/o- vss- voiding clear yellow colored urine qs- PO intake good- rest of assessment unchanged.
+
+",,
+13252,29371,16500,0,2963-11-22 04:58:00 EST,2963-11-22 05:01:00 EST,1546,"N",1,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+46 yo f adm from outside hospital, intubated, fully vent supported. Pt placed on AC 600/20/100%. Awaiting ABG results, further labs. Will follow, maintain support. 
+",,
+13252,29371,16500,0,2963-11-22 06:35:00 EST,2963-11-22 06:57:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+46 yo female recently hospitalized at [**Hospital1 10**] [**Date range (1) 4586**] s/p STEMI c/b vfib arrest. Cath found no abnormalities except mild LAD at D1 c/w vasospasm. Stenosis decreased following tx. 
+Pt experienced SSCP last pm. Course c/b vfib arrest requiring, defibrillation, EPI and ETT by EMS. At osh, pt asystolic, defib x 3 for vfib. Pressors started for BP support. Pt received 300 mg bolus AMio followed by 150 mg Amio over 10 min and start of Amio gtt at 1 mg/min. Transiently transcutaneously paced. Returned to NSR. Fixed and dilated at OSH prior to transfer. Started on Levophed by medflight for labile BP.
+MS: Unresponsive to painful stimuli. Pupils fixed and dilated. Absent gag/cough. No sedation since Fentanyl received in route via medflight.
+
+ CV: Pt arrived at 0500 on Dopamine, Levophed and Amiodarone via CVL. NIBP initially labile but able to wean off pressor support. Pt remains on Dopamine at mcg/kg/min and Amiodarone 1 mg/min. AM labs still pending. Clot sent to BB.
+
+Resp: AC. Arrived on 100%/ 12 * 500. ABG still pending. Suctioned for scant bld tinged secretions. Pt noted for agonal breathing while on vent.
+
+GI/GU: Abd soft. NTND. +BS. No stool. F/C to gravity. Poor UOP. U/A sent.
+
+ID: Tmax 95.0. BC cultures x2 sent.
+
+Social: Large family network. 5 children. Originally from [**Country 270**] Republic. Husband not visiting at present. Children refraining from telling father of [**Name2 (NI) 4587**] d/t his poor health and preexisting hypertensive health condition. Dtrs numbers on board. No known advanced directive. 
+
+A/P: Vfib arrest c/b hypoxia. Unresponsive. Fixed and dilated with aganol breathing while ventilated. Cont further diagnostics to establish degree of hypoxia. Keep family updated in POC. Establish code status. Cont supportive care. 
+
+
+",,
+13252,29371,16500,0,2963-11-22 16:54:00 EST,2963-11-22 17:04:00 EST,2015,"N",1,"Nursing/Other","CCU NURSING S/P CARDIAC ARREST","
+CCU NURSING S/P CARDIAC ARREST
+PT IS A 46 YO WOMAN ADMITTED TO OSH W/CHEST PAIN, VF ARREST - PROLONGED PERIOD OF ASYSTOLE, INTUBATED IN FIELD - TRANSFERRED VIA MED FLIGHT FOR FURTHER MANAGEMENT, RECEIVED PT UNRESPONSIVE W/O COUGH/GAG/CORNEALS/NO MOVEMENT OR RESPONSE TO PAIN; AT 0700 ON DOPAMINE 5MCGS, LEVO OFF, AMIO AT 1MG IV, OVER COURSE OF AM PT BECOMING INCREASING HYPOTENSIVE - INCREASING PRESSORS TO MAX OF DOPAMINE 15 MCGS, LEVOPHED 0.5 MCGS/KG, AND VASOPRESSIN AT .04U/MIN W/BP'S 40-60/30-50, L RADIAL A-LINE UNABLE TO READ PRESSURE - R FEM A-LINE PLACED W/CONFIRMED PRESSURE 40-60'S/SYST; INITIAL PH 7.26 W/LACTIC ACID 7 - 2 AMPS BICARB GIVEN AND STARTED BICARB GTT W/WORSENING LACTIC ACID TO 14 AND PH TO 7.08 - PT MADE DNR AFTER DISCUSSION W/LARGE FAMILY; PRESSORS, BICARB GTTS REMAINED IN PLACE BUT NOTHING ADDED, AT 1600, FAMILY MADE DECISION TO WITHDRAW CARE, ALL GTTS D/C'D - EXTUBATED W/O SPONTANEOUS RESPIRATIONS, PT INCREASING BRADYCARDIC TO ASYSTLOE - PRONOUNCED AT 1627 BY [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD; FAMILY CONSENTED TO POST-MORTEM; LINES LEFT IN PLACE; LARGE EXTENDED FAMILY W/PT - AWAITING OTHER FAMILY MEMBERS TO ARRIVE FROM [**Hospital1 **]. 
+",,

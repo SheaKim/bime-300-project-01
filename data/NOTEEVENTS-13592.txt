@@ -1,0 +1,128 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13592,23724,,,2675-06-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Unit No:  [**Telephone/Fax (1) 9347**]
+Admission Date: [**2675-6-22**]
+Discharge Date: [**2675-6-23**]
+Date of Birth:
+Sex:
+Service:
+
+
+ADMISSION CHEST COMPLAINT:
+1.  Free intraperitoneal air.
+2.  Status post myocardial infarction.
+3.  Ischemic gut.
+
+HOSPITAL COURSE:  Mrs. [**Known patient firstname 9348**] [**Known patient lastname 9349**] was a 79 year-old
+Caucasian female who was referred from an outlying facility
+having been approximately several days status post an acute
+myocardial infarction. The patient experienced a low flow
+state during this period of time. In addition she was
+receiving steroid therapy for exacerbation of her chronic
+lung disease. Prior to being transferred to the medical
+Intensive Care Unit at the [**Hospital1 391**] the patient had undergone a CT scan which revealed
+free intraperitoneal air. At this point in time the patient
+had a stat transfer to the surgical service arranged. The
+patient was then a direct admit to the trauma surgical
+Intensive Care Unit where appropriate intravenous access was
+achieved. Because of the nature of the patient's comorbidity
+the family was cautioned that both intraoperative and
+postoperative course were likely to be quite stormy.
+
+The patient was taken to the operating room where upon
+laparotomy an extension infarction of the colon was noted.
+She underwent a total abdominal colectomy and an end
+ileostomy. The patient was returned to the trauma surgical
+Intensive Care Unit in critical condition. The patient was
+maintained over the next 24 hours with extensive coverage
+with inotropic agents and vasopressors. The patient
+essentially made no meaningful physiologic recovery.
+Approximately 12 hours after her surgical procedure an
+extensive discussion was held with the family regarding the
+fact that it will be unlikely that she will recovery. The
+patient's family then asked the patient be made Do Not
+Resuscitate and receive comfort measures. This was done. The
+patient subsequently expired quietly.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. [**MD Number 3432**]
+
+Dictated By:[**Last Name (NamePattern1) 9350**]
+MEDQUIST36
+D:  [**2675-10-7**] 17:16:26
+T:  [**2675-10-7**] 18:00:14
+Job#:  [**Job Number 9351**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: FRI [**2675-10-8**] 12:13 PM
+(End of Report)
+
+
+",,
+13592,,16915,0,2675-06-22 05:33:00 EST,2675-06-22 05:51:00 EST,417,"N",74,"Nursing/Other","T/SICU Nursing Admission Note","
+T/SICU Nursing Admission Note
+Mrs. [**Known patient lastname 4997**] is a 79 year old woman transferred to [**Hospital1 10**] from [**Hospital3 2715**] via ground critical care transport. She was admitted to [**Hospital1 **] on [**6-18**] following a syncopal episode. She then r/i for an interior wall MI. On [**6-21**] she developed excruciating abdominal pain and CT scan of her abdomen revealed perforated bowel. She was tranferred to [**Hospital1 10**] for further treatment During transport she had a 6 minute run of vtach. Following admission she was taken to the OR for a subtotal colectomy with an end ileostomy.
+PMH & PSH: s/p appi, s/p hiatal hernia repair, s/p lumpectomy followed by radiation therapy, s/p total hip replacement, s/p lami 98 with new L1 fx. Nephrotic syndrome.  s/p chole
+Meds at home: prednisone, cyclosporin,oxycodone
+Meds on transfer: solumedrol, protonix, morphine, plavix, asa, zocor, gent
+REVIEW of SYSTEMS:
+Neuro: 
+",,
+13592,,16915,0,2675-06-22 05:36:00 EST,2675-06-22 05:41:00 EST,894,"N",74,"Nursing/Other",,"
+
+RESP CARE: pt recieved from OR intubated/on vent settings per carevue flowsheet. Multiple vent changes made. ABGs consistent with met acidosis,high lactate levels noted. Lungs coarse bilat. Sxd no sputum. Pt on mult pressors, 2 episodes of V-tach noted. Pt cardioverted x2. remains critically ill on full vent support. No RSBI this am due to hemodynamic instability.
+",,
+13592,,16915,0,2675-06-22 05:57:00 EST,2675-06-22 06:16:00 EST,417,"N",74,"Nursing/Other","t/SICU Nursing Note Continued","
+t/SICU Nursing Note Continued
+Review of systems:
+Neuro: on arrival, pt was alert, a little confused but cleared after a while. Moved all extremities, followed commands, c/o pain as a severe band across her lower abdomen. Also c/o nausea.  Able to talk with her family and agreed to surgery and seemed to understand the gravity of the situation.  After the OR she was sedated with low dose propofol and fentanyl and did not respond to stimuli. Perrla @ 5, +resp, no cough.
+CVS: Unstable night.  Pt. with multiple arrhythmias. Very frequent pvcs, runs of vtach and then two prolonged runs of vtach just after 5 am which required cardioversion with 200 joules and then 300 joules. Decreasing co and ci over the course of the night.  BP supported with levophed, then vasopressin added. After Vtach, pt loaded with amio and gtt started. Peripheral pulses present but extremities are cool and mottled. Cycling cpks
+RESP: multiple vent changes made. Persistent metabolic acidosis, no secretions.
+RENAL: baseline cr 2.1, postop 1.2, received 5000cc lr in 500cc boluses to support bp and baseline fluid of lr@125/hr. Urine output 5-20cc/hr since or. Lytes repleted
+GI:on admission remarkable firm, tender abdomen. Postop abdomen softer but increased over coarse of shift. R sided ileostomy pale. On famotidine.
+endo:ssri
+Heme: multiple bruised areas over all of body. sq heparin started, pneumoboots in place. INR 1.5. Hct 27, received 1 u prbc
+ID: on flagyl and levofloxacin, wbcs elevated
+skin: had coccyx decub on admission, red with broken area right on coccyx.  Also dime side area at R of coccyx
+Lines: VIP PA catheter in rij, r radial art line placed, two peripheral ivs.
+social: son [**Name (NI) 48**] and daughter in law [**Doctor First Name 937**] in and spoke with pt initially. They understand the gravity of the situation. They spoke with Dr. [**Last Name (STitle) 4998**]. After the vtach, Dr [**Last Name (STitle) 4999**] called and spoke with the family to update them.  They requested sacrament of the sick.
+A: ischemic bowel with massive multisystem organ involvement
+P: continue to support patient and family during this difficult time
+",,
+13592,,16915,0,2675-06-22 15:13:00 EST,2675-06-22 15:15:00 EST,7438,"N",74,"Nursing/Other",,"
+
+Resp Care
+ 
+Pt remains on A/C. Decreased FIO2 from 70 to 50 due to ABG results.
+No other changes noted.
+",,
+13592,,16915,0,2675-06-22 17:06:00 EST,2675-06-22 17:19:00 EST,6293,"N",74,"Nursing/Other","npn 07-1930","
+npn [**7-/2599**]
+ROS: see carevue for details
+
+NEURO: patient sedated on fentanyl and ativan drips for comfort. was lightened first thing this morning and was able to nod head appropriately and follow simple commands. PERLA [**4-21**]
+
+CV: hemodynamically very labile with continuous pressor and fluid bolus requirements. HR irregular 80-90s with frequent PACs and PVCs. dobutamine started in attempt to better CO, with fair effect. able to wean levophed slightly t/o day. pedal pulses difficult to palpate. extremities cool, slightly mottled. +[**3-20**] edema.
+
+RESP: remains orally intubated and vented on AC, as charted in carevue. LS clear, diminished at bases. continues with metabolic acidosis, with very slight improvement. able to wean FiO2 to 50%. O2 sat 100%
+
+GI: OGT remains to LWS with bilious output. abd firm, distended absent bowel sounds.
+
+GU: marginal u/o with minimal improvement after start of dobutamine. clear yellow output. lytes WNL
+
+ENDO: insulin drip started to maintain BS <120 with good effect. 
+
+ID: IV ABX as ordered. WBC climbing. afebrile
+
+SKIN: dime sized area of breakdown to left buttock, duoderm applied. midline abdominal incision with primary surgical dressing intact, draining s/s fluid, reinforced x1. multiple skin tears to arms > adaptic applied, paper tape when needed. 
+
+social: son, daughter and daughter-in-law at bedside t/o day. multiple discussions with team regarding plan of care and code status. suppport given. family decided to make patient DNR and will make patient comfort measures only when [**Last Name (un) 1486**] arrives. Dr. [**Last Name (STitle) 4998**] & ICU team aware and in agreement with plan.
+
+PLAN: withdraw care when family ready, maintain comfort with fentanyl drip. emotional support to family. 
+",,
+13592,,16915,0,2675-06-22 18:26:00 EST,2675-06-22 18:27:00 EST,6293,"N",74,"Nursing/Other","addendum","
+addendum
+patient made comfort measures at 1830. patient was extubated and drips were turned off. family at bedside with [**Last Name (un) 1486**]. pronounced dead at 1850 by Dr. [**Last Name (STitle) **]. 
+",,

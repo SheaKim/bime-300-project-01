@@ -1,0 +1,255 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13216,14492,,,2879-01-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2879-1-16**]     Discharge Date:  [**2879-1-19**]
+
+Date of Birth:   [**2842-10-24**]     Sex:  M
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 36-year-old
+male with multiple sclerosis and insulin-dependent diabetes
+mellitus who presented with gastrointestinal bleed and
+diabetic ketoacidosis.
+He has had poor dietary habits and medication compliance
+since separation from his wife.  The patient had nausea,
+vomiting, and progressively worse hematemesis for several
+days, positive chills, diffuse abdominal pain, and polyuria.
+No fevers.  No cough.  No diarrhea.  No pain on urination.
+No shortness of breath.  No sick contacts.  He alerted
+Emergency Medical Service and was transported to [**Hospital3 **]
+
+PAST MEDICAL HISTORY:
+1.  Insulin-dependent diabetes mellitus (IDDM) since the age
+of 13; for 23 years.
+2.  Diabetic retinopathy.
+3.  Depression.
+4.  Hypercholesterolemia.
+5.  Ruptured disks in neck (C6 and C7); status post head
+trauma two years ago with chronic pain in back and neck and
+decreased movement of neck.
+6.  Multiple sclerosis for the past two years; paralysis
+worse on the right side.
+7.  [**Female First Name (un) **] esophagitis several months ago; treated with
+Diflucan.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+
+SOCIAL HISTORY:  He smokes one and a half packs of cigarettes
+per day.  He has a 27-pack-year history.  He started at the
+age of 18.  He drinks one drink of ethanol per week.  No
+intravenous drug abuse.  No other illicit drug abuse.  He
+grew up in [**Location (un) 8710**], [**State 3255**].  He currently lives in
+[**Location 1458**] with his mother.  He is in the process of getting a
+divorce.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Physical examination
+revealed temperature was 98.6, heart rate was 80, blood
+pressure was 132/74, respiratory rate was 20, oxygen
+saturation was 96% on room air.  In general, alert and
+oriented times two (person and place, but not date).
+Lethargic but arousable.  Cardiovascular examination revealed
+normal first heart sound and second heart sound.  A regular
+rate and rhythm.  No murmurs, rubs, or clicks.  The lungs
+were clear to auscultation bilaterally.  The abdomen was soft
+and nondistended.  Slight tenderness in the left lower
+quadrant.  Guaiac-negative.  Extremity examination revealed
+no cellulitis, warm and well perfused, capillary refill less
+than two seconds in all four extremities.  Radial pulses were
+2+ bilaterally.  Palpable bilateral posterior tibialis
+pulses.  Decreased gross touch sensation bilaterally in the
+lower extremities.  Positive clonus in the right foot.
+Decreased grip strength and right decreased biceps and
+triceps strength in the right compared to the left.
+Neurologic examination revealed cranial nerves II through XII
+were grossly intact.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  Laboratories on
+admission revealed complete blood count with a white blood
+cell count of 11.9, hemoglobin was 16.3, hematocrit was 50.2,
+and platelets were 401.  Differential revealed 79%
+neutrophils, 18% lymphocytes, and 2% monocytes.  Prothrombin
+time was 13, partial thromboplastin time was 19.8, and INR
+was 1.1.  SMA-7 revealed sodium was 133, potassium was 5.1,
+chloride was 88, bicarbonate was 16, blood urea nitrogen was
+31, creatinine was 1.1, and blood glucose was 688.  Anion gap
+was 29.  Calcium was 10.6, phosphorous was 6.1, magnesium was
+2.1, and albumin was 2.1.  Moderate serum ketones.  ALT was
+43, AST was 26, LD was 327, alkaline phosphatase was 125,
+lipase was 14, total bilirubin was 0.5.  Hepatitis B surface
+antibody was negative.  Hepatitis B surface antigen was
+negative.  Hepatitis C antibody negative.  Urinalysis was
+significant for greater than 1000 glucose and greater than 80
+ketones.  An arterial blood gas showed a PO2 of 181, a PCO2
+of 25, and a pH of 7.28.
+
+RADIOLOGY/IMAGING:  A chest x-ray showed no infiltrates or
+effusions.
+
+ASSESSMENT AND PLAN:  This is a 36-year-old gentleman with
+insulin-dependent diabetes mellitus, and diabetic
+ketoacidosis, and gastrointestinal bleed.
+
+The hematemesis was likely from a small [**Doctor First Name 1148**]-[**Doctor Last Name **] tears
+from the nausea and vomiting.  The diabetic ketoacidosis was
+likely from a poor diet and insulin compliance secondary to
+depression and social situation.
+
+HOSPITAL COURSE:  The patient was was guaiac-positive at
+admission.  A nasogastric tube was placed, and NGT lavage showed
+a small amount of red blood that quickly cleared.  However, his
+hematocrit throughout this admission was stable in the high 30s
+and low 40s.
+
+He was given intravenous fluids, potassium, and insulin and had
+his sugars monitored to maintain fingerstick blood glucoses
+between 140 and 180.
+
+He was in the Medical Intensive Care Unit from [**2879-1-16**] to [**2879-1-17**] when he was transferred to the
+floor on the evening of [**2879-1-17**] with a corrected
+anion gap of 11.  He continued to remain stable on the floor
+and had a change of his diabetes regimen for better control.
+He was instructed on his new regimen by the medical team,
+then Endocrine consultation from [**Last Name (un) 720**], and a diabetic
+teaching nurse.  He was discharged with followup at the
+[**Hospital 720**] Clinic.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE DIAGNOSES:
+1.  Insulin-dependent diabetes mellitus.
+2.  Depression.
+3.  Hypercholesterolemia.
+4.  Ruptured disks in neck (C6 and C7); status post head
+trauma two years ago with chronic pain in the back and neck
+and decreased movement.
+5.  Multiple sclerosis for about two years; paresis worse
+on the right side.
+
+MEDICATIONS ON DISCHARGE:
+1.  Percocet 5/325 one to two tablets p.o. q.4-6h. as needed
+(for pain).
+2.  Zestril 10 mg p.o. q.d.
+3.  Dilantin 500 mg p.o. q.h.s.
+4.  Paxil 30 mg p.o. q.d.
+5.  NPH insulin 15 units subcutaneously in the morning and 15
+units subcutaneously at night.
+6.  Humalog insulin sliding-scale.
+7.  Provigil 200 mg p.o. b.i.d.
+8.  Copaxone.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient had an appointment scheduled with Dr.
+[**Last Name (STitle) 8711**] at the [**Last Name (un) 720**] Diabetes Center on Thursday, [**1-19**], at 1 p.m.
+2.  The patient had an appointment scheduled with the [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 1957**] Clinic at the [**Hospital1 10**] on
+[**1-20**] at 1 p.m.
+3.  The patient had an appointment scheduled with his primary
+care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) 8712**]; a [**Hospital3 685**]
+(telephone number [**Telephone/Fax (1) 5054**]) on [**1-30**] at 1 p.m.
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4139**], MD  [**MD Number 4140**]
+
+Dictated By:[**Last Name (NamePattern1) 8713**]
+
+MEDQUIST36
+
+D:  [**2879-1-21**]  19:16
+T:  [**2879-1-23**]  16:16
+JOB#:  [**Job Number **]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2879-2-16**] 8:59 AM
+(End of Report)
+
+
+",,
+13216,14492,,,2879-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-1-16**] 9:31 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 13837**]
+     Reason: s/p ngt placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with DKA, concern for infiltrate
+     REASON FOR THIS EXAMINATION:
+      s/p ngt placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 36-year-old man with DKA, concerned for infiltrate. Status post
+     nasogastric tube placement.
+     
+     AP UPRIGHT VIEW OF THE CHEST: A nasogastric tube is present, coiled in the
+     stomach. The heart size, mediastinal contour, and pulmonary vasculature are
+     within normal limits. Lungs are clear. Osseous and soft tissues are grossly
+     unremarkable.
+     
+     IMPRESSION: Nasogastric tube coiled in the stomach.
+
+",,
+13216,14492,16458,0,2879-01-17 04:57:00 EST,2879-01-17 05:18:00 EST,-1,"N",69,"Nursing/Other",,"
+
+D ADM from EW in DKA NS infusing and insulin at 5u on arrival FS 267.
+Nuero: Pt still sleepy but alert when aroused Oriented X3 moves L extremeties without difficulty Rt leg can move fairly well off bed and demonstrates strength RT arm with poor grasp but can lift off bed. On full Nuerologic exam Pts rt side mobility and strength decrease as a result of MS.
+CV: ST initially now NSR no VEA. palp pulses.NS 3liter given currently recieving D51/2NS at 200. Insulin Drip @ 3units last FS 194 
+Lungs BS clear in all fields.
+GI NG LWS initially red NG drainage 500cc Lavage Cleared then later Coffee ground noted lavage 500cc pt vomited while finishing lavage light green to clear emisis.currently small amt of bilious  drainage. ABD soft BS present Large hard brown stool guiac POS  no evident BLD.
+GU voiding clear yellow urine.
+Skin intact . skin very dry
+A DKA resolving GAP much improved 
+R continue [**Last Name (un) **] frequent checks of Lytes continue insulin drip and continue FLDS.
+  
+",,
+13216,14492,16458,0,2879-01-17 14:36:00 EST,2879-01-17 14:57:00 EST,-1,"N",69,"Nursing/Other","07:00-15:00 MICU NPN","
+07:00-15:00 MICU NPN
+*Pt called out to Floor
+*Please refer to Careview for additional patient information
+
+Neuro: A/Ox3, answering questions appropriately; sleeping off and on throughout shift. Moving all extremities in bed w/out difficulty, yet pt states that he has R sided weaknes [**1-8**] MS; uses a cane when at home. PERLA. 
+
+CV: HR ~80's, NSR, no ectopy noted. BP's 120-130's/60-70's. Pulses palpable throughout distal extremities. Tmax 99.1, currently 98.4PO. 
+
+Resp: Taken off NC 2L, presently on RA w/ sat's high90's-100%. RRR 16-20, no c/o sob, LS clear througout. 
+
+GI/GU: NGT d/c'd. Pt currently taking PO's, drinking gingerale and H2o w/out difficulty, as well as eating crackers; no c/o N/V, no episodes of vomiting. BS+. u/o 500cc this shift, pt voiding via urinal. 
+
+Endo: Insulin gtt turned off at 13:00, bs 118-146 (please refer to Careview for bs and range). 
+
+Electrolytes: Repleted w/ KCl, and Phosphorous this shift. 
+
+Skin: red rash on chest, HO aware. 
+
+Social: Mother called 2x's, updated on pt's condition.
+
+**Pt called out
+",,
+13216,14492,,,2879-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-1-18**] 3:12 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 13838**]
+     Reason: ?any GI bleed, other abnl                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old man with IDDM, came in w/ DKA, hx of hematemesis, guaiac +          
+     REASON FOR THIS EXAMINATION:
+      ?any GI bleed, other abnl                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN:
+     
+     History of diabetes with diabetic ketoacidosis and hematemesis.
+     
+     The distribution of bowel gas is unremarkable and gas is present throughout
+     the colon with fecal residue in the rectum.  No evidence for intestinal
+     obstruction.  No free intraperitoneal gas.
+     
+     IMPRESSION:  No diagnostic abnormalities.  
+
+",,

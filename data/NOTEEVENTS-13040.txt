@@ -1,0 +1,1661 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13040,,,,3205-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-7**] 12:30 PM
+     CT GUIDANCE DRAINAGE; CT HEPATIC DRAINAGE                       Clip # [**Clip Number (Radiology) 12485**]
+     CT ABDOMEN W/O CONTRAST
+     Reason: Drainage of abscess w/ fluid sent for culture               
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with large liver abscess s/p whipple ('[**01**]) and multiple 
+      abscesses.  
+     REASON FOR THIS EXAMINATION:
+      Drainage of abscess w/ fluid sent for culture                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided abscess drainage.
+     
+     INDICATION:  50-year-old woman with large liver abscess.  History of
+     pancreatic cancer, Whipple, and multiple abscesses.
+     
+     PRELIMINARY CT SCANNING EXAMINATION:  Outside CT dated [**3205-9-6**] was reviewed
+     revealing a 7 x 5 cm round abscess with an air fluid level in the right
+     hepatic lobe. Preliminary CT at [**Hospital1 416**] again revealed a 7 x 5 cm collection
+     with an air fluid level in a bilobed configuration, with a contiguous smaller
+     component slightly more inferiorly.
+     
+     There are small bilateral pleural effusions with bibasilar atelectasis, right
+     greater than left.
+     
+     CATHETER INSERTION:  Utilizing CT guidance, and a tandem trocar technique, a
+     10 French locking pigtail catheter was inserted and deployed into the abscess.
+     Catheter position was confirmed using CT scanning.  Catheter was locked in
+     position, secured to the skin with a percutaneous catheter fastener, and left
+     to open drainage. Purulent fluid flowed freely into the drainage bag.
+     
+     Sample was sent to the laboratory for Gram stain, culture and sensitivity.
+     .
+     CONSCIOUS SEDATION:  The patient received Versed and fentanyl IV and was
+     continuously monitored in the Radiology holding area.
+     
+     No immediate complications occurred.
+     
+     IMPRESSION:  Successful CT-guided catheter placement and drainage of right
+     hepatic abscess.
+     The attending. Dr [**Last Name (STitle) 11180**] was present, scrubbed and assisted throughout
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3205-9-7**] 12:30 PM
+     CT GUIDANCE DRAINAGE; CT HEPATIC DRAINAGE                       Clip # [**Clip Number (Radiology) 12485**]
+     CT ABDOMEN W/O CONTRAST
+     Reason: Drainage of abscess w/ fluid sent for culture               
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13040,,,,3205-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-7**] 12:30 PM
+     CT GUIDANCE DRAINAGE; CT HEPATIC DRAINAGE                       Clip # [**Clip Number (Radiology) 12485**]
+     CT ABDOMEN W/O CONTRAST
+     Reason: Drainage of abscess w/ fluid sent for culture               
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with large liver abscess s/p whipple ('[**01**]) and multiple 
+      abscesses.  
+     REASON FOR THIS EXAMINATION:
+      Drainage of abscess w/ fluid sent for culture                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided abscess drainage.
+     
+     INDICATION:  50-year-old woman with large liver abscess.  History of
+     pancreatic cancer, Whipple, and multiple abscesses.
+     
+     PRELIMINARY CT SCANNING EXAMINATION:  Outside CT dated [**3205-9-6**] was reviewed
+     revealing a 7 x 5 cm round abscess with an air fluid level in the right
+     hepatic lobe. Preliminary CT at [**Hospital1 416**] again revealed a 7 x 5 cm collection
+     with an air fluid level in a bilobed configuration, with a contiguous smaller
+     component slightly more inferiorly.
+     
+     There are small bilateral pleural effusions with bibasilar atelectasis, right
+     greater than left.
+     
+     CATHETER INSERTION:  Utilizing CT guidance, and a tandem trocar technique, a
+     10 French locking pigtail catheter was inserted and deployed into the abscess.
+     Catheter position was confirmed using CT scanning.  Catheter was locked in
+     position, secured to the skin with a percutaneous catheter fastener, and left
+     to open drainage. Purulent fluid flowed freely into the drainage bag.
+     
+     Sample was sent to the laboratory for Gram stain, culture and sensitivity.
+     .
+     CONSCIOUS SEDATION:  The patient received Versed and fentanyl IV and was
+     continuously monitored in the Radiology holding area.
+     
+     No immediate complications occurred.
+     
+     IMPRESSION:  Successful CT-guided catheter placement and drainage of right
+     hepatic abscess.
+     The attending. Dr [**Last Name (STitle) 11180**] was present, scrubbed and assisted throughout
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3205-9-7**] 12:30 PM
+     CT GUIDANCE DRAINAGE; CT HEPATIC DRAINAGE                       Clip # [**Clip Number (Radiology) 12485**]
+     CT ABDOMEN W/O CONTRAST
+     Reason: Drainage of abscess w/ fluid sent for culture               
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13040,,,,3205-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-7**] 12:30 PM
+     CT GUIDANCE DRAINAGE; CT HEPATIC DRAINAGE                       Clip # [**Clip Number (Radiology) 12485**]
+     CT ABDOMEN W/O CONTRAST
+     Reason: Drainage of abscess w/ fluid sent for culture               
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with large liver abscess s/p whipple ('[**01**]) and multiple 
+      abscesses.  
+     REASON FOR THIS EXAMINATION:
+      Drainage of abscess w/ fluid sent for culture                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided abscess drainage.
+     
+     INDICATION:  50-year-old woman with large liver abscess.  History of
+     pancreatic cancer, Whipple, and multiple abscesses.
+     
+     PRELIMINARY CT SCANNING EXAMINATION:  Outside CT dated [**3205-9-6**] was reviewed
+     revealing a 7 x 5 cm round abscess with an air fluid level in the right
+     hepatic lobe. Preliminary CT at [**Hospital1 416**] again revealed a 7 x 5 cm collection
+     with an air fluid level in a bilobed configuration, with a contiguous smaller
+     component slightly more inferiorly.
+     
+     There are small bilateral pleural effusions with bibasilar atelectasis, right
+     greater than left.
+     
+     CATHETER INSERTION:  Utilizing CT guidance, and a tandem trocar technique, a
+     10 French locking pigtail catheter was inserted and deployed into the abscess.
+     Catheter position was confirmed using CT scanning.  Catheter was locked in
+     position, secured to the skin with a percutaneous catheter fastener, and left
+     to open drainage. Purulent fluid flowed freely into the drainage bag.
+     
+     Sample was sent to the laboratory for Gram stain, culture and sensitivity.
+     .
+     CONSCIOUS SEDATION:  The patient received Versed and fentanyl IV and was
+     continuously monitored in the Radiology holding area.
+     
+     No immediate complications occurred.
+     
+     IMPRESSION:  Successful CT-guided catheter placement and drainage of right
+     hepatic abscess.
+     The attending. Dr [**Last Name (STitle) 11180**] was present, scrubbed and assisted throughout
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3205-9-7**] 12:30 PM
+     CT GUIDANCE DRAINAGE; CT HEPATIC DRAINAGE                       Clip # [**Clip Number (Radiology) 12485**]
+     CT ABDOMEN W/O CONTRAST
+     Reason: Drainage of abscess w/ fluid sent for culture               
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13040,,,,3205-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-9**] 12:43 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 12486**]
+     Reason: r picc                                                      
+     Admitting Diagnosis: ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with abscess                                                  
+     REASON FOR THIS EXAMINATION:
+      r picc                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right PICC line.
+     
+     TECHNIQUE:  Portable AP view of the chest.
+     
+     COMPARISON:  There is a comparison available from [**9-6**].
+     
+     FINDINGS:  A new right subclavian PICC line has its tip in mid SVC.  The
+     heart, mediastinal and hilar contours are normal.  Lungs are clear.  There is
+     drainage catheter in right upper quadrant.
+     
+     IMPRESSION:  Proper position of right PICC line.  Otherwise negative study.
+                                                                           
+
+",,
+13040,,,,3205-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-28**] 5:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12487**]
+     Reason: eval of pneumonia                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      fever, sob, cough                                                               
+     REASON FOR THIS EXAMINATION:
+      eval of pneumonia                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, cough, and shortness of breath.
+     
+     COMPARISON:  [**3205-9-9**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  A right-sided PICC line is in unchanged
+     position.  The heart size is normal.  There is left hilar prominence.  The
+     lungs are clear.  The left costophrenic angle is incompletely evaluated. Again
+     seen is a tube in the right upper quadrant.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:
+     1.  No evidence of pneumonia.
+     2.  Left hilar prominence, which is new when compared to the prior study of
+     [**3204-10-5**].  Further investigation is warranted in this patient with a
+     past medical history of pancreatic cancer.
+     
+
+",,
+13040,,,,3205-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13040,,,,3205-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50F h/o panc ca s/p whipple with c/o not feeling well, SOB & pleuritic CP       
+     REASON FOR THIS EXAMINATION:
+      rule out PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa WED [**3205-9-28**] 11:34 PM
+      No Pe.
+      large left hilar mass, likely metastatic.
+      Very difficult abd study to read; no fat and beam hardening.
+      Dominant liver abscess decreased. Catheter in it. Other liver and spleen
+      hypodensities concerning for mets. Soft tissue surrounding SMA unchanged from
+      previous. Limited abd/pelvis exam.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of pancreatic cancer status post Whipple complaining of
+     not feeling well and shortness of breath.  Pleuritic chest pain.  Evaluate for
+     PE.
+     
+     There is a prior abdominal scan entered into PACs dated [**3205-9-6**], from an
+     outside institution.
+     
+     TECHNIQUE:  Contiguous axial images through the chest were obtained before and
+     after the administration of 100 cc of Optiray contrast IV.  Delayed images
+     through the abdomen and pelvis were obtained.  Multiplanar reformatted images
+     of both the chest and abdomen and pelvis were obtained.
+     
+     CTA OF THE CHEST:  There is no evidence of pulmonary embolism or thoracic
+     aortic dissection.  There is a right-sided approach central venous catheter in
+     place, with the tip in the superior vena cava.
+     
+     CT OF THE CHEST WITHOUT AND WITH CONTRAST:  There is no pleural or pericardial
+     effusion.  The heart and great vessels are normal.  There is a large
+     left hilar lesion just superior to the left pulmonary artery, measuring 3.4 x
+     3.9 cm, which may represent a large metastatic lymph node.  There are severe
+     emphysematous changes of the lungs.  There are scattered areas of patchy
+     atelectasis and ground glass opacity, but no definite focal consolidation is
+     visualized.  No pulmonary nodule is visualized.  The central airways are
+     patent.
+     
+     CT ABDOMEN WITH CONTRAST:  Evaluation of the abdomen and pelvis is limited
+     in this patient with a paucity of abdominal fat. The cavitating lesion within
+     the right lobe of the liver has decreased in size compared to [**9-6**].  A
+     drainage catheter is in place within this collection.  There is another ill-
+     defined hypodensity within the right lobe of the liver anteriorly, which is
+     concerning for a metastatic lesion.  Another ill-defined hypodensity is seen
+     within the right lobe of the liver inferiorly (series 4b, image 163).  There
+                                                                 (Over)
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     are two ill- defined splenic hypodensities, which are not fully characterized
+     on this study.  The patient is status post Whipple.  The nodule of the left
+     adrenal gland previously described is less apparent on today's study, though a
+     nodule is still present. The right adrenal gland is unremarkable.  The kidneys
+     enhance symmetrically and excrete normally. Atrophy of the upper pole of the
+     right kidney is not significantly changed from prior exam.  There is no free
+     air in the abdomen. The stomach, small and large bowel loops are normal. The
+     bowel is not optimally assessed given the small amount of oral contrast
+     present.  There is a moderate amount of stool within the colon, suggesting
+     constipation.  The aorta is of normal caliber. Soft tissue is seen
+     surrounding the SMA, as on prior exams. It is difficult to comment on the
+     presence or absence of mesenteric or retroperitoneal lymph nodes given the
+     paucity of intra- abdominal fat.
+     
+     CT PELVIS WITH CONTRAST:  Pelvic bowel loops are unremarkable.  There is a
+     Foley catheter within the bladder.  There may be a small amount of free fluid
+     in the pelvis between bowel loops.  It is difficult to comment on the presence
+     or absence of lymph nodes on the study.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  An
+     epidural catheter device is seen.  The lower portion of this device within the
+     right buttock is resulting in a fair amount of beam-hardening artifact,
+     obscuring detail.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism or thoracic aortic dissection.
+     2.  Large left hilar mass, likely representing a metastatic lymph node.
+     3.  There is a catheter present within the known right liver abscess cavity.
+     There are two additional hypodensities within the liver parenchyma as
+     described, which are too small to characterize but may represent metastatic
+     disease or foci of infection.
+     4.  There is no pneumobilia present on this exam, of undetermined
+     significance.
+     5.  New hypodensities within the spleen, of undetermined etiology. Metastatic
+     disease is not excluded. These were not present on prior exams including the
+     last CT exam of [**1-11**].  Scarring of the right kidney upper pole, unchanged.
+     
+     Please note that the abdominal and pelvic portion of the study is extremely
+     difficult to interpret given the paucity of intra-abdominal fat and beam-
+     hardening artifact present.
+     
+                                                                 (Over)
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13040,,,,3205-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50F h/o panc ca s/p whipple with c/o not feeling well, SOB & pleuritic CP       
+     REASON FOR THIS EXAMINATION:
+      rule out PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa WED [**3205-9-28**] 11:34 PM
+      No Pe.
+      large left hilar mass, likely metastatic.
+      Very difficult abd study to read; no fat and beam hardening.
+      Dominant liver abscess decreased. Catheter in it. Other liver and spleen
+      hypodensities concerning for mets. Soft tissue surrounding SMA unchanged from
+      previous. Limited abd/pelvis exam.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of pancreatic cancer status post Whipple complaining of
+     not feeling well and shortness of breath.  Pleuritic chest pain.  Evaluate for
+     PE.
+     
+     There is a prior abdominal scan entered into PACs dated [**3205-9-6**], from an
+     outside institution.
+     
+     TECHNIQUE:  Contiguous axial images through the chest were obtained before and
+     after the administration of 100 cc of Optiray contrast IV.  Delayed images
+     through the abdomen and pelvis were obtained.  Multiplanar reformatted images
+     of both the chest and abdomen and pelvis were obtained.
+     
+     CTA OF THE CHEST:  There is no evidence of pulmonary embolism or thoracic
+     aortic dissection.  There is a right-sided approach central venous catheter in
+     place, with the tip in the superior vena cava.
+     
+     CT OF THE CHEST WITHOUT AND WITH CONTRAST:  There is no pleural or pericardial
+     effusion.  The heart and great vessels are normal.  There is a large
+     left hilar lesion just superior to the left pulmonary artery, measuring 3.4 x
+     3.9 cm, which may represent a large metastatic lymph node.  There are severe
+     emphysematous changes of the lungs.  There are scattered areas of patchy
+     atelectasis and ground glass opacity, but no definite focal consolidation is
+     visualized.  No pulmonary nodule is visualized.  The central airways are
+     patent.
+     
+     CT ABDOMEN WITH CONTRAST:  Evaluation of the abdomen and pelvis is limited
+     in this patient with a paucity of abdominal fat. The cavitating lesion within
+     the right lobe of the liver has decreased in size compared to [**9-6**].  A
+     drainage catheter is in place within this collection.  There is another ill-
+     defined hypodensity within the right lobe of the liver anteriorly, which is
+     concerning for a metastatic lesion.  Another ill-defined hypodensity is seen
+     within the right lobe of the liver inferiorly (series 4b, image 163).  There
+                                                                 (Over)
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     are two ill- defined splenic hypodensities, which are not fully characterized
+     on this study.  The patient is status post Whipple.  The nodule of the left
+     adrenal gland previously described is less apparent on today's study, though a
+     nodule is still present. The right adrenal gland is unremarkable.  The kidneys
+     enhance symmetrically and excrete normally. Atrophy of the upper pole of the
+     right kidney is not significantly changed from prior exam.  There is no free
+     air in the abdomen. The stomach, small and large bowel loops are normal. The
+     bowel is not optimally assessed given the small amount of oral contrast
+     present.  There is a moderate amount of stool within the colon, suggesting
+     constipation.  The aorta is of normal caliber. Soft tissue is seen
+     surrounding the SMA, as on prior exams. It is difficult to comment on the
+     presence or absence of mesenteric or retroperitoneal lymph nodes given the
+     paucity of intra- abdominal fat.
+     
+     CT PELVIS WITH CONTRAST:  Pelvic bowel loops are unremarkable.  There is a
+     Foley catheter within the bladder.  There may be a small amount of free fluid
+     in the pelvis between bowel loops.  It is difficult to comment on the presence
+     or absence of lymph nodes on the study.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  An
+     epidural catheter device is seen.  The lower portion of this device within the
+     right buttock is resulting in a fair amount of beam-hardening artifact,
+     obscuring detail.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism or thoracic aortic dissection.
+     2.  Large left hilar mass, likely representing a metastatic lymph node.
+     3.  There is a catheter present within the known right liver abscess cavity.
+     There are two additional hypodensities within the liver parenchyma as
+     described, which are too small to characterize but may represent metastatic
+     disease or foci of infection.
+     4.  There is no pneumobilia present on this exam, of undetermined
+     significance.
+     5.  New hypodensities within the spleen, of undetermined etiology. Metastatic
+     disease is not excluded. These were not present on prior exams including the
+     last CT exam of [**1-11**].  Scarring of the right kidney upper pole, unchanged.
+     
+     Please note that the abdominal and pelvic portion of the study is extremely
+     difficult to interpret given the paucity of intra-abdominal fat and beam-
+     hardening artifact present.
+     
+                                                                 (Over)
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13040,,,,3205-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50F h/o panc ca s/p whipple with c/o not feeling well, SOB & pleuritic CP       
+     REASON FOR THIS EXAMINATION:
+      rule out PE                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa WED [**3205-9-28**] 11:34 PM
+      No Pe.
+      large left hilar mass, likely metastatic.
+      Very difficult abd study to read; no fat and beam hardening.
+      Dominant liver abscess decreased. Catheter in it. Other liver and spleen
+      hypodensities concerning for mets. Soft tissue surrounding SMA unchanged from
+      previous. Limited abd/pelvis exam.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of pancreatic cancer status post Whipple complaining of
+     not feeling well and shortness of breath.  Pleuritic chest pain.  Evaluate for
+     PE.
+     
+     There is a prior abdominal scan entered into PACs dated [**3205-9-6**], from an
+     outside institution.
+     
+     TECHNIQUE:  Contiguous axial images through the chest were obtained before and
+     after the administration of 100 cc of Optiray contrast IV.  Delayed images
+     through the abdomen and pelvis were obtained.  Multiplanar reformatted images
+     of both the chest and abdomen and pelvis were obtained.
+     
+     CTA OF THE CHEST:  There is no evidence of pulmonary embolism or thoracic
+     aortic dissection.  There is a right-sided approach central venous catheter in
+     place, with the tip in the superior vena cava.
+     
+     CT OF THE CHEST WITHOUT AND WITH CONTRAST:  There is no pleural or pericardial
+     effusion.  The heart and great vessels are normal.  There is a large
+     left hilar lesion just superior to the left pulmonary artery, measuring 3.4 x
+     3.9 cm, which may represent a large metastatic lymph node.  There are severe
+     emphysematous changes of the lungs.  There are scattered areas of patchy
+     atelectasis and ground glass opacity, but no definite focal consolidation is
+     visualized.  No pulmonary nodule is visualized.  The central airways are
+     patent.
+     
+     CT ABDOMEN WITH CONTRAST:  Evaluation of the abdomen and pelvis is limited
+     in this patient with a paucity of abdominal fat. The cavitating lesion within
+     the right lobe of the liver has decreased in size compared to [**9-6**].  A
+     drainage catheter is in place within this collection.  There is another ill-
+     defined hypodensity within the right lobe of the liver anteriorly, which is
+     concerning for a metastatic lesion.  Another ill-defined hypodensity is seen
+     within the right lobe of the liver inferiorly (series 4b, image 163).  There
+                                                                 (Over)
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     are two ill- defined splenic hypodensities, which are not fully characterized
+     on this study.  The patient is status post Whipple.  The nodule of the left
+     adrenal gland previously described is less apparent on today's study, though a
+     nodule is still present. The right adrenal gland is unremarkable.  The kidneys
+     enhance symmetrically and excrete normally. Atrophy of the upper pole of the
+     right kidney is not significantly changed from prior exam.  There is no free
+     air in the abdomen. The stomach, small and large bowel loops are normal. The
+     bowel is not optimally assessed given the small amount of oral contrast
+     present.  There is a moderate amount of stool within the colon, suggesting
+     constipation.  The aorta is of normal caliber. Soft tissue is seen
+     surrounding the SMA, as on prior exams. It is difficult to comment on the
+     presence or absence of mesenteric or retroperitoneal lymph nodes given the
+     paucity of intra- abdominal fat.
+     
+     CT PELVIS WITH CONTRAST:  Pelvic bowel loops are unremarkable.  There is a
+     Foley catheter within the bladder.  There may be a small amount of free fluid
+     in the pelvis between bowel loops.  It is difficult to comment on the presence
+     or absence of lymph nodes on the study.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  An
+     epidural catheter device is seen.  The lower portion of this device within the
+     right buttock is resulting in a fair amount of beam-hardening artifact,
+     obscuring detail.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism or thoracic aortic dissection.
+     2.  Large left hilar mass, likely representing a metastatic lymph node.
+     3.  There is a catheter present within the known right liver abscess cavity.
+     There are two additional hypodensities within the liver parenchyma as
+     described, which are too small to characterize but may represent metastatic
+     disease or foci of infection.
+     4.  There is no pneumobilia present on this exam, of undetermined
+     significance.
+     5.  New hypodensities within the spleen, of undetermined etiology. Metastatic
+     disease is not excluded. These were not present on prior exams including the
+     last CT exam of [**1-11**].  Scarring of the right kidney upper pole, unchanged.
+     
+     Please note that the abdominal and pelvic portion of the study is extremely
+     difficult to interpret given the paucity of intra-abdominal fat and beam-
+     hardening artifact present.
+     
+                                                                 (Over)
+
+     DATE: [**3205-9-28**] 8:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 12488**]
+     CT PELVIS W/CONTRAST
+     Reason: rule out PE                                                 
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13040,19993,16254,,3205-09-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3205-9-29**]              Discharge Date:   [**3205-10-5**]
+ 
+Date of Birth:  [**3155-5-3**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ibuprofen / Morphine / Niacin
+ 
+Attending:[**First Name3 (LF) 246**] 
+Chief Complaint:
+SOB; transfered from outside hospital
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+History of Present Illness: 50 W s/p Whipple procedure in 
+October  
+2002 for pancreatic cancer (node +, no mets at that time), 
+presents to the ED with increasing SOB, and cough x 4 days. 
+Dyspnea is non-exertional and non-positional, non-pleuritic. 
+Denies any history of prior lung disease, no asthma. She also 
+reports malaise, loss of appetite, nausea and vomiting, and a 
+5-lbs weight loss over the past several weeks. Denies any 
+fevers. Of note, patient is an active smoker and endorses 
+chronic cough productive of white sputum and also has chronic 
+nausea treated with multiple anti-emetics. She presented to 
+[**Hospital3 7576**] where she was diagnosed with PNA, treated with 
+nebs and 750 mg of Levo and transferred to [**Hospital1 19**] for further 
+work-up and treatment.  
+.  
+Of note patient was recently admitted from [**Date range (1) 8449**] for a liver 
+abscess which grew out E coli, gram + rods, klebsiella, 
+citrobacter freundii, enterococcus. She was discharged on Vanc, 
+Zosyn, Bactrim which she completed on the 21st.  
+.  
+In the ED, patient received 750 mg of Levaquin IV and says that 
+she feels her breathing improved with nebulizer treatments. She 
+still feels that her breathing is more difficult than her 
+baseline.  
+
+ 
+Past Medical History:
+1. Pancreatic CA - s/p Whipple [**11-7**], diagnosed as grade IIB 
+pancreatic adenocarcinoma with 2+ LNs and vascular and 
+perineural invasion. s/p chemoradiation with cisplatin and 
+gemcitabine completed [**2-8**] one cycle of adjuvant gemcitabine 
+discontinued due to poor tolerance  
+2. endometriosis s/p hysterectomy  
+3. I-induced hyperthyroidism s/p RAI  
+4. HTN  
+5. migraines  
+6. arthritis  
+7. hyperlipidemia  
+8. constipation  
+9. anxiety/depression  
+10. chronic abd pain  
+
+ 
+Social History:
+Lives with husband in Buzzards Bay. Smokes 1.5 packs of  
+cigarettes/day X 25 years, + marijuana use, denies EtOH.  
+
+ 
+Family History:
+CAD, hypercholesterolemia and hypertension. There is also 
+diabetes and thyroid abnormalities in the family. The only 
+relative with cancer is her paternal grandfather in his 80's 
+with prostate cancer. 
+ 
+Physical Exam:
+VS: T: 101.9 HR 107, BP 143/76, RR 28, O2 94% 4L  
+Gen: cachetic woman sitting upright, speaking in full sentences 
+but with breathing with obvious effort, retraction of neck 
+mucles and +/- abdominal breathing  
+HEENT: PERRLA, EOMI, neck supple, no JVD, OP clear, MM dry  
+CV: heart sounds hyperdynamic, RRR, no R/G/M  
+Pulm: coarse breath sounds in all lung fields with bronchial 
+breath sounds in all quadrants, slightly dimished in bases, R > 
+L, wheezes present in all lund fields, neg prolonged expiratory 
+phase  
+Abd: firm, NT to mod palpation, nondistended, BS+  
+Rectal: deferred  
+Ext: no edema, + 2 distal pulses BL  
+
+ 
+Pertinent Results:
+[**3205-9-28**] CT torso:  IMPRESSION:
+1. No evidence of pulmonary embolism or thoracic aortic 
+dissection.
+2. Large left hilar mass, likely representing a metastatic lymph 
+node.
+3. There is a catheter present within the known right liver 
+abscess cavity. There are two additional hypodensities within 
+the liver parenchyma as described, which are too small to 
+characterize but may represent metastatic disease or foci of 
+infection.
+4. There is no pneumobilia present on this exam, of undetermined 
+significance.
+5. New hypodensities within the spleen, of undetermined 
+etiology. Metastatic disease is not excluded. These were not 
+present on prior exams including the last CT exam of [**1-11**]. Scarring of the right kidney upper pole, unchanged.
+.
+[**3205-9-28**] CXR:  IMPRESSION:
+1. No evidence of pneumonia.
+2. Left hilar prominence, which is new when compared to the 
+prior study of [**3204-10-5**]. Further investigation is 
+warranted in this patient with a past medical history of 
+pancreatic cancer.
+.
+[**3205-9-28**] EKG:  Sinus rhythm. Diffuse non-specific T wave 
+abnormalities. Since the previous 
+tracing of [**3204-7-28**] further precordial lead T wave changes are 
+present. 
+.
+[**3205-9-29**] CT head:  IMPRESSION: No acute intracranial hemorrhage 
+or mass effect. Contrast-enhanced MRI is more sensitive for the 
+detection of metastatic lesions.
+.
+[**3205-9-29**] CXR:  SINGLE AP PORTABLE VIEW CHEST. Interval increase 
+in pulmonary markings consistent with fluid overload. Small 
+bilateral pleural effusions are stable. The lungs are 
+hyperinflated consistent with patient's known emphysema. Cardiac 
+size is normal. Left hilar mass is unchanged. Right PICC line 
+with tip in the SVC. Drainage catheter in the right upper 
+quadrant abdomen unchanged in position.
+
+IMPRESSION: Fluid overload.
+
+[**10-2**] Bronchoscopy with FNA: negative for malignant cells, 
+scattered bronchial cells and lymphocytes.
+
+[**10-4**] CXR: Increased interstitial markings compared to the prior 
+study, consistent with pulmonary edema superimposed upon chronic 
+interstitial changes.
+
+Discharge labs: 
+
+wbc 6.2 hgb 8.2 hct 26.2 plt 369
+
+134 94 7
+---------< 137
+3.6 34 0.6
+
+[**3205-9-29**] 02:02AM   TSH-6.5*
+ 
+Brief Hospital Course:
+50 W s/p Whipple procedure for pancreatic cancer, with drain for 
+hepatic abscess in place who presents with 4 days of dyspnea, 
+cough, found to be febrile in the ED, with new findings on CT 
+concerning for mets.  
+.  
+#SOB: The patient originally presented with SOB to OSH. CXR 
+showed a hilar mass which was also seen on CT which was 
+questionable for metastatic lymph node vs. infectious cause. 
+Bronchoscopy was done which was negative for malignant cells and 
+had scattered lyphocytes and bronchial cells. The patient was 
+also presumed to have a COPD flare. She was treated with duonebs 
+and O2 prn and improved over the course of admission. She was 
+also treated with levaquin for COPD flare vs. a questionable 
+pneumonia and was afebrile 48 hours prior to admission.
+.
+#Liver abscess-patient was febrile on admission. Fluid from 
+abscess was drained and cultured. It grew out enterococcus and 
+[**Female First Name (un) 929**] albicans. ID was consulted and the patient was put back 
+on zosyn for [**5-12**] week course. She also has a follow-up 
+appointment with ID in 2 weeks as well as a repeat CT scan. 
+Treatment of c. albicans was deferred.
+.
+#Pancreatic CA: Patient is four years out from her diagnosis, 
+s/p whipple. 
+.  
+#HTN: stable. We continued HCTZ.  
+.  
+#Hypothyroid: TSH slightly  elevated, but free t4 was normal. 
+Presumed to be sick euthyroid syndrome. We continued levoxyl at 
+home dose.  
+.  
+
+ 
+Medications on Admission:
+oxycontin  
+protonix  
+levoxyl  
+diludid  
+reglan  
+hctz  
+ritalin  
+.  
+(from previous d/c summary dated [**Date range (1) 8449**])  
+Oxycodone 40 mg Tablet Sustained Release 12HR Sig: Two (2)  
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).  
+Insulin Glargine 100 unit/mL Solution Sig: 2 units  
+Subcutaneous every morning.  
+Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1)  
+bottle Subcutaneous four times a day as needed for blood glucose 
+ 
+levels.  
+
+ 
+Discharge Medications:
+1. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: 4.5 g 
+Intravenous  Q8H (every 8 hours) for 6 weeks.
+Disp:*qs qs* Refills:*6*
+2. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Oxycodone 40 mg Tablet Sustained Release 12HR Sig: Two (2) 
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+Disp:*120 Tablet Sustained Release 12HR(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Levoxyl 150 mcg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).
+Disp:*120 Tablet(s)* Refills:*2*
+8. Insulin Glargine 100 unit/mL Solution Sig: Three (3) units 
+Subcutaneous qam.
+Disp:*qs qs* Refills:*2*
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+11. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: One (1) Cap PO QIDWMHS (4 times a day 
+(with meals and at bedtime)).
+Disp:*120 Cap(s)* Refills:*2*
+12. Methylphenidate 10 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+13. One Touch Ultra Test     Strip Sig: One (1)  Miscell.  six 
+times per day.
+Disp:*180 strips* Refills:*2*
+14. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24HR(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+1. Liver abscesses
+2. Hilar mass-pathology pending
+3. COPD flare
+
+ 
+Discharge Condition:
+Hemodynamically stable, afebrile > 48 hours
+
+ 
+Discharge Instructions:
+Please take all of your outpatient medications.
+
+Please follow-up with all your outpatient appointments including 
+your primary care doctor and your infectious disease doctor.
+
+Please return to the ED if [**Doctor First Name **] experience fever, chills, trouble 
+breathing, chest pain, vomiting, worsening abdominal pain. 
+ 
+Followup Instructions:
+Please follow-up with your primary care doctor, Dr. [**First Name (STitle) **], to 
+discuss the results of the pathology. His phone number is 
+[**Telephone/Fax (1) 8450**]. Please schedule an appointment with your PCP for 
+next week. [**Doctor First Name 54**] can also make an appointment with Dr. [**Last Name (STitle) 6309**].
+
+Please follow-up with infectious disease. [**Doctor First Name 54**] have an 
+appointment with Dr. [**Last Name (STitle) **] on [**10-21**] at 10:30 am in Suite 
+GB in the [**Hospital Ward Name **] building at [**Hospital1 19**]. [**Doctor First Name 54**] should also have a CT 
+scan of your abdomen on [**10-21**] at 8 am. Please do not 
+eat or drink anything 3 hours before CT. [**Doctor First Name 54**] can get the CT scan 
+on the 4th floor of the [**Hospital Ward Name **] building. 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 263**] MD [**MD Number 264**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 540**] [**Last Name (NamePattern4) 6605**] MD [**MD Number 6606**] [**3205-10-7**] @ 0835
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: SUN [**3205-10-23**] 11:56 AM
+(End of Report)
+
+
+",,
+13040,19993,16254,,3205-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-29**] 5:46 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12490**]
+     Reason: r/o acute process or mets                                   
+     Admitting Diagnosis: RESPIRATORY DISTRESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with pancreatic cancer s/p Whipple who presents now with some 
+      confusion.
+     REASON FOR THIS EXAMINATION:
+      r/o acute process or mets                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  50-year-old woman with pancreatic cancer status post Whipple with
+     some confusion.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     COMPARISON:  [**3203-4-9**].
+     
+     FINDINGS:  There is no evidence of intracranial hemorrhage, mass effect,
+     hydrocephalus, shift of normally midline structures, or major vascular
+     territorial infarction.  The density values of the brain parenchyma are within
+     normal limits.  Surrounding osseous and soft tissue structures are
+     unremarkable.
+     
+     IMPRESSION:  No acute intracranial hemorrhage or mass effect. 
+     Contrast-enhanced MRI is more sensitive for the detection of metastatic
+     lesions.
+                                                                           
+
+",,
+13040,19993,16254,,3205-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-9-29**] 5:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12489**]
+     Reason: ?acute process after fluid resuscitation                    
+     Admitting Diagnosis: RESPIRATORY DISTRESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        50 year old woman with hx of pancreatic CA                                    
+                     
+     REASON FOR THIS EXAMINATION:
+      ?acute process after fluid resuscitation                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: ?Acute pulmonary process after fluid resuscitation, patient with
+     history of pancreatic  cancer.
+     
+     Comparison is made with prior study dated [**3205-9-28**].
+     
+     SINGLE AP PORTABLE VIEW CHEST. Interval increase in pulmonary markings
+     consistent with fluid overload. Small bilateral pleural effusions are stable.
+     The lungs are hyperinflated consistent with patient's known emphysema. Cardiac
+     size is normal. Left hilar mass is unchanged. Right PICC line with tip in the
+     SVC. Drainage catheter in the right upper quadrant abdomen unchanged in
+     position.
+     
+     IMPRESSION: Fluid overload.
+
+",,
+13040,19993,16254,0,3205-09-29 04:29:00 EST,3205-09-29 04:59:00 EST,6158,"N",74,"Nursing/Other","TSICU NPN Admission note","
+TSICU NPN Admission note
+50 YO F with Pancreatic CA (s/p Whipple procedure in [**3201-11-6**]) presented to ED today with increased SOB and cough. Pt was recently admitted ([**Date range (1) 4363**]) for liver abcess. Pt transfered from [**Hospital **] Hospital to [**Hospital1 10**] for further work-up. Chest CT shows new large left hilar mass, likely metastatic. Tx to TSICU for resp monitoring.
+
+PMH: Pancreatic Ca (s/p Whipple procedure [**11-7**]), endometriosis s/p hysterectomy, hyperthyroidism, HTN, Migraines, arthritis, hyperlipidemia, anxiety, depression, chronic abd pain.
+
+Pre-Admission meds: Oxycontin, protonix, levoxyl, reglan, HCTZ, ritalin.
+
+REVIEW OF SYSTEMS:
+
+NEURO: A&OX3, slept most of shift. MAE, following commands. Complaining of backache, improved with repositioning. Oxycodone BID.
+
+RESP: Weaned to 3L NC with SATS >95%. LS insp wheezes throughout, congestion noted. Albuterol/Atrovent nebs given. Strong cough, sputum culture sent. Current respirations 20-24. 
+
+CV: SR 70-100's, no ectopy noted. SBP ranging 120-140's. 
+
+ID: TMAX 101.9, tylenol given, temp down to 98.9 this am. Blood cultures sent in ED. Sputum cx sent by this RN. No abx coverage at this time. 
+
+ACCESS: Right PICC line, dsg changed. #16 Left AC. 
+
+ENDO: BS covered per RISS.
+
+GI: Abd soft, non-distended. +BS. Protonix for GI prophylaxis. Pt tolerating sips of water. 
+
+GU: Foley draining clear yellow urine. Adequate UO.
+
+SKIN: Right biliary drain, draining small amts fluid. Per CT, liver abscess is improving. Backside pink, pt repositions self in bed. 
+
+SOCIAL: Pt lives with husband, [**Doctor Last Name **]. No contact overnight.
+
+PLAN: Continue to monitor resp status, monitor temps. ? tx to floor today.
+
+
+
+",,
+13040,19993,,,3205-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-10-4**] 6:34 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12491**]
+     Reason: eval for fluid overload or pna                              
+     Admitting Diagnosis: RESPIRATORY DISTRESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Pt with copd, hilar mass cough and desat with ambulation. Crackles on exam      
+     REASON FOR THIS EXAMINATION:
+      eval for fluid overload or pna                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  50-year-old woman with COPD and hilar mass, with cough, and
+     crackles.  Evaluate for fluid overload or pneumonia.
+     
+     COMPARISON:  Study from [**3205-9-29**].
+     
+     PA AND LATERAL CHEST RADIOGRAPHS:  There is a right PICC, with the tip in the
+     mid portion of the superior vena cava.  There is a catheter positioned over
+     the right upper quadrant, corresponding to the drainage catheter positioned
+     within the right lobe of the liver.  There is an intraspinous catheter again
+     seen.
+     
+     Again seen are diffuse areas of increased interstitial markings, consistent
+     with the patient's known history of chronic interstitial disease.  The
+     interstitial markings have increased since the prior exam, which would be
+     consistent with superimposed pulmonary edema. There is blunting of the
+     costophrenic angles bilaterally, which may represent small effusions, or
+     chronic thickening.  The cardiac and mediastinal contours are stable in
+     appearance. No pneumothorax is seen.  The soft tissue and osseous structures
+     are unchanged.
+     
+     IMPRESSION:  Increased interstitial markings compared to the prior study,
+     consistent with pulmonary edema superimposed upon chronic interstitial
+     changes.
+
+",,
+13040,,,,3205-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-10-17**] 11:34 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12492**]
+     Reason: Right hepatic abscess drain (pigtail) placed [**9-7**] and has bee
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50F s/p Whipple [**11-7**] for met pancreatic ca, h/o multiple liver abscesses, now 
+      w/ large liver abscess w/ air/fluid level s/p CT drain placement. PMH: met panc 
+      ca s/p chemorad, hyperthyroidism, s/p RAI, HTN, hyperlipids, chronic pain PSH: 
+      Whipple [**11-7**], TAH, j-tube [**2-9**] Right hepatic abscess drain (pigtail) placed 
+      [**9-7**] and has been functioning well until [**10-14**] when pt. c/o leaking with flushes 
+      and bloody/pus fluid aspiration. 
+     REASON FOR THIS EXAMINATION:
+      Right hepatic abscess drain (pigtail) placed [**9-7**] and has been functioning well 
+      until [**10-14**] when pt. c/o leaking with flushes and bloody/pus fluid aspiration. 
+      Please assess for need for catheter reposition or reinsertion. [**First Name8 (NamePattern2) **] [**Doctor First Name 12493**] with 
+      ?s [**Pager number 12494**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Prior Whipple procedure for pancreatic carcinoma, now with liver
+     abscess with recent CT-guided drainage.  Currently leaking fluid about
+     catheter with flushes.
+     
+     COMPARISON:  Torso CT from [**3205-9-28**].
+     
+     TECHNIQUE:  Volumetric CT imaging of the abdomen was performed without oral or
+     IV contrast.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  There are areas of ground glass and vague
+     nodular opacities in both lower lobes with a suggestion of intralobular septal
+     thickening which is nodular in some areas.  The amount of ground-glass opacity
+     has improved since [**3205-9-28**].  There are no pleural or pericardial
+     effusions.
+     
+     Drainage catheter in the right lobe of the liver is unchanged in position.  No
+     definite peri-catheter fluid collection is present.  There is no overt biliary
+     ductal dilatation.  Assessment of the solid abdominal organs is limited
+     without IV contrast.  Allowing for limitations, the liver, pancreas, adrenal
+     glands, and kidneys are unchanged.  Note is made of several small
+     nonobstructing renal stones in the left kidney, the largest of which is 2 mm
+     in the mid pole.  Dense aortic calcification is present.  Stool is seen
+     throughout the colon.  Small bowel loops cannot be assessed.
+     
+     CT OF THE PELVIS WITHOUT CONTRAST:  Stool is seen throughout the descending
+     colon.  There is no significant change since the previous study.
+     
+     No lytic or sclerotic osseous lesions are identified.
+     
+     IMPRESSION:
+     1)  Drainage catheter in good position without significant pericatheter
+     collection. The catheter should be capped, and the patient reimaged in 2 weeks
+     to assess for reaccumulation.
+     2)  Improvement in bilateral lower lobe opacities, could be due to improving
+     atypical infection or CHF.
+                                                                 (Over)
+
+     DATE: [**3205-10-17**] 11:34 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12492**]
+     Reason: Right hepatic abscess drain (pigtail) placed [**9-7**] and has bee
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3)  Nonobstructing left renal stones.
+     
+
+",,
+13040,,,,3205-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-10-17**] 11:34 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12492**]
+     Reason: Right hepatic abscess drain (pigtail) placed [**9-7**] and has bee
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50F s/p Whipple [**11-7**] for met pancreatic ca, h/o multiple liver abscesses, now 
+      w/ large liver abscess w/ air/fluid level s/p CT drain placement. PMH: met panc 
+      ca s/p chemorad, hyperthyroidism, s/p RAI, HTN, hyperlipids, chronic pain PSH: 
+      Whipple [**11-7**], TAH, j-tube [**2-9**] Right hepatic abscess drain (pigtail) placed 
+      [**9-7**] and has been functioning well until [**10-14**] when pt. c/o leaking with flushes 
+      and bloody/pus fluid aspiration. 
+     REASON FOR THIS EXAMINATION:
+      Right hepatic abscess drain (pigtail) placed [**9-7**] and has been functioning well 
+      until [**10-14**] when pt. c/o leaking with flushes and bloody/pus fluid aspiration. 
+      Please assess for need for catheter reposition or reinsertion. [**First Name8 (NamePattern2) **] [**Doctor First Name 12493**] with 
+      ?s [**Pager number 12494**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Prior Whipple procedure for pancreatic carcinoma, now with liver
+     abscess with recent CT-guided drainage.  Currently leaking fluid about
+     catheter with flushes.
+     
+     COMPARISON:  Torso CT from [**3205-9-28**].
+     
+     TECHNIQUE:  Volumetric CT imaging of the abdomen was performed without oral or
+     IV contrast.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  There are areas of ground glass and vague
+     nodular opacities in both lower lobes with a suggestion of intralobular septal
+     thickening which is nodular in some areas.  The amount of ground-glass opacity
+     has improved since [**3205-9-28**].  There are no pleural or pericardial
+     effusions.
+     
+     Drainage catheter in the right lobe of the liver is unchanged in position.  No
+     definite peri-catheter fluid collection is present.  There is no overt biliary
+     ductal dilatation.  Assessment of the solid abdominal organs is limited
+     without IV contrast.  Allowing for limitations, the liver, pancreas, adrenal
+     glands, and kidneys are unchanged.  Note is made of several small
+     nonobstructing renal stones in the left kidney, the largest of which is 2 mm
+     in the mid pole.  Dense aortic calcification is present.  Stool is seen
+     throughout the colon.  Small bowel loops cannot be assessed.
+     
+     CT OF THE PELVIS WITHOUT CONTRAST:  Stool is seen throughout the descending
+     colon.  There is no significant change since the previous study.
+     
+     No lytic or sclerotic osseous lesions are identified.
+     
+     IMPRESSION:
+     1)  Drainage catheter in good position without significant pericatheter
+     collection. The catheter should be capped, and the patient reimaged in 2 weeks
+     to assess for reaccumulation.
+     2)  Improvement in bilateral lower lobe opacities, could be due to improving
+     atypical infection or CHF.
+                                                                 (Over)
+
+     DATE: [**3205-10-17**] 11:34 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 12492**]
+     Reason: Right hepatic abscess drain (pigtail) placed [**9-7**] and has bee
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3)  Nonobstructing left renal stones.
+     
+
+",,
+13040,,,,3205-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-11-4**] 12:19 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 12495**]
+     CT PELVIS W/CONTRAST
+     Reason: Following up liver abscesses and mediastinal mass           
+     Field of view: 31 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50F s/p Whipple [**11-7**] for met pancreatic ca, h/o multiple liver abscesses, now 
+      w/ large liver abscess w/ air/fluid level s/p CT drain placement. PMH: met panc 
+      ca s/p chemorad, hyperthyroidism, s/p RAI, HTN, hyperlipids, chronic pain PSH: 
+      Whipple [**11-7**], TAH, j-tube [**2-9**] Right hepatic abscess drain (pigtail) placed 
+      [**9-7**] and has been functioning well until [**10-14**] when pt. c/o leaking with flushes 
+      and bloody/pus fluid aspiration. 
+     REASON FOR THIS EXAMINATION:
+      Following up liver abscesses and mediastinal mass                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of metastatic pancreatic carcinoma status post Whipple
+     procedure, history of multiple liver abscesses status post drainage. Follow
+     up.
+     
+     COMPARISON:  [**3205-10-17**] and [**3205-9-28**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen, and pelvis was
+     performed after the administration of oral and intravenous contrast.
+     Noncontrast images of the abdomen as well as three-minute delayed images of
+     the abdomen were also obtained.
+     
+     CT OF THE CHEST:  The large necrotic prevascular lymph node is again
+     identified, measuring 4.1 x 2.5 cm.  The heart, pericardium, and great vessels
+     appear unremarkable apart from minor atherosclerosis.  The lungs demonstrate
+     extensive emphysematous change.  The ground-glass and more consolidative
+     opacities at the lung bases have improved.  No pleural effusions are seen.
+     
+     CT OF THE ABDOMEN:  Again seen is a pigtail catheter within an
+     approximately 3.4 cm abscess in the right lobe.  There is mild pneumobilia in
+     the right and left lobes.  There is a small amount of ascites fluid
+     surrounding the liver.  The gallbladder has been removed.  The adrenal glands,
+     spleen appear normal.  The patient is status post Whipple procedure. The
+     kidneys enhance and excrete contrast symmetrically.  There is mild
+     cortical thinning of the right kidney medially.  The non contrast images again
+     demonstrate non obstructing calculi in the left kidney.  Mildly distended
+     loops of bowel are unchanged in appearance since the prior study. Contrast
+     extends into the cecum.  An extensive amount of air and stool seen throughout
+     the colon. No free intraperitoneal air is seen.
+     
+     CT OF THE PELVIS:  The bladder and rectum appear normal.  No free fluid is
+     seen in the pelvis.  Atherosclerotic changes seen of the abdominal aorta and
+     its major branches.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified.
+     There is a generator in the right flank with a catheter extending into the
+     epidural space through the lumbar and thoracic spine.
+                                                                 (Over)
+
+     DATE: [**3205-11-4**] 12:19 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 12495**]
+     CT PELVIS W/CONTRAST
+     Reason: Following up liver abscesses and mediastinal mass           
+     Field of view: 31 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  Stable appearance to the extensive right lobe hepatic abscess with a
+     drainage catheter in place.  Pneumobilia.  No new drainable fluid collections
+     identified.
+     2.  Large necrotic mediastinal lymph node, stable in appearance.
+     3.  Extensive emphysematous changes of the lungs, with improvement of the
+     superimposed consolidative and ground-glass opacities.
+     4.  Extensive amount of stool throughout the colon with stable mild distention
+     of small bowel.
+     
+
+",,
+13040,,,,3205-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-11-4**] 12:19 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 12495**]
+     CT PELVIS W/CONTRAST
+     Reason: Following up liver abscesses and mediastinal mass           
+     Field of view: 31 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50F s/p Whipple [**11-7**] for met pancreatic ca, h/o multiple liver abscesses, now 
+      w/ large liver abscess w/ air/fluid level s/p CT drain placement. PMH: met panc 
+      ca s/p chemorad, hyperthyroidism, s/p RAI, HTN, hyperlipids, chronic pain PSH: 
+      Whipple [**11-7**], TAH, j-tube [**2-9**] Right hepatic abscess drain (pigtail) placed 
+      [**9-7**] and has been functioning well until [**10-14**] when pt. c/o leaking with flushes 
+      and bloody/pus fluid aspiration. 
+     REASON FOR THIS EXAMINATION:
+      Following up liver abscesses and mediastinal mass                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of metastatic pancreatic carcinoma status post Whipple
+     procedure, history of multiple liver abscesses status post drainage. Follow
+     up.
+     
+     COMPARISON:  [**3205-10-17**] and [**3205-9-28**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen, and pelvis was
+     performed after the administration of oral and intravenous contrast.
+     Noncontrast images of the abdomen as well as three-minute delayed images of
+     the abdomen were also obtained.
+     
+     CT OF THE CHEST:  The large necrotic prevascular lymph node is again
+     identified, measuring 4.1 x 2.5 cm.  The heart, pericardium, and great vessels
+     appear unremarkable apart from minor atherosclerosis.  The lungs demonstrate
+     extensive emphysematous change.  The ground-glass and more consolidative
+     opacities at the lung bases have improved.  No pleural effusions are seen.
+     
+     CT OF THE ABDOMEN:  Again seen is a pigtail catheter within an
+     approximately 3.4 cm abscess in the right lobe.  There is mild pneumobilia in
+     the right and left lobes.  There is a small amount of ascites fluid
+     surrounding the liver.  The gallbladder has been removed.  The adrenal glands,
+     spleen appear normal.  The patient is status post Whipple procedure. The
+     kidneys enhance and excrete contrast symmetrically.  There is mild
+     cortical thinning of the right kidney medially.  The non contrast images again
+     demonstrate non obstructing calculi in the left kidney.  Mildly distended
+     loops of bowel are unchanged in appearance since the prior study. Contrast
+     extends into the cecum.  An extensive amount of air and stool seen throughout
+     the colon. No free intraperitoneal air is seen.
+     
+     CT OF THE PELVIS:  The bladder and rectum appear normal.  No free fluid is
+     seen in the pelvis.  Atherosclerotic changes seen of the abdominal aorta and
+     its major branches.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified.
+     There is a generator in the right flank with a catheter extending into the
+     epidural space through the lumbar and thoracic spine.
+                                                                 (Over)
+
+     DATE: [**3205-11-4**] 12:19 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 12495**]
+     CT PELVIS W/CONTRAST
+     Reason: Following up liver abscesses and mediastinal mass           
+     Field of view: 31 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  Stable appearance to the extensive right lobe hepatic abscess with a
+     drainage catheter in place.  Pneumobilia.  No new drainable fluid collections
+     identified.
+     2.  Large necrotic mediastinal lymph node, stable in appearance.
+     3.  Extensive emphysematous changes of the lungs, with improvement of the
+     superimposed consolidative and ground-glass opacities.
+     4.  Extensive amount of stool throughout the colon with stable mild distention
+     of small bowel.
+     
+
+",,
+13040,,,,3205-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-11-4**] 12:19 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 12495**]
+     CT PELVIS W/CONTRAST
+     Reason: Following up liver abscesses and mediastinal mass           
+     Field of view: 31 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50F s/p Whipple [**11-7**] for met pancreatic ca, h/o multiple liver abscesses, now 
+      w/ large liver abscess w/ air/fluid level s/p CT drain placement. PMH: met panc 
+      ca s/p chemorad, hyperthyroidism, s/p RAI, HTN, hyperlipids, chronic pain PSH: 
+      Whipple [**11-7**], TAH, j-tube [**2-9**] Right hepatic abscess drain (pigtail) placed 
+      [**9-7**] and has been functioning well until [**10-14**] when pt. c/o leaking with flushes 
+      and bloody/pus fluid aspiration. 
+     REASON FOR THIS EXAMINATION:
+      Following up liver abscesses and mediastinal mass                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of metastatic pancreatic carcinoma status post Whipple
+     procedure, history of multiple liver abscesses status post drainage. Follow
+     up.
+     
+     COMPARISON:  [**3205-10-17**] and [**3205-9-28**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen, and pelvis was
+     performed after the administration of oral and intravenous contrast.
+     Noncontrast images of the abdomen as well as three-minute delayed images of
+     the abdomen were also obtained.
+     
+     CT OF THE CHEST:  The large necrotic prevascular lymph node is again
+     identified, measuring 4.1 x 2.5 cm.  The heart, pericardium, and great vessels
+     appear unremarkable apart from minor atherosclerosis.  The lungs demonstrate
+     extensive emphysematous change.  The ground-glass and more consolidative
+     opacities at the lung bases have improved.  No pleural effusions are seen.
+     
+     CT OF THE ABDOMEN:  Again seen is a pigtail catheter within an
+     approximately 3.4 cm abscess in the right lobe.  There is mild pneumobilia in
+     the right and left lobes.  There is a small amount of ascites fluid
+     surrounding the liver.  The gallbladder has been removed.  The adrenal glands,
+     spleen appear normal.  The patient is status post Whipple procedure. The
+     kidneys enhance and excrete contrast symmetrically.  There is mild
+     cortical thinning of the right kidney medially.  The non contrast images again
+     demonstrate non obstructing calculi in the left kidney.  Mildly distended
+     loops of bowel are unchanged in appearance since the prior study. Contrast
+     extends into the cecum.  An extensive amount of air and stool seen throughout
+     the colon. No free intraperitoneal air is seen.
+     
+     CT OF THE PELVIS:  The bladder and rectum appear normal.  No free fluid is
+     seen in the pelvis.  Atherosclerotic changes seen of the abdominal aorta and
+     its major branches.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified.
+     There is a generator in the right flank with a catheter extending into the
+     epidural space through the lumbar and thoracic spine.
+                                                                 (Over)
+
+     DATE: [**3205-11-4**] 12:19 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 12495**]
+     CT PELVIS W/CONTRAST
+     Reason: Following up liver abscesses and mediastinal mass           
+     Field of view: 31 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  Stable appearance to the extensive right lobe hepatic abscess with a
+     drainage catheter in place.  Pneumobilia.  No new drainable fluid collections
+     identified.
+     2.  Large necrotic mediastinal lymph node, stable in appearance.
+     3.  Extensive emphysematous changes of the lungs, with improvement of the
+     superimposed consolidative and ground-glass opacities.
+     4.  Extensive amount of stool throughout the colon with stable mild distention
+     of small bowel.
+     
+
+",,
+13040,,,,3206-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-8-22**] 6:28 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 12496**]
+     Reason: ?PE                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with LUL mass & hypoxia to 85%RA                              
+     REASON FOR THIS EXAMINATION:
+      ?PE                                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DMFj TUE [**3206-8-22**] 7:47 PM
+      No pulmonary embolism.  Dramatic interval increase in prevascular node size.
+      New metastatic lesion in the left lung apex.  Prominent interstial edema and
+      ground glass opacity in left upper lobe c/w superimposed pneumonia.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CTA of the chest.
+     
+     INDICATION:  51-year-old female with history of pancreatic cancer and
+     prevascular mass.  Patient presenting with hypoxia.  Assess for pulmonary
+     embolism.
+     
+     COMPARISONS:  CT torso dated [**3205-11-4**].
+     
+     TECHNIQUE:  Low-dose non-contrast MDCT axial images of the chest were
+     acquired.  Following the administration of 80 cc of Optiray intravenous
+     contrast, MDCT axial images were acquired from the thoracic inlet to the upper
+     abdomen.  Coronal, sagittal, and reformatted images were then obtained.
+     
+     CT OF THE CHEST WITHOUT AND WITH IV CONTRAST:  There are no filling defects
+     present within the pulmonary arterial vasculature consistent with pulmonary
+     embolism.  There has been dramatic interval increase in a large prevascular
+     lymph node which on today's examination measures 7.9 x 6.2 cm (3:25).  This
+     compares to a maximal dimension on the previous examination of 3.5 cm.  This
+     prevascular mass is noted to surround and encase the left pulmonary artery
+     with mild associated compression and soft tissue is also noted to extend along
+     the left hilar structures.
+     
+     Within the left lung apex, there is a new lung nodule measuring 2.2 x 1.8 cm
+     which is concerning for a new metastatic lesion (3:6). No other focal lesions
+     are identified.  Overall the interstitial markings are prominent and there is
+     diffuse centrilobular emphysema throughout both lungs which is slightly
+     worsened compared to the previous examination. Furthermore, within the left
+     upper lobe of the lung, there is increased interstitial markings and diffuse
+     ground- glass opacity which is concerning for a superimposed pneumonia. A new,
+     left-sided pleural effusion with associated mild compressive atelectasis is
+     also noted. The heart and great vessels are unremarkable. There is no
+     pericardial effusion. Limited views of the upper abdominal organs are
+     unremarkable.
+     
+     OSSEOUS STRUCTURES:  No suspicious lytic or blastic lesions are identified. An
+     epidural catheter is again is noted in place and unchanged grossly in position
+     compared to previous examination.
+                                                                 (Over)
+
+     DATE: [**3206-8-22**] 6:28 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 12496**]
+     Reason: ?PE                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  No pulmonary embolism.
+     2.  Dramatic interval increase in large prevascular mass which encases the
+     left hilar structures.
+     3.  New, 2.2 cm left upper lobe lung nodule.
+     4.  Diffuse ground-glass opacities present in the left upper lobe of the lung,
+     consistent with pneumonia.
+     5.  Emphysema.
+     
+     Findings posted to the ED dashboard.
+
+",,
+13040,,,,3206-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-8-24**] 3:40 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12498**]
+     Reason: Please do CXR and evaluate for pneumothorax.                
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with history of pancreatic cancer now with 2 left sided lung 
+      lesions s/p lung biopsy today at 10:30 am.
+     REASON FOR THIS EXAMINATION:
+      Please do CXR and evaluate for pneumothorax.                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation for pneumothorax in a patient after lung
+     biopsy.
+     
+     PA and lateral upright chest radiograph was compared to chest CT from [**3206-8-22**].
+     
+     The known large mediastinal mass and left upper lobe node is demonstrated. 
+     There is no pneumothorax.  The left pleural effusion and adjacent lung
+     consolidation are unchanged.  The severe emphysema and abnormal interstitial
+     markings are noted with no significant change.  The stimulation spinal canal
+     catheter is again seen in unchanged position.
+                                                                           
+
+",,
+13040,,,,3206-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-8-24**] 9:46 AM
+     CT LUNG/MEDIASTINAL BX; CT GUIDED NEEDLE PLACTMENT              Clip # [**Clip Number (Radiology) 12497**]
+     Reason: Please biopsy one of the left lung masses.  Core the AP wind
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old woman with history of pancreatic cancer and now with 2 left lung  
+      masses.  One is located at the AP window and the second is a new, apical mass.  
+      + heavy smoker for years.
+     REASON FOR THIS EXAMINATION:
+      Please biopsy one of the left lung masses.  Core the AP window mass or FNA the 
+      new apical mass.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT-GUIDED LUNG BIOPSY
+     
+     HISTORY:  51-year-old woman with history of pancreatic carcinoma and now with
+     two lung masses.  Please biopsy one of the left lung masses.
+     
+     CT BIOPSY LOCALIZATION:
+     
+     Limited axial CT images were obtained through the lungs to localize the lesion
+     to be biopsied.  Correlation is made to the prior study dated [**3206-8-22**].
+     
+     Two major lesions were identified in the left lung.  There is a 2.4 cm mass in
+     the anterior aspect of the left upper lobe as well as a larger, more central
+     region abutting the vasculature.
+     
+     CT BIOPSY GUIDANCE:
+     
+     CT fluoroscopy was used for placement of an 18-gauge guiding needle into a
+     smaller left upper lobe mass.  After satisfactory placement of the needle tube
+     was confirmed using CT fluoroscopy, a one needle aspiration was performed
+     followed by a single core biopsy.  Touch preparations of these samples were
+     reviewed by a cytologist in the CT suite.
+     
+     The patient tolerated the procedure well.  There was no evidence of
+     pneumothorax on post-procedure CT fluoroscopy images.
+     
+     CONSCIOUS SEDATION:  The patient received a total of 2 mg of Versed and 100
+     mcg of fentanyl and was continuously monitored in the radiology department by
+     a registered nurse for the duration of the procedure.
+     
+     IMPRESSION:  Successful CT-guided biopsy of a 2.4 cm left upper lobe nodule.
+                                                                           
+
+",,
+13040,,,,3206-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-8-24**] 9:46 AM
+     CT LUNG/MEDIASTINAL BX; CT GUIDED NEEDLE PLACTMENT              Clip # [**Clip Number (Radiology) 12497**]
+     Reason: Please biopsy one of the left lung masses.  Core the AP wind
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old woman with history of pancreatic cancer and now with 2 left lung  
+      masses.  One is located at the AP window and the second is a new, apical mass.  
+      + heavy smoker for years.
+     REASON FOR THIS EXAMINATION:
+      Please biopsy one of the left lung masses.  Core the AP window mass or FNA the 
+      new apical mass.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT-GUIDED LUNG BIOPSY
+     
+     HISTORY:  51-year-old woman with history of pancreatic carcinoma and now with
+     two lung masses.  Please biopsy one of the left lung masses.
+     
+     CT BIOPSY LOCALIZATION:
+     
+     Limited axial CT images were obtained through the lungs to localize the lesion
+     to be biopsied.  Correlation is made to the prior study dated [**3206-8-22**].
+     
+     Two major lesions were identified in the left lung.  There is a 2.4 cm mass in
+     the anterior aspect of the left upper lobe as well as a larger, more central
+     region abutting the vasculature.
+     
+     CT BIOPSY GUIDANCE:
+     
+     CT fluoroscopy was used for placement of an 18-gauge guiding needle into a
+     smaller left upper lobe mass.  After satisfactory placement of the needle tube
+     was confirmed using CT fluoroscopy, a one needle aspiration was performed
+     followed by a single core biopsy.  Touch preparations of these samples were
+     reviewed by a cytologist in the CT suite.
+     
+     The patient tolerated the procedure well.  There was no evidence of
+     pneumothorax on post-procedure CT fluoroscopy images.
+     
+     CONSCIOUS SEDATION:  The patient received a total of 2 mg of Versed and 100
+     mcg of fentanyl and was continuously monitored in the radiology department by
+     a registered nurse for the duration of the procedure.
+     
+     IMPRESSION:  Successful CT-guided biopsy of a 2.4 cm left upper lobe nodule.
+                                                                           
+
+",,
+13040,,,,3206-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13040,,,,3206-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3206-9-28**] 3:15 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 12499**]
+     Reason: PRE-OP PORTACATH; COMPARE EFFUSION TO PROIR KNOWN LUNG NODULE; DECREASED BREATH SOUND LEFT BASE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Decreased breath sounds, left base.
+     
+     Compared to the prior study, the large left perihilar mass has increased in
+     size.  Previously, it measured approximately 5.3 x 4.3 cm.  Today, it measures
+     6.1 x 5.3 cm.  There has been an increase in the size of the left pleural
+     effusion as well, best appreciated on the PA film.  Effusion appears
+     relatively stable on the lateral film.  The right lung is unchanged without
+     focal infiltrate.  There is minimal blunting of the right costophrenic angle.
+     
+     IMPRESSION:  Interval increase in the size of the left perihilar mass.  Size
+     of the left pleural effusion has increased as well.
+                                                                           
+
+",,

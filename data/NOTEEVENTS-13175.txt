@@ -1,0 +1,442 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13175,15523,,,3081-09-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+13175,15523,,,3081-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-9**] 11:02 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 13544**]
+     Reason: assess mass                                                 
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with lung cancer with [**Clip Number (Radiology) 13543**] to cervical spine, C2-C3 
+      intramedullary mass seen on OSH CT scan
+     REASON FOR THIS EXAMINATION:
+      assess mass                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastases to cervical spine, lung cancer, with C2-C3
+     intramedullary mass seen on outside hospital CT.  Assess mass.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained through the cervical spine without
+     intravenous contrast.
+     
+     CT OF THE CERVICAL SPINE:  Again seen within the left cerebellar hemisphere is
+     a heterogeneously hyperdense metastatic lesion measuring 2.9 x 2.7 cm.
+     
+     There is an additional hyperdense focus within the cervical cord measuring 6 x
+     6 mm, extending from the C3-4 interspace to the C4-5 interspace.  This is
+     consistent with a hemorrhagic metastasis, with an appearance similar to the
+     metastatic lesions visualized within the brain on the accompanying head CT. 
+     No other definite metastatic lesions are identified within the cervical cord,
+     although there is questionable hyperdensity of the cervical cord at the T2
+     level, finding that could relate to streak artifact.
+     
+     The osseous structures of the cervical spine are imaged from C1 through the
+     upper portion of T2.  No fracture is identified within the cervical spine. 
+     There is a questionable faint focus of sclerosis at the inferior endplate of
+     C2, finding of uncertain significance.  No other suspicious lytic or sclerotic
+     lesion is identified within the osseous structures of the cervical spine.  At
+     C5-6, there is degenerative change with loss of intervertebral disc space
+     height and anterior and posterior osteophytosis.  A nasogastric tube and
+     endotracheal tube are in place.  The prevertebral soft tissues appear
+     unremarkable.
+     
+     The visualized portions of the lung apices demonstrate paraseptal
+     emphysematous changes and airspace opacity and atelectasis.
+     
+     IMPRESSION:
+     
+     1.  Hyperdense focus within the cervical cord at the C4 level, consistent with
+     a hemorrhagic metastasis.  Additional questionable hyperdensity within the
+     cord at T2 could represent artifact.
+     
+     2.  Left cerebellar hemisphere hemorrhagic metastasis.
+     
+                                                                 (Over)
+
+     DATE: [**3081-9-9**] 11:02 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 13544**]
+     Reason: assess mass                                                 
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Questionable sclerotic focus within the C2 vertebra, finding that could
+     represent degenerative change due to its location near the vertebral endplate,
+     although the possibility of an osseous metastasis is not excluded.
+     
+     4.  No fracture of the cervical spine.
+                                                                           
+
+",,
+13175,15523,,,3081-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-9**] 11:01 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13542**]
+     Reason: assess size of brain [**Last Name (LF) 13543**], [**First Name3 (LF) **] edema                      
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman transferred from outside hospital with lung cancer with [**First Name3 (LF) 13543**] 
+      to the brain and cervical cord who is now quadraplegic, intubated for resp 
+      failure
+     REASON FOR THIS EXAMINATION:
+      assess size of brain [**Last Name (LF) 13543**], [**First Name3 (LF) **] edema                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Transferred from outside hospital with lung cancer metastases to
+     the brain and cervical cord, now quadriplegic and intubated.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT OF THE BRAIN WITHOUT INTRAVENOUS CONTRAST:  There are numerous hyperdense
+     lesions with surrounding edema located within the left frontal, right and left
+     parietal, left temporal lobes, and within the left cerebellar hemisphere.  The
+     largest individual lesion, located in the left cerebellar hemisphere, measures
+     2.9 x 3.2 cm and contains heterogeneous internal hyperdensity.  The remainder
+     of the visualized lesions additionally contain peripheral and heterogeneous
+     internal hyperdensity.  There are metallic clips at the skull base.  There is
+     no hydrocephalus.  There is asymmetric widening of the frontal [**Doctor Last Name 548**] of the
+     right lateral ventricle with adjacent hypodensity in the right frontal lobe
+     consistent with encephalomalacia.
+     
+     There is additional periventricular white matter hypodensity within the left
+     frontal lobe, possibly related to the adjacent metastatic focus.
+     
+     An additional focus of hypodensity is seen within the subcortical white matter
+     of the right frontal lobe near the vertex.  This could possibly represent
+     edema related to an additional metastatic lesion.
+     
+     Bone windows demonstrate evidence of prior right frontal craniotomy and
+     metallic coils at the skull base.  There is fluid opacification of the frontal
+     and ethmoid air cells.  The maxillary and sphenoid sinuses as well as the
+     mastoid air cells are normally pneumatized.
+     
+     IMPRESSION:
+     1.  Numerous hyperdense metastatic foci within the left frontal lobe, right
+     and left parietal lobes, left temporal lobe, and left cerebellar hemisphere.
+     
+     2.  Probable encephalomalacia within the right frontal lobe with metallic
+     coils visualized at the right skull base.
+     
+     3.  Additional focus of hypodensity within the right frontal lobe near the
+     vertex could represent edema related to a small metastatic focus.
+                                                                 (Over)
+
+     DATE: [**3081-9-9**] 11:01 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13542**]
+     Reason: assess size of brain [**Last Name (LF) 13543**], [**First Name3 (LF) **] edema                      
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     4.  No hydrocephalus.
+                                                                           
+
+",,
+13175,15523,,,3081-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-9**] 9:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13541**]
+     Reason: evaluate tube placement, assess for infiltrates             
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman transferred from outside hospital with metastatic lung ca 
+      intubated for resp failure [**12-22**] mets to cervical spine
+     REASON FOR THIS EXAMINATION:
+      evaluate tube placement, assess for infiltrates                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ETT placement.
+     
+     There are no prior films available for comparison.  A 5.5 cm mass in the left
+     upper lobe is present.  A 2 cm opacity in the right upper lobe is present
+     although this may represent the end of the right second rib in this rotated
+     study.  An ETT is present, terminating approximately 3.4 cm above the carina. 
+     The lungs appear otherwise clear.  An NGT terminates in the stomach with the
+     tip below the lower edge of the image.
+     
+     IMPRESSION:  Large mass in the left upper lobe.
+
+",,
+13175,15523,,,3081-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-9**] 11:02 PM
+     CT T-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 13545**]
+     Reason: please evaluate for additional spinal masses                
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with lung cancer with [**Clip Number (Radiology) 13543**] to cervical spine, C2-C3 
+      intramedullary mass seen on OSH CT scan
+     REASON FOR THIS EXAMINATION:
+      please evaluate for additional spinal masses                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung cancer with [**Clip Number (Radiology) 13543**] to cervical spine.  Evaluate for additional
+     spinal masses.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained through the thoracic spine without
+     intravenous contrast.  Coronal and sagittal reformations are provided.
+     
+     CT OF THE THORACIC SPINE WITHOUT INTRAVENOUS CONTRAST:  The thoracic spine is
+     imaged from C7 through the upper portion of L1.  There is a compression
+     deformity of the T9 vertebra with suggestion of sclerosis extending to the
+     right pedicle, and with retropulsion of osseous material posteriorly to the
+     canal.  There is mild narrowing of the spinal canal at this level due to the
+     retropulsed osseous material.  The thecal sac appears deformed.
+     
+     There is additional questionable mild anterior loss of height of the T3
+     vertebra.  No definite lytic or sclerotic lesion is identified at this level.
+     
+     Elsewhere within the thoracic spine, no definite lytic or sclerotic osseous
+     lesions are identified.  No definite foci of abnormal hyperdensity are
+     identified within the thoracic cord to suggest metastasis.
+     
+     A large left apical lung mass is seen measuring 4.7 x 4.3 cm, consistent with
+     the patient's known lung cancer.
+     
+     IMPRESSION:
+     
+     1.  Compression fracture of T9 with posterior retropulsed osseous material
+     deforming the thecal sac.
+     
+     2.  Probable mild anterior compression deformity of T3 without definite
+     evidence of underlying osseous metastasis at this level.
+     
+     3.  No definite evidence of hemorrhagic metastasis within the thoracic cord.
+     
+     4.  Left lung apex mass consistent with the patient's known lung cancer.
+     
+     5. MRI may help for better evaluation of intra-thecal metastasis. 
+     
+     
+                                                                 (Over)
+
+     DATE: [**3081-9-9**] 11:02 PM
+     CT T-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 13545**]
+     Reason: please evaluate for additional spinal masses                
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13175,15523,,,3081-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-9**] 11:02 PM
+     CT T-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 13545**]
+     Reason: please evaluate for additional spinal masses                
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with lung cancer with [**Clip Number (Radiology) 13543**] to cervical spine, C2-C3 
+      intramedullary mass seen on OSH CT scan
+     REASON FOR THIS EXAMINATION:
+      please evaluate for additional spinal masses                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung cancer with [**Clip Number (Radiology) 13543**] to cervical spine.  Evaluate for additional
+     spinal masses.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained through the thoracic spine without
+     intravenous contrast.  Coronal and sagittal reformations are provided.
+     
+     CT OF THE THORACIC SPINE WITHOUT INTRAVENOUS CONTRAST:  The thoracic spine is
+     imaged from C7 through the upper portion of L1.  There is a compression
+     deformity of the T9 vertebra with suggestion of sclerosis extending to the
+     right pedicle, and with retropulsion of osseous material posteriorly to the
+     canal.  There is mild narrowing of the spinal canal at this level due to the
+     retropulsed osseous material.  The thecal sac appears deformed.
+     
+     There is additional questionable mild anterior loss of height of the T3
+     vertebra.  No definite lytic or sclerotic lesion is identified at this level.
+     
+     Elsewhere within the thoracic spine, no definite lytic or sclerotic osseous
+     lesions are identified.  No definite foci of abnormal hyperdensity are
+     identified within the thoracic cord to suggest metastasis.
+     
+     A large left apical lung mass is seen measuring 4.7 x 4.3 cm, consistent with
+     the patient's known lung cancer.
+     
+     IMPRESSION:
+     
+     1.  Compression fracture of T9 with posterior retropulsed osseous material
+     deforming the thecal sac.
+     
+     2.  Probable mild anterior compression deformity of T3 without definite
+     evidence of underlying osseous metastasis at this level.
+     
+     3.  No definite evidence of hemorrhagic metastasis within the thoracic cord.
+     
+     4.  Left lung apex mass consistent with the patient's known lung cancer.
+     
+     5. MRI may help for better evaluation of intra-thecal metastasis. 
+     
+     
+                                                                 (Over)
+
+     DATE: [**3081-9-9**] 11:02 PM
+     CT T-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 13545**]
+     Reason: please evaluate for additional spinal masses                
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13175,15523,16405,,3081-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-10**] 10:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13547**]
+     Reason: r/o post-obstructive pna                                    
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old woman transferred from outside hospital with metastatic lung ca  
+      intubated for resp failure [**12-22**] [**Month/Day (2) 13543**] to cervical spine
+     REASON FOR THIS EXAMINATION:
+      r/o post-obstructive pna                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  64-year-old woman transferred from an outside hospital with
+     metastatic lung cancer, intubated for respiratory failure.
+     
+     CHEST X-RAY, AP PORTABLE VIEW.
+     
+     Comparison was done to films from [**3081-9-9**].
+     
+     FINDINGS:  ET tube is about 4 cm from the carina.  Again, note is made of a
+     5.5 cm mass in the left upper lobe and a 2 cm opacity in the right upper lobe,
+     which may be consistent with patient's history of metastatic lung cancer.
+     There are no pleural effusions.  There is no pneumothorax.
+     
+     NG tube terminates in the stomach.Distended spleenic flexure.
+     
+     IMPRESSION:1.  A large mass in the left upper lobe and a 2 cm mass in the
+     right upper lobe, which may be consistent with the patient's history of
+     metastatic lung cancer, however a primary neoplasm cannot be excluded.
+     2.Distended spleenic flexure..
+
+",,
+13175,15523,16405,,3081-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3081-9-10**] 10:23 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13546**]
+     Reason: KUB - eval for perf, other obvious pathology                
+     Admitting Diagnosis: CANCER WITH BRAIN METASTASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old woman transferred from outside hospital with metastatic lung ca  
+      intubated for resp failure [**12-22**] [**Month/Day (2) 13543**] to cervical spine
+     REASON FOR THIS EXAMINATION:
+      KUB - eval for perf, other obvious pathology                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE ABDOMEN
+     
+     INDICATION:  Metastatic lung cancer, respiratory failure.
+     
+     There is gas throughout all portions of the large and small bowel with perhaps
+     mild dilatation of a number of small bowel loops.  There is no obvious
+     evidence of free air in the supine study obtained this morning.  A nasogastric
+     tube terminates in the distal stomach. If there is persisten concern for
+     bowel obstruction, a follow up KUB should be obtained.
+
+",,
+13175,15523,16405,0,3081-09-10 02:06:00 EST,3081-09-10 02:39:00 EST,6844,"N",69,"Nursing/Other",,"
+
+MICU/SICU NURSING ADMIT NOTE:
+
+SEE CAREVUE FLOWSHEET FOR FULL ASSESSMENT DETAILS AND LABS.
+
+64 Y.O. FEMALE WITH PMH:  CEREBRAL ANEURYSM S/P CRANIOTOMY WITH 2 CLIPS PLACED IN [**3050**], TUBAL LIGATION, SMOKER (120 PACK YEARS), MVA 7 WEEKS AGO. NEWLY DX METASTATIC LUNG [**Hospital **] TRANSFERRED TO [**Hospital1 10**] FOR XRT.  PT WAS SEEN AT OSH [**2-22**] WITH NECROTIZING PNA AND CHEST CT SHOWED 2 CM MASS SUGGESTIVE OF BRONCHOALVEOLAR CARCINOMA.  PT WAS TOLD TO COMPLETE HER COURSE OF ANTIBIOTICS AND THEN FOLLOW UP WITH PULMONOLOGIST FOR BRONCHOSCOPY, BUT WAS LOST IN THE FOLLOW-UP.  PT PRESENTED TO [**Hospital6 4514**] [**3081-9-5**] WITH C/O CHEST PAIN, NUMBNESS AND TINGLING IN LEFT ARM, DECREASED APPETITE, WEAKNESS, AND SOB X 2 WEEKS.  CHEST CT REVEALED INCREASE IN ORIGINAL LUNG MASS TO 4.4 X 4.9 CM.  ALONG WITH RUL AND RML NODULES.  HEAD CT ALSO REVEALED MULTIPLE INTRACRANIAL MASSES AND SPINAL CORD INVOLVEMENT.  ALSO ADRENAL INVOLVEMENT. PT HAD A BRONCHOSCOPY AT [**Location (un) **] WHICH WAS NON-DIAGNOSTIC AND THEN HAD AN ADRENAL BIOPSY WHICH PRELIMINARY SHOWS POORLY DIFFERENTIATED ADENOCARCINOMA.  PT SEEN BY NEUROLOGY AND STARTED ON DILANTIN, DECADRON, AND AMITRIPTYLINE.  IT WAS RECOMMENDED BY NEURO AT OSH FOR PT TO TRANSFERRED TO TERTIARY CARE FACILITY FOR XRT .  PT BECAME PROGRESSIVELY WEAKER AND DEVELOPED QUADRIPLEGIA INVOLVING THE DIAPHRAGM.  PT INTUBATED [**9-9**] AND TX TO [**Hospital1 10**] FICU FOR FURTHER MANAGEMENT.
+
+NEURO:  PT ALERT, NODS HEAD APPROPRIATELY TO QUESTIONS. PUPILS 3/REACTIVE BILAT.  + CORNEALS + COUGH/GAG + EOMS BILAT UPPER EXT SENSATION INTACT.  BILAT LOWER EXTREMITIES SENSATION DECREASED.  PT UNABLE TO MOVE ALL EXTREMITIES.  ABLE TO MOVE THUMB AND FIRST FINGER ON RIGHT HAND.  PT C/O LEFT ARM PAIN AND TREATED WITH MORPHINE 1 MG WITH RELIEF.  PT TAKEN FOR HEAD/ C-SPINE/T-SPINE CT RESULTS PENDING.  RAD ONCOLOGY HAS SEEN PT AND AWAITING CT SCAN RESULTS TO DETERMINE NEXT LINE OF TREATMENT.  PT REMAINS ON DILANTIN AND DECADRON.  CONT NEURO CHECKS Q 2 HOURS PER ORDER. **NO BP OR IV STICKS IN LEFT ARM DUE TO PAIN!
+
+PULM:  PT REMAINS INTUBATED # 7 ETT 22 @ LIP.  VENT SETTINGS IMV 14 40% TV 500 PEEP 5 PS 5.  SATS 99-100%.  LUNGS CTA DECREASED @ BASES.  SX SMALL AMOUNTS THICK BLOOD TINGED SECRETIONS.  
+
+CV:  TMAX 100.5  HR 60-80 NXR NO ECTOPY.  BP STABLE.  - EDEMA + PULSES.  PIV X 2 (# 20 GAUGE).  D5 .45 NS@ 75CC/HOUR INFUSING WITHOUT DIFFICULTY.  PT DENIES CHEST PAIN.  PT PAN CULTURED UPON ARRIVAL TO UNIT.
+
+GI/GU:  ABD SOFT, DISTENDED, NONTENDER,  + BOWEL SOUNDS.  NGT R NARES PLACEMENT CONFIRMED BY CHEST XRAY, TOLERATING GASTRIC MEDS.  FOLEY DRAINING CLEAR/YELLOW URINE. UO 40-50 CC/HOUR MD AWARE.  
+
+ENDOCRINE:  CONT TO CHECK FINGERSTICKS Q 4 HOURS AND COVER PER SSI.
+
+SOCIAL:  NO FAMILY PRESENT ON TRANSFER.  HUSBAND CALLED BY MD AND UPDATED ON PT STATUS AND PROGNOSIS.  HUSBAND TO VISIT [**9-10**] TO DISCUSS PROGNOSIS AND POC FURTHER WITH HIS WIFE AND PHYSICIANS.  
+
+PLAN:  CONT DECADRON AND DILANTIN TO DECREASE MASS AFFECT AND PREVENT SEIZURES, CONT AMITRIPTYLINE FOR SYMPTOMATIC RELIEF OF HER TH
+",,
+13175,15523,16405,0,3081-09-10 02:07:00 EST,3081-09-10 02:39:00 EST,6844,"N",69,"Nursing/Other",,"
+
+(Continued)
+ALAMIC PAIN SYNDROME, FOLLOW UP CT SCANS, RAD ONCOLOGY AND MEDICAL ONCOLOGY CONSULT ? XRT TREATMENT, FOLLOW LABS, NEURO CHECKS Q 2 HOURS, EMOTIONAL SUPPORT FOR PT AND FAMILY,  WILL CONT TO MONITOR.  
+",,
+13175,15523,16405,0,3081-09-10 03:53:00 EST,3081-09-10 03:56:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp care,
+Pt. transferred from OSH intubated #7 ET taped at 22 lip. Placed on SIMV 500/14/40%/5peep/IPS5. Transported to C-Scan without incidence. Suctioned for small amount thick blood tinged sputum. RSBI this am 43. See carevue.
+",,
+13175,15523,16405,0,3081-09-10 12:59:00 EST,3081-09-10 13:19:00 EST,6176,"N",69,"Nursing/Other",,"
+
+NPN [**5-22**]:
+
+NEURO: PT INTUBATED WITHOUT SEDATION. SHE FOLLOWS COMMANDS. SHE NODS HER HEAD TO QUESTIONS ASKED. PUPIL 3MM AND REACTIVE. SHE HAS A + GAG AND COUGH. SHE IS ABLE TO MOVE HER LITTLE FINGER ON HER RIGHT HAND. SHE CAN MOVE HER GRATE TOE ON THE RIGHT FOOT. SHE DID MOVE THE GRATE TOE ON THE LEFT FOOT X1. SHE C/O PAIN IN THE LEFT ARM. MORPHINE 1MG IV WAS GIVE AT 1400.
+
+RESP: VENT SETTINGS WERE CHANGE TO CPAP/PS 40% 5/5. SHE IS TOL WELL.LS COURSE BILAT. SX THICK YELLOW AND BLOOD TINGED SPUTUM. SPUTUM CULTURE SENT.FLAGYL/LEVO WAS STARTED SECONDARY QUESTION OF PNA AND TEMPS. TEMP MAX 102.8 ORAL. BC SENT ON [**9-10**] AM. SPUTUM CULTURE SENT TODAY.
+
+CV: NSR NO ECTOPY. HR 70-80. SBP > 100.
+
+GI/GU: OU TO LOW WALL SX SECONDARY TO A ILLEUS. + BS NO FELATUS OR BM. SHE WAS STARTE ON METOCLOPRAMIDE 10MG Q6H. FOLEY CATH W/ 30-40CC/HR. 
+
+SKIN: INTAACT.
+
+ENDO: FS Q6H. NO REGULAR INSULIN GIVEN.
+
+POC: [**Doctor Last Name 285**] NEURO ASSESSMENTS Q2H. [**Doctor Last Name 285**] CURRENT VENT SETTINGS AS TOL. [**Doctor Last Name 285**] IV ABX. SHE IS ON DEXAMETHASONE SECONDRY TO SPINAL METS. 
+
+
+",,
+13175,15523,16405,0,3081-09-10 16:15:00 EST,3081-09-10 16:23:00 EST,547,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt received intubated and vented on  SIMV settings as per resp flowsheet. RSBI 43 today. Pt changed over to CPAP/PSV and weaned from PSV 10 to current settings of SBT-PSV 5/peep 0. TV 280-330 and RR mid-high 20's. NIF -26cm. Overall, appears slightly more fatigued this afternoon. Sxn for thick old blood tinged secretions in AM, less bloody in afternoon. Pt expressing wishes to take ETT out. Cont vent support, discussions with family ongoing.
+",,
+13175,15523,16405,0,3081-09-10 17:07:00 EST,3081-09-10 17:15:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note  1500-1900","
+[**Hospital Ward Name **] 4 ICU nursing progress note  1500-1900
+ Respiratory: Pt awake..nodding appropriately. With Resident MD present..mouthed that she wanted the ETT out. Unable to read lips and pt continues to try to talk. Sister arrived from [**State 1109**]..appears to understand gravity of pts condition. Felt that pt would not want life support. HO met with husband..he is not able to make decsions.
+Currently on 5/0/40%..rr 28-32 TV 250-290cc. NIF  -26.
+ ID: Remains febrile..to 102.5. No change in antibiotics. Given tylenol and cooling blanket on.
+ Social: As above..Husband has left..Continuing to communicate with pt and sister. 
+ 
+",,
+13175,15523,16405,0,3081-09-10 17:41:00 EST,3081-09-10 17:46:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+  At pts request..extubated at 1830..rr 20's sats 98% on 50% cn..pt is only able to whisper at this point. Nods that she is comfortable. Sister with pt. Will not be re-intubated..Code status being discussed.
+",,
+13175,,16405,0,3081-09-11 01:46:00 EST,3081-09-11 01:54:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note","
+Nursing Assessment Note
+Pt was made comfort measures only per her request, NGT, IV's O2 probe and O2 d/c'd per pt's request, but later decided that she would wear nasal cannula @ 2 Liters, Pt contniues to have pain and is medicated with morphine sc, but refuses all other medication stating ""I'll take it if it will cure my cancer, otherwise I don't want it"", pt continues to have foley
+",,

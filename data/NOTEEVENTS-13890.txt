@@ -1,0 +1,1692 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3199-8-16**]              Discharge Date:   [**3199-8-21**]
+ 
+Date of Birth:  [**3167-10-14**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1013**] 
+Chief Complaint:
+s/p struck by  train
+ 
+Major Surgical or Invasive Procedure:
+(1) Posterior fossa craniectomy on the right side,
+decompression of posterior fossa, evacuation of hematoma,
+duraplasty using peri-cranial allograft, Tisseel closure
+
+(2) Irrigation and debridement of bone, left arm traumatic 
+amputation. Left proximal humerus revision amputation.
+
+ 
+History of Present Illness:
+This is a 31 year-old man who was brought in by Medflight after 
+being struck by a commuter train. Reportedly he had missed his 
+stop and jumped off the train. At the scene he had a GCS of 7 
+and was moving his arm but was noted to have a near-total left 
+arm amputation. He was intubated by EMS and brought to [**Hospital1 19**] 
+boarded and collared.
+ 
+Past Medical History:
+None
+ 
+Social History:
+Unknown; negative per family. The patient was an artist who 
+lived in the [**Location (un) **] area.
+ 
+Family History:
+Unknown
+ 
+Physical Exam:
+afebrile BP: 125/74   HR: 75 RR: 15  O2Sat.: 100%
+Gen: Intubated
+HEENT: Multiple lacerations over occiput, no gross skull 
+deformities. TMs clear. R pupil 5 mm sluggishly reactive to 
+light, L pupil 3 mm, reactive to light. Roving eye movements.
+
+Neck: in C-collar. Trachea midline.
+Lungs: Equal breath sounds bilaterally. 
+Cardiac: RRR. S1/S2. 
+Abd: Soft, NT, ND. Fast negative.
+Rectal: Normal tone, no blood.
+Pelvis: Stable. Foley placed.
+Back: No stepoffs or abrastions.
+Extrem: R UE, B LE; warm and well-perfused. No C/C/E. L UE: 
+Near-total amputation at humerus with deformity of forearm and 
+cool hand.
+Nro: GCS=3 Sedated on arrival; Spontaneous extensor posturing.
+
+ 
+Pertinent Results:
+[**3199-8-16**] 10:44PM   HGB-11.0* calcHCT-33
+[**3199-8-16**] 09:29PM   UREA N-16 CREAT-1.2
+[**3199-8-16**] 09:29PM   AMYLASE-52
+[**3199-8-16**] 09:29PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**3199-8-16**] 09:29PM URINE  HOURS-RANDOM
+[**3199-8-16**] 09:29PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**3199-8-16**] 09:29PM   WBC-28.5* RBC-4.43* HGB-13.2* HCT-39.0* 
+MCV-88 MCH-29.8 MCHC-33.9 RDW-12.7
+[**3199-8-16**] 09:29PM   PLT COUNT-234
+[**3199-8-16**] 09:29PM   PT-13.5* PTT-26.5 INR(PT)-1.2
+[**3199-8-16**] 09:29PM   FIBRINOGE-187
+[**3199-8-16**] 09:29PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 302**]-1.021
+[**3199-8-16**] 09:29PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+[**3199-8-16**] 09:29PM URINE  RBC-0-2 WBC-[**2-13**] BACTERIA-OCC YEAST-NONE 
+EPI-0-2
+[**3199-8-16**] 09:29PM URINE  GRANULAR-0-2 HYALINE-0-2
+[**3199-8-16**] 09:24PM   TYPE-ART PO2-432* PCO2-40 PH-7.34* TOTAL 
+CO2-23 BASE XS--3
+[**3199-8-16**] 09:24PM   GLUCOSE-195* LACTATE-2.0 NA+-136 K+-3.6 
+CL--105 TCO2-21
+[**3199-8-16**] 09:24PM   HGB-13.4* calcHCT-40 O2 SAT-98 CARBOXYHB-0.8 
+MET HGB-0.8
+[**3199-8-16**] 09:24PM   freeCa-1.11*
+
+HAND (AP, LAT & OBLIQUE) LEFT PORT  [**3199-8-16**] 10:21 PM
+
+FOREARM (AP & LAT) LEFT PORT; HAND (AP, LAT & OBLIQUE) LEFT 
+
+Reason: eval for forearm integrity 
+
+UNDERLYING MEDICAL CONDITION:
+31 year old man with amputation s/p hit by train 
+REASON FOR THIS EXAMINATION:
+eval for forearm integrity 
+HISTORY: Struck by a train with left forearm trauma.
+
+COMPARISON: No previous studies.
+
+FINDINGS: AP portable view of the left forearm. There is a 
+comminuted fracture of the radial mid-diaphysis and a probably 
+comminuted fracture of the ulnar mid-diaphysis. There is ulnar 
+angulation of the distal fracture fragments. The free fragment 
+of the radius fracture is transversely oriented. A comminuted 
+fracture of the distal humerus with intra-articular extent is 
+partially visualized. The wrist joint is suboptimally evaluated 
+on the single rotated view provided. Dislocation of the distal 
+ulna may be present, although this may be an artifact of 
+positioning. Extensive soft tissue injury is noted.
+
+IMPRESSION:
+
+1. Comminuted fractures of the radius and ulna.
+2. Comminuted distal humerus fracture with intra-articular 
+extent.
+3. Possible distal ulnar dislocation. Further evaluation by 
+dedicated wrist views would be helpful.
+
+CT CHEST W/CONTRAST  [**3199-8-16**] 9:16 PM
+
+CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+
+Reason: r/o injury 
+Field of view: 42 Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+31 year old man struck by train 
+REASON FOR THIS EXAMINATION:
+r/o injury 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+HISTORY: Struck by a train.
+
+COMPARISON: No previous studies.
+
+TECHNIQUE: Axial multidetector CT images of the chest, abdomen 
+and pelvis were obtained with intravenous Optiray. Sagittal and 
+coronal reformatted images were performed.
+
+CHEST CT WITH INTRAVENOUS CONTRAST: There are comminuted 
+fractures of the right and left scapula. Multiple posterior rib 
+fractures are present bilaterally. There is no pneumothorax. 
+There is no mediastinal hematoma. There is no evidence of aortic 
+injury or tracheobronchial injury. The patient is intubated, 
+with endotracheal tube tip in good position between the thoracic 
+inlet and the carina. There is moderate dependent atelectasis in 
+the right lung. Superimposed contusion cannot be excluded. There 
+is trace right pleural fluid. There is no pericardial effusion.
+
+ABDOMEN CT WITH INTRAVENOUS CONTRAST: The orogastric tube 
+terminates in the proximal stomach. There is no evidence of 
+contusion, laceration, or other injury to the liver, spleen, 
+pancreas, gallbladder, adrenal glands, or kidneys. Unopacified 
+bowel loops appear unremarkable. There is no free intraabdominal 
+air or fluid.
+
+PELVIS CT WITH INTRAVENOUS CONTRAST: There is a Foley catheter 
+in the bladder. The ureters, prostate, pelvic bowel loops, and 
+rectum appear unremarkable. There is no free fluid.
+
+CT RECONSTRUCTIONS: The patient has 12 rib-bearing, 
+thoracic-type vertebra. There are 4 lumbar-type vertebra. For 
+the purposes of this dictation, the vertebra below the most 
+inferior rib-bearing vertebra will be referred to as L1. There 
+is partial sacralization of L5. There is a burst fracture of L1 
+vertebra with retropulsion of multiple fracture fragments into 
+the spinal canal, resulting in severe narrowing of the spinal 
+canal. There is kyphotic angulation at T12/L1. There is 
+prevertebral hematoma at L1/L2. Value grade is IV.
+
+Multiple fractures, soft tissue injury and associated 
+subcutaneous emphysema are noted in the visualized right upper 
+extremity. Dedicated imaging of the humerus, forearm, wrist and 
+hand is suggested.
+
+IMPRESSION:
+
+1. Bilateral comminuted scapular fractures. Multiple bilateral 
+posterior rib fractures.
+
+2. Moderate dependent atelectasis in the right lung. 
+Superimposed contusion cannot be excluded.
+
+3. Burst fracture of L1 vertebra with severe narrowing of the 
+spinal canal by retropulsed fragments.
+
+4. No evidence of acute traumatic injury to abdominal or pelvic 
+organs.
+
+5. Multiple partially visualized fractures and soft tissue 
+injuries of the left upper extremity. Dedicated imaging of the 
+left humerus, forearm, wrist and hand is suggested.
+
+CT C-SPINE W/O CONTRAST  [**3199-8-16**] 9:16 PM
+
+CT C-SPINE W/O CONTRAST
+
+Reason: r/o fx 
+
+UNDERLYING MEDICAL CONDITION:
+31 year old man struck by train 
+REASON FOR THIS EXAMINATION:
+r/o fx 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+HISTORY: Struck by a train.
+
+COMPARISON: No previous studies.
+
+FINDINGS: There is no fracture or malalignment in the cervical 
+spine. There is no prevertebral soft tissue swelling. 
+Intervertebral disk space height is preserved throughout.
+
+There is a partially stellate fracture of the right side of the 
+occipital bone extending to the foramen magnum. Parenchymal 
+hemorrhage with adjacent edema is partially visualized in the 
+right cerebellar hemisphere. There is swelling and subcutaneous 
+emphysema in the right and midline posterior suboccipital soft 
+tissues, as well as in the right and midline posterior upper 
+cervical soft tissues. The patient is intubated and has an 
+orogastric tube. A dependent opacity is noted in the right lung 
+apex. Some apical bullae are seen. Fractures of the left scapula 
+and left humeral shaft are partially visualized on the scout 
+image.
+
+IMPRESSION:
+1. No fracture or malalignment in the cervical spine.
+2. Parenchymal hemorrhage with associated edema in the right 
+cerebellar hemisphere. Please refer to the head CT performed 
+concurrently for further detail.
+3. Posterior paraspinal soft tissue injury in the upper neck and 
+suboccipital region..
+4. Partially visualized right pulmonary opacity, left scapula 
+fracture and left humerus fracture. Please refer to the torso CT 
+performed concurrently for further detail.
+5. Right occipital fracture.
+
+CT HEAD W/O CONTRAST  [**3199-8-17**] 6:20 PM
+
+CT HEAD W/O CONTRAST
+
+Reason: s/p trauma 
+
+UNDERLYING MEDICAL CONDITION:
+31 year old man s/p trauma 
+REASON FOR THIS EXAMINATION:
+s/p trauma 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+HEAD CT WITHOUT CONTRAST
+
+INDICATION: Followup PET/CT, status post trauma.
+
+Multiple axial images are obtained from base to vertex without 
+intravenous contrast administration. Comparison is made to the 
+prior exam obtained same day at 6 a.m., 12 hours ago. The 
+patient is status post evacuation of a right-sided cerebellar 
+hemorrhage. This is mostly replaced by low density and small 
+residual hemorrhage seen anteriorly. There is persistent sulcal 
+effacement with extensive subarachnoid hemorrhage noted. A small 
+left frontal contusion is again identified. Focal area of 
+increased density is seen near the midline abutting the corpus 
+callosum, suggestive of shear injury. There has been partial 
+resolution of the small left frontal subdural hematoma. Small 
+area of bleeding is also noted along the tentorium. A 
+right-sided ventricular shunt is seen in place without 
+hydrocephalus. There is soft tissue prominence in the 
+nasopharynx related to the patient's intubation.
+
+IMPRESSION: No significant interval change seen involving the 
+extent of hemorrhage within the brain, left lateral ventricle, 
+subarachnoid space, and small focal area of shear injury near 
+the midline as noted previously. Patient is status post 
+evacuation of right cerebellar hemorrhage. There is partial 
+effacement of the posterior perimesencephalic cisterns. 
+Continued followup is recommended.
+
+MR CERVICAL SPINE
+
+Reason: eval bleed and stability of c spine 
+
+UNDERLYING MEDICAL CONDITION:
+31 year old man with s/p hit by train, sm bleed in c cord 
+REASON FOR THIS EXAMINATION:
+eval bleed and stability of c spine 
+CLINICAL INFORMATION: Trauma, small bleed in cervical cord. 
+Evaluate ___ instability of cervical spine.
+
+FINDINGS: The cervical cord is normal in dimension and signal. 
+Some abnormal signal in the posterior paraspinal muscle areas 
+are identified consistent with the findings identified on the 
+patient's CT scan and the previous evacuation of the right 
+cerebellar hematoma. There is a small amount of abnormal signal 
+in the subarachnoid space at the level of the foramen magnum 
+posterior to the cervical cord not causing cord compression 
+consistent with a high density area seen on the patient's CT 
+scan of 9/7 probably representing some blood products associated 
+with either the cerebellar hemorrhage or subsequent surgery. 
+There is no evidence of abnormal signal within the vertebral 
+bodies. Alignment is maintained.
+
+IMPRESSION: No evidence of abnormal cord signal. No evidence of 
+cord compression. Some blood seen in the subarachnoid space at 
+the level of the foramen magnum. See above discussion.
+
+MR HEAD W/O CONTRAST  [**3199-8-19**] 11:25 AM
+
+MR HEAD W/O CONTRAST
+
+Reason: R/O Diffuse axonal injury. 
+
+UNDERLYING MEDICAL CONDITION:
+31 year old man s/p hit by train. 
+REASON FOR THIS EXAMINATION:
+R/O Diffuse axonal injury. 
+INDICATION: Status post hit by train. Rule out diffuse axonal 
+injury.
+
+TECHNIQUE: Multiplanar T1- and T2-weighted brain imaging and 
+susceptibility and diffusion-weighted imaging of the brain.
+
+FINDINGS: There are abnormalities in the T2-weighted and 
+diffusion-weighted images consistent with diffuse axonal injury 
+of the corpus callosum involving the body and splenium of the 
+corpus callosum and extending into the periventricular white 
+matter posteriorly to the left posterior [**Doctor Last Name 221**] of the lateral 
+ventricle. As previously noted on the CT scans, there is 
+evidence on these MR images for diffuse subarachnoid hemorrhage. 
+There is bilateral small subdural hemorrhage over the 
+frontoparietal regions on the right more than on the left. There 
+is a left frontal brain contusion. The patient appears to be 
+status post evacuation of a right cerebellar hemorrhage. There 
+are additional foci of diffusion abnormality near the midline as 
+well as at the posterior aspect of both parietal lobes as well 
+as in the right cerebellar hemisphere which likely re[resent 
+Diffusa axonal injury. There is a right-sided ventricular drain 
+in position, without evidence of hydrocephalus.
+
+IMPRESSION: Evidence of diffuse axonal injury involving multiple 
+areas including the carpus callosum, cerebellum, and 
+hemispheres. Left frontal brain contusion and evacuated 
+cerebellar hematoma. No midline shift or hydrocephalus. Diffuse 
+subarachnoid blood and small bilateral subdural hematomas. Size 
+of the subdural hematoma does not appear to be significantly 
+larger than on the CT scan from [**8-18**].
+ 
+Brief Hospital Course:
+The patient was intubated and hemodynamically stable on arrival 
+but had a GCS of 3. His evaluation revealed multiple injuries, 
+the most concerning of which were his near-total left arm 
+amputation and the right intraparenchymal hemorrhage in the 
+cerebellum. He was seen immediately by Orthopedic and Plastic 
+Surgery for the arm and Neurosurgery for his brain. His family 
+was contacted in [**State 5794**] and he was taken to the OR for an 
+emergency craiectomy with hematoma evacuation and amputation of 
+the left arm. Please see the operative notes for details.
+
+Both before and immediately after surgery the patient's 
+neurologic prognosis was extremely poor, as was discussed with 
+his family. Postoperatively he was admitted to the Trauma ICU, 
+where his neurologic status remained unchanged. He was supported 
+with tube feeds and IV fluids, and a family meeting was held to 
+discuss his prognosis. A brain MRI was obtained and showed 
+diffuse axonal injury. After more discussion, his family decided 
+to withdraw care and elect comfort measures only. On [**8-20**] 
+he was extubated and all tubes, lines and drains were removed, 
+and he was placed on a morphine drip. He went into asystole on 
+the evening of [**8-21**] and was pronounced dead by an ICU 
+physician. [**Name10 (NameIs) **] medical examiner accepted the case.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+s/p struck by train
+Subdural hematoma and diffuse axonal injury
+Left arm traumatic amputation
+ 
+Discharge Condition:
+Expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD, [**MD Number 1019**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1020**] [**Last Name (NamePattern4) 1021**] MD [**MD Number 1022**] [**3199-8-21**] @ 2033
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**3199-8-24**] 2:24 PM
+(End of Report)
+
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:19 PM
+      -bilateral scapula fractures; multiple bilateral posterior rib fractures;
+      right lower lobe atelectasis (can't exclude contusion)
+      -no intra-abdominal/intrapelvic organ injury
+      -burst fracture of L1 (pt has 12 rib-bearing thoracic vertebra, 4 lumbar
+      vertebra, and partially sacralized L5)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest, abdomen and pelvis
+     were obtained with intravenous Optiray.  Sagittal and coronal reformatted
+     images were performed.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  There are comminuted fractures of the
+     right and left scapula.  Multiple posterior rib fractures are present
+     bilaterally.  There is no pneumothorax.  There is no mediastinal hematoma.
+     There is no evidence of aortic injury or tracheobronchial injury.  The patient
+     is intubated, with endotracheal tube tip in good position between the thoracic
+     inlet and the carina.  There is moderate dependent atelectasis in the right
+     lung.  Superimposed contusion cannot be excluded.  There is trace right
+     pleural fluid.  There is no pericardial effusion.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  The orogastric tube terminates in the
+     proximal stomach.  There is no evidence of contusion, laceration, or other
+     injury to the liver, spleen, pancreas, gallbladder, adrenal glands, or
+     kidneys.  Unopacified bowel loops appear unremarkable.  There is no free
+     intraabdominal air or fluid.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  There is a Foley catheter in the
+     bladder.  The ureters, prostate, pelvic bowel loops, and rectum appear
+     unremarkable.  There is no free fluid.
+     
+     CT RECONSTRUCTIONS:  The patient has 12 rib-bearing, thoracic-type vertebra.
+     There are 4 lumbar-type vertebra.  For the purposes of this dictation, the
+     vertebra below the most inferior rib-bearing vertebra will be referred to as
+     L1.  There is partial sacralization of L5.  There is a burst fracture of L1
+     vertebra with retropulsion of multiple fracture fragments into the spinal
+                                                                 (Over)
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     canal, resulting in severe narrowing of the spinal canal.  There is kyphotic
+     angulation at T12/L1.  There is prevertebral hematoma at L1/L2.  Value grade
+     is IV.
+     
+     Multiple fractures, soft tissue injury and associated subcutaneous emphysema
+     are noted in the visualized right upper extremity.  Dedicated imaging of the
+     humerus, forearm, wrist and hand is suggested.
+     
+     IMPRESSION:
+     
+     1.  Bilateral comminuted scapular fractures.  Multiple bilateral posterior rib
+     fractures.
+     
+     2.  Moderate dependent atelectasis in the right lung.  Superimposed contusion
+     cannot be excluded.
+     
+     3.  Burst fracture of L1 vertebra with severe narrowing of the spinal canal by
+     retropulsed fragments.
+     
+     4.  No evidence of acute traumatic injury to abdominal or pelvic organs.
+     
+     5.  Multiple partially visualized fractures and soft tissue injuries of the
+     left upper extremity.  Dedicated imaging of the left humerus, forearm, wrist
+     and hand is suggested.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 4461**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:14 PM
+      no fracture or malalignment
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  There is no fracture or malalignment in the cervical spine.  There
+     is no prevertebral soft tissue swelling. Intervertebral disk space height is
+     preserved throughout.
+     
+     There is a partially stellate fracture of the right side of the
+     occipital bone extending to the foramen magnum. Parenchymal hemorrhage with
+     adjacent edema is partially visualized in the right cerebellar hemisphere.
+     There is swelling and subcutaneous emphysema in the right and midline
+     posterior suboccipital soft tissues, as well as in the right and midline
+     posterior upper cervical soft tissues.  The patient is intubated and has an
+     orogastric tube. A dependent opacity is noted in the right lung apex. Some
+     apical bullae are seen. Fractures of the left scapula and left humeral shaft
+     are partially visualized on the scout image.
+     
+     IMPRESSION:
+     1.  No fracture or malalignment in the cervical spine.
+     2.  Parenchymal hemorrhage with associated edema in the right cerebellar
+     hemisphere.  Please refer to the head CT performed concurrently for further
+     detail.
+     3.  Posterior paraspinal soft tissue injury in the upper neck and suboccipital
+     region..
+     4.  Partially visualized right pulmonary opacity, left scapula fracture and
+     left humerus fracture. Please refer to the torso CT performed concurrently for
+     further detail.
+     5. Right occipital fracture.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:15 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4460**]
+     Reason: r/o bleed                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:52 PM
+      -large hemorrhagic contusion in right cerebellar hemisphere with no
+      compression of 4th ventricle at this time; small left subdural hematoma;
+      diffuse bilateral subarachnoid hemorrhage; blood in left lateral ventricle
+      -midline parietal bone fracture with a fragment depressed by 3 mm and gas in
+      adjacent superior sagittal venous sinus
+     WET READ AUDIT #1 DFDkq MON [**3199-8-16**] 10:13 PM
+      -large hemorrhagic contusion in right cerebellar hemisphere with no
+      compression of 4th ventricle at this time; small left subdural hematoma;
+      diffuse bilateral subarachnoid hemorrhage; blood in left lateral ventricle
+     WET READ AUDIT #2 DFDkq MON [**3199-8-16**] 10:45 PM
+      -large hemorrhagic contusion in right cerebellar hemisphere with no
+      compression of 4th ventricle at this time; small left subdural hematoma;
+      diffuse bilateral subarachnoid hemorrhage; blood in left lateral ventricle
+      -occipital bone fracture with gas in superior sagittal venous sinus
+     WET READ AUDIT #3 DFDkq MON [**3199-8-16**] 10:48 PM
+      -large hemorrhagic contusion in right cerebellar hemisphere with no
+      compression of 4th ventricle at this time; small left subdural hematoma;
+      diffuse bilateral subarachnoid hemorrhage; blood in left lateral ventricle
+      -midline parietal bone fracture with gas in superior sagittal venous sinus
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is a large right cerebellar parenchymal hemorrhage with
+     adjacent edema, likely representing a hemorrhagic contusion.  There is only
+     mild compression of the fourth ventricle at this time.  There is a thin
+     subdural hematoma along the left convexity.  Diffuse subarachnoid hemorrhage
+     is noted in the hemispheric sulci bilaterally.  There is blood in the
+     occipital [**Doctor Last Name 67**] of the left lateral ventricle. There is a radial fracture of
+     the right side of the occipital bone extending into the foramen magnum.
+     Incidental note is made of a cavum septum pellucidum et Vergae.
+     
+     There is a comminuted fracture of the occipital bone in the midline, with a
+     fracture fragment demonstrating 3 mm of depression.  There is associated
+     pneumocephalus, possibly posterior to the superior sagittal sinus or torcular.
+     There is extensive swelling and subcutaneous emphysema in the right and
+                                                                 (Over)
+
+     DATE: [**3199-8-16**] 9:15 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4460**]
+     Reason: r/o bleed                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     (Cont)
+     midline posterior occipital soft tissues.  The patient is intubated. There is
+     near complete opacification of the left side of the sphenoid sinus. He is
+     intubated, but the remaining sinuses are relatively clear. This raises the
+     question of an occult skull base fracture through the sphenoid sinus
+     
+     IMPRESSION:
+     1.  Large hemorrhagic contusion in the right cerebellar hemisphere with
+     minimal mass effect on the fourth ventricle at this time.
+     2.  Thin left subdural hematoma.
+     3.  Diffuse bilateral subarachnoid hemorrhage.
+     4.  Midline occipital bone fracture with 3 mm depression of a fracture
+     fragment.  Associated pneumocephalus.
+     5. Right occipital bone fracture. Possible fracture of the left sphenoid
+     bone.
+     
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:10 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4459**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train, left arm amputation                            
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  AP supine portable view of the chest.  Evaluation is limited by the
+     superimposed trauma board structures.  The endotracheal tube terminates in
+     good position approximately 5.5 cm above the carina.  The orogastric tube
+     terminates in the proximal stomach.  Mediastinal and cardiac contours appear
+     normal.  The lungs are grossly clear.  There is no pleural effusion and no
+     evidence of a pneumothorax in supine position.  There is a partially
+     visualized comminuted fracture of the left humerus.  Irregularities suggestive
+     of fracture are noted in the left scapula.  Multiple rib fractures
+     and a right scapula fracture, which are identified on the concurrently
+     performed torso CT, are not well visualized on the current study.
+     
+     IMPRESSION:
+     1. Partially visualized fractures of the left humerus and left scapula.
+     Further evaluation with dedicated imaging studies of the humerus and scapula
+     is suggested.
+     2.  Bilateral rib fractures and right scapular fracture, identified on the
+     concurrent torso CT, are not well visualized.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 10:21 PM
+     FOREARM (AP & LAT) LEFT PORT; HAND (AP, LAT & OBLIQUE) LEFT PORTClip # [**Telephone/Fax (1) 4464**]
+     Reason: eval for forearm integrity                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with amputation s/p hit by train                                
+     REASON FOR THIS EXAMINATION:
+      eval for forearm integrity                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train with left forearm trauma.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  AP portable view of the left forearm.  There is a comminuted
+     fracture of the radial mid-diaphysis and a probably comminuted fracture of the
+     ulnar mid-diaphysis.  There is ulnar angulation of the distal fracture
+     fragments.  The free fragment of the radius fracture is transversely oriented.
+     A comminuted fracture of the distal humerus with intra-articular extent is
+     partially visualized. The wrist joint is suboptimally evaluated on the single
+     rotated view provided. Dislocation of the distal ulna may be present, although
+     this may be an artifact of positioning.  Extensive soft tissue injury is
+     noted.
+     
+     IMPRESSION:
+     
+     1.  Comminuted fractures of the radius and ulna.
+     2.  Comminuted distal humerus fracture with intra-articular extent.
+     3.  Possible distal ulnar dislocation.  Further evaluation by dedicated wrist
+     views would be helpful.
+     
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 10:21 PM
+     FOREARM (AP & LAT) LEFT PORT; HAND (AP, LAT & OBLIQUE) LEFT PORTClip # [**Telephone/Fax (1) 4464**]
+     Reason: eval for forearm integrity                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with amputation s/p hit by train                                
+     REASON FOR THIS EXAMINATION:
+      eval for forearm integrity                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train with left forearm trauma.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  AP portable view of the left forearm.  There is a comminuted
+     fracture of the radial mid-diaphysis and a probably comminuted fracture of the
+     ulnar mid-diaphysis.  There is ulnar angulation of the distal fracture
+     fragments.  The free fragment of the radius fracture is transversely oriented.
+     A comminuted fracture of the distal humerus with intra-articular extent is
+     partially visualized. The wrist joint is suboptimally evaluated on the single
+     rotated view provided. Dislocation of the distal ulna may be present, although
+     this may be an artifact of positioning.  Extensive soft tissue injury is
+     noted.
+     
+     IMPRESSION:
+     
+     1.  Comminuted fractures of the radius and ulna.
+     2.  Comminuted distal humerus fracture with intra-articular extent.
+     3.  Possible distal ulnar dislocation.  Further evaluation by dedicated wrist
+     views would be helpful.
+     
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 10:02 PM
+     HUMERUS (AP & LAT) LEFT                                         Clip # [**Clip Number (Radiology) 4463**]
+     Reason: HIT BY TRAIN. TRAUMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train with left arm trauma.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  AP view of the humerus.  There is a comminuted fracture of the
+     humeral diaphysis with 9 cm of distraction of the largest fracture fragments.
+     The proximal fracture fragment is angulated laterally, and the distal fracture
+     fragment is displaced medially.  In addition, there is a comminuted fracture
+     of the distal humerus, which extends to the articular surface.  The extent of
+     elbow joint disruption is suboptimally evaluated on the single view provided.
+     The glenohumeral joint appears grossly intact on limited evaluation.  A
+     comminuted fracture is noted in the partially visualized scapula.
+     
+     IMPRESSION:
+     
+     1.  Comminuted left humeral diaphysis fracture.
+     
+     2.  Comminuted left distal humerus fracture with intra-articular extent.
+     Further evaluation by dedicated elbow views would be helpful.
+     
+     3.  Comminuted fracture of the partially visualized left scapula.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 11:57 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4465**]
+     Reason: increased bleeding and swelling                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with struck by train, multiple bleeds on prior head ct tonight  
+     REASON FOR THIS EXAMINATION:
+      increased bleeding and swelling                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq TUE [**3199-8-17**] 12:26 AM
+      increased cerebral edema with decreased size of ventricles
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Struck by a train with extensive intracranial hemorrhage.  Evaluate
+     for interval worsening.
+     
+     COMPARISON:  2.5 hours earlier on [**3199-8-16**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  The parenchymal hemorrhage in the right cerebellar hemisphere is
+     stable in size.  The associated edema is not appreciably changed, nor is the
+     degree of mass effect on the fourth ventricle.  The lateral and third
+     ventricles are not dilated. Subarachnoid hemorrhage, as well as blood in the
+     left lateral ventricle are again noted. A thin subdural hematoma along the
+     left frontal convexity and subdural blood across the tentorium are again
+     noted.
+     There are no new areas of parenchymal attenuation abnormality.  The basal
+     cisternal spaces are not narrowed.
+     
+     There is an inferior right occipital bone fracture.  The midline parietal bone
+     fracture with a slightly depressed fracture fragment is again seen.  Air is
+     adjacent to the superior sagittal sinus in this location. Swelling and
+     subcutaneous emphysema in the right posterior and midline occipital soft
+     tissues are also again noted. The patient remains intubated. Opacification of
+     the left sphenoid sinus is again noted.
+     
+     IMPRESSION: Stable overall apperance of the brain, compared to the CT of about
+     two hours earlier.
+                                                                           DFDgf
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 11:57 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4465**]
+     Reason: increased bleeding and swelling                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with struck by train, multiple bleeds on prior head ct tonight  
+     REASON FOR THIS EXAMINATION:
+      increased bleeding and swelling                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq TUE [**3199-8-17**] 12:26 AM
+      increased cerebral edema with decreased size of ventricles
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Struck by a train with extensive intracranial hemorrhage.  Evaluate
+     for interval worsening.
+     
+     COMPARISON:  2.5 hours earlier on [**3199-8-16**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  The parenchymal hemorrhage in the right cerebellar hemisphere is
+     stable in size.  The associated edema is not appreciably changed, nor is the
+     degree of mass effect on the fourth ventricle.  The lateral and third
+     ventricles are not dilated. Subarachnoid hemorrhage, as well as blood in the
+     left lateral ventricle are again noted. A thin subdural hematoma along the
+     left frontal convexity and subdural blood across the tentorium are again
+     noted.
+     There are no new areas of parenchymal attenuation abnormality.  The basal
+     cisternal spaces are not narrowed.
+     
+     There is an inferior right occipital bone fracture.  The midline parietal bone
+     fracture with a slightly depressed fracture fragment is again seen.  Air is
+     adjacent to the superior sagittal sinus in this location. Swelling and
+     subcutaneous emphysema in the right posterior and midline occipital soft
+     tissues are also again noted. The patient remains intubated. Opacification of
+     the left sphenoid sinus is again noted.
+     
+     IMPRESSION: Stable overall apperance of the brain, compared to the CT of about
+     two hours earlier.
+                                                                           DFDgf
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:19 PM
+      -bilateral scapula fractures; multiple bilateral posterior rib fractures;
+      right lower lobe atelectasis (can't exclude contusion)
+      -no intra-abdominal/intrapelvic organ injury
+      -burst fracture of L1 (pt has 12 rib-bearing thoracic vertebra, 4 lumbar
+      vertebra, and partially sacralized L5)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest, abdomen and pelvis
+     were obtained with intravenous Optiray.  Sagittal and coronal reformatted
+     images were performed.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  There are comminuted fractures of the
+     right and left scapula.  Multiple posterior rib fractures are present
+     bilaterally.  There is no pneumothorax.  There is no mediastinal hematoma.
+     There is no evidence of aortic injury or tracheobronchial injury.  The patient
+     is intubated, with endotracheal tube tip in good position between the thoracic
+     inlet and the carina.  There is moderate dependent atelectasis in the right
+     lung.  Superimposed contusion cannot be excluded.  There is trace right
+     pleural fluid.  There is no pericardial effusion.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  The orogastric tube terminates in the
+     proximal stomach.  There is no evidence of contusion, laceration, or other
+     injury to the liver, spleen, pancreas, gallbladder, adrenal glands, or
+     kidneys.  Unopacified bowel loops appear unremarkable.  There is no free
+     intraabdominal air or fluid.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  There is a Foley catheter in the
+     bladder.  The ureters, prostate, pelvic bowel loops, and rectum appear
+     unremarkable.  There is no free fluid.
+     
+     CT RECONSTRUCTIONS:  The patient has 12 rib-bearing, thoracic-type vertebra.
+     There are 4 lumbar-type vertebra.  For the purposes of this dictation, the
+     vertebra below the most inferior rib-bearing vertebra will be referred to as
+     L1.  There is partial sacralization of L5.  There is a burst fracture of L1
+     vertebra with retropulsion of multiple fracture fragments into the spinal
+                                                                 (Over)
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     canal, resulting in severe narrowing of the spinal canal.  There is kyphotic
+     angulation at T12/L1.  There is prevertebral hematoma at L1/L2.  Value grade
+     is IV.
+     
+     Multiple fractures, soft tissue injury and associated subcutaneous emphysema
+     are noted in the visualized right upper extremity.  Dedicated imaging of the
+     humerus, forearm, wrist and hand is suggested.
+     
+     IMPRESSION:
+     
+     1.  Bilateral comminuted scapular fractures.  Multiple bilateral posterior rib
+     fractures.
+     
+     2.  Moderate dependent atelectasis in the right lung.  Superimposed contusion
+     cannot be excluded.
+     
+     3.  Burst fracture of L1 vertebra with severe narrowing of the spinal canal by
+     retropulsed fragments.
+     
+     4.  No evidence of acute traumatic injury to abdominal or pelvic organs.
+     
+     5.  Multiple partially visualized fractures and soft tissue injuries of the
+     left upper extremity.  Dedicated imaging of the left humerus, forearm, wrist
+     and hand is suggested.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:19 PM
+      -bilateral scapula fractures; multiple bilateral posterior rib fractures;
+      right lower lobe atelectasis (can't exclude contusion)
+      -no intra-abdominal/intrapelvic organ injury
+      -burst fracture of L1 (pt has 12 rib-bearing thoracic vertebra, 4 lumbar
+      vertebra, and partially sacralized L5)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest, abdomen and pelvis
+     were obtained with intravenous Optiray.  Sagittal and coronal reformatted
+     images were performed.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  There are comminuted fractures of the
+     right and left scapula.  Multiple posterior rib fractures are present
+     bilaterally.  There is no pneumothorax.  There is no mediastinal hematoma.
+     There is no evidence of aortic injury or tracheobronchial injury.  The patient
+     is intubated, with endotracheal tube tip in good position between the thoracic
+     inlet and the carina.  There is moderate dependent atelectasis in the right
+     lung.  Superimposed contusion cannot be excluded.  There is trace right
+     pleural fluid.  There is no pericardial effusion.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  The orogastric tube terminates in the
+     proximal stomach.  There is no evidence of contusion, laceration, or other
+     injury to the liver, spleen, pancreas, gallbladder, adrenal glands, or
+     kidneys.  Unopacified bowel loops appear unremarkable.  There is no free
+     intraabdominal air or fluid.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  There is a Foley catheter in the
+     bladder.  The ureters, prostate, pelvic bowel loops, and rectum appear
+     unremarkable.  There is no free fluid.
+     
+     CT RECONSTRUCTIONS:  The patient has 12 rib-bearing, thoracic-type vertebra.
+     There are 4 lumbar-type vertebra.  For the purposes of this dictation, the
+     vertebra below the most inferior rib-bearing vertebra will be referred to as
+     L1.  There is partial sacralization of L5.  There is a burst fracture of L1
+     vertebra with retropulsion of multiple fracture fragments into the spinal
+                                                                 (Over)
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     canal, resulting in severe narrowing of the spinal canal.  There is kyphotic
+     angulation at T12/L1.  There is prevertebral hematoma at L1/L2.  Value grade
+     is IV.
+     
+     Multiple fractures, soft tissue injury and associated subcutaneous emphysema
+     are noted in the visualized right upper extremity.  Dedicated imaging of the
+     humerus, forearm, wrist and hand is suggested.
+     
+     IMPRESSION:
+     
+     1.  Bilateral comminuted scapular fractures.  Multiple bilateral posterior rib
+     fractures.
+     
+     2.  Moderate dependent atelectasis in the right lung.  Superimposed contusion
+     cannot be excluded.
+     
+     3.  Burst fracture of L1 vertebra with severe narrowing of the spinal canal by
+     retropulsed fragments.
+     
+     4.  No evidence of acute traumatic injury to abdominal or pelvic organs.
+     
+     5.  Multiple partially visualized fractures and soft tissue injuries of the
+     left upper extremity.  Dedicated imaging of the left humerus, forearm, wrist
+     and hand is suggested.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:19 PM
+      -bilateral scapula fractures; multiple bilateral posterior rib fractures;
+      right lower lobe atelectasis (can't exclude contusion)
+      -no intra-abdominal/intrapelvic organ injury
+      -burst fracture of L1 (pt has 12 rib-bearing thoracic vertebra, 4 lumbar
+      vertebra, and partially sacralized L5)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest, abdomen and pelvis
+     were obtained with intravenous Optiray.  Sagittal and coronal reformatted
+     images were performed.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  There are comminuted fractures of the
+     right and left scapula.  Multiple posterior rib fractures are present
+     bilaterally.  There is no pneumothorax.  There is no mediastinal hematoma.
+     There is no evidence of aortic injury or tracheobronchial injury.  The patient
+     is intubated, with endotracheal tube tip in good position between the thoracic
+     inlet and the carina.  There is moderate dependent atelectasis in the right
+     lung.  Superimposed contusion cannot be excluded.  There is trace right
+     pleural fluid.  There is no pericardial effusion.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  The orogastric tube terminates in the
+     proximal stomach.  There is no evidence of contusion, laceration, or other
+     injury to the liver, spleen, pancreas, gallbladder, adrenal glands, or
+     kidneys.  Unopacified bowel loops appear unremarkable.  There is no free
+     intraabdominal air or fluid.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  There is a Foley catheter in the
+     bladder.  The ureters, prostate, pelvic bowel loops, and rectum appear
+     unremarkable.  There is no free fluid.
+     
+     CT RECONSTRUCTIONS:  The patient has 12 rib-bearing, thoracic-type vertebra.
+     There are 4 lumbar-type vertebra.  For the purposes of this dictation, the
+     vertebra below the most inferior rib-bearing vertebra will be referred to as
+     L1.  There is partial sacralization of L5.  There is a burst fracture of L1
+     vertebra with retropulsion of multiple fracture fragments into the spinal
+                                                                 (Over)
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     canal, resulting in severe narrowing of the spinal canal.  There is kyphotic
+     angulation at T12/L1.  There is prevertebral hematoma at L1/L2.  Value grade
+     is IV.
+     
+     Multiple fractures, soft tissue injury and associated subcutaneous emphysema
+     are noted in the visualized right upper extremity.  Dedicated imaging of the
+     humerus, forearm, wrist and hand is suggested.
+     
+     IMPRESSION:
+     
+     1.  Bilateral comminuted scapular fractures.  Multiple bilateral posterior rib
+     fractures.
+     
+     2.  Moderate dependent atelectasis in the right lung.  Superimposed contusion
+     cannot be excluded.
+     
+     3.  Burst fracture of L1 vertebra with severe narrowing of the spinal canal by
+     retropulsed fragments.
+     
+     4.  No evidence of acute traumatic injury to abdominal or pelvic organs.
+     
+     5.  Multiple partially visualized fractures and soft tissue injuries of the
+     left upper extremity.  Dedicated imaging of the left humerus, forearm, wrist
+     and hand is suggested.
+                                                                           DFDkq
+
+",,
+13890,24749,,,3199-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man struck by train                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**3199-8-16**] 10:19 PM
+      -bilateral scapula fractures; multiple bilateral posterior rib fractures;
+      right lower lobe atelectasis (can't exclude contusion)
+      -no intra-abdominal/intrapelvic organ injury
+      -burst fracture of L1 (pt has 12 rib-bearing thoracic vertebra, 4 lumbar
+      vertebra, and partially sacralized L5)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Struck by a train.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest, abdomen and pelvis
+     were obtained with intravenous Optiray.  Sagittal and coronal reformatted
+     images were performed.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  There are comminuted fractures of the
+     right and left scapula.  Multiple posterior rib fractures are present
+     bilaterally.  There is no pneumothorax.  There is no mediastinal hematoma.
+     There is no evidence of aortic injury or tracheobronchial injury.  The patient
+     is intubated, with endotracheal tube tip in good position between the thoracic
+     inlet and the carina.  There is moderate dependent atelectasis in the right
+     lung.  Superimposed contusion cannot be excluded.  There is trace right
+     pleural fluid.  There is no pericardial effusion.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  The orogastric tube terminates in the
+     proximal stomach.  There is no evidence of contusion, laceration, or other
+     injury to the liver, spleen, pancreas, gallbladder, adrenal glands, or
+     kidneys.  Unopacified bowel loops appear unremarkable.  There is no free
+     intraabdominal air or fluid.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  There is a Foley catheter in the
+     bladder.  The ureters, prostate, pelvic bowel loops, and rectum appear
+     unremarkable.  There is no free fluid.
+     
+     CT RECONSTRUCTIONS:  The patient has 12 rib-bearing, thoracic-type vertebra.
+     There are 4 lumbar-type vertebra.  For the purposes of this dictation, the
+     vertebra below the most inferior rib-bearing vertebra will be referred to as
+     L1.  There is partial sacralization of L5.  There is a burst fracture of L1
+     vertebra with retropulsion of multiple fracture fragments into the spinal
+                                                                 (Over)
+
+     DATE: [**3199-8-16**] 9:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4462**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o injury                                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     canal, resulting in severe narrowing of the spinal canal.  There is kyphotic
+     angulation at T12/L1.  There is prevertebral hematoma at L1/L2.  Value grade
+     is IV.
+     
+     Multiple fractures, soft tissue injury and associated subcutaneous emphysema
+     are noted in the visualized right upper extremity.  Dedicated imaging of the
+     humerus, forearm, wrist and hand is suggested.
+     
+     IMPRESSION:
+     
+     1.  Bilateral comminuted scapular fractures.  Multiple bilateral posterior rib
+     fractures.
+     
+     2.  Moderate dependent atelectasis in the right lung.  Superimposed contusion
+     cannot be excluded.
+     
+     3.  Burst fracture of L1 vertebra with severe narrowing of the spinal canal by
+     retropulsed fragments.
+     
+     4.  No evidence of acute traumatic injury to abdominal or pelvic organs.
+     
+     5.  Multiple partially visualized fractures and soft tissue injuries of the
+     left upper extremity.  Dedicated imaging of the left humerus, forearm, wrist
+     and hand is suggested.
+                                                                           DFDkq
+
+",,
+13890,24749,17283,,3199-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-17**] 6:32 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4466**]
+     Reason: bleed                                                       
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with SDH s/p evacuation                                         
+     REASON FOR THIS EXAMINATION:
+      bleed                                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post intracranial hemorrhage evacuation.
+     
+     COMPARISON:  [**3199-8-16**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is evidence of new right occipital craniectomy with
+     evacuation of right cerebellar hemisphere hemorrhage.  The fourth ventricle is
+     slightly less compressed than on the previous study.  The remainder of the
+     ventricles is unchanged in size. There is a cavum septum pellucidum et Vergae.
+     Previously noted bilateral subarachnoid blood products appear slightly less
+     dense.  A moderate left frontal hemorrhagic contusion is now evident.  There
+     is no shift of abnormally midline structures.  There is no CT evidence of an
+     acute major territorial vascular infarction.  There is increased fluid in the
+     sphenoid air cell and unchanged moderate opacification of the ethmoid air
+     cells.  The patient remains intubated with an orogastric tube in place.
+     
+     IMPRESSION:
+     1.  Status post right occipital craniectomy and right cerebellar hemisphere
+     hematoma evacuation.  Slightly decreased compression of the fourth ventricle.
+     
+     2.  Interval manifestation of a moderate left frontal hemorrhagic contusion.
+     
+     3.  Diffuse subarachnoid hemorrhage appears slightly less dense.
+     
+     4.  Increased fluid in the sphenoid air cell.  Stable moderate opacification
+     of the ethmoid air cells.
+     
+     
+
+",,
+13890,24749,17283,,3199-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-17**] 11:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4467**]
+     Reason: eval placement                                              
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man sp CVL line chane                                               
+     REASON FOR THIS EXAMINATION:
+      eval placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 11:43 A.M. ON [**8-17**]
+     
+     HISTORY:  Central venous line placement.
+     
+     IMPRESSION:  AP chest compared to [**8-16**] at 9:21 p.m.
+     
+     A new right central venous line tip projects over the superior cavoatrial
+     junction.  ET tube and nasogastric tube are in standard placements.  Widening
+     and tubulation of the superior mediastinum has not changed appreciably since
+     the earlier examinations, but configuration is worrisome for mediastinal
+     hematoma.
+     
+     There is no clear pneumothorax or pleural effusion despite fractures of both
+     scapulae and posterior ribs, described on the report of the CT scan performed
+     yesterday.  For a patient of this age, the left paraspinal line is widened for
+     maximally at the point of minimal scoliosis concave to the left, another
+     feature concerning for spinal injury and hematoma.
+     
+     Heart is normal size.
+                                                                           
+
+",,
+13890,24749,17283,,3199-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-17**] 6:20 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4468**]
+     Reason: s/p trauma                                                  
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man s/p trauma                                                      
+     REASON FOR THIS EXAMINATION:
+      s/p trauma                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HEAD CT WITHOUT CONTRAST
+     
+     INDICATION:  Followup PET/CT, status post trauma.
+     
+     Multiple axial images are obtained from base to vertex without intravenous
+     contrast administration.  Comparison is made to the prior exam obtained same
+     day at 6 a.m., 12 hours ago.  The patient is status post evacuation of a
+     right-sided cerebellar hemorrhage.  This is mostly replaced by low density and
+     small residual hemorrhage seen anteriorly.  There is persistent sulcal
+     effacement with extensive subarachnoid hemorrhage noted.  A small left frontal
+     contusion is again identified.  Focal area of increased density is seen near
+     the midline abutting the corpus callosum, suggestive of shear injury.  There
+     has been partial resolution of the small left frontal subdural hematoma. Small
+     area of bleeding is also noted along the tentorium.  A right-sided ventricular
+     shunt is seen in place without hydrocephalus.  There is soft tissue prominence
+     in the nasopharynx related to the patient's intubation.
+     
+     IMPRESSION:  No significant interval change seen involving the extent of
+     hemorrhage within the brain, left lateral ventricle, subarachnoid space, and
+     small focal area of shear injury near the midline as noted previously. Patient
+     is status post evacuation of right cerebellar hemorrhage.  There is partial
+     effacement of the posterior perimesencephalic cisterns.  Continued followup is
+     recommended.
+
+",,
+13890,24749,17283,0,3199-08-17 15:00:00 EST,3199-08-17 15:03:00 EST,6693,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received from OR via CT Scan. Pt placed on AC as noted. FIO2 weaned according to ABG's and IMV increased to maintain PaCO2 around 30. Pt had a drain placed in head today. BS are clear bilaterally and slightly decreased in the bases. Plan to continue on current settings - wean as tolerated. 
+",,
+13890,24749,17283,0,3199-08-17 15:09:00 EST,3199-08-17 15:39:00 EST,7537,"N",54,"Nursing/Other","Admission/ progress note","
+Admission/ progress note
+31 Y.O. male adm [**8-17**] after being struck by train. Suffered mult. head injuries, traumatic amp. L UE, B scapular fx's, mult. rib fx's, L1 burst fx. w/ cord compression, and ligamental damage of post. neck. Rec'd post op S/P post. fossa crani for evac of intraparenchymal clot and L UE closure of amputation. Arrived to TSICU at 7AM unreversed and ventilated. 
+Neuro: Sedated on propofol- exam off sedation as follows: Pupils 3mm/sluggish to fixed, intermittent slight corneal reflex on R - no corneal on L. No cough or gag, no motor exam to deep central pain or nailbed pain. EVD placed at 3pm, draining clear pink CSF, ICP 4-12. Recieving mannitol 25 mg q6hrs and decadron 4mg q4hrs. CPP70's.
+ 
+Resp: Intubated w/ #8ETT, settings: A/C 18 Vt 650 40% % peep- overbreathing at RR 20-24. Sat 100%. LS CTA bilat. Goal Pc02 30-35 for ICP's, last Pc02 29. 
+
+CV: HR 120's-130's NST- no ectopy. Tmax101.4, Tylenol given. L fem art line with good waveform and correlates w/ NIBP- 104/61 Neo gtt to maintain MAP < 60 currently off. CVP 0-2, rec'd 500cc NS bolus total. R SC CVL changed over wire- OK to use per CXR- R groin CVL D/C'd. R A/C PIV patent. SCD boots on, pulses heard by dopplar only. 
+
+GTT's: Main NS @ 100cc/hr, Fentanyl gtt @ 100mcgs/hr, Propofol @ 40 mcg/kg/min.
+
+GI/GU: Abd soft, hypo BS heard intermittently, OGT to low int. sx- coffee grounds. Started on Pepsid. Foley draining clear yellow.
+
+Skin: EVD site C/D/I, post crani inc C/D/I, mult. bruises and surface lacs OTA C/D/I
+
+Bed flat in Rtrend., Logroll/Cspine precautions- Aspen collar on. 
+Pt on Triple abx
+
+Plan: F/U head CT at 6pm, Follow labs for mannitol, cont. to monitor VS and ICP's- family will be arriving from [**State **] late tonight.
+",,
+13890,24749,17283,,3199-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-18**] 6:03 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4469**]
+     Reason: eval edema / bleeds                                         
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with s/p trauma / craniotomy w/bleeds                           
+     REASON FOR THIS EXAMINATION:
+      eval edema / bleeds                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post trauma, craniotomy.
+     
+     Comparison is made to the CT scan performed one day prior.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There has been no significant interval change in the extent of the
+     previously identified areas of hemorrhage with particular reference to the
+     hemorrhages identified in the left lateral ventricle, subarachnoid space and
+     small focus of likely shear injury near the midline, as noted previously.  The
+     patient is again noted to be status post evacuation of a right cerebellar
+     hemorrhage.  The ventricles, sulci and cisterns are unchanged in
+     configuration.  There is again demonstrated a right-sided ventricular drain in
+     stable position, without evidence of hydrocephalus.  The surrounding osseous
+     structures and paranasal sinuses are unchanged.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+13890,24749,17283,0,3199-08-18 04:49:00 EST,3199-08-18 05:31:00 EST,6600,"N",54,"Nursing/Other",,"
+
+NPN 7pm-7am
+
+events- no significant events overnight. Family in from CA.
+
+Neuro- pt remains unresponsive. propofol off from 3am. Dr. [**Last Name (STitle) 1017**] aware. pt having decorticate posturing with noxious stimuli (mainly mouth care and deep pain) pt moves right arm and bilat LE on bed when posturing. GCS cont to be 3. no cough or gag. corneals absent. no pupilary response. pupils remain 2-3mm. + babinki. no s/s of pain. cont on fentanyl gtt at 100mcg/hr. ventriculostomy drain 10cm above tragus. open and draining 10-20cc/hr. ICP 7-8 stable. CPP 80-90. cont on mannitol and decadron. cont on logroll with c-spine percautions and c-collar on.
+
+CV- HR and B/P stable SR- ST no ectopy S1S2 regular. neo off all shift. map 80-100. CVP 2-4. osmo wnl<300. SCD for DVT prophalxis. + palpable right radial pulse. bilat pedal pulses + doppler.
+
+Resp- lung sounds clear. no secreations when sx. Ett re-taped. pt not breathing over vent. rate set 18. cont on AC tv 650 40% peep 5. MV [**9-21**]. ABG 7.48/34/187/BE 3.
+
+renal- adequite U/O. clear yellow. increased appropriatly with mannitol. na and osmo monitored. na 141 osmo 289. k, ca, and mag replaced. bun 10 creat.8  [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 1485**] to 2.1  NS cont at 100/hr. skin warm and dry. CVP 2-4.
+
+GI- and soft. absent bs. OGT output from coffee grounds to bilious. placement varified, tube flushed. no stool guiac x3 pending. cont on pepcid for prophalxis.
+
+Endo- on ins gtt. titrated to bs. 4u/hr at present
+
+ID- afebrile this shift. cont on flagyl,gent, and vanco. WBC 15.8
+
+Heme- crit down to 27.1 from 29.4, hgb 9.4, plat 124. coags pending.
+
+Skin- left shoulder dsg D&I. post crani site Dsg intact + serosang drainage. post head sutures wnl slight drainage OTA.  + facial swelling. lacralube placed in eyes. 
+
+Social- mother & step father, Father & his wife all arrived from CA. all staying at [**Hospital1 **] Inn. Dr. [**Last Name (STitle) 1017**] spoke with family about POC.
+
+Plan- cont to monitor neuro status for next few days. prognosis poor. daily head CT. support family.
+
+",,
+13890,24749,17283,0,3199-08-18 16:37:00 EST,3199-08-18 16:55:00 EST,4450,"N",54,"Nursing/Other","nursing prog note","
+nursing prog note
+
+neuro: neuro exam w/ little improvement.  no eye opening, posturing noted w/ stimulation. +babinski, corneals improved, although pupils nonreactive. w/ sx, no gag, cough noted, although w/ sternal rub stim, pt w/ very weak spont. ""cough"".  sedation remains off, fentanyl drip cont.  no s/s pain.  mannitol dose weaned, cont. decadron dosing. logroll prec. maintained, aspen collar intact.
+
+resp: ac mode cont., no vent changes made. sx sm amts thick tan secretions. o2 sats stable, abg's stable. goal paco2 (30-35) met. ls clear bilat and to bases.
+
+cv: bp stable, hypertensive w/ stim., nsr, no ectope. limbs cool to touch, pulses only found w/ doppler. mild dependent edema to ble. lytes stable, hct trending downward, currently 24.  icu team aware.  
+
+gi/gu: belly soft, nt/nd. bs hypo. no flatus, no bm. tf started this aft, titrating to goal. prior to tf, bilious output noted. good uo w/ mannitol dosing, qs when slowing. 
+
+endo: bg stable w/ insulin drip. 
+
+id: low grade temps, triple abx cont. wbc elevated although stable. 
+
+skin: craniotomy incisions to head w/ sm amts sang. drainage.  original post op dsg remains to occipital incision. no other issues.
+
+social: parents and spouses in to visit, all friends very supportive and concerned. parents updated on status, prognosis given to family last eve. by Dr. [**First Name (STitle) 5401**].
+
+plan: cont serial neuro checks, follow hct, serum osmo. triple abx cont., repeat head CT this evening. support family.
+",,
+13890,24749,17283,0,3199-08-18 17:33:00 EST,3199-08-18 17:36:00 EST,6693,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. BS clear, but decreased in bases bilaterally. ABG's reveal a respiratory alkalosis with elevated oxygenation. Plan to remain on current settings at this time.
+",,
+13890,24749,17283,,3199-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-19**] 11:25 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4471**]
+     Reason: R/O Diffuse axonal injury.                                  
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man s/p hit by train.                                               
+     REASON FOR THIS EXAMINATION:
+      R/O Diffuse axonal injury.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post hit by train.  Rule out diffuse axonal injury.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted brain imaging and susceptibility
+     and diffusion-weighted imaging of the brain.
+     
+     FINDINGS:  There are abnormalities in the T2-weighted and diffusion-weighted
+     images consistent with diffuse axonal injury of the corpus callosum involving
+     the body and splenium of the corpus callosum and extending into the
+     periventricular white matter posteriorly to the left posterior [**Doctor Last Name 67**] of the
+     lateral ventricle.  As previously noted on the CT scans, there is evidence on
+     these MR images for diffuse subarachnoid hemorrhage.  There is bilateral small
+     subdural hemorrhage over the frontoparietal regions on the right more than on
+     the left. There is a left frontal brain contusion.  The patient appears to be
+     status post evacuation of a right cerebellar hemorrhage.  There are additional
+     foci of diffusion abnormality near the midline as well as at the posterior
+     aspect of both parietal lobes as well as in the right cerebellar hemisphere
+     which likely re[resent Diffusa axonal injury. There is a right-sided
+     ventricular drain in position, without evidence of hydrocephalus.
+     
+     IMPRESSION:  Evidence of diffuse axonal injury involving multiple areas
+     including the carpus callosum, cerebellum, and hemispheres.  Left frontal
+     brain contusion and evacuated cerebellar hematoma.  No midline shift or
+     hydrocephalus.  Diffuse subarachnoid blood and small bilateral subdural
+     hematomas.  Size of the subdural hematoma does not appear to be significantly
+     larger than on the CT scan from [**8-18**].
+
+",,
+13890,24749,17283,,3199-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-19**] 9:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4470**]
+     Reason: ? PNA                                                       
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       31 year old man s/p scooter accident.                                          
+         
+     REASON FOR THIS EXAMINATION:
+      ? PNA                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  31-year-old male status post scooter accident.  Evaluate for
+     pneumonia.
+     
+     COMMENTS:  A single AP supine view of the chest was reviewed and compared with
+     AP chest radiograph from [**3199-8-17**].
+     
+     An endotracheal tube is seen located in a standard position.  A nasogastric
+     tube terminates in the body of the stomach.  The tip of a right-sided
+     subclavian catheter projects over the cavoatrial junction.  No pneumothorax is
+     identified.  The heart size is normal.  There is moderate widening of the
+     mediastinum, which likely correlates to mediastinal fat as seen on recent
+     chest CT. The lungs are clear.  No pleural effusions or pneumothoraces are
+     identified. The pulmonary vasculature is within normal limits.  No focal areas
+     of consolidation are present.
+     
+     IMPRESSION:  No evidence of pneumonia or other acute cardiopulmonary process.
+
+",,
+13890,24749,17283,,3199-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3199-8-19**] 11:25 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 4472**]
+     Reason: eval bleed and stability of c spine                         
+     Admitting Diagnosis: STRUCK BY TRAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with s/p hit by train, sm bleed in c cord                       
+     REASON FOR THIS EXAMINATION:
+      eval bleed and stability of c spine                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Trauma, small bleed in cervical cord.  Evaluate ___
+     instability of cervical spine.
+     
+     FINDINGS:  The cervical cord is normal in dimension and signal.  Some abnormal
+     signal in the posterior paraspinal muscle areas are identified consistent with
+     the findings identified on the patient's CT scan and the previous evacuation
+     of the right cerebellar hematoma.  There is a small amount of abnormal signal
+     in the subarachnoid space at the level of the foramen magnum posterior to the
+     cervical cord not causing cord compression consistent with a high density area
+     seen on the patient's CT scan of 9/7 probably representing some blood products
+     associated with either the cerebellar hemorrhage or subsequent surgery.  There
+     is no evidence of abnormal signal within the vertebral bodies.  Alignment is
+     maintained.
+     
+     IMPRESSION:  No evidence of abnormal cord signal.  No evidence of cord
+     compression.  Some blood seen in the subarachnoid space at the level of the
+     foramen magnum.  See above discussion.
+                                                                           
+
+",,
+13890,24749,17283,0,3199-08-19 02:33:00 EST,3199-08-19 02:37:00 EST,6509,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent and intubated with #8 @24, patent and secure. Bs clear to course. Suctioned mod amt of thick yellow secretions. No changes made. Pc02 maintained <35 for icp precautions. Will contniue to monitor. 
+",,
+13890,24749,17283,0,3199-08-19 04:43:00 EST,3199-08-19 05:05:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+
+N: PT CONT TO BE UNRESPONSIVE. PT EXTENSOR POSTURING WITH EXTREMITIES TO STERNAL RUB. PUPILS NOTED TO BE BRISKLY REACTIVE AND EQUAL 2MM. FENTANYL DEC TO 50MCG/HR. OCC BECOMES TACHY/HYPERTENSIVE WHEN HE COUGHS SPONTANEOUSLY->SELF LIMITING. MAINTAINED LOGROLL WITH C-SPINE PRECAUTIONS. 
+CV: SBP 130-150/70'S. NSR 60'S-80'S. OCC BURSTS TO 110'S AND HYPERTENSIVE TRANSIENTLY TO 170'S/. GIVEN LOPRESSOR 5MG IV X1 WITH EFFECT. K/MG/CA REPLETED. COOL EXTREMITIES WITH WEAKLY PALP PP. 
+R: LUNGS COURSE/DIM AT BASES. SXN'D Q2 HRS FOR MOD AMTS THICK TAN SECRETIONS. ABG WNL. CONT ON SAME VENT SETTINGS WITH NO CHANGES OVERNIGHT.
+GI: ABD SOFT/DISTENDED. +BS. PROMOTE WITH FIBER INCREASING TO GOAL. TOL WELL WITH MIN RESIDUAL.
+GU: BRISK U/O.
+HEME: HCT 23 (24)
+ID: LOW GRADE TEMPS TMAX 99.5 - WBC ^18 (15)
+ENDO: INSULIN GTT D/C'D. GLUCOSE 106-123. TIGHTENED PARAMETERS ON SS.
+AP: CONT TO MONITOR NEURO ASSESSMENT CLOSELY, SUPPORT FAMILY.
+",,
+13890,24749,17283,0,3199-08-19 16:44:00 EST,3199-08-19 17:06:00 EST,4450,"N",54,"Nursing/Other","nursing prog note","
+nursing prog note
+
+neuro: pt remains unresponsive. self limiting cough and posturing motion noted with any tactile stimulus. weak cough w/ sx, corneals impaired. pupils reactive. no eye opening. mannitol and decadron dosing weaned. c collar intact, logroll prec. maintained.
+
+resp: ac mode ventilation, no changes made to settings. abg's stable, paco2 remains 30-35. ls clear, dimin to bases. sx sm to mod amts thick tan secretions. o2 sats stable. gag and cough impaired although present w/ suctioning.
+
+cv: becomes hyperdynamic w/ stimulus, settles without intervention usually. lopressor given x1 for sbp >150s consistently, good effect. nsr, no ectope. extremeties warm, ppp bilat. lytes repleted prn, na++ and osmo rising.  hct continues to drop, first of 2 units prbc infusing at present.  will monitor.
+
+gi: belly soft, nt/nd. bs hypoactive. tf residuals minimal. tol titration to goal well. no flatus, no bm. 
+
+gu: foley patent clear yellow, qs. good effect w/ mannitol.
+
+id: low grade temps persist, wbc rising from this am. triple abx continue. 
+
+endo: bg's slightly elevated this pm, regular insulin coverage per scale.
+
+social: many friends and family in to visit, supportive.  pt's parents meeting w/ social work daily, family meeting slated for Friday at 1pm. all disciplines aware, pt's parents, step sister to be present.
+
+plan: continue serial neuro exams, complete transfusion of red cells, follow hct. full icu support.  await official read of today's MRI of head and c spine, family meeting tomorrow afternoon.
+",,
+13890,24749,17283,0,3199-08-19 16:53:00 EST,3199-08-19 16:57:00 EST,6309,"N",54,"Nursing/Other",,"
+
+Social Work
+This SW was introduced to pt's mother, [**Doctor First Name 4336**], this afternoon as [**First Name4 (NamePattern1) 4695**] [**Last Name (NamePattern1) 474**] has been following but won't be here for family meeting tomorrow.  SW spoke with pt's mother at length to provide support and give her some advice about how to prepare for tomorrow's meeting.  [**Doctor First Name 4336**] informed SW that her husband was going to the accident scene today to look for clues into what happened.  SW will provide support tomorrow for family meeting and be available by page.
+",,
+13890,24749,17283,0,3199-08-19 17:30:00 EST,3199-08-19 17:32:00 EST,6693,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. No vent changes today. BS are clear bilaterally with adequate aeration. Pt taken to MRI for head. Plan to remain on current settings at this time.
+",,
+13890,24749,17283,0,3199-08-20 04:54:00 EST,3199-08-20 05:09:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+N: PT CONT TO DECEREBRATE WITH ANY TACTILE STIMULUS WITH RT ARM AND BLE'S. TO STERNAL RUB, DURING ONE EXAM, PT LIFTED RT ARM OFF BED AND ONTO ABDOMEN. ?LOCALIZATION. PUPILS REACTIVE 2MM BRISK/RT AND SLUGGISH ON LT. CONT MANNITOL. SERUM OSMO WNL. MAINTAINED ICP <13 WITH TRANSIENT CLIMBS TO MID 30'S WITH COUGH. RETURNED TO BASELINE WITHOUT INTERVENTION. 
+CV: BRADYING TO LOW 50'S-->NSR 70-90. NO ECTOPY. OCC HYPERTENSIVE WITH TURNS/COUGHING TO 160-180/80'S. WHEN SEDATE, BP 130'S/70'S.
+R: LUNGS OCC COURSE. SUCTIONED FOR LG AMT THICK TAN SECRETIONS. NO VENT CHANGES MADE OVERNIGHT. ABG STABLE.
+GI: ABD SOFT/DISTENDED. FEEDS ADVANCED TO GOAL 75CC/HR. AT MN, PT NOTED TO HAVE RESIDUAL 400CC. TF OFF X4HRS AND RESTARTED AT 20CC/HR. ?ADD REGLAN.
+GU: BRISK CLEAR YELLOW U/O.
+HEME: HCT 27 AFTER 2UPC FROM 21. 
+ID: AFEBRILE. CONT ON SAME ABX REGIME. WBC 15.
+SOC: PLANNED FAMILY MTG TODAY AT 1PM. PT'S PARTNER [**Name (NI) **] IN VISITING OVERNIGHT. SPOKE WITH PT'S MOTHER THIS AM AND SHE CONT TO BE VERY HOPEFUL FOR A MIRACLE.
+A/P: FAMILY MTG TODAY TO DISCUSS PROGNOSIS.
+
+",,
+13890,24749,17283,0,3199-08-20 14:12:00 EST,3199-08-20 14:19:00 EST,6309,"N",54,"Nursing/Other",,"
+
+Social Work
+SW attended family meeting to discuss pt's condition and possible decisions around care.  All relevant family/friends were present.  They were informed that pt is showing no signs of meaningful recovery from a brain injury and is unlikely to improve.  Family processed this news after the meeting and informed SW that they are in agreement re: making pt CMO.  However, before informing the doctors, they will be talking with other family members this afternoon.  Family will likely be speaking with doctors this evening to inform them of decision for CMO.  Family have also agreed to attempt organ donation as pt has expressed in the past that he would like to donate his organs.  RN called NEOB who will be coming back to talk to the family this afternoon re: details.  SW to continue following.
+",,
+13890,24749,17283,0,3199-08-20 17:01:00 EST,3199-08-20 17:02:00 EST,3196,"N",54,"Nursing/Other",,"
+
+Respiratory Care:
+Pt. is status quo all day with no vent changes. ?? prognosis.
+",,
+13890,24749,17283,0,3199-08-20 17:03:00 EST,3199-08-20 17:19:00 EST,6295,"N",54,"Nursing/Other","NPN: 07-1930","
+NPN: [**6-/3124**]
+NEURO: patient remains unresponsive, decorticate posturing to any stimuli, pupils sluggishly reactive, [**2-12**], fentanyl drip increased to 75 mcg/hr. 
+
+CV: bradycardic at time, sinus, 50s-70s, hypertensive 150s-170s/80-90s, +pp, pboots on, sub-q heparin as ordered. 
+
+RESP: vent settings remain unchanged, slightly alkalotic. LS clear, diminished, O2 sat 100%
+
+GI: TF held for high residuals, not restarted r/t ? organ donation
+
+GU: brisk clear yellow urine out; lytes repleted PRN
+
+ENDO: BS WNl, given [**12-13**] amp D50 this am for BS 59
+
+ID: afebrile, no s/s of infection
+
+social: see social work note for details. family has made decision to withdraw care and donate organs. NEOB & social work involved.
+
+plan: withdraw care & donate organs per protocal, family & social work updated & support given.
+
+",,
+13890,24749,17283,0,3199-08-21 05:03:00 EST,3199-08-21 05:15:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+
+PT EXTUBATED AND MADE CMO AT 2:10AM. FAMILY AT BEDSIDE. MSO4 GTT INITIATED AND TITRATED TO PT'S COMFORT. REMAINS HD STABLE AT THIS TIME. SEE CAREVUE FOR VS DOCUMENTATION. EMOTIONAL SUPPORT AND ENCOURAGEMENT PROVIDED TO FAMILY. 
+",,
+13890,24749,17283,0,3199-08-21 17:08:00 EST,3199-08-21 17:10:00 EST,6295,"N",54,"Nursing/Other","NPN:","
+NPN:
+[**6-/3124**]
+
+patient remains on morphine drip with vital signs as charted in carevue. family and friends at bedside throughout day. ? transfer to private room if appropriate. support given to family as needed. continue with current comfort measures.
+",,

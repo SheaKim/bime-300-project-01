@@ -1,0 +1,695 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13868,14574,,,2505-04-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2505-4-3**]     Discharge Date:  [**2505-4-10**]
+
+Date of Birth:   [**2435-3-22**]     Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 70-year-old female
+with a history of coronary artery disease suffered an acute
+myocardial infarction in [**2504-4-9**], and she was taken to
+catheterization laboratory and found three vessel disease
+with successfully stented left anterior descending artery,
+found to have left ventricular diastolic dysfunction with a
+preserved ejection fraction of 57% with anterior apical
+dyskinesis and anterolateral hypokinesis.
+
+In [**2504-11-9**], the patient returned to [**Hospital3 **] for
+chest pain.  Catheterization revealed totally occluded left
+anterior descending artery with brachytherapy.
+Echocardiogram in [**2504-11-9**] showed an ejection
+fraction of 50%, mild symmetric left ventricular hypertrophy
+with hypokinetic anterior wall and kinetic anteroseptal wall,
+hypokinetic anterior apex, akinetic septal apex, and lateral
+apex and akinetic apex, 1+ mitral regurgitation.
+
+The patient was admitted to an outside hospital for a GI
+bleed, where aspirin and Plavix were discontinued upon the
+outside hospital.  The patient is found to have ""several
+ulcers"".  EGD performed with cauterization of lesions.  The
+patient is discharged home 48 hours.
+
+On the morning of admission, she awoke, had a bowel movement,
+and shortly after that, she developed severe substernal chest
+pain [**6-18**] radiating to the back, positive diaphoresis, no
+nausea or vomiting.  The patient took nitroglycerin x3 with
+no relief and called EMS.  Electrocardiogram was 3-[**Street Address 5669**]
+elevations in leads V2 through V4.  Morphine, Heparin drip,
+and nitroglycerin drip were started.
+
+REVIEW OF SYSTEMS:  The patient with one pillow orthopnea.
+No change in weight.  She has dyspnea on exertion with
+walking one block, no stairs.
+
+FAMILY HISTORY:  Mother has diabetes.  Father has coronary
+artery disease.  Died at age 56 of a myocardial infarction.
+
+SOCIAL HISTORY:  A half pack per day smoker.  No alcohol,
+seven children, divorced, former telephone operator.
+
+PAST MEDICAL HISTORY:
+1. Coronary artery disease in [**2505-11-9**], received
+brachytherapy through a restented left anterior descending
+artery, instent restenosis in [**2504-4-9**], stented left
+anterior descending artery.
+2. Lower back pain.
+3. Congestive obstructive pulmonary disease/asthma, O2
+dependent at night.
+4. Gastrointestinal bleed status post
+esophagogastroduodenoscopy with cauterization.
+5. Hyperlipidemia.
+6. Peripheral vascular disease status post aorto-bifemoral
+bypass.
+7. Congestive heart failure.
+8. Hypothyroidism.
+9. Hypertension.
+
+ALLERGIES:  She has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1. Aspirin 325 mg po q day.
+2. Prednisone 10 mg po q day.
+3. Atenolol 25 mg po q day.
+4. Lisinopril 5 mg po q day.
+5. Albuterol prn.
+6. Flovent two puffs q hs.
+7. Serevent two puffs bid.
+8. Diltiazem.
+9. Lipitor 10 mg q day.
+10. Compazine.
+11. Plavix 75 mg q day.
+12. Lasix 25 mg q day.
+13. Vicodin.
+14. Buthalital.
+15. Isosorbide 30 mg q day.
+16. Trazodone 100 mg q hs.
+17. Prevacid 40 mg bid.
+
+LABORATORY VALUES ON ADMISSION:  White blood cell count 16.5,
+hematocrit 29.7, platelets 250.  Sodium 140, potassium 3.8,
+chloride 107, CO2 23, BUN 11, creatinine 0.6, glucose 97,
+calcium 8, phosphate 4, magnesium 1.6.
+
+On coronary artery catheterization, she had a 60% right
+coronary artery proximal lesion, 60% right coronary artery
+distal lesion, right posterolateral 100% stenosis, left
+anterior descending artery 100% occlusion proximal to
+previous stent, LCX without significant lesion.
+
+A postcatheterization electrocardiogram showed atrial
+flutter/fibrillation, left axis deviation, [**Street Address 463**] elevations
+in V2 through V4, T-wave inversions in V2 through VI, poor
+R-wave progression.
+
+VITALS ON ADMISSION:  Temperature 99.0, heart rate is 82,
+blood pressure 98/48, respiratory rate 16, and oxygen 94% on
+4 liters nasal cannula.  In general, this is a frail
+appearing woman in no apparent distress, alert and oriented
+times three.  HEENT:  No lymphadenopathy, no jugular venous
+distention.  Pupils are equal, round, and reactive to light.
+Cardiovascular:  Faint heart sounds.  Pulmonary:  Bivalve
+sounds secondary to emphysematous changes.  Abdomen is soft,
+nontender, nondistended no hepatosplenomegaly.  Extremities:
+No edema, no pulses, dopplerable, no cyanosis or clubbing.
+
+HOSPITAL COURSE BY SYSTEMS:
+1. Coronary artery disease/ischemia:  The patient was found
+to have a large acute myocardial infarction.  She received
+successful cardiac catheterization with stenting of the left
+anterior descending artery.  In the post myocardial
+infarction period, she did have a period of tachycardia to
+160s, which was found to be VT.  For this she was bolused
+with lidocaine and put on a lidocaine drip.  EP was consulted
+to assess the need for further EP studies and also
+defibrillator placement.
+
+The patient was talked to extensively and declined EP study,
+and pacemaker, and AICD placement at this time.  To lower the
+risk of recurrent VT, she was placed on amiodarone 400 mg po
+q day, and additionally, she was sent home with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of
+Hearts monitor for which strips will be examined over the
+next two weeks by EP.  She has an outpatient with this EP in
+approximately four weeks from discharge for followup and
+further discussion of risk of morbidity and mortality from
+cardiac arrhythmias.
+
+Nevertheless, after the first 24 hours, she did not have any
+recurrence of ventricular arrhythmias.  She was kept on the
+lidocaine for the first 48 hours.  The lidocaine drip was
+weaned off for 72+ hours prior to discharge, she was off
+lidocaine and had no further arrhythmic events.
+
+Pump:  The patient had repeat echocardiogram in-house, which
+showed an ejection fraction of 25-35% reduced from the 50%
+before.  This should be followed up.  It is unclear how much
+of this is from d[**MD Number 9761**] versus myocardial stunning.  It is
+possible the patient will recover from significant amount of
+ejection fraction in the future.
+
+Other systems:  GI:  She has a history of gastrointestinal
+bleed.  We followed her hematocrit.  There was no drop in
+hematocrit.  No recurrent gastrointestinal bleed.  She was
+kept on proton-pump inhibitor, and stool softeners.
+
+Heme:  The patient did receive 1 unit of packed red blood
+cells for a decreased hematocrit, which was most likely
+secondary to the prior gastrointestinal bleed.  She had no
+need for blood and her hematocrit was stable.
+
+Renal:  The patient's renal function was stable.  No acute
+issues.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg po q day.
+2. Plavix 75 mg po q day.
+3. Prednisone 10 mg po q day.
+4. Atenolol 25 mg po q day.
+5. Lisinopril 5 mg po q day.
+6. Fluticasone two puffs bid.
+7. Salmeterol 1-2 puffs bid.
+8. Lipitor 10 mg po q day.
+9. Lasix 20 mg po q day.
+10. Lansoprazole 30 mg po q day.
+11. Levothyroxine 75 mcg po q day.
+12. Spironolactone 12.5 mg po q day.
+13. Amiodarone 400 mg po q day.
+14. Levofloxacin 250 mg po q day for three days.
+15. Prochlorperazine 25 mg prn.
+16. Vicodin prn.
+17. Bubatol prn.
+18. Ativan prn.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease.
+2. Acute anterior myocardial infarction.
+3. Congestive heart failure.
+4. Ventricular arrhythmia.
+5. Congestive obstructive pulmonary disease.
+6. Hypertension.
+7. Hyperlipidemia.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2355**], M.D.  [**MD Number 2356**]
+
+Dictated By:[**Last Name (NamePattern1) 2287**]
+
+MEDQUIST36
+
+D:  [**2505-4-9**]  15:24
+T:  [**2505-4-15**]  08:53
+JOB#:  [**Job Number 9762**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2505-5-12**] 5:32 PM
+(End of Report)
+
+
+",,
+13868,14574,,,2505-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-3**] 12:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4251**]
+     Reason: chf                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with cad and copd admitted following MI                       
+     REASON FOR THIS EXAMINATION:
+      chf                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Myocardial infarction, CHF.
+     
+     COMPARISON:  [**2503-5-11**].
+     
+     PORTABLE AP CHEST:  Heart size is stable. The aorta is unfolded.  There is
+     perihilar haziness, which is new, consistent with mild failure.  No
+     consolidation or effusion.
+
+",,
+13868,14574,17253,0,2505-04-03 17:06:00 EST,2505-04-03 17:14:00 EST,667,"N",1,"Nursing/Other","CCU NSG ADMISSION NOTE:","
+CCU NSG ADMISSION NOTE:
+70 Y.O. woman admitted this am from cath lab s/p re stenting of occluded LAD [**Last Name (LF) **], [**First Name3 (LF) **]. Stable post procedure, R fem venous sheath and swan intact.
+
+NKDA
+
+ROS:
+
+CARDIAC: resumed previous meds, CHF per CXR, 40mg iv lasix w/ great response (approx 2L). PA 32/16, HR 71 nsr (was in AF on admission to cath lab, nsr in unit), noted to have 4-5 beat run VT 1800, EKG obtained and Dr [**Last Name (STitle) 387**] notified. No chest pain. R groin site free from hematoma w/ dopplerable pulses PT/DP bil. Receiving electrolyte replacements. ECHO done. CXR done. EKG done. LABS done.
+
+RESP: COPD, home o2 at night 2L. On 3L nc here w/ sats 98%. No sob now, was a little sob earlier,but subsided after diruesis and inhalers. EXP fine wheezing throughout lung fields.
+
+GI: Recent GI bleed (d/charged yest). No stool here. Vomited x1 w/ scant clear liquid. On prilosec. Taking po now w/out nausea. (responded well to compazine)
+
+RENAL: bun cr wnl. excellent u.o.
+
+SKIN: intact.
+
+NEURO: intact.
+
+LINES: peripheral x2 , groin venous sheath, art sheath pulled approx 1300. 
+
+SOCIAL: dtr here to visit and updated.
+
+FLUID: to finish post cath fluid 1900.
+
+ASSESS: stable post restent to LAD. 
+
+PLAN: recheck lytes tonight, po as tol, clot to BB., pneumoboots and sleeves ordered.
+",,
+13868,14574,17253,0,2505-04-04 04:50:00 EST,2505-04-04 04:53:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: AMI","
+CCU Nursing Progress Note 1900-0700: AMI
+BPs labile overnight. CCU team aware. Question of overdiuresis or HCT drop. Repeat HCT stable last night with AM pending. If BPs improve possible transfer out to floor. 
+
+PLEASE CAREVUE FOR VS AND TRANSFER NOTE FOR DETAILED REPORT.
+",,
+13868,14574,,,2505-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-5**] 9:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4252**]
+     Reason: assess L subclavian placement                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old woman with cad and copd admitted s/p MI.  Post MI course 
+      compicated by sustained VT.  Now s/p L subclavian.                   
+     REASON FOR THIS EXAMINATION:
+      assess L subclavian placement                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  CAD and ventricular tachycardia with subclavian line placement.
+     
+     Left subclavian CV line overlies proximal SVC abutting the lateral wall.  No
+     pneumothorax.  There has been partial resolution of the interstitial edema
+     noted on the prior study of [**2505-4-3**].  Linear atelectasis is present in the
+     right lower zone and there is a probable bulla in the left upper lobe.
+     Sclerotic changes are present in left humeral head.
+     
+     
+
+",,
+13868,14574,,,2505-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-5**] 11:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4253**]
+     Reason: check line placement                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old woman with cad and copd admitted s/p MI.  Post MI course  
+      compicated by sustained VT.  Now s/p L subclavian.                   
+     REASON FOR THIS EXAMINATION:
+      check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  CV LINE PLACEMENT.
+     
+     Left subclavian cv line has its tip located in region of junction of left
+     brachiocephalic vein and SVC.  No pneumothorax.  The chest is markedly rotated
+     to the right.  Allowing for this, there has been no change since the previous
+     film of the same day.
+     
+     
+
+",,
+13868,14574,17254,0,2505-04-05 09:49:00 EST,2505-04-05 09:57:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROCEDURE NOTE","
+CCU NURSING PROCEDURE NOTE
+PT IS A 70 YO WOMAN W/STENT TO LAD [**4-10**], CATH ON [**4-3**] AFTER BEING ADMITTED W/CP, ST ELEVATION, 100% OCCLUSSION PROX TO STENT, THROMBOSIS, ANGIOJET AND OVERLAPPING STENT PLACED; TRANSFER FROM CCU TO [**Hospital Ward Name **] 2 [**4-4**], THIS AM DEVELOPED CHEST TIGHTNESS, HR 160 SVT, BP DOWN TO 70/40 - TRANSFERRED TO CCU FOR EMERGENT CARDIOVERSION.
+
+~10:35 AM PT RECEIVED ETOMIDATE 6MG IV TOTAL BY ANESTHESIA, TONIC CLONIC MOVEMENTS ENTIRE BODY NOTED, SHOCKED X1 200 JOULES INTO SINUS RHYTHM 90'S, BP RANGING 80-90'S/30-40'S, NS INFUSING AT 150/HR; PT AWAKE ALERT AND ORIENTED AT 10:45 AM, NO FURTHER TONIC CLONIC MOVEMENTS NOTED; CHEST PAIN ENTIRELY RELIEVED UPON AWAKENING; RR 28-32 SATS 100% ON 100% NRB. 
+",,
+13868,14574,17254,0,2505-04-05 09:58:00 EST,2505-04-05 10:06:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROCEDURE NOTE CONTINUED","
+CCU NURSING PROCEDURE NOTE CONTINUED
+EKG CONFIRMED NSR W/ST ELEVATIONS WORSENED IN LEADS V2-V5.
+",,
+13868,14574,17254,0,2505-04-05 10:26:00 EST,2505-04-05 10:27:00 EST,492,"N",1,"Nursing/Other","CCU NURSING","
+CCU NURSING
+PT TRANSFERRED BACK TO [**Hospital Ward Name **] 2 AT 11:30AM, CHEST PAIN FREE W/SBP 90/ HR 88SR, DENIES ANY CHEST PAIN OR SOB.
+",,
+13868,14574,17254,0,2505-04-06 03:28:00 EST,2505-04-06 03:39:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: REMAINS IN NSR WITH HR 60-70'S. CON'T ON LIDOCAINE @ 1MG/MIN. NO VEA OR VT RUNS NOTED. ADEQAUTE MAP'S > 60. DENIES CP,DIAPHORESIS.
+
+RESP: EXP WHEEZES THUROUT LUNG FIELDS. CON'T ON PREDNISONE AND INHALERS. DENIES SOB. SATS 98% ON 2L NP. HAS NON PRODUCTIVE COUGH. NOTED TO BE IN SLIGHT FAILURE BY CXR,ALTHOUGH SYMPTOM FREE. LASIX GIVEN [**Name8 (MD) **] MD ORDER.
+
+GI: TOL LIQS. NO STOOL THIS SHIFT. ABD SOFT AND NONTENDER.
+
+GU: BUN 19 CREAT 1.0 ADEQAUTE U/O. RECEIVED LASIX 20MG IV WITH GOOD DIURESIS.
+
+SKIN: INTACT DUODERM TO BUTTOCKS.
+
+NEURO: ANXIOUS PRIOR TO LINE PLACEMENT. ATIVAN 1MG GIVEN WITH GOOD EFFECT. A&O. MAE FOLLOWS COMMANDS.
+
+IV: PIV IN LOWER R ARM PATENT. HAS PAIN WHEN MEDS PUSHED. PT CONSENTED TO TRIPLE LUMEN PLACEMENT. CXR COMPLETED. LINE REPOSITIONED BY MD [**First Name (Titles) **] [**Last Name (Titles) 275**] WITH GOOD PLACEMENT.
+
+ID: AFEBRILE.
+
+LABS; CK 160
+      HCT 32.3
+      CA 8.0 MD AWARE OF LABS RESULTS.
+
+COMFORT: C/O BACK RELATED TO OSTEOPOROSIS. VICODAN X2 WITH GOOD EFFECT. REPOSITIONED AS NEEDED
+
+SOCIAL: PT SPOKE WITH DAUGHTER ON [**Name2 (NI) 2503**].
+
+A: STABLE ON LIDOCAINE
+
+P: FUTURE EP STUDIES
+   CON'T PER NSG JUDGEMENT
+",,
+13868,14574,17254,0,2505-04-06 13:27:00 EST,2505-04-06 13:45:00 EST,1016,"N",1,"Nursing/Other",,"
+
+NPN;0700-1500
+NEURO;AOOX3 MAE TO COMMAND, VERY PLEASANT AND COOPERATIVE WITH CAREC/O OF HEADACHES STATES HAS MIGRAINES AND NORMALLY TAKES FIORICET AT HOME GIVEN 2 WITH HEADACHE CLEARING.
+
+RESP; O2 SATS98-99% RR18-26.ON 4LN/C LUNG SOUNDS WITH INS/EXP WHEEZE WORSE ON RT THAN LT. DRY UNPRODUCTIVE COUGH. NEED INSTUCTION ON HOW TO USE INHALERS BETTER. CONTINUES ON PREDNISONE STATES LUNGS ARE AT BASELINE.
+
+CVS TMAX 98.6 PO. SB 58-62 BP 993-108/47 MAPS >60 TEAM AWARE. ALDACTONE ADDED BUT BP NOT HIGH ENOUGH TO GIVE. REMAINS ON LIDO .5MGS/MIN UNTIL 0600 [**4-7**].
+
+GU; U/O 50-100 MLS /HR ON BID LASIX  VIA FOLEY.
+
+GI; TOLERATING DIET WITH ENCOURAGEMENT.NO FLATUS NO STOOL. DENIES N/V OR TENDERNESS.
+
+SKIN DUODERM INTACT ON COCCYX. HEELS RED GREAT TOE ON  RT FOOT RED ? INGROWN TOENAIL.  MULTIPLE  ECCHYMOYIC AREAS OVER ARMS ROM IV STICKS 
+
+ACCESS S/B IV TEAM TO EVALUATE FOR PICC  WOULD NEED INTERVENTIONAL RADIOLOGY TFOR PLACEMENT BUT ABLE TO PLACE A PERIPH IN RT WRIST. MLL REMOVED FROMLT SC TIP SSSSENT FOR CULTURE AS VERY TENDER TO THE TOUCH AND COMPLAINING OF PAIN FROM LINE.
+
+DAUGHTER INTO VISIT AND UPDATED WITH PRESENT PLAN OF CARE.
+PLAN CONTINUE TO MONITOR CPK 'S AND RHYTMN POSS EP STUDIES AND AIDC PLACEMENT EVALUATION.
+ 
+
+
+",,
+13868,14574,17254,,2505-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-7**] 9:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4254**]
+     Reason: fever- ? infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old woman with cad and copd admitted s/p MI.  Post MI course   
+      compicated by sustained VT.  Now s/p L subclavian.                   
+     REASON FOR THIS EXAMINATION:
+      fever- ? infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     PORTABLE CHEST is compared to two days earlier.
+     
+     INDICATION:  Fever.
+     
+     Since the previous study, a left subclavian vascular catheter has been
+     removed.  The heart is upper limits of normal in size for technique.  The
+     aorta is tortuous.  The lungs reveal evidence of emphysema, as well as areas
+     of scarring.  No confluent areas of consolidation are observed in either lung.
+     A small pleural opacity is seen laterally in the right lower hemithorax, may
+     be due to pleural fluid or pleural thickening.
+     
+     IMPRESSION:
+     
+     1) Diffuse emphysema and areas of scarring/fibrosis.  No evidence of acute
+     pulmonary infection.
+     
+     2)  Possible right pleural effusion vs pleural thickening. Dedicated Pa and
+     lateral chest x-ray may be helpful to better assess this finding.
+     
+     
+
+",,
+13868,14574,17254,,2505-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-7**] 5:32 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4255**]
+     Reason: please place double lumin picc for medication administration
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman few days post MI. cad, hypothyroid, hyperchol, htn.           
+     REASON FOR THIS EXAMINATION:
+      please place double lumin picc for medication administration and blood draws. 
+      piv's difficult.  picc team unable.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 70 year old woman a few days post MI, coronary artery disease,
+     hypothyroid, hypercholesterolemia and hypertension, needs longterm IV access.
+     
+     RADIOLOGIST: Dr. [**Last Name (STitle) 250**].
+     
+     TECHNIQUE: Using sterile technique, local anesthesia and ultrasound guidance
+     the right basilic vein was punctured and a 5 french sheath introduced a
+     guidewire using seldinger technique. Dual lumen PICC line was then placed
+     through the sheath over the wire with its tip positioned in SVC under
+     fluoroscopic guidance. Position of the catheter was confirmed by chest xray in
+     one view. Peelaway sheath and the guidewire were then removed. The catheter
+     was secured to the skin.
+     
+     The patient tolerated the procedure well. There were no immediate
+     complications.
+     
+     IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided PICC line
+     placement via the right basilic vein with the tip positioned in SVC. Total
+     length of the catheter is 32 cm.
+
+",,
+13868,14574,17254,,2505-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-7**] 5:32 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4255**]
+     Reason: please place double lumin picc for medication administration
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman few days post MI. cad, hypothyroid, hyperchol, htn.           
+     REASON FOR THIS EXAMINATION:
+      please place double lumin picc for medication administration and blood draws. 
+      piv's difficult.  picc team unable.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 70 year old woman a few days post MI, coronary artery disease,
+     hypothyroid, hypercholesterolemia and hypertension, needs longterm IV access.
+     
+     RADIOLOGIST: Dr. [**Last Name (STitle) 250**].
+     
+     TECHNIQUE: Using sterile technique, local anesthesia and ultrasound guidance
+     the right basilic vein was punctured and a 5 french sheath introduced a
+     guidewire using seldinger technique. Dual lumen PICC line was then placed
+     through the sheath over the wire with its tip positioned in SVC under
+     fluoroscopic guidance. Position of the catheter was confirmed by chest xray in
+     one view. Peelaway sheath and the guidewire were then removed. The catheter
+     was secured to the skin.
+     
+     The patient tolerated the procedure well. There were no immediate
+     complications.
+     
+     IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided PICC line
+     placement via the right basilic vein with the tip positioned in SVC. Total
+     length of the catheter is 32 cm.
+
+",,
+13868,14574,17254,,2505-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-7**] 5:32 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4255**]
+     Reason: please place double lumin picc for medication administration
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman few days post MI. cad, hypothyroid, hyperchol, htn.           
+     REASON FOR THIS EXAMINATION:
+      please place double lumin picc for medication administration and blood draws. 
+      piv's difficult.  picc team unable.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 70 year old woman a few days post MI, coronary artery disease,
+     hypothyroid, hypercholesterolemia and hypertension, needs longterm IV access.
+     
+     RADIOLOGIST: Dr. [**Last Name (STitle) 250**].
+     
+     TECHNIQUE: Using sterile technique, local anesthesia and ultrasound guidance
+     the right basilic vein was punctured and a 5 french sheath introduced a
+     guidewire using seldinger technique. Dual lumen PICC line was then placed
+     through the sheath over the wire with its tip positioned in SVC under
+     fluoroscopic guidance. Position of the catheter was confirmed by chest xray in
+     one view. Peelaway sheath and the guidewire were then removed. The catheter
+     was secured to the skin.
+     
+     The patient tolerated the procedure well. There were no immediate
+     complications.
+     
+     IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided PICC line
+     placement via the right basilic vein with the tip positioned in SVC. Total
+     length of the catheter is 32 cm.
+
+",,
+13868,14574,17254,,2505-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-7**] 5:32 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4255**]
+     Reason: please place double lumin picc for medication administration
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman few days post MI. cad, hypothyroid, hyperchol, htn.           
+     REASON FOR THIS EXAMINATION:
+      please place double lumin picc for medication administration and blood draws. 
+      piv's difficult.  picc team unable.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 70 year old woman a few days post MI, coronary artery disease,
+     hypothyroid, hypercholesterolemia and hypertension, needs longterm IV access.
+     
+     RADIOLOGIST: Dr. [**Last Name (STitle) 250**].
+     
+     TECHNIQUE: Using sterile technique, local anesthesia and ultrasound guidance
+     the right basilic vein was punctured and a 5 french sheath introduced a
+     guidewire using seldinger technique. Dual lumen PICC line was then placed
+     through the sheath over the wire with its tip positioned in SVC under
+     fluoroscopic guidance. Position of the catheter was confirmed by chest xray in
+     one view. Peelaway sheath and the guidewire were then removed. The catheter
+     was secured to the skin.
+     
+     The patient tolerated the procedure well. There were no immediate
+     complications.
+     
+     IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided PICC line
+     placement via the right basilic vein with the tip positioned in SVC. Total
+     length of the catheter is 32 cm.
+
+",,
+13868,14574,17254,0,2505-04-07 02:54:00 EST,2505-04-07 03:16:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 2300-0700:","
+CCU Nursing Progress Note 2300-0700:
+S-""Can I have something for my headache?""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND VS
+
+MS: A/O/X/3. Very anxious and worried at beginning of shift in regards to possible EPS today and getting up OOB. RN emotionally supporting pt. Trazadone order repeated with good effect. In addition pt c/o chronic back pain which recieved 1mg of Dilaudid SC with good effect. Also c/o headache which recieved two Fiorcet with good effect. Otherwise very pleasant and cooperative. Obeys and follows commands. Long hospital course between OSH and this admission. Needing TLC and emotional support. 
+
+CV: HR 50s to 60s. NSR with rare PVCs. Lido continues at 0.5mg/min with plans to DC this AM. Color pale and warm to touch. Denies CP and SOB. 
+
+RESP: LS with I/E wheezes throught. Pt denying feeling ""tight"". States, exam ""always wheezy."" Recieves MDIs ATC. O2Sats 99% on 4LNP.
+
+GU/GI: Foley draining yellow urine with fibrous sediment. Urine cloudy in appearance. Draining adequate amounts.  Abd soft with (+) BSs. Taking POs without difficulty. 
+
+ID: Afebrile. No issues
+
+ACC: Pt with very poor access. Will attempt PIV with AM draw. Pt only with one 22G. Evaluated for PICC with possible placement today. 
+
+HEME: AM HCT pending. 
+
+A/P: 70 year old female who was intially admitted to OSH at beginning of April for GIB. Later sent home for one day and while going to bathroom developed some CP. In ER EKG anterior-lateral changes and bought to [**Hospital1 10**] for cath. Found to have in stent restonis of LAD which was re-stented and sent to CCU for monitoring. Pt later transfered to floor doing well until going into wide-complex VT requiring CV and further monitoring in CCU.
+
+Possible EPS
+Possible IR for PICC
+Question whether Lido gtt to DC this AM
+Question whether pt to tolerate procedure due to chronic back pain
+
+
+",,
+13868,14574,17254,0,2505-04-07 16:52:00 EST,2505-04-07 17:03:00 EST,104,"N",1,"Nursing/Other","CCU progress note 7a-7p","
+CCU progress note 7a-7p
+NEURO: pleasant and cooperative. PT in to assess + walk pt around room. steady slow gait w/ walker. MAE. gen weakness. rec'ing vidodin po and dilaudid s/c for chronic back pain q3-4h. 
+
+ID: afebrile. WBC elevated. urine slightly cloudy. UA + CS Cx sent - showing +UTI. started on levofloxacin 250mg Q24h po. 
+
+RESP: LS clear, occ exp wheeze. on MDI ATC. weaned O2 to 2L n/c. sats 96-99%
+
+CARDIAC: SR/SB 50-60s. occ pvc noted. SBP 80-90/30-40s. no c/o cp or discomfort. lido gtt remains off since 6am. ?plans for eps?
+
+GI/GU: foley patent. rec'd po lasix and aldactone as ordered this morning. plan to d/c foley after PICC line inserted this evening d/t UTI. pt incontinent urine at home - wears depends. abd soft. +BS. no bm today. fair po intact today. 
+
+access: #22g PIV Llwr arm. goign to IR for PICC placement @ 1800hrs. 
+
+
+PLAN: PICC to be inserted this evening. this evening foley needs to be d/c'd. con't to monitor VS. con't abx. ?call out tomorrow.
+",,
+13868,14574,17254,0,2505-04-08 02:53:00 EST,2505-04-08 03:22:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: AMI","
+CCU Nursing Progress Note 1900-0700: AMI
+S-""Can I have medicine for my back?""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND VS
+
+MS: A/O/X/3. Very pleasant. Continues to complain of back lower back, treated with Dilaudid with good effect. In addition to migrane HA, times one o/n with Fiorocet with good effect.
+
+CV:HR 50s to 60s. NS/SB rare PVCs. SBP 80s to 100s. MAPs 50s. Atenolol dose held to low BPs and HR.
+
+RESP: LS clear with some exp wheezess. O2Sat 98-99% on 2Ls. Denies SOB.
+
+GU/GI: Foley DC'D. Pt wearing a depends and prefers to because states ""constantly leaks"" and comfortable wearing one. Incontinent of urine times two this shift in moderate amounts. Abd soft with (+) BSs. Tolerating [**Doctor First Name 196**] diet and PO intake good.
+
+ID: Afebrile. No issues. 
+
+HEME: AM HCT pending. 
+
+ACC: PICC in right brachial. Some resistance flushing blue port but with good blood return on both.
+
+A/P: Possible EPS in near future
+Possible transfer to floor. 
+
+
+",,
+13868,14574,17254,0,2505-04-08 14:46:00 EST,2505-04-08 14:57:00 EST,104,"N",1,"Nursing/Other","CCU progress note7a-7p","
+CCU progress note7a-7p
+NEURO: A+Ox3. MAE. OOB to BSC and Chair. Up walking with walker w/ physical therapy. to chair for meals for short periods of time. ""tired today"". taking vidocin po and dilaudid IV for chronic back pain. 
+
+""I'm not doing that EP study... I don't care... "" Discussed test with patient.. pt very concerned with discomfort w/ chronic back pain while on the table. ""they don't medicate me enough for the test"". pt told that if she doest have the test to con't to ask for pain/sedation meds if she feels uncomfortable, and they will medicate her. 
+
+ID: afebrile. remains on levo po for Tx for UTI. 
+
+RESP: LS clear, dim. occ exp wheeze. on mdi. no c/o. some SOBOE.
+
+CARDIAC: SB/SR 50-60s. no ectopy noted. SBP 80-100. no c/o CP. 
+
+GI/GU: incontinent urine, wearing attends. OOB to bcs at times to void. no bm today. decreased appetite ""the food is so bland here, I'm just not hungry"". diuresing well w/ daily lasix and aldactone. 
+
+
+PLAN: con't abx. con't PT. con't pain meds for back pain. NPO after midnite for EPS in am. 
+",,
+13868,14574,17254,0,2505-04-09 02:47:00 EST,2505-04-09 02:54:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: AMI, VT","
+CCU Nursing Progress Note 1900-0700: AMI, VT
+S-""I don't know about tommorow.""
+
+SEE CAREVUE FOR ALL VS AND OBJECTIVE DATA
+
+MS: Very anxious this evening after talking to EPS fellow in regards to AICD. Given Haldol 0.5mg with excellent effect. Continues to c/o back pain Vicodin given with fair effect. Dilaudid given with better effect. A/O/X/3. 
+
+CV: HR 50s to 60s. NSR/SB with no ectopy. 80s to 100s. BPs transiently in the 70s post Atenolol dose but rebounding on own. Skin pale and warm to touch. EPS planned for today. 
+
+RESP: LS clear and dim at bases. O2Sats 98-100% on 2Ls. Breathing unlabored. No issues.
+
+GU/GI: Incontinent of urine times 2 of extremely large amounts. Urine appears yellow and clear in color. Abd soft with good BSs. Tolerating cardiac diet and POs well.
+
+ID: Afebrile. No issues.
+
+A/P: AMI, VT
+
+AICD placement today
+Questionable call out post
+",,

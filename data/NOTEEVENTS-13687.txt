@@ -1,0 +1,226 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13687,4195,,,2545-03-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2545-3-23**]     Discharge Date:  [**2545-3-26**]
+
+Date of Birth:                  Sex:  M
+
+Service:
+
+The patient was transferred to the Medical Service from the
+Intensive Care Unit on [**2545-3-26**].  He is a 45-year-old man
+with a past medical history of asthma, schizophrenia,
+posttraumatic stress disorder, and depression who was
+initially transferred from [**Location (un) 1194**] [**Hospital **] Clinic to the
+[**Hospital1 10**] Emergency Room with a
+respiratory rate in the 30s, and O2 sat of 88% on room air.
+
+In the Emergency Room, the patient began to be more
+tachypneic with decreased O2 sats.  He was felt to be in
+status asthmaticus and given Epinephrine 2 amps and
+magnesium.  The patient was also started on antibiotics with
+Levaquin, and had an initial blood gas of a pH of 7.37, pO2
+42, and pCO2 of 47.  He was admitted to the Intensive Care
+Unit for further treatment.
+
+Over the next 24 hours, the patient continued on albuterol
+and Atrovent nebulizers, Pulmicort nebulizers, and
+intravenous Solu-Medrol.  He improved considerably, and was
+converted to po prednisone on [**3-25**].  His course was
+complicated by tardive dyskinesia responsive to cogentin.
+The patient felt this asthma flare was set off by a viral
+upper respiratory infection.  He was unaware of his peak
+flows or asthma history.  He is currently homeless and
+receiving care at the JPVA.
+
+PAST MEDICAL HISTORY:
+1. Asthma.
+2. Arthritis.
+3. Sinusitis.
+4. Schizophrenia.
+5. Depression/posttraumatic stress disorder.
+6. Gout.
+7. Bipolar disorder.
+
+ALLERGIES:  Penicillin, sulfa, and shellfish.
+
+MEDICATIONS ON ADMISSION:
+1. Haldol 2 mg po bid.
+2. Tegretol 400 bid.
+3. Cogentin 1 mg bid.
+4. Seroquel 2.5 mg q hs.
+5. Atrovent and albuterol nebulizers prn.
+6. Nicotine patch.
+7. Klonopin 0.5 mg q hs.
+8. Protonix 40 mg q hs.
+9. Levaquin 500 mg q day.
+10. Prednisone taper.
+11. Albuterol, Serevent, Atrovent, and Pulmicort metered-dose
+inhalers.
+
+SOCIAL HISTORY:  He smokes two packs a day for greater than
+10 years.  Lives in a homeless shelter.  Positive alcohol.
+
+PHYSICAL EXAM ON TRANSFER:  Temperature 98.2, heart rate 82,
+respiratory rate 18, blood pressure 132/63, and O2 sat of 95%
+on 5 liters.  General appearance:  Comfortable, mildly
+tachypneic without accessory muscle use.  HEENT:  Pupils are
+equal, round, and reactive to light.  Injected sclerae.
+Oropharynx unremarkable.  Neck is supple, no jugular venous
+distention.  Heart regular, rate, and rhythm, no murmurs,
+rubs, or gallops.  Lungs:  Diffuse expiratory wheezes, decent
+air movement.  Abdomen is soft and nontender, positive bowel
+sounds, no hepatosplenomegaly.  Extremities:  No cyanosis,
+clubbing, or edema.
+
+LABORATORIES:  White count 9.5, hematocrit 39, platelets
+225,000.  Sodium 140, potassium 4.9, chloride 104, bicarb 26,
+BUN 7, creatinine 0.2, glucose 142.
+
+Chest x-ray on [**3-23**]:  No pneumonia.
+
+HOSPITAL COURSE:  After MICU transfer, the patient remained
+on the Medical Service with good air flow.  He was on a
+prednisone taper and inhalers.  The patient insisted on
+leaving on the day of transfer.  He had a room air sat of 89%
+going to 85% with ambulation, but was in no acute distress
+and not tachypneic.
+
+DISCHARGE MEDICATIONS:
+1. Albuterol metered-dose inhaler two puffs q4h prn.
+2. Atrovent metered-dose inhaler two puffs qid.
+3. Flovent two puffs bid.
+4. Prednisone taper.
+
+He was to get his prescriptions filled at the [**Hospital **] Clinic, and
+a cab voucher was given for him to return to his shelter.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 625**] [**Last Name (NamePattern1) 626**], M.D.  [**MD Number 627**]
+
+Dictated By:[**Last Name (NamePattern1) 9521**]
+
+MEDQUIST36
+
+D:  [**2546-2-7**]  12:59
+T:  [**2546-2-10**]  09:35
+JOB#:  [**Job Number 9522**]
+Signed electronically by: DR. [**First Name (STitle) 625**] [**Doctor Last Name **]
+ on: MON [**2546-2-14**] 11:51 AM
+(End of Report)
+
+
+",,
+13687,4195,17042,0,2545-03-23 19:26:00 EST,2545-03-23 19:31:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO;  ANXIOUS, ALERT & O X3, SPEECH CLEAR, REFUSES STEROIDS, STATED HE WAS GOING TO SIGN OUT AMA, PRESENTLY COOPERATIVE BUT VERY ANXIOUS, AND CALLS OUT 
+
+RESPIR;  TIGHT WHEEZES THROUGHOUT, EXPECTORATING THICK YELLOW-GREY SPUTUM, ON HELIOX AND 02 MIX, ? INTUBATING TONOC, 02 SAT 97%, RESP RATE 30'S-40'S, 
+
+CARDIOVASCULAR;  TACHYCARDIC WITH HEART RATE 130'S, H.O. IN TO EVALUATE, EKG DONE, 
+
+GI ABD DISTENDED, PT DENIES PAIN
+MEDIC WITH HALDOL 2 MGM IV AT 1830 FOR ANXIETY
+",,
+13687,4195,17042,0,2545-03-23 22:36:00 EST,2545-03-23 22:44:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+RESP:
+PT IN ACUTE DISTRESS, RR>40, O2 SATS 91-92% ON O2 AND HELIOX, CONTINUOUS NEBULIZERS, PT PRODUCING THICK YELLOW SPUTUM, PT AGREED TO TAKE STEROIDS, PT STARTED ON SOLUMEDROL 60MG IV Q6H, PT RESTARTED ON PO MEDS, LUNGS NOW CLEARING FROM END EXP WHEEZES WITH GOOD AIR MOVEMENT, O2 SATS 100% RR<30, PT LESS ANXIOUS.
+
+PSYCH:
+PT WITH KNOWN BIPOLAR AND SCHIZOPHRENIA, PT DENIES HALUCINATIONS AND SUICIDAL IDEATION. PT CONTINUED ON PO MEDS, HALDOL GIVEN IV AS OPTION AGREED TO BY PT. CONTINUE TO MONITOR AS PT'S REPORTED RESPONSE TO STEROIDS HAS BEEN ACTIVE PSYCHOSIS.  
+",,
+13687,4195,17042,0,2545-03-24 03:10:00 EST,2545-03-24 03:14:00 EST,3492,"N",54,"Nursing/Other",,"
+
+RESP CARE NOTE - PT. OFF HELIOX AT THIS TIME, PLACED ON 4LPM NC, SPO2 97 - 100%, NEB TXS GIVEN, BS BILAT RHONCHI, THICK YELLOW SECRITIONES.
+",,
+13687,4195,17042,0,2545-03-24 05:47:00 EST,2545-03-24 05:50:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+RESP/HEMODYNAMICS/PSYCH
+PT SLEEPING IN SHORT NAPS, PT REMAINS ON O2@4L/MIN VIA NC, RR20-30'S, O2 SAT 95-100, PT NOW IN NSR, PT NOW WITH CLEAR LUNG FIELDS, PT CONTINUES TO PRODUCE THICK WHITE SPUTUM, AM LABS WNL, PT DENIES HALUCINATIONS/SUICIDAL IDEATION, PT SLEEPING AND REMAINS AROUSABLE TO VERBAL STIMULI, CONTINUE TO MONITOR, CONTINUE MEDS AS ORDERED.
+",,
+13687,4195,17042,0,2545-03-24 18:20:00 EST,2545-03-24 18:31:00 EST,-1,"N",54,"Nursing/Other",,"
+
+TRANSFER NOTE FROM N-SICU CC-5
+PMHX: ASTHMA, COPD, ETOH(DENIES USAGE FOR LONG TIME)BIPOLAR DISORDER, SCHIZOPHRENIA,PTSD,  CURRENT SMOKER, PT IS HOMELESS.
+ALLERGIES: PCN/STEROIDS(CAUSES PSYCHOSIS) LIVER,BEETS.
+[**3-23**] PT SEEN AT [**Hospital **] HOSPITAL  SENT TO [**Hospital1 10**] WITH ASTHMA EXACERBATION. CAME TO SICU  1800 WITH RESP DISTRESS, RR HIGH 30'S, TACHYCARDIA, ? INTUBATION, PT REFUSING STEROIDS. 
+[**3-24**] NOC SHIFT: PT AGREED TO STEROIDS, NEBS GIVEN Q2HRS. KLONOPIN FOR SLEEEP. WITH EFFECT PT RR 20'S, HR LOW 100'S, IMPROVED AIR EXCHANGE.
+[**3-24**] DAY SHIFT: NEURO: PT ALERT AND ORIENTED X3. [**Last Name (LF) **], [**First Name3 (LF) 34**], DOZING ON AND OFF ALL DAY. DENIES PAIN.
+CV: SBP 125-141, HR 100-110, TMAX 98.6. PALPABLE PERIFERAL PULSES. EXTREMITIES WARM. CONT. NS AT 125CCHR.
+RESP: LUNGS EXP.WHEEZES THROUGH OUT. FREQUENT EPISODES OF PRODUCTIVE COUGH TAN THICK SPUTUM. PT REQUIRING NEB TX 4X TODAY. PT REMAINS WITH WHEEZES. 02 SAT 95-99% 4L VIA N/C. PT NOTED TO HAVE IRREGULAR RESP. USING ACCESSORY MUSCLES. RESP RATE 20-30'S.
+GI: APPETITE EXCELLENT. SMALL BM TODAY. - GUAIAC.
+GU: PT USING URINAL, VOIDING IN LARGE AMOUNT CLEAR YELLOW URINE. 
+SKIN: INTACT BUT EXTREMELY DRY. 
+",,
+13687,4195,17042,0,2545-03-24 18:48:00 EST,2545-03-24 18:51:00 EST,3844,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE
+     PATIENT TREATED Q2-Q4 WITH 2.5MG ALBUTEROL VIA HHN WITH MASK.
+TOLERATED WELL, HR. 90S AND STABLE
+LUNGS SOUNDS ARE COARSE E. WHEEZES [**Last Name (un) **], SL. IMPROVEMENT AFTER NEB.
+STRONG PROD. COUGH OF THIN YELLOW
+WILL CONT. TO FOLLOW.
+",,
+13687,4195,17042,0,2545-03-24 21:11:00 EST,2545-03-24 21:15:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+RESPIRATORY:
+PT WITH RR>20, O2 SATS 94-98 WITH O2 ON AT 4L/MIN VIA NC, PT WITH END EXPIRATORY WHEEZES THROUGHOUT, TIGHT NON-PRODUCTIVE COUGH, ACCESSORY MUSCLES IN USE, PT REPORTS CONTINUED LABORED BREATHING, RESPIRATORY THERAPY WILL USE NEBS Q2H FOR NOW, MICU RESIDENT NOTIFIED AS PT IS SCHEDULED FOR FLOOR TRANSFER, PT STATUS WILL BE REEVALUATED IF BED BECOMES AVAILABLE.  CONTINUE TO MONITOR.
+",,
+13687,4195,17042,0,2545-03-25 04:20:00 EST,2545-03-25 04:29:00 EST,-1,"N",54,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+PSYCHOSOCIAL:
+PT A+Ox3, COOPERATIVE WITH CARE, PT DENIES HALUCINATIONS AND SUICIDAL IDEATION, PT CONTINUED ON MEDICATION REGIME AS DOCUMENTED IN CHART.  CONTINUE TO PROVIDE INFORMATION AND A SUPPORTIVE ENVIRONMENT.
+
+RESP:
+PT CONTINUES TO HAVE END EXPIRATORY WHEEZES THROUGHOUT, WITH OCASSIONAL AUDIBLE WHEEZE.  PT WITH TIGHT NON-PRODUCTIVE COUGH AT TIMES.  NEBS Q2H OVERNIGHT.  AGRESSIVE CHEST PHYSIOTHERAPY Q4HR.  PT PRODUCING COPIOUS SPUTUM WITH RESP TREATMENTS CHANGING FROM THICK GREEN TO THIN & CLEAR.  RR 20-35, 02 SATS 94-100 WITH O2 ON AT 4L/MIN. PT REPORTS SOB WITH EXACERBATIONS AND REPORTS RELIEF WITH TREATMENTS. CONTINUE NEBS Q2H, CONTINUE CPT, CONTINUOUS O2 SAT AND RESPIRATIONS MONITORING.
+",,
+13687,4195,17042,0,2545-03-25 14:13:00 EST,2545-03-25 14:25:00 EST,-1,"N",54,"Nursing/Other",,"
+
+TRANSFER NOTE:
+PMHX: ASTHMA, COPD, SMOKER 2PKS/DAY,BIPOLAR DISORDER SCHIZOPHRENIA, PTSD.
+[**3-23**] PT TO VA FOR RESP DISTRESS. TRANSFERED TO [**Hospital1 10**]. PT HAVING SEVERE RESP. DISTRESS. TACHYCARDIA, TACHYPNIC, DESATURATION.  PT REFUSING STEROID THERAPY DUE TO INCREASES PSYCHOSIS. 
+[**3-24**] NOC. PT AGREED TO SOLU-MEDROL IV. WITH GOOD EFFECT. CONT WITH Q 2HR NEB TX. 
+[**3-25**] PT STARTED ON MDI WITH SPACER, DONE WELL. HAVING DECREASED NEED FOR NEB  TX. CHANGED TO Q 4HR NEB PRN.
+NEURO: PT IS ALERT AND ORIENTED X3. [**Last Name (LF) 391**], [**First Name3 (LF) 34**], 
+CV: TMAX98.8, SBP 120-140'S, HR 80-100'S. EXTREMITIES WARM, PALPABLE PERIFERAL PULSES. IVF D/C'D THIS AM.
+RESP: PT HAVING REQUIRED Q 2HR NEBS DURING NIGHT. PT REMAINS WITH INS/EXP WHEEZES THROUGH OUT. PRODUCTIVE COUGH OF TAN THICK SPUTUM. PEAK FLOW 140. RESP 20-30. PT STARTED ON MDI WITH SPACER DONE WELL. PT HAVING DECREASED NEED FOR NEB TX.    PT CONT 5L VIA N/C HUMIDIFIED SATS 93-97% WILL DESAT WITH COUGHING EPISODES.
+GI/GU: NO PROBLEMS. 
+PLAN: CONTINUE TO MONITOR RESP STATUS. STEROID AND ANTIBIOTIC TREATMENT. MONITOR PT. COMPLIANCE.  
+  
+",,
+13687,,17042,0,2545-03-26 02:32:00 EST,2545-03-26 02:43:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7P-7A: Full assessment in flow sheet.
+
+Pt waiting for Floor bed. Slept most of night.
+
+neuro: A+O X3, MAE, PERL. clear speech. no psychosis or withdrawal symtoms. Steady movement and transfer.
+
+cv: NSR without ectopy.VSS, afebrile. warm, dry, color appropriate to race. 
+
+resp: Lung sound clear in upper lobes. I/E wheezes in lower lobes bilaterally. 5L-NC - 95-98%. When coughing or have O2 off pt Sat - 84-88%. no sob. regular to irregular breathing. productive cough - whitish to tannish secretions. MDI use correctly by pt. Need encouragement to use MDI. 
+
+gu/gi; soft, slight distended abd, +BS X4, and no pain on palplation. Medium - brown, form, - - - neg guiace bowel movement. [**Last Name **] problem swallowing - (Ate 10 [**Location (un) **] crackers, and multiple cups of juice and ginger ale).  Void into urinal without difficulty - yellow, clear urine. 
+
+int: skin intact.
+
+Encourage Deep breathing and coughing and use of Incentive Spirometer. 
+Explain all procedures. 
+
+plan: Encourage respiratory excercise. D/C to floor in AM ?
+
+",,
+13687,,17042,0,2545-03-26 05:39:00 EST,2545-03-26 05:42:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Addendum:
+
+Pt will be transfer to [**Hospital Ward Name **] 6.
+
+Pt slept most of night. no sob. Full ROM. Clear lung sound in upper lobes. wheezes in lower lobes bilaterally. RR 18-22, SaO2- 96-100% at
+5L NC. Regular breathing. MDI use correctly. 
+
+Explain transfer to pt and pt agree. No questions from pt. 
+",,

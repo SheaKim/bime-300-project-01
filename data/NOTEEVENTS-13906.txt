@@ -1,0 +1,2423 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13906,22658,,,3086-09-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3086-9-2**]              Discharge Date:   [**3086-9-4**]
+ 
+Date of Birth:  [**3005-8-26**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Allopurinol / Dyazide
+ 
+Attending:[**First Name3 (LF) 3039**] 
+Chief Complaint:
+GIB
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HPI: This is an 81 yo f with a history of diverticulosis and 2 
+recent episodes of GIB who had another GIB on [**3086-9-1**] prompting 
+her admission to [**Hospital 370**] Hospital. In the AM of 10/11, patient 
+had mild incontinence followed by a bloody bowel movement, 
+accompanied by clots. She described a dark hue to the contents 
+of her BM. Then, on the AM of 10/12, she had another bloody BM. 
+She denied any lightheadedness, changes in vision, abdominal 
+pain or chest pain with these episodes. (Though, a note from the 
+[**Hospital1 370**] ED notes that the patient had a syncopal type episode 
+while in the ED) She had a tagged RBC scan which was unable to 
+identify the source of bleeding. Hence, she is being transferred 
+here with the objective of IR guided embolization. On admission 
+to [**Hospital 370**] hospital, her Hct dropped from 30->22. She was 
+transfused with 2U PRBC and given 2 PIVs. Her Hct rose from 22 
+to 25.4 and thus she was transfused another 2 units PRBCs.  
+ 
+Past Medical History:
+- LGIB w/ dec HCT [**7-/3084**]  
+- Diverticulosis - diagnosed after 1st GIB  
+- HTN - on Lisinopril, Procardia, metoprolol  
+- CVA - in the 1960s  
+- Ulcer operation ? in the 1960s. Apparently surgery was done on 
+a part of her stomach.  
+- S/P TAH-BSO  
+- gastritis - s/p trt for duodenitis, PUD and H Pylori 2004, tx 
+w/ Prevpack  
+- Subarachnoid hemorrhage - per OSH report  
+
+ 
+Social History:
+Lives alone. 32 pack yr history smoking. Social EtOH use. 
+Closest relatives are a son and a sister. 
+ 
+Family History:
+NC 
+ 
+Physical Exam:
+T: BP: 155-195/53-67 P:72-80 RR:18-20 O2 sats: 100% on 2L  
+Gen: alert, thin elderly woman  
+HEENT: dry MM  
+CV: 3/6 SEM RUSB and L apex, RRR  
+Resp: rales R lung base, no wheezes, no rhonchi  
+Abd: Soft NT ND, NABS  
+GU: per ED admit note last night guaic +  
+Ext: mild RUE non-pitting swelling, rt ankle mildly swollen  
+Neuro: AOx3.  
+
+ 
+Pertinent Results:
+Laboratory Data:
+.
+[**3086-9-2**] 08:06PM   WBC-9.8 RBC-3.83* HGB-12.1 HCT-33.2* MCV-87 
+MCH-31.6 MCHC-36.5* RDW-15.1
+[**3086-9-2**] 08:06PM   NEUTS-77.2* LYMPHS-15.0* MONOS-3.9 EOS-3.6 
+BASOS-0.4
+[**3086-9-2**] 08:06PM   PLT COUNT-309
+[**3086-9-2**] 08:06PM   PT-12.0 PTT-25.4 INR(PT)-1.0
+[**3086-9-2**] 08:06PM   GLUCOSE-120* UREA N-27* CREAT-1.5* 
+SODIUM-146* POTASSIUM-3.2* CHLORIDE-107 TOTAL CO2-28 ANION 
+GAP-14
+[**3086-9-2**] 08:06PM   ALT(SGPT)-11 AST(SGOT)-21 LD(LDH)-228 ALK 
+PHOS-66 TOT BILI-0.6
+[**3086-9-2**] 08:06PM   ALBUMIN-3.4 CALCIUM-8.6 PHOSPHATE-4.4 
+MAGNESIUM-1.8
+.
+Urinalysis:
+.
+[**3086-9-2**] 11:27PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+[**3086-9-2**] 11:27PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 302**]-1.010
+[**3086-9-2**] 11:27PM URINE  HOURS-RANDOM UREA N-151 CREAT-18 
+SODIUM-152
+.
+Imaging:
+[**9-2**]: CXR: No evidence of focal consolidation.
+.
+[**3086-9-3**]: RUE ultrasound: No evidence of right upper extremity 
+DVT. Cephalic vein not visualized.
+.
+[**3086-9-4**]: Renal ultrasound: 1. No evidence of hydronephrosis or 
+kidney stones.
+2. Increased echogenicity of the right kidney may represent 
+medical-renal disease.
+3. Bilateral pleural effusions.
+.
+[**3086-9-4**]: Echo
+Measurements:
+Left Atrium - Long Axis Dimension: *4.9 cm (nl <= 4.0 cm) 
+Left Atrium - Four Chamber Length: *5.3 cm (nl <= 5.2 cm) 
+Right Atrium - Four Chamber Length: 5.0 cm (nl <= 5.0 cm) 
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1 
+cm) 
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1 
+cm) 
+Left Ventricle - Diastolic Dimension: 4.8 cm (nl <= 5.6 cm) 
+Left Ventricle - Systolic Dimension: 4.0 cm 
+Left Ventricle - Fractional Shortening: *0.17 (nl >= 0.29) 
+Aorta - Valve Level: 3.3 cm (nl <= 3.6 cm) 
+Aorta - Ascending: 3.1 cm (nl <= 3.4 cm) 
+Aortic Valve - Peak Velocity: *2.2 m/sec (nl <= 2.0 m/sec) 
+Mitral Valve - E Wave: 1.1 m/sec 
+Mitral Valve - A Wave: 1.7 m/sec 
+Mitral Valve - E/A Ratio: 0.65 
+Mitral Valve - E Wave Deceleration Time: 205 msec 
+TR Gradient (+ RA = PASP): *44 to 54 mm Hg (nl <= 25 mm Hg) 
+.
+Official read pending. Prelim report of normal EF and 
+obstructive hypertrophic cardiomyopathy
+.
+OSH records: 
+OSH Colonoscopy: [**3086-8-25**]: Done to cecum.  
+- Severe L sided diverticulosis. No active bleeding.  
+.  
+EGD: [**3086-8-25**]:  
+- benign appearing gastric mucosa and duodenal mucosa (to the 
+3rd portion of the duodenum  
+.  
+[**3086-9-1**]: Tagged RBC scan: 2 areas of increased activity in the 
+deep pelvis - There was no evidence of GI Bleed.  
+
+ 
+
+ 
+Brief Hospital Course:
+# GIB: 81 yo f with PMH diverticulosis and history of GIB was 
+transferred from OSH with recent GIB. Per report, source was 
+identified on tagged RBC at OSH and she was transferred here for 
+IR embolization. We obtained records from [**Hospital 370**] Hospital 
+which showed that the tagged RBC scan didn't reveal any source 
+of bleeding. Pt had a previous colonoscopy which showed severe 
+left sided diverticulosis. Pt's source of recent GIB was most 
+likely secondary to diverticulosis. During this hospitalization, 
+pt didn't have any bowel movements. Serial hematocrits remained 
+stable. Pt was evaluated by IR and surgery who didn't feel that 
+any immediately intervention was indicated. Pt was evaluated by 
+GI who recommended a repeat colonoscopy. If pt were to re-bleed, 
+she will need a repeat tagged RBC scan and possible 
+embolization. Please continue to check serial BID hematocrits. 
+Pt has not had a BM in 4 days - please titrate bowel 
+medications, for a BM.
+
+.  
+# CRI:  Lisinopril was held in setting of elevated creatinine. 
+Further data revealed that baseline creat is around 1.8, and pt 
+was restarted on Lisinopril. Urine lytes showed low FeNa and 
+FeUrea, suggestive of pre-renal state; however, urine Na was not 
+low. Clinically pt appears to be volume overloaded.
+.
+# CHF: Pt noted to be in mild CHF, likely in setting of volume 
+rescusitation. Pt has bilateral pleural effusions. Pt was 
+diuresed with IV Lasix. Pt needs to continue with diuresis. Echo 
+was performed - final read is pending. Prelim tech read is 
+normal EF with evidence of obstructive hypertrophic 
+cardiomyopathy.
+.
+# HTN: - Initially BP meds were held in setting of GIB. Then, pt 
+was restarted on lopressor and lower dose of nifedipine. 
+Lisinopril was initially held in setting of elevated creatinine, 
+and pt was put on IV hydralazine. Further data revealed that 
+creatinine is at baseline, so Lisinopril was restarted. Pt was 
+also restarted on home dose of nifedipine.
+
+.  
+# RUE swelling: Pt was noted to have RUE swelling, which is most 
+likely secondary to IV infilatration. RUE U/S was negative for 
+DVT. 
+.  
+# Hypercholesterolemia: Pt was continued on lipitor.  
+.  
+# Code: DNR/DNI - confirmed with patient.  
+.  
+# Contacts: Sister - [**First Name8 (NamePattern2) 9811**] [**Last Name (NamePattern1) 9812**]: [**Telephone/Fax (1) 9813**]
+ 
+Medications on Admission:
+Lisinopril 40 QD  
+Metoprolol 100mg TID  
+Procardia XL 90mg QD  
+Lasix 10mg QD  
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID 
+(3 times a day).  
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+6. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO TID (3 
+times a day).  
+7. Nifedipine 10 mg Capsule Sig: Three (3) Capsule PO Q8H (every 
+8 hours).  
+8. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+9. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1)  
+Subcutaneous ASDIR (AS DIRECTED).  
+10. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+GIB (likely [**12-24**] diverticulosis)
+RUE swelling
+.
+Secondary diagnoses
+HTN
+CRF
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Stable, no further GIB, stable Hct
+
+ 
+Discharge Instructions:
+Please continue doing the following:
+1. Daily hematocrits
+2. Diurese with IV Lasix
+3. Titrate BP meds
+3. Please titrate bowel medication to BM (last BM on [**9-1**])
+
+ 
+Followup Instructions:
+Follow up with your primary care doctor within 2 weeks of 
+discharge from the hospital.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 3045**] MD [**MD Number 3046**]
+ 
+Completed by: [**Last Name (NamePattern1) 2381**] MD [**MD Number 2382**] [**3086-9-4**] @ 1752
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: MON [**3086-9-27**] 3:17 PM
+(End of Report)
+
+
+",,
+13906,22658,,,3086-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-9-2**] 7:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4518**]
+     Reason: Assess for pulmonary pathology                              
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with lower GIB and RL base crackles                           
+     REASON FOR THIS EXAMINATION:
+      Assess for pulmonary pathology                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old woman with lower GI bleed, right basilar crackles.
+     
+     COMPARISON:  None.
+     
+     SINGLE VIEW OF THE CHEST:  Cardiac silhouette appears unremarkable. 
+     Calcifications noted within the aorta.  Clips are seen overlying the region of
+     the GE junction consistent with fundoplication.  Pulmonary vascularity appears
+     within normal limits.  No focal consolidations are seen within the lungs. 
+     Elevation of the left hemidiaphragm is noted.
+     
+     IMPRESSION:  No evidence of focal consolidation.
+                                                                           
+
+",,
+13906,22658,17300,,3086-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-9-3**] 7:58 AM
+     UNILAT UP EXT VEINS US                                          Clip # [**Clip Number (Radiology) 4519**]
+     Reason: Assess for DVT                                              
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 yo female with RUE swellin                                                   
+     REASON FOR THIS EXAMINATION:
+      Assess for DVT                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper extremity swelling, evaluate for DVT.
+     
+     FINDINGS:  [**Doctor Last Name **]-scale and Doppler sonograms of the right internal jugular,
+     subclavian, brachial, basilic veins were obtained.  These demonstrate normal
+     compressibility, waveforms, augmentation, and flow.  No intraluminal thrombus
+     is identified.  The right cephalic vein is not visualized.
+     
+     IMPRESSION:  No evidence of right upper extremity DVT.  Cephalic vein not
+     visualized.
+                                                                           
+
+",,
+13906,22658,17300,,3086-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13906,22658,17300,0,3086-09-03 03:25:00 EST,3086-09-03 04:30:00 EST,7996,"N",54,"Nursing/Other","NSG 7PM-7AM","
+NSG 7PM-7AM
+PLEASE REFER TO CAREVIEW FOR OTHER OBJ DATA.
+
+81 YR FEMALE WITH HX OF DIVERTICULOSIS, RECENT GI BLEED ON [**9-1**], WHICH PROMPTED HER TO OSH ED, WHERE SHE WAS NOTED TO HAVE A BLOODY BM WITH CLOTS ( A NOTE FROM OSH ED REPORTS A SYNCOPAL TYPE EPISODE IN THE ED), PT WAS FOUND TO HAVE HCT 22(30)/ TRANSFUSED A TOT OF 4UNITS OF PRBCS/ ON [**9-1**] TAGGED RBC WAS UNABLE TO IDENTIFY SOURCE OF BLEED, S/P COLONOSCOPY WHICH SHOWED SEVERE L SIDED DIVERTICULOSIS, NO ACTIVE BLEED, ALSO EGD SHOWS BENIGN GASTRIC MUCOSA ON [**8-25**]. IN THIS SETTING PT WAS TRANSFERED TO [**Hospital1 10**] MICU WITH OBJECTIVE OF IR GUIDED EMBOLIZITION AND FURTHER GIB MANAGEMENT.
+
+PT RECEIVED A/OX3, SPONTENEOUS, OBEYS COMMANDS, MOVES ALL EXT IN BED WITH MINIMAL ASSIST. DENIES PAIN.
+
+HEART RYTHM SINUS, HR IN 70S/ PT RECEIVED WITH BP IN 195/64 / TREATED WITH METOPROLOL PO 50MG, FOLLOWED BY 5MG IV X 2DOSES/ WITH NO EFFECT/ SBP REMAINS 180S-190S/ RECEIVED HYDRALIZINE 20MG IV X 2DOSES WITH MINIMAL EFFECT/ SBP REMAINS 160S-180S/ DILTIAZEM 5MG IV X2 DOSES/ PRESENT SBP 153/ DBP 50S-60S/ MAP 100S. UOP 50-250CC/HR. WILL FOLLOW SBP/ HAS HX OF HTN/ HOME MEDS INCLUDE LISINOPRIL, LOPRESSOR, PROCARDIA.
+R ARM LARGER THAN L/ ELEVATES ON PILLOW/POS CSM.  WARM COMPRESS APPLIED/ US ORDERED TO R/O DVT/WILL NOT ANTICOAGULATE BECAUSE OF GIB.
+CURRENT HCT 31.2 (33.2)/ FOLLOW HCT Q 6HR/ TYPED AND CROSSED.
+K: 3.2/ REPLETED OF 40MEQ KCL IN 500ML.
+AFEBRILE/ TMAX: 99.8. WBC STABLE.
+
+LUNG SOUNDS MOSTLY CLEAR THROUGHOUT / FINE CRACKLES AT L BASE. SATO2 100% ON 2LNC. DENIES SOB. CHEST XRAY ON [**9-2**] PENDING.
+
+ABD SOFT, POS BS. NO BM, OLD CLOT NOTED AROUND PERI AREA/ NO EVIDENCE OF ACTIVE BLEED/ GUIAC POS PER RECTAL EXAM.
+
+FOLEY PATENT/ AUTO DIURISED / UOP 50-250CC/HR.
+ELEVATED BUN AND CREAT/ UA SENT.
+
+SKIN W/D/I. PIVSX2.PNEUMATIC BOOTS ON.
+
+NO FAMILY CONTACT THIS SHIFT/ SISTER AS [**Name2 (NI) **]. PT IS DNRDNI.
+
+FOLLOW BLEED, MONITOR BM/ IF ACTIVELY BLEEDING/ PT WILL NEED A TAGGED RBC, AT THIS POINT DECISION WILL BE MADE FOR ANGIO/EMBOLIZATION OR SURGERY. IR AND [**Doctor First Name **] TEAMS EVALUATED PT.
+FOLLOW HCT
+MONITOR BP.
+
+
+",,
+13906,22658,17300,0,3086-09-03 15:50:00 EST,3086-09-03 16:32:00 EST,3646,"N",54,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+Events:  HCT stable, continues to be hypertensive, vital signs stable.
+
+Cardiac:  B/P 157-165/50's until 1100 when her B/P increased to 184/56.  She was given her hydralazine early and her B/P decreased back to the 170's/. She was started on lopressor at 100mg tid and given her first dose at 1500.  Her lipitor was also restarted.  Her HR has been 86-110, SR/ST with no ectopy.  She appears to be dry with Na ov 146, dry mouth and marginal urine output, so she was given 2 boluses of 250cc NS and her IVF was changed from NS to 1/2 NS at 100cc/hr.
+
+GI:  Her Hct has been stable and actually increased from 31 ->36 at 1400.  She has had no signs of bleeding with no stool today.  She did c/o nausea at 1300 and received 12.5mg of anzemet.  She coughed up a large mucous plug, no emesis and she fell asleep.  When she woke up she felt better.
+
+GU:  Foley draining clear yellow urine. U/O 30-80cc/hr.
+
+Resp:  breath sounds clear and her O2 sats on 2l NC are 98-100%.  RR 17-22
+
+Neuro:  She has been napping most of the day (""I didn't get much [**Doctor Last Name 8**] last night with them sticking me so much"").  Easily arousable, then alert and oriented.  MAE and able to help with care.
+
+Social:  Pt's sister called to inquire about the patient, also a neice, who works in our ED came up to visit - her name is [**First Name4 (NamePattern1) 5415**] [**Last Name (NamePattern1) 5416**] 4-2461.
+
+Plan:  continue to monitor B/P, monitor HCT q6h, probable C/O in am.
+",,
+13906,22658,17300,,3086-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-9-4**] 9:51 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 4520**]
+     Reason: HX RENAL INSUFFICIENCY, IVF INTAKE > PT OUTPUT
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with renal insufficiency, newly diagnosed, and low UOP 
+      despite receiving 2.3L of IVF. Foley changed x2, w/ no improvement. Please 
+      evaluate for evidence of hydro. 
+     REASON FOR THIS EXAMINATION:
+      eval for hydronephrosis                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old woman with renal insufficiency and low urine output.
+     Please evaluate for hydronephrosis.
+     
+     RENAL ULTRASOUND:  The right kidney measures 8.8 cm and is diffusely
+     echogenic.  Left kidney measures 7.5 cm and is normal in appearance.  There is
+     no evidence of hydronephrosis or renal stones.  Bilateral color Doppler flow
+     is demonstrated to both renal hila.  The bladder is not distended and contains
+     a Foley catheter. There are is a right pleural effusion.  Real time imaging
+     showed a left pleural effusion; however, an ultrasound image was not recorded.
+     
+     IMPRESSION:
+     
+     1.  No evidence of hydronephrosis or kidney stones.
+     2.  Increased echogenicity of the right kidney may reflect medical renal
+     disease.
+     3.  Bilateral pleural effusions.
+
+",,
+13906,,17300,0,3086-09-04 04:39:00 EST,3086-09-04 04:49:00 EST,3238,"N",54,"Nursing/Other",,"
+
+NPN 1900-0700:
+
+Pt has had a stable night, with no further evidence of bleeding.
+
+ROS:
+NEURO: A&O X 3, pleasant and cooperative with care; slept most of the night. 
+RESP: Sats mid-90's on RA; RR teens, non-labored. LS initially CTA, later with crackles 1/2 up bilaterally (asymptomatic). Given 20mg IV Lasix with modest response, though still running very positive. Some decrease in crackles noted. 
+C-V: HR low 90's, NSR, no ectopy. BP initially 180's, but somewhat improved with Nifedipine (new), Hydralazine and Lopressor; running 150's-170's now. K and Mag repleted overnight; repeat labs pending. 
+GI: No N/V, no stool. Belly benign. Remains NPO except meds, ice chips.
+GU: UO only 15-25cc/hr early in shift. Given additional bolus of 250cc NS with no response. Later given 20mg IV Lasix with only modest response. Urine lytes, cx sent; renal US ordered. .45NS D/C'd after 1L given. 
+HEME: Hct stable at 31-32; plts' WNL; coags pending. No evidence of bleeding. 
+ID: Afebrile, WBC very slightly elevated; no evidence of infection. 
+ENDO: No active issues. 
+SKIN: intact
+ACCESS: Poor IV access, difficult stick. Unsure when IV's were placed (they went in at OSH). 
+SOCIAL: Pt's sister and neice visited; her son called. 
+",,
+13906,,17300,0,3086-09-04 15:48:00 EST,3086-09-04 15:50:00 EST,6170,"N",54,"Nursing/Other","Discharge note","
+Discharge note
+please see carevue for all hourly vital signs and assessments. please see transfer note for full assessment. pt to be tx to [**Hospital **] hospital to the 4th floor step down unit.  report given to nurse on step down. dr [**Last Name (STitle) **] (green resident) beeper # given to the nurse in case the resident in the step down would like to contact dr [**Last Name (STitle) **]. 
+",,
+13906,24036,,,3086-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 4521**]
+     Reason: ACTIVE SIGMOID COLON BLEEDING. IDENTIFY AND LOCALIZE LGIB
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        15.0 mCi Tc-99m RBC ([**3086-10-10**]);
+     HISTORY: 81 year old female with active sigmoid colon bleeding seen on bleeding
+     study at outside hospital this morning. 
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells 
+     labeled with Tc-99m, blood flow and dynamic images of the abdomen for minutes 
+     were obtained.  A left lateral view of the pelvis was also obtained. 
+      
+     Blood flow images are normal. 
+      
+     Dynamic blood pool images show increased tracer uptake in the left lower
+     quadrant at approximately 15 minutes and increasing in this location throughout
+     the duration of the examination (approx 60 minutes). 
+      
+     IMPRESSION:  Active GI bleed in the left lower quadrant at 15 minutes,
+     consistent with a bleed in the sigmoid colon.  These findings were discussed at
+     the immediate identification of hemorrhage with the ordering physician [**First Name8 (NamePattern2) 4522**]
+     [**Last Name (NamePattern1) 4523**], and the Interventional Radiology resident, Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 340**] arranged for a
+     mesenteric angiogram and possible embolization. 
+      
+                                                                           
+
+             [**First Name4 (NamePattern1) 4524**] [**Last Name (NamePattern1) 4525**], M.D.
+             [**Last Name (NamePattern5) 145**], M.D.          Approved: TUE [**3086-10-12**] 3:09 PM
+
+
+             Date Mailed: [**3086-10-13**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13906,24036,,,3086-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-10**] 11:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4526**]
+     Reason: establish baseline CXR; assess for CHF                      
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with lower GIB being actively transfused                      
+     REASON FOR THIS EXAMINATION:
+      establish baseline CXR; assess for CHF                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 12:13 A.M. [**10-11**]
+     
+     HISTORY:  Lower GI bleed.  Being transfused.
+     
+     IMPRESSION:  AP chest compared to [**3086-9-2**]:
+     
+     Moderate cardiomegaly has progressed, vascular engorgement of the hila is
+     stable, lungs are clear.  Thoracic aorta is generally large and heavily
+     calcified.  Small regions of aneurysmal dilatation cannot be excluded,
+     particularly in the region of the aortic arch.
+     
+     Mediastinal widening and tracheal narrowing at and above the thoracic inlet
+     are most likely due to a large thyroid gland.
+     
+     Small right pleural effusion may be present.
+                                                                           
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 3:45 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 4528**]
+     Reason: eval line position, r/o ptx                                 
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81F s/p left colectomy for LGIB                                                
+     REASON FOR THIS EXAMINATION:
+      eval line position, r/o ptx                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of central venous line position.
+     
+     Portable AP chest radiograph compared to previous film done the same day
+     earlier at 00:13 a.m.
+     
+     The ET tube tip is 3 cm above the carina.  The NG tube tip terminates in the
+     distal esophagus at least 3 cm above the gastroesophageal junction.  The left
+     internal jugular line is inserted with its tip terminating in the left
+     brachiocephalic vein. Left lower lobe atelectasis is new.  There is no
+     evidence of CHF.
+     
+     IMPRESSION:
+     1.  Standard position of ET tube.
+     2.  NG tube is in distal esophagus..  These findings were paged to Dr.
+     [**Last Name (STitle) 2923**].
+     3.  No pneumothorax .
+     4.  New left lower lobe atelectasis.
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,,3086-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75625 ABDOMINAL A-GRAM               -59 DISTINCT PROCEDURAL SERVICE     *
+     * 99144 MOD SEDATION, FIRST 30 MIN.    99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with LGIB on tagged RBC scan                                  
+     REASON FOR THIS EXAMINATION:
+      assess location of bleeding vessel and embolize as appropriate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower GI bleeding.  Tagged red cell blood scan was performed
+     demonstrating bleeding in the sigmoid colon.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 340**] and Dr. [**Last Name (STitle) 609**].  Dr.
+     [**Last Name (STitle) 609**], the attending radiologist, was present during the entire procedure
+     supervising.  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiography table and placed in supine position.  A preprocedure timeout was
+     performed and proper identification of the patient and the procedure was
+     performed.  The right groin was then prepped and draped in standard sterile
+     fashion.  The right common femoral artery was then accessed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 528**] wire
+     was introduced into the aorta.  The needle was then exchanged for a 5 French
+     sheath.  Using a C2 Cobra catheter, we were able to cannulate the SMA.
+     Selective angiogram of the SMA demonstrated a patent artery with no evidence
+     of acute hemorrhage or hemodynamically significant stenosis.  There was a 9-mm
+     aneurysm in a proximal jejunal branch.
+     
+     We then attempted to cannulate the [**Female First Name (un) **] several times with using the C2
+     catheter as well as the Mickaelson and [**Doctor Last Name 2272**] catheters without success.  We
+     then decided to perform an aortogram to determine the origin of the [**Female First Name (un) **].  An
+     infrarenal PA and lateral aortogram demonstrated extensive atherosclerotic
+     disease of the abdominal aorta and iliacs without hemodynamically significant
+     stenosis. The aorta was of normal caliber.  Specifically, the inferior
+     mesenteric artery was identified and was opacified.  No acute hemorrhage was
+     identified on the aortogram.  We then attempted several times to cannulate
+     selectively the inferior mesenteric artery, without success.  Multiple
+     catheters were used.
+     
+     The catheter wire and sheath were then removed and pressure was held at the
+     right groin for 20 minutes and hemostasis was achieved.  The patient tolerated
+     the procedure well and there were no complications.
+                                                                 (Over)
+
+     DATE: [**3086-10-11**] 2:27 AM
+     MESSENERTIC                                                     Clip # [**Clip Number (Radiology) 4527**]
+     Reason: assess location of bleeding vessel and embolize as appropria
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: VISAPAQUE Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IV CONSCIOUS SEDATION:  Moderate sedation was provided by administering
+     divided doses of Versed and fentanyl throughout the total intraservice time of
+     120 minutes during which the patient's hemodynamic parameters were
+     continuously monitored.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage was identified.  Inability to selectively cannulate
+     the inferior mesenteric artery.
+     
+     2.  Moderate atherosclerotic disease of the aorta and iliacs without
+     hemodynamically significant stenosis.
+     
+     3.  9-mm aneurysm in a jejunal branch of the SMA.
+     
+
+",,
+13906,24036,17301,0,3086-10-11 04:43:00 EST,3086-10-11 04:49:00 EST,4295,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT ADMITTED FROM [**Hospital **] HOSPITAL ~ 9:30 PM.  ALERT & ORIENTED, DENIES ANY PAIN.  PATIENT STATES DNR/DNI, HOWEVER REVERSED FOR PROCEDURES OVERNIGHT.  BREATHING UNLABORED, LUNG SOUNDS CLEAR. HEART RATE 90'S NORMAL SINUS.  ARTERIAL LINE PLACED, PATIENT HYPERTENSIVE WITH SBP ~200.  GIVEN HYDRALAZINE & LOPRESSOR, SBP DOWN TO 170-180'S.  HCT ON ADMISSION 23, GIVEN 2 UNITS PRBCS.  1 BLOODY STOOL SINCE ADMIT, PATIENT TO NUCLEAR MED FOR RED TAG.  PATIENT CURRENTLY IN INTERVENT RADIOLOGY, AWAITING RETURN.  
+PLAN:
+    FOLLOW SERIAL HCTS.  CONTINUE WITH CURRENT ICU MONITORING AND TREATMENT.
+",,
+13906,24036,17301,0,3086-10-11 17:50:00 EST,3086-10-11 17:57:00 EST,6465,"N",53,"Nursing/Other","Nursing Note 7a-7p:","
+Nursing Note 7a-7p:
+Nursing Assessement:
+
+To OR early this afternoon for hemicolectomy left and takedown of splenic flexure d/t GIB. Returned late afternoon intubated d/t fluid intake and labile bp. ON prop/neo when back to unit and then placed on fent gtt for pain. Neo weaned off but bp extremely labile; drops to 80s/30s with turning and stimulation. Potassium and calcium currently are being repleted. UO still low approx 20cc/hr. 2 units prbc's in OR and hct 26. CVP 8-11. CMV 40% 5 peep. abg to follow. Lungs coarse; thick white secretions. OGT. Left EJ converted to triple lumen central line in OR; xray confirmed placement. Abdominal dsd intact. Groin site continues to slowly ooze. Dopplerable pulses. Pt's sister has been updated by MD [**Last Name (Titles) **]. Plan: continue to monitor fluid status; replete lytes and close bp monitoring. Hopes to extubate in the morning. Serial HCTs. Please refer to carevue for all further details.
+",,
+13906,24036,17301,0,3086-10-11 18:37:00 EST,3086-10-11 18:42:00 EST,3196,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+This pt went to OR from this unit and post L.hemicholectomy required ventilator support for recovery and for anesthesia to wear off..
+The plan is to extubate tomorrow AM. She seems to be doing as expected. BS's are essentially clear.
+",,
+13906,24036,17301,,3086-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-12**] 4:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4529**]
+     Reason: ? pulmonary edema                                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81F s/p left colectomy for LGIB with large fluid requirement                  
+                                    
+     REASON FOR THIS EXAMINATION:
+      ? pulmonary edema                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 5:11 a.m., [**10-12**]
+     
+     HISTORY:  Colectomy.  Fluid requirement.  Possible edema.
+     
+     IMPRESSION:  AP chest compared to [**10-11**]:
+     
+     Lung volumes are low.  Borderline interstitial edema is unchanged.  Heart size
+     top normal.  Pleural effusion, if any, is small, on the right.  Nasogastric
+     tube passes below the diaphragm and out of view, left central venous line tip
+     projects over the upper SVC and an endotracheal tube tip at the lower margin
+     of the clavicles with the chin down is in standard position.  No pneumothorax.
+                                                                           
+
+",,
+13906,24036,17301,0,3086-10-12 05:21:00 EST,3086-10-12 05:31:00 EST,4295,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT SEDATED ON PROPOFOL & FENTANYL @ BEGINNING OF SHIFT.  PROPOFOL WEANED OFF, PATIENT CALM AND OCCASIONALLY ABLE TO FOLLOW COMMANDS.  NODS ""NO"" TO PAIN WITH FENTANYL GTT @ 50 MCGS.
+    NORMOTHERMIC.  HEART RATE ~ 100 SINUS TACH & SBP RANGING 90'S-140'S.  HCT STABLE (25-26) AND PLT COUNT STABLE, NO SIGNS BLEEDING.  GIVEN FLUID BOLUSES (X3) FOR LOW URINE OUTPUT, WITH MINIMAL EFFECT.  CVP 7-13.  ANGIO SITE OOZING BLOODY DRAINAGE, + DOPPLERABLE LOWER EXTREMITY PULSES.  
+    LUNG SOUNDS OCCASIONALLY COARSE, BUT MINIMAL SECRETIONS WHEN SUCTIONED.  PATIENT ON ASSIST CONTROL OVERNIGHT, CHANGED TO CPAP + 8 PS THIS AM.  RESP RATE ~12 AND MAINTAINING ADEQUATE TIDAL VOLUMES.  PATIENT HAS MET ACIDOSIS.  
+    ABDOMEN SOFT, DRESSING WITH MOD AMOUNT SEROSANG DRAINAGE.  NPO, OGT WITH SCANT CLEAR OUTPUT.  BLOOD GLUCOSE HIGH, COVERED WITH SLIDING SCALE.  IVF CHANGED TO 0.45 NS. 
+PLAN:
+    WILL CHECK RSBI THIS AM.  ? POSSIBLE EXTUBATION PER TEAM.  CHANGE FENTANYL GTT TO PRN FENTANYL.  CONTINUE TO FOLLOW HCT CLOSELY. 
+",,
+13906,24036,17301,0,3086-10-12 06:42:00 EST,3086-10-12 06:49:00 EST,3671,"N",53,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt received orally intubated & sedated on full ventilatory support, She was [**Last Name (un) 5417**] to tolerate switch to minimal PSV, RSBI done ~26. EWe are sxtn small amt of thick secretions from ETT. BS are dim & coarse. Plan: wean to extubate, follow fluid status & cardio-pulm monitoring. Will follow. 
+",,
+13906,24036,17301,0,3086-10-12 16:36:00 EST,3086-10-12 16:43:00 EST,6465,"N",53,"Nursing/Other","Nursing Note 7a-7p:","
+Nursing Note 7a-7p:
+Nursing aSsessment:
+
+Pt extubated this morning and tolerated well. Currently weaned to 3 liters o2 nasal cannula and tolerating well with 100% oxygenation on pulse oximeter. Lungs are clear to coarse with diminished bases. Pt remains lethargic, fent gtt originally titrated up d/t c/o pain but then weaned down to off d/t pt's lethargic state. No complete sentences, only mumbling yes and no occasionally and opens eyes easily to voice, occ following commands.  Prn pain medication ordered. BP well controlled with iv lopressor, nsr 90s-st up to 110. Urine output marginal and per sicu team 20cc/hr is acceptable. 500cc LR bolus this morning onlly and 1 unit prbc's for falling hct currently bumped to 29 from 24. No bleeding from surgical incision, however groin angio site continues to ooze a fair amt of brb. REinforced as needed and mD's aware. BS WNL no riss necessary today. Plan: cont to fluid resucitate as necessary, monitor urine ouput/ cvps (currently 7). Cont to monitor neuro status and attempt to wake up from fent gtt and use only prn as necessary. PT's sisters have been in to visit and updated on pt's condition. Please refer to carevue for details.
+",,
+13906,24036,17301,0,3086-10-13 05:05:00 EST,3086-10-13 05:29:00 EST,6085,"N",53,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Please see carvue for specifics:
+Neuro:  Pt alert to self only.  Arouses to voice.  Intermittenly follows commands.  Pt with stroke like appearance.  + facial droop.  
+CV:  Afebrile.  Pt has been tachy all shift MD [**Location (un) 624**] aware.  Lopressor increased with little effect.  Pt medicated with morphine for pain mmgt with effect.  Pt HTN to 180's medicated with 10mg of hydralazine with good effect.  Angio site drng moderate amts of sero/sang drng. 
+Resp: Extubated yesterday.  Tolerating well currently on 3LNC. Lungs clear to diminshed.  
+GI/GU:  Abd soft NT.  Hypo BS Foley patent drng >20cc/hr.  
+Endo:  RISS
+ID: No abx
+Plan:  Cont with current plan of care. 
+",,
+13906,24036,17301,0,3086-10-13 17:28:00 EST,3086-10-13 17:32:00 EST,6465,"N",53,"Nursing/Other","Nursing Note 7a-7p:","
+Nursing Note 7a-7p:
+Nursing Assessment:
+
+Neuro unchanged, only slightly more awake, answers i'm ok and yes and no only. Moaning but denies pain.  Lethargic. HTN 170-190, iv lopressor with minimal effect, hydralazine iv with only a little brief effect as well. Po lopressor home dose 100mg with good effect via ngt. Attempted sips with meds and meds crushed and pt unable. May start some tube feeds tommorrow and ngt to remain in place. IVF kvo and lasix 20 x 2 with small increase in urine output. cvp 9. Nipodipine added to po meds with good effect and finally pt's bp 140-150 and heart rate 90s. Plan: hold all narcotics and cont to monitor neuro status, cont to monitor hct. currently stable; no s/s bleeding. tube feeds tommorrow. Please refer to carevue for details.
+",,
+13906,24036,17301,,3086-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13906,24036,17301,,3086-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-14**] 10:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4530**]
+     Reason: infiltrate, atelectasis.                                    
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          81F s/p left colectomy for LGIB with large fluid requirement                
+                                        
+     REASON FOR THIS EXAMINATION:
+      infiltrate, atelectasis.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST [**3086-10-14**] AT 10:26 A.M.
+     
+     HISTORY:  Status post left colectomy.
+     
+     COMPARISON:  Multiple priors, the most recent dated [**3086-10-12**].
+     
+     FINDINGS:  In the interval, the patient has been extubated.  A nasogastric
+     tube is evident with the distal tip and side hole within the gastric fundus. A
+     left internal jugular approach central venous catheter is again identified
+     with the distal tip at the confluence of the brachiocephalic vein with the
+     superior vena cava.  Lung volumes are markedly diminished with bibasilar
+     atelectasis.  The pulmonary vascularity is congested centrally with minimal
+     interlobular septal thickening, suspicious for hydrostatic edema.  There is
+     an atherosclerotic aorta.  The cardiac silhouette remains enlarged but stable.
+     Surgical clips are incidentally noted overlying the region of the
+     gastroesophageal junction.
+     
+     IMPRESSION:  Markedly low lung volumes with no consolidation.  There may be
+     mild superimposed edema.
+
+",,
+13906,24036,17301,0,3086-10-14 04:49:00 EST,3086-10-14 05:21:00 EST,8108,"N",53,"Nursing/Other","NPN","
+NPN
+Please see CareVue for full assessments
+NEURO: Arousable to voice. Oriented to self. Answers ""no"" when asked if she knows where she is. Does not answer any other simple questions asked by this writer although did communicate she has no pain. PERRL 2mm and brisk. MAE and withdraws all extremities to stimuli.
+
+CV: NSR 80's-90's with rare ectopy noted. Hypertensive throughout shift. SBP as high as 210systolic when stimulated. SICU HO [**Doctor Last Name 2189**] notified. Lopressor and Nifedipine per schedule. Vasotec IV w/no effect. Nitropaste applied to chest wall with moderate effect. SBP ranges from 150's-180's most of the time. Right fem angio site ecchymotic and OTA. Stitch intact w/no oozing noted. Extremities edematous. Pulses dopplerable. Afebrile through noc. AM WBC 17.4. HCT drop to 25.6.
+
+RESP: NARD. BLS clear w/crackles @bases. O2 Sats 97%-98% 3L NC. 
+ENDO: NO BG coverage required per RISS
+GI: NPO. NGT intact/clamped. Abd S/NT/ND. BS+. No BM this shift. Midline incision with original surgical dressing intact. Small amt serosang drg noted to dsg.
+GU: Foley patent draining lg amts CYU. 
+PLAN: Monitor neuro status, post-op management per protocol, pain management, monitor diuresing, pulmonary toileting, ?start TF today, provide emotional support to pt and family.
+
+",,
+13906,24036,17301,0,3086-10-14 16:37:00 EST,3086-10-14 17:18:00 EST,6570,"N",53,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+See carevue for specifics:
+Neuro-A&Ox2 (hosp & year not to date) according to Primary team much more alert today, awake most of day, OOB to chair x 5hrs.  MAEs, generalized weakness. Tmax 100.8 (rectal), WBC 17.4  Pan CX'd this am. denies pain/discomfort however (+)facial grimacing/guarding with abd palp. 
+CV-HCT stable, HR 70s-90s NSR no Ectopy, SBP 140s-180s continued on multiple antihypertensives with minimal effect. Repeat K+ 3.2, NA 147, phos 5.0, BUN 51 labs indicate intravascular dehydration depite [**11-23**]+ edema.  All lytes to  be repleted in Sterile H20 or D5W. CVP 5-10. (+)PPs, L groin site intact/healed.
+Resp-Spo2 95-100% on 3L via NC, LS clear & diminished at bases, CXR revealed ? worsening infiltrate ? asp PNA started on Vanco & Levo. 
+GI-Sips tol w/o diff ? silent asp, no obvious s/sx asp with POs. ABD soft, tender to palp (+)BSx4, Trophic TFs started today, however after 4hrs 50cc residual noted (TFs mixed with bilous drng) TFs stopped Dr. [**Last Name (STitle) 106**] & [**Doctor Last Name 133**] made aware, NGT to LCWS ok to give meds. 
+GU-Foley with adequate u/o, mobilizing fluids indep. No lasix given today. UA (-). 
+Endo-Bs qid with SC coverage
+SKin-(+)[**11-23**]+ pitting edema all extremetites, abd dsg c/d/I, changed this am by primary team, stables intact, no drng noted.
+Social-Sister called today, updated on status & care plan.
+A/P-Stable
+-Continue to monitor SBP continue antihypertensives
+-Monitor lytes-replete in D5W or SW only, recheck K+ after current      repletion
+-Monitor GI status, NGT to LCWS clamp for meds
+-Aggressive pulmoary toileting
+-Encourage Activity-OOB to chair QD
+-? video speech & swallow for silent ASP
+-Continue IV ABXs, Vanco trough with am labs.
+
+
+
+
+",,
+13906,24036,17301,,3086-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-15**] 5:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4531**]
+     Reason: RLL infiltrate, effusion                                    
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           81F s/p left colectomy for LGIB with large fluid requirement               
+                                          
+     REASON FOR THIS EXAMINATION:
+      RLL infiltrate, effusion                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Hypoxia.
+     
+     Portable AP chest radiograph compared to [**3086-10-14**].
+     
+     The right internal jugular line tip is in brachiocephalic vein.  The NG tube
+     tip is in stomach.  There is improvement in pulmonary edema with the absence
+     of evidence of volume overload on the current chest radiograph.  The heart
+     size is enlarged but stable.  The bibasilar atelectasis and pleural effusion
+     is grossly unchanged.  The upper lungs are unremarkable.
+     
+     IMPRESSION:  Marked improvement of pulmonary edema.  Bilateral pleural
+     effusion and bibasilar atelectasis, unchanged.
+                                                                           
+
+",,
+13906,24036,17301,,3086-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-15**] 8:43 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4532**]
+     Reason: assess position of Dobhoff, prefer post-pyloric, please take
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            81F s/p left colectomy for LGIB with large fluid requirement s/p Dobhoff 
+      placement                                              
+     REASON FOR THIS EXAMINATION:
+      assess position of Dobhoff, prefer post-pyloric, please take low CXR to view 
+      stomach
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female with status post left colectomy for left GI
+     bleed with large fluid requirement, status post Dobbhoff placement.  Assess
+     position of Dobbhoff.
+     
+     COMPARISON:  Study from [**3086-10-15**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  The lung apices are not included in the study. 
+     The Dobbhoff tube is positioned within the stomach.  Clips are seen within the
+     epigastric region.  There are bilateral small pleural effusions, left
+     retrocardiac opacity which may represent atelectasis, and bibasilar
+     atelectasis.  The visualized portion of the bowel gas pattern is normal.
+     
+     IMPRESSION:  Dobbhoff tube is seen, with the tip positioned in the stomach.
+                                                                           
+
+",,
+13906,24036,17301,,3086-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-15**] 8:43 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4532**]
+     Reason: assess position of Dobhoff, prefer post-pyloric, please take
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            81F s/p left colectomy for LGIB with large fluid requirement s/p Dobhoff 
+      placement                                              
+     REASON FOR THIS EXAMINATION:
+      assess position of Dobhoff, prefer post-pyloric, please take low CXR to view 
+      stomach
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female with status post left colectomy for left GI
+     bleed with large fluid requirement, status post Dobbhoff placement.  Assess
+     position of Dobbhoff.
+     
+     COMPARISON:  Study from [**3086-10-15**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  The lung apices are not included in the study. 
+     The Dobbhoff tube is positioned within the stomach.  Clips are seen within the
+     epigastric region.  There are bilateral small pleural effusions, left
+     retrocardiac opacity which may represent atelectasis, and bibasilar
+     atelectasis.  The visualized portion of the bowel gas pattern is normal.
+     
+     IMPRESSION:  Dobbhoff tube is seen, with the tip positioned in the stomach.
+                                                                           
+
+",,
+13906,24036,17301,0,3086-10-15 04:56:00 EST,3086-10-15 05:32:00 EST,8108,"N",53,"Nursing/Other","NPN","
+NPN
+Please see CareVue for full assessments
+NEURO: Improved since yesterday. More alert, oriented x3. States ""[**Hospital3 **]"" and ""[**3086-9-22**]"" when questioned. PERRL. MAE weakly. Denies pain present except C/O abdominal pain around umbilicus during turning/repositioning. Resolves on own. 
+
+CV: SR-ST w/HR ranging from 80's-100's. No ectopy noted. Hypertensive issues continue despite pt's home dosages of meds as well as Hydralazine Q4H. SBP 150's-180's. SICU HO aware. CVP 6-12. CXR this AM
+Hct down to 24.3 from 26. K 3.8 repleted.
+
+RESP: NARD. BLS clear upper lobes w/crackles att the bases. Attempted to decrease O2 from 3L-2L. Pt. desatted to low 90's. Attempt again in AM when more awake. Denies cough, SOB.
+
+ID: Afebrile. Pan cx results pending. WBC trending down (13.8 from 15.9). Vanco and levofloxacin started for ?PNA.  
+
+GI: Remains NPO. Able to swallow PM PO meds without difficulty. No signs of aspiration. NGT to LCWS w/moderate amounts green bilious drg. Clamped during med administration. Abd soft, tender to palpate, non distended. Midline incision C/D/I  Denies flatus.  
+
+ENDO: BG stable-no RISS coverage administered.
+
+GU: Patent foley draining CYU. BUN/Cr improving. 
+
+PLAN: Monitor neuro status, CV, post-op management, monitor labs,  replete lytes, pulmonary toileting, encourage C/DB, OOB to chair, 
+
+
+
+
+",,
+13906,24036,,,3086-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-16**] 8:26 AM
+     BILAT UP EXT VEINS US                                           Clip # [**Clip Number (Radiology) 4533**]
+     Reason: SWELLING PLEASE R/O DVT
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 yo female  b/l upper extremity swelling, R>L, but CVL in left.              
+                                           
+     REASON FOR THIS EXAMINATION:
+      Please r/o DVT.                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral upper extremity swelling, right greater than left.
+     
+     BILATERAL UPPER EXTREMITY VEINS:  The bilateral internal jugular, subclavian,
+     axillary, brachial, basilic veins all demonstrate patency and normal
+     compressibility with normal color flow and Doppler waveform.  No intraluminal
+     thrombus is identified.  There is significant subcutaneous edema, right
+     greater than left.
+     
+     IMPRESSION:  No evidence for deep vein thrombosis.  Subcutaneous edema.
+                                                                           
+
+",,
+13906,24036,,,3086-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-17**] 9:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4535**]
+     Reason: check NGT placement                                         
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             81F s/p left colectomy for LGIB with large fluid requirement s/p NGT 
+      placement                                              
+     REASON FOR THIS EXAMINATION:
+      check NGT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate NG tube placement.
+     
+     COMPARISON:  CXR [**3086-10-15**].
+     
+     FINDINGS:  Upright radiograph of the chest.  Left internal jugular line
+     appears unchanged in its position with the tip likely overlying the most upper
+     portion of the SVC.  An NG tube is identified with its tip within the stomach.
+     Although it is difficult to identify the exact location of the proximal
+     sideport, it may be near the EG junction.
+     
+     Cardiomediastinal silhouette is otherwise unchanged.  The gastric clips are
+     again identified. Retrocardiac opacity representing airspace disease versus
+     atelectasis is unchanged.  Right basilar atelectasis is also unchanged.  Small
+     bilateral pleural effusions are stable.
+     
+     IMPRESSION:  NG tube with proximal sideport likely near the EG junction.  If
+     clinically indicated, the tube could be advanced approximately 5 cm to assure
+     the sideport is within the stomach.  Otherwise, unchanged exam.
+
+",,
+13906,24036,,,3086-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-17**] 9:06 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4534**]
+     Reason: check feeding tube placement after advancement ? postpyloric
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             81F s/p left colectomy for LGIB with large fluid requirement s/p Dobhoff 
+       placement                                              
+     REASON FOR THIS EXAMINATION:
+      check feeding tube placement after advancement ? postpyloric                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, [**3086-10-17**] AT 09:26 HOURS
+     
+     HISTORY:  Feeding tube placement.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  A Dobbhoff enteric feeding tube is evident which loops within the
+     stomach with the distal tip in the region of the gastric fundus.  This is in
+     an inadequate position for enteric feeding.
+     
+     IMPRESSION:  Dobbhoff tube coiled within the stomach as above.
+                                                                           
+
+",,
+13906,24036,,,3086-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-18**] 7:43 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4536**]
+     Reason: assess for interval change in gastroperesis                 
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              81F s/p left colectomy for LGIB with large fluid requirement s/p NGT 
+      placement                                              
+     REASON FOR THIS EXAMINATION:
+      assess for interval change in gastroperesis                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post left colectomy for GI bleed, please check NG tube
+     placement.
+     
+     PORTABLE SUPINE ABDOMEN:  Compared to the prior day's study.  There has been
+     interval removal of the Dobbhoff tube with placement of a NG tube with its tip
+     in the proximal stomach/fundus.  This likely remains too proximal in position
+     for enteric feeding.  Surgical clips over the mid abdomen in this patient
+     status post left colectomy.  The remains air within the ascending and
+     transverse colon, unchanged from the prior study.  No specific evidence of
+     free intraabdominal air on this limited supine study.  Contrast material is
+     again seen in the right upper quadrant, either secreted into the gallbladder
+     or within a loop of proximal small bowel.  This is unchanged from the prior
+     day's study.
+                                                                           
+
+",,
+13906,24036,,,3086-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-20**] 7:19 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4537**]
+     Reason: assess for interval change, increase in tympany             
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               81F s/p left colectomy for LGIB POD10, with increased tympany of 
+      abdomen                                             
+     REASON FOR THIS EXAMINATION:
+      assess for interval change, increase in tympany                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old status post left colectomy for GI bleed with
+     increased abdominal distention.  Evaluate for interval change.
+     
+     AP PORTABLE SUPINE ABDOMEN:  Compared to [**3086-10-18**].  In the interim, the NG
+     tube is no longer visualized and may have been removed.  Surgical clips are
+     again seen overlying the upper mid abdomen.  Surgical staples at the midline.
+     The remnant ascending and transverse colon remains filled with air and
+     moderately distended, not significantly changed from the prior study.  There
+     is no evidence to suggest free intraperitoneal air on this limited supine
+     study.  There remains opacification in the right upper lobe, presumably
+     representing excretion into the gallbladder which is also unchanged.  Vascular
+     calcification noted.
+     
+     IMPRESSION: Persisting but unchanged moderate distention of the remnant
+     ascending and transverse colon.
+     
+
+",,
+13906,24036,,,3086-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-20**] 7:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4538**]
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman POD10 c/ post-op pneumonia without symptoms                   
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Postop pneumonia for follow up.
+     
+     COMPARISON:  [**3086-10-17**] CXR.
+     
+     FINDINGS: Upright radiograph of the chest.  The left-sided internal jugular
+     line appears unchanged in position with its tip likely terminating in the most
+     upper portion of the SVC.  NG tube has been removed.
+     
+     Cardiomediastinal silhouette is stable.  Calcification of the thoracic aorta
+     is identified.  Improvement in the left basilar opacity is noted with improved
+     visualization of the hemidiaphragm and aortic contour.  Stable right basilar
+     atelectasis and small bilateral pleural effusions.
+     
+     IMPRESSION:  Improvement in left basilar opacity. Stable small bilateral
+     pleural effusions.
+                                                                           
+
+",,
+13906,24036,,,3086-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-22**] 5:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4539**]
+     Reason: assess for intra-abdominal abscess/fluid collection         
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman POD 11 subtotal colectomy with increasing WBC (now 20.9), 
+      afebrile
+     REASON FOR THIS EXAMINATION:
+      assess for intra-abdominal abscess/fluid collection                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female postop day 11 status post subtotal colectomy
+     with increasing white blood cell count.  Evaluate.
+     
+     COMPARISON:  Portable abdomen x-ray dated [**3086-10-20**].
+     
+     TECHNIQUE:  MDCT imaging of the abdomen and pelvis was performed following the
+     administration of 120 cc of intravenous Optiray.  Nonionic contrast was
+     administered per protocol.  Coronal and sagittal reformatted images were
+     obtained.
+     
+     CT ABDOMEN WITH ORAL, WITH INTRAVENOUS CONTRAST:  Small bilateral pleural
+     effusions, right greater than the left are seen at the lung bases, with
+     compressive atelectasis.  The heart is enlarged, and moderate calcifications
+     line the proximal coronary arteries.  The abdominal aorta, and proximal
+     mesenteric vessels are densely calcified.  The liver parenchyma enhances
+     normally.  There is a 5-mm low attenuation lesion at the liver dome, which
+     likely represents a simple cyst, but is not fully evaluated.  The gallbladder
+     is filled with oral contrast, likely due to reflux.  The common bile duct
+     measures up to 10 mm all the way to the pancreatic head.  The imaged pancreas
+     and spleen are unremarkable.  There is a 26 x 13 mm left adrenal nodule, which
+     likely represents an adenoma, but is incompletely characterized on this study.
+     Low attenuation lesions in the kidneys bilaterally are incompletely
+     characterized.  In particular, an exophytic 15 x 14 mm right interpolar lesion
+     appears to demonstrate peripheral enhancement.
+     
+     The stomach is diffusely distended and filled with contrast.  Multiple
+     proximal small bowel loops are also distended.  An abrupt caliber change
+     within the left lower quadrant suggests a transition point at this level.
+     Contrast flows through to the rectum past the intrapelvic anastomosis,
+     suggesting that the small bowel is only partially obstructed.  Stranding along
+     the anterior abdominal wall, and below the subcutaneous staples is consistent
+     with recent surgery.  No drainable collection is seen.  There is a small
+     amount of high- density intra-abdominal free fluid.  Subcutaneous edema is
+     consistent with volume overload.
+     
+     CT PELVIS WITH ORAL, WITH INTRAVENOUS CONTRAST:  A 38 x 12 mm peripherally
+     enhancing collection extends from the superior iliac spine along the inguinal
+     canal.  There is a small fat-containing right inguinal hernia.  High-density
+     fluid, with hematocrit level layers behind the rectum, possibly related to
+                                                                 (Over)
+
+     DATE: [**3086-10-22**] 5:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4539**]
+     Reason: assess for intra-abdominal abscess/fluid collection         
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     patient's recent surgery.  There is no inguinal or pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  There is an old healed right ischial fracture.  The bones are
+     slightly demineralized.  No suspicious lytic or sclerotic osseous
+     abnormalities are detected.
+     
+     IMPRESSION:
+     1.  Partial small-bowel obstruction, with a focal caliber change in the left
+     lower quadrant suggesting a transition point.
+     2.  Likely postoperative seroma within the right anterior pelvic wall
+     extending to right inguinal canal.  The collection is too small to drain.
+     3.  Findings concerning for fluid overload including minimal abdominal
+     ascites, subcutaneous edema, and bilateral small pleural effusions.
+     4.  Large left adrenal lesion.  Further evaluation with MRI or dedicated CT is
+     recommended.
+     5.  Low- density lesions in bilateral kidneys that are not fully
+     characterized. In particular, one in the right interpolar kidney demonstrates
+     enhancing wall. Further evaluation with ultrasound or MRI is recommended.
+     6. Dense atherosclerosis.
+     
+     These findings were discussed with Dr. [**First Name8 (NamePattern2) 2922**] [**Last Name (NamePattern1) 2923**] at 7:00 p.m. on [**3086-10-22**].
+
+",,
+13906,24036,,,3086-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-22**] 5:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4539**]
+     Reason: assess for intra-abdominal abscess/fluid collection         
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman POD 11 subtotal colectomy with increasing WBC (now 20.9), 
+      afebrile
+     REASON FOR THIS EXAMINATION:
+      assess for intra-abdominal abscess/fluid collection                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female postop day 11 status post subtotal colectomy
+     with increasing white blood cell count.  Evaluate.
+     
+     COMPARISON:  Portable abdomen x-ray dated [**3086-10-20**].
+     
+     TECHNIQUE:  MDCT imaging of the abdomen and pelvis was performed following the
+     administration of 120 cc of intravenous Optiray.  Nonionic contrast was
+     administered per protocol.  Coronal and sagittal reformatted images were
+     obtained.
+     
+     CT ABDOMEN WITH ORAL, WITH INTRAVENOUS CONTRAST:  Small bilateral pleural
+     effusions, right greater than the left are seen at the lung bases, with
+     compressive atelectasis.  The heart is enlarged, and moderate calcifications
+     line the proximal coronary arteries.  The abdominal aorta, and proximal
+     mesenteric vessels are densely calcified.  The liver parenchyma enhances
+     normally.  There is a 5-mm low attenuation lesion at the liver dome, which
+     likely represents a simple cyst, but is not fully evaluated.  The gallbladder
+     is filled with oral contrast, likely due to reflux.  The common bile duct
+     measures up to 10 mm all the way to the pancreatic head.  The imaged pancreas
+     and spleen are unremarkable.  There is a 26 x 13 mm left adrenal nodule, which
+     likely represents an adenoma, but is incompletely characterized on this study.
+     Low attenuation lesions in the kidneys bilaterally are incompletely
+     characterized.  In particular, an exophytic 15 x 14 mm right interpolar lesion
+     appears to demonstrate peripheral enhancement.
+     
+     The stomach is diffusely distended and filled with contrast.  Multiple
+     proximal small bowel loops are also distended.  An abrupt caliber change
+     within the left lower quadrant suggests a transition point at this level.
+     Contrast flows through to the rectum past the intrapelvic anastomosis,
+     suggesting that the small bowel is only partially obstructed.  Stranding along
+     the anterior abdominal wall, and below the subcutaneous staples is consistent
+     with recent surgery.  No drainable collection is seen.  There is a small
+     amount of high- density intra-abdominal free fluid.  Subcutaneous edema is
+     consistent with volume overload.
+     
+     CT PELVIS WITH ORAL, WITH INTRAVENOUS CONTRAST:  A 38 x 12 mm peripherally
+     enhancing collection extends from the superior iliac spine along the inguinal
+     canal.  There is a small fat-containing right inguinal hernia.  High-density
+     fluid, with hematocrit level layers behind the rectum, possibly related to
+                                                                 (Over)
+
+     DATE: [**3086-10-22**] 5:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4539**]
+     Reason: assess for intra-abdominal abscess/fluid collection         
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     patient's recent surgery.  There is no inguinal or pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  There is an old healed right ischial fracture.  The bones are
+     slightly demineralized.  No suspicious lytic or sclerotic osseous
+     abnormalities are detected.
+     
+     IMPRESSION:
+     1.  Partial small-bowel obstruction, with a focal caliber change in the left
+     lower quadrant suggesting a transition point.
+     2.  Likely postoperative seroma within the right anterior pelvic wall
+     extending to right inguinal canal.  The collection is too small to drain.
+     3.  Findings concerning for fluid overload including minimal abdominal
+     ascites, subcutaneous edema, and bilateral small pleural effusions.
+     4.  Large left adrenal lesion.  Further evaluation with MRI or dedicated CT is
+     recommended.
+     5.  Low- density lesions in bilateral kidneys that are not fully
+     characterized. In particular, one in the right interpolar kidney demonstrates
+     enhancing wall. Further evaluation with ultrasound or MRI is recommended.
+     6. Dense atherosclerosis.
+     
+     These findings were discussed with Dr. [**First Name8 (NamePattern2) 2922**] [**Last Name (NamePattern1) 2923**] at 7:00 p.m. on [**3086-10-22**].
+
+",,
+13906,24036,,,3086-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-23**] 9:33 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4541**]
+     Reason: Please eval line placement.  this is a repeat CXR from earli
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old woman s/p left subclavian CVL placement, now pulled back 4 cm.    
+                     
+     REASON FOR THIS EXAMINATION:
+      Please eval line placement.  this is a repeat CXR from earlier today when the 
+      line was in the RA.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     HISTORY:  Line placement.
+     
+     One portable view.  Comparison with the previous study done earlier the same
+     day.  Increased density at the lung bases consistent with atelectasis or
+     consolidation and bilateral pleural effusions persists.  Mediastinal
+     structures are unchanged.  A nasogastric tube and left subclavian catheter
+     remain in place.  The left subclavian central line has been pulled back and
+     now terminates at the level of the superior vena cava.  There is no other
+     significant change.
+     
+     IMPRESSION:  Line placement as described.
+                                                                           
+
+",,
+13906,24036,,,3086-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-23**] 6:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4540**]
+     Reason: s/p line placement                                          
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old woman POD10 c/ post-op pneumonia without symptoms                  
+       
+     REASON FOR THIS EXAMINATION:
+      s/p line placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Pneumonia, line placement.
+     
+     One view.  Comparison with [**3086-10-20**].  There is persistently increased density
+     at the lung bases consistent with atelectasis and/or consolidation and small
+     bilateral pleural effusions.  The heart and mediastinal structures are
+     unchanged.  A left internal jugular catheter has been removed.  A left
+     subclavian catheter has been inserted and terminates at the level of the right
+     atrium.  A nasogastric tube has been inserted and terminates below the
+     diaphragm at the bottom of the image.  There is no other significant change.
+     
+     IMPRESSION:  Line and tube placement as described.
+                                                                           
+
+",,
+13906,24036,,,3086-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-23**] 9:33 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4541**]
+     Reason: Please eval line placement.  this is a repeat CXR from earli
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old woman s/p left subclavian CVL placement, now pulled back 4 cm.    
+                     
+     REASON FOR THIS EXAMINATION:
+      Please eval line placement.  this is a repeat CXR from earlier today when the 
+      line was in the RA.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     HISTORY:  Line placement.
+     
+     One portable view.  Comparison with the previous study done earlier the same
+     day.  Increased density at the lung bases consistent with atelectasis or
+     consolidation and bilateral pleural effusions persists.  Mediastinal
+     structures are unchanged.  A nasogastric tube and left subclavian catheter
+     remain in place.  The left subclavian central line has been pulled back and
+     now terminates at the level of the superior vena cava.  There is no other
+     significant change.
+     
+     IMPRESSION:  Line placement as described.
+                                                                           
+
+",,
+13906,24036,,,3086-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-26**] 1:54 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 4542**]
+     Reason: Evaluate interval change SBO                                
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman s/p Left Colectomy                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate interval change SBO                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old woman after recent subtotal colectomy with findings
+     consistent with a partial small-bowel obstruction on recent CT.
+     
+     COMPARISON:  [**3086-10-22**].
+     
+     FRONTAL ABDOMEN:  Air, stool and contrast is seen within the residual colon.
+     The appearance is similar to the study of four days earlier, and certainly no
+     worse.  No free intraperitoneal air is identified.  No dilated small bowel
+     loops are seen.  Clips are again seen in the epigastrium, and there is a
+     central venous catheter with its tip appearing to overlie the superior vena
+     cava. Small bilateral pleural effusions are seen.
+     
+     IMPRESSION:  Air, stool and contrast in slightly distended colon, without
+     small bowel dilation. The appearance may be slightly better, certainly no
+     worse than the study of four days prior.
+
+",,
+13906,24036,,,3086-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3086-10-28**] 3:48 PM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 4543**]
+     Reason: assess for DVT                                              
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman POD 17 L. colectomy with increased swelling RUE               
+     REASON FOR THIS EXAMINATION:
+      assess for DVT                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  81-year-old woman, postop day #17 post left colectomy with increased
+     right upper extremity swelling.
+     
+     RIGHT UPPER EXTREMITY VENOUS ULTRASOUND STUDY:  Both grayscale and color
+     Doppler ultrasound examinations were performed.  There is normal
+     compressibility of the right internal jugular, subclavian, axillary, brachial,
+     basilic, and cephalic veins.  Normal waveforms and response to augmentation is
+     demonstrated in these vessels.  No intraluminal filling defects are
+     identified.
+     
+     IMPRESSION:  No DVT.
+                                                                           
+
+",,

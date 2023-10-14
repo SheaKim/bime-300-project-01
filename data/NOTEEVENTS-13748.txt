@@ -1,0 +1,545 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13748,24027,,,2574-09-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2574-9-27**]              Discharge Date:   [**2574-10-6**]
+ 
+Date of Birth:  [**2510-7-24**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5418**] 
+Chief Complaint:
+Hypoxia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HPI: Mr [**Known patient lastname 9268**] is a 63 yo male with h/o COPD, asthma, Afib, CAD 
+s/p MI who was transferred to [**Hospital1 19**] from [**Hospital3 708**] 
+yesterday. He went to [**Hospital3 708**] after being found to be 
+hypoxic at home by VNA nurse (per MICU note was 68%). At [**Hospital1 **] he was found to have respiratory acidosis with hypoxia 
+(last ABG 7.31/79/75) and transferred to [**Hospital1 19**]. Patient notes 
+that he is SOB at baseline and wears 2 L O2 NC at home. He notes 
+that he had become increasingly SOB with exertion since Sunday 
+([**9-25**]). He denied chest pain but did notice he had fevers. He 
+has also had a productive cough with yellow/white sputum for [**3-4**] 
+days. He denies nasal congestion or sore throat. Patient was 
+discharge from [**Known patient lastname 9268**] Rehab one week ago, after spending one 
+month there. He had previously spent a week hospitalized at 
+[**Hospital 1036**] hospital for ""a [**Last Name **] problem"". Per MICU note is apperas he 
+had COPD with PNA that required intubation in July. During that 
+hospitalization he was started on prednisone and was tapering 
+off it. 
+ 
+Past Medical History:
+ 
+PMH:  
+COPD (on home O2)  
+Pulm HTN  
+CAD s/p MI and Cath  
+AFib  
+CVA  
+Bipolar Disorder  
+Carotid Stenosis (90% on one side)  
+PVD  
+
+ 
+Social History:
+SH: 100 Pack year smoker (50 years x 2 ppd), quit in July; 
+Ex-alcoholic, quit a few years ago; retired engineer, lives at 
+home with wife and two grown children 
+ 
+Family History:
+ 
+FH: N/C  
+
+ 
+Physical Exam:
+PE on [**2574-9-29**]: 
+96.6 127/55 79 15 ranging 94-95% on NC O2 (recent episode 86% 
+but O2 was off)  
+Gen: Well appearing man sitting in chair, NAD  
+HEENT: MMM, PERRL, EOMI, no oral ulcers  
+CV: irregularly irregular rhythm, No M/R/G, nl S1, S2  
+Lung: Crackles bilateraly with wheezes throughout.  
+Abd: Obese, Soft, + BS, mildy distended, NT, No Masses  
+Ext: [**2-3**]+ pitting edema bilaterally, dusky erythema bilaterally 
+on shins L>R, open blister draining serous fluid on medial 
+aspect of left shin, area was cold to touch, 1+ PT pulses 
+bilaterally  
+
+ 
+Pertinent Results:
+[**2574-9-27**] 04:50PM BLOOD WBC-12.8* RBC-3.50* Hgb-10.1* Hct-32.4* 
+MCV-93 MCH-28.7 MCHC-31.0 RDW-16.5* Plt Ct-328
+[**2574-9-28**] 03:21AM BLOOD WBC-9.0 RBC-3.15* Hgb-9.0* Hct-29.0* 
+MCV-92 MCH-28.6 MCHC-31.1 RDW-16.3* Plt Ct-319
+[**2574-9-28**] 08:02PM BLOOD Hct-26.6*
+[**2574-9-28**] 09:04PM BLOOD Hct-26.6*
+[**2574-9-29**] 05:09AM BLOOD Hct-29.9*
+[**2574-9-30**] 06:35AM BLOOD WBC-13.6*# RBC-3.38* Hgb-9.8* Hct-30.7* 
+MCV-91 MCH-29.0 MCHC-32.0 RDW-15.9* Plt Ct-333
+[**2574-10-1**] 07:11AM BLOOD WBC-13.2* RBC-3.41* Hgb-10.0* Hct-31.2* 
+MCV-92 MCH-29.3 MCHC-32.0 RDW-15.9* Plt Ct-346
+[**2574-10-4**] 07:40AM BLOOD WBC-16.7* RBC-3.55* Hgb-10.5* Hct-32.7* 
+MCV-92 MCH-29.6 MCHC-32.1 RDW-16.0* Plt Ct-343
+[**2574-9-27**] 04:50PM BLOOD Neuts-93.6* Lymphs-5.2* Monos-1.1* 
+Eos-0.1 Baso-0.1
+[**2574-10-4**] 07:40AM BLOOD Plt Ct-343
+[**2574-10-4**] 07:40AM BLOOD PT-17.7* PTT-26.5 INR(PT)-2.2
+[**2574-9-27**] 04:50PM BLOOD PT-31.1* PTT-43.4* INR(PT)-7.3
+[**2574-9-28**] 03:21AM BLOOD PT-32.0* PTT-44.5* INR(PT)-7.7
+[**2574-9-29**] 05:09AM BLOOD PT-23.4* PTT-31.7 INR(PT)-4.0
+[**2574-9-27**] 04:50PM BLOOD Glucose-299* UreaN-19 Creat-1.2 Na-134 
+K-4.5 Cl-90* HCO3-34* AnGap-15
+[**2574-9-28**] 03:21AM BLOOD Glucose-289* UreaN-23* Creat-1.2 Na-136 
+K-4.3 Cl-92* HCO3-35* AnGap-13
+[**2574-9-29**] 05:04AM BLOOD Glucose-285* UreaN-29* Creat-1.3* Na-134 
+K-6.0* Cl-90* HCO3-33* AnGap-17
+[**2574-9-29**] 06:35AM BLOOD Glucose-287* UreaN-27* Creat-1.2 Na-134 
+K-4.1 Cl-90* HCO3-37* AnGap-11
+[**2574-9-30**] 06:35AM BLOOD Glucose-270* UreaN-32* Creat-1.0 Na-137 
+K-4.3 Cl-94* HCO3-36* AnGap-11
+[**2574-10-1**] 07:11AM BLOOD Glucose-234* UreaN-27* Creat-1.1 Na-137 
+K-5.1 Cl-94* HCO3-37* AnGap-11
+[**2574-10-2**] 07:28AM BLOOD Glucose-308* UreaN-28* Creat-1.1 Na-139 
+K-5.0 Cl-93* HCO3-35* AnGap-16
+[**2574-10-3**] 07:11AM BLOOD Glucose-261* UreaN-27* Creat-1.1 Na-139 
+K-5.0 Cl-94* HCO3-39* AnGap-11
+[**2574-10-4**] 07:40AM BLOOD Glucose-243* UreaN-34* Creat-1.1 Na-138 
+K-4.8 Cl-94* HCO3-38* AnGap-11
+[**2574-9-27**] 04:50PM BLOOD CK(CPK)-33*
+[**2574-9-28**] 03:21AM BLOOD LD(LDH)-222 CK(CPK)-16*
+[**2574-9-27**] 04:50PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2574-9-28**] 03:21AM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**2574-10-3**] 07:11AM BLOOD calTIBC-289 Ferritn-148 TRF-222
+[**2574-9-28**] 03:21AM BLOOD Hapto-392*
+[**2574-9-27**] 06:23PM BLOOD pO2-59* pCO2-70* pH-7.35 calHCO3-40* Base 
+XS-9
+[**2574-9-27**] 05:00PM BLOOD Lactate-1.7
+.
+Diagnostic studies:
+CXR [**9-27**]: IMPRESSION: Right lower lobe pneumonia and a small 
+right-sided pleural effusion.
+.
+chest CT [**9-28**]: IMPRESSION:
+1. Diffuse ground glass opacity, small loculated right pleural 
+effusion, and fluid in the left minor fissure findings secondary 
+to diffuse pulmonary edema.
+2. Right lower lobe subsegmental consolidation most consistent 
+with pneumonia and/or resolving pneumonia. Repeat examination in 
+4-6 weeks to ensure resolution is recommended.
+3. Diffuse mild centrilobular and paraseptal emphysema.
+4. Probable anterior chest wall sebaceous cyst.
+(there was a lung nodule seen on this by the MICU team that was 
+not reported in the official report. Dr. [**Last Name (STitle) 9601**], outpatient 
+pulmonologist is aware and will follow)
+ 
+Brief Hospital Course:
+Assessment: 63 yo male with COPD on home O2, h/o recent PNA, 
+Afib, CVA, HTN, CAD s/p MI who presented with hypoxia and 
+metabolic acidosis and found to have RLL. Currently clinically 
+stable with stable O2 sats and in and out of Afib but 
+hemodynamically stable and asymptomatic.  
+.  
+*Hypoxia: The patient was transferred to [**Hospital1 19**] from [**Hospital1 4100**] for hypoxia. Per the MICU note, in the ED the pt was 
+febrile to 101, and found to be in A-flutter with a HR 112 and 
+BP 112/65. His ABG was 7.35/70/59 and WBC was elevated at 12.8. 
+A CXR showed RLL pNA and small right sided pleural effusion. He 
+was transferred to the MICU for observation and remained stable 
+with mild SOB, CP, dizziness. He was treated with Prednisone, 
+Levaquin, albuterol and ipratropium nebs and advair for the PNA 
+and COPD. Nebs elevated sat to 90-100% on O2. Cardiac echo 
+revealed LVEF=55%. He was also found to be in afib/aflutter, 
+which could have contributed to his SOB, thought patient claimed 
+he was asymptomatic.  He was treated with dofetilide and PO 
+diltiazem to help control his rate.  On transfer to the medicine 
+service the patient was not SOB at rest though he could only 
+walk a short while without getting SOB (says this is a big 
+change from last week). Denied dizziness, chest pain, abd pain, 
+N/V. The hypoxia was thought to be secondary to the pneumonia in 
+addition to underlying COPD. Patient was continued on Levaquin 
+and completed a 10 day course.  He was also continued on nebs 
+and 40 mg prednisone and improved.  He was additionally given 
+several doses of lasix which appeared to improve his functional 
+ability. He was discharged on a prednisone taper of 30 mg for 5 
+days and 25 mg for 5 days, with instructions to follow-up with 
+his PCP within one week to have his taper adjusted.  
+.  
+*Afib: Patient was fluctuating in and out of rapid afib 
+throughout his stay. He was asymptomatic, though occasionally he 
+felt more SOB.  He was treated with dofetolide and PO diltiazem 
+with some rate control.  However patient would trend into the 
+120s-160s and required IV diltiazem to bring his rate down. EP 
+was consulted and recommended increasing the PO diltiazem to 90 
+mg and continuing with dofetolide.  If his rate was not 
+controlled they suggested loading with digoxin or amiodarone.  
+Since dofetilide prolongs QT, daily EKGs were obtained to make 
+sure the pt did not have QTc greater than 500.  No additional QT 
+prolonging medications were to be added to his regimen (levaquin 
+and dilt had already been started).  Cr was also closely 
+monitored per pharmacy recs.  He was stable on diltiazem and 
+difetolide and occasionally went back into NSR.  He also had 
+occasional bursts to HR 120s-140s but came back down on his own 
+after several minutes.  He was started on digoxin one day prior 
+to admission and was to follow-up with his PCP for [**Name Initial (PRE) **]/u on his 
+dig levels.  Additionally, his home coumadin was initially 
+stopped b/c he had an INR of >7 at admission.  After INR was 
+below 2, it was re-started at a low dose (5 mg) b/c levaquin can 
+potentiate the effects of coumadin.  He was discharged on 5 mg 
+coumadin qd.
+.  
+*Anemia: Pt's hct was 26-32 during this admission. Baseline hct 
+was not known.  Iron studies showed a normocytic anemia with nl 
+iron, ferritin, TIBC and retics. Patient did not require a 
+transfusion during his stay.
+
+.  
+*Pleural effusion: Patient was found to have a right pleural 
+effusion.In the MICU a diagnostic tap was considered but CT 
+suggested fluid collection too small.  
+.
+*Pulmonary nodule:  A pulmonary nodule was seen by the MICU team 
+on the patient's chest CT.  This was not noted in the CT report. 
+ The patient's outpatient pulmonologist, Dr. [**Last Name (STitle) 9601**], was 
+contacted and noted the nodule was new.  He will follow the 
+nodule as an outpatient.  The patient was sent home with CDs of 
+his radiology images so that Dr. [**Last Name (STitle) 9601**] could review the chest 
+CT.
+.  
+*Hyperglycemia- Patient was hyperglycemic on steroids. Fixed 
+dose insulin was started, initially NPH and then lantus.  
+Metformin was continued.  Patient was discharged on 30 units of 
+lantus sc at bedtime.
+.  
+*Slightly elevated Cr: Cr was 1.2-1.3 initially. Baseline was 
+unknown but was 1.1 later in the admission and not trending up 
+with dofetilide. 
+.  
+*FEN: Cardiac diet. Lytes were repleted PRN.  
+.  
+*PPX: Protonix, coumadin, PT  
+
+ 
+Medications on Admission:
+MEDS: Warfarin 7.5 Daily; Predisone 10 Daily; Zyprexa 15 HS; 
+Advair 250/50 BID; Combivent INH Q6; Tikosyn (Dofetilide) 0.25 
+daily; Wellbutrin 100 BID; Cardizem 60 4x/day; Pepcid 20 Daily; 
+Glucophage 
+ 
+Discharge Medications:
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: 
+One (1)  Inhalation twice a day.  
+2. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+3. Bupropion 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. Olanzapine 15 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+5. Warfarin 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+6. Combivent 103-18 mcg/Actuation Aerosol Sig: One (1)  
+Inhalation every six (6) hours.  
+7. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+8. Dofetilide 250 mcg Capsule Sig: One (1) Capsule PO Q12H 
+(every 12 hours).
+Disp:*60 Capsule(s)* Refills:*1*
+9. Diltiazem HCl 90 mg Tablet Sig: One (1) Tablet PO QID (4 
+times a day).
+Disp:*120 Tablet(s)* Refills:*1*
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+11. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily) for 5 days: Please take 30 mg qd for 5 days then take 25 
+mg qd for 5 days.
+Disp:*15 Tablet(s)* Refills:*0*
+12. Lantus 100 unit/mL Solution Sig: 30  units Subcutaneous at 
+bedtime: Titrate down as prednisone dose is decreased.
+Disp:*qs one month* Refills:*1*
+13. Pepcid 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+14. Insulin Sliding Scale
+Please follow the Regular Insulin sliding scale in the post 
+discharge instructions
+15. Outpatient Lab Work
+Please have your digoxin level, electrolytes and creatinine 
+checked in one week
+16. Lancets,Ultra Thin     Misc Sig: One (1)  Miscell.  four 
+times a day: Please give patient lancets for First Touch 
+Glucometer.
+Disp:*qs one month* Refills:*2*
+17. strips  Sig: One (1)   four times a day: Please give patient 
+test strips for First Touch glucometer.
+Disp:*qs one month* Refills:*2*
+18. Outpatient Lab Work
+Please resume having your INR checked as [**Doctor First Name **] were doing prior to 
+admission.  Your first level should be checked on [**2574-10-10**].
+19. Prednisone 5 mg Tablet Sig: Five (5) Tablet PO once a day 
+for 5 days: Please take the 30mg of prednisone qd for 5 days 
+followed by 25 mg prednisone for 5 days.
+Disp:*25 Tablet(s)* Refills:*0*
+20. Insulin Syringe 0.5cc/28G     Syringe Sig: One (1)  Miscell. 
+ once a day.
+Disp:*qs one month* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Pneumonia
+COPD
+Atrial Fibrillation
+
+ 
+Discharge Condition:
+Stable on 2L NC O2, with DOE, though able to walk a short 
+distance.
+
+ 
+Discharge Instructions:
+Please take your medications as prescribed.
+Please return to the ER or call your doctor if [**Doctor First Name **] have 
+increasing shortness of breath, chest pain, palpitations, 
+dizziness or lightheadedness.
+Please follow up with your primary care doctor by early next 
+week.  He will need to follow your insulin regimen, your 
+prednisone dosing and check your digoxin level.
+ 
+Followup Instructions:
+Please follow-up with your pulmonologist, Dr. [**Last Name (STitle) 9601**], in 1-2 
+weeks.  [**Doctor First Name 54**] will need to take your radiology CD with [**Doctor First Name **] to this 
+appointment.
+.
+Please follow up with your primary care doctor., Dr. [**Last Name (STitle) 3365**], by 
+early next week.  He will need to follow your insulin regimen, 
+your prednisone dosing and check your digoxin level..
+.
+Please resume your prior regimen of having your INR checked.
+.
+
+ 
+                             [**First Name11 (Name Pattern1) 2699**] [**Last Name (NamePattern4) 5427**] MD [**MD Number 5428**]
+ 
+Completed by: [**Doctor First Name 3468**] [**First Name8 (NamePattern2) 3469**] [**Name8 (MD) **] MD [**MD Number 3470**] [**2574-10-17**] @ 2334
+Signed electronically by: DR. [**First Name (STitle) 2699**] [**Doctor Last Name 5430**] [**Location (un) **]
+ on: TUE [**2574-11-8**] 3:04 PM
+(End of Report)
+
+
+",,
+13748,24027,,,2574-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-27**] 4:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3302**]
+     Reason: eval for chf/pna                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with sob                                                        
+     REASON FOR THIS EXAMINATION:
+      eval for chf/pna                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  64-year-old man with shortness of breath.
+     
+     CHEST AP:  An opacity is visualized in the right lower zone with blunting of
+     the costophrenic angle on the right side representing small effusion.  The
+     rest of the lungs are clear.  The heart size, mediastinal and hilar contours
+     are unremarkable.
+     
+     IMPRESSION:  Right lower lobe pneumonia and a small right-sided pleural
+     effusion.
+                                                                           
+
+",,
+13748,24027,17114,0,2574-09-27 21:22:00 EST,2574-09-27 21:58:00 EST,2380,"N",69,"Nursing/Other","MICU NURSING PROGRESS NOTE.  0700-1900","
+MICU NURSING PROGRESS NOTE.  0700-1900
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+
+     Admitted from [**Hospital 5230**] hospital from home c/c of 1 wk cold like sx, sob and diminshed o2 sats.  O2 saturations at home 68% on 2l nc accd. to vna.  Recieving vna after d/c from [**Known patient lastname 5231**] rehab earlier this week s/p long hospitalization for pnx, sepsis.  Upon arrival to [**Hospital **] hospital found to have hr in 130's, temp. 101, cold like sx, sob.  Treated with cardizem, tylenol, levaquin, ceftriaxone, and solumedrol 125mg iv.  Medflighted to [**Hospital1 10**] r/t lack of available icu bed.
+
+     Neuro:  Alert and oriented x 3.  Is able to make needs known verbally and in full sentences. Follows commands.  Able to move all extrem.  2+ lower extrem. edema.  Temp. max. 96.8 oral.
+
+     Respiratory:  Lung sounds are diminished throughout bilat. with i&e wheezes in bases.  O2 saturation on present settings 91-93% on 4l nc.  Was unable to tolerate cpap in e.w. so placed on 4l nc.  Started on q4 hr alb/atr. nebs.  Denies sob, reports feeling at baseline.  Also reports that does get sob with minimal exertion.  Cxr in e.w. showed rll pnx. and sm. rt sided plueral effusion.  Congested cough but no sputum noted.
+
+     CV:  Atrial flutter with no ectopy noted, rate 70's.  Nbp high 90's to low 110's systolic.  2 peripheral i.v.'s patent, ns kvo.    Bc's in the e.w.  Trp in e.w. slightly elevated also.  Noted that inr 7.3, checking for lab error.
+
+     GI/GU:  Abdomen obese with + bs.  Npo except for meds and ice chips.  Voiding in urinal.  No bm this shift.
+
+     Endo:  Niddm on glucophage.
+
+     Integ:  Skin is grossly intact.  Bilat le have brownish discoloration lt greater than rt.  Also pitting edema 2+ bilat le.
+
+     Social:  Son in with father for short period.  Aware of need for hcp.  Wife would be decision maker for pt.  Advised that hcp paper work can be done with them tomm.
+
+     Plan:  Monitor resp. status. alb/atr. nebs every 4 hrs as required.  Recheck inr and hold coumadin.  Possible callout to floor in am.  At present remains full code in micu.
+
+         
+",,
+13748,24027,17114,,2574-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-28**] 12:46 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 3303**]
+     Reason: Longstanding RLL lesion.  Pls evaluate along with COPD eval.
+     Admitting Diagnosis: PNEUMONIA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with PNA on CXR and COPD                                        
+     REASON FOR THIS EXAMINATION:
+      Longstanding RLL lesion.  Pls evaluate along with COPD eval.                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT chest without contrast.
+     
+     INDICATION:  Longstanding right lower lobe lesion, question pneumonia.
+     
+     There is no prior study for comparison.
+     
+     TECHNIQUE:  Multidetector contrast-enhanced CT of the chest following the
+     administration of 90 cc of IV Optiray was performed.
+     
+     CT OF THE CHEST WITH CONTRAST:  There is a small loculated right pleural
+     effusion extending into the right major fissure.  A small amount of fluid is
+     also noted in the left major fissure.  Apical scarring and bullae are seen.
+     Mild diffuse centrilobular and paraseptal emphysema is present. Diffuse ground
+     glass opacities are most consistent with pulmonary edema.  In addition, there
+     is a focus of subsegmental consolidation in the right lower lobe.  Linear
+     opacities are seen at the bases, most consistent with scarring.
+     
+     Mild enlargement of prevascular mediastinal lymph nodes (1.3 cm) and right
+     hilar lymph nodes (1.7 cm) is likely reactive from pulmonary edema.
+     
+     Coronary artery calcifications are present.  There is no pericardial effusion.
+     Thoracic aorta is of normal caliber.  There is a 3 cm oval, well-defined
+     subcutaneous soft tissue nodule just anterior to the mid sternum, most
+     consistent with a sebaceous cyst.
+     
+     Images through the upper abdomen indicate prior cholecystectomy.  No other
+     abnormality seen.
+     
+     IMPRESSION:
+     1.  Diffuse ground glass opacity, small loculated right pleural effusion, and
+     fluid in the left minor fissure findings secondary to diffuse pulmonary edema.
+     2.  Right lower lobe subsegmental consolidation most consistent with pneumonia
+     and/or resolving pneumonia.  Repeat examination in 4-6 weeks to ensure
+     resolution is recommended.
+     3.  Diffuse mild centrilobular and paraseptal emphysema.
+     4. Probable anterior chest wall sebaceous cyst.
+                                                                 (Over)
+
+     DATE: [**2574-9-28**] 12:46 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 3303**]
+     Reason: Longstanding RLL lesion.  Pls evaluate along with COPD eval.
+     Admitting Diagnosis: PNEUMONIA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13748,24027,17114,0,2574-09-28 05:09:00 EST,2574-09-28 05:21:00 EST,6825,"N",69,"Nursing/Other","MICU Nursing Note 2300-0700","
+MICU Nursing Note 2300-0700
+Events:  Uneventful night...states breathing is easier and denies SOB although appears SOB with any activity.  HR converted from Aflutter to SR overnight.  Hemodynamically stable.  Started on Insulin gtt for blood sugars in 200-300 range.
+
+Neuro:  A+Ox3.  Pleasant and appropriate.  Rested in naps all night.  PEARL. Moving all extremities without difficulty.
+
+Cardiac:  HR initially 70-90's Aflutter with occas. PVC---converted to SR 70-90's at approx. 0100.  BP stable 129-135/40-50.  (2) peripheral IV sites patent and intact.  IV NS at KVO.
+
+Resp:  Initially on 4L NC with Sats 85-92%....placed on 50 % cool mist mask with Sats 96-98% and eventually weaned to 35% cool mist mask with Sats 92-99%.  Pt now with prod cough of small thick white sputum.  Having difficulty raising sputum.  Tolerating Nebs.  Lungs diminished throughout with inspiratory and expiratory wheezes at bases.  RR= 18-30.  To have cxr and chest CT today to eval pleural effusion.
+
+GI:  Abd softly distended with + bowel sounds all quads.  Denies pain.  No BM.
+
+GU:  voids in urinal...clear yellow
+
+Skin:  2+ pitting edema bilat lower extremities.  Bilat lower extemities with brownish discoloration noted on shins--no change from previous.
+
+Endo:  fingersticks 200-300's---started on IV insulin gtt and currently titrated up to 5 units/hr with last fingerstick = 267.  Started on IV Solumedrol.
+
+ID: Afebrile with normal WBC.  Started on po Levaquin as ordered.
+
+Social:   As noted....pt's son in during evening hours....no further contact from family overnight.
+
+Plan:  Chest CT scan today.  Cardiac echo today.  Con't aggressive pulmonary toiletting.  Con't Q1 fingersticks and titrate insulin gtt to parameters.  ? Transfer out to floor later today?  Support pt and family.
+",,
+13748,24027,17114,0,2574-09-28 14:39:00 EST,2574-09-28 14:52:00 EST,5600,"N",69,"Nursing/Other","Shift Note 0700-1500","
+Shift Note 0700-1500
+CV: Pt arrived to unit last evening in aflutter, but flipped back into NSR early this am...on diltiazem and dofetilide (Qtc 0.44-0.45). Per MICU intern, hold dofetilide if Qtc >0.45. Coags elevated...patient on coumadin at home and given levaquin. NIBP 120-130/40-50's. Cardiac echo performed at bedside this afternoon. Mg 1.6 and repleted with 2gm Mg Sulfate.
+
+Resp: BBS with inspiratory wheezing, diminished in lower lobes. Productive cough for thick tan secretions. Placed on 4L NC this am to eat breakfast and maintained sats >94%. Desats while sleeping to 85%, but remains asymptomatic. With activity, OOB to chair, noted to desat to 80% and patient appeared slightly SOB. Face mask placed at 35% and sats quickly returned to 93%. Pt had CT Scan of chest to further evaluate since having recurrent PNA. Received contrast dye and encouraged to drink fluids. Glucophage d/c as per radiology x48hrs after receiving contrast dye. 
+
+GI/GU: Abdomen obese, BS present. On cardiac/low NA diet; tolerating diet well. Voiding in bedside urinal. No BM this shift. 
+
+Neuro: Intact, A&O x3. Following commands and pleasant. On Wellbutrin, Olanzapine and bupropion with h/o bipolar and depression. 
+
+Endo: Pt initially on insulin gtt with BS 170-200. Steriods switched and patient converted to SSC. BS still elevated and SSC increased. 
+
+Social: Wife called for updates this afternoon and states that she will be in to visit later. Patient able to speak with her on phone. 
+",,
+13748,24027,17114,0,2574-09-28 17:39:00 EST,2574-09-28 17:40:00 EST,1625,"N",69,"Nursing/Other",,"
+
+resp care
+pt given nebs approx q4h, bs c/w i/e wheezing, pt denies sob, sats high 88-94% on 4lnc. awaiting floor transfer.
+",,
+13748,24027,17114,0,2574-09-29 04:17:00 EST,2574-09-29 04:32:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Events: transfused 1uprbc for HCT of 26.6  Awaiting results of repeat CBC. 
+
+Neuro: A+Ox3, MAE, follows commands consistently. No complaints of pain. PERRL. 
+
+Resp: O2 via n/c at 4L O2 sats in mid 90's. Lung sounds coarse in apices with crackles in bases. MD aware. Expectorating thick tan sputum using yankaur. Q4hr nebs continue.
+
+Cardiac: Episode of rapid afib at start of shift. Given additional 10mg ivp Diltiazem and early administration of standing PO Dilt in effort to convert to NSR. Pt did eventually spontaneously convert to NSR later in shift but seems to have flipped back into afib over last few minutes. B/P has remained stable. (see carevue for specific data.) Dofetilide was held for QTc of .470 
+
+GI: Abd softly distended with positive bowel sounds. No BM this shift. Blood sugars rising to 260. MD notified and increased sliding scale insulin coverage. 
+
+GU: Voiding yellow urine via foley. AM lytes pending. 
+
+Heme: evening HCT 26.6  Tx 1uprbc. Repeat hct pending. 
+
+Derm: PIV x2 intact/patent. Generalized edema [**2-3**]+ continues. 
+
+ID: Afebrile. continues on po levoquin
+
+Plan: Pt is currently called out to floor. Unsure if team will want to keep him in ICU until better control of HR is achieved. Montior Resp status HR and blood sugar. Encourage coughing/deep breating and fluids. oob to chair as tolerated. 
+",,
+13748,24027,17114,0,2574-09-29 17:30:00 EST,2574-09-29 17:32:00 EST,2034,"N",69,"Nursing/Other",,"
+
+update: 
+pt. went into atrial flutter, vent rate in 90's-low 100's. given dilt. 10mg ivp with gradual response. pt. cont. to be in aflutter. pt. is totally asymptomatic. ho aware of situation. 
+",,
+13748,24027,,,2574-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-1**] 12:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3304**]
+     Reason: evaluate possible pneumonia or CHF                          
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old man with COPN and ? PNA on CXR now with increased shortness of 
+      breath, cough.                                                    
+     REASON FOR THIS EXAMINATION:
+      evaluate possible pneumonia or CHF                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST.
+     
+     INDICATION:  Shortness of breath, cough.
+     
+     The heart is at the upper limits of normal in size.  The infiltrate at the
+     right base is again noted similar in appearance to [**2574-9-27**].  The left lung is
+     clear.  
+     
+     IMPRESSION:  Right lower lobe infiltrate unchanged over the past four days.
+
+",,

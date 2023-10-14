@@ -1,0 +1,2326 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3466-3-28**]              Discharge Date:   [**3466-4-3**]
+ 
+Date of Birth:  [**3383-6-2**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2037**] 
+Chief Complaint:
+hypotension, altered mental status
+ 
+Major Surgical or Invasive Procedure:
+ERCP, and biliary stent placement by IR
+ 
+History of Present Illness:
+Ms. [**Known patient lastname 8501**] is an 82 year old woman with pancreatic Ca, gastric 
+outlet obstruction and questionable biliary obstruction, s/p 
+plastic stent in CBD placed by GI several months ago. She was 
+transferred from [**Hospital3 **] for ERCP today with bacteremia and 
+septic picture.  
+She had ERCP today - GI could not cannulate ampula due to mass, 
+placed  duodenal stent. IR wants to confirm biliary obstruction 
++ assess the anatomy before potential PTC tomorrow.  She is 
+admitted to the FICU for hypotension and altered mental status.
+.
+Patient was admitted to [**Hospital6 390**] from a nursing home 
+on [**3466-3-25**] with intractable nausea and vomiting and coffee 
+ground emesis.
+She was to have ERCP as above today to look at possible 
+dudodenal obstruction with potential palliative stenting.
+.
+During the procedure GI doctors made aware by physicians at 
+[**Hospital3 **] that patient had blood cultures growing GNR's.
+.
+On seeing the patient, she is unable to provide much history.
+She has received about 2 liters of normal saline for blood 
+pressure in 80's to 90's.  Throughout ERCP blood pressure had 
+been in this range.
+
+ 
+Past Medical History:
+1. Metastatic pancreatic carcinoma diagnosed in September of 
+2005-CT scan at [**Hospital3 **] done weeks ago showed mets to liver, 
+lungs, and obstruction of portal, splenic veins
+2. GI bleeding--recent, [**3-15**] at [**Hospital3 **], EGD revealed 
+erosive esophagitis and dudoenal inflammation raising concern 
+for duodenal outlet obstruction. 
+3. diabetes mellitus
+4. formerly hypertension
+5. Orthostatic hypotension
+ 
+Social History:
+Resides in skilled nursing facility. No smoking, occasional 
+alcohol, no drug use.
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+Admission:
+VS:  Temp: 98     BP: 90  /55    HR:80  RR:16    98%2l ncO2sat
+
+general: pleasant, comfortable but delirious
+HEENT: PERLLA, EOMI, scleral icterus, no sinus tenderness, 
+MMdry, op without lesions, no supraclavicular or cervical 
+lymphadenopathy, no jvd, no carotid bruits
+lungs: crackles at bases
+heart: RR, S1 and S2 wnl
+abdomen: distended, hypoactive b/s, soft, nt
+extremities: 2+edema, non-tender
+skin/nails: jaundiced
+neuro: AAOx3.  Cn II-XII intact.  
+rectal:deferred
+ 
+Pertinent Results:
+[**3466-3-28**] 02:25PM BLOOD WBC-22.8* RBC-3.08* Hgb-8.7* Hct-26.3* 
+MCV-85 MCH-28.3 MCHC-33.2 RDW-15.1 Plt Ct-64*
+[**3466-3-28**] 09:46PM BLOOD WBC-25.0* RBC-3.48* Hgb-9.3* Hct-28.8* 
+MCV-83 MCH-26.7* MCHC-32.2 RDW-15.0 Plt Ct-62*
+[**3466-3-29**] 06:18AM BLOOD WBC-26.6* RBC-3.70* Hgb-9.9* Hct-31.0* 
+MCV-84 MCH-26.8* MCHC-32.0 RDW-15.0 Plt Ct-71*
+[**3466-3-30**] 04:14AM BLOOD WBC-15.8* RBC-3.14* Hgb-8.6* Hct-26.6* 
+MCV-85 MCH-27.5 MCHC-32.5 RDW-15.4 Plt Ct-57*
+[**3466-3-28**] 02:25PM BLOOD PT-21.0* PTT-48.4* INR(PT)-2.0*
+[**3466-3-28**] 09:46PM BLOOD PT-21.3* PTT-42.8* INR(PT)-2.1*
+[**3466-3-29**] 06:18AM BLOOD PT-21.6* PTT-34.9 INR(PT)-2.1*
+[**3466-3-29**] 05:47PM BLOOD PT-14.6* PTT-27.5 INR(PT)-1.3*
+[**3466-3-30**] 04:14AM BLOOD PT-15.8* PTT-29.1 INR(PT)-1.4*
+[**3466-3-28**] 02:25PM BLOOD Glucose-150* UreaN-20 Creat-0.9 Na-133 
+K-2.9* Cl-102 HCO3-16* AnGap-18
+[**3466-3-28**] 09:46PM BLOOD Glucose-161* UreaN-25* Creat-0.9 Na-146* 
+K-3.4 Cl-113* HCO3-19* AnGap-17
+[**3466-3-29**] 06:18AM BLOOD Glucose-130* UreaN-28* Creat-0.9 Na-131* 
+K->10.0 Cl-126* HCO3-17*
+[**3466-3-29**] 09:32AM BLOOD Glucose-140* UreaN-31* Creat-1.0 Na-142 
+K-3.8 Cl-111* HCO3-17* AnGap-18
+[**3466-3-29**] 05:34PM BLOOD Glucose-121* UreaN-33* Creat-1.0 Na-143 
+K-3.3 Cl-113* HCO3-18* AnGap-15
+[**3466-3-30**] 04:14AM BLOOD Glucose-118* UreaN-33* Creat-0.9 Na-141 
+K-3.5 Cl-114* HCO3-19* AnGap-12
+[**3466-3-28**] 02:25PM BLOOD ALT-67* AST-99* LD(LDH)-307* AlkPhos-242* 
+Amylase-114* TotBili-3.2* DirBili-2.8* IndBili-0.4
+[**3466-3-28**] 09:46PM BLOOD ALT-96* AST-136* LD(LDH)-328* 
+AlkPhos-250* TotBili-3.5*
+[**3466-3-29**] 06:18AM BLOOD ALT-89* AST-110* TotBili-2.4*
+[**3466-3-28**] 09:46PM BLOOD Albumin-2.0* Calcium-7.2* Phos-3.4 
+Mg-1.1*
+[**3466-3-29**] 06:18AM BLOOD Calcium-7.1* Phos-3.2 Mg-2.3
+[**3466-3-29**] 09:32AM BLOOD Calcium-7.6* Phos-3.2 Mg-2.3
+[**3466-3-29**] 05:34PM BLOOD Calcium-7.8* Phos-3.2 Mg-2.3
+[**3466-3-30**] 04:14AM BLOOD Calcium-7.7* Phos-2.2* Mg-2.2
+[**3466-3-28**] 09:46PM BLOOD Cortsol-40.8*
+[**3466-3-28**] 10:36PM BLOOD Cortsol-58.9*
+[**3466-3-28**] 11:40PM BLOOD Cortsol-75.1*
+[**3466-3-28**] 05:25PM BLOOD Type-ART pO2-70* pCO2-29* pH-7.42 
+calHCO3-19* Base XS--3
+[**3466-3-28**] CXR: 1. Right IJ terminates in the lower SVC. No 
+pneumothorax.
+2. Small right pleural effusion and bibasilar atelectasis.
+3. Multiple small nodular opacities in both lungs, suspicious 
+for metastasis. CT may be helpful for further evaluation.
+.
+[**3466-3-28**] CT abd/pelvis: 1. Extrahepatic biliary ductal dilation 
+measuring 9 mm in diameter. Pneumobilia.
+2. Large pancreatic mass with hepatic, splenic, and likely 
+osseous metastases. Common bile duct and duodenal stent.
+.
+[**3466-3-28**] ERCP: Three spot fluoroscopic images were obtained 
+without a radiologist present. The initial scout image 
+demonstrates a plastic biliary stent overlying the right upper 
+quadrant as well as surgical clips at the level of the cystic 
+duct and gallbladder. A guide wire is seen within the duodenum. 
+The final image demonstrates an enteral Wallstent traversing the 
+duodenum with proximal end within the antrum.
+.
+[**3466-3-29**] PTBD: 1. Percutaneous cholangiogram demonstrated mildly 
+distended intrahepatic biliary ducts and severely distended 
+proximal common bile duct with a large filling defect occupying 
+most of the common bile duct and extending to the ampulla. The 
+in situ plastic stent previously placed by gastroenterology was 
+demonstrated within the filling defect in the common bile duct. 
+A plastic stent was partially obstructed.
+2. 10 mm by 94 mm Wallstent was placed across the narrow common 
+bile duct extending from the bifurcation of the common bile duct 
+to the duodenum. Post deployment balloon dilatation of the stent 
+with mm balloon catheter was performed.
+3. An external internal biliary drain was left in place 
+extending from the peripheral branch of the right intrahepatic 
+biliary duct into the duodenum. The biliary drain was capped for 
+internal drainage.
+.
+EKG: no acute changes
+
+ 
+Brief Hospital Course:
+# Pancreatic cancer: Ms. [**Known patient lastname 8501**] has extensive metastatic 
+pancreatic cancer ith gastric outlet obstruction, duodenal 
+obstruction and possible biliary obstruction. She is now s/p 
+stent placement by IR, with drain in place. It drained to her GI 
+tract. The IR team felt that at some point in the coming weeks, 
+her internal stents will become blocked from her disease so they 
+left the external drain in-place.  It can remained plugged until 
+she develops itching or any signs that the stents are clogged.  
+She should have LFT's checked twice a week and if starting to 
+rise, her drain should be unplugged.
+
+# Hypotension:  This was likely secondary to cholangitis/sepsis: 
+with rising LFTs's, tbili, and she has a known biliary 
+obstruction from pancreatic cancer. Her blood cultures from the 
+OSH grew pan-sensitive E Coli. She was initially treated with 
+Zosyn, and admitted to the FICU after hypotension in the ERCP 
+suite. During that procedure, one stent was placed, but was not 
+sufficient to remove the obstruction. Overnight she was treated 
+with IV fluids for hypotension after a central line was placed. 
+She was also briefly on levophed to maintain a MAP > 55. THe 
+following day she had a second stent placement, by IR, and has 
+an external/internal drain in place, draining into the GI tract. 
+After the cultures returned as pan-sensitive E Coli, she was 
+switched from Zosyn to Levaquin, started [**3466-3-29**]. Surveillance 
+blood cultures were drawn [**3-28**], [**3-29**], and [**3-30**], and are all 
+NGTD. Her LFTs were followed, and are trending down. She will 
+complete a 14 day course of the levoquin.  The day of discharge 
+([**3466-4-3**]) was day #[**7-13**].
+
+# Afib: Intially during her stay Ms. [**Known patient lastname 8501**] was going in and out 
+of Afib. She has no known h/o Afib. However, her EKGs showed 
+irregular rhythm at times, and appeared to have P waves at times 
+as well. She cannot be anticoagulated given recent GIB. She was 
+started a low dose beta blocker for HR control
+
+# Recent GI bleeding: Ms [**Known patient lastname 8501**] had recent GIB at OSH, which now 
+appears to be stabilized. We maintained a type and screen, 
+treated her with IV ppi, and followed Q12hr hct. She had a 
+hematocrit drop following her procedure fomr 31 to 27, but then 
+stabalized.  She is being discharged with a hct of 33.
+
+# Diabetes: She was on an insulin sliding scale.
+
+# coaulopathy: secondary to sepsis vs. liver failure vs. dic. 
+DIC labs negative. Followed INR, gave FFP for her IR procedure.
+
+# Code:DNR/DNI--had extensive discussions with [**Doctor First Name 1300**] and [**Doctor First Name 3927**] 
+as well as sister [**Name (NI) **].  They serve as next of [**Doctor First Name **] and health 
+care proxies.  
+
+# Communication: [**Doctor First Name **] [**Telephone/Fax (1) 8502**] is sister, Niece. 
+ 
+Medications on Admission:
+1. midodrine
+2. lipitor
+3. protonix
+4. glyburide
+5. reglan
+6. potassium
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Cholangitis
+Sepsis
+ 
+Discharge Condition:
+Fair
+
+ 
+Discharge Instructions:
+--Please take all medications as prescribed.  [**Doctor First Name 54**] need to finish 
+a course of antibiotices for the infection [**Doctor First Name **] had.
+--Please return to the hospital for any increasing abdominal 
+pain, fevers, or chills.
+--If the patient develops itching or has rising LFT's this would 
+likely indicate that the internal stents in her biliary tract 
+are blocked and her external drain should be unplugged.
+ 
+Followup Instructions:
+--Please see [**Doctor First Name **] primary care doctor (Dr. [**Last Name (STitle) 8503**]) within the 
+next 2-4 weeks.
+
+ 
+                             [**First Name11 (Name Pattern1) 732**] [**Last Name (NamePattern4) 2042**] MD [**MD Number 2043**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2074**] MD [**MD Number 2075**] [**3466-4-3**] @ 1339
+Signed electronically by: DR. [**First Name8 (NamePattern2) 732**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**3466-4-5**] 3:16 PM
+(End of Report)
+
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 11:03 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 12786**]
+     Reason: line adjustment                                             
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old woman with metastatic pancreatic cancer, cholangitis --rij placed  
+      and now adjusted 
+     REASON FOR THIS EXAMINATION:
+      line adjustment                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic pancreatic cancer and cholangitis with right IJ line
+     adjustment.
+     
+     PORTABLE AP CHEST.
+     
+     Comparison done to the film taken two hours earlier.  The right IJ catheter
+     now terminates in the distal SVC.  There is no pneumothorax.  Small right
+     pleural effusion again noted.  Multiple nodular opacities are again seen in
+     both lung fields.  Bibasilar atelectasis is noted.  Heart size is normal.
+     Aorta is tortuous.
+     
+     Note made of barium in the left-sided bowel loops.
+     
+     IMPRESSION:
+     1.  Right IJ terminates in the lower SVC.  No pneumothorax.
+     2.  Small right pleural effusion and bibasilar atelectasis.
+     3.  Multiple small nodular opacities in both lungs, suspicious for metastasis.
+     CT may be helpful for further evaluation.
+     
+     Findings communicated with Dr. [**First Name4 (NamePattern1) 1924**] [**Last Name (NamePattern1) 12787**].
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 11:03 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 12786**]
+     Reason: line adjustment                                             
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old woman with metastatic pancreatic cancer, cholangitis --rij placed  
+      and now adjusted 
+     REASON FOR THIS EXAMINATION:
+      line adjustment                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic pancreatic cancer and cholangitis with right IJ line
+     adjustment.
+     
+     PORTABLE AP CHEST.
+     
+     Comparison done to the film taken two hours earlier.  The right IJ catheter
+     now terminates in the distal SVC.  There is no pneumothorax.  Small right
+     pleural effusion again noted.  Multiple nodular opacities are again seen in
+     both lung fields.  Bibasilar atelectasis is noted.  Heart size is normal.
+     Aorta is tortuous.
+     
+     Note made of barium in the left-sided bowel loops.
+     
+     IMPRESSION:
+     1.  Right IJ terminates in the lower SVC.  No pneumothorax.
+     2.  Small right pleural effusion and bibasilar atelectasis.
+     3.  Multiple small nodular opacities in both lungs, suspicious for metastasis.
+     CT may be helpful for further evaluation.
+     
+     Findings communicated with Dr. [**First Name4 (NamePattern1) 1924**] [**Last Name (NamePattern1) 12787**].
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 9:21 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 12784**]
+     Reason: right ij placement                                          
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with metastatic pancreatic cancer, cholangitis --rij placed   
+     REASON FOR THIS EXAMINATION:
+      right ij placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic pancreatic cancer, right IJ placement.
+     
+     PORTABLE AP CHEST.
+     
+     The right IJ catheter is in the proximal right atrium.
+     
+     The heart size is normal.  The aorta is tortuous.  There is a small right
+     pleural effusion.  Right basilar atelectasis is noted.  Multiple nodular
+     opacities are seen in both lung fields.
+     
+     IMPRESSION:
+     
+     1.  Nodular opacities measuring 6-8 mm in both lung fields, suspicious for
+     metastasis. CT scan may be helpful for further evaluation.
+     2.  Small pleural effusion.
+     3.  Right IJ line terminates in the proximal right atrium.
+     
+     Findings communicated to Dr. [**First Name (STitle) 12785**].
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 2:10 PM
+     ERCP BILIARY ONLY BY GI UNIT                                    Clip # [**Clip Number (Radiology) 12782**]
+     Reason: Metallic stent placement.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman s/p ERCp with plastic biliary stent placement for biliary 
+      stricture. Now with symptoms of gastric outlet obstruction. Presents for
+      conversion of plastic to metallic stent and potential enteral stent deployment.
+     REASON FOR THIS EXAMINATION:
+      Metallic stent placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old female, status post stenting of biliary stricture, now
+     with symptoms of gastric outlet obstruction.
+     
+     COMPARISON:  ERCP, [**3465-9-1**].
+     
+     ERCP:  Three spot fluoroscopic images were obtained without a radiologist
+     present.  The initial scout image demonstrates a plastic biliary stent
+     overlying the right upper quadrant as well as surgical clips at the level of
+     the cystic duct and gallbladder.  A guide wire is seen within the duodenum.
+     The final image demonstrates an enteral Wallstent traversing the duodenum with
+     proximal end within the antrum.
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 2:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12783**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: biliary  obstruction                                        
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic Ca with gastric outlet obstruction and 
+      questionable biliary obstr, s/p plastic stent in CBD placed by GI several 
+      months ago. She presented for ERCP doday with bacteremia and septic picture. 
+      She had  ERCP today - GI could not cannulate ampula duw to mass, placed 
+      duadenal stent. IR wants to confirm biliary obstruction + assess the anatomy 
+      before PTC
+     REASON FOR THIS EXAMINATION:
+      biliary  obstruction                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old woman with pancreatic carcinoma and gastric outlet
+     obstruction with questionable biliary obstruction status post plastic stent in
+     the common bile duct several months ago, now septic.
+     
+     COMPARISON:  ERCP from [**3465-9-1**].
+     
+     TECHNIQUE:  Contrast enhanced CT imaging of the abdomen and pelvis was
+     reviewed.
+     
+     CT ABDOMEN WITH CONTRAST:  Multiple small 3- to 5-mm pulmonary nodules are
+     identified in both lungs, no comparison is available.  Ill-defined patchy
+     ground-glass opacities are also present in both lungs.  A very small right
+     pleural effusion is present.  There is evidence for at least one metastatic
+     lesion in the liver that measures 7 mm in the right lobe.  A 1.3 cm cyst is
+     present within the left lobe.  Near the dome of the liver is another area of
+     possible metastatic standing, moderate ascites is present around the liver.
+     Intrahepatic bile ducts are dilated measuring up to 9 mm in diameter.
+     Pneumobilia is also present.  Common bile ducts may dilate further just
+     superior to the common bile duct stent, though this is somewhat limited given
+     artifact from the stent and dense contrast in the left colon from a previous
+     contrast study.  Duodenal stent identified as it courses through a large
+     pancreatic mass measuring over 12 cm in diameter. A 3-cm hypodense lesion
+     likely metastasis is present within the spleen. The kidneys enhance and
+     excrete normally. Again, evaluation of the mid abdomen is compromised
+     secondary to marked artifact from condensed previous contrast in the left
+     colon. Anasarca of the soft tissues is noted.  Small bowel loops are normal
+     caliber.
+     
+     CT PELVIS WITH CONTRAST:  The majority of the pelvis cannot be evaluated
+     secondary to dense contrast artifact.  A Foley is visualized in the bladder.
+     The uterus appears normal.  There is small amount of fluid in the pelvis.
+     
+     BONE WINDOWS:  A 1.3 cm hypodense focus in the left ilium is concerning for
+     metastatic involvement.  Other hypodense lesions in the vertebral bodies of
+     the thoracic spine represent either metastases or possibly hemangiomas.
+                                                                 (Over)
+
+     DATE: [**3466-3-28**] 2:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12783**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: biliary  obstruction                                        
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  Extrahepatic biliary ductal dilation measuring 9 mm in diameter.
+     Pneumobilia.
+     2.  Large pancreatic mass with hepatic, splenic, and likely osseous
+     metastases.  Common bile duct and duodenal stent.
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 2:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12783**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: biliary  obstruction                                        
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic Ca with gastric outlet obstruction and 
+      questionable biliary obstr, s/p plastic stent in CBD placed by GI several 
+      months ago. She presented for ERCP doday with bacteremia and septic picture. 
+      She had  ERCP today - GI could not cannulate ampula duw to mass, placed 
+      duadenal stent. IR wants to confirm biliary obstruction + assess the anatomy 
+      before PTC
+     REASON FOR THIS EXAMINATION:
+      biliary  obstruction                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old woman with pancreatic carcinoma and gastric outlet
+     obstruction with questionable biliary obstruction status post plastic stent in
+     the common bile duct several months ago, now septic.
+     
+     COMPARISON:  ERCP from [**3465-9-1**].
+     
+     TECHNIQUE:  Contrast enhanced CT imaging of the abdomen and pelvis was
+     reviewed.
+     
+     CT ABDOMEN WITH CONTRAST:  Multiple small 3- to 5-mm pulmonary nodules are
+     identified in both lungs, no comparison is available.  Ill-defined patchy
+     ground-glass opacities are also present in both lungs.  A very small right
+     pleural effusion is present.  There is evidence for at least one metastatic
+     lesion in the liver that measures 7 mm in the right lobe.  A 1.3 cm cyst is
+     present within the left lobe.  Near the dome of the liver is another area of
+     possible metastatic standing, moderate ascites is present around the liver.
+     Intrahepatic bile ducts are dilated measuring up to 9 mm in diameter.
+     Pneumobilia is also present.  Common bile ducts may dilate further just
+     superior to the common bile duct stent, though this is somewhat limited given
+     artifact from the stent and dense contrast in the left colon from a previous
+     contrast study.  Duodenal stent identified as it courses through a large
+     pancreatic mass measuring over 12 cm in diameter. A 3-cm hypodense lesion
+     likely metastasis is present within the spleen. The kidneys enhance and
+     excrete normally. Again, evaluation of the mid abdomen is compromised
+     secondary to marked artifact from condensed previous contrast in the left
+     colon. Anasarca of the soft tissues is noted.  Small bowel loops are normal
+     caliber.
+     
+     CT PELVIS WITH CONTRAST:  The majority of the pelvis cannot be evaluated
+     secondary to dense contrast artifact.  A Foley is visualized in the bladder.
+     The uterus appears normal.  There is small amount of fluid in the pelvis.
+     
+     BONE WINDOWS:  A 1.3 cm hypodense focus in the left ilium is concerning for
+     metastatic involvement.  Other hypodense lesions in the vertebral bodies of
+     the thoracic spine represent either metastases or possibly hemangiomas.
+                                                                 (Over)
+
+     DATE: [**3466-3-28**] 2:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12783**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: biliary  obstruction                                        
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  Extrahepatic biliary ductal dilation measuring 9 mm in diameter.
+     Pneumobilia.
+     2.  Large pancreatic mass with hepatic, splenic, and likely osseous
+     metastases.  Common bile duct and duodenal stent.
+
+",,
+13084,8506,,,3466-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-28**] 2:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12783**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: biliary  obstruction                                        
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic Ca with gastric outlet obstruction and 
+      questionable biliary obstr, s/p plastic stent in CBD placed by GI several 
+      months ago. She presented for ERCP doday with bacteremia and septic picture. 
+      She had  ERCP today - GI could not cannulate ampula duw to mass, placed 
+      duadenal stent. IR wants to confirm biliary obstruction + assess the anatomy 
+      before PTC
+     REASON FOR THIS EXAMINATION:
+      biliary  obstruction                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old woman with pancreatic carcinoma and gastric outlet
+     obstruction with questionable biliary obstruction status post plastic stent in
+     the common bile duct several months ago, now septic.
+     
+     COMPARISON:  ERCP from [**3465-9-1**].
+     
+     TECHNIQUE:  Contrast enhanced CT imaging of the abdomen and pelvis was
+     reviewed.
+     
+     CT ABDOMEN WITH CONTRAST:  Multiple small 3- to 5-mm pulmonary nodules are
+     identified in both lungs, no comparison is available.  Ill-defined patchy
+     ground-glass opacities are also present in both lungs.  A very small right
+     pleural effusion is present.  There is evidence for at least one metastatic
+     lesion in the liver that measures 7 mm in the right lobe.  A 1.3 cm cyst is
+     present within the left lobe.  Near the dome of the liver is another area of
+     possible metastatic standing, moderate ascites is present around the liver.
+     Intrahepatic bile ducts are dilated measuring up to 9 mm in diameter.
+     Pneumobilia is also present.  Common bile ducts may dilate further just
+     superior to the common bile duct stent, though this is somewhat limited given
+     artifact from the stent and dense contrast in the left colon from a previous
+     contrast study.  Duodenal stent identified as it courses through a large
+     pancreatic mass measuring over 12 cm in diameter. A 3-cm hypodense lesion
+     likely metastasis is present within the spleen. The kidneys enhance and
+     excrete normally. Again, evaluation of the mid abdomen is compromised
+     secondary to marked artifact from condensed previous contrast in the left
+     colon. Anasarca of the soft tissues is noted.  Small bowel loops are normal
+     caliber.
+     
+     CT PELVIS WITH CONTRAST:  The majority of the pelvis cannot be evaluated
+     secondary to dense contrast artifact.  A Foley is visualized in the bladder.
+     The uterus appears normal.  There is small amount of fluid in the pelvis.
+     
+     BONE WINDOWS:  A 1.3 cm hypodense focus in the left ilium is concerning for
+     metastatic involvement.  Other hypodense lesions in the vertebral bodies of
+     the thoracic spine represent either metastases or possibly hemangiomas.
+                                                                 (Over)
+
+     DATE: [**3466-3-28**] 2:44 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 12783**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: biliary  obstruction                                        
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1.  Extrahepatic biliary ductal dilation measuring 9 mm in diameter.
+     Pneumobilia.
+     2.  Large pancreatic mass with hepatic, splenic, and likely osseous
+     metastases.  Common bile duct and duodenal stent.
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,,3466-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 47511 INTRO PERC TRNASHEPATIC STENT  47556 BILIARY STRICTURE DILATION WIT*
+     * -51 MULTI-PROCEDURE SAME DAY         47500 PERC TRANSHEPATIC CHOLANGIOGRA*
+     * -51 MULTI-PROCEDURE SAME DAY         75982 CATH/STENT FOR INT/EXT BILIARY*
+     * 74363 BILIARY STRICTURE DILATION NO  -59 DISTINCT PROCEDURAL SERVICE     *
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            STENT NOCOAT.NOCOVER W/[**Doctor First Name 319**] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer, biliary and gastric obstruction, gram 
+      negative bacteremia
+     REASON FOR THIS EXAMINATION:
+      drainage for biliary sepsis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pancreatic cancer.  Biliary obstruction.  Cholangitis.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3070**] and Dr. [**Last Name (STitle) 397**].  Dr. [**Last Name (STitle) 397**] was present
+     throughout the procedure and supervising.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented, placed supine on
+     the angiographic table, and prepped.  General anesthesia was established by
+     the anesthesia team.  1% lidocaine was also administered and a 21-gauge Chiba
+     needle was advanced into the liver parenchyma.  Multiple passes were made
+     until cannulation of the left intrahepatic duct was achieved.  Contrast was
+     then injected, and a cholangiogram was performed.  The cholangiogram
+     demonstrated mild dilatation of the intrahepatic biliary tree with moderate-
+     to-severe dilatation of proximal common bile duct. The distal CBD was not
+     opacified. An additional 21- gauge Chiba needle was advanced under
+     fluoroscopic guidance into one of the opacified peripheral branches of the
+     right intrahepatic bile duct. A successful cannulation of the duct was
+     confirmed when a 0.018 Glidewire was advanced into the bile duct. An inner
+     dilator of the Accustick system was then advanced over the Glidewire and the
+     Glidewire was exchanged for a stiff 0.018 mandril wire, which was placed into
+     the common bile duct. The inner dilator of the Accustick system was removed
+     and then the outer sheath of the Accustick system was advanced into the common
+     bile duct as the metallic stylet was removed. 0.018-guidewire was removed, and
+     a cholangiogram was again performed injecting large amount of contrast slowly
+     via the Accustick introducer. Cholangiogram demonstrated again marked
+     dilatation of the proximal common bile duct with an abrupt large filling
+     defect showing an apple core appearance and surrounding the in situ plastic
+     stent previously placed by the gastroenterologist. A small amount of contrast
+     passed via the metallic stent into the duodenum. A Wallstent was visualized in
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the duodenum, its distal extent crossing the ampulla where the distal tip of
+     the plastic stent was located. A Glidewire 0.035 was then introduced into the
+     Accustick introducer and advanced through the common bile duct into the
+     duodenum.  The Accustick introducer was exchanged for 7-French bright tip
+     angiographic introducer sheath and a curved guiding catheter 4- French was
+     advanced over the wire via the angiographic introducer sheath into the
+     duodenum.  The Glidewire was exchanged for a super stiff exchange length
+     Amplatz wire, and the guiding catheter was removed.  A 10 mm by 94 mm
+     Wallstent deployment device was then advanced over the wire and positioned at
+     the level of the common bile duct stenosis.  The stent was deployed extending
+     with its distal tip into the duodenum and with its proximal tip close to the
+     bifurcation of the common bile duct.  The stent deployment device was then
+     exchanged for a 8 mm x 4 cm angiographic balloon angioplasty catheter with
+     subsequent balloon dilatation of the deployed stent.  The balloon angiographic
+     catheter was removed and contrast was injected via the 7-French introducer
+     sheath confirming patency of the newly deployed Wallstent.  The angiographic
+     introducer sheath was then exchanged over the wire for a 8-French biliary
+     drain forming its end pigtail in the duodenum.  The external internal biliary
+     drain was secured to the skin with 0 silk stitch and StatLock device.  Sterile
+     dressing was applied.  The catheter was capped.
+     
+     The patient was extubated on the table by the anesthesia team and transported
+     to the ICU in the same condition as before the procedure.
+     
+     IMPRESSION:
+     
+     1.  Percutaneous cholangiogram demonstrated mildly distended intrahepatic
+     biliary ducts and severely distended proximal common bile duct with a large
+     filling defect occupying most of the common bile duct and extending to the
+     ampulla.  The in situ plastic stent previously placed by gastroenterology was
+     demonstrated within the filling defect in the common bile duct.  A plastic
+     stent was partially obstructed.
+     
+     2.  10 mm by 94 mm Wallstent was placed across the stenotic common bile duct
+     extending from the bifurcation of the common bile duct to the duodenum.  Post
+     deployment balloon dilatation of the stent with 8 mm balloon catheter was
+     performed.
+     
+     3.  An external internal biliary drain was left in place extending from the
+     peripheral branch of the right intrahepatic biliary duct into the duodenum.
+     The biliary drain was capped for internal drainage.
+     
+                                                                 (Over)
+
+     DATE: [**3466-3-29**] 2:09 PM
+     PTBD                                                            Clip # [**Clip Number (Radiology) 12788**]
+     Reason: drainage for biliary sepsis                                 
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13084,8506,16304,0,3466-03-29 02:22:00 EST,3466-03-29 03:34:00 EST,6176,"N",69,"Nursing/Other",,"
+
+ADMISSION NOTE: 
+
+THE PT IS A 82Y/O FEMALE ADMIT ON [**3-28**] FROM THE ERCP DEPT, W/ A QUESTION OF SEPSIS. SHE WAS [**Hospital6 **]. AND WAS TX TO [**Hospital1 10**] FOR A ERCP. THE ERCP WAS NOT PREFORMED SECONDARY TO A LARGE PANCREATIC MASS. A DUODENAL STENT WAS PLACED. 
+
+HX: PANCREATIC CA W/ GASTRIC OUTLET OBSTRUCTION AND A QUESTION OF A BILIARY OBSTRUCTION, S/P STENT.
+
+PMH: METASTATIC PANCREATIC CA DX [**9-4**], SHE HAS METS TO LIVER,LUNGS,AND OBSTRUCTION OF PORTAL,SPLENIC VEINS,GI BLEEDING EDG SHOW EROSIVE ESOPHAGITIS AND DUDENAL INFLAMMATION,DIABETIES MELLITIS, HTN, ORTHOSTATIC HYPOTENSION.
+
+ALLERGIES: NKDA
+
+NEURO: SHE IS A/OX1. SHE DENIES PAIN. SHE IS ABLE TO MAE. PUPIL 3MM AND BRISK. 4 SIDE RAILS UP SECONDARY RISK FOR FALLS.
+
+RESP: LS DIMINSHED BILAT. SHE IS ON 2L NC W/ SATS 97%. WITHOUT O2 HER SATS ARE 90-92%>
+
+CV: AT THE START OF THE SHIFT SHE WAS NSR. SHE CONVERTED TO AF W/HR 80'S. EKG OBTAINED. ICU TEAM AWARE. HER B/P WAS IN THE 80'S. NS FLUID BOLUS 250CC GIVEN. HER CVP WAVE FORM IS FLAT. THE NUMBER RANGE FROM -1 TO 10.  AT 2400 HER B/P WENT DOWN TO 70'S W/ MAPS OF 54. LEVOPHED 0.030MCG/KG/MIN WAS STARTED. ALSO A NS BOLUS 250CC WAS GIVEN. 
+
+GI/GU: SHE HAD A CT ABD,PELVIS. THE IMPRESSION IS BILIARY DUCT DILATION OF 9MM. SHE HAS A LAREG PANCREATIC MASS W/ HEPATIC,SPLENIC,AND LIKELY OSSEOUS METASTASES. SHE HAS A COMMON [**Last Name (un) 4410**] DUCT AND DUODENAL STENT. ABD SOFT W/ + BS. SMALL BM, WHICH WAS GUIAC +. FOLEY CATH W/ 20CC/HR.
+
+LYTES: MG 1.1. MAGNESIUM SULFATE 4 GM IV WENT UP AT 0345. K 3.4. POTASSIUM 60MEQ IV. CA 7.2. CALCIUM GLUCONATE 2GM IV. 
+
+POC: DRN/DNI.  NPO FOR PALLIATIVE STENT PLACEMENT IN BILIARY TREE.
+PROCEDURE WAS DISCUSED WITH [**Doctor First Name **] AND [**Doctor First Name **]. HER SISTER [**Name (NI) 4411**] IS HEALTH CARE PROXIES, AND CONSENT TO PROCEDURE.              
+
+                
+",,
+13084,8506,16304,0,3466-03-29 18:18:00 EST,3466-03-29 18:36:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+ Sepsis: Afebrile..antibiotic changed to levofloxacin to cover e-coli in BC from [**Hospital3 **] Hosp. New cultures sent today.
+BP has been 90-130's/60-70..Remains off pressors. Unable to follow CVP..poor tracing.. Pt went to IR late afternoon..stint placed in CBD because of obstruction d/t pancreatic mass. Is draining internally..no drainage bag required.
+Post-procedure: Pt returned from IR 1700..did require intubation for general anesthesia..now extubated prior to return to ICU..is alert..talking (confused).+gag..Pt states she has no pain.
+Has DSD right quadrant..with capped plug.Small amt red oozing on dsg..marked..HO aware and called IR MD. Will watch. Hct am was 31..now 27..however has had multiple fluid boluses thru-out day..??recheck later this eve.
+Pt also recieved 3u FFP prior to procedure for INR 2.1..repeat pnd.
+ GU: Still with low u/o..total 2500cc NS this shift (including IR)..HO aware..Pt c/o thirst.
+ GI: c/o hunger and thirst..tiny stool..
+ Neuro: Alert/mostly disorientated..pleasant and cooperative..??may require wrist restraints later at noc..MAE..
+ Social: Sister and neice called..neice in to visit.
+
+",,
+13084,8506,16304,0,3466-03-30 05:18:00 EST,3466-03-30 05:24:00 EST,830,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ALERT BUT ORIENTED ONLY TO NAME. PT PLEASANTLY CONFUSED. VERY COOPERATIVE AND PLEASANT. NO C/O PAIN AND MOVES AROUND IN BED WITH MINIMAL HELP. PT NOT RESTRAINED, BED ALARM ON. PT HAS MADE NO ATTEMPTS TO GET OOB. 
+
+RESP: PT WITH 4LNC WITH O2 SAT'S IN HIGH 90'S TO 100%. LUNG SOUNDS CLEAR THROUGHOUT. 
+
+CV: PT IN NSR WITH RATES IN THE 70'-80'S. BP WITHIN NORMAL LIMITS THROUGHOUT THE NIGHT. AFEBRILE. 
+
+GI: PT TAKING LIQUIDS WITHOUT DIFF. ABD SOFT/WITH HYPOACTIVE BOWEL SOUNDS. NO STOOL OVERNIGHT. PT S/P CBD STENT WHICH IS DRAINING INTERNALLY. DRESSING CH'D X 1 FOR MOD AMT'S OF THIN SEROSANGUENOUS FLUID. DSD REAPPLIED. 
+
+GU: FOLEY CATH PATENT DRAINING SM AMT'S OF YELLOW URINE WITH SOME SEDIMENT NOTED. 
+
+SKIN: NO BREAKDOWN NOTED. 
+
+ENDO: NO SSRI REQUIRED OVERNIGHT. 
+
+SOCIAL: FAMILY MEMBER VISITED EARLIER IN THE NIGHT. 
+",,
+13084,8506,16304,0,3466-03-30 14:13:00 EST,3466-03-30 14:20:00 EST,1445,"N",69,"Nursing/Other",,"
+
+0700-1500 NPN
+See carevue for subjective/objective data.
+Neuro:  Remains confused to place and time.  Speech clear.  MAE ad lib.  Repeated attempts to orient pt to place and time however pt remains confused.
+
+CV/Pulm:  MP=NSR, no ectopy noted.  No AFib this shift.  Pts u/o low therefore central line transduced to CVP--CVP 0-1.  Intern notified, pt received 500ml NS bolus with no change in u/o.  Intern paged for further orders.  VSS.  Remains on NP at 4l with clear breath sounds bil.  No SOB or DOE noted.  R TLC patent.  PIV x2 patent.  
+
+GI/GU:  Abd soft, tender to palpation.  Hypoactive bowel sounds.  CBD stent with internal drain in place.  Dsg saturated at 1400, changed with DSD applied.  No flatus, no BM.  U/O low as noted above--NS bolus given with minimal increase in u/o--awaiting further orders.  
+
+ID/EndoInteg:  Afebrile.  Remains on Levaquin.  No insulin coverage required this shift.  Skin intact.
+
+Psychosocial/Plan:  Emotional support given to pt.  Spoke with niece via phone.  Plan is for ? further boluses for low u/o, cont to monitor CVP while in MICU.  Reorient to place and time.  Monitor VS, breath sounds, I+O.  Pt has been called out to medical floor--awaiting bed availability.  Remains DNR/DNI.  
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 4:43 PM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 12790**]
+     Reason: R/O DVT/LUE SWELLING
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 yo F with metastatic pancreatic cancer admitted with biliary obstructino and 
+      cholangitis. Now with enlarging LUE. Concern for DVT. 
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  An 82-year-old female with metastatic pancreatic cancer, now with
+     enlarging left upper extremity and concern for deep venous thrombosis.
+     
+     LEFT UPPER EXTREMITY ULTRASOUND:  [**Doctor Last Name **]-scale and Doppler sonograms of the left
+     internal jugular, subclavian, axillary, brachial and basilic veins were
+     performed.  The cephalic vein could not be identified.  Normal flow,
+     waveforms, and compressibility are demonstrated. There is no evidence of deep
+     venous thrombosis.
+     
+     IMPRESSION:  No DVT in the left upper extremity.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 47525 CHANGE PERC BILIARY DRAINAGE C 78 RELATED PROCEDURE DURING POSTOPER*
+     * 47500 PERC TRANSHEPATIC CHOLANGIOGRA 78 RELATED PROCEDURE DURING POSTOPER*
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74320 PERC TRANSHEPATIC CHOLANGIOGRA CATHETER, DRAINAGE                  *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with pancreatic cancer and cholangitis                        
+     REASON FOR THIS EXAMINATION:
+      please remove ext/int drain                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with pancreatic cancer and cholangitis.  The
+     patient had a right-sided percutaneous transhepatic biliary drainage (PTBD)
+     and placement of a metallic common bile duct (CBD) stent last week.  The
+     patient's bilirubin has normalized to the level of 1.1. The patient has a
+     white blood cell count of 8.4 and has been afebrile.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 914**] [**Name (STitle) 915**] and [**Doctor First Name 132**] [**Doctor Last Name 107**] d'Othee with Dr. [**Last Name (STitle) 107**]
+     [**Name (STitle) 108**], the attending radiologist, present and supervising during the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Following written informed consent, the patient was
+     positioned supine on the angiography table.  A preprocedure timeout was
+     performed to confirm patient, procedure and site.  Standard sterile prep and
+     drape of the right side of the abdomen and in situ biliary drainage catheter.
+     The retaining suture was cut and the catheter was cut to release the locking
+     loop. A 0.035-inch guidewire was advanced through the catheter into the
+     duodenum using fluoroscopic guidance.  The in situ catheter was removed.  A 7-
+     French [**Last Name (un) 3306**]-tip vascular sheath was placed over the guidewire into the
+     intrahepatic biliary tree.  Cholangiography was performed through the sheath
+     demonstrating nondilated intrahepatic bile ducts with mild central biliary
+     ductal dilation. The superior aspect of the common duct is dilated.  The in
+     situ plastic CBD stent is opacified throughout its length with contrast and
+     appears patent. There has been partial in-stent restenosis of metallic CBD
+     stent.  There is some flow of contrast from the intrahepatic biliary tree
+     through the metallic stent into the bowel.  Overall, there is drainage of the
+     intrahepatic biliary tree into the bowel.
+     
+     However, based on the findings of the diagnostic cholangiogram, it was
+     determined that it likely was not prudent to remove the internal-external
+     biliary drainage catheter at this time.  Prior to removal of the internal-
+     external biliary drainage catheter a repeat angioplasty of the common bile
+     duct and extension of the common duct stent more superiorly could be of use.
+     This case will be discussed with the Clinical Service.
+     
+                                                                 (Over)
+
+     DATE: [**3466-4-2**] 9:41 AM
+     CATH CHEK/REMV                                                  Clip # [**Clip Number (Radiology) 12789**]
+     Reason: please remove ext/int drain                                 
+     Admitting Diagnosis: BILIARY COLIC\PERCUTANEUOS BILIARY DRAINAGE
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Given the findings of the diagnostic cholangiogram, a new 8-French internal-
+     external biliary drainage catheter was placed over the guidewire and the
+     guidewire was removed. The locking loop was formed in the duodenum.  The most
+     superior sidehole was positioned within the intrahepatic biliary tree.  The
+     catheter was sutured in place with an 0 silk suture and fixated with a
+     StatLock device. A sterile dressing was applied.  The catheter was capped as
+     there was appropriate internal drainage.  If the patient experiences any signs
+     of cholangitis, jaundice or increasing bilirubin, then the catheter can be
+     uncapped and attached to straight bag drainage.
+     
+     IMPRESSION:  The intrahepatic biliary tree does drain to the bowel through the
+     in situ stents.  The plastic common bile duct stent appears patent.  The
+     metallic stent has partial in-stent restenosis.  Based on the findings of the
+     diagnostic cholangiogram it was determined that removal of the internal-
+     external biliary drainage catheter is likely not prudent at this time.
+
+",,
+13084,8506,,,3466-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

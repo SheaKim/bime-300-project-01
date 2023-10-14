@@ -1,0 +1,353 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13026,19846,,,2643-09-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2643-9-4**]     Discharge Date:  [**2643-9-11**]
+
+Date of Birth:   [**2581-8-20**]     Sex:  M
+
+Service:
+
+DISCHARGE INSTRUCTIONS:  (Wound care as follows)
+1.  Clean all areas of flap and donor site with saline gauze.
+2.  Continue xeroform q.d. to flap and donor site.
+3.  Physical activity is limited to prevent the patient from
+especially moving his head and neck; including no extraneous
+neck flexion of extension to prevent injury to the neck flap.
+
+
+
+
+
+                          [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) **], M.D.  [**MD Number 8424**]
+
+Dictated By:[**Last Name (STitle) 8425**]
+
+MEDQUIST36
+
+D:  [**2643-9-11**]  15:30
+T:  [**2643-9-16**]  08:30
+JOB#:  [**Job Number 3983**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 15**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**2643-9-18**] 1:23 PM
+(End of Report)
+
+
+",,
+13026,19846,16205,0,2643-09-05 06:14:00 EST,2643-09-05 06:46:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Admission Note","
+T/SICU Nursing Admission Note
+Mr. [**Known patient lastname 4325**] is a 62 year old man admitted to the T/SICU s/p L maxillary resection (wide) with a deltopectorial free flap.  He is admitted here for flap monitoring and airway protection.  PMH significant for squamous cell carcinoma of the L maxilla which has had multiple resection, radiation, reconstructions, the last being in 11/01.  He is an IDDM with NKA.  He currently lives in [**Location **], NH with his daughter [**Name (NI) 2133**] who is a nurse.
+OR course was significant for a low blood sugar (reported as 10) and labile blood pressure requiring neosynepherine.  He arrived to the T/SICU with plastics and anesthesia around 9 pm [**9-5**].  
+REVIEW Of SYSTEMS:
+Neuro: on propofol and receiving morphine intermittently for pain. Moves all extremities, follows commands.  Hands restrained.
+CVS: BP labile.  Receiving neo to keep map >70, received 2 fluid boluses totally 1500cc for low blood pressure with good results.  Lytes repleted
+RESP: initially unable to suction as I met resistance but with lavage and bagging suctioned for plugs of bloody secretions.  Pt. was fiberotically intubated...trach set ordered to the bed side.  ABGs improved after successful suctioning
+RENAL:urine output drifted down to 30cc/hr but increased after fluid given.
+ENDO: started on insulin gtt and titrated to keep bs<130
+GI: peg in place, carafate started
+ID: on kefzol, flagyl
+SKIN: see carevue for flap changes.  It seems very sensitive to positioning.  Currently has sluggish cap refill (8sec) with small area superiorly which is very pale.  Flap is cool to touch.  Head kept towards left to prevent tension on pedicle.  L leg skin graft site with dsd with small amount of staining.
+SOCIAL: daughter [**Name (NI) 2133**] advised of status after pt arrived.  
+A: hemodynamically labile with varying cap refill of flap s/p L deltopectoral pedicle flap.
+P: keep sedated and intubated today to allow ease of positioning of flap to increase likelihood of viability.  Keep MAP>70 with neo.  Monitor bs carefully as pt is quite brittle, ??readiness for enteral feedings.
+
+",,
+13026,19846,16205,0,2643-09-05 14:00:00 EST,2643-09-05 14:15:00 EST,3725,"N",53,"Nursing/Other","NSG NOTE","
+NSG NOTE
+ROS:
+
+     CV:PT REMAINS ON NEO AT 1MCG/KG TO KEEP SYS BP 120 TO KEEP FLAP PERFUSED.PT IN SR,RATE 90-114.OCCASIONAL APC.K 2.9 AT 12N,PT TREATED WITH 20KCL/250D5W AND 20 KCL PER GT.MAINT IVF IS D51/2NS WITH 20 KCL AT 100/HR.PT T MAX 99.5 AX.
+
+      RESP:NO CHANGE IN VENT,ON PROPOFOL WITH MSO4 Q1-2HRS.SX FOR LARGE AMT THIN BLD TINGED SECRETIONS,STROMG COUGH.HE HAS AN INTERMITTENT LEAK WITH NT TUBE,MOSTLY WHEN COUGHING OR MORE AWAKE.
+
+      GI:STARTED PROMOTE TF VIA PEG AT 11 AM.GOAL 45 WHILE PT IS ON PROPOFOL THEN 55 HR.NO STOOL,BS ABSENT.
+
+      GU:NO NEED FOR FLD BOLUS TODAY,UO 100-150 HR.
+
+      NEURO:AROUSABLE,BUT SEDATED ON PROPOFOL AND MSO4(PER DAUGHTER PT WON'T ADMIT TO HAVING MUCH PAIN,CAN BE STOIC)MOVES ALL EXTREMETIES.
+
+       ENDO:BS 58 AT 10AM ON 3U INSULIN QTT.QTT OFF UNTIL 2PM WHEN BS 201.RESTARTED ON 2U HR.(PER DAUGHTER PT RESPONDS BRISKLY TO SM DOSES INSULIN,SO WE WILL MAKE CHANGES SLOWLY).
+
+       SOCIAL:FAMILY IN THIS PM FOR SHORT TIME,AWARE OF ALL PLANS.
+",,
+13026,19846,16205,0,2643-09-05 22:03:00 EST,2643-09-05 22:16:00 EST,3136,"N",53,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+S/O- NEURO- PT REMAINS SEDATED ON PROPOFOL AT 55MCG/KG/MIN, PT OCCAS OPENS EYES , MOVES SPONT BUT NOT TO COMMAND. PERL. 
+CV- PT IN NST, WITH OCC PAC'S. K REPLETED, NEO WEANED DOWN TO .25MCK/KG/MIN, ATTEMPTED TO D/C BUT B/P DROPPED. PT PRESSURE DROPS WITH MORPHINE , DOSE DECREASED TO .5MG IV AND STILL HAD B/P DROP. IVF CONT AT 100CC HR. 
+RESP- REMAINS VENTED ON SIMV MODE , WITH SATS OF 100%, RATE 11-13. SUCTIONED FOR SMALL TO MOD AMT OF THIN BLOOD TINGED SPUTUM. DIFFICULT TO PASS CATHETER DOWN ET TUBE. BREATH SOUNDS COARSE. 
+ENDO , Q1 BS NOW ON 3.5 HR OF INSULIN, BS 120-150. 
+GU- GOOD SPONT DIURESIS OF CLEAR LIGHT YELLOW URINE
+GI-  TF INCREASED TO 45CC HR OF PROMOTE NOW AT GOAL WITH PROPOFOL ON VIA FEEDING TUBE, BOWEL SOUNDS PRESENT, NOT STOOL PASSED 
+SKIN- ON BACK AND BUTTUCKS INTACT
+FLAP- IS WARM TO TOUCH, STILL BLANCHED WITH>5SEC REFIL, PLASTICS IN AND STATED IT LOOKED UNCHANGED . DSG AROUND PEDICLE IS XEROFORM AND REMAINS INTACT. 
+A/P- WILL ATTEMPT TO WEAN AND EXTUBATE TOMORROW, ENT TO SCOPE FIRST. SUPPORT B/P AS NEEDED WITH NEO GTT, CONT WITH FREQUENT BLOOD SUGARS ADJUST GTT ACCORDINGLY, MEDIACATE FOR PAIN CAUSTIOUSLY, B/P LABILE WITH MORPHINE 
+",,
+13026,19846,16205,0,2643-09-06 05:12:00 EST,2643-09-06 05:21:00 EST,-1,"N",53,"Nursing/Other","npn","
+npn
+s=nasally intubated and sedated.
+o=follows commands; moves all extremities, but is sedated all shift. no additional analgesia required--denies pain.
+cv=monitor pattern=st. no ectopy noted.  neo. drip off at start of shift for bp 180's.  most of shift sbp=130-140's. see careview for vs.  ivf decreased to kvo.  propofol drip continues at 60mkm.
+pulm=continues on simv 8-600-40%-pressure support 5-peep 5cm.  resp. rate 10-20's.  sats 100%.  breath sounds relatively clear bilaterally.  suctioned with difficulty--mod. amt. thick bloody secretions.
+gi=positive bowel sounds.  abdomen soft, non-distended.  tube feeds continue=promote at goal of 45 while on propofol.
+gu=foley patent for clear light yellow urine.
+endo=hourly glucoses done and insulin drip titrated as needed.  currently on 5.5 units/hr.
+skin=xeroform gauze to pedicle site.  flap congested--blanches slowly. skin warm to touch.  small amt. oozing from left nare.
+a=stable overnight.
+p=continue to monitor.
+",,
+13026,19846,16205,0,2643-09-06 14:21:00 EST,2643-09-06 14:26:00 EST,3672,"N",53,"Nursing/Other","Respiratory note:","
+Respiratory note:
+RSB showed 83. Pt was weaned on psv 5/5, followed by extubation with cook's guided catheter in place by MD. pt will receive alb/atro neb as needed.Lungs coarse with copious sec.
+",,
+13026,19846,16205,0,2643-09-06 17:38:00 EST,2643-09-06 18:17:00 EST,3725,"N",53,"Nursing/Other","NSG NOTE","
+NSG NOTE
+ROS:
+
+    CV:HEMODYNAMICALLY STABLE,AFEBRILE.IN SR WITH OCCASIONAL APC'S.K 3.7(GIVEN 40 KCL PER GT)REPEAT K 4.2.HCT 23 ON BLD GAS,REPEAT IN LAB,27.8.
+
+     RESP:EXTUBATED AT 9AM,DIFFICULT TO KEEP FT ON DUE TO PRESSURE FROM TENT ON GRAFT.RA PO2 67 WITH SAT 96-98.RR 15-18.[**Last Name (un) **] TRUMPET IN PLACE UNTIL 6:30PM.NEEDED SX FREQ FOR THIN BLDY SECRETIONS.[**Last Name (un) **] TRUMPET TAKEN OUT FOR PT COMFORT,ABLE TO GET DOWN BOTH NARES WITH LOTS LUBRIFAX.
+
+      GI:ON GOAL TF AT 55CC HR VIA GT.+BS,SOFT ABD.
+
+      GU:GOOD UO WITHOUT DIURETICS.IV'S AT KO
+
+      NEURO:ALERT,COOPERATIVE.DIFF TO UNDERSTAND DUE TO INABILITY TO OPEN MOUTH DUE TO RADIATION AND PREVIOUS SURGERY.WILL TRY TO WRITE BUT HARD TO READ AT TIMES.C/O NECK PAIN(MOSTLY ON THE R)WHICH IS [**Last Name **] PROBLEM AND SOME DISCOMFORT IN CHEST INCISION.RECEIVING MSO4 AS ORDERED.TOLERATES OK.
+
+      SKIN:WOUNDS CLEANED GENTLY WITH NS AND XEROFORM REPLACED.
+L UPPER THIGH SKIN GRAFT SITE DSD CHANGED.MUST LIE ON L ON ON BACK WITH HEAD TO L.
+
+      FAMILY IN TO VISIT EARLIER,ENT AND PLASTIC ATTENDING WILL CALL HER TO GIVE UPDATE.
+",,
+13026,19846,16205,0,2643-09-07 05:42:00 EST,2643-09-07 07:12:00 EST,3570,"N",53,"Nursing/Other","TSICU NPN 7p-7a","
+TSICU NPN 7p-7a
+S/O-
+
+Neuro- alert and oriented, communicating by writing, 
+
+CV- pt w/ slightly decreased BP and aslightly increased HR over the course of the noc. Midnoc lopressor dose held.  Hct 27.8 at 6pm yet this AM 24.0, no visable bleeding noted. extremities cool yet palp pulses.
+
+Resp- pt on RA w/ 40% FT used intermittently , pt NTS for sm to mode amt thick blood tinged sputum. BS's clear to coarse in upper lobes, diminished at bases.
+
+GI- getting TF's of FS promote at 55cc's hr which is goal, abd soft non distended, no BM this shift.
+
+GU- pt w/ decreased u/o, at 20-30cc's hr, given one fluid bolus of 250cc's NS w/ mild results.  BUN/Creat stable.
+
+Plastics- wound flap intact yet slightly dusky, blistered at the top end and cool to touch w/ minimum capilry refil.  Warmer towards the bottom of the flap.  incisions intact, w/xeroform.  Pt afebrile.
+
+A/P- BP slightly lower, ?u/o related, HCT down yet team opting not to transfuse at this time secondary to the increase viscosity of the blood.
+",,
+13026,19846,16205,0,2643-09-07 17:19:00 EST,2643-09-07 17:27:00 EST,3479,"N",53,"Nursing/Other","TRAUMA ICU NURSING PROGRESS NOTE","
+TRAUMA ICU NURSING PROGRESS NOTE
+
+REVIEW OF SYSTEMS:
+
+NEURO:  ALERT AND ORIENTED.  SPEECH BASELINE GARBLED...
+        BUT OCCAS UNDERSTANDABLE.    NO C/O PAIN.
+        AT 6PM...COUGHING BOUT...REQUESTED SOMETHING
+        STRONGER THAN MOTRIN.  PO ROXICET GIVEN.
+
+CV:     HR 90-110 WIT APCS.   BP LOW 80/....FLUID BOLUS
+        GIVEN WITH IMPROVEMENT. 
+
+RESP:   ROOM AIR WITH GOOD SATS.  STRONG PROD COUGH..
+        USING YANKEUR TO CLEAN THICK OLD BLOODY PLUGS.
+        7.47/36/69/27/2
+
+RENAL:  NA 134  K 3.6  CL 103  CO2 25  BUN 14  CREAT 0.4
+        ADEQUATE UO.  NO BM...DOESN'T FEEL NEED YET.
+ 
+GI:     PROMOTE WITH FIBER AT 55...VIA G TUBE.
+        
+
+HEME:   HCT 21.5,,,2 UNITS TO BE TRANSFUSED.
+        EPOGEN BEGUN.   BOOTS ON.
+
+ENDO:   INSULIN DRIP D/C'D.   NPH GIVEN... BLOOD SUGAR
+        70 UP TO 93.  COVER WITH REGULAR Q6.
+
+ID:     AFEBRILE.  WBC 15.3
+
+SKIN:   FLAP REMAINS DUSKY/COOL...BUT NO WORSE [**Name8 (MD) **]
+        MD'S.    CONTINUES WITH NO WEIGHT BEARING L
+        ARM.
+
+SOCIAL: DAUGHTER AND FAMILY VISITING TONIGHT.
+
+A: STABLE S/P FLAP.
+P: TRANSFER TO FLOOR.
+",,
+13026,19846,16205,0,2643-09-07 22:05:00 EST,2643-09-07 22:12:00 EST,-1,"N",53,"Nursing/Other",,"
+
+D PATIENT ALERT AND ORIENTED  ST WITH PAC'S. LUNGS RHONCHORUS CLEAR SOME WHAT AFTER COUGH . PALP PULSES PT/DP.LEFT NECK DSG CHANGES INCISION SUTERS IN TACT SMALL AMT OF SERIOUS SANG OOZING FROM INSICION LT SHOULDER GRAFT AREA PINK AND HEALTHY LOOKING XERAFORM GAUZE APPLIED WITH STERILE TOWEL ON TOP.LEFT GRAFT SITE DSG CHANGED AREA HEALING DSD APPLIED  WITH NON STICK PAD.
+A PATIENT STABLE  VSS.
+R CONTINUE TO MAINTAIN PATIENT COMFORT ANDMONITOR RESPITORY STATUS.  
+",,
+13026,19846,16205,0,2643-09-08 07:04:00 EST,2643-09-08 07:24:00 EST,3570,"N",53,"Nursing/Other","TSICU NPN 11-7a","
+TSICU NPN 11-7a
+S/O-
+Neuro- pt alert and oriented, slept well tonoc after roxicet dose at midnoc.  
+
+CV- pt in SR 80-100, occaisional APC, one run of SVT w/ rate 160-180 lasting approx 6 seconds yet self limiting, sat 97% w/ BP >100 at the time and pt sleeping.  Post transfusion HCT up to 30, pt w/ much improved color overall.  BP HTN w/ pressure as high as 180/80 when pt exerting himself yet low when pt dozing after receiving pain med, as low as 90's/40's, improves when awakwened.  Getting Lopressor BID.
+
+Resp- pt on RA or w/ O2 tubing sitting on chest at 40% cool neb flow.  Sat 94-97%, Breath sounds clear to posterior ausultation yet lots of upper airway secretions.  Pt able to expectorate secretions up to the back of his throat and clear them out, thick bloody secretions.
+
+GI- con't w/ TF's at goal, attempted to move bowels on commode chair w/o success, passing gas, abd soft.
+
+GU- voiding via foley, 30-50cc's hr.  Urine concentrated this A<.
+
+ID- afebrile.
+
+Endo- pt w/ BS oc 310 this AM, given 12u reg insulin SQ bs at 6:3o am = 148.  pt written for sliding scale yet according to po regimen at home yet getting con't feeds at this time, may need to change back too home feeding regimen or alter S Scale insulin coverage. 
+
+Skin- pedicle flap intact slightly reddened, cool to touch, incisions intact, sleppt well.
+",,
+13026,,,,2643-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2643-9-20**] 12:32 PM
+     CHEST (PA, LAT & OBLIQUES)                                      Clip # [**Clip Number (Radiology) 12244**]
+     Reason: evluate nodule rt. lung, please compare to cxr [**2643-9-4**]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with 
+      question nodule rt. lung
+      s/p hospitalization
+      s/p faint resention slla
+     REASON FOR THIS EXAMINATION:
+      evluate nodule rt. lung
+      please compare to cxr [**2643-9-4**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, PA, LATERAL AND OBLIQUES, [**2643-9-20**]
+     
+     INDICATION:  Evaluate questionable nodule at the right upper zone laterally.
+     
+     FINDINGS:  A right posterior oblique view of the thorax and a lateral view are
+     provided. A comparison study is dated [**2643-9-4**].  There is again evidence of a
+     faint ovoid opacity overlying the right 6th rib anterolaterally.  This opacity
+     appears to move with the rib and therefore probably represents a bone island.
+     It is not seen on other earlier studies since it would be superimposed by
+     other ribs on the standard lateral views.  The appearance is otherwise
+     unremarkable.  No significant abnormality of the heart, lungs, pleura or
+     mediastinum can be identified.  In particular, no definite pulmonary
+     infiltrates or effusions are seen.  The heart and pulmonary vessels are
+     unremarkable.
+     
+     IMPRESSION:  Small radiopaque opacity overlies the right 6th rib
+     anterolaterally and almost certainly represents a small bone island.  It does
+     not appear to be in the lung.  No other significant cardiopulmonary
+     abnormality is demonstrated.
+     
+     
+
+",,
+13026,,,,2643-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2643-12-22**] 12:44 PM
+     CT NECK W/CONTRAST (EG:PAROTIDS); CT 100CC NON IONIC CONTRAST   Clip # [**Clip Number (Radiology) 12245**]
+     Reason: evalulate new one degree ca anterior maxilla, r/o neck mets,
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with 
+     REASON FOR THIS EXAMINATION:
+      evalulate new one degree ca anterior maxilla
+      r/o neck mets
+      facial swelling
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Cancer, evaluate extent.
+     
+     TECHNIQUE: Axial contrast-enhanced CT scans were obtained from the skull base
+     through the thoracic inlet.
+     
+     Comparison is made to the previous CT of [**2643-7-31**].
+     
+     The patient's head is elevated for this exam so the scans were obtained in an
+     oblique direction. There is a known left maxillary mass which extends into the
+     left inferior orbital rim. This has increased in size substantially since the
+     previous study of [**2643-7-31**]. The mass appears to erode part of the mandible,
+     near the midline and just to the left of midline. Mass abutts the hard palate
+     ad though a clearcut defect in this bone is not identified, there is some
+     irregularity. There is mucosal thickening in the left posterior nasal cavity.
+     
+     There is a large mass of the skull base which is at least 3 cm across and is
+     centered in the location of the horizontal portion of the right carotid canal.
+     There is erosion through the canal and into the posterior sphenoid. Part of
+     the clivus also appears to be involved. The basilar artery is displaced to the
+     left by the mass. The right carotid artery cannot be clearly followed through
+     the skull base, but enhancement is identified in this vessel at the level of
+     the cavernous sinus and above.
+     
+     There is also some irregularity of the posterior right occipital bone, but
+     this is only partially viewed. A metastasis cannote be excluded in this
+     location. Contrast is identified in both sigmoid and jugular junctions. There
+     is opacification of most of the left mastoid air cells. The right mastoid is
+     aerated.
+     
+     There are multiple pulmonary nodules, presumably metastases, in the superior
+     aspects of the lungs which are included in this scan.
+     
+     IMPRESSION: The left facial mass has enlarged since the previous study. There
+     is a metastatic lesion involving the skull base and destroying bone and
+     displacing carotid and vertebral arteries. There may be other skull
+     metastases, but the examination is limited.
+     
+     Dr. [**Last Name (STitle) 12246**] was informed of the findings at 3:40 PM on [**2643-12-22**].
+                                                                 (Over)
+
+     DATE: [**2643-12-22**] 12:44 PM
+     CT NECK W/CONTRAST (EG:PAROTIDS); CT 100CC NON IONIC CONTRAST   Clip # [**Clip Number (Radiology) 12245**]
+     Reason: evalulate new one degree ca anterior maxilla, r/o neck mets,
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13026,,,,2643-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2643-12-26**] 1:08 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 12247**]
+     Reason: R/O PULMONARY METS, PLEASE COMPARE  TO PRIOR STUDIES
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED:
+      R/O PULMONARY METS, PLEASE COMPARE  TO PRIOR STUDIES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cancer, follow up nodule.
+     
+     COMPARISON:  Neck CT from [**2643-12-22**] and [**2643-7-31**].
+     
+     TECHNIQUE:  CT of the chest with IV contrast.  100 cc Optiray was
+     administered.  5 mm contiguous axial images were obtained from the thoracic
+     inlet to the upper abdomen.
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There are multiple pulmonary nodules within
+     both lungs, consistent with pulmonary metastatic disease.  When compared with
+     the [**2643-7-31**] study, the right apical anterior nodule measures 1.4 x 1.2 cm,
+     seen best on Image 5, Series 3A.  This is increased in size from 6 x 6 mm.
+     There is an additional large nodule seen at the extreme right lung base
+     measuring 1.5 x 1.7 cm and is seen best on Image 44, Series 3A.  There are no
+     pleural or pericardial effusions.  There are retained secretions within the
+     distal trachea.  There is geographic linear opacification along the medial
+     lung apices that is likely related to radiation change.  There are multiple
+     small mediastinal lymph nodes, none of which is greater than 1 cm in short
+     diameter.  Heart does not appear enlarged. There is bilateral gynecomastia.
+     There are coronary artery calcifications.
+     
+     The upper abdomen is visualized.  There is minimal central intrahepatic ductal
+     dilatation.  The spleen and adrenal glands are unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osseous lesions.
+     
+     IMPRESSION:  There are multiple pulmonary nodules consistent with diffuse
+     metastatic disease.
+     
+
+",,

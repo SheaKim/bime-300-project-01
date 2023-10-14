@@ -1,0 +1,361 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13759,20324,,,3106-10-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3106-10-26**]     Discharge Date:  [**3106-11-1**]
+
+Date of Birth:   [**3027-6-19**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 79-year-old
+male with known coronary artery disease, hypertension,
+hypercholesterolemia, and paroxysmal atrial fibrillation who
+presented with chest pain radiating to his back since 4 p.m.
+on the day of admission.  Symptoms started while straining to
+have bowel movement.  Symptoms associated with diaphoresis,
+but no shortness of breath and no other associated symptoms.
+He initially presented to [**Hospital3 **] Hospital in [**Location (un) 1632**]
+where he was ruled out for myocardial infarction, and because
+chest x-ray showed mediastinal widening a CT angiogram was
+performed that suggested the ascending aortic dissection.  He
+was given morphine and transferred to [**Hospital1 1205**] Emergency Department.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease.
+2.  Hypertension.
+3.  Paroxysmal atrial fibrillation.
+4.  Hypercholesterolemia.
+5.  Myocardial infarction; percutaneous transluminal coronary
+angioplasty and stent to the left anterior descending artery
+in [**3104-1-18**] and percutaneous transluminal coronary
+angioplasty of the right coronary artery in [**3104-2-15**].
+
+MEDICATIONS ON ADMISSION:  Coumadin, amiodarone 200 mg p.o.
+q.d., Imd[**MD Number 9612**] mg p.o. q.d., Cozaar 50 mg p.o. q.a.m. and
+25 mg p.o. q.p.m., atenolol 25 mg p.o. q.d., aspirin 81 mg
+p.o. q.d.
+
+ALLERGIES:  He is allergic to SULFA.
+
+SOCIAL HISTORY:  He is married, lives with his wife; very
+functional, still drives.  No smoking.  No alcohol.
+
+FAMILY HISTORY:   Family history was noncontributory.
+
+REVIEW OF SYSTEMS:   No palpitations.  No fevers or chills.
+No nausea or vomiting.  No dizziness.  No headache.  No
+shortness of breath.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Vital signs were
+afebrile, pulse 60, blood pressure 155/76 (which was
+identical in the right and left arm), oxygen saturation 97%
+on 2 liters, respiratory rate 18.  In general, he was in no
+acute distress.  HEENT revealed pupils were equal, round, and
+reactive to light.  Extraocular movements were intact.  The
+patient was pale.  Neck with jugular venous distention
+elevated 4 cm above the clavicle while at 45 degrees.  Lungs
+were clear to auscultation bilaterally.  Cardiovascular had a
+regular rate and rhythm.  No murmurs.  No rubs.  There was an
+S4 gallop.  The abdomen was soft, mildly distended,
+nontender, positive bowel sounds.  Extremities had no edema.
+Distal pulses were felt, 2+ dorsalis pedis, posterior
+tibialis, femoral, and radial.  Neurologically, he was alert
+and oriented times four with no focal deficits.
+
+LABORATORY DATA ON ADMISSION:  White blood cell count 13,
+hematocrit 45, platelets 157.  INR was 2.5.  Troponin was
+less than 0.3.  Chem-7 with sodium of 146, potassium 4.2,
+chloride 104, bicarbonate 29, BUN 22, creatinine 1.5, and
+glucose 101.
+
+RADIOLOGY/IMAGING:   Thoracic CT angiogram performed at the
+outside hospital showed recalcification of the aortic wall,
+thickened wall to distal descending aorta and transverse
+aorta with question of hematoma versus dissection.
+
+Electrocardiogram was sinus rhythm with left axis deviation,
+and LAFB.  There was left ventricular hypertrophy with poor R
+wave progression as well as diffuse T waves abnormalities
+felt to be nonspecific in the setting of left ventricular
+hypertrophy.
+
+IMPRESSION:  This is a 79-year-old with known coronary artery
+disease, hypertension, and atrial fibrillation who presents
+with aortic dissection.
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  CARDIOVASCULAR:  The patient was admitted to the Coronary
+Care Unit.  Intensive blood pressure control was obtained
+with intravenous nitroprusside and labetalol.  The
+Cardiothoracic Surgery team was consulted.
+
+The CAT scan from the outside hospital did not demonstrate a
+visible flap, so it was unclear whether the aortic dissection
+involved the ascending aorta.  Therefore, a transesophageal
+echocardiogram was performed.  Prior to the procedure the
+patient was intubated with propofol used for sedation.
+
+The transesophageal echocardiogram showed left ventricular
+hypertrophy with good left ventricular function, thickened
+AV, trivial AR, and a calcified aorta with hematoma and
+dissection starting in the upper ascending aorta extending
+along the arch and continuing through the descending thoracic
+aorta.  Again, no flap was identified.
+
+Spine MRA was performed to determine the extent of the
+intramural hematoma.  The hematoma was seen extending from
+the aortic valve involving the entire ascending aorta, arch
+of the aorta, and entire descending aorta down to the level
+of the renal arteries where the study stopped.  It was
+postulated that this likely arose from a defect in the
+descending aorta, probably a plaque rupture.  Because there
+was no repairable defect seen in the ascending aorta, surgery
+was not recommended by the Cardiothoracic Surgery team.
+
+Therefore, medical management was continued.  He was weaned
+off nitroprusside.  Intravenous labetalol was changed to p.o.
+He was restarted on Losartan and atenolol and started on
+amlodipine.  Furosemide was also added.
+
+His blood pressure was difficult to control and required
+escalating doses of the above.  Final hypertensive regimen is
+listed below under discharge medications.  His blood pressure
+on discharge was approximately 120/70.
+
+From the standpoint of his known coronary artery disease, the
+patient ruled out for myocardial infarction by enzymes.  We
+continued his Zocor.  However, we discontinued his aspirin
+given his known aortic defect.
+
+On the day after admission, the patient was found to be in
+atrial fibrillation although he was admitted in normal sinus
+rhythm.  We continued amiodarone.  However, he remained in
+atrial fibrillation.  Still, we felt it necessary to
+discontinue his Coumadin given his aortic dissection.  In
+addition, we reversed his anticoagulation with fresh frozen
+plasma and vitamin K.  His INR at the time of discharge
+was 1.1.
+
+2.  GASTROINTESTINAL:  The patient's aortic dissection
+occurred in the context of straining to have a bowel
+movement.  He has chronic constipation and takes Metamucil.
+In order to attempt to prevent future straining, we
+instituted an aggressive bowel regimen and this should be
+continued as an outpatient.  He did have two bowel movements
+during this admission without straining.
+
+3.  HEMATOLOGY:  As mentioned above, we reversed the
+patient's anticoagulation and feel that he should remain
+without any anticoagulation or platelet inhibiting agents for
+the time being.  His hematocrit on admission was 44, but this
+decreased to 35.  It was stable at 35 for several days and
+then slowly increased and was 39 on the day before discharge.
+It is recommended his hematocrit be followed as an
+outpatient.
+
+4.  PULMONARY:  The patient was electively intubated for the
+purpose of the transesophageal echocardiogram and was
+extubated the next day once it was determined that he would
+not be going to surgery.  He desaturated slightly with
+increased oxygen requirements, and a chest x-ray showed
+pulmonary edema.  This was treated with furosemide with
+complete clinical and radiographic resolution.
+
+Of note, the patient has documented DLCO on recent pulmonary
+function tests performed at the [**Hospital6 173**]
+about six weeks ago, and this was thought to be secondary to
+amiodarone use.  This is the suspected reason for his
+slightly impaired oxygenation despite adequate diuresis.
+
+5.  CODE STATUS:  He was full code.
+
+DISCHARGE STATUS:  He was discharged to home with Visiting
+Nurse Association services to check blood pressure and
+medication compliance.
+
+CONDITION AT DISCHARGE:  Discharge condition was good.
+
+DISCHARGE FOLLOWUP INSTRUCTIONS:  He was told to have
+follow-up appointment with Dr. [**Last Name (STitle) 9613**] (his cardiologist) on
+[**11-8**].  He should have minimal activity for the next
+four weeks.  He should continue an bowel regimen and avoid
+straining.  He should not plan any significant travel until
+January of next year.
+
+MEDICATIONS ON DISCHARGE:
+ 1.  Losartan 50 mg p.o. b.i.d.
+ 2.  Labetalol 300 mg p.o. b.i.d.
+ 3.  Atenolol 25 mg p.o. q.d.
+ 4.  Furosemide 20 mg p.o. q.d.
+ 5.  Amlodipine 5 mg p.o. q.d.
+ 6.  Amiodarone 200 mg p.o. q.d.
+ 7.  Zocor 20 mg p.o. q.d.
+ 8.  Zoloft 50 mg p.o. q.d.
+ 9.  Allopurinol 100 mg p.o. b.i.d.
+10.  Prevacid 15 mg p.o. q.d.
+11.  Colace 100 mg p.o. b.i.d.
+12.  Metamucil q.d.
+
+He should discontinue aspirin for now, but this should be
+reconsidered in another four to eight weeks.  He should
+discontinue Coumadin for now and possibly reconsider starting
+this again in one year or perhaps discontinue this
+permanently.
+
+DISCHARGE DIAGNOSES:
+1.  Aortic dissection.
+2.  Hypertension.
+3.  Atrial fibrillation.
+4.  Congestive heart failure.
+5.  Anemia.
+6.  Constipation.
+
+
+
+                          [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) **], M.D.  [**MD Number 2898**]
+
+Dictated By:[**Name8 (MD) 2094**]
+
+MEDQUIST36
+
+D:  [**3106-10-31**]  15:01
+T:  [**3106-11-3**]  14:09
+JOB#:  [**Job Number 9614**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) **]
+ on: WED [**3106-11-7**] 10:34 AM
+(End of Report)
+
+
+",,
+13759,20324,17125,0,3106-10-27 04:29:00 EST,3106-10-27 04:55:00 EST,620,"N",1,"Nursing/Other","ccu nursing admit note","
+ccu nursing admit note
+mr. [**Known patient firstname 5239**] [**Known patient lastname 5240**] is a 79yr old male adm from [**Doctor Last Name **] [**Doctor Last Name **] this eve with aortic dissection.
+
+pmh: cad, s/p ptca of lad and rca in '[**03**]. htn. h/o of paf ...on coumadin. ^chol.
+
+hpi: developed chest/back pain/pressure fri afternoon. presented to [**Hospital3 **]. w/u noted hypertension, cta suggestive of descending aortic dissection. pt rec'd mso4 for pain relief and transfered to [**Hospital1 **] for further eval tx.
+
+in er pt started on nipride and labetolol for htn. pulses all palp except for r dp. the r foot is cool, part anterior aspect. r dp is detectable by doppler. ffp ordered for inr 2.7.
+
+pt arrived to ccu at mn.
+lethargic, denies pain. ox3. mae w/ purpose.
+cv: bp labile. nipride adjusted freq. labetolol at .5mg/min.
+pt underwent tee which noted dissection involving ascending aorta to the arch, also poss sm pericardial effusion, lv fxn good. cardiac surgery consulted, dr [**Name (STitle) **] to eval this am.
+pt rec'in 4u ffp overnight to correct inr. tol well.
+r foot cont cool, dp only by doppler, others all easily palp.
+resp: pt arrived on 100%nrb, denied sob. changed to nc for tee and sats dropped to the low 90s. then pt vomited during prep for tee. electively intubated for test. remains intubated overnoc to promote hemodynamic stability. when pt light bp will shoot up then drop dramatically with sedation.
+bs cta. abg adjusted for hypoventilation. sats good 50%. sxn'd for am amt bld tinged secretions.
+gi: vomited undigested food. attempted ngt placement, sm amt of trauma. then ogt placed and stomach drained of 100cc brown. ogt dc'd for tee and not replaced. abd is very distended and firm. distant hypoactive bs noted. pt denied nausea, abd pain but stated stomach felt better after vomiting.
+gu: foley placed. good up. cr 1.1.
+id: afeb. wbc 13. no abx.
+ms: sedated now w/ mso4 gtt at 2mg/hr and prn ativan. pt cooperative, follows commands. not req restraints at this time.
+social: wife and dtr visited and updated. went home and will return in am.
+
+a: aortic dissection. alt hemodynamics. elevated inr. ?abd process.
+p: follow bp, titrate meds to hr and bp goals. recheck inr, labs this am. follow gi/abd exam. assess circulation, s/s of tamponade/ischemia. plan to follow up with ctsurgery this am. may extubate later. med for comfort/safety. support to pt and family.
+",,
+13759,20324,17125,0,3106-10-27 06:11:00 EST,3106-10-27 06:14:00 EST,419,"N",1,"Nursing/Other",,"
+
+Respiratory Care Note
+Patient required intubation last night. 7.5 et tube is taped at the 23 cm/lip. Bilateral breath sounds and +ETCO2 were confirmed.Vent settings are a/c 700 x12 50% 5 of peep. ABGS and Sats are within normal limits. Plan to extubate later this morning.
+",,
+13759,20324,17125,0,3106-10-27 18:36:00 EST,3106-10-27 19:00:00 EST,118,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+CV: Pt with BP 100-130/60, HR 60's initially on Labetolol .5mg gtt, after episode of vomitting pt converted to A.fib rate 90's, increased Labetolol to 1mg then to 2mg/min. HR remains 80-90's a.fib. Was able to wean Nipride off this AM with BP in the low 100's/, on and off with episodes of vomitting. Currently back on at 40ug. MRI angio done this afternoon, preliminary read shows no tear in acending aorta. Surgery saw pt this AM and stated surgery would only be an option if pt had dissection of ascending aorta. Pt and wife kept informed.
+
+GI: pt has had abdominal distention, hypoactive BS, vomitted this AM with stimulation of gag, ie suctioning. MSO4 gtt dc'd(for planned extubation as welll) Passed NGT with much difficulty, up to LIS. Abdomen softer, but still distended. Suction was off for couple hours this PM, during MRI. Upon return vomitted another time, lg amt undigested food. NGT back to LIS, pt given 5mg Reglan, and 5mg compazine IV.  
+
+Resp: Stopped sedation and weaned to PS this AM, then extubated as it was unlikely that pt would go for surgery. Has had junky cough, swallowing sputum. Sats 93-98% on 70% CN. 
+
+Neuro: is pretty coherent, lethargic and sleeping most of the day. Oriented to person, place, is forgetful, repeating some of the same questions.
+
+Soc: wife and daughter in all day, mostly in the waiting area resting. Wife updated on latest developments.
+",,
+13759,20324,17125,0,3106-10-28 06:53:00 EST,3106-10-28 07:11:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ AORTIC DISSECTION","
+CCU NSG PROGRESS NOTE 7P-7A/ AORTIC DISSECTION
+
+S- "" I AM SO COLD""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA/
+
+CV- PT HEMODYNAMICALLY STABLE ON LABETELOL 2 MG/MIN AS WELL AS ON/OFF NIPRIDE 10-40MCG.
+BP/HR LABILE- ATTEMPTING TO KEEP HR<80 AND SBP<140/.
+HR- 70-90 AFIB, CONVERTED TO SR EARLY THIS AM.
+BP CURRENTLY 90-100/.
+K- 3.8- 20 KCL- MG- 1.9- 1 AMP MGSO4.
+DENIES CP/BACK PAIN.
+
+RESP- PT WITH INTERMITTENT BRONCHIAL LUNG SOUNDS/STRIDOROUS SOUNDS OCC/VS SONOROUS.
+DENIES SOB. RATE- TEEN'S, OS SATS- 97%-94% ON COOL MIST.
+ATTEMPTED DIURESIS X 2 WITH 40 LASIX/ 80 LASIX.
+FAIR RESPONSE.
+I/O (+) 2 LITER AS OF 12 AM.
+DENIES DISTRESS.
+
+ID- TEMP SPIKE TO 103.6 IN SETTING OF RIGORS/INCREASED RESP DISTRESS.
+HAD RECEIVED 1 U FFP WITHIN THE PREVIOUS HOUR OF EVENT.
+TREATED AS TRANSFUSION REACTION AND SENT BLOOD PACK AND BLOOD SAMPLE TO BLOOD BANK.
+TREATED RIGORS WITH 25 DEMORAL IV AS WELL AS TYLENOL 650 AND LASIX 40 MG AND ONE DOSE NEB.
+ONCE SEDATED WITH DEMEROL AND RIGORS SUBSIDED, STRIDOROUS TACHYPNEA ENDED. ABG CHECKED AND WNL.
+OBTAINED STAT CXR AND CONSULTED WITH RADIOLOGY RE: CXR/? EDEMA /CONSOLIDATION/CHF.
+UNCLEAR AS TO CXR RESULT- DIURESED FOR CHF. NONPROD COUGH PERSISTS.
+PAN CULTURED= NO ANTIBX STARTED- REPEAT TEMP CHECK- AFEBRILE THIS AM.
+
+HEME- SEE ABOVE- RECEIVED 1 U FFP FOR INR- 1.5.
+PROBABLE TRANSFUSION REACTION.
+
+MS- PT LETHARGIC, BUT ORIENTED X 3.
+WIFE PRESENT AND WENT HOME 9PM.
+APPEAR TO UNDERSTAND PLAN OF CARE.
+
+GI- NO FURTHER NAUSEA/VOMITING.ABD SL DISTENDED/(+) BOWEL SOUNDS.
+NG TUBE IN PLACE- CLAMPED- NO ASPIRATES.
+
+A/P- PT WITH DESCENDING AORTIC DISSECTION- PLAN TO CONTROL RPP WITH MEDICAL THERAPY.
+REMAINS WITH LABILE BP/HR 
+   - FUO/? TRANSFUSION REACTION
+
+CONTINUE TO CLOSELY WATCH HEMODYNAMICS AND RESP STATUS= DIURESIS AS NEEDED/
+WATCH FOR AM WC/FURTHER TEMPS= CONSIDER STARTING ANTIBX.
+KEEP PT AND WIFE INFORMED RE: PLAN OF CARE.
+WATCH GI/ABD DISTENTION.
+CONSIDER START PO MEDS IF GI STATUS STILL STABLE.
+",,
+13759,20324,17125,0,3106-10-28 16:11:00 EST,3106-10-28 17:03:00 EST,104,"N",1,"Nursing/Other","CCU TRANSFER NOTE","
+CCU TRANSFER NOTE
+DIAGNOSIS: descending aortic dissection
+
+79 yo Male transfered from [**Hospital1 **] c/o CP/Back pain/diaphoresis. CT scan showed aortic dissection. Sent to [**Hospital1 10**] for treament. 
+
+CODE STATUS: FULL
+
+ALLERGIES: SULFA
+
+PMHX: CAD s/p PTCA LAD + RCA '[**03**]
+      ?h/o MI
+      HTN
+      elevated cholesterol
+      h/o PAF, on coumadin
+
+HPI: Admitted to the CCU. CT surgery consulted + TEE showed good LV function, and showed the aortic dissection. MRI showed descending aortic dissection. No surgerical intervention, to treat dissection medically. Placed on IV Nipride and IV Labetolol for BP control. INR 2.51 on admission - given total of 7u FFP and 2 doses of s/c VIT K.
+
+REVIEW OF SYSTEMS:
+
+CARDIOVASCULAR:  Pt was in AFIB 80-100s overnite, but spontaneously converted back to SR in the middle of the nite. Today SR 60s, no ectopy noted. Weaned off Nipride and Labetolol drips overnite. Started on Labetolol 200mg PO BID. Current SBP 100-130 today. Goal HR 60 w/ SBP <140. No c/o chest pain or discomfort. INR 1.4. pneumo-boots on bilat.  R radial aline. multiple peripheral heplocks. 
+
+NEURO: alert and oriented. taking naps today. MAE. no c/o. pleasant and cooperative. 
+
+RESP: LS coarse bilat. regular breathing. no c/o SOB. sats on room air 88%. had 40% cool neb FM changed to 5L N/C for sats 92-97%. CP done, Deep Breathing and Coughing exercises done. Congested cough, productive small amts tan sputum. 
+
+GI/GU: foley patent, draining 20-30cc/hr. House staff aware. pt started on clear fluids today, advance as tolerated. noting increased u/o this afternoon after pt taking po fluids. abd distended, soft. +BS. no BM. NGT removed this morning. 
+
+ID: afebrile today. no abx. pt febrile overnite last nite. ?transfusion reaction overnite 1hr after recieving 1u FFP (rigors, Temp 103.8, ^RR -CXR showed failure - Tx w/ lasix, benedryl, demerol, tylenol. 
+
+
+PLAN: Transfer to step down unit. keep HR 60s, SBP <140s. monitor u/o. keep pt comfortable. advance diet as tolerated. 
+",,
+13759,20324,17125,1,3106-10-28 16:11:00 EST,3106-10-28 17:43:00 EST,104,"Y",1,"Nursing/Other","CCU TRANSFER NOTE","
+CCU TRANSFER NOTE
+pt was intubated for TEE for airway protection (pt vomited prior to TEE and ?aspirated), extubated yesterday. 
+",,

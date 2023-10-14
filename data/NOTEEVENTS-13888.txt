@@ -1,0 +1,871 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2990-11-11**]              Discharge Date:   [**2990-11-16**]
+ 
+Date of Birth:  [**2905-2-27**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 9781**] 
+Chief Complaint:
+mouth bleeding 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+85F with extensive medical history most notable for CVA with 
+residual left hemiparesis, and PCV had 5 teeth pulled in upper 
+gum on day prior to admission. She experienced persistent 
+bleeding. She was reportedly seen by her dentist, who stated 
+that the suture line was intact and there is no further 
+intervention possible. Pt c/o swallowing blood but denies 
+n/v/light-headedness.  
+.  
+In ED, her initial vitals were 97.6, 78, 121/66, 16, and 99% on 
+RA. She remained hemodynamically stable throughout her time 
+there. She did spike a temp to 100.8 at 11:30 pm on [**11-10**]. 
+There, multiple attempts were made at stopping the bleeding; she 
+had near-constant pressure, placement of gelfoam, vitamin K 5mg 
+SC, 4 units of FFP, surgicel, afrin, silver nitrate, suture 
+placed, and she received 2units of PRBC for a Hct drop of 42.4 
+to 31.5. She was also agitated and was placed in restraints and 
+given Haldol 2.5mg IV. She  
+was also started on several antibiotics, including flagyl, 
+unasyn, levoflox, clinda, ceftriaxone, [**12-30**] findings of UTI and 
+possible aspiration PNA.  
+.  
+Concerning her persistent bleeding, Dental/OMFS was consulted 
+and  
+there was no response. ENT was consulted, but reported that 
+there was no further intervention to be done other than 
+correcting her coagulopathy.  
+.  
+She has not had any known history of bleeding disorder. ED and  
+Heme/Onc have been in touch with her PCP, [**Name10 (NameIs) 4557**] confirmed that she 
+ 
+has not had any history of bleeding before. She was transferred 
+to the FICU for management with Heme/Onc following.
+
+ 
+Past Medical History:
+-polycythemia [**Doctor First Name 5377**]:  
+*information obtained by heme/onc fellow:  
+- hydrea x at least 5 years; oncologist's name is [**First Name8 (NamePattern2) 607**] 
+[**Name2 (NI) **]  
+-CVA with L hemiparesis  
+-HTN  
+-CHF, last EF 55% in [**2985**]  
+-GERD, h/o duodenal ulcer  
+-vertigo  
+-depression  
+-h/o VRE in urine  
+-dementia  
+-hemorrhoids  
+-cataracts  
+-L temple squamous cell carcinoma [**7-1**]  
+-L facial basal cell carcinoma [**7-1**]  
+-? gout  
+-osteoarthritis  
+
+ 
+Social History:
+resident of [**Hospital **] Rehab. She is a hemiplegic s/p CVA. Uses 
+standing lift for transfers. Incontinent of urine. Is usually 
+alert and oriented. She takes a soft diet with supplemental 
+drink at meals.  
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+97.6 78 121/66 16 99% RA  
+GEN: lying in bed with blood covering mouth and chin, yelling 
+out for help repeatedly, R arm restrained.  
+HEENT: pupils reactive, EOMI  
+Mouth: + bleeding from upper gums diffusely, sutures in place. 
+Gelfoam extruding from side of mouth.  
+CV: RRR  
+Abd: s/nt/nd  
+Rectal: pt refused.  
+Lungs: pt would not cooperate with exam. clear to anterior 
+auscultation  
+Ext: no c/c/e.  
+Neuro: alert and agitated. Oriented to person and ""hospital"" but 
+not to date or time. Full ROM on R, L hemiparesis in upper and 
+lower extremities.  
+
+ 
+Pertinent Results:
+CXR: 1. Focal consolidation at right base and patchy 
+consolidation at left base concerning for aspiration pneumonia 
+Vs. aspiration. 
+
+CT Abd/Pelvis: 
+1. No evidence of retroperitoneal hematoma. No intra-abdominal 
+fluid. 
+2. Splenomegaly measuring up to 15 cm, consitent with history of 
+polycythemia [**Doctor First Name 5377**]. 
+3. Low attenuation within the vessels consistent with 
+moderate/severe anemia. 
+4. Gallstones. 
+5. Multiple high and low attenuation lesions in bilateral 
+kidneys, which are inadequately characterized on this 
+non-contrast study. 
+6. Bilateral adrenal adenomas. 
+7. Atherosclerosis. 
+
+TTE:
+1. The left atrium is normal in size. The left atrium is 
+elongated. 
+2. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Left ventricular systolic 
+function is hyperdynamic (EF>75%). 
+3. Right ventricular chamber size is normal. Right ventricular 
+systolic function is normal. 
+4.The aortic valve leaflets (3) are mildly thickened. No aortic 
+regurgitation is seen. 
+5.The mitral valve leaflets are mildly thickened. No mitral 
+regurgitation is seen. 
+6.The estimated pulmonary artery systolic pressure is normal. 
+7.There is no pericardial effusion.  
+
+[**2990-11-10**] 07:05PM BLOOD WBC-35.8* RBC-4.97 Hgb-13.0 Hct-42.4 
+MCV-85 MCH-26.1* MCHC-30.6* RDW-18.0* Plt Ct-416
+[**2990-11-11**] 06:00AM BLOOD WBC-34.2* RBC-3.69*# Hgb-9.6*# Hct-31.5*# 
+MCV-85 MCH-25.9* MCHC-30.3* RDW-18.2* Plt Ct-408
+[**2990-11-11**] 05:00PM BLOOD WBC-36.0* RBC-2.86* Hgb-7.2* Hct-24.1* 
+MCV-84 MCH-25.3* MCHC-30.0* RDW-18.8* Plt Ct-525*
+[**2990-11-12**] 04:53PM BLOOD WBC-33.6* RBC-3.69* Hgb-10.2* Hct-31.4* 
+MCV-85 MCH-27.5 MCHC-32.3 RDW-17.6* Plt Ct-348
+[**2990-11-14**] 09:00AM BLOOD WBC-38.4* RBC-4.20 Hgb-11.6* Hct-36.8 
+MCV-88 MCH-27.5 MCHC-31.5 RDW-18.5* Plt Ct-343
+[**2990-11-12**] 04:11AM BLOOD Neuts-91.0* Bands-0 Lymphs-6.4* 
+Monos-1.5* Eos-0.5 Baso-0.6 Atyps-0 Metas-0 Myelos-0
+[**2990-11-10**] 07:05PM BLOOD PT-15.8* PTT-38.7* INR(PT)-1.7
+[**2990-11-14**] 02:30PM BLOOD PT-15.5* PTT-31.1 INR(PT)-1.6
+[**2990-11-10**] 07:05PM BLOOD Fibrino-186
+[**2990-11-11**] 09:35AM BLOOD FDP-0-10
+[**2990-11-11**] 04:05PM BLOOD Thrombn-18.4
+[**2990-11-12**] 04:11AM BLOOD Ret Aut-2.0
+[**2990-11-10**] 07:05PM BLOOD Glucose-92 UreaN-36* Creat-0.7 Na-141 
+K-4.9 Cl-104 HCO3-25 AnGap-17
+[**2990-11-12**] 04:11AM BLOOD LD(LDH)-421* TotBili-0.7
+[**2990-11-10**] 07:05PM BLOOD ALT-17 AST-27 LD(LDH)-339* AlkPhos-145* 
+TotBili-0.5
+[**2990-11-11**] 09:35AM BLOOD Hapto-54
+[**2990-11-11**] 01:10AM BLOOD Lactate-1.8
+[**2990-11-11**] 01:07AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.017
+[**2990-11-11**] 01:07AM URINE Blood-NEG Nitrite-POS Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM
+[**2990-11-11**] 01:07AM URINE RBC-0 WBC-[**5-7**]* Bacteri-MANY Yeast-NONE 
+Epi-0-2
+Urine Culture: E. Coli, pansensitive
+Blood cultures: NGTD at discharge
+C. diff negative x 1
+ 
+Brief Hospital Course:
+FICU Course:
+.
+No evidence of DIC or hemolysis (LDH (277 -> 421), bili (0.7), 
+retic (2) haptoglobin (54 -> 71)). FDP 0-10, Fibrinogen 
+190->283. Hct continued to slowly drop, requiring several 
+additional transfusions of PRBC. Pt remained hemodynamically 
+stable throughout. Smear w/o evidence of hemolysis except for 
+rare schistos. Platelets normal. No evidence of liver disease on 
+smear (no targets, etc). LFTs normal. Has no h/o liver disease 
+or problems w/ synthetic function. No report of poor nutrition 
+from [**Hospital **] Rehab records. No recent h/o heparin, coumadin, or 
+other anticoagulants. ASA and hydrea held. continued 
+allopurinol. 
+.
+Vitamin K SC initially given, then started on vitamin K 10mg IV 
+qD x 3 days (started on [**11-12**]). Also given Amicar 4-5g IV bolus 
+over one hour, followed by 1g/hr for 8hrs. Visible bleeding 
+resolved on [**11-12**] and has not recurred since. 
+.
+Wbc count quite elevated throughout FICU course, up to 40. 
+Possibly [**12-30**] infection (UTI or aspiration PNA) vs stress 
+response from bleed, though by report, chronically elevated. Tx 
+with levo (started [**11-11**]) and flagyl (started [**11-13**]) for 
+possible aspiration PNA (10 day course). No evidence of 
+progression to AML/MDS on smear.
+. 
+Ms. [**Known patient lastname 911**] also experienced hypernatremia to 150. Given D5W. She 
+was kept NPO for first day in-house out of concern of gingival 
+bleeding. Was started on liquid diet on [**11-13**]. 
+
+She was transferred to the floor on [**11-13**], and continued to do 
+well. She had no additional bleeding. Her hydrea and ASA were 
+restarted. A mixing study was sent, with results pending at time 
+of d/c. Received 3 days IV vitamin K, with slight improvement of 
+her INR. INR should be f/u, and Vit K given as necessary. Hct 
+should be checked periodically to ensure Ms. [**Known patient lastname 911**] has no 
+additional bleeding.
+.  
+Ms. [**Known patient lastname 911**] also continued to be treated for pan-sensitive UTi and 
+possible aspiration PNA. Blood cultures continued to be negative 
+at time of D/c, and pt was C. diff negative. She is being 
+discharged on Levo/Flagyl, and should continue this course until 
+[**2990-11-22**].
+.  
+Ms. [**Known patient lastname 911**] had slight worsening of mental status, thought to be 
+delerium [**12-30**] infection. Her psych meds were held, and foley 
+catheter was d/c'ed.
+ 
+Ms. [**Known patient lastname 911**] also had a few episodes of tachycardia on telemetry on 
+[**11-15**], thought to be atrial tachycardia with variable block. Her 
+VS were stable, and she was asymptomatic. She was started on 
+metoprolol 12.5mg PO bid, and this arrhythmia has not recurred. 
+A TTE was done that showed no regional WMAs, and preserved 
+EF>75%.
+
+Pt is DNR/DNI - discussed with Dr. [**Last Name (STitle) **], pt's PCP; also 
+confirmed with daughter who is health care proxy.  
+.  
+
+ 
+Medications on Admission:
+MEDS:  
+hydroxyurea 500 qd  
+remeron 45 qhs,  
+kcl 10 qd  
+sorbitol 15 qhs  
+tramadol 50 bid  
+trazodone 25 qhs  
+allopurinol 200 qhs  
+asa 81 qd  
+wellbutrin 50 bid  
+oscal  
+lasix 20 qam  
+fosamax 70 qwk  
+tylenol 650 bid  
+methylcellulose powder (citrucel) 1 heaping tbsp qd  
+MOM prn [**Name2 (NI) **]  
+hydrocortisone cream to rectal area prn hemorrhoid pain  
+artificial tears tid  
+esomeprazole 40mg qd  
+fleet enema 1 pr qd prn  
+ 
+Discharge Medications:
+1. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 6 days: End date: [**2990-11-22**].  
+3. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 6 days: End date: [**2990-11-22**].  
+4. Hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+5. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML 
+Mucous membrane  TID (3 times a day) as needed.  
+6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day): Hold for SBP<100 or HR<60.  
+7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+8. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN 
+Peripheral IV - Inspect site every shift 
+9. Protonix 40 mg Recon Soln Sig: One (1)  Intravenous  once a 
+day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 77**] for the Aged - LTC
+ 
+Discharge Diagnosis:
+Prolonged gingival bleeding after dental procedure, probably due 
+to vitamin K deficiency vs inhibitors
+
+ 
+Discharge Condition:
+Stable. Hct stable, no bleeding since [**11-12**].
+
+ 
+Discharge Instructions:
+Your care is being transferred to the [**Hospital1 4903**].
+
+please have repeat speech and swallow once [**Doctor First Name **] have returned to 
+[**Hospital **] rehab WITH YOUR DENTURE IN PLACE to see if nutrition 
+consistency can be upgraded. 
+
+[**Doctor First Name 54**] should have periodic hematocrit checks to ensure [**Doctor First Name **] are not 
+having any occult bleeding.
+ 
+Followup Instructions:
+[**Doctor First Name 54**] should continue to follow up with your geriatrics attendings 
+at [**Hospital1 4903**].
+
+[**Doctor First Name 54**] should f/u with your PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] after your stay at 
+[**Hospital1 4903**].
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 9782**] MD [**MD Number 9783**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 1079**] MD [**MD Number 1080**] [**2990-11-16**] @ 1218
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2990-11-17**] 10:47 AM
+(End of Report)
+
+
+",,
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-11**] 11:42 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4422**]
+     Reason: ?CHF,INCREASE SOB
+     Admitting Diagnosis: BLEEDING GUMS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with history of CHF and increasing shortness
+     of breath.  Evaluate.
+     
+     COMPARISON:  None.
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  The cardiac silhouette, mediastinal and
+     hilar contours are within normal limits.  The pulmonary vasculature is normal.
+     Both lungs are clear without consolidations or effusions.  The surrounding
+     soft tissue and osseous structures demonstrate severe scoliosis of the
+     thoracic and lumbar spine.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-11**] 11:42 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4422**]
+     Reason: ?CHF,INCREASE SOB
+     Admitting Diagnosis: BLEEDING GUMS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with history of CHF and increasing shortness
+     of breath.  Evaluate.
+     
+     COMPARISON:  None.
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  The cardiac silhouette, mediastinal and
+     hilar contours are within normal limits.  The pulmonary vasculature is normal.
+     Both lungs are clear without consolidations or effusions.  The surrounding
+     soft tissue and osseous structures demonstrate severe scoliosis of the
+     thoracic and lumbar spine.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-11**] 4:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4421**]
+     Reason: ?aspiration pneumonitis now                                 
+     Admitting Diagnosis: BLEEDING GUMS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with cough and leukocytosis , fever 103.                     
+                    
+     REASON FOR THIS EXAMINATION:
+      ?aspiration pneumonitis now                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE UPRIGHT CHEST, [**2990-11-11**]
+     
+     INDICATION:  Cough and fever.  Question aspiration pneumonia.
+     
+     The heart size and pulmonary vascularity are normal.  There are patchy
+     opacities at both lung bases.  The remainder of the lungs are grossly clear.
+     The bones are diffusely demineralized and note is made of scoliosis.
+     
+     IMPRESSION:  Patchy bibasilar opacities, which may be due to the clinically
+     suspected diagnosis of aspiration or aspiration pneumonia.  Atelectasis is
+     within the radiological differential diagnosis.
+
+",,
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-11**] 11:50 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4423**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for retroperitoneal bleeding; also,please fo
+     Admitting Diagnosis: BLEEDING GUMS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with acute 20point Hct drop not completely explained by oral 
+      mucosal bleeding after dentalprocedure.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for retroperitoneal bleeding; also,please focus attention on 
+      spleen - ? splenomegaly (h/[**Initials (NamePattern4) **] [**Doctor First Name 4424**])
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with a history of polycythemia [**Doctor First Name 4424**], now with
+     recent 20-point hematocrit drop.  Evaluate.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT imaging of the abdomen and pelvis was performed without
+     intravenous contrast.  No intravenous contrast was administered per protocol.
+     Coronal and sagittal reformatted images were obtained.
+     
+     CT ABDOMEN WITH ORAL, WITHOUT INTRAVENOUS CONTRAST:  Atelectasis and scarring
+     is seen at both lung bases, without pleural effusions.  There are coronary
+     artery calcifications and signs of anemia.  Imaging of the abdomen is limited
+     by the lack of intravenous contrast.  Allowing for this, the liver is normal
+     in attenuation.  An 8-mm calcification is seen within the right liver lobe.  A
+     few calcified gallstones are seen within a non-distended gallbladder.  The
+     pancreas is largely fatty replaced.  The spleen is enlarged measuring up to 15
+     cm.  A 6-mm hypodensity within the posterior pole is inadequately
+     characterized on this non-contrast study.  Both adrenal glands are full, and
+     demonstrates CT characteristics consistent with adenomas.  The right adrenal
+     gland appears normal.  Multiple foci of high and low attenuation are seen in
+     both kidneys, which are too small to characterize.  A 3.5 x 3.8 cm cyst with
+     rim calcifications extends off the inferior pole of the right kidney.  There
+     is dense atherosclerosis involving the abdominal aorta, and proximal
+     mesenteric branches.  The abdominal loops of large and small bowel are grossly
+     unremarkable.  There is no intraabdominal, or retroperitoneal fluid to suggest
+     hematoma.
+     
+     CT PELVIS WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is
+     seen within a collapsed bladder.  The sigmoid, rectum are unremarkable.  There
+     is no inguinal or pelvic lymphadenopathy.  There is no free air and no free
+     fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous
+     abnormalities.  Diffuse degenerative changes are seen throughout the lower
+     thoracic and lumbar spine, with mild S-shaped scoliosis.
+     
+     Coronal and sagittal reformatted images confirm the axial findings.  MPR value
+                                                                 (Over)
+
+     DATE: [**2990-11-11**] 11:50 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4423**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for retroperitoneal bleeding; also,please fo
+     Admitting Diagnosis: BLEEDING GUMS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     grade II.
+     
+     IMPRESSION:
+     1.  No evidence of retroperitoneal hematoma.  No intra-abdominal fluid.
+     2.  Splenomegaly measuring up to 15 cm, consitent with history of polycythemia
+     [**Doctor First Name 4424**].
+     3.  Low attenuation within the vessels consistent with moderate/severe anemia.
+     4.  Gallstones.
+     5.  Multiple high and low attenuation lesions in bilateral kidneys, which are
+     inadequately characterized on this non-contrast study.
+     6.  Bilateral adrenal adenomas.
+     7.  Atherosclerosis.
+     
+
+",,
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-11**] 11:50 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4423**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for retroperitoneal bleeding; also,please fo
+     Admitting Diagnosis: BLEEDING GUMS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with acute 20point Hct drop not completely explained by oral 
+      mucosal bleeding after dentalprocedure.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for retroperitoneal bleeding; also,please focus attention on 
+      spleen - ? splenomegaly (h/[**Initials (NamePattern4) **] [**Doctor First Name 4424**])
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with a history of polycythemia [**Doctor First Name 4424**], now with
+     recent 20-point hematocrit drop.  Evaluate.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT imaging of the abdomen and pelvis was performed without
+     intravenous contrast.  No intravenous contrast was administered per protocol.
+     Coronal and sagittal reformatted images were obtained.
+     
+     CT ABDOMEN WITH ORAL, WITHOUT INTRAVENOUS CONTRAST:  Atelectasis and scarring
+     is seen at both lung bases, without pleural effusions.  There are coronary
+     artery calcifications and signs of anemia.  Imaging of the abdomen is limited
+     by the lack of intravenous contrast.  Allowing for this, the liver is normal
+     in attenuation.  An 8-mm calcification is seen within the right liver lobe.  A
+     few calcified gallstones are seen within a non-distended gallbladder.  The
+     pancreas is largely fatty replaced.  The spleen is enlarged measuring up to 15
+     cm.  A 6-mm hypodensity within the posterior pole is inadequately
+     characterized on this non-contrast study.  Both adrenal glands are full, and
+     demonstrates CT characteristics consistent with adenomas.  The right adrenal
+     gland appears normal.  Multiple foci of high and low attenuation are seen in
+     both kidneys, which are too small to characterize.  A 3.5 x 3.8 cm cyst with
+     rim calcifications extends off the inferior pole of the right kidney.  There
+     is dense atherosclerosis involving the abdominal aorta, and proximal
+     mesenteric branches.  The abdominal loops of large and small bowel are grossly
+     unremarkable.  There is no intraabdominal, or retroperitoneal fluid to suggest
+     hematoma.
+     
+     CT PELVIS WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is
+     seen within a collapsed bladder.  The sigmoid, rectum are unremarkable.  There
+     is no inguinal or pelvic lymphadenopathy.  There is no free air and no free
+     fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous
+     abnormalities.  Diffuse degenerative changes are seen throughout the lower
+     thoracic and lumbar spine, with mild S-shaped scoliosis.
+     
+     Coronal and sagittal reformatted images confirm the axial findings.  MPR value
+                                                                 (Over)
+
+     DATE: [**2990-11-11**] 11:50 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4423**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for retroperitoneal bleeding; also,please fo
+     Admitting Diagnosis: BLEEDING GUMS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     grade II.
+     
+     IMPRESSION:
+     1.  No evidence of retroperitoneal hematoma.  No intra-abdominal fluid.
+     2.  Splenomegaly measuring up to 15 cm, consitent with history of polycythemia
+     [**Doctor First Name 4424**].
+     3.  Low attenuation within the vessels consistent with moderate/severe anemia.
+     4.  Gallstones.
+     5.  Multiple high and low attenuation lesions in bilateral kidneys, which are
+     inadequately characterized on this non-contrast study.
+     6.  Bilateral adrenal adenomas.
+     7.  Atherosclerosis.
+     
+
+",,
+13888,18473,,,2990-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13888,18473,17281,,2990-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-12**] 6:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4425**]
+     Reason: Evaluate for interval change.                               
+     Admitting Diagnosis: BLEEDING GUMS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with cough and leukocytosis , fever.                        
+                 
+     REASON FOR THIS EXAMINATION:
+      Evaluate for interval change.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old with leukocytosis and fever.
+     
+     COMPARISON:  [**2990-11-11**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  Heart size and pulmonary vasculature are within
+     normal limits.  Focal consolidation at the right base and patchy opacity at
+     the left base.  Concerning for aspiration pneumonia or aspiration.  Note is
+     made of stable marked scoliosis.
+     
+     IMPRESSION:
+     1.  Focal consolidation at right base and patchy consolidation at left base
+     concerning for aspiration pneumonia Vs. aspiration.
+                                                                           
+
+",,
+13888,18473,17281,0,2990-11-12 05:15:00 EST,2990-11-12 05:36:00 EST,1099,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 1900-0700","
+NURSING ADMISSION AND PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT AND REVIEW OF CHART.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS AN 85Y/O F REHAB RESIDENT WITH EXTENSIVE MEDICAL HISTORY MOST NOTABLE FOR CVA WITH RESIDUAL LT. HEMIPARESIS AND POLYCYTHEMIAVERA WHO HAD 5 TEETH PULLED YESTERDAY IN UPPER GUM.  SHE HAS SINCE HAD PERSISTANT BLEEDING.  HAD REPORTEDLY BEEN SINCE BY HER DENTIST, WHO STATED THAT THE SUTURE LINE WAS INTACT AND THERE IS NO FUTHER INTERVENTION POSSIBLE.  PT C/O SWALLOWING BLOOD BUT DENIED AN N/V/ LIGHT HEADEDNESS.
+
+IN ED, PT REMAINED HEMODYNAMICALLY STABLE.  MULTIPLE ATTEMPTS TO STOP THE BLEEDING INCLUDING- CONSTANT NEAR PRESSURE, PLACEMENT OF GELFOAM, VITAMIN K, 4 UNITS FFP, SURGICEL, AFRIN, SILVER NITRATE, SUTURE PLACED.  PT HAD CRIT DROP FROM 41 TO 32 TO 22.  PT RECEIVED TOTAL OF 2U PRBC'S FROM THE ED.  TX TO FICU FOR FURTHER MANAGEMENT.
+
+NEURO:  PT VREY [**Doctor Last Name **] THIS SHIFT BUT EASILY AROUSABLE WITH VERBAL STIMULATION.  ORIENTED ONLY TO SELF, NEEDS REORIENTATION TO TIME, DATE AND PLACE.  MEDICAL RECORDS NOTE DEMENTIA, HOWEVER, PT'S DAUGHTER STATES THAT MOST TIMES SHE IS QUITE LUCID.  PT ABLE TO EXPRESS SOME NEEDS AND IF SHE IS IN PAIN.  HOWEVER, GETS QUITE AGITATED AT TIMES.  PT IS NEED OF ORAL CARE- THIS RN HAS ONLY BEEN ABLE TO DO MINIMAL ORAL CARE AS PT WILL ACTIVELY ATTEMPT TO BITE AND SCRATCH DESPITE REASSURANCE.  CATARACTS NOTED TO BILATERAL PUPILS.  LHEMIPARESIS- NO APPARENT DIFFICULTY IN MOVING RT UPPER AND LOWER EXTREMITY.  AFEBRILE THIS SHIFT.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR TO BILATERAL UPPER LOBES AND DIMINISHED TO BILATERAL BASES.  2L NC.  BILATERAL CHEST EXPANSION NOTED.  NO C/O DIFFICULTY BREATHING OR SOB.  NO INCREASED WOB NOTED.  SP02 > OR = TO 95%.  RR 15-20.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 70-80'S WITH NO SIGNS OF ECTOPY NOTED.  DENIES ANY CHEST PAIN.  SBP > OR = TO 100 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  PT RECEIVED TOTAL OF 2U PRBCS.  AM CRIT IS NOW 27.  PALPABLE PULSES NOTED TO BILATERAL RADIALS AND DORSALIS PEDIS.  PT HAS 2 #18 PIV.  SECURE AND PATENT.  PT RECEIVED AMIONCAPROIC ACID INFUSION X 8 HOURS FOR ANTICOAGULATION.
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NON-TENDER TO PALPATION.  BS X 4 QUADRANTS.  NO BM THIS SHIFT, PASSING FLATUS.  NPO AT THIS TIME.  UNABLE TO TAKE PO'S AT THIS TIME DUE TO LETHARGY.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED I ADEQUATE AMOUNTS.  
+
+INTEG:  MULTIPLE BRUISES NOTED TO BILATERAL UPPER EXTREMITIES.  VERY FRAGILE SKIN.  NO SIGNS OF BREAKDOWN TO BACK OR BUTTOCKS NOTED.
+
+SOCIAL:  VERY INVOLVED DAUGHTER IN TO VISIT.  MULTIPLE QUESTIONS- SPOKE WITH DR. [**Last Name (STitle) 5400**], NO ISSUES.
+
+PLAN/DISPO:  MONITOR CRIT Q 6 HOURS, NEXT CRIT IS DUE AT 1000 PLEASE- GOAL FOR CRIT OF 30.  WILL TX AS NEEDED.  DNR/DNI.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+
+",,
+13888,18473,17281,0,2990-11-12 18:04:00 EST,2990-11-12 18:37:00 EST,6155,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Contact Precautions for Hx of VRE in urine.
+
+Neuro: A&Ox2, pt sleepy this afternoon but arousable by tactile and verbal stimulation, denies pain. Calm and cooperative, asking for water, nurse giving 2 spoonfuls of H2O  q hr. to moisten mouth, she is NPO, no ice chips d/t risk of bldg. (+)L hemiparesis.
+
+Resp: Lungs clear to upper lobes, diminished lower lobes, RR 18-31, unlabored, O2 sats 96-98% on O2@1L NC.
+
+CV: HR 68-74 NSR, no ectopy, BP's 106-129/31-41. Recieved 1U RBC's for HCT 27, following HCT was 29, please follow 1800 labs for new HCT and lytes. Bolused with 500ml 1/2NS x 2 for low UO with little improvement, team aware. D5W continuing at 75cc/hr.
+
+ID: Afebrile.
+
+GI: BS (+), abd softly distended, no BM, cont. NPO.
+
+GU: Foldy cath intact draining yellow urine 20-30cc/hr.
+
+Skin: Dry and intact. No bldg. to gums noticed this shift.
+
+Plan: Continue to monitor VS, follow evening lytes and CBC, ?callout to floor tomorrow if HCT stable.
+
+
+",,
+13888,18473,17281,0,2990-11-13 02:22:00 EST,2990-11-13 02:28:00 EST,1099,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+NEURO:  PT ALERT AND ORIENTED X 2.  SPEECH CLEAR.  ABLE TO VOCALIZE NEEDS AS NEEDED WITHOUT DIFFICULTY.  LT HEMIPARESIS- NORMAL STRENGTH NOTED TO RT SIDE.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR TO BILATERAL UPPER LOBES AND DIMINISHED TO BILATERAL BASES.  BILATERAL CHEST EXPANSION NOTED.  RR 15-20 WITH NO C/O DIFFICULTY BREATHING OR SOB.  NO INCREASED WOB NOTED.  1L NC.  SP02 . OR = TO 95%.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 70-80'S WITH NO SIGNS OF ECTOPY NOTED.  DENIES ANY CHEST PAIN.  SBP > OR = TO 90 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  PT RECEIVED TOTAL OF 40MEQ K THIS SHIFT. PALPABLE PULSES NOTED TO BILATERAL RADIALS AND DORSALIS PEDIS.  2 #18PIV'S TO BILATERAL FA.  SECURE AND PATENT.
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NON-TENDER TO PALPATION.  BS X 4 QUADRANTS.  PT CURRENTLY NPO AT THIS TIME- SMALL SIPS OF WATER- GUM SUTURE LINE IS INTACT.  PASSING FLATUS.  NO BM THIS SHIFT.  RECEIVED TOTAL OF 2L D5W.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  NO SIGNS OF REDNESS OR BREAKDOWN NOTED TO BACK OR BUTTOCKS.
+
+SOCIAL:  NO CONTACT FROM FAMILY THIS SHIFT.
+
+DISPO:  DNR/DNI
+
+PLAN:  MAINTAIN CRIT OVER 30.  POSSIBLE CALL OUT TODAY- TRANSFER NOTE INITIATED.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+
+
+",,
+13888,18473,17281,0,2990-11-13 18:20:00 EST,2990-11-13 18:32:00 EST,953,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Events:  Pt's HCT has remained stable through the day.  Pt is called out to the floor awaiting a bed.
+
+Neuro:  This am, pt irritable and uncooperative with care.  Improved as day went on and is presently awake and alert, oriented x2-3.  Denies pain.  Left side hemiparesis.
+
+CV:  HR 80's, NSR. BP 140's-160's/50's.  Last HCT 37 at 1400, to be checked q8 hours.  No further bleeding noted from gum line.
+
+Resp:  LS's clear/diminished at the bases.  Crackles noted to b/l bases this am, improved as activity increased through the day.  O2 sat 94-96% on RA.  RR 24-36, appears labored at times, but patient denies feeling SOB.
+
+GI:  Abd softly distended with +bs's.  Incont of liquid black stool, guaiac +, sent for C. diff per order.  Tolerating liquids, some coughing with swallowing noted.  Ordered for speech and swallow consult.
+
+GU:  Foley draining marginal amounts of clear amber urine.  Pt thought to be dehydrated due to no PO intake, rec'd 500cc IVbolus of D5W with fair effect and then started on maintenance of D5W at 150cc/hr x1500cc.
+
+Skin:  Pt OOB to chair with 1 assist, stand and pivot, x2 today.  Buttocks reddened, duoderm placed to left gluteal area.  
+
+Social:  Pt's daughter visited this evening and spoke with Dr. [**First Name (STitle) 119**].  
+
+Plan:  Cont to monitor HCT, VS's, and I&O.  D/c planning for pt to return to [**Hospital **] Rehab.
+",,
+13888,,,,2990-11-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-24**] 3:23 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 4426**]
+     Reason: FEVER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     H31886 room 322 east.
+     
+     STUDY:  Single frontal view of the chest performed on [**2990-11-24**].
+     
+     HISTORY:  Fever.
+     
+     FINDINGS:  Comparison is made to the prior chest radiograph from [**11-12**]
+     and [**2990-11-11**].
+     
+     The cardiac silhouette and mediastinum are unchanged and within normal limits.
+     There are no focal infiltrates or pulmonary edema.  The patchy opacities seen
+     at the lung bases from [**2990-11-11**], is not well seen on today's study.
+     There is scoliosis of the thoracic spine with convexity to the right,
+     unchanged.
+     
+     IMPRESSION:
+     
+     1.  No evidence for acute cardiopulmonary process.
+     
+     2.  Scoliosis, unchanged.
+     
+
+",,
+13888,,,,2990-11-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-24**] 3:23 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 4426**]
+     Reason: FEVER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     H31886 room 322 east.
+     
+     STUDY:  Single frontal view of the chest performed on [**2990-11-24**].
+     
+     HISTORY:  Fever.
+     
+     FINDINGS:  Comparison is made to the prior chest radiograph from [**11-12**]
+     and [**2990-11-11**].
+     
+     The cardiac silhouette and mediastinum are unchanged and within normal limits.
+     There are no focal infiltrates or pulmonary edema.  The patchy opacities seen
+     at the lung bases from [**2990-11-11**], is not well seen on today's study.
+     There is scoliosis of the thoracic spine with convexity to the right,
+     unchanged.
+     
+     IMPRESSION:
+     
+     1.  No evidence for acute cardiopulmonary process.
+     
+     2.  Scoliosis, unchanged.
+     
+
+",,
+13888,,,,2990-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-28**] 7:23 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4428**]
+     Reason: eval for abscess, fluid collection                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman s/p dental extraction now with fevers, gum swelling, purulent 
+      drainage
+     REASON FOR THIS EXAMINATION:
+      eval for abscess, fluid collection                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg [**First Name8 (NamePattern2) **] [**2990-11-28**] 9:53 PM
+      Multiple maxillary and mandibular periapical lucencies consistent with dental
+      caries, without drainable fluid collection.  Maxillary and ethmoid sinus
+      disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post dental extraction with fever, gum swelling, and
+     purulent drainage, evaluate for abscess or fluid collection.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Axial MDCT images were obtained through the facial bones without
+     intravenous contrast.  Additional coronal reformations are provided.
+     
+     CT OF THE FACIAL BONES WITHOUT INTRAVENOUS CONTRAST:  There are multiple
+     extractions sockets within the right maxillary alveolar ridge containing soft
+     tissue density.  Periapical lucencies are noted within the maxillary alveolar
+     ridge involving two left maxillary molars, which also demonstrate coronal
+     lucencies.
+     
+     Periapical lucency is seen involving several mandibular incisors as well as a
+     right posterior mandibular molar, also consistent with dental caries.
+     
+     There is mild asymmetric soft tissue swelling within the subcutaneous fat
+     adjacent to the left maxilla without evidence of focal fluid collection. There
+     is mild mural opacification of the maxillary sinuses bilaterally, slightly
+     more prominent on the right, with a small air fluid level within the right
+     maxillary sinus.  There is mild mural opacification of the ethmoid air cells
+     bilaterally and mucosal thickening within the frontal sinuses.  The visualized
+     portions of the mastoid air cells are normally pneumatized.  There are
+     multiple subcentimeter submental lymph nodes not meeting criteria for
+     pathologic enlargement.
+     
+     The visualized portion of the brain demonstrates hypodensity within the right
+     MCA territory suggestive of prior infarct.
+     
+     IMPRESSION:
+     1.  Multiple periapical lucencies involving left maxillary molars as well as
+     right mandibular molar and mandibular incisors, findings that are suggestive
+     of dental caries.  No evidence of drainable fluid collection to suggest
+     abscess.
+     2.  Mild maxillary and ethmoid sinus mucosal disease.
+                                                                 (Over)
+
+     DATE: [**2990-11-28**] 7:23 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4428**]
+     Reason: eval for abscess, fluid collection                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Limited evaluation of the brain demonstrates probable prior infarct in the
+     right MCA territory.
+
+",,
+13888,,,,2990-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-28**] 6:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4427**]
+     Reason: eval for pneumonia                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old woman with fevers                                                
+     REASON FOR THIS EXAMINATION:
+      eval for pneumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with fevers.  Evaluate for pneumonia.
+     
+     COMPARISONS:  Comparison is made to [**2990-11-12**].
+     
+     TECHNIQUE:  AP semi-upright single view of the chest.
+     
+     FINDINGS:  There is again noted mild cardiomegaly which is stable when
+     compared to the prior study.  There is perihilar haziness and prominence of
+     the pulmonary vascularity suggesting mild CHF or fluid overload. There is also
+     a more patchy infrahilar opacity which could represent pneumonia. There is no
+     evidence of pneumothorax. Skeletal structures are stable when compared to the
+     prior study. Dental implants are noted.
+     
+     IMPRESSION:
+     1. Findings suggestive of CHF with mild pulmonary edema.
+     2. More confluent opacity in the right infrahilar region could represent
+     superimposed pneumonia.  
+
+",,
+13888,,,,2990-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2990-11-29**] 8:58 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4429**]
+     Reason: evaluate for infiltrate,CHF                                 
+     Admitting Diagnosis: FEVER, DENTAL INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with prior PNA with O2 requirement and ?RLL PNA on CXR       
+                               
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate,CHF                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  85-year-old woman with recurrent pneumonia.
+     
+     FINDINGS:  Comparison is made to prior study from [**2990-11-28**].
+     
+     Since the previous study, there has been no significant interval change. There
+     is again seen prominence of the interstitial markings suggestive of mild
+     pulmonary edema as well as bibasilar streaky opacities, suggestive of
+     subsegmental atelectasis. Underlying infiltrates in these regions cannot be
+     excluded.
+     
+
+",,

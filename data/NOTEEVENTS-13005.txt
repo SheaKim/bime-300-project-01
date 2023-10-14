@@ -1,0 +1,943 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13005,,,,3310-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-4**] 10:28 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11996**]
+     Reason: EVal of ICH                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with known brain mets and increasing bleed from OSH             
+     REASON FOR THIS EXAMINATION:
+      EVal of ICH                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MAlb TUE [**3310-11-4**] 11:12 PM
+      1.  Area of white matter edema, soft tissue mass, and acute on chronic
+      hemorrhage in the right frontal lobe.
+      2.  Smaller area of likely white matter edema and hemorrhage in the left
+      frontoparietal lobe.
+      3.  Areas of low attenuation adjacent to the left frontal [**Doctor Last Name 548**] and in the left
+      internal capsule and basal ganglia may be areas of lacunar infarction or edema
+      from metastases.
+      
+      Assessment of interval change in hemorrhage cannot be made without prior
+      studies.  MR [**First Name (Titles) 1191**] [**Last Name (Titles) **] would be more sensitive in assessing extent of
+      metastatic disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old man with known brain metastases and ""increasing
+     bleeding"" from outside hospital, evaluate intracranial hemorrhage.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT HEAD WITHOUT IV CONTRAST:  Within the right frontal lobe, there is a large
+     area of low-attenuation within the white matter, consistent with vasogenic
+     edema. Additionally, there are areas of increased attenuation (series 2, image
+     23) and a larger area, which demonstrates layering of blood within a
+     surrounding area of low attenuation, suggesting acute-on-chronic hemorrhage.
+     There is associated sulcal effacement within the right frontal lobe,
+     consistent with some associated mass effect.  Adjacent to this area, there is
+     a prominent soft tissue component (series 2, image 18), which may correspond
+     to one of the patient's known metastatic lesions.
+     
+     There are areas of low-attenuation adjacent to the frontal [**Doctor Last Name 548**] of the left
+     lateral ventricle, which may represent areas of infarction or associated white
+     matter edema.  No other definite focal mass lesions are identified.  Within
+     the posterior right frontal lobe, (series 2, image 20), there is an area of
+     low-attenuation with a tiny peripheral margin of increased density, which may
+     represent another focus of more acute hemorrhage.  There is no shift of
+     normally midline structures.  Basal cisterns are patent.  No definite areas of
+     intracranial hemorrhage or mass effect identified within the temporal lobes or
+     the posterior fossa, though there is limited evaluation due to streak
+     artifact.
+     
+     There are post-surgical changes overlying the area of abnormality within the
+                                                                 (Over)
+
+     DATE: [**3310-11-4**] 10:28 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11996**]
+     Reason: EVal of ICH                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     right temporal region.  No soft tissue abnormality is seen.  No sclerotic or
+     lytic osseous lesion is identified.  The visualized portions of the paranasal
+     sinuses are well aerated.
+     
+     IMPRESSION:
+     1.  There are areas of low attenuation consistent with edema, predominantly
+     within the right frontal lobe.  Additionally, there are areas of focal
+     hemorrhage, some of which appears to be acute-on-chronic in that area, with
+     probable soft tissue mass lesion as well.  There is a second area of low
+     attenuation and probable hemorrhage within the left frontoparietal region.
+     2.  Several areas of low attenuation adjacent to the left frontal [**Doctor Last Name 548**], and
+     within the left internal capsule and basal ganglia likely represent additional
+     foci of vasogenic edema or, less likely, infarction.  No definite mass lesions
+     are identified in these areas.
+     3.  Obviously, ithout prior (outside) studies for comparison, the evolution of
+     hemorrhage or edema cannot be assessed. Further characterization with enhanced
+     MRI would be helpful in identifying the extent of metastatic disease, as well
+     as associated edema and hemorrhage.
+
+",,
+13005,,,,3310-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-4**] 10:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11995**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with MS changes. dec BS on right                                
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  61-year-old man with mental status changes.
+     
+     CHEST AP:  There are low lung volumes on the exam.  Accounting for this, the
+     cardiac, mediastinal, and hilar contours are within normal limits.  Pulmonary
+     vasculature is unremarkable.  The lungs are clear.  No pleural effusions are
+     identified.  A right IJ Port-A-Cath is noted with the tip in the SVC.  Osseous
+     and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  Accounting for low lung volumes on the exam, no acute
+     cardiopulmonary process is identified.
+                                                                           
+
+",,
+13005,9972,,,3310-11-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3310-11-5**]              Discharge Date:   [**3310-11-13**]
+ 
+Date of Birth:  [**3249-10-7**]             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Codeine
+ 
+Attending:[**First Name3 (LF) 2275**] 
+Chief Complaint:
+seizure
+ 
+Major Surgical or Invasive Procedure:
+whole brain radiation
+ 
+History of Present Illness:
+61yo man with metastatic melanoma, metastases to brain, and 
+seizures related to this disorder presents with seizures at 
+home. The history regarding his melanoma and seizures is listed 
+below. Per the patient's family, he has had decline over past 
+week - he has been talking less and less, when he does talk his 
+voice is very soft and hoarse. He has had trouble swallowing his 
+pills, and coughing when he drinks. He has persistent L arm and 
+face weakness that has slowly worsened over time, though he can 
+still walk around by himself (was walking the morning of 
+admission). He had been having OCD-like symptoms on Keppra, 
+which had been started for further seizure control as PHT had 
+not been controlling the seizures. He saw Dr. [**Last Name (STitle) **] the day 
+prior to admission, where Lamictal was started and keppra was 
+discontinued. The morning of admission, the pt woke up ""very 
+groggy."" He took the first dose of Lamictal 25 mg and his other 
+morning meds. At 1:30pm, his wife witnessed a prolonged 
+seizure-like episode lasting 20-25 minutes - with R hand shaking 
+and L leg shaking. After the event, he vomited and was very 
+sleepy. His wife called EMS; it is unclear if benzos were given. 
+He was taken to [**Hospital6 3061**] where a head CT showed some 
+""slightly"" increased edema and hemorrhage at the site of a known 
+hemorrhagic met in the R frontal [**Last Name (LF) 8381**], [**First Name3 (LF) **] he was transferred 
+here. 
+He has been sleepy and not saying much since the event; he has 
+persistent L arm and face weakness. On ROS, his wife and sister 
+do not think he has had fever; he has had HAs recently but did 
+not think he had HA today; no coughing, no GI/GU complaints, no 
+respiratory complaints except coughing when he eats or drinks 
+sometimes.
+ 
+Past Medical History:
+-Melanoma Hx:
+-- had moles removed few years ago, stage II melanoma, s/p
+resection with ""clean margins"" thought cured, no chemo
+-- presented this year with slight L facial droop, diagnosed 
+with
+metastatic melanoma, mets to brain discovered
+-- s/p craniotomy with resection R frontal lesion, still had
+deeper, contralat lesions
+-- s/p gamma knife at RIH/Dr. [**Last Name (STitle) 8382**] for other lesions
+-- Hemorrhage in met [**7-28**] had p/w difficulty talking;
+hospitalized, had PNA and DVTs (wife denies PE, but Dr.[**Doctor Last Name 8383**] notes detail that he did have PE); s/p filter in 
+each
+leg (one clotted off)
+-- Mesenteric mass [**9-19**] with bx consistent with melanoma
+-- Seizures started [**9-3**] - GTC 3-5 minutes, on PHT; subsequent 
+sz
+associated with low PHT levels, several hospitalizations at [**Hospital3 8180**] for this; had been started on Keppra
+-- On decadron since [**10-28**] again after another seizure
+-- Was taken off Keppra [**10-3**] after obsessive-compulsive sx noted
+by family, saw Dr. [**Last Name (STitle) **] for first time, Lamictal started
+
+Other PMH:
+-HTN
+-Anemia
+-Depression
+-High cholesterol (recently off meds for this)
+-kidney stones
+ 
+Social History:
+Lives with wife, taking medical leave from work - respiratory 
+therapist at [**Hospital6 3061**]. Quit tobacco this year, 
+formerly smoked ""whole life.""  No etoh, no drugs. Pt has no 
+living will/advanced directive, has discussed with wife that he 
+would not want to be on vent for long period of time, but is 
+full code for now.
+ 
+Family History:
+Mother had [**Name2 (NI) 2256**] ca; no other ca, no seizures, no neuro d/o's; 
+father had MI.
+ 
+Physical Exam:
+Admission exam:
+T 99.9  HR 100  BP 119/75  RR 22  100%RA
+General appearance: lethargic, sweaty, white male
+HEENT: mildly dry mucus membranes
+Neck: supple, no bruits
+Heart: regular rate and rhythm, no obvious murmurs
+Lungs: diminished to auscultation bilaterally
+Abdomen: soft, nontender +bs
+Extremities: warm, well-perfused
+
+Mental Status: The patient keeps eyes closed for most of exam, 
+opens eyes spontaneously at end of interview - says ""I have to 
+use the bathroom"" - voice very soft and slightly hoarse.  
+Appears very lethargic, and while examiner is talking to his 
+wife and sister, pt falls asleep, starts snoring.  Easily 
+arousable from [**Doctor Last Name 292**] state.  O/w no speech heard for entirity of 
+exam; follows commands to provide resistance, squeeze hands, but 
+does not follow all commands, and at times seems less attentive, 
+have to ask pt questions several times before he performs task.  
+
+
+Cranial Nerves: The visual fields are full. The optic discs 
+could not be visualized due to pupil size. Eye movements normal 
+with OCR, but pt had R gaze preference, eyes usually midline to 
+R, no nystagmus.  Pupils react equally to light, both directly 
+and consensually. Bilaterally brisk corneals.  Facial movements 
+are significant for L facial droop (UMN). Hearing is intact to 
+voice. Tongue and palate appear midline.
+
+Motor System: There is nl tone throughout, nl bulk. Pt 
+participates on command with most of strength exam as follows: 
+RUE: [**5-2**] at delt, [**Hospital1 **], tri, wrist and finger ext, and finger flex 
+RLE: [**5-2**] at IP, ham, quad, foot plantarflex, dorsiflex. LUE: 
+antigravity with some resistance at delt and [**Hospital1 **] (?4-/5), [**3-2**] 
+finger flexors, trace mvmt ([**2-2**]) of triceps and finger ext. LLE: 
+[**4-2**] at IP, full at quad, full plantarflex, did not participate 
+further.
+No tremor, could not assess drift due to pt's participation.
+
+Reflexes: The tendon reflexes are brisk and symmetric 
+throughout, with no clonus or crossed adductors; both toes are 
+upgoing.  
+
+Sensory: withdraws more vigorously on R side than left side, but 
+cannot assess sensation more fully at this time due to pt's 
+fatigue.
+
+Coordination and Gait: Could not be assessed.
+ 
+Pertinent Results:
+Labs:
+144 | 104 | 24 / 158    AGap=13 
+3.1 | 30  |0.9 \ 
+Ca: 8.7 Mg: 1.5 P: 4.2
+Phenytoin: 20.1 
+
+19.6 \ 11.4 / 218 
+     / 34.0 \ 
+
+PT: 14.8  PTT: 20.3  INR: 1.3 
+
+Imaging
+CT [**11-4**]:
+3x3.5 cm right frontal metastasis surrounded by vasogenic edema, 
+more extensive when compared with MRI [**10-3**]. 2mm shift. Multiple 
+other mets as noted on previous scans. 
+.
+[**11-7**] - video s/s eval - IMPRESSION: Aspiration of thin 
+consistency. For further recommendations, please consult the 
+speech pathology note available on CareWeb.
+.
+[**11-7**] CT abd/pelvis - 
+1. Large mass arising from the body of the pancreas with atrophy 
+of the pancreatic tail. There is an adjacent large lobulated 
+mass, which likely represents consolidative lymphadenopathy. 
+These findings are most consistent with metastatic melanoma. A 
+primary pancreatic neoplasm is less likely.
+2. Cholelithiasis without evidence of cholecystitis.
+.
+[**11-6**] - CXR -IMPRESSION: Bibasilar atelectasis. No evidence of 
+pneumonia.
+ 
+Brief Hospital Course:
+61yo man with metastatic melanoma with metastases to brain, 
+presented with likely seizure and was transferred here when OSH 
+scan showed slight increase in edema and hemorrhage right 
+frontal known lesion, and new left insular lesion. On exam, he 
+was very lethargic, with otherwise worsening of baseline 
+deficits (weakness on L, relative aphasia) which could be 
+persistent postictal state versus mental status changes from 
+increased edema associated with metastasis, versus underlying 
+infection. 
+
+Hospital course is reviewed below by problem:
+
+1. seizure: likely secondary to his metastasis and increasing 
+edema/hemorrhage. He was continued on dilantin with goal level > 
+20. Lamictal was also continued at his home dose (recently 
+started). He was started on a low dose of ativan three times a 
+day. And treated for infection (see below).  Patient remained 
+seizure free thereafter.  He was continued on dilantin 300 mg, 
+300 mg, 200 mg.  Lamictal 50 bid. increasing dose qmonday, 
+should be monitored for drug rash.  Continue ativan 0.5mg tid.
+
+2. brain metastasis w/ edema: Given the increase in edema, he 
+was put on a higher dose of decadron. He was initially admitted 
+to the ICU, and transferred out of the unit when he remained 
+stable. He was then transferred to the neurooncology service and 
+underwent whole brain XRT. Neurosurgery saw him prior to the XRT 
+and determined that he did not need surgical intervention prior 
+to the radiation.  He received XRT, total 5 treatments and was 
+monitored on a medicine floor during this time and his mental 
+status continued to improve.  He will continue decadron with a 
+taper and bactrim prophy while on decardron.
+
+3. Melanoma - per [**First Name8 (NamePattern2) 8128**] [**Doctor Last Name **] no planned chemo for atleast 1 
+month after radiation.
+
+4. ID: Patient febrile and had leucocytosis with bandemia on 
+admission so in setting 
+of seizures was started on zosyn.  2/2 blood cx. positive for 
+pseudomonas, pan sensitive.  source unclear, as urine cx., CXR 
+negative.  switched to levofloxacin [**11-7**], afebrile since.  
+Follow up surveillance cx. negative. Continue levoflox for 14 
+day course (started [**3310-11-5**]).
+
+5. Elevated amylase, lipase: nl on admit, no abdominal pain, 
+with elevated amylase after radiation, quickly trended down.  ? 
+acute parotitis with hyperamylesemia following WBXRT.  Abd. CT 
+with pancreatic mass, GI consulted and felt that as has nl. 
+clinical exam unlikely acute pancreatitis. Continued artificial 
+saliva PRN.  
+
+6. HTN: cont metoprolol, hctz, lasix
+7. FEN: He was evaluated by speech and swallow, who were 
+concerned for silent aspiration; they recommended - reg, HH, 
+soft diet with nectar-thickened liquids
+8. code: DNR/DNI
+ 
+Medications on Admission:
+Toprol XL 12.5 mg qd
+HCTZ 25 mg qd
+Lasix 20 mg qam
+Iron 325 mg tid
+KCl 80 mEq bid
+Zoloft 150 mg qam
+Dilantin 300/200/300
+OFF Keppra since last night (last dose)
+Lamictal 25 mg bid (FIRST DOSE THIS AM), with plans to incr over
+4 wks
+Oxycontin 20 mg bid
+Colace
+Protonix ?40 mg bid
+Metoclopham 10 mg 4xd
+Procrit ""prn""
+Miralax prn
+Decadron 6 mg tid
+Ativan 0.5 mg prn sz (took one dose this PM)
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q4-6H (every 4 to 6 hours) as needed.  
+2. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+4. Sertraline 50 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+5. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: One (1) 
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).  
+6. Nystatin 500,000 unit Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours).  
+7. Artificial Saliva 0.15-0.15 % Solution Sig: One (1) ML Mucous 
+membrane  PRN (as needed) as needed for mouth dryness.  
+8. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+9. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours): Start date [**11-5**] for total 14 day course.  . Tablet(s) 
+
+10. Lamotrigine 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day).  
+11. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day).  
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+13. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+14. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+15. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+16. Dexamethasone 8 mg IV Q8H 
+17. Metoclopramide 10 mg IV Q6H:PRN 
+18. Lorazepam 0.5-2 mg IV Q4H:PRN 
+PRN Seizure>3 minutes or >3 seizures in one hour; please call HO 
+when giving 
+19. Morphine Sulfate 2-4 mg IV Q4H:PRN Pain 
+20. Phenytoin 300 mg IV QAM 
+21. Phenytoin 300 mg IV QPM 
+22. Phenytoin 200 mg IV QHS 
+give this dose qPM 
+23. Heparin Flush Port (10units/ml) 5 ml IV DAILY:PRN 
+10 ml NS followed by 5 ml of 10 Units/ml heparin (50 units 
+heparin) each lumen Daily and PRN.  Inspect site every shift. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital 249**] Rehab
+ 
+Discharge Diagnosis:
+Seizure
+Metastatic Melanoma
+Bacteremia
+Hypertension
+
+ 
+Discharge Condition:
+Good, afebrile
+
+ 
+Discharge Instructions:
+Please continue to take all your medications and follow up with 
+your appointments below.
+
+If [**Doctor First Name **] have further seizures, fevers, or chills or other 
+concerning symptoms please contact your oncologist or return to 
+the emergency room.
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) 8384**] Phone:[**Telephone/Fax (1) 592**] Date/Time:[**3310-12-15**] 12:00
+Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 2276**], MD [**MD Number 224**]:[**Telephone/Fax (1) 225**] 
+Date/Time:[**3310-12-15**] 3:00
+.
+Please call [**Telephone/Fax (1) 8385**] to setup a follow up appointment with 
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in 1 month.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 2276**] MD [**MD Number 2277**]
+ 
+Completed by: [**First Name8 (NamePattern2) 5499**] [**Name8 (MD) **] MD [**MD Number 5500**] [**3310-11-14**] @ 0744
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: FRI [**3310-11-14**] 4:36 PM
+(End of Report)
+
+
+",,
+13005,9972,,,3310-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-5**] 9:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11997**]
+     Reason: 61 year old man with MS changes, melanoma, on steroids with 
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old man with MS changes, melanoma, on steroids with elev wbc ct and 
+      low grade temp - please perform repeat CXR on [**11-5**] 12 hrs after last CXR to 
+      look for interval change, development of ?infiltrate
+     REASON FOR THIS EXAMINATION:
+      61 year old man with MS changes, melanoma, on steroids with elev wbc ct and low 
+      grade temp - please perform repeat CXR on [**11-5**] 12 hrs after last CXR to look 
+      for interval change, development of ?infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 10:12 A.M., [**11-5**]
+     
+     HISTORY:  Mental status changes, melanoma, elevated white count, and low-grade
+     fever.
+     
+     IMPRESSION:  AP chest compared to [**11-4**]:
+     
+     Lungs are low in volume, but clear.  The heart is normal size.  Mild
+     dilatation of the mediastinal veins could be due to elevated central venous
+     pressure, but there is no other evidence of cardiac decompensation.  Tip of
+     the right supraclavicular infusion port projects over the junction of the
+     brachiocephalic veins.  No pneumothorax.
+                                                                           
+
+",,
+13005,9972,16181,0,3310-11-05 05:28:00 EST,3310-11-05 05:59:00 EST,6655,"N",53,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE","
+NURSING ADMISSION AND PROGRESS NOTE
+NURSING ADMISSION AND PROGRESS NOTE: SEE CAREVUE FOR OBJECTIVE DATA/TRENDS.
+
+ADMISSION HX:
+
+61 Y/O MALE WITH PMH METASTATIC MELANOMA, HTN, ANEMIA, DEPPRESSION, HYPERLIPDEMIA AND KIDNEY STONES. PT WOKE UP ""VERY GROGGY"" MORNING OF [**3310-11-4**]. 1:30 PM ON [**11-4**] WIFE WITNESSED  A PROLONGED SZ LASTING APPROX 20-25 MINUTES. RIGHT HAND AND LEFT LEG SHAKING. AFTER EVENT PT LETHARGIC AND VOMITTED. PT TRANSPORTED TO OSH. CT SCAN REVEALED ""SLIGHTLY"" INCREASED EDEMA AND HEMORRHAGE IN AREA OF KNOWN HEMORRHAGIC MET (R-FRONTAL LOBE). PT TRANSPORTED TO [**Hospital1 10**] FOR FUTHER WORK-UP.  
+
+NEURO: LETHARGIC. EASILY AROUSABLE. INCONSISITENTLY FOLLOWS COMMANDS. PERRL. SIGNIFICANT L-FACIAL FACIAL DROOP. LUE +LLE WEAKER THAN RUE+ RLE. TONGUE AND PALATE APPEAR MIDLINE. +WEAK COUGH. DENIES PAIN. 
+
+CARDIAC: HCT: BLE WITH +1 PITTING ITTING EDEMA. STABLE. NSR-ST. HR: 90S TO LOW 100S. SBP: 1100'S-120'S/60'S. +RADIAL,FEMORAL,POPITEAL,PT AND DP X2. CLS ON.
+
+PULM: 3L NC. POX: 96-100%. LS: R+LUL CLEAR, DIMINISHED BIBASILAR. NO COUGH NOTED.
+
+GI:POSSIBLE NPO-QUESTION ASPIRATION PNA. ABD:S, +BSX4,S,NT. NO BM.
+
+GU: FOLEY WITH MARGINAL HUO. MD [**Doctor Last Name **] AWARE. K-3.1 AND MAG 1.4 REPLETED. UA +C+S SENT.
+
+ENDO: FS QIS COVERAGE PER RISS. BS: 158.
+
+ID: T-MAX: 101.2,650MG TYLENOL GIVEN WITH EFFECT. PT PANCULTURED IN ED. STARTED ON FLAGYL AND ZOSYN QUESTION ASPIRATION PNA.
+
+IVL: R-CHECT PORTA CATH AND RH PIV. BOTH SITES WNL AND DRESSINGS INTACT. 
+
+SOCIAL WIFE [**Name (NI) **] AND SISTER IN TO VISIT. UPDATED REGARDING POC. EMOTIONAL SUPPORT PROVIDED. PLAN TO VIST ON [**3310-11-5**].
+
+PLAN: Q 2 HOUR NEURO CHECKS. CLOSELY MONITOR FOR FURTHER SEZIURE ACTIVITY.  WBXRT TODAY IF PT ABLE TO TOLERATE. PULM HYGIENE. TITRATE SUPPLEMENTAL OXYGEN AS TOLERATED. SURVAILLENCE LABS PRN. PAIN MANGEMENT. POSSIBLE NPO D/T QUESTION OF ASPIRATION PNA. REPOSITION Q 2. PROVIDE EMOTIONAL SUPPORT TO PT AND FAMILY. SOCIALWORK CONSULT. 
+",,
+13005,9972,16181,0,3310-11-05 17:47:00 EST,3310-11-05 18:10:00 EST,7742,"N",53,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+PLEASE SEE CAREVUE FOR DETAILS
+ NEURO: PT CONT W/GARBLED, SOFT SPEECH, A&O X2, ABLE TO MAKE NEEDS KNOWN TO FAMILY & STAFF. PERRL, 2-3MM, SLUGGISH. FOLLOWS COMMANDS CONSISTENTLY, MAES, CONT W/LEFT SIDED WEAKNESS, LUE>LLE. NO C/O PAIN, NO SEIZURE ACT NOTED, DILANTIN GIVEN, ATIVAN GIVEN. CONT ON DECADRON. PT TO START RADIATION THERAPY [**Doctor First Name **] AM.
+ 
+ CVS: HR 70S-80S, NSR, SBP 90S-110S, AFEBRILE. PALP PP, BLE EDEMA. BLD CX POS FOR AEROBIC NEG RODS PER MICRO LAB. PORT-A-CATH PATENT.
+ 
+ RESP: CONT 3L N/C, O2 SATS 97-99%, LUNGS CLEAR, DIMINISHED AT BASES. IMPAIRED GAG/COUGH, POOR SWALLOWING ABILITY W/PILLS, ? ASPIRATION W/MEDS-DR. [**Last Name (STitle) **] AWARE. 
+ 
+ GI/GU: NPO EXCEPT MEDS, +BS/FLATUS, NO BM. HRLY U/O>=30CC, HO AWARE. 
+ 
+ INTEG: PT TURNED FREQUENTLY, SKIN W/D/I
+ 
+ ENDO: BS COVERED PER RISS
+
+ PLAN: PT TO RECEIVE RADIATION TX [**Doctor First Name **] ON EAST CAMPUS. NEEDS TRANSFER TO EAST TO NOC R/T RN UNABLE TO STAY W/PT ON EAST DURING TX-DR. [**Last Name (STitle) **]/NSG AWARE, WILL F/U. CONT NPO, ?NGT R/T ASPIRATION RISK/PROCEDURE. CONT FREQUENT NEURO CHECKS, MONITOR FOR SEIZURE ACTIVITY. PAIN MGMT, FAMILY SUPPORT. 
+",,
+13005,9972,16181,,3310-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-6**] 4:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11998**]
+     Reason: interval change, possible aspiration risk                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        61 year old man with MS changes, melanoma, on steroids with elev wbc ct and  
+      low grade temp - please perform repeat CXR on [**11-5**] 12 hrs after last CXR to  
+      look for interval change, development of ?infiltrate
+     REASON FOR THIS EXAMINATION:
+      interval change, possible aspiration risk                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Fevers and aspiration.
+     
+     Portable AP chest radiograph compared to [**3310-11-5**] done at 10:12 a.m.
+     
+     The heart size is slightly enlarged but normal.  The mediastinal contours are
+     unremarkable.  The tip of the right Port-A-Cath catheter is in mid SVC.  The
+     lungs are clear except for small areas of discoid atelectasis in both bases. 
+     There is no crackle or pleural effusion.
+     
+     IMPRESSION:  Bibasilar atelectasis.  No evidence of pneumonia.
+                                                                           
+
+",,
+13005,9972,16181,0,3310-11-06 04:45:00 EST,3310-11-06 04:51:00 EST,6570,"N",53,"Nursing/Other","NPN 7P-7a","
+NPN 7P-7a
+See carevue for specifics:
+A&Ox2-3 with periods of confusion, follow commands inconsistantly, appears to be more alert when family members present. [**Name2 (NI) 4310**], denies pain, SBP 80s-low 100s, HR 70-80s NSR, LCTA, spo2 95-100% on 2L. Uneventful noc, slept most of the shift, easily arousable. No obivous sz activity noted.  Am Labs drawn K+2.9 currently repletely.
+A/P-Stable, monitor lytes, assess pain level offer prns, monitor neuro status, ? to East campus for radiatin/chemo today. Provide emotional support.
+",,
+13005,9972,,,3310-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-7**] 12:14 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 11999**]
+     Reason: evaluate for aspiration                                     
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic melanoma to brain                               
+     REASON FOR THIS EXAMINATION:
+      evaluate for aspiration                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of metastatic melanoma.  Evaluate for aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  The study was performed in conjunction with the
+     speech pathology staff.  Fluoroscopic guidance was provided while various
+     consistencies of barium were administered.  Aspiration with thin consistency
+     was noted.  There was prolonged chewing of solids that had to be washed down
+     with thin consistency to be cleared from the oropharynx.  There is no
+     aspiration with nectar consistency.
+     
+     IMPRESSION:  Aspiration of thin consistency.  For further recommendations,
+     please consult the speech pathology note available on CareWeb.
+                                                                           
+
+",,
+13005,9972,,,3310-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-7**] 9:36 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12000**]
+     Reason: evaluate for abdominal mets, pancreatitis                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     Field of view: 37 Contrast: OMNIPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with elevated amylase                                           
+     REASON FOR THIS EXAMINATION:
+      evaluate for abdominal mets, pancreatitis                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  61-year-old man with elevated amylase.
+     
+     TECHNIQUE:  Multidetector axial images of the abdomen and pelvis were obtained
+     without and with IV contrast.  100 cc Optiray.  Oral contrast was also
+     administered.  Coronal and sagittal reformatted images were obtained.
+     
+     CT ABDOMEN:  There is mild dependent atelectasis.  No focal hepatic lesions
+     are identified.  Decreased attenuation along the falciform ligament is likely
+     related to fatty replacement.  Stones are noted in the nondistended
+     gallbladder.  There is a 4.1 x 3.2 cm mass within the body of the pancreas.
+     The distal pancreas is atrophic.  Superior to this is an adjacent 6.2 x 5.5 cm
+     lobulated mass.  The adrenal glands, kidneys, stomach, and bowel loops are
+     unremarkable.  There are bilateral renal cysts and additional low attenuation
+     foci which may represent cysts but are too small to be fully characterized.
+     There is no free air or free fluid.  An IVC filter is noted.
+     
+     CT PELVIS:  Foley catheter and air are noted in the bladder.  The prostate,
+     seminal vesicles, sigmoid colon, and rectum are unremarkable.  There is no
+     free fluid and no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1.  Large mass arising from the body of the pancreas with atrophy of the
+     pancreatic tail.  There is an adjacent large lobulated mass, which likely
+     represents consolidative lymphadenopathy.  These findings are most consistent
+     with metastatic melanoma.  A primary pancreatic neoplasm is less likely.
+     
+     2.  Cholelithiasis without evidence of cholecystitis.
+     
+
+",,
+13005,9972,,,3310-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-7**] 9:36 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12000**]
+     Reason: evaluate for abdominal mets, pancreatitis                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     Field of view: 37 Contrast: OMNIPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with elevated amylase                                           
+     REASON FOR THIS EXAMINATION:
+      evaluate for abdominal mets, pancreatitis                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  61-year-old man with elevated amylase.
+     
+     TECHNIQUE:  Multidetector axial images of the abdomen and pelvis were obtained
+     without and with IV contrast.  100 cc Optiray.  Oral contrast was also
+     administered.  Coronal and sagittal reformatted images were obtained.
+     
+     CT ABDOMEN:  There is mild dependent atelectasis.  No focal hepatic lesions
+     are identified.  Decreased attenuation along the falciform ligament is likely
+     related to fatty replacement.  Stones are noted in the nondistended
+     gallbladder.  There is a 4.1 x 3.2 cm mass within the body of the pancreas.
+     The distal pancreas is atrophic.  Superior to this is an adjacent 6.2 x 5.5 cm
+     lobulated mass.  The adrenal glands, kidneys, stomach, and bowel loops are
+     unremarkable.  There are bilateral renal cysts and additional low attenuation
+     foci which may represent cysts but are too small to be fully characterized.
+     There is no free air or free fluid.  An IVC filter is noted.
+     
+     CT PELVIS:  Foley catheter and air are noted in the bladder.  The prostate,
+     seminal vesicles, sigmoid colon, and rectum are unremarkable.  There is no
+     free fluid and no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1.  Large mass arising from the body of the pancreas with atrophy of the
+     pancreatic tail.  There is an adjacent large lobulated mass, which likely
+     represents consolidative lymphadenopathy.  These findings are most consistent
+     with metastatic melanoma.  A primary pancreatic neoplasm is less likely.
+     
+     2.  Cholelithiasis without evidence of cholecystitis.
+     
+
+",,
+13005,,,,3310-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-8**] 9:06 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 12001**]
+     Reason: Please evaluate for recurrent disease.                      
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old patient with a history of melanoma and brain
+     metastases.  Status post whole brain radiation therapy on [**11-13**].
+     
+     FINDINGS:  There is a large right frontal lobe enhancing metastasis measuring
+     3.2 x 3 cm with a large amount of adjacent vasogenic edema.  There is mild
+     mass effect upon the ipsilateral and lateral ventricle.  There is a 1.2 x 0.7
+     cm enhancing metastatic lesion within the left-sided postcentral gyrus.  An
+     additional enhancing 2 x 2.1 cm lesion is noted in the left caudate head
+     involving the anterior limb of the internal capsule.  There is a small right-
+     sided temporal craniotomy with some increased T1 signal just deep to it. It is
+     uncertain whether there is any enhancement in this area or whether these are
+     related to blood products from a prior biopsy perhaps.  No additional lesions
+     are identified.  There are mild amounts of adjacent vasogenic edema in the
+     left cerebral hemispheric mets.
+     
+     IMPRESSION:  A large right frontal intracranial metastasis present with a
+     large amount of adjacent vasogenic edema.
+     
+     Two smaller metastatic lesions are noted in the left cerebral hemisphere with
+     only mild adjacent vasogenic edema.  No prior MRIs are available for
+     comparison.  
+     
+
+",,
+13005,,,,3310-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-18**] 12:13 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12002**]
+     CT CHEST W/CONTRAST
+     Reason: METASTATIC MELANOMA, ? EVIDENCE OF DISEASE PROGRESSION
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic melanoma baseline scan prior to starting 
+      Temodar
+     REASON FOR THIS EXAMINATION:
+      ? evidence of disease progression                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO
+     
+     INDICATION:  61-year-old man with metastatic melanoma.
+     
+     COMPARISON:  [**3310-11-7**].
+     
+     TECHNIQUE:  MDCT axial images through the abdomen without intravenous contrast
+     were obtained.  Following intravenous contrast administration, images of the
+     chest, abdomen, and pelvis and delayed images at the level of the kidneys were
+     also obtained.
+     
+     Coronal and sagittal reconstructed images were displayed.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  The lungs are clear.  Atelectatic changes
+     in the dependent portions are noted.  The airways are patient to the
+     subsegmental bronchi, bilaterally.  The heart and great vessels are stable. No
+     evidence of pericardial or pleural effusions.  No evidence of mediastinal,
+     hilar, or axillary lymphadenopathy.  Port-A-Cath is noted in the right chest.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver, spleen,
+     and adrenal glands are stable.  There is a lobulated mass in the celiac axis
+     which has increased in size since prior examination.  The mass previously
+     measured 6.2 x 5.5 cm and today measures 6.5 x 6.1 cm.  The mass extends into
+     the lesser sac and is abutting the body of the pancreas.  The kidneys
+     demonstrate symmetrical enhancement without evidence of hydronephrosis.  There
+     are multiple hypodense lesions within the renal cortex, bilaterally, and
+     stable since prior examination.  An IVC filter is again noted.  The
+     gallbladder demonstrates multiple gallstones.  No evidence of acute
+     cholecystitis.  No evidence of free air or free fluid within the abdomen.  The
+     visualized loops of large and small bowel are unremarkable.
+     
+     CT OF THE PELVIS:  The rectum, sigmoid, bladder, and distal ureters are
+     stable.  The prostate and seminal vesicles are unremarkable.  No evidence of
+     free fluid within the pelvis.  No evidence of pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Interval slight increase in size in the lobulated mass in the celiac axis
+                                                                 (Over)
+
+     DATE: [**3310-12-18**] 12:13 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12002**]
+     CT CHEST W/CONTRAST
+     Reason: METASTATIC MELANOMA, ? EVIDENCE OF DISEASE PROGRESSION
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents metastatic melanoma.
+     
+     2.  Cholelithiasis without evidence of cholecystitis.
+     
+     
+
+",,
+13005,,,,3310-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-18**] 12:13 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12002**]
+     CT CHEST W/CONTRAST
+     Reason: METASTATIC MELANOMA, ? EVIDENCE OF DISEASE PROGRESSION
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic melanoma baseline scan prior to starting 
+      Temodar
+     REASON FOR THIS EXAMINATION:
+      ? evidence of disease progression                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO
+     
+     INDICATION:  61-year-old man with metastatic melanoma.
+     
+     COMPARISON:  [**3310-11-7**].
+     
+     TECHNIQUE:  MDCT axial images through the abdomen without intravenous contrast
+     were obtained.  Following intravenous contrast administration, images of the
+     chest, abdomen, and pelvis and delayed images at the level of the kidneys were
+     also obtained.
+     
+     Coronal and sagittal reconstructed images were displayed.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  The lungs are clear.  Atelectatic changes
+     in the dependent portions are noted.  The airways are patient to the
+     subsegmental bronchi, bilaterally.  The heart and great vessels are stable. No
+     evidence of pericardial or pleural effusions.  No evidence of mediastinal,
+     hilar, or axillary lymphadenopathy.  Port-A-Cath is noted in the right chest.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver, spleen,
+     and adrenal glands are stable.  There is a lobulated mass in the celiac axis
+     which has increased in size since prior examination.  The mass previously
+     measured 6.2 x 5.5 cm and today measures 6.5 x 6.1 cm.  The mass extends into
+     the lesser sac and is abutting the body of the pancreas.  The kidneys
+     demonstrate symmetrical enhancement without evidence of hydronephrosis.  There
+     are multiple hypodense lesions within the renal cortex, bilaterally, and
+     stable since prior examination.  An IVC filter is again noted.  The
+     gallbladder demonstrates multiple gallstones.  No evidence of acute
+     cholecystitis.  No evidence of free air or free fluid within the abdomen.  The
+     visualized loops of large and small bowel are unremarkable.
+     
+     CT OF THE PELVIS:  The rectum, sigmoid, bladder, and distal ureters are
+     stable.  The prostate and seminal vesicles are unremarkable.  No evidence of
+     free fluid within the pelvis.  No evidence of pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Interval slight increase in size in the lobulated mass in the celiac axis
+                                                                 (Over)
+
+     DATE: [**3310-12-18**] 12:13 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12002**]
+     CT CHEST W/CONTRAST
+     Reason: METASTATIC MELANOMA, ? EVIDENCE OF DISEASE PROGRESSION
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents metastatic melanoma.
+     
+     2.  Cholelithiasis without evidence of cholecystitis.
+     
+     
+
+",,
+13005,,,,3310-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-18**] 12:13 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12002**]
+     CT CHEST W/CONTRAST
+     Reason: METASTATIC MELANOMA, ? EVIDENCE OF DISEASE PROGRESSION
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic melanoma baseline scan prior to starting 
+      Temodar
+     REASON FOR THIS EXAMINATION:
+      ? evidence of disease progression                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO
+     
+     INDICATION:  61-year-old man with metastatic melanoma.
+     
+     COMPARISON:  [**3310-11-7**].
+     
+     TECHNIQUE:  MDCT axial images through the abdomen without intravenous contrast
+     were obtained.  Following intravenous contrast administration, images of the
+     chest, abdomen, and pelvis and delayed images at the level of the kidneys were
+     also obtained.
+     
+     Coronal and sagittal reconstructed images were displayed.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  The lungs are clear.  Atelectatic changes
+     in the dependent portions are noted.  The airways are patient to the
+     subsegmental bronchi, bilaterally.  The heart and great vessels are stable. No
+     evidence of pericardial or pleural effusions.  No evidence of mediastinal,
+     hilar, or axillary lymphadenopathy.  Port-A-Cath is noted in the right chest.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver, spleen,
+     and adrenal glands are stable.  There is a lobulated mass in the celiac axis
+     which has increased in size since prior examination.  The mass previously
+     measured 6.2 x 5.5 cm and today measures 6.5 x 6.1 cm.  The mass extends into
+     the lesser sac and is abutting the body of the pancreas.  The kidneys
+     demonstrate symmetrical enhancement without evidence of hydronephrosis.  There
+     are multiple hypodense lesions within the renal cortex, bilaterally, and
+     stable since prior examination.  An IVC filter is again noted.  The
+     gallbladder demonstrates multiple gallstones.  No evidence of acute
+     cholecystitis.  No evidence of free air or free fluid within the abdomen.  The
+     visualized loops of large and small bowel are unremarkable.
+     
+     CT OF THE PELVIS:  The rectum, sigmoid, bladder, and distal ureters are
+     stable.  The prostate and seminal vesicles are unremarkable.  No evidence of
+     free fluid within the pelvis.  No evidence of pelvic or inguinal
+     lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Interval slight increase in size in the lobulated mass in the celiac axis
+                                                                 (Over)
+
+     DATE: [**3310-12-18**] 12:13 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 12002**]
+     CT CHEST W/CONTRAST
+     Reason: METASTATIC MELANOMA, ? EVIDENCE OF DISEASE PROGRESSION
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents metastatic melanoma.
+     
+     2.  Cholelithiasis without evidence of cholecystitis.
+     
+     
+
+",,

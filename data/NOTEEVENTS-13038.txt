@@ -1,0 +1,1145 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13038,23214,,,3164-03-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3164-3-4**]              Discharge Date:   [**3164-3-16**]
+ 
+Date of Birth:  [**3072-5-31**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vicodin
+ 
+Attending:[**First Name3 (LF) 1062**] 
+Chief Complaint:
+nonhealing left great toe ulcer
+ 
+Major Surgical or Invasive Procedure:
+PTA/stents to RCIA and LCIA.
+
+ 
+History of Present Illness:
+Ms. [**Known patient lastname **] is a [**Age over 90 **] year old woman who was admitted for placement of 
+bilateral common iliac artery stents for peripheral vascular 
+disease for nonhealing toe ulcer on [**3-3**] and thrombin injection 
+for left common femoral pseudoaneurysm. She was s/p op day 2 and 
+was to be discharged when she developed the sudden onset of 
+shortness of breath. Her BP was 190/90 and O2 sat 68% on 4 L NC 
+she went up to 72%. An arterial blood gas obtained showed 
+7.28/47/51. She was started on a nitro drip and lasix IV. She 
+had rales all the way up and upon emergent intubation, froth was 
+visualized in ET tube.
+
+ 
+Past Medical History:
+CAD - s/p PTCA ([**5-30**]) with stenting x2 (LAD/RCA); EF 25%, global 
+LV hypokinesis
+HTN
+DM - Dx in [**3161**], A1C 6.1 ([**1-31**])
+Hypercholestrolemia - LDL 97 ([**1-31**])
+OA
+mild AR
+nonhealing Left great toe ulcer
+shingles 2002
+ 
+Social History:
+Lives in independent-living facility in [**Location (un) 5053**], fairly active, 
+able to do own ADLs. Nursing services available at her living 
+facility. Sons living in [**Location (un) 310**] and [**Hospital1 2574**], both involved 
+in care. Former smoker
+ 
+Family History:
+DM (mother)
+ 
+Physical Exam:
+afebrile, BP 126/76, HR 74,
+Gen: pleasant and cooperative
+HEENT: MMM, CN II-XII grossly intact
+Cor: RRR III/VI systolic murmur heard throughout the precordium
+Pulm: mild crackles bilaterally
+Abd: soft, NT ND + BS
+Ext: WWP, friable skin, trace pitting edema LE bilaterally, left 
+toe with 2 x 2 cm ulcer. Pedal pulses not palpable but are 
+dopplerable.
+ 
+Pertinent Results:
+CXR: The heart size is enlarged compared to the film from the 
+prior day. There is bilateral pleural effusions, left greater 
+than right. There is increased retrocardiac opacity that may be 
+due to effusion/consolidation/atelectasis. There is pulmonary 
+vascular redistribution. Compared to the film from the prior 
+day, the effusions are larger, the retrocardiac opacity is 
+greater but the remainder of the lungs have a slightly improved 
+appearance.
+
+EKG with increased lateral ST segment depressions and TW 
+inversions.
+
+TTE Conclusions: Ejection Fraction: 40%. The aortic valve 
+leaflets are severely thickened/deformed. There is 
+moderate-to-severe aortic valve stenosis with mild aortic 
+regurgitation. The mitral valve leaflets are moderately 
+thickened. The left ventricular inflow pattern suggests impaired 
+relaxation. There is no pericardial effusion. Compared with the 
+findings of the prior study (tape reviewed) of [**3164-3-9**], 
+the mean pressure gradient across the aortic valve is marginally 
+reduced.  
+
+catheterization with Common iliac stenting: 
+1. Retrograde access of bilateral CFA were obtained. 
+2. Diffuse peripheral vascular disease was noted in bilateral 
+lower 
+extremities. The abdominal aorta had mild distal disease. The 
+renal 
+arteries were single without apparent flow-limiting disease. 
+3. The right lower extremity had proximal disease. The CIA had a 
+70% 
+origin lesion with mild calcification. The EIA had mild disease 
+that was 
+no flow-limiting. The CFA was without flow-limiting disease. 
+4. The left lower extremity had disease througout its course. 
+The CIA 
+had a long tubular 80% lesion. The EIA had mild diffuse disease. 
+The 
+CFA was without flow-limiting disease. The SFA was totally 
+occluded 
+proximally. The PFA provided robust collaterals to the 
+popliteal. The 
+PT and PA supply run-off to the foot. The AT is severely 
+diseased with 
+reconstitution of the DP from PA collaterals. 
+5. Limited hemodynamics revealed a significant lesion in both 
+the RFA 
+and LFA compared to the central aorta with a 15 mmHg gradient 
+noted 
+after administration of IA nitroglycerin. This gradient 
+disappeared 
+after intervention. Opening pressures were markedly elevated 
+with blood 
+pressure 210/69 mmHg. 
+6. Successful stenting of bilateral CIA with ""kissing stents"" 
+using a 
+7.0 x 28 mm Omnilink in the right and 7.0 x 38 mm Omnilink in 
+the left. 
+postdilation was with 7.0 mm balloons. Final angiography 
+demonstrated no 
+residual stenosis, no angiographically apparent dissection, and 
+normal 
+flow. FINAL DIAGNOSIS:     
+1. Bilateral common iliac artery disease. 
+2. Severe diffuse arterial disease in the left lower extremity. 
+3. Severe central hypertension. 
+4. Successful treatment of bilateral CIA disease with stenting. 
+
+cardiac catheterization: COMMENTS:      
+1.  Selective coronary angiography revealed a right-dominant 
+system with 
+severe 3-vessel coronary disease.  The LMCA was heavily 
+calcified with a 
+distal 70% stenosis involving the origin of the LAD and LCx.  
+The LAD 
+had heavy proximal calcification and an ostial 90% stenosis.  
+The prior 
+LAD stent was widely patent, and there was mild distal diffuse 
+disease. 
+The LCx had an ostial calcific 80% stenosis.  The RCA had an 
+ostial 80% 
+stenosis.  The previous RCA stent was widely patent.  There was 
+also a 
+60% stenosis in the distal RCA at the origin of the RPDA. 
+2.  Resting hemodynamics revealed normal right- and mildly 
+elevated 
+left-sided filling pressures (mean RA 6 mmHg, mean PCW 13 mmHg). 
+ The 
+pulmonary artery pressure was moderately elevated (mean PA 34 
+mmHg). 
+The cardiac output was low-normal at 2.3 L/min/m2.  Simultaneous 
+
+measurement of arterial and left ventricular pressures critical 
+aortic 
+stenosis.  The peak-peak gradient across the aortic valve was 78 
+mmHg, 
+the mean gradient was 56 mmHg, and the calculated aortic valve 
+area was 
+0.48 cm2.  Post-valvuloplasty (see below), the peak-peak 
+gradient 
+decreased to 32 mmHg, the mean gradient to 28 mmHg, and the 
+calculated 
+valve area increased to 0.69 cm2. 
+3. Successful aortic valvuloplasty with a 22 x 60 mm balloon. 
+Final 
+valve calculation demonstrated a valve area of 0.69 cm2. No 
+apparent 
+complications were noted after the procedure (See PTCA 
+Comments). 
+FINAL DIAGNOSIS:     
+1. Severe 3-vessel coronary disease. 
+2. Minimal diastolic dysfunction. 
+3. Critical aortic stenosis. 
+4. Successful aortic baloon valvuloplasty without apparent 
+complications. 
+
+extremity catheterization:      
+1. Retrograde access was obtained via the right femoral artery 
+to the 
+contralateral TPT. There was mild distal aortic disease. The 
+previously 
+placed right iliac artery stent was without significant 
+stenoses. The 
+prior left iliac artery stent was without significant stenoses. 
+The left 
+common femoral artery was without obstructive disease. The left 
+superficial femoral artery was totally occluded at its origin. 
+The left 
+profunda femoris artery supplied collaterals to the popliteal 
+artery. 
+The trifurcation was without significant disease though the 
+posterior 
+tibial artery was totally occluded proximally. The peroneal and 
+anterior 
+tibial arteries filled the ankle to the foot. 
+2. Limited resting hemodynamics revealed normal central blood 
+pressures 
+of 135/43 mmHg. 
+3. Successful placement of three overlapping self-expanding 
+stents in 
+the previously, chronically, totally occluded left SFA (from 
+proximal to 
+distal 7.0 x 38 mm Dynalink, 7.0 x 100 mm Dynalink, and 6.0 x 
+100 mm 
+Dynalink) all postdilated with a 5.0 mm balloon. Final 
+angiography 
+demonstrated a 10% residual stenosis and normal flow (See PTCA 
+Comments). 
+4. Successful treatment of popliteal artery with a 5.0 x 40 mm 
+cryoplasty balloon over 5 inflations. Final angiography 
+demonstrated a 
+10% residual stenosis and normal flow (See PTCA Comments). 
+5. Successful placement of 7.0 x 28 mm Genesis stent in the 
+disrupted 
+right common iliac artery stent as well as balloon angioplasty 
+using the 
+stent delivery balloon in the left common iliac artery stent to 
+smooth 
+out the struts due to this difficult procedure.
+FINAL DIAGNOSIS:     
+1. Totally occluded left superficial femoral artery (SFA). 
+2. Totally occluded posterior tibial artery. 
+3. Normal central blood pressure. 
+4. Successful placement of self-expanding stents in left SFA. 
+5. Successful cryoplasty of left SFA into popliteal artery. 
+6. Successful placement of stent in right common iliac artery. 
+7. Successful angioplasty of left common iliac artery stent. 
+
+[**3164-3-8**] 04:30AM BLOOD WBC-10.7 RBC-3.70* Hgb-10.1* Hct-28.9* 
+MCV-78* MCH-27.2 MCHC-34.9 RDW-14.8 Plt Ct-206
+[**3164-3-8**] 04:30AM BLOOD Plt Ct-206
+[**3164-3-8**] 04:30AM BLOOD Glucose-106* UreaN-32* Creat-1.2* Na-135 
+K-3.5 Cl-98 HCO3-28 AnGap-13
+[**3164-3-6**] 03:15PM BLOOD CK(CPK)-66
+[**3164-3-5**] 09:15PM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**3164-3-6**] 03:31AM BLOOD CK-MB-9 cTropnT-0.11*
+[**3164-3-6**] 03:15PM BLOOD CK-MB-NotDone cTropnT-0.07*
+
+THREE VIEWS LEFT FOOT: When compared with the prior three views 
+left great toe dated [**3163-7-6**], there is evidence of 
+interval debridement, and bony removal at the base of the first 
+distal left phalanx. There is no significant periosteal reaction 
+or sinus tract to suggest osteomyelitis. The bones are severely 
+mineralized. There are no focal lesions. There is no evidence of 
+fracture or malalignment. There is no effusion. The joint spaces 
+are preserved. The surrounding soft tissues reveal a diffuse 
+vasculopathy.
+
+BILATERAL LOWER EXTREMITY VEINS ULTRASOUND: Grayscale and color 
+Doppler images of both common femoral, superficial femoral, and 
+popliteal veins were obtained. Normal waveforms, 
+compressibility, and augmentation was demonstrated. No 
+intraluminal thrombus is identified. Noted is a small right 
+popliteal fossa cyst. Also seen is a small, 2.8 x 1.1 cm 
+hematoma within the subcutaneous tissues of the left groin.
+IMPRESSION:
+1) No evidence of lower extremity DVT.
+2) Small right popliteal fossa cyst.
+3) Small left groin hematoma.
+
+GRAM STAIN (Final [**3164-3-10**]): 1+    (<1 per 1000X FIELD):   
+POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. WOUND 
+CULTURE (Final [**3164-3-13**]): STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+SPARSE GROWTH. ANAEROBIC CULTURE (Final [**3164-3-14**]):  NO ANAEROBES 
+ISOLATED. 
+
+CT of the head without contrast. FINDINGS: No hydrocephalus, 
+shift of normally midline structures, intracranial mass lesion, 
+or loss of [**Doctor Last Name 898**]-white differentiation is noted. No intracranial 
+hemorrhage is seen. Mild prominence of the ventricles and sulci 
+is probably appropriate for the patient's age. Scleral bands are 
+noted in each eye. Soft tissues and osseous structures are 
+otherwise unremarkable. IMPRESSION: No acute intracranial 
+abnormality. 
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname **] is a [**Age over 90 **] year old female who was admitted for elective 
+common iliac stenting and has a pertinent history of aortic 
+stenosis. 
+
+In terms of her pump function bedside echo showed moderate 
+global HK. A formal TTE showed a reduced EF. She then had a 
+cardiac catheterization which showed 3 vessel disease. CT 
+surgery was asked to comment and determined that she is not a 
+candidate for CABG. Her medical management was optimized with 
+Toprol XL, ACEI, lasix BID, atorvastatin, aspirin and isosorbide 
+dinitrate. She was euvolemic at discharge.
+
+Ms. [**Known patient lastname **] went into atrial fibrillation with rapid ventricular 
+response, likely precipitating an episode acute pulmonary edema 
+on floor [**3-7**]. She did not respond to diuresis and was 
+emergently inubated. She was transferred to the cardiac care 
+unit for mechanical ventilation. She was diuresed overnight and 
+spontaneously converted into NSR. She was extubated the 
+following morning without any complications. Once stable, 
+valvuloplasty was performed, increasing her valve area and 
+decreasing pressure differential (the peak-peak gradient 
+decreased to 32 mmHg, the mean gradient to 28 mmHg, and the 
+calculated valve area increased to 0.69 cm2). 
+
+For her peripheral vascular disease, she had common iliac artery 
+stents and a superior femoral artery stent placed. She was on 
+levofloxacin 250 QD at admission for her nonhealing toe ulcer. 
+She was seen by the podiatry service. They were able to probe to 
+bone, indicating that she has osteomyelitis. Cultures showed 
+coag negative staph. She was started on a 6 week course of 
+oxacillin and the levofloxacin was stopped since there were no 
+gram negatives on her swab. Her plavix 75 QD was continued.
+
+Ms. [**Known patient lastname **] has type II DM. Her pioglitazone was stopped when it was 
+discovered that she has decreased cardiac function and CHF. She 
+was controlled with a regular insulin sliding scale. She was 
+started on glipizide prior to discharge.
+
+Ms. [**Known patient lastname **] developed some acute renal failure, with a creatinine 
+that went from 1 at admit to 1.2. This was likely from the dye 
+loads she received during her 3 catheterizations, despite 
+efforts to protect her kidneys with acetylcysteine and 
+bicarbonate. It is expected that this will go back to baseline. 
+
+Ms. [**Known patient lastname **] became anemic following her interventions. Her HCT 
+dropped from 39 to 25 and she was transfused a unit of blood. 
+Her hematocrit was stable at discharge. 
+
+Ms. [**Known patient lastname **] has a history of dementia. She was continued on aricept 
+and namenda. 
+
+ 
+Medications on Admission:
+aricept 10, nemantine 10 BID, atenolol 75, accupril 30, lipitor 
+10, detrol 2 BID, ASA 325, levaquin 750 QD since [**2-17**], 
+pioglitazone,  
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*11*
+3. Donepezil Hydrochloride 5 mg Tablet Sig: Two (2) Tablet PO HS 
+(at bedtime).  
+4. Quinapril HCl 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. Memantine HCl 5 mg Tablet Sig: Two (2) Tablet PO bid ().  
+6. Detrol LA 4 mg Capsule, Sust. Release 24HR Sig: One (1) 
+Capsule, Sust. Release 24HR PO once a day.  
+7. Toprol XL 100 mg Tablet Sustained Release 24HR Sig: One (1) 
+Tablet Sustained Release 24HR PO once a day.  
+8. Oxacillin Sodium 10 g Recon Soln Sig: One (1) Recon Soln 
+Injection Q6H (every 6 hours) for 5 weeks. Recon Soln(s) 
+9. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day) for 1 weeks: then 400 MG QD for 2 weeks, then 200 
+mg QD, ongoing.  
+10. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR 
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).  
+11. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+14. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+15. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+16. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Coronary artery disease
+peripheral vascular disease with non healing left toe ulcer and 
+osteomyelitis
+aortic stenosis 
+Dementia 
+Diabetes Mellitus 
+Hypertension
+paroxysmal atrial fibrillation
+
+ 
+Discharge Condition:
+fair
+ 
+Discharge Instructions:
+POST STENT GUIDELINES.  Take all medications listed on the 
+medication sheet.  Take plavix as ordered lifelong. 
+Call physician for chest pain, hypertension, shortness of 
+breath, fever, chills, nausea, vomitting. [**Doctor First Name 54**] will need to have 
+your INR monitored as she's starting coumadin. Her target is INR 
+is [**1-30**], please check in 3 days. 
+
+She will need 5 weeks of oxacillin for her osteomyelitis. Please 
+check LFTs in 2 weeks. 
+ 
+Followup Instructions:
+See PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) 8445**] [**Name12 (NameIs) 8446**] [**Telephone/Fax (1) 3233**] within 2 weeks. 
+Ms. [**Known patient lastname **] should see her podiatrist in the next 2-3 weeks. 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1067**] MD [**MD Number 1068**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 73**] [**Last Name (NamePattern4) 74**] MD [**MD Number 75**] [**3164-3-14**] @ 1553
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**3164-3-16**] 6:50 PM
+(End of Report)
+
+
+",,
+13038,23214,,,3164-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-5**] 3:10 PM
+     36002 THROMBIN INJ PSEUDOANERYSM LEFT; GUID FOR PSEUDOANUREYSM (INJECTION)Clip # [**Clip Number (Radiology) 12453**]
+     Reason: Pt.needs PSA (1.6 x 2.1) left common femoral injected today 
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left groin pseudoanerysm after bilateral PTCA/stents tp 
+      RCIA and LCIA
+     REASON FOR THIS EXAMINATION:
+      Pt.needs PSA (1.6 x 2.1) left common femoral injected today .                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left superficial femoral artery pseudoaneurysm.
+     
+     TECHNIQUE/FINDINGS:
+     
+     After discussion of the risks and benefits with the patient, the left inguinal
+     area was prepped and draped in the sterile fashion.  Under realtime ultrasound
+     guidance, a 20 gauge needle was advanced into this patient's pseudoaneurysm
+     after which approximately 800 units of topical thrombin was injected with
+     complete cessation of flow.  The underlying vasculature remained widely
+     patent.
+     
+     IMPRESSION:
+     
+     Treatment of a left-sided superficial artery pseudoaneurysm with 800 units of
+     topical thrombin without incident.
+                                                                           
+
+",,
+13038,23214,,,3164-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13038,23214,,,3164-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-5**] 3:10 PM
+     36002 THROMBIN INJ PSEUDOANERYSM LEFT; GUID FOR PSEUDOANUREYSM (INJECTION)Clip # [**Clip Number (Radiology) 12453**]
+     Reason: Pt.needs PSA (1.6 x 2.1) left common femoral injected today 
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left groin pseudoanerysm after bilateral PTCA/stents tp 
+      RCIA and LCIA
+     REASON FOR THIS EXAMINATION:
+      Pt.needs PSA (1.6 x 2.1) left common femoral injected today .                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left superficial femoral artery pseudoaneurysm.
+     
+     TECHNIQUE/FINDINGS:
+     
+     After discussion of the risks and benefits with the patient, the left inguinal
+     area was prepped and draped in the sterile fashion.  Under realtime ultrasound
+     guidance, a 20 gauge needle was advanced into this patient's pseudoaneurysm
+     after which approximately 800 units of topical thrombin was injected with
+     complete cessation of flow.  The underlying vasculature remained widely
+     patent.
+     
+     IMPRESSION:
+     
+     Treatment of a left-sided superficial artery pseudoaneurysm with 800 units of
+     topical thrombin without incident.
+                                                                           
+
+",,
+13038,23214,,,3164-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-5**] 8:08 AM
+     FEMORAL VASCULAR US BILAT                                       Clip # [**Clip Number (Radiology) 12452**]
+     Reason: PT S/P ARTERIAL ACCESS, NOW WITH HEMATOMAS AND PAIN, ? PSEUDOANEURYSM OR AV FISTULA
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with aortoiliac stenting bilaterally [**3164-3-4**] with bilateral 
+      arterial access and hematomas and pain. 
+     REASON FOR THIS EXAMINATION:
+      Please rule out pseudoaneurysm and AV fistula.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Status post bilateral aortoiliac stenting, now with
+     bilateral groin hematomas and pain.  Assess for pseudoaneurysm.
+     
+     BILATERAL FEMORAL VASCULAR ULTRASOUND:  On the left side, there is an
+     approximately 1.6 x 2.1 cm rounded pseudoaneurysm located immediately anterior
+     to the left common femoral artery.  Turbulent flow with a mixed
+     arterial/venous waveform is identified within the pseudoaneurysm.  An
+     arteriovenous fistula is not visualized, but cannot be excluded.
+     
+     On the right side, a small linear hematoma is seen anterior to the common
+     femoral vein.  There is no evidence of a right-sided pseudoaneurysm or
+     arteriovenous fistula.  Normal arterial and venous waveforms are seen within
+     the right common femoral vessels.
+     
+     IMPRESSION:  1.6 x 2.1 cm pseudoaneurysm of the left common femoral artery, as
+     described above.  An adjacent arteriovenous fistula cannot be excluded on this
+     exam.
+     
+     
+
+",,
+13038,23214,,,3164-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-5**] 9:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12454**]
+     Reason: eval ET tube                                                
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with acute SOB  please eval placement of ET tube             
+                                       
+     REASON FOR THIS EXAMINATION:
+      eval ET tube                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with acute shortness of breath, now intubated.
+     Please evaluate endotracheal tube.
+     
+     AP view of the chest dated [**3164-3-5**] is compared with PA and lateral
+     chest x-ray of [**3161-11-24**].  The endotracheal tube lies 1.5 cm above the
+     carina.  An NG tube terminates in the body of the stomach.  There is left
+     lower lobe opacity and there may be right lower lobe opacity consistent with
+     consolidation.  There is mild pulmonary edema.
+     
+     IMPRESSION:
+     1.  Lines and tubes as described above.
+     2.  Left lower lobe and possible right lower lobe pneumonia.
+     3.  Mild pulmonary edema.
+
+",,
+13038,23214,16252,,3164-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-6**] 10:09 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 12456**]
+     Reason: please eval interval change                                 
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with pulmonary edema      post extubation                  
+                      
+     REASON FOR THIS EXAMINATION:
+      please eval interval change                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with pulmonary edema, status post extubation.
+     
+     Single AP view of the chest dated [**3164-3-6**], at 10:47, is compared with
+     the examination of the same date 3-1/2 hours prior.  The endotracheal tube and
+     nasogastric tube have been removed.  There is new mild congestive heart
+     failure.  There has been no change in the retrocardiac left lower lobe
+     opacity, which may represent a consolidative process.  There are small
+     bilateral pleural effusions.
+     
+     IMPRESSION:
+     
+     1)  Lines and tubes as described above.
+     
+     2)  New mild congestive heart failure.
+     
+     3)  Persistent left retrocardiac opacity.
+     
+
+",,
+13038,23214,16252,,3164-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-6**] 10:09 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 12456**]
+     Reason: please eval interval change                                 
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with pulmonary edema      post extubation                  
+                      
+     REASON FOR THIS EXAMINATION:
+      please eval interval change                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with pulmonary edema, status post extubation.
+     
+     Single AP view of the chest dated [**3164-3-6**], at 10:47, is compared with
+     the examination of the same date 3-1/2 hours prior.  The endotracheal tube and
+     nasogastric tube have been removed.  There is new mild congestive heart
+     failure.  There has been no change in the retrocardiac left lower lobe
+     opacity, which may represent a consolidative process.  There are small
+     bilateral pleural effusions.
+     
+     IMPRESSION:
+     
+     1)  Lines and tubes as described above.
+     
+     2)  New mild congestive heart failure.
+     
+     3)  Persistent left retrocardiac opacity.
+     
+
+",,
+13038,23214,16252,,3164-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-6**] 7:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12455**]
+     Reason: r/o edema                                                   
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with pulmonary edema                                        
+     REASON FOR THIS EXAMINATION:
+      r/o edema                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with pulmonary edema.
+     
+     Single AP view of the chest dated [**3164-2-25**], at 8:16, is compared with the
+     AP view of the chest from [**3164-3-5**], at 21:41.  The endotracheal tube
+     terminates 2.4 cm above the carina.  The NG tube tip terminates in the body of
+     the stomach.  There is continued left retrocardiac opacity, which may
+     represent consolidation.  No other definite opacities are identified.  There
+     is a small right pleural effusion.  The pulmonary vasculature is normal.  The
+     heart and mediastinal contours are unchanged.
+     
+     IMPRESSION:
+     
+     1)  Lines and tubes as described above.
+     
+     2)  Persistent left lower lobe opacity, which may represent consolidation. 
+     There is a small right pleural effusion.
+                                                                           
+
+",,
+13038,23214,16252,0,3164-03-06 02:16:00 EST,3164-03-06 03:00:00 EST,2560,"N",1,"Nursing/Other",,"
+
+
+FULL CODE   Universal Precautions   
+Allergy: Vicodin, contrast dye, shellfish
+
+
+[**Age over 90 **] yr-old female w/ PMH: CAD, HTN, Hyperlipidemia, DM, LV hypokinesis, hypercholesterol, OA, PVD w/ L great toe ulcer [**6-29**],shingles '[**60**], alzheimers
+
+Pt adm [**3-1**] for periph cath L leg for non-healing L great toe ulcer.  Procedure done, pt returned to floor, developed hematoma and brought back to dept, found to have L pseudo anuerysm.  Returned to floor and was to rest 1630-1830.  Son said there was no one at home to check on her (she lives in assisted living) and wanted her to stay in the hospital tonight.  At 1950, pt was acutely SOB, diaphoretic and anxious.  02sat 68-72%.  Pt was med w/ lasix, sedated and intubated.  Started on NTG gtt at 9mcg/min and this gtt was d/c'd shortly after arrival to CCU.
+
+Neuro:  Pt agitated and anxious.  BP upon arrival to CCU was 150-160 on NTG gtt.  Started on Propofol at 10mcg/kg/min w/ 10mg bolus.  Pt's BP very sensitive to sedation and SBP <50-60s.  It takes about 15 min when stopping the propofol for pt to then respond and BP>.  But w/o sedation, she is quite agitated.  Stopped propofol and gave Fent 25mcg IVP w/ same effect on BP.  Propofol restarted and dopamine started, currently at 4mcg/kg/min w/ BP = 121/57.  When lightened up, she does respond to verbal commands, but ? orientation - she is too agitated.
+
+CV:  HR=50s, SB w/ occ PVC.  BP has been labile - NTG stopped w/n the hour of tx to CCU - SBP was 150-160 upon tx.  Propofol started to 10 mcg for comfort, placement on OGT and a-line.  BP down to 60/.  When propofol off, it takes at least 15 min for pt's BP to increase and then pt gets all agitated, moving about the bed, etc.  She definetely needs some sedation, but her BP won't tolerate it - Dopamine tarted and is currently at 4mcg/kg/min w/ BP= 120/45.  R groin intact/tegaderm in place, no bleeding, no hematoma; L groin ecchymotic.  + pedal pulses, feet a bit cool bilat, no edema.
+
+Resp:  Vent at 500x14, 60% P=10.  ABG on 100% WNL except for P02-278 and decreased to 60%.  Repeat ABG/labs to be obtained.  Lungs coarse bilat, sx small thick white secretions via ETT.  Plan to extubate in am.
+
+GI/GU:  Abd soft, hypo BS, no BM.  NPO.  OGT placed, TF not started since plan to extubate.  Foley cath placed upon adm for 675cc.  Pt had received lasix prior to tx and had been incont large amoun urine.  U?O since has been 40-50cc/hr.
+
+Access:  PIVx3
+
+ID:  Afebrile  on Levaquin po.
+
+Pain:  Does not appear to be in pain - just very agitated.
+
+Labs:  based on labs upon adm, Mg repleated and FS covered w/ RISS.  To obtain am labs.
+
+Social:  Son in - [**Name2 (NI) 4360**] by intern/resident.
+
+So   
+",,
+13038,23214,16252,1,3164-03-06 02:16:00 EST,3164-03-06 06:10:00 EST,2560,"Y",1,"Nursing/Other",,"
+
+
+Procedures:  Echo done at bedside.  
+
+Vent changed to CPAP 5/PS10 40% w/ repeat ABG 7.46/35/125/26.  Will cont to wean.  
+
+Plan:  Wean vent as tol - plan to extubate this am.  Wean off propofol and dopamine.  Monitor labs.  Check neuro status.  Update son on status.
+
+",,
+13038,23214,16252,0,3164-03-06 05:39:00 EST,3164-03-06 05:45:00 EST,5268,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Pt became acutely SOB with increased WOB on the floors. Pt was intubated, sedated and diuresed and transfered to unit. Remained on CMV overnight FiO2 decreased to .4 with good oxygenation.Placed on Cpap W PS Tolerating well. ABG pending. Plan: extubate
+",,
+13038,23214,16252,0,3164-03-06 12:30:00 EST,3164-03-06 12:50:00 EST,6511,"N",1,"Nursing/Other","days","
+days
+n: pt agitated while intubated, but controlled with propofol. Once extubated, pt calm and pleasant, aox2-3 with family at bedside.  pt c/o sore throat but no pain.  turns with 1 assist. sons educated re: plan.
+
+cv: pt in nsr with triplet and dopped beats, K repleted and no ectopy since.  bp controlled with dopamine and once discontinued, pt required labetalol gtt for 1-2 hours to keep bp in 150-160s. pt given first dose of po atenalol and bp dropped to 90-100 systolic.  pre-admission meds to be restarted tommorow if bp stable.  pulses by doppler and left foot wtt, right cool, but with +csm.   aline d/c'd without incident and pt potentially to have stent to SFA placed on Monday. Dr. [**First Name (STitle) **] following pt status.
+
+r: pt extubated withoutincidnet and pt on 4l NC with rales to midlobes bilaterally, mds aware, no diuresis or med changes at this time.  o2 sats wnl, abg wnl.  + cough, non-productive, pulmonary toilet encouraged.
+
+gi/gu: abd benign, tolerates clears, no apetite for ^ po intake.  uop wnl at 40ccs/hr clear yellow.  no isulin needed this shift.  
+
+s: bilateral  groins with eccymosis noted, left > right but unchanged.  left toe unchanged with dry open tissue noted.  left ac hl pulled.  pneumo boots to be ordered with sq heparin and plavix.  rn to follow up with k repletion. 
+",,
+13038,23214,16252,,3164-03-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-7**] 3:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12457**]
+     Reason: Please assess for pulmonary edema                           
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman with CHF now with desat and respiratory distress          
+     REASON FOR THIS EXAMINATION:
+      Please assess for pulmonary edema                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Single view chest.
+     
+     INDICATION:  CHF with desaturation and respiratory distress.
+     
+     COMPARISON:  [**3164-3-6**].
+     
+     FINDINGS:  Mitral annulus calcification and calcifications within the aortic
+     arch.  Heart size is unchanged.  The pulmonary vasculature appears more
+     prominent in the interval.  There is no pneumothorax or lobar consolidation. 
+     The left hemidiaphragm is slightly elevated.  The osseous structures are
+     demineralized.
+     
+     IMPRESSION:  Slightly worse pulmonary edema.
+                                                                           
+
+",,
+13038,23214,16252,0,3164-03-07 09:56:00 EST,3164-03-07 10:05:00 EST,2651,"N",69,"Nursing/Other","Nursing Admission Note","
+Nursing Admission Note
+Pt admitted to MICU A from [**Hospital Ward Name **] 6 w/ increasing SOB and pulm edema. Pt had recently been in the CCU and intubated for same reasons, extubated [**3-6**] and sent to the floor. initially admitted [**3-4**] for placement of bilat common iliac stents. PMH significant for new dx CHF, critical AS, L ventricular hypokinesis, CAD, PVD, L groin pseudoaneurysm, intermittent Afib. Upon arrival to MICU pt 98% on NRB, slightly labored breathing, but able to carry on a conversation w/o difficulty. LS w/ crackles in mid-lower lobes. recieved Lasix x2 on the floor prior to arrival. Nitro gtt infusing at 1.4 mcg/kg/min. 
+",,
+13038,23214,16252,0,3164-03-07 17:48:00 EST,3164-03-07 18:11:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 1000-1900","
+Nursing Progress Note 1000-1900
+EVENTS- Pt has remained hemodynamically stable throughout shift. o2 weaned from NRB to 3 liters NC. given additional 80mg IV lasix w/ good u/o. 
+
+ROS- 
+
+CV- NSR, hr 60's, 1st degree AV block. no further episodes of RAF. NiBP 100-130's nitro gtt weaned off since 1500. no peripheral edema. 
+
+RESP- currently on 3liters NC w/ o2 sats 94-98%. non productive cough. crackles in bases. pt found not wearing her NC w/ spo2 of 92%. 
+
+NEURO- appears A&O, but w/ fluctuating levels of confusion. poor short term memory. requesting the same thing over and over, seeking reassurance at times. baseline mild dementia. apprehensive and fidgety. given frequent reminders and POC updates. c/o occ abd pain w/ coughing. 
+
+GI/GU- NPO all day until this evening, now tolerating cardiac diet. denies N/V. small stool x2.  u/o 80-120cc/hr out of light yellow urine. on RISS, BS's 180's. 
+
+SKIN- several purple bruises in various stages of healing to arms from lab sticks. very large healing hematoma to L groin. bilat fem site from stent placement intact. 
+
+ACCESS- piv x2. 
+
+PLAN- monitor for sun-downing and for safety. limit fluid intake. goal u/o -1 to 1.5 liters today. rest overnoc. will c/o tomorrow am if remains stable overnoc. FULL CODE. 
+",,
+13038,23214,16252,,3164-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-8**] 8:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12458**]
+     Reason: r/o pneumonia                                               
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old woman with CHF now with desat and respiratory distress , now 
+      febrile with sputum         
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF with respiratory distress.
+     
+     REFERENCE EXAMINATION:  [**3-7**].
+     
+     FINDINGS:  The heart size is enlarged compared to the film from the prior day.
+     There is bilateral pleural effusions, left greater than right.  There is
+     increased retrocardiac opacity that may be due to
+     effusion/consolidation/atelectasis.  There is pulmonary vascular
+     redistribution.  Compared to the film from the prior day, the effusions are
+     larger, the retrocardiac opacity is greater but the remainder of the lungs
+     have a slightly improved appearance.
+                                                                           
+
+",,
+13038,23214,16252,0,3164-03-08 05:29:00 EST,3164-03-08 05:40:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 1900-0700
+
+Pt had 2 episodes of RAF/ST around 5:30am which broke without intervention.  Otherwise no major events overnoc. please see carevue for all objective data.
+
+Neuro: pt is oriented x [**1-30**] at times but is confused especially upon awakening.  Pt able to  state she is confused and was reoriented as needed throughout the night. She is pleasant and cooperative with all care. Pt denies pain.  
+
+REsp: LS CTA. on 3l via nc. Sats 94-100%.  Denies SOB.
+
+CV: Hemodynamically stable BP 63-71, nsr, no ectopy noted. As stated above, pt had 3 episodes of HR >120 which broke on it's own without intervention.  BP 92-137/34-49.  Pt tolerated lopresser without problems. Hct 28.9%.  K 3.5.  Mg 1.8.
+
+GI: on cardiac/heart healthy diet.  1 small stool overnoc.  Tolerating POs without difficulties.
+
+GU: Started on PO lasix. U/o 15-130cc/hr.  Pt is negative 728cc @ midnoc.  Currently she is net negative 1725cc length of stay.
+
+ID: TMAX 100.9.  WBC 10.7.  Currently pt is not on any antibx.
+
+skin: multiple bruises on skin.  Large healing hematoma on left groin.
+
+Dispo: remain in micu. full code
+",,
+13038,23214,16252,0,3164-03-08 16:59:00 EST,3164-03-08 17:04:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Pt is c/o to the floor and awaiting a bed. has remained hemodynamically stable throughout the shift. maintains o2 sats >95% on 2liters NC. no SOB or resp distress. Much more depressed today, making statements like, ""just let me die"" and ""I cannot keep going like this"". perseverates about many desires such as toothpicks, brushing her teeth and her bowels. difficult to reassure and redirect. OOB to chair all morning, heavy assist of 2. tolerating general diet, good u/o. a few <30 second runs of RAF. Hr generally in the 60-70's. NiBP 100-120's systolic. am hct down to 28. repeat afternoon hct pending. FULL CODE. 
+",,
+13038,23214,16252,0,3164-03-09 05:10:00 EST,3164-03-09 05:31:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 1900-0700
+
+Pt remains called out to floor but did not receive bed. ? if pt will be called back in secondary to HR/BP issues from overnoc. Pt's heart rate converted to a-fib with some difficulties maintaining BP.  Please see carevue for all objective data.
+
+Neuro: Pt appears more depressed today, mumbling words/statements, stating she is depressed, asking if she has to live like this forever. Would consider readdressing Code status with pt and sons as she is a full code but expressing thoughts and feelings around her state of health, ""I am half dead"" and well being that may benefit clarifying pt's longterm wants and needs..   OTherwise Pt is oriented times [**1-30**] depending on wake/[**Doctor Last Name 8**] cycle.  Pt states she ""aches all over"" at times othertimes denies pain.  Pt sleeping on and off throughout the night.  
+
+Resp: LS CTA. Denies SOB. Sats 97-98% on 2L via nc.
+
+CV: upon start of shift, HR, 60's NSR, with no ectopy. PT then converted to ST then a-fib with HR 90-120's.  EKG unchanged.  BP started to drift down to 90's systolic with HR increasing to 120's. Dr. [**Last Name (STitle) 4361**] @ bedside and pushed 5mg IV diltizem. Pt then dropped BP to 60's systolic.  Pt given 250cc fluid bolus.  BP 70-122/30-76.  Pt remains in a-fib with occasional PACs throughout the night.  Dr. [**Last Name (STitle) 2477**] aware. K 3.8 this am.  Hct stable @ 28.1%. 
+
+GI: diabetic/cardiac diet.  Abdomen soft. non tender. +BS. No stool this shfit.
+
+GU: Remains on po lasix.  u/o 30-220cc/hr.  Pt was negative 675cc @ midnoc.  Currently she is net negative 2200cc length of stay.  
+
+Skin: Large healing left groin hematoma.  Left great toe with DSD over pressure area.
+
+Dispo: Remain in MICU. full Code
+
+",,
+13038,23214,16252,0,3164-03-09 11:38:00 EST,3164-03-09 11:50:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress/Transfer Note 0700-1130","
+Nursing Progress/Transfer Note 0700-1130
+Review of Systems:
+
+Neuro: Pt A&O X [**12-29**], freq confused to place/time. Follows commands consistantly, assists turning STS in bed. Pt C/O general aches and pains in back, side, tx'd with change of position and backrub with transient good results. 
+
+Resp: sating 99-100% on 2l NC with RR 23/24 and regular. Lungs clear with crackle @ L base.
+
+CV: HR 59-63SR without ectopy. AM K+ 3.8 repleted with KCl 40meq. BP 108/45-120/43. Pt was evaluated by anesthesiology for possible fem artery stent later today. Cath lab aware that pt had breakfast.
+
+GI: Pt with good appetite @ breakfast, eating [**12-29**] of french toast/hot ceral/banana. No difficulty swallowing. Abd soft, non-distended with pos bopwel snds. Pt had small, brown, formed, heme neg stool X 1 this AM.
+
+GU: Urine yellow/clear, draining @ 20-40ml/hr. Pt rec'd scheduled dose Lasix po @ 0800.
+
+Skin: Large hematomas on thighs, arms. Clear dsg on old fem site without drainage. DSD on L great toe with scant amt old serosang drainage.
+
+Social: Son, [**Location (un) **], visited in AM. He briefly discussed with nurse [**First Name (Titles) **] [**Last Name (Titles) 4362**] of changing pt's status from full code. He would be open to further discussions re this with pt's doctors.
+
+Plan: Transfer pt to [**Hospital Ward Name **] 6 for eventual D/C back to nsg home. Possible stent today->keep NPO until procedure status confirmed.
+",,
+13038,23214,,,3164-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-10**] 9:37 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12459**]
+     Reason: RT SIDE FACIAL DROOP R/O CVA
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with right [**Hospital Unit Name **] upper visual field deficit and right sided 
+      facial droop 
+     REASON FOR THIS EXAMINATION:
+      please eval for CVA                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with new right-sided facial droop.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  CT of the head without contrast.
+     
+     FINDINGS:  No hydrocephalus, shift of normally midline structures,
+     intracranial mass lesion, or loss of [**Doctor Last Name 8**]-white differentiation is noted.  No
+     intracranial hemorrhage is seen.  Mild prominence of the ventricles and sulci
+     is probably appropriate for the patient's age.  Scleral bands are noted in
+     each [**Hospital Unit Name **].  Soft tissues and osseous structures are otherwise unremarkable.
+     
+     IMPRESSION:  No acute intracranial abnormality.  These findings were discussed
+     with Dr. [**First Name4 (NamePattern1) 12460**] [**Last Name (NamePattern1) 6316**] by telephone on [**3164-3-10**] at 10:15 a.m.
+                                                                           
+
+",,
+13038,23214,,,3164-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-11**] 3:11 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 12461**]
+     Reason: please eval for osteo                                       
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with nonhealing great toe ulcer                               
+     REASON FOR THIS EXAMINATION:
+      please eval for osteo                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Nonhealing great toe ulcer.  Evaluate for osteomyelitis.
+     
+     THREE VIEWS LEFT FOOT:  When compared with the prior three views left great
+     toe dated [**3163-7-6**], there is evidence of interval debridement, and bony
+     removal at the base of the first distal left phalanx.  There is no significant
+     periosteal reaction or sinus tract to suggest osteomyelitis.  The bones are
+     severely mineralized.  There are no focal lesions.  There is no evidence of
+     fracture or malalignment.  There is no effusion.  The joint spaces are
+     preserved.  The surrounding soft tissues reveal a diffuse vasculopathy.
+                                                                           
+
+",,
+13038,23214,,,3164-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-11**] 3:48 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 12462**]
+     Reason: S/P AORTIC/ILLIAC STENTING, EVAL FOR DVT
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with aortoiliac stenting bilaterally [**3164-3-4**] with non healing 
+      left toe ulcer
+     REASON FOR THIS EXAMINATION:
+      please eval for DVT                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Status post aortoiliac stent, now with nonhealing left
+     toe ulcer, lower extremity swelling.  Assess for DVT.
+     
+     COMPARISON:  Femoral vascular ultrasound of [**3164-3-5**].
+     
+     BILATERAL LOWER EXTREMITY VEINS ULTRASOUND:  Grayscale and color Doppler
+     images of both common femoral, superficial femoral, and popliteal veins were
+     obtained.  Normal waveforms, compressibility, and augmentation was
+     demonstrated.  No intraluminal thrombus is identified.  Noted is a small right
+     popliteal fossa cyst.  Also seen is a small, 2.8 x 1.1 cm hematoma within the
+     subcutaneous tissues of the left groin.
+     
+     IMPRESSION:
+     1)  No evidence of lower extremity DVT.
+     
+     2)  Small right popliteal fossa cyst.
+     
+     3)  Small left groin hematoma.
+     
+
+",,
+13038,23214,,,3164-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-3-14**] 8:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12463**]
+     Reason: please check placement of left basilic PICC line  please pag
+     Admitting Diagnosis: PVD\LEFT LEG ANGIO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            [**Age over 90 **] year old woman with CHF now with desat and respiratory distress , now  
+      febrile with sputum         
+     REASON FOR THIS EXAMINATION:
+      please check placement of left basilic PICC line  please page IV Nurse [**First Name (Titles) 1191**] [**Last Name (Titles) 5721**] 
+      reading  thanks  #[**8-/3598**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left-sided PICC placement.
+     
+     TECHNIQUE:  Single portal AP view of the chest was obtained, compared with
+     examination from 6 days ago.
+     
+     FINDINGS:  There has been interval placement of a left-sided PICC with tip in
+     the lower SVC.  Cardiac and mediastinal silhouettes are unchanged, and there
+     is persistence of left retrocardiac opacity, slightly improved.  A nodular
+     density in the right mid lung zones probably represents confluence of
+     overlying structures as this was not evident on the prior examinations.  There
+     is osteopenia and a possible tiny left pleural effusion.
+     
+     IMPRESSION:  PICC at lower SVC.
+
+",,
+13038,,,,3164-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-6-5**] 2:36 PM
+     ART EXT SGL LEVEL                                               Clip # [**Clip Number (Radiology) 12464**]
+     Reason: PVR left forefoot and great toe                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with recent left SFA PTA.                                     
+     REASON FOR THIS EXAMINATION:
+      PVR left forefoot and great toe                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old female with recent left SFA PTA with blue left great
+     toe.
+     
+     FINDINGS:
+     Pulse volume recording of the left forefoot and great toe was performed.  An
+     amplitude of 42 mm is seen at the left metatarsal level, with flattened
+     waveform at the great toe level.
+     
+     IMPRESSION:
+     Flattening of waveform, left great toe.
+                                                                           
+
+",,
+13038,,,,3164-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-6-5**] 6:33 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 12465**]
+     Reason: r/o osteomyelitis                                           
+     Admitting Diagnosis: LEFT LEG ULCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left great toe ulceration, h/o PVD                       
+     REASON FOR THIS EXAMINATION:
+      r/o osteomyelitis                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old woman with left great toe ulceration and history of PVD.
+     Rule out osteomyelitis.
+     
+     COMPARISON:  [**3164-3-11**].
+     
+     LEFT FOOT, THREE VIEWS:  Compared to prior exam, there has been interval
+     lateral and dorsal dislocation of the first distal phalanx.  Bony
+     fragmentation is noted at the interphalangeal joint.  The adjacent soft tissue
+     defect is noted.  There is diffuse osteopenia.  Vascular calcifications are
+     noted.
+     
+     IMPRESSION:  Interval dislocation of left first distal phalanx with
+     fragmentation of the interphalangeal joint.  Associated adjacent soft tissue
+     defect.  These findings are concerning for osteomyelitis, but evaluation is
+     difficult due to overlapping of the phalanges.
+
+",,
+13038,,,,3164-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-6-11**] 2:58 PM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 12466**]
+     Reason: Need Pulse Volume Recordings of b/l Lower extremity; Please 
+     Admitting Diagnosis: LEFT LEG ULCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with recent left SFA PTA and osteomyelitis of left great 
+      toe.                                     
+     REASON FOR THIS EXAMINATION:
+      Need Pulse Volume Recordings of b/l Lower extremity; Please include Ankle, 
+      Metatarsal, AND Toes. Also need Dopplers of b/l LE. Thank [**Doctor First Name **].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Recent left SFA to posterior tibial artery bypass graft now with
+     left-sided osteomyelitis.
+     
+     FINDINGS:  Study is compared to a prior study done 6 days earlier.  Doppler
+     evaluation indicates monophasic waveforms diffusely and bilaterally that at
+     the PT level bilaterally is absent.  ABI measurements area inaccurate due to
+     vessel noncompressibility.  Waveforms continue to show diffuse widening and
+     low amplitude with minimal amplitude at the digital level bilaterally.
+     Findings overall are in accord with those performed on [**3164-6-5**] and
+     indicating significant arterial insufficiency to both lower extremities
+     starting at the iliac level and continuing throughout to the tibial level.
+
+",,
+13038,,,,3164-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-6-12**] 4:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12467**]
+     Reason: Pt had a left sided PICC line placed and needs tip confirmat
+     Admitting Diagnosis: LEFT LEG ULCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with Osteomyelitis who needs picc line for IV Vancomycin and 
+      heparin.
+     REASON FOR THIS EXAMINATION:
+      Pt had a left sided PICC line placed and needs tip confirmation please [**First Name8 (NamePattern2) 2161**] 
+      [**Doctor First Name 10458**] at [**Pager number 4893**] with wet read, thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with osteomyelitis with PICC placement.
+     
+     CHEST, UPRIGHT AP PORTABLE:  Comparison is made [**3164-3-14**].  There is a left-
+     sided PICC line whose tip terminates at the cavoatrial junction.  No
+     pneumothorax is demonstrated.  Allowing for differences in technique, the
+     cardiac and mediastinal contours are likely unchanged.  The pulmonary vessels
+     are unremarkable.  The previously noted left retrocardiac opacity and left
+     pleural effusion have resolved. The osseous structures are osteopenic.
+     
+     IMPRESSION:  Tip of PICC line at cavoatrial junction. No acute process.
+
+",,
+13038,,,,3164-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3164-6-19**] 9:49 AM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 12468**]
+     Reason: Need Pulse Volume Recordings of b/l Lower extremity; Please 
+     Admitting Diagnosis: LEFT LEG ULCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with recent left SFA PTA with successful stenting and return 
+      of normal blood flow.                                 
+     REASON FOR THIS EXAMINATION:
+      Need Pulse Volume Recordings of b/l Lower extremity; Please include Ankle, 
+      Metatarsal, AND Toes. Also need Dopplers of b/l LE. Thank [**Doctor First Name **].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Surveillance after recent balloon angioplasty and stent placement
+     in the left superficial femoral artery in a [**Age over 90 **]-year-old woman.
+     
+     COMPARISON:  Prior similar examination from 8 days ago.
+     
+     TECHNIQUE AND FINDINGS:  Recording of continuous Doppler signal showed
+     monophasic waveforms in the bilateral femoral, popliteal, posterior tibial and
+     dorsalis pedis arteries.  As compared to the prior examination, this appears
+     similar except for the presence of detectable signal in the bilateral
+     posterior tibial arteries today (signal was absent on the last examination).
+     
+     Pulse volume recording shows clearly improved waveforms in the left lower
+     thigh, calf and somewhat at the metatarsal level as well.  No significant
+     improvement is seen on the left toe level.  On the right side, the waveforms
+     and values seem unchanged or slightly worsened.
+     
+     As before, measurement of segmental limb pressure indices remain inaccurate
+     due to non-compressibility of the vessels.
+     
+     CONCLUSION:  Interval improvement in arterial flow in the left lower extremity
+     at the femoral popliteal and infrapopliteal levels as shown by pulse volume
+     recordings.  No evidence of improvement at the left digital level.  Stable
+     appearance on the right side.
+                                                                           
+
+",,

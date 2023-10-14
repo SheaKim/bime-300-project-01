@@ -1,0 +1,2432 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13856,24509,,,2631-05-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2631-5-2**]        Discharge Date: [**2631-5-11**]
+
+Date of Birth:  [**2556-11-1**]        Sex:  F
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 74 year-old
+woman who has a history of a murmur, hypertension and aortic
+stenosis who was undergoing a preoperative work up for a left
+knee replacement and cardiac evaluation demonstrated
+worsening of her aortic stenosis. She underwent cardiac
+catheterization which confirmed an aortic valve area of 0.5
+and two vessel coronary artery disease. She was evaluated by
+the cardiac surgery team and she presents for elective aortic
+valve replacement and coronary artery bypass graft.
+
+REVIEW OF SYSTEMS:  She denies angina, shortness of [**Last Name (LF) 2868**],
+[**First Name3 (LF) 3066**] on exertion, palpitations, syncope or edema.
+
+PAST MEDICAL HISTORY:  Significant for hypertension,
+degenerative joint disease of the left knee, hypothyroidism
+and aortic stenosis.
+
+PAST SURGICAL HISTORY:  Significant for bilateral cataract
+removal.
+
+MEDICATIONS ON ADMISSION:  Included atenolol 75 mg p.o. daily
+and Synthroid 0.25 mg daily.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  She lives [**Location 812**] with her husband. She
+is retired. Denies tobacco or ETOH use.
+
+FAMILY HISTORY:  Is noncontributory.
+
+REVIEW OF SYSTEMS:  Overall is in good health. Denies any
+respiratory, cardiovascular, gastrointestinal, neurologic or
+hematologic symptoms.
+
+PHYSICAL EXAMINATION:  Patient is 4 foot 11 inches, 136
+pounds, temperature is 97.7, heart rate is 68 and regular,
+blood pressure 148/70, breathing 15, 98 percent on room air.
+She is in no acute distress. Her neck has no carotid bruits,
+no jugular venous distension. Heart is regular rate and
+rhythm with a holosystolic ejection murmur with radiation to
+the carotids. Lungs are clear to auscultation bilaterally.
+Abdomen is soft and nontender. She has palpable distal
+pulses.
+
+LABORATORY DATA:  On admission included white count of 7.4,
+hematocrit of 35, platelets of 305. BUN of 13, creatinine
+0.6. The remainder of her laboratories are remarkable for an
+AST of 46, ALT of 12, alkaline phosphatase of 90, total
+bilirubin of 0.5, amylase of 108 and albumin of 3.9.
+Preoperative chest x-ray demonstrated no congestion, no
+infiltrate. A preoperative carotid series demonstrated a left
+sided 60 to 69 percent carotid stenosis and a right sided 40
+percent carotid stenosis. Cardiac catheterization done
+[**2631-3-10**] demonstrated an aortic valve area of 0.5 cm sq, a
+proximal right coronary artery that was diffusely diseased, a
+mid right coronary artery that was diffusely diseased and a
+distal right coronary artery that was diffusely diseased. The
+proximal left anterior descending coronary artery and a 30
+percent lesion, the mid left anterior descending coronary
+artery an 80 percent lesion and diagonal 1 with 60 percent
+lesion.
+
+HOSPITAL COURSE:  The patient on the day of admission was
+taken to the operating room where she underwent an aortic
+valve replacement with a 19 mm paracardial Magna CE valve,
+coronary artery bypass graft times on with left internal
+mammary artery to the left anterior descending coronary
+artery. She tolerated the procedure well, postoperatively was
+transferred to the cardiac surgery Intensive Care Unit. She
+was extubated, weaned off the drips and transferred to the
+floor on postoperative day #1. Postoperative #2 she remained
+hemodynamically normal, afebrile, with benign examination and
+her chest tubes were removed. On a follow up chest x-ray
+there was evidence of free intraperitoneal air with no
+pneumothorax. General surgery was consulted due to worry of
+hollow viscous injury or diaphragmatic injury. Abdominal CT
+scan was obtained with Gastrografin area and this
+demonstrated extensive pneumoperitoneum but no evidence of
+bowel perforation. A small left pneumothorax and
+cholelithiasis with focal gallbladder wall calcifications and
+stool throughout the colon. She was observed with serial
+examinations, intravenous fluids and nothing by mouth. Her
+examination remained benign and after 24 hours remaining
+stable. Her diet was advanced which was tolerated and her
+examination unchanged. She also continued to receive physical
+therapy and at this point she is cleared to level 5
+evaluation. Her white count has been monitored and is
+currently 8.4. She has remained hemodynamically normal and
+now is ready for discharge to home.
+
+DISCHARGE DIAGNOSES:
+1. Aortic stenosis.
+2. Coronary artery disease.
+3. Postoperative pneumoperitoneum without evidence of hollow
+   viscous injury.
+4. Congestive heart failure.
+5. Gastroesophageal reflux disease.
+6. Hypertension.
+
+
+MAJOR SURGICAL INTERVENTIONS:  Aortic valve placement with a
+19 mm pericardial CE Magna and coronary artery bypass graft
+times one.
+
+MEDICATIONS ON DISCHARGE:  Lasix 20 mg p.o. b.i.d. times 7
+days.
+Potassium 20 mEq p.o. daily times 7 days.
+Atenolol 100 mg p.o. daily.
+Synthroid 25 mcg daily.
+Lipitor 10 mg daily.
+Percocet 5/325 1 to 2 p.o. q 4 hours p.r.n.
+Aspirin 81 mg daily.
+Colace 100 mg p.o. b.i.d.
+
+[**Last Name (STitle) 9737**] follow up with Dr. [**Last Name (Prefixes) **] in four weeks.
+Call [**Telephone/Fax (1) 9738**]. Patient will follow up with Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) 808**] in two weeks, call [**Telephone/Fax (1) 9739**]-9204. Patient will
+follow up with primary care physician in two weeks. She
+should call for an appointment.
+
+
+DISCHARGE CONDITION:  Good.
+
+
+
+                        [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D. [**MD Number 585**]
+
+Dictated By:[**Last Name (NamePattern1) 9740**]
+MEDQUIST36
+D:  [**2631-5-10**] 16:42:32
+T:  [**2631-5-10**] 18:35:21
+Job#:  [**Job Number 9741**]
+Signed electronically by: DR. [**First Name (STitle) 5**] [**Last Name (Prefixes) **]
+ on: FRI [**2631-6-10**] 10:56 AM
+(End of Report)
+
+
+",,
+13856,24509,,,2631-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-2**] 1:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4147**]
+     Reason: postop film                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman s/p AVR/cabg x1                                               
+     REASON FOR THIS EXAMINATION:
+      postop film                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman status post AVR.
+     
+     COMPARISON:  [**2631-3-11**], chest radiograph.
+     
+     SINGLE AP VIEW OF THE CHEST:  Endotracheal tube, mediastinal and chest drains,
+     and a Swan-Ganz catheter are in position.  There is widening of the
+     mediastinum and increased pulmonary vascular markings consistent with
+     postoperative changes.  Also, noted are new midline sternotomy wires and
+     staples as well as aortic valve prosthesis.  Soft tissues and osseous
+     structures are unchanged.
+     
+     IMPRESSION:  Changes consistent with recent thoracic surgery.
+                                                                           
+
+",,
+13856,24509,17239,0,2631-05-02 16:30:00 EST,2631-05-02 16:52:00 EST,4216,"N",54,"Nursing/Other","CSRU ADM/UPDATE","
+CSRU ADM/UPDATE
+NEURO: INITIALLY SEDATE ON PROPOFOL. CONTINUES SLEEPY, AWAKENS EASILY. FOLLOWS COMMANDS. MAEW IN BED. NODS TO QUESTIONS ASKED. 
+
+CV: VS/HEMOS AS PER FLOWSHEET. THERMODILUTION CI<2. TOTAL 2500CC LR GIVEN. A-PACED W/ UNDERLYING NSR IN 60'S. MV02 SAT 63-> FICK CI2.6 
+CVP 7-11. ON NTG AT PRESENT TIME.
+
+RESP: LUNGS CLEAR BILAT. REMAINS INTUBATED. ABG'S W/ MET ACIDOSIS/ MIN RESP ALKALOSIS. FLUID BOLUSES AS NOTED. SX FOR MOD THICK CLEAR SECRETIONS. MARGINAL PACO2 -> PEEP TO 8. TOL WEAN OF FIO2 /PEEP THIS AFTERNOON. CT W/ MOD MT SANG DNG, NO AIR LEAK. 
+
+GI/GU: UOP QS. ABD SILENT/ BILOUS DNG VIA OGT. GLUCOSE 50 ON INITIAL BLOODS-> [**1-30**] AMP D50, REPEAT 95. CARAFATE BEGAN.
+
+PAIN: MSO4 4 MG IV X1. DENIES PAIN AT PRESENT. 
+
+SOCIAL: SPOKE W/ SON VIA PHONE TO VISIT THIS EVENING. 
+
+ASSESS: POOR THERMODILUTION HEMOS, ACCEPTABLE MVO2.TOL FIO2 /PEEP WEAN.   
+
+PLAN:  WEANING VENT AS TOL. MONITOR HEMOS/MVO2. 
+
+
+
+ 
+",,
+13856,24509,17239,0,2631-05-02 16:38:00 EST,2631-05-02 16:39:00 EST,3960,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt recieved s/p cabg x1, avr. weaning on simv 550 x12 [**6-2**] 50%.
+",,
+13856,24509,17239,0,2631-05-02 21:38:00 EST,2631-05-02 21:49:00 EST,3202,"N",54,"Nursing/Other","OP DAY CABG X 1/AVR CE","
+OP DAY CABG X 1/AVR CE
+APACED @ 70. CURRENTLY NSR WITH RATE ~65. NO ECTOPICS. NTG GTT TO KEEP MBP <90. EXTREMITIES WARM. FACIAL COLOR APPEARS VERY PALE.
+
+BREATHSOUNDS CLEAR BILATERALLY. NO AIR LEAK FROM CHEST TUBES. WEANED AND EXTUBATED WITHOUT INCIDENT ~ 2000. DEEP BREATHING INSTRUCTIONS GIVEN.
+
+OGT DRAINING GREEN BILIOUS PRIOR TO REMOVAL. ABD SOFT. NO BOWEL SOUNDS. 
+
+URINE OUTPUT ~30CC/HR. 2.5LITERS [**Doctor First Name **] EARLIER. LAST CHT ~27. PAD 27/15, CVP 8. TD CI POOR AND USING FICK CI WHICH IS ~ 2.6 CURRENTLY. PLAN TO MONITOR FOR POSSIBLE ADDITIONAL VOLUME.
+
+DENIES PAIN. PT ADVISED TO CONSIDER MEDICATION FOR POTENTIAL DISCOMFORT WITH TURNING AND DEEP BREATHING.
+
+ORIGINAL STERNAL AND MEDIASTINAL DRESSINGS ON AND DRY.
+
+GLUCOSE PER CSRU PROTOCOL. SEE FLOWSHEET.
+
+ONLY BELONGINGS (DENTURES) TO BE DELIVERED BY SERVICE RESPONSE CENTER SHORTLY.
+
+DAUGHTER, SON AND HUSBAND IN TO VISIT. PATIENT STATING TONIGHT THAT SHE PLANS TO GO FROM THE HOSPITAL TO HOME (NO REHAB). PATIENT, ACCORDING HER HER DAUGHTER, HAS BEEN TAKING CARE OF HER HUSBAND.
+
+PLAN TO MONITOR FLUID STATUS, CHECK BLOODSUGARS. PLAN TO GET OOB TOMORROW. 
+",,
+13856,24509,17239,0,2631-05-03 03:45:00 EST,2631-05-03 03:56:00 EST,4283,"N",54,"Nursing/Other",,"
+
+NEURO~A&OX3. FC. MAE. MED W/ MORPHINE 2 MG Q2/HR FOR DISCOMFORT. EFFECTIVE.
+
+CARDIAC~SR 79. NO ECTOPY NOTED. BP LABILE. ON NITRO CURRENTLY @ 3 UCG/KG/MIN. FICK: CI>2.  ELECTROLYTES REPLETED. POS PEDAL PULSE SBILAT W/ DOPPLER.
+
+RESP~4L NP MAINTAINIG SATS OF 96%. LUNGS COARSE BILAT. NON PRODUCTIVE COUGH. CPT, INS [**Location (un) 284**].
+
+G/GU~TOL ICE CHIPS WELL. MARGINAL U/O. GIVEN 500 CCC'S LR OVER THE COARSE OF THE NIGHT. + BS.
+
+ENDO~INSULIN GTT RESTARTED @ 0100. TIRTATING TO MAINTAIN BG LEVELS W/IN CSRU PROTOCOL.
+
+A/P~LABILE BP. CONT NITRO. TITRATING TO OFF AS TOL BY PT. MARGINAL U/O ? LASIX VS FLUID . PUL REHAB. CONT ICU INTERVENTIONS.  
+",,
+13856,24509,,,2631-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-5**] 10:38 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4151**]
+     CT RECONSTRUCTION
+     Reason: assess for perforation, diaphragmatic injury                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74F s/p AVR/CABG with free air under the diaphragm after removal of chest tubes 
+     REASON FOR THIS EXAMINATION:
+      assess for perforation, diaphragmatic injury                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      Patient has dye allergy - itching, rash
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Status post aortic valve replacement and CABG, with development of
+     pneumoperitoneum following chest tube removal.
+     
+     COMPARISON:  No previous abdominal CT.  Chest radiographs demonstrating
+     pneumoperitoneum are available for correlation.
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained with oral contrast only.
+     
+     ABDOMEN CT WITHOUT INTRAVENOUS CONTRAST:  There is a small right pleural
+     effusion and a tiny left pneumothorax.  There is air in the mediastinum. There
+     is mild atelectasis at both lung bases.
+     
+     There is a large amount of free intraperitoneal air.  Oral contrast opacifies
+     the stomach, duodenal, small bowel and colon.  There is no evidence of oral
+     contrast extravasation or bowel wall thickening.  There is no free
+     intraabdominal fluid.  The liver, spleen, pancreas, adrenal glands, and
+     kidneys appear unremarkable on limited noncontrast evaluation.  There are
+     stones in the gallbladder and a focal calcification in the gallbladder wall.
+     
+     PELVIS CT WITHOUT INTRAVENOUS CONTRAST:  The bladder, uterus, and adnexa
+     appear unremarkable.  There is a large amount of stool in the rectum, the
+     inferior extent of which is not fully imaged.  There is no free fluid.
+     
+     BONE WINDOWS:  The visualized osseous structures do not demonstrate any
+     suspicious lytic or sclerotic osseous lesions.  Degenerative changes are
+     present in the lower lumbar spine.
+     
+     Findings were discussed with the surgical resident taking care of the patient
+     at approximately 11 p.m. on [**2631-5-5**].
+     
+     IMPRESSION:
+     
+     1)  Extensive pneumoperitoneum without evidence of bowel injury.
+     
+     2)  Small right pleural effusion.
+     
+     3)  Tiny left pneumothorax. Pneumomediastinum.
+                                                                 (Over)
+
+     DATE: [**2631-5-5**] 10:38 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4151**]
+     CT RECONSTRUCTION
+     Reason: assess for perforation, diaphragmatic injury                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     4)  Cholelithiasis and focal gallbladder wall calcification.
+     
+     5)  Possible rectal fecal impaction. Correlation with digital rectal exam is
+     suggested.
+                                                                           DFDkq
+
+",,
+13856,24509,,,2631-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-5**] 6:26 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 4150**]
+     Reason: re-eval left pneumothorax                                   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old woman s/p AVR/cabg x1                                              
+       
+     REASON FOR THIS EXAMINATION:
+      re-eval left pneumothorax                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post AVR and CABG, reevaluate left pneumothorax.
+     
+     FINDINGS:  There is no evidence of pneumothorax on the current study.  The
+     heart, mediastinal, and hilar contours are unchanged.  There are slightly
+     improved lung volumes and decreased atelectatic changes at the left base.
+     There is again note of free intraperitoneal air.
+     
+     IMPRESSION:
+     1)  No pneumothorax on the current study.
+     2)  Improved lung volumes.
+     3)  Persistent free air.
+
+",,
+13856,24509,,,2631-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-5**] 6:26 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 4150**]
+     Reason: re-eval left pneumothorax                                   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old woman s/p AVR/cabg x1                                              
+       
+     REASON FOR THIS EXAMINATION:
+      re-eval left pneumothorax                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post AVR and CABG, reevaluate left pneumothorax.
+     
+     FINDINGS:  There is no evidence of pneumothorax on the current study.  The
+     heart, mediastinal, and hilar contours are unchanged.  There are slightly
+     improved lung volumes and decreased atelectatic changes at the left base.
+     There is again note of free intraperitoneal air.
+     
+     IMPRESSION:
+     1)  No pneumothorax on the current study.
+     2)  Improved lung volumes.
+     3)  Persistent free air.
+
+",,
+13856,24509,,,2631-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-5**] 4:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4148**]
+     Reason: r/o PTX                                                     
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman s/p AVR/CABG; now s/p chest tube d/c                          
+     REASON FOR THIS EXAMINATION:
+      r/o PTX                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with CABG and aortic valve replacement, recent
+     chest tube discontinuation.
+     
+     COMPARISON:  [**2631-5-2**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  The endotracheal tube, Swan-Ganz catheter,
+     nasogastric tube, and left chest tube have all been removed.  However, in the
+     interval, there has been development of free intraperitoneal air under both
+     diaphragms, causing compression atelectasis of both lung bases.  Additionally,
+     there is a new left apical pneumothorax, which is small.  Cardiomegaly
+     persists, and there are midline sternotomy wires, aortic valve replacement,
+     and staples over the cardiac shadow.  Otherwise, osseous and soft tissue
+     structures are unchanged.
+     
+     These findings were discussed with [**First Name8 (NamePattern2) 3683**] [**Last Name (NamePattern1) 4149**] at 5:40 p.m. on [**2631-5-5**].
+     
+     IMPRESSION:
+     1.  Interval appearance of left pneumothorax.
+     
+     2.  Interval development of free intraperitoneal air.
+     
+
+",,
+13856,24509,,,2631-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-5**] 10:38 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4151**]
+     CT RECONSTRUCTION
+     Reason: assess for perforation, diaphragmatic injury                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74F s/p AVR/CABG with free air under the diaphragm after removal of chest tubes 
+     REASON FOR THIS EXAMINATION:
+      assess for perforation, diaphragmatic injury                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      Patient has dye allergy - itching, rash
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Status post aortic valve replacement and CABG, with development of
+     pneumoperitoneum following chest tube removal.
+     
+     COMPARISON:  No previous abdominal CT.  Chest radiographs demonstrating
+     pneumoperitoneum are available for correlation.
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained with oral contrast only.
+     
+     ABDOMEN CT WITHOUT INTRAVENOUS CONTRAST:  There is a small right pleural
+     effusion and a tiny left pneumothorax.  There is air in the mediastinum. There
+     is mild atelectasis at both lung bases.
+     
+     There is a large amount of free intraperitoneal air.  Oral contrast opacifies
+     the stomach, duodenal, small bowel and colon.  There is no evidence of oral
+     contrast extravasation or bowel wall thickening.  There is no free
+     intraabdominal fluid.  The liver, spleen, pancreas, adrenal glands, and
+     kidneys appear unremarkable on limited noncontrast evaluation.  There are
+     stones in the gallbladder and a focal calcification in the gallbladder wall.
+     
+     PELVIS CT WITHOUT INTRAVENOUS CONTRAST:  The bladder, uterus, and adnexa
+     appear unremarkable.  There is a large amount of stool in the rectum, the
+     inferior extent of which is not fully imaged.  There is no free fluid.
+     
+     BONE WINDOWS:  The visualized osseous structures do not demonstrate any
+     suspicious lytic or sclerotic osseous lesions.  Degenerative changes are
+     present in the lower lumbar spine.
+     
+     Findings were discussed with the surgical resident taking care of the patient
+     at approximately 11 p.m. on [**2631-5-5**].
+     
+     IMPRESSION:
+     
+     1)  Extensive pneumoperitoneum without evidence of bowel injury.
+     
+     2)  Small right pleural effusion.
+     
+     3)  Tiny left pneumothorax. Pneumomediastinum.
+                                                                 (Over)
+
+     DATE: [**2631-5-5**] 10:38 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4151**]
+     CT RECONSTRUCTION
+     Reason: assess for perforation, diaphragmatic injury                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     4)  Cholelithiasis and focal gallbladder wall calcification.
+     
+     5)  Possible rectal fecal impaction. Correlation with digital rectal exam is
+     suggested.
+                                                                           DFDkq
+
+",,
+13856,24509,,,2631-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-5**] 10:38 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4151**]
+     CT RECONSTRUCTION
+     Reason: assess for perforation, diaphragmatic injury                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74F s/p AVR/CABG with free air under the diaphragm after removal of chest tubes 
+     REASON FOR THIS EXAMINATION:
+      assess for perforation, diaphragmatic injury                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      Patient has dye allergy - itching, rash
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Status post aortic valve replacement and CABG, with development of
+     pneumoperitoneum following chest tube removal.
+     
+     COMPARISON:  No previous abdominal CT.  Chest radiographs demonstrating
+     pneumoperitoneum are available for correlation.
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained with oral contrast only.
+     
+     ABDOMEN CT WITHOUT INTRAVENOUS CONTRAST:  There is a small right pleural
+     effusion and a tiny left pneumothorax.  There is air in the mediastinum. There
+     is mild atelectasis at both lung bases.
+     
+     There is a large amount of free intraperitoneal air.  Oral contrast opacifies
+     the stomach, duodenal, small bowel and colon.  There is no evidence of oral
+     contrast extravasation or bowel wall thickening.  There is no free
+     intraabdominal fluid.  The liver, spleen, pancreas, adrenal glands, and
+     kidneys appear unremarkable on limited noncontrast evaluation.  There are
+     stones in the gallbladder and a focal calcification in the gallbladder wall.
+     
+     PELVIS CT WITHOUT INTRAVENOUS CONTRAST:  The bladder, uterus, and adnexa
+     appear unremarkable.  There is a large amount of stool in the rectum, the
+     inferior extent of which is not fully imaged.  There is no free fluid.
+     
+     BONE WINDOWS:  The visualized osseous structures do not demonstrate any
+     suspicious lytic or sclerotic osseous lesions.  Degenerative changes are
+     present in the lower lumbar spine.
+     
+     Findings were discussed with the surgical resident taking care of the patient
+     at approximately 11 p.m. on [**2631-5-5**].
+     
+     IMPRESSION:
+     
+     1)  Extensive pneumoperitoneum without evidence of bowel injury.
+     
+     2)  Small right pleural effusion.
+     
+     3)  Tiny left pneumothorax. Pneumomediastinum.
+                                                                 (Over)
+
+     DATE: [**2631-5-5**] 10:38 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4151**]
+     CT RECONSTRUCTION
+     Reason: assess for perforation, diaphragmatic injury                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     4)  Cholelithiasis and focal gallbladder wall calcification.
+     
+     5)  Possible rectal fecal impaction. Correlation with digital rectal exam is
+     suggested.
+                                                                           DFDkq
+
+",,
+13856,24509,,,2631-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-6**] 3:50 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4152**]
+     Reason: re-eval ptx & free air                                      
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old woman s/p AVR/CABG; now s/p chest tube d/c                         
+       
+     REASON FOR THIS EXAMINATION:
+      re-eval ptx & free air                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Two view chest.
+     
+     COMPARISON:  [**2631-5-5**].
+     
+     INDICATION:  Status post CABG.  Reevaluate pneumothorax and free
+     intraperitoneal air.
+     
+     The patient is status post median sternotomy, coronary artery bypass surgery,
+     and aortic valve replacement.  There is a small left apical pneumothorax
+     present, which is not clearly seen on the previous study.  Cardiac and
+     mediastinal contours are stable.  There are patchy and linear atelectatic
+     changes at the lung bases, as well as small pleural effusions.  Free
+     intraperitoneal air is again demonstrated, most notable below the right
+     hemidiaphragm.
+     
+     IMPRESSION:
+     1)  New small left apical pneumothorax.
+     2)  Persistent free intraperitoneal air.
+                                                                           
+
+",,
+13856,24509,,,2631-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-5-9**] 10:22 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4153**]
+     Reason: assess for effusion                                         
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT; W/AVR/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74 year old woman s/p AVR/CABG;                                               
+     REASON FOR THIS EXAMINATION:
+      assess for effusion                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with recent AVR and CABG, recent development of
+     intraperitoneal free air.  Follow up.
+     
+     COMPARISON:  [**2631-5-6**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  The small left apical pneumothorax is
+     stable.  Also unchanged is the free intraperitoneal air.  Bilateral lower lobe
+     atelectasis is persistent; there are small pleural effusions on both left and
+     right.  Midline sternotomy wires, staples overlying the heart, and aortic
+     valve prosthesis are again noted.  Otherwise, soft tissues and osseous
+     structures are not significantly changed.
+     
+     IMPRESSION:
+     
+     1)  Continued left pneumothorax, without significant change.
+     
+     2)  Interval development of small bilateral pleural effusions.
+     
+     3)  Bilateral lower lobe atelectasis.
+     
+     4)  Continued free intraperitoneal air, not significantly changed.
+
+",,
+13856,,,,2631-06-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-3**] 11:38 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4154**]
+     Reason: r/o infiltrate                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old woman s/p AVR/CABG;                                              
+       
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post AVR and CABG, rule out infiltrate.
+     
+     COMPARISON:  [**2631-5-9**].
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     FINDINGS:  The heart size is borderline.  The mediastinal contours appear
+     unchanged.  Sternal suture wires and mediastinal clips, and aortic valve
+     prosthesis in unchanged configuration.  There is mild bibasilar atelectasis. 
+     No congestive heart failure or parenchymal consolidation.
+     
+     IMPRESSION:  Mild bibasilar atelectasis.  Borderline heart size without
+     congestive heart failure.
+                                                                           
+
+",,
+13856,,,,2631-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74F s/p AVR/CABG with abd pain and Tenderness for 2 d with vomting             
+     REASON FOR THIS EXAMINATION:
+      assess for divertilcar dz.                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy to iv contrast
+     ______________________________________________________________________________
+     WET READ: MRSg SAT [**2631-6-4**] 4:34 AM
+      Free intraperitoneal air with bowel perforation.
+      
+      Sigmoid diverticulitis with perforation and extraluminal collection.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Status post AVR and CABG with abdominal pain and tenderness for 2
+     days with vomiting.  Assess for diverticular disease.
+     
+     COMPARISON:  [**2631-5-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 100 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There is a small left pleural
+     effusion.  Bibasilar atelectasis.  Status post aortic valve repair.  The
+     visualized portions of the heart and pericardium appear otherwise
+     unremarkable.  The liver, atrophic pancreas, spleen, and adrenal glands appear
+     unchanged and unremarkable.  There are multiple calcified gallstones within
+     the gallbladder without evidence of pericholecystic fluid.  There are
+     symmetric nephrograms bilaterally.  Tiny, rounded, hypodense lesion within the
+     inferior pole of the left kidney, too small to accurately characterize.
+     Similar tiny, round, hypodense lesions are seen within upper poles of both
+     kidneys.
+     
+     There is free air within the abdomen, located adjacent to the left lobe of the
+     liver, and at multiple sites within the abdomen, anterior to the transverse
+     colon.  There is a more focal area of extraluminal gas adjacent to a loop of
+     inflamed sigmoid colon within the mid abdomen.  At the time of the previous
+     scan, dated [**2631-5-5**], there was extensive pneumoperitoneum associated
+     with the patient's surgery.  There is wall thickening and extensive stranding
+     within a loop of sigmoid colon in the mid abdomen, and a gas containing fluid
+     collection measuring 1.7 x 3.3 cm adjacent to this area. There are multiple
+     small mesenteric and retroperitoneal lymph nodes.  There is a small amount of
+     free fluid within the paracolic gutters bilaterally.
+     
+                                                                 (Over)
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     rectum, and uterus and adnexa appear unremarkable.  The sigmoid colon
+     demonstrates wall thickening and extensive surrounding stranding, and an
+     associated fluid collection as described.
+     
+     BONE WINDOWS:  Bone windows demonstrate extensive degenerative changes of the
+     thoracic and lumbosacral spine without evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images demonstrate
+     extraluminal gas, and a thickened loop of sigmoid colon within the mid abdomen
+     with extensive surrounding stranding.  A fluid collection containing gas
+     adjacent to this loop of sigmoid colon is seen.
+     
+     IMPRESSION:
+     1)  Markedly thickened sigmoid colon with surrounding stranding and fluid
+     collection, findings that are consistent with diverticulitis with perforation.
+     Pneumoperitoneum.  Of note, there was massive pneumoperitoneum one month ago
+     associated with the patient's recent surgery.  However, in association with
+     the changes in the bowel described, it is felt unlikely that the
+     pneumoperitoneum represents residual air from the patient's postoperative
+     state one month ago.
+     2)  Gallstones.
+     3)  Small bilateral pleural effusions and bibasilar atelectasis.
+     4)  Tiny, rounded, hypodense lesions within both kidneys, too small to
+     accurately characterize, but likely representing cysts.
+     
+     Results were called to the emergency department resident caring for the
+     patient at the time of interpretation (5:30 a.m.).
+
+",,
+13856,,,,2631-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74F s/p AVR/CABG with abd pain and Tenderness for 2 d with vomting             
+     REASON FOR THIS EXAMINATION:
+      assess for divertilcar dz.                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy to iv contrast
+     ______________________________________________________________________________
+     WET READ: MRSg SAT [**2631-6-4**] 4:34 AM
+      Free intraperitoneal air with bowel perforation.
+      
+      Sigmoid diverticulitis with perforation and extraluminal collection.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Status post AVR and CABG with abdominal pain and tenderness for 2
+     days with vomiting.  Assess for diverticular disease.
+     
+     COMPARISON:  [**2631-5-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 100 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There is a small left pleural
+     effusion.  Bibasilar atelectasis.  Status post aortic valve repair.  The
+     visualized portions of the heart and pericardium appear otherwise
+     unremarkable.  The liver, atrophic pancreas, spleen, and adrenal glands appear
+     unchanged and unremarkable.  There are multiple calcified gallstones within
+     the gallbladder without evidence of pericholecystic fluid.  There are
+     symmetric nephrograms bilaterally.  Tiny, rounded, hypodense lesion within the
+     inferior pole of the left kidney, too small to accurately characterize.
+     Similar tiny, round, hypodense lesions are seen within upper poles of both
+     kidneys.
+     
+     There is free air within the abdomen, located adjacent to the left lobe of the
+     liver, and at multiple sites within the abdomen, anterior to the transverse
+     colon.  There is a more focal area of extraluminal gas adjacent to a loop of
+     inflamed sigmoid colon within the mid abdomen.  At the time of the previous
+     scan, dated [**2631-5-5**], there was extensive pneumoperitoneum associated
+     with the patient's surgery.  There is wall thickening and extensive stranding
+     within a loop of sigmoid colon in the mid abdomen, and a gas containing fluid
+     collection measuring 1.7 x 3.3 cm adjacent to this area. There are multiple
+     small mesenteric and retroperitoneal lymph nodes.  There is a small amount of
+     free fluid within the paracolic gutters bilaterally.
+     
+                                                                 (Over)
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     rectum, and uterus and adnexa appear unremarkable.  The sigmoid colon
+     demonstrates wall thickening and extensive surrounding stranding, and an
+     associated fluid collection as described.
+     
+     BONE WINDOWS:  Bone windows demonstrate extensive degenerative changes of the
+     thoracic and lumbosacral spine without evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images demonstrate
+     extraluminal gas, and a thickened loop of sigmoid colon within the mid abdomen
+     with extensive surrounding stranding.  A fluid collection containing gas
+     adjacent to this loop of sigmoid colon is seen.
+     
+     IMPRESSION:
+     1)  Markedly thickened sigmoid colon with surrounding stranding and fluid
+     collection, findings that are consistent with diverticulitis with perforation.
+     Pneumoperitoneum.  Of note, there was massive pneumoperitoneum one month ago
+     associated with the patient's recent surgery.  However, in association with
+     the changes in the bowel described, it is felt unlikely that the
+     pneumoperitoneum represents residual air from the patient's postoperative
+     state one month ago.
+     2)  Gallstones.
+     3)  Small bilateral pleural effusions and bibasilar atelectasis.
+     4)  Tiny, rounded, hypodense lesions within both kidneys, too small to
+     accurately characterize, but likely representing cysts.
+     
+     Results were called to the emergency department resident caring for the
+     patient at the time of interpretation (5:30 a.m.).
+
+",,
+13856,,,,2631-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74F s/p AVR/CABG with abd pain and Tenderness for 2 d with vomting             
+     REASON FOR THIS EXAMINATION:
+      assess for divertilcar dz.                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy to iv contrast
+     ______________________________________________________________________________
+     WET READ: MRSg SAT [**2631-6-4**] 4:34 AM
+      Free intraperitoneal air with bowel perforation.
+      
+      Sigmoid diverticulitis with perforation and extraluminal collection.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Status post AVR and CABG with abdominal pain and tenderness for 2
+     days with vomiting.  Assess for diverticular disease.
+     
+     COMPARISON:  [**2631-5-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 100 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There is a small left pleural
+     effusion.  Bibasilar atelectasis.  Status post aortic valve repair.  The
+     visualized portions of the heart and pericardium appear otherwise
+     unremarkable.  The liver, atrophic pancreas, spleen, and adrenal glands appear
+     unchanged and unremarkable.  There are multiple calcified gallstones within
+     the gallbladder without evidence of pericholecystic fluid.  There are
+     symmetric nephrograms bilaterally.  Tiny, rounded, hypodense lesion within the
+     inferior pole of the left kidney, too small to accurately characterize.
+     Similar tiny, round, hypodense lesions are seen within upper poles of both
+     kidneys.
+     
+     There is free air within the abdomen, located adjacent to the left lobe of the
+     liver, and at multiple sites within the abdomen, anterior to the transverse
+     colon.  There is a more focal area of extraluminal gas adjacent to a loop of
+     inflamed sigmoid colon within the mid abdomen.  At the time of the previous
+     scan, dated [**2631-5-5**], there was extensive pneumoperitoneum associated
+     with the patient's surgery.  There is wall thickening and extensive stranding
+     within a loop of sigmoid colon in the mid abdomen, and a gas containing fluid
+     collection measuring 1.7 x 3.3 cm adjacent to this area. There are multiple
+     small mesenteric and retroperitoneal lymph nodes.  There is a small amount of
+     free fluid within the paracolic gutters bilaterally.
+     
+                                                                 (Over)
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     rectum, and uterus and adnexa appear unremarkable.  The sigmoid colon
+     demonstrates wall thickening and extensive surrounding stranding, and an
+     associated fluid collection as described.
+     
+     BONE WINDOWS:  Bone windows demonstrate extensive degenerative changes of the
+     thoracic and lumbosacral spine without evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images demonstrate
+     extraluminal gas, and a thickened loop of sigmoid colon within the mid abdomen
+     with extensive surrounding stranding.  A fluid collection containing gas
+     adjacent to this loop of sigmoid colon is seen.
+     
+     IMPRESSION:
+     1)  Markedly thickened sigmoid colon with surrounding stranding and fluid
+     collection, findings that are consistent with diverticulitis with perforation.
+     Pneumoperitoneum.  Of note, there was massive pneumoperitoneum one month ago
+     associated with the patient's recent surgery.  However, in association with
+     the changes in the bowel described, it is felt unlikely that the
+     pneumoperitoneum represents residual air from the patient's postoperative
+     state one month ago.
+     2)  Gallstones.
+     3)  Small bilateral pleural effusions and bibasilar atelectasis.
+     4)  Tiny, rounded, hypodense lesions within both kidneys, too small to
+     accurately characterize, but likely representing cysts.
+     
+     Results were called to the emergency department resident caring for the
+     patient at the time of interpretation (5:30 a.m.).
+
+",,
+13856,,,,2631-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74F s/p AVR/CABG with abd pain and Tenderness for 2 d with vomting             
+     REASON FOR THIS EXAMINATION:
+      assess for divertilcar dz.                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy to iv contrast
+     ______________________________________________________________________________
+     WET READ: MRSg SAT [**2631-6-4**] 4:34 AM
+      Free intraperitoneal air with bowel perforation.
+      
+      Sigmoid diverticulitis with perforation and extraluminal collection.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Status post AVR and CABG with abdominal pain and tenderness for 2
+     days with vomiting.  Assess for diverticular disease.
+     
+     COMPARISON:  [**2631-5-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 100 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There is a small left pleural
+     effusion.  Bibasilar atelectasis.  Status post aortic valve repair.  The
+     visualized portions of the heart and pericardium appear otherwise
+     unremarkable.  The liver, atrophic pancreas, spleen, and adrenal glands appear
+     unchanged and unremarkable.  There are multiple calcified gallstones within
+     the gallbladder without evidence of pericholecystic fluid.  There are
+     symmetric nephrograms bilaterally.  Tiny, rounded, hypodense lesion within the
+     inferior pole of the left kidney, too small to accurately characterize.
+     Similar tiny, round, hypodense lesions are seen within upper poles of both
+     kidneys.
+     
+     There is free air within the abdomen, located adjacent to the left lobe of the
+     liver, and at multiple sites within the abdomen, anterior to the transverse
+     colon.  There is a more focal area of extraluminal gas adjacent to a loop of
+     inflamed sigmoid colon within the mid abdomen.  At the time of the previous
+     scan, dated [**2631-5-5**], there was extensive pneumoperitoneum associated
+     with the patient's surgery.  There is wall thickening and extensive stranding
+     within a loop of sigmoid colon in the mid abdomen, and a gas containing fluid
+     collection measuring 1.7 x 3.3 cm adjacent to this area. There are multiple
+     small mesenteric and retroperitoneal lymph nodes.  There is a small amount of
+     free fluid within the paracolic gutters bilaterally.
+     
+                                                                 (Over)
+
+     DATE: [**2631-6-4**] 4:09 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4155**]
+     CT 100CC NON IONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD.PAIN.VOMITING.R/O DIVERTICULITIS
+     Field of view: 37 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The bladder, distal ureters,
+     rectum, and uterus and adnexa appear unremarkable.  The sigmoid colon
+     demonstrates wall thickening and extensive surrounding stranding, and an
+     associated fluid collection as described.
+     
+     BONE WINDOWS:  Bone windows demonstrate extensive degenerative changes of the
+     thoracic and lumbosacral spine without evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images demonstrate
+     extraluminal gas, and a thickened loop of sigmoid colon within the mid abdomen
+     with extensive surrounding stranding.  A fluid collection containing gas
+     adjacent to this loop of sigmoid colon is seen.
+     
+     IMPRESSION:
+     1)  Markedly thickened sigmoid colon with surrounding stranding and fluid
+     collection, findings that are consistent with diverticulitis with perforation.
+     Pneumoperitoneum.  Of note, there was massive pneumoperitoneum one month ago
+     associated with the patient's recent surgery.  However, in association with
+     the changes in the bowel described, it is felt unlikely that the
+     pneumoperitoneum represents residual air from the patient's postoperative
+     state one month ago.
+     2)  Gallstones.
+     3)  Small bilateral pleural effusions and bibasilar atelectasis.
+     4)  Tiny, rounded, hypodense lesions within both kidneys, too small to
+     accurately characterize, but likely representing cysts.
+     
+     Results were called to the emergency department resident caring for the
+     patient at the time of interpretation (5:30 a.m.).
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 3:48 PM
+     CT PERITINEAL DRAIN EXCLUDING APPENDICEAL; CT GUIDANCE DRAINAGE Clip # [**Clip Number (Radiology) 4159**]
+     Reason: please drain                                                
+     Admitting Diagnosis: DIVERTICULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with intra-abdominal collection on repeat ct from this am     
+     REASON FOR THIS EXAMINATION:
+      please drain                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman post-diverticulitis with an abdominal abscess,
+     for drainage.
+     
+     PROCEDURE:  After the risks and benefits of the procedure were discussed with
+     the patient, informed consent was obtained.  A preprocedure timeout was
+     obtained to confirm the identity of the patient and the procedure which she
+     has to undergo.
+     
+     CT GUIDED DRAINAGE LOCALIZATION:  The patient was placed in a supine position
+     and limited axial CT images of the abdomen were obtained to confirm the
+     collection to be drained.  As in her prior scan from today, the collection is
+     demonstrated in the midline to left lower abdomen.
+     
+     CT GUIDED DRAINAGE:  The patient's skin was prepped and draped in the usual
+     sterile fashion and 1% lidocaine was used for local anesthesia.
+     
+     Under direct CT guidance, a 10-French self-locking pigtail catheter was
+     inserted and deployed into the fluid collection.  Catheter position was
+     confirmed using CT scanning.  The catheter was locked in position, secured to
+     the skin with a percutaneous catheter fastener, and left open to drainage.
+     Approximately 50 cc of brown fecal like fluid were aspirated and a sample was
+     sent for culture and Gram stain.  A post-procedure scan confirmed again the
+     catheter position and no complications.
+     
+     Dr. [**First Name (STitle) 567**], attending radiologist, was present and supervising the entire
+     procedure.
+     
+     The patient tolerated the procedure well and there were no immediate
+     complications.
+     
+     IMPRESSION:  Technically successful drainage of an abdominal fluid collection.
+     
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74F w/ diverticulitis w/ symptomatic improvmenet                              
+     REASON FOR THIS EXAMINATION:
+      ? imrpovement in diverticulitis                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.  Please evaluate post-
+     treatment.
+     
+     COMPARISON:  CT of the abdomen and pelvis [**2631-6-4**].
+     
+     TECHNIQUE:  Axial multidetector CT images were obtained from the lung bases to
+     the pubic symphysis following the administration 150 cc of intravenous Optiray
+     non-ionic contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Since the prior exam, there has been
+     interval increase in the size of the bilateral pleural effusions.  Associated
+     compressive atelectasis is noted of both lower lung lobes.  The heart and
+     pericardium are unremarkable.  The liver, pancreas, spleen, adrenal glands are
+     unremarkable.  Again noted are multiple calcified gallstones within the
+     gallbladder without evidence of cholecystitis.  The kidneys enhance and
+     excrete contrast symmetrically.  There is an increased amount of perihepatic
+     ascites as well as new ascites within the left pericolic gutter.  There has
+     been interval decrease in the amount of intra-abdominal free air.
+     
+     Since the prior exam, there has been a progressive increase in size of the
+     large left lower quadrant fluid collection associated with the sigmoid colon,
+     which now measures 10 cm x 3 cm, and previously measured 1.7 cm x 3 cm.  There
+     has been interval maturation of this collection which now displays a thin wall
+     with rim enhancement.  There has been interval increase in the amount of fluid
+     within this collection.  The collection abuts but does not appear to have
+     discrete continuity with the sigmoid colon lumen.  Again noted are multiple
+     small mesenteric and retroperitoneal lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, distal ureters, and rectum, as
+     well as the uterus and adnexa are unremarkable.  Again, the sigmoid colon
+     demonstrates wall thickening, surrounding mesenteric fat stranding, and the
+     associated fluid collection as described above. Bilateral inguinal fat
+     containing hernias are again noted.   
+     
+     BONE WINDOWS:  Again seen are degenerative changes within the thoracolumbar
+     spine, without suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATED IMAGES:  Coronal and sagittal reconstructions were essential in
+                                                                 (Over)
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     delineating the anatomy and pathology of this case.  Value grade V.
+     
+     IMPRESSION:  Dramatic increase in size in the short interval of the left lower
+     quadrant fluid collection measuring 10 x 3 cm associated with the patient's
+     known sigmoid diverticulitis.  Interval maturation of the wall of this
+     collection with new rim enhancement.  Interval decrease in the amount of
+     intra-abdominal free air.
+     
+     At the conclusion of this examination, these findings were discussed with Dr.
+     [**First Name4 (NamePattern1) 4157**] [**Last Name (NamePattern1) 4158**] by telephone.
+     
+     
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74F w/ diverticulitis w/ symptomatic improvmenet                              
+     REASON FOR THIS EXAMINATION:
+      ? imrpovement in diverticulitis                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.  Please evaluate post-
+     treatment.
+     
+     COMPARISON:  CT of the abdomen and pelvis [**2631-6-4**].
+     
+     TECHNIQUE:  Axial multidetector CT images were obtained from the lung bases to
+     the pubic symphysis following the administration 150 cc of intravenous Optiray
+     non-ionic contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Since the prior exam, there has been
+     interval increase in the size of the bilateral pleural effusions.  Associated
+     compressive atelectasis is noted of both lower lung lobes.  The heart and
+     pericardium are unremarkable.  The liver, pancreas, spleen, adrenal glands are
+     unremarkable.  Again noted are multiple calcified gallstones within the
+     gallbladder without evidence of cholecystitis.  The kidneys enhance and
+     excrete contrast symmetrically.  There is an increased amount of perihepatic
+     ascites as well as new ascites within the left pericolic gutter.  There has
+     been interval decrease in the amount of intra-abdominal free air.
+     
+     Since the prior exam, there has been a progressive increase in size of the
+     large left lower quadrant fluid collection associated with the sigmoid colon,
+     which now measures 10 cm x 3 cm, and previously measured 1.7 cm x 3 cm.  There
+     has been interval maturation of this collection which now displays a thin wall
+     with rim enhancement.  There has been interval increase in the amount of fluid
+     within this collection.  The collection abuts but does not appear to have
+     discrete continuity with the sigmoid colon lumen.  Again noted are multiple
+     small mesenteric and retroperitoneal lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, distal ureters, and rectum, as
+     well as the uterus and adnexa are unremarkable.  Again, the sigmoid colon
+     demonstrates wall thickening, surrounding mesenteric fat stranding, and the
+     associated fluid collection as described above. Bilateral inguinal fat
+     containing hernias are again noted.   
+     
+     BONE WINDOWS:  Again seen are degenerative changes within the thoracolumbar
+     spine, without suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATED IMAGES:  Coronal and sagittal reconstructions were essential in
+                                                                 (Over)
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     delineating the anatomy and pathology of this case.  Value grade V.
+     
+     IMPRESSION:  Dramatic increase in size in the short interval of the left lower
+     quadrant fluid collection measuring 10 x 3 cm associated with the patient's
+     known sigmoid diverticulitis.  Interval maturation of the wall of this
+     collection with new rim enhancement.  Interval decrease in the amount of
+     intra-abdominal free air.
+     
+     At the conclusion of this examination, these findings were discussed with Dr.
+     [**First Name4 (NamePattern1) 4157**] [**Last Name (NamePattern1) 4158**] by telephone.
+     
+     
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74F w/ diverticulitis w/ symptomatic improvmenet                              
+     REASON FOR THIS EXAMINATION:
+      ? imrpovement in diverticulitis                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.  Please evaluate post-
+     treatment.
+     
+     COMPARISON:  CT of the abdomen and pelvis [**2631-6-4**].
+     
+     TECHNIQUE:  Axial multidetector CT images were obtained from the lung bases to
+     the pubic symphysis following the administration 150 cc of intravenous Optiray
+     non-ionic contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Since the prior exam, there has been
+     interval increase in the size of the bilateral pleural effusions.  Associated
+     compressive atelectasis is noted of both lower lung lobes.  The heart and
+     pericardium are unremarkable.  The liver, pancreas, spleen, adrenal glands are
+     unremarkable.  Again noted are multiple calcified gallstones within the
+     gallbladder without evidence of cholecystitis.  The kidneys enhance and
+     excrete contrast symmetrically.  There is an increased amount of perihepatic
+     ascites as well as new ascites within the left pericolic gutter.  There has
+     been interval decrease in the amount of intra-abdominal free air.
+     
+     Since the prior exam, there has been a progressive increase in size of the
+     large left lower quadrant fluid collection associated with the sigmoid colon,
+     which now measures 10 cm x 3 cm, and previously measured 1.7 cm x 3 cm.  There
+     has been interval maturation of this collection which now displays a thin wall
+     with rim enhancement.  There has been interval increase in the amount of fluid
+     within this collection.  The collection abuts but does not appear to have
+     discrete continuity with the sigmoid colon lumen.  Again noted are multiple
+     small mesenteric and retroperitoneal lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, distal ureters, and rectum, as
+     well as the uterus and adnexa are unremarkable.  Again, the sigmoid colon
+     demonstrates wall thickening, surrounding mesenteric fat stranding, and the
+     associated fluid collection as described above. Bilateral inguinal fat
+     containing hernias are again noted.   
+     
+     BONE WINDOWS:  Again seen are degenerative changes within the thoracolumbar
+     spine, without suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATED IMAGES:  Coronal and sagittal reconstructions were essential in
+                                                                 (Over)
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     delineating the anatomy and pathology of this case.  Value grade V.
+     
+     IMPRESSION:  Dramatic increase in size in the short interval of the left lower
+     quadrant fluid collection measuring 10 x 3 cm associated with the patient's
+     known sigmoid diverticulitis.  Interval maturation of the wall of this
+     collection with new rim enhancement.  Interval decrease in the amount of
+     intra-abdominal free air.
+     
+     At the conclusion of this examination, these findings were discussed with Dr.
+     [**First Name4 (NamePattern1) 4157**] [**Last Name (NamePattern1) 4158**] by telephone.
+     
+     
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74F w/ diverticulitis w/ symptomatic improvmenet                              
+     REASON FOR THIS EXAMINATION:
+      ? imrpovement in diverticulitis                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.  Please evaluate post-
+     treatment.
+     
+     COMPARISON:  CT of the abdomen and pelvis [**2631-6-4**].
+     
+     TECHNIQUE:  Axial multidetector CT images were obtained from the lung bases to
+     the pubic symphysis following the administration 150 cc of intravenous Optiray
+     non-ionic contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Since the prior exam, there has been
+     interval increase in the size of the bilateral pleural effusions.  Associated
+     compressive atelectasis is noted of both lower lung lobes.  The heart and
+     pericardium are unremarkable.  The liver, pancreas, spleen, adrenal glands are
+     unremarkable.  Again noted are multiple calcified gallstones within the
+     gallbladder without evidence of cholecystitis.  The kidneys enhance and
+     excrete contrast symmetrically.  There is an increased amount of perihepatic
+     ascites as well as new ascites within the left pericolic gutter.  There has
+     been interval decrease in the amount of intra-abdominal free air.
+     
+     Since the prior exam, there has been a progressive increase in size of the
+     large left lower quadrant fluid collection associated with the sigmoid colon,
+     which now measures 10 cm x 3 cm, and previously measured 1.7 cm x 3 cm.  There
+     has been interval maturation of this collection which now displays a thin wall
+     with rim enhancement.  There has been interval increase in the amount of fluid
+     within this collection.  The collection abuts but does not appear to have
+     discrete continuity with the sigmoid colon lumen.  Again noted are multiple
+     small mesenteric and retroperitoneal lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, distal ureters, and rectum, as
+     well as the uterus and adnexa are unremarkable.  Again, the sigmoid colon
+     demonstrates wall thickening, surrounding mesenteric fat stranding, and the
+     associated fluid collection as described above. Bilateral inguinal fat
+     containing hernias are again noted.   
+     
+     BONE WINDOWS:  Again seen are degenerative changes within the thoracolumbar
+     spine, without suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATED IMAGES:  Coronal and sagittal reconstructions were essential in
+                                                                 (Over)
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     delineating the anatomy and pathology of this case.  Value grade V.
+     
+     IMPRESSION:  Dramatic increase in size in the short interval of the left lower
+     quadrant fluid collection measuring 10 x 3 cm associated with the patient's
+     known sigmoid diverticulitis.  Interval maturation of the wall of this
+     collection with new rim enhancement.  Interval decrease in the amount of
+     intra-abdominal free air.
+     
+     At the conclusion of this examination, these findings were discussed with Dr.
+     [**First Name4 (NamePattern1) 4157**] [**Last Name (NamePattern1) 4158**] by telephone.
+     
+     
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74F w/ diverticulitis w/ symptomatic improvmenet                              
+     REASON FOR THIS EXAMINATION:
+      ? imrpovement in diverticulitis                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.  Please evaluate post-
+     treatment.
+     
+     COMPARISON:  CT of the abdomen and pelvis [**2631-6-4**].
+     
+     TECHNIQUE:  Axial multidetector CT images were obtained from the lung bases to
+     the pubic symphysis following the administration 150 cc of intravenous Optiray
+     non-ionic contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  Since the prior exam, there has been
+     interval increase in the size of the bilateral pleural effusions.  Associated
+     compressive atelectasis is noted of both lower lung lobes.  The heart and
+     pericardium are unremarkable.  The liver, pancreas, spleen, adrenal glands are
+     unremarkable.  Again noted are multiple calcified gallstones within the
+     gallbladder without evidence of cholecystitis.  The kidneys enhance and
+     excrete contrast symmetrically.  There is an increased amount of perihepatic
+     ascites as well as new ascites within the left pericolic gutter.  There has
+     been interval decrease in the amount of intra-abdominal free air.
+     
+     Since the prior exam, there has been a progressive increase in size of the
+     large left lower quadrant fluid collection associated with the sigmoid colon,
+     which now measures 10 cm x 3 cm, and previously measured 1.7 cm x 3 cm.  There
+     has been interval maturation of this collection which now displays a thin wall
+     with rim enhancement.  There has been interval increase in the amount of fluid
+     within this collection.  The collection abuts but does not appear to have
+     discrete continuity with the sigmoid colon lumen.  Again noted are multiple
+     small mesenteric and retroperitoneal lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The bladder, distal ureters, and rectum, as
+     well as the uterus and adnexa are unremarkable.  Again, the sigmoid colon
+     demonstrates wall thickening, surrounding mesenteric fat stranding, and the
+     associated fluid collection as described above. Bilateral inguinal fat
+     containing hernias are again noted.   
+     
+     BONE WINDOWS:  Again seen are degenerative changes within the thoracolumbar
+     spine, without suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATED IMAGES:  Coronal and sagittal reconstructions were essential in
+                                                                 (Over)
+
+     DATE: [**2631-6-8**] 12:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4156**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: ? imrpovement in diverticulitis                             
+     Admitting Diagnosis: DIVERTICULITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     delineating the anatomy and pathology of this case.  Value grade V.
+     
+     IMPRESSION:  Dramatic increase in size in the short interval of the left lower
+     quadrant fluid collection measuring 10 x 3 cm associated with the patient's
+     known sigmoid diverticulitis.  Interval maturation of the wall of this
+     collection with new rim enhancement.  Interval decrease in the amount of
+     intra-abdominal free air.
+     
+     At the conclusion of this examination, these findings were discussed with Dr.
+     [**First Name4 (NamePattern1) 4157**] [**Last Name (NamePattern1) 4158**] by telephone.
+     
+     
+
+",,
+13856,,,,2631-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-8**] 3:48 PM
+     CT PERITINEAL DRAIN EXCLUDING APPENDICEAL; CT GUIDANCE DRAINAGE Clip # [**Clip Number (Radiology) 4159**]
+     Reason: please drain                                                
+     Admitting Diagnosis: DIVERTICULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with intra-abdominal collection on repeat ct from this am     
+     REASON FOR THIS EXAMINATION:
+      please drain                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman post-diverticulitis with an abdominal abscess,
+     for drainage.
+     
+     PROCEDURE:  After the risks and benefits of the procedure were discussed with
+     the patient, informed consent was obtained.  A preprocedure timeout was
+     obtained to confirm the identity of the patient and the procedure which she
+     has to undergo.
+     
+     CT GUIDED DRAINAGE LOCALIZATION:  The patient was placed in a supine position
+     and limited axial CT images of the abdomen were obtained to confirm the
+     collection to be drained.  As in her prior scan from today, the collection is
+     demonstrated in the midline to left lower abdomen.
+     
+     CT GUIDED DRAINAGE:  The patient's skin was prepped and draped in the usual
+     sterile fashion and 1% lidocaine was used for local anesthesia.
+     
+     Under direct CT guidance, a 10-French self-locking pigtail catheter was
+     inserted and deployed into the fluid collection.  Catheter position was
+     confirmed using CT scanning.  The catheter was locked in position, secured to
+     the skin with a percutaneous catheter fastener, and left open to drainage.
+     Approximately 50 cc of brown fecal like fluid were aspirated and a sample was
+     sent for culture and Gram stain.  A post-procedure scan confirmed again the
+     catheter position and no complications.
+     
+     Dr. [**First Name (STitle) 567**], attending radiologist, was present and supervising the entire
+     procedure.
+     
+     The patient tolerated the procedure well and there were no immediate
+     complications.
+     
+     IMPRESSION:  Technically successful drainage of an abdominal fluid collection.
+     
+
+",,
+13856,,,,2631-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-11**] 1:06 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4160**]
+     Reason: please evlauate for improvement and any undrained collection
+     Admitting Diagnosis: DIVERTICULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74F w/ diverticulitis w/ symptomatic improvmenet - s/p IR drainage              
+            
+     REASON FOR THIS EXAMINATION:
+      please evlauate for improvement and any undrained collection. Please reposition 
+      or place additional drain if necessary. ** INJECT CONTRAST THROUGH DRAIN**-- NO 
+      PO contrast, just IV contrast and contrast via drain 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old female with diverticulitis and symptomatic
+     improvement after drainage of an abscess within the left abdomen.
+     
+     TECHNIQUE:  CT imaging of the abdomen and pelvis performed without intravenous
+     contrast.  Approximately 25 cc of dilute intravenous contrast was injected via
+     the patient's percutaneous drainage catheter into the pre-existing abscess
+     cavity.  Additional post-injection CT imaging was also performed.
+     
+     FINDINGS:  Pre-injection imaging shows small bilateral pleural effusions
+     (right greater than left) with associated atelectasis.  The liver, spleen,
+     pancreas, adrenal glands, and kidneys are unremarkable on this study limited
+     by the lack of IV contrast.  Oral contrast is present within the colon. A
+     percutaneous drainage catheter is present within the left anterior peritoneum
+     with a minimal residual fluid collection containing air adjacent to the
+     drainage catheter measuring 3 cm in greatest dimension.  The fluid collection
+     prior to abscess drainage measured 10 x 3 cm.  After injection of
+     approximately 25 cc of dilute contrast, no definite communication was
+     identified between this residual fluid collection and bowel.  Delayed images
+     show spillage of this injected contrast into the peritoneal cavity.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Air is present within the urinary bladder
+     likely reflecting prior instrumentation.  The postmenopausal uterus, adnexa,
+     and rectum are within normal limits.  There are diverticula within the colon
+     with evidence of wall thickening adjacent to the patient's site of known
+     diverticulitis.
+     
+     Bone windows show no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1)  Marked dimininution of drained abscess with minimal residual fluid
+     collection (3 x 1 cm in greatest dimension) around the percutaneous drainage
+     catheter. No communication between this cavity and bowel.
+     Abscessogram showed potential cavity expansion.
+     Following the injection of dilute intravenous contrast(25 ccs of 10% optiray),
+     there was spillage into the peritoneal cavity. The patient was asymptomatic
+     throughout the procedure.
+     
+     2)  Wall thickening/stranding associated with the patient's known region of
+                                                                 (Over)
+
+     DATE: [**2631-6-11**] 1:06 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4160**]
+     Reason: please evlauate for improvement and any undrained collection
+     Admitting Diagnosis: DIVERTICULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     diverticulitis.
+     
+     The ordering physician, [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 4161**] was contacted with the results of this
+     examination at the time of interpretation.
+     
+     
+
+",,
+13856,,,,2631-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-11**] 1:06 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4160**]
+     Reason: please evlauate for improvement and any undrained collection
+     Admitting Diagnosis: DIVERTICULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74F w/ diverticulitis w/ symptomatic improvmenet - s/p IR drainage              
+            
+     REASON FOR THIS EXAMINATION:
+      please evlauate for improvement and any undrained collection. Please reposition 
+      or place additional drain if necessary. ** INJECT CONTRAST THROUGH DRAIN**-- NO 
+      PO contrast, just IV contrast and contrast via drain 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old female with diverticulitis and symptomatic
+     improvement after drainage of an abscess within the left abdomen.
+     
+     TECHNIQUE:  CT imaging of the abdomen and pelvis performed without intravenous
+     contrast.  Approximately 25 cc of dilute intravenous contrast was injected via
+     the patient's percutaneous drainage catheter into the pre-existing abscess
+     cavity.  Additional post-injection CT imaging was also performed.
+     
+     FINDINGS:  Pre-injection imaging shows small bilateral pleural effusions
+     (right greater than left) with associated atelectasis.  The liver, spleen,
+     pancreas, adrenal glands, and kidneys are unremarkable on this study limited
+     by the lack of IV contrast.  Oral contrast is present within the colon. A
+     percutaneous drainage catheter is present within the left anterior peritoneum
+     with a minimal residual fluid collection containing air adjacent to the
+     drainage catheter measuring 3 cm in greatest dimension.  The fluid collection
+     prior to abscess drainage measured 10 x 3 cm.  After injection of
+     approximately 25 cc of dilute contrast, no definite communication was
+     identified between this residual fluid collection and bowel.  Delayed images
+     show spillage of this injected contrast into the peritoneal cavity.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Air is present within the urinary bladder
+     likely reflecting prior instrumentation.  The postmenopausal uterus, adnexa,
+     and rectum are within normal limits.  There are diverticula within the colon
+     with evidence of wall thickening adjacent to the patient's site of known
+     diverticulitis.
+     
+     Bone windows show no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1)  Marked dimininution of drained abscess with minimal residual fluid
+     collection (3 x 1 cm in greatest dimension) around the percutaneous drainage
+     catheter. No communication between this cavity and bowel.
+     Abscessogram showed potential cavity expansion.
+     Following the injection of dilute intravenous contrast(25 ccs of 10% optiray),
+     there was spillage into the peritoneal cavity. The patient was asymptomatic
+     throughout the procedure.
+     
+     2)  Wall thickening/stranding associated with the patient's known region of
+                                                                 (Over)
+
+     DATE: [**2631-6-11**] 1:06 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4160**]
+     Reason: please evlauate for improvement and any undrained collection
+     Admitting Diagnosis: DIVERTICULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     diverticulitis.
+     
+     The ordering physician, [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 4161**] was contacted with the results of this
+     examination at the time of interpretation.
+     
+     
+
+",,
+13856,,,,2631-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with diverticulitis
+     REASON FOR THIS EXAMINATION:
+      divertculitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.
+     
+     COMPARISON:  CT abdomen and pelvis [**2631-6-11**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with contrast.  Delayed phase images through
+     the pelvis were also obtained.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There has been interval improvement of the
+     right pleural effusion, and near resolution of the left pleural effusion.
+     There is minimal atelectasis at the right lung base.  No lung nodules are
+     identified.  There is evidence of prior median sternotomy and coronary artery
+     calcifications are identified.  There is a small hiatal hernia.  The liver,
+     spleen, pancreas, adrenal glands, and kidneys are unremarkable.  The
+     gallbladder contains a large lamellated gallstone, but there is no evidence
+     for cholecystitis.  The intra-abdominal loops of small bowel are unremarkable.
+     Again, the pigtail drainage catheter is seen entering the left mid abdomen.
+     There remains minimal stranding surrounding the pigtail catheter.  There is a
+     residual 4.1 x 1.5 cm intra-abdominal collection containing a small amount of
+     fluid and air.  This is much smaller than on the previous scan, and is not
+     amenable to drainage.  This collection is adjacent to the proximal sigmoid
+     colon.  Again, there is minimal inflammatory stranding within the mesentery
+     about this collection, and along the catheter tract within the abdomen.  There
+     are multiple small, non-pathologically enlarged lymph nodes within the
+     mesentery.  There is no retroperitoneal lymphadenopathy.  There is no free
+     fluid within the pelvis.  Along the anterior left abdominal wall is likely
+     injection inflammatory reaction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, distal ureters, bladder, uterus,
+     and adnexa are unremarkable.  The intrapelvic loops of small bowel appear
+     normal.  There is no pathologically enlarged inguinal or pelvic
+     lymphadenopathy.  There are small bilateral fat-containing femoral hernias.
+     There is no free fluid within the pelvis.
+     
+     IMPRESSION:
+     1)  Resolving diverticulitis with 4 x 1.5 cm collection remaining adjacent to
+     the sigmoid colon containing a small amount of fluid and air.  This collection
+     is not amenable to drainage.  Minimal inflammatory stranding along the
+     catheter tract within the abdomen.
+     2)  Interval decrease in size of the right pleural effusion with associated
+     compressive atelectasis at the right lung base.  Near resolution of the left
+                                                                 (Over)
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pleural effusion.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+13856,,,,2631-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with diverticulitis
+     REASON FOR THIS EXAMINATION:
+      divertculitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.
+     
+     COMPARISON:  CT abdomen and pelvis [**2631-6-11**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with contrast.  Delayed phase images through
+     the pelvis were also obtained.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There has been interval improvement of the
+     right pleural effusion, and near resolution of the left pleural effusion.
+     There is minimal atelectasis at the right lung base.  No lung nodules are
+     identified.  There is evidence of prior median sternotomy and coronary artery
+     calcifications are identified.  There is a small hiatal hernia.  The liver,
+     spleen, pancreas, adrenal glands, and kidneys are unremarkable.  The
+     gallbladder contains a large lamellated gallstone, but there is no evidence
+     for cholecystitis.  The intra-abdominal loops of small bowel are unremarkable.
+     Again, the pigtail drainage catheter is seen entering the left mid abdomen.
+     There remains minimal stranding surrounding the pigtail catheter.  There is a
+     residual 4.1 x 1.5 cm intra-abdominal collection containing a small amount of
+     fluid and air.  This is much smaller than on the previous scan, and is not
+     amenable to drainage.  This collection is adjacent to the proximal sigmoid
+     colon.  Again, there is minimal inflammatory stranding within the mesentery
+     about this collection, and along the catheter tract within the abdomen.  There
+     are multiple small, non-pathologically enlarged lymph nodes within the
+     mesentery.  There is no retroperitoneal lymphadenopathy.  There is no free
+     fluid within the pelvis.  Along the anterior left abdominal wall is likely
+     injection inflammatory reaction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, distal ureters, bladder, uterus,
+     and adnexa are unremarkable.  The intrapelvic loops of small bowel appear
+     normal.  There is no pathologically enlarged inguinal or pelvic
+     lymphadenopathy.  There are small bilateral fat-containing femoral hernias.
+     There is no free fluid within the pelvis.
+     
+     IMPRESSION:
+     1)  Resolving diverticulitis with 4 x 1.5 cm collection remaining adjacent to
+     the sigmoid colon containing a small amount of fluid and air.  This collection
+     is not amenable to drainage.  Minimal inflammatory stranding along the
+     catheter tract within the abdomen.
+     2)  Interval decrease in size of the right pleural effusion with associated
+     compressive atelectasis at the right lung base.  Near resolution of the left
+                                                                 (Over)
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pleural effusion.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+13856,,,,2631-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with diverticulitis
+     REASON FOR THIS EXAMINATION:
+      divertculitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.
+     
+     COMPARISON:  CT abdomen and pelvis [**2631-6-11**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with contrast.  Delayed phase images through
+     the pelvis were also obtained.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There has been interval improvement of the
+     right pleural effusion, and near resolution of the left pleural effusion.
+     There is minimal atelectasis at the right lung base.  No lung nodules are
+     identified.  There is evidence of prior median sternotomy and coronary artery
+     calcifications are identified.  There is a small hiatal hernia.  The liver,
+     spleen, pancreas, adrenal glands, and kidneys are unremarkable.  The
+     gallbladder contains a large lamellated gallstone, but there is no evidence
+     for cholecystitis.  The intra-abdominal loops of small bowel are unremarkable.
+     Again, the pigtail drainage catheter is seen entering the left mid abdomen.
+     There remains minimal stranding surrounding the pigtail catheter.  There is a
+     residual 4.1 x 1.5 cm intra-abdominal collection containing a small amount of
+     fluid and air.  This is much smaller than on the previous scan, and is not
+     amenable to drainage.  This collection is adjacent to the proximal sigmoid
+     colon.  Again, there is minimal inflammatory stranding within the mesentery
+     about this collection, and along the catheter tract within the abdomen.  There
+     are multiple small, non-pathologically enlarged lymph nodes within the
+     mesentery.  There is no retroperitoneal lymphadenopathy.  There is no free
+     fluid within the pelvis.  Along the anterior left abdominal wall is likely
+     injection inflammatory reaction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, distal ureters, bladder, uterus,
+     and adnexa are unremarkable.  The intrapelvic loops of small bowel appear
+     normal.  There is no pathologically enlarged inguinal or pelvic
+     lymphadenopathy.  There are small bilateral fat-containing femoral hernias.
+     There is no free fluid within the pelvis.
+     
+     IMPRESSION:
+     1)  Resolving diverticulitis with 4 x 1.5 cm collection remaining adjacent to
+     the sigmoid colon containing a small amount of fluid and air.  This collection
+     is not amenable to drainage.  Minimal inflammatory stranding along the
+     catheter tract within the abdomen.
+     2)  Interval decrease in size of the right pleural effusion with associated
+     compressive atelectasis at the right lung base.  Near resolution of the left
+                                                                 (Over)
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pleural effusion.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+13856,,,,2631-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with diverticulitis
+     REASON FOR THIS EXAMINATION:
+      divertculitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with diverticulitis.
+     
+     COMPARISON:  CT abdomen and pelvis [**2631-6-11**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with contrast.  Delayed phase images through
+     the pelvis were also obtained.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There has been interval improvement of the
+     right pleural effusion, and near resolution of the left pleural effusion.
+     There is minimal atelectasis at the right lung base.  No lung nodules are
+     identified.  There is evidence of prior median sternotomy and coronary artery
+     calcifications are identified.  There is a small hiatal hernia.  The liver,
+     spleen, pancreas, adrenal glands, and kidneys are unremarkable.  The
+     gallbladder contains a large lamellated gallstone, but there is no evidence
+     for cholecystitis.  The intra-abdominal loops of small bowel are unremarkable.
+     Again, the pigtail drainage catheter is seen entering the left mid abdomen.
+     There remains minimal stranding surrounding the pigtail catheter.  There is a
+     residual 4.1 x 1.5 cm intra-abdominal collection containing a small amount of
+     fluid and air.  This is much smaller than on the previous scan, and is not
+     amenable to drainage.  This collection is adjacent to the proximal sigmoid
+     colon.  Again, there is minimal inflammatory stranding within the mesentery
+     about this collection, and along the catheter tract within the abdomen.  There
+     are multiple small, non-pathologically enlarged lymph nodes within the
+     mesentery.  There is no retroperitoneal lymphadenopathy.  There is no free
+     fluid within the pelvis.  Along the anterior left abdominal wall is likely
+     injection inflammatory reaction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, distal ureters, bladder, uterus,
+     and adnexa are unremarkable.  The intrapelvic loops of small bowel appear
+     normal.  There is no pathologically enlarged inguinal or pelvic
+     lymphadenopathy.  There are small bilateral fat-containing femoral hernias.
+     There is no free fluid within the pelvis.
+     
+     IMPRESSION:
+     1)  Resolving diverticulitis with 4 x 1.5 cm collection remaining adjacent to
+     the sigmoid colon containing a small amount of fluid and air.  This collection
+     is not amenable to drainage.  Minimal inflammatory stranding along the
+     catheter tract within the abdomen.
+     2)  Interval decrease in size of the right pleural effusion with associated
+     compressive atelectasis at the right lung base.  Near resolution of the left
+                                                                 (Over)
+
+     DATE: [**2631-6-16**] 2:50 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4162**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: divertculitis
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pleural effusion.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+13856,,,,2631-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      f/u perforated sigmoid colon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of prior perforated sigmoid colon, now presenting for
+     followup.
+     
+     COMPARISON:  Study from [**2631-6-16**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the lung
+     bases to the pubic symphysis with coronal and sagittal reconstructions.
+     
+     CONTRAST:  Oral contrast and 150 cc of IV Optiray contrast were administered
+     due to the rapid rate of bolus injection required for the study.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Minimal atelectasis is noted at the lung
+     bases bilaterally.  No parenchymal consolidation, pulmonary nodules, pleural
+     effusion is seen.  The liver, spleen, adrenal glands, and pancreas are normal
+     in appearance.  Multiple tiny hypodensities are seen within the left kidney,
+     which are too small to characterize.  The right kidney is normal.  Large
+     gallstones are again noted within the gallbladder, without any evidence of
+     gallbladder wall thickening or edema.  No pathologically enlarged
+     retroperitoneal or mesenteric lymphadenopathy is identified.  The bowel is
+     normal in appearance, without any evidence of bowel wall thickening or
+     dilatation.  No free fluid or free air is identified.  There has been interval
+     removal of a drain, which was seen on the prior exam.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus and bladder are normal in
+     appearance.  Bilateral inguinal lymphadenopathy is noted.  In the area of
+     prior diverticulitis, there is persistent minimal stranding, which appears to
+     have decreased in comparison to prior study.  Additionally, in the area of the
+     sigmoid colon, there is a focal pocket of air which may represent a sinus
+     within the wall of the colon in that area.  No free fluid is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     evaluating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  There is an interval decrease in the degree of stranding in comparison to
+     the prior study in the area of previous diverticulitis.  There is a small
+     persistent area of stranding adjacent to the sigmoid colon.  Additionally, in
+     the wall of the sigmoid colon at the area of prior inflammation, there is a
+     focal pocket of air within the wall, likely representing a sinus within the
+                                                                 (Over)
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     sigmoid colon wall.
+     
+     2.  Multiple tiny hypodensities within the left kidney, which are too small to
+     characterize.
+     
+     3.  Large gallstones again noted.
+                                                                           
+
+",,
+13856,,,,2631-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      f/u perforated sigmoid colon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of prior perforated sigmoid colon, now presenting for
+     followup.
+     
+     COMPARISON:  Study from [**2631-6-16**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the lung
+     bases to the pubic symphysis with coronal and sagittal reconstructions.
+     
+     CONTRAST:  Oral contrast and 150 cc of IV Optiray contrast were administered
+     due to the rapid rate of bolus injection required for the study.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Minimal atelectasis is noted at the lung
+     bases bilaterally.  No parenchymal consolidation, pulmonary nodules, pleural
+     effusion is seen.  The liver, spleen, adrenal glands, and pancreas are normal
+     in appearance.  Multiple tiny hypodensities are seen within the left kidney,
+     which are too small to characterize.  The right kidney is normal.  Large
+     gallstones are again noted within the gallbladder, without any evidence of
+     gallbladder wall thickening or edema.  No pathologically enlarged
+     retroperitoneal or mesenteric lymphadenopathy is identified.  The bowel is
+     normal in appearance, without any evidence of bowel wall thickening or
+     dilatation.  No free fluid or free air is identified.  There has been interval
+     removal of a drain, which was seen on the prior exam.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus and bladder are normal in
+     appearance.  Bilateral inguinal lymphadenopathy is noted.  In the area of
+     prior diverticulitis, there is persistent minimal stranding, which appears to
+     have decreased in comparison to prior study.  Additionally, in the area of the
+     sigmoid colon, there is a focal pocket of air which may represent a sinus
+     within the wall of the colon in that area.  No free fluid is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     evaluating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  There is an interval decrease in the degree of stranding in comparison to
+     the prior study in the area of previous diverticulitis.  There is a small
+     persistent area of stranding adjacent to the sigmoid colon.  Additionally, in
+     the wall of the sigmoid colon at the area of prior inflammation, there is a
+     focal pocket of air within the wall, likely representing a sinus within the
+                                                                 (Over)
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     sigmoid colon wall.
+     
+     2.  Multiple tiny hypodensities within the left kidney, which are too small to
+     characterize.
+     
+     3.  Large gallstones again noted.
+                                                                           
+
+",,
+13856,,,,2631-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      f/u perforated sigmoid colon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of prior perforated sigmoid colon, now presenting for
+     followup.
+     
+     COMPARISON:  Study from [**2631-6-16**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the lung
+     bases to the pubic symphysis with coronal and sagittal reconstructions.
+     
+     CONTRAST:  Oral contrast and 150 cc of IV Optiray contrast were administered
+     due to the rapid rate of bolus injection required for the study.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Minimal atelectasis is noted at the lung
+     bases bilaterally.  No parenchymal consolidation, pulmonary nodules, pleural
+     effusion is seen.  The liver, spleen, adrenal glands, and pancreas are normal
+     in appearance.  Multiple tiny hypodensities are seen within the left kidney,
+     which are too small to characterize.  The right kidney is normal.  Large
+     gallstones are again noted within the gallbladder, without any evidence of
+     gallbladder wall thickening or edema.  No pathologically enlarged
+     retroperitoneal or mesenteric lymphadenopathy is identified.  The bowel is
+     normal in appearance, without any evidence of bowel wall thickening or
+     dilatation.  No free fluid or free air is identified.  There has been interval
+     removal of a drain, which was seen on the prior exam.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus and bladder are normal in
+     appearance.  Bilateral inguinal lymphadenopathy is noted.  In the area of
+     prior diverticulitis, there is persistent minimal stranding, which appears to
+     have decreased in comparison to prior study.  Additionally, in the area of the
+     sigmoid colon, there is a focal pocket of air which may represent a sinus
+     within the wall of the colon in that area.  No free fluid is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     evaluating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  There is an interval decrease in the degree of stranding in comparison to
+     the prior study in the area of previous diverticulitis.  There is a small
+     persistent area of stranding adjacent to the sigmoid colon.  Additionally, in
+     the wall of the sigmoid colon at the area of prior inflammation, there is a
+     focal pocket of air within the wall, likely representing a sinus within the
+                                                                 (Over)
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     sigmoid colon wall.
+     
+     2.  Multiple tiny hypodensities within the left kidney, which are too small to
+     characterize.
+     
+     3.  Large gallstones again noted.
+                                                                           
+
+",,
+13856,,,,2631-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      f/u perforated sigmoid colon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of prior perforated sigmoid colon, now presenting for
+     followup.
+     
+     COMPARISON:  Study from [**2631-6-16**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the lung
+     bases to the pubic symphysis with coronal and sagittal reconstructions.
+     
+     CONTRAST:  Oral contrast and 150 cc of IV Optiray contrast were administered
+     due to the rapid rate of bolus injection required for the study.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Minimal atelectasis is noted at the lung
+     bases bilaterally.  No parenchymal consolidation, pulmonary nodules, pleural
+     effusion is seen.  The liver, spleen, adrenal glands, and pancreas are normal
+     in appearance.  Multiple tiny hypodensities are seen within the left kidney,
+     which are too small to characterize.  The right kidney is normal.  Large
+     gallstones are again noted within the gallbladder, without any evidence of
+     gallbladder wall thickening or edema.  No pathologically enlarged
+     retroperitoneal or mesenteric lymphadenopathy is identified.  The bowel is
+     normal in appearance, without any evidence of bowel wall thickening or
+     dilatation.  No free fluid or free air is identified.  There has been interval
+     removal of a drain, which was seen on the prior exam.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus and bladder are normal in
+     appearance.  Bilateral inguinal lymphadenopathy is noted.  In the area of
+     prior diverticulitis, there is persistent minimal stranding, which appears to
+     have decreased in comparison to prior study.  Additionally, in the area of the
+     sigmoid colon, there is a focal pocket of air which may represent a sinus
+     within the wall of the colon in that area.  No free fluid is identified.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     evaluating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  There is an interval decrease in the degree of stranding in comparison to
+     the prior study in the area of previous diverticulitis.  There is a small
+     persistent area of stranding adjacent to the sigmoid colon.  Additionally, in
+     the wall of the sigmoid colon at the area of prior inflammation, there is a
+     focal pocket of air within the wall, likely representing a sinus within the
+                                                                 (Over)
+
+     DATE: [**2631-11-7**] 8:53 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4163**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: f/u perforated sigmoid colon
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     sigmoid colon wall.
+     
+     2.  Multiple tiny hypodensities within the left kidney, which are too small to
+     characterize.
+     
+     3.  Large gallstones again noted.
+                                                                           
+
+",,
+13856,,,,2632-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2632-1-18**] 8:18 AM
+     HAND (AP, LAT & OBLIQUE) LEFT                                   Clip # [**Clip Number (Radiology) 4164**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with left wrist pain                                          
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left wrist pain, evaluate fracture.
+     
+     LEFT WRIST, THREE VIEWS.
+     
+     There is irregularity of the articular surface of the distal radius,
+     consistent with a fracture, though this is of indeterminate acuity.  No lucent
+     fracture line to confirm the presence of an acute fracture is detected at this
+     time.  There is associated narrowing of the radiocarpaljoint.  associated
+     There is severe diffuse osteopenia, with marked osteoarthritis most pronounced
+     at the first IP joint, PIP and DIP joints, and first CMC joint.
+
+",,
+13856,20579,17240,0,2633-07-04 16:52:00 EST,2633-07-04 16:54:00 EST,1077,"N",69,"Nursing/Other","resp. care","
+resp. care
+76 yo from osh. s/p l knee repl. intubated due to MI. ? septic.
+was on ps 10/5 but sedated for hospital transfer. now on a/c.
+sx'd for no sputum. plan to wean back to ps as when awake.
+",,
+13856,20579,17240,0,2633-07-05 02:45:00 EST,2633-07-05 02:49:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Rec'd pt on a/c 12/500/5+/30%. Ett 7.0, retaped,rotated and secured @ 20 lip. **Note found ett tube has been cut back** Bs are clear and suctioned for scant amount of thin white secretions. Abg 7.49/31/106/24. Vent changes to decrease VT to 450, R 10 with additional abg pending. Plan to maintain present settings on a/c.
+",,
+13856,20579,17240,0,2633-07-05 03:18:00 EST,2633-07-05 04:34:00 EST,9108,"N",69,"Nursing/Other",,"
+
+NPN [**Date range (1) 5375**] 1900-0700
+Neuro: Opens eyes to voice. Squeezes hand,and attempts to stick out tongue on command.
+
+CV: HR: 109-129 ST w/frequent APC's & PVC's & short, 3-10 beat runs V-tach.  Cuff BP:80's-90's/systolic  with MAP 55-73 on IV neosynephrine 2.0-2.4mcg/kg/min. Did not tolerate Dobutamine as it raised HR to 129 @ low dose (2.5mcg/kg/min) almost immediately. Returned to IV neo. No L DP or L anterior tibial even by doppler @ 2000. L popliteal present by doppler, as well as L posterior tibial. Bed placed in arterial position & monophasic pulse returned by midnight. R DP & PT present by doppler. L lower leg & foot cool & mottled. Pulses on R > than L. Anasarca, w/serum albumin low (<2.0).
+
+Resp: O2 sats remained @ 100% ON A/C (CMV). ABG'S7.49/PCO2 31/PO2 106/base xs 1/calc CO2 24. Tidal volume decreased to 450(from 500)/RR decreased to 10(from 12)/PEEP5/fiO2 30%. Brief trial on CPAP w/PS10/PEEP 5/ tV500/FiO2 30%. Patient did fine but changed back to A/C to decrease workload on heart. B pleural effusions.
+
+GI: hypoactive + bowel sounds. NPO overnight except for meds. NGT- recieved tube feedings through it @ [**Hospital3 108**] Hospital. Placement confirmed by CXR done [**7-3**] @ [**Hospital3 108**] Hospital.
+
+GU: Foley draining amber urine @ 40+ cc/hr
+
+Skin: Small (.5X.5cm) decub @ coccyx w/scant blood when drsg [**Name5 (PTitle) 5376**]. Duoderm applied [**2633-7-5**] @ midnight. Patient turned side to side to keep off decub.  Feet & heels intact. Feet suspended off pillow(s) to prevent pressure ulcers. 
+
+Pain: Patient looked uncomfortable by grimace scale w/ palpation of abdomen or w/ movement L foot. No pain med yet for CV instablity. Patient appears comfortable when not moving or being examined & slept during night.
+
+Infection: Hx grm - rods growing from abdominal abcess drainage (viscous green-yellow fluid). C&S sent. Tmax 99po. Ordered for IV flagyl, po vanco & ipenum-cilastin IV.
+
+Coping: Patient's daughter [**Name (NI) **] (proxy) & son visited patient this evening.  Gravity of patient's condition explained by doctors this [**Name5 (PTitle) **]. [**Doctor First Name **] will discuss this info w/her 2 brothers this morning to determine the plan for this patient.  She is DNR @ this time per Dr. [**First Name8 (NamePattern2) 3009**] [**Last Name (NamePattern1) **]. All meds/treatments are to be continued (not CMO).
+
+Access: L double lumen PICC w/ 1 lumen clotted, despite TPA.
+L triple lumen IJ. Arrived w/ 1 lumen completely clotted &the other  2 lumen unable to be drawn from. 2 L IJ lumen treated w/ TPA. Able to obtain CVP & withdraw blood from catheter after TPA.
+
+A/P: Patient still hemodynamically unstable requiring IV neo to maintain BP & having runs of V-tach. EKG shows low-voltage cardiogram due to amt cardiac damage.At risk for inadequate arterial perfusion to L foot & lower leg. 
+   Check re repleting K 3.9.
+   Await family's decision re: patient's care
+   Continue to monitor pulses & maintain in arterial position if possible. Watch for color changes/S&S necrosis/ lack of pain from no perfusion.
+   Watch for increased ectopy, increased HR, decreased BP.
+   
+
+
+
+
+
+
+",,
+13856,20579,17240,0,2633-07-05 17:15:00 EST,2633-07-05 17:39:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Events:
+
+Patient made CMO after family meeting
+Sacrament of sick given by Catholic priest
+Morphine drip started @ 1345
+Neosynephrine and Heparin drip dc'd
+Extubated @ 1430
+
+
+Neuro: Comfortable with morphine drip @ 20mg/hr, no signs of grimacing with turning/reposition. Ativan 2mg given x 2 prior to and soon after extubation. 
+
+CV: SVT 150's with 10 runs of v-tach intermittently. Off of pressor since 1345. pedal pulses dopplerable, LLE mottled, great and 2nd toe purplish in color, cold to touch.
+
+
+
+",,
+13856,20579,17240,0,2633-07-05 17:39:00 EST,2633-07-05 17:46:00 EST,8179,"N",69,"Nursing/Other",,"
+
+respi: extubated @ 1430, satting 82-87% at room air, morphine increased in the setting of agonal breathing; levsin given SL for increased secretions. Gurgling sounds intermittently. 
+ 
+gi: tube feeds not started, hypoactive bowel sounds. NGTube pulled out when patient was extubated. 
+
+gu: urine output trending down with BP dropping. 
+
+
+",,
+13856,20579,17240,0,2633-07-05 18:12:00 EST,2633-07-05 18:28:00 EST,8179,"N",69,"Nursing/Other",,"
+
+social: family and HCP met with team and discussion were made unto how the patient's condition is, the plan of care for her. Family verbalized that they dont want their mother to be in pain, they wanted her comfortable and doesn't  want any aggressive treatment be done in the setting of multi-organ involvement and cardiogenic shock couldn't sustain the quality of life she would want to have even with procedures to be done and an open heart surgery will not be tolerated by patient considering her weak heart. HCP and family was made aware of the options they have as well as the diagnosis at present, decided to make patient CMO. Family requested for sacrament of sick, given by Catholic priest. Family at bedside, emotional support  provided. 
+",,
+13856,20579,17240,0,2633-07-05 21:41:00 EST,2633-07-05 21:46:00 EST,9108,"N",69,"Nursing/Other",,"
+
+NPN [**2633-7-5**] 1900-2300
+Patient on comfort measures only. On IV morphine @ 20mg/hr. No S&S pain or discomfort. Family remained w/ patint until she expired. Patient expired @ 2130  [**2633-7-5**]. Family then remained w/the body for awhile afterwards. Family took belongings (a cross).
+",,

@@ -1,0 +1,1580 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13455,388,,,3467-12-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3467-12-3**]       Discharge Date:  [**3467-12-18**]
+
+Date of Birth:   [**3398-1-23**]       Sex:  F
+
+Service:
+CHIEF COMPLAINT:  Nausea, vomiting, diarrhea.
+
+HISTORY OF PRESENT ILLNESS:  This is a 69-year-old female
+with a three day history of diarrhea.  On the day of
+admission, the patient ha four to five bowel movements and
+weakness.  Her son called EMS.  The patient was being treated
+for cellulitis at her left antecubital dialysis graft site.
+She was on an antibiotic which name she does not recall for
+one week.  The patient began experiencing nausea, vomiting,
+diarrhea for three to four days after started antibiotics
+which is three days prior to admission.  She denied blood in
+her vomit.  No fever or chills.
+Patient has reported intermittent chest pain unlike her last
+MI in September.  She has shortness of breath with walking at
+baseline.  No sick contacts.  No raw meat or egg ingestion.
+Patient had dialysis today with profound weakness following
+dialysis.  The patient has a history of CVA with left sided
+residual weakness.  Also was admitted in [**3467-9-22**]
+status post myocardial infarction.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Diabetes mellitus.
+3.  Hypercholesterolemia.
+4.  Coronary artery disease status post myocardial infarction
+[**3467-9-22**] with stent to LAD.
+5.  Paroxysmal atrial fibrillation.
+6.  End stage renal disease on hemodialysis.  Patient has
+Port-A-Cath and AV fistula placed in her arm.
+7.  Hypertension.
+8.  History of CVA [**3463**], [**3464**] and 2000.  Patient has left
+sided weakness.
+9.  Cataract.
+
+MEDICATIONS ON ADMISSION:
+1.  Lisinopril 40 mg p.o. q.d.
+2.  Amiodarone 200 mg p.o. q.d.
+3.  Elavil 25 q.h.s. p.r.n..
+4.  Lipitor 40 mg p.o. q.d.
+5.  Aspirin 325 p.o. q.d.
+6.  Prilosec 40 mg p.o. q.d.
+7.  Amlodipine 10 mg p.o. q.d.
+8.  Lopressor 100 mg p.o. b.i.d.
+9.  Dulcolax p.r.n.
+10. Insulin NPH 26 q. AM, 14 q. PM.
+11. Phos-Lo three tabs with meals.
+12. Colace 100 mg p.o. b.i.d.
+13. Iron Sulfate 325 mg p.o. q.d.
+14. Unknown antibiotic for her cellulitis.
+
+ALLERGIES:
+1.  Eggs.
+2.  Tetracycline.
+3.  IV contrast.
+
+SOCIAL HISTORY:  Negative for tobacco and alcohol.  Patient
+has two children and lives with her husband.  Speaks Russian
+and [**Hospital1 **].
+
+PHYSICAL EXAMINATION:  On admission, temperature 99.7 F,
+blood pressure 158/52, heart rate 80, respiratory rate 18, O2
+saturation 100% on room air.  In general obese female in no
+apparent distress.  Head, eyes, ears, nose and throat:
+Pupils are equal, round and reactive to light.  Extraocular
+muscles are intact.  Mucous membranes dry.  Neck:  Carotid
+bruits bilaterally.  Heart:  Normal S1, S2.  There is a II/VI
+systolic ejection murmur, regular rate and rhythm.  Patient
+has Quinton catheter.  Respiratory:  Clear to auscultation
+bilaterally, no rales, no wheezes.  Abdomen:  Diffusely
+tender, soft with normoactive bowel sounds.  Neuro:  There is
+2+ lower extremity edema bilaterally.  No clubbing or
+cyanosis.  Left upper extremity:  Fistula site evident, plus
+redness and warm, plus bruit and thrill, 2+ edema.  Neuro:
+Cranial nerves II through XII intact.  Strength 2+
+bilaterally.
+
+LABORATORY DATA ON ADMISSION:  Showed a sodium of 134,
+potassium 4.1, chloride 94, bicarbonate 24, BUN 16,
+creatinine 3.3, glucose of 228.  The white count was 11.3,
+hemoglobin 12.8, hematocrit 38.3, platelets 270, 86%
+neutrophils, 9% lymphocytes, 5% monocytes, 0% eosinophils.
+ALT was 9, AST was 25, amylase 37, lipase 12, total bilirubin
+was 0.6.
+
+ECG on admission was unchanged from her prior
+hospitalization.
+
+HOSPITAL COURSE:  Patient was initially admitted to the
+Blumgart Medicine Service.  Her hospital course will be
+reviewed by system.
+
+1.  INFECTIOUS DISEASE:  Patient was started on a two week
+course of Vancomycin for cellulitis of her left upper
+extremity.  Her Vancomycin was dosed based on levels.  She
+completed her two week course on [**12-18**].
+
+2.  CARDIOVASCULAR:  A - Coronary artery disease.  Patient is
+status post myocardial infarction in [**3467-9-22**] with
+subsequently cardiac catheterization and LAD stent.  On
+[**12-5**], the patient developed substernal chest pain
+and hemodialysis.  An ECG was done which disclosed
+significant changes.  There were ST segment elevations in V2
+through V4, ST segment depressions in II, III and aVF.
+
+The patient was emergently taken to the Cath Lab for
+intervention.  Resting hemodynamics demonstrated elevated
+right and left sided filling pressures.  There was a V wave
+dominance in the pulmonary capillary wedge pressure tracing.
+......... saturation was elevated with a difference in the
+SVC to IVC and saturations all consistent with known AV
+fistula in the left arm.  There is severe systemic arterial
+hypertension and moderate to moderate pulmonary artery
+hypertension.
+
+Selective coronary angiography of the right dominant
+circulation demonstrated a proximal LAD culprit lesion.  The
+LAD had a 99% instant restenosis with distal TIMI II flow.
+Successful PTCA of the proximal LAD was performed using a
+cutting balloon.  There was 20% residual stenosis, normal
+flow and no apparent dissection.
+
+On the following day the patient underwent brachytherapy.
+She was transferred to the CCU for management following her
+catheterization.  She was administered aspirin, Plavix, beta
+blocker and Statin.
+
+B - Pump:  Patient has hypertension.  She continued on beta
+blocker and was administered Norvasc and ACE inhibitor. A TTE
+done on [**12-11**] following her MI showed an ejection
+fraction of 60%.  There was mild symmetric LVH.
+
+C - Rhythm:  Patient has a history of paroxysmal atrial
+fibrillation.  She continued on her Amiodarone and beta
+blocker.  She was monitored on Telemetry.  She is currently
+being restarted on her Coumadin with Lovenox as a bridge to
+Coumadin.
+
+3.  NEUROLOGIC:  Patient has a history of CVA in [**3463**], [**3464**]
+and 2000.  She has left sided residual weakness.  Following
+her cardiac catheterization, the family noted that the
+patient was demonstrating mental status changes.  A MRI done
+on [**12-9**] disclosed a large subacute infarct involving
+the left parietal lobe.  The stroke was believed to be
+initially ischemia with hemorrhagic conversion.
+
+The patient was seen by the Stroke Service who evaluated her
+and ultimately recommended that she be administered Coumadin
+due to her history of paroxysmal atrial fibrillation.
+Following her stroke, the patient had demonstrated swallowing
+deficits on the swallow evaluation.  In addition, she showed
+some right sided weakness which has improved over this
+admission.  A carotid duplex ultrasound disclosed 60 to 69%
+laminal stenosis at the origin of the right internal carotid
+artery.  The patient has been started on Coumadin with
+Lovenox as a bridge to Coumadin due to her history of
+paroxysmal atrial fibrillation.
+
+4.  RENAL:  Patient has end stage renal disease secondary to
+diabetes mellitus complicated by contrast nephropathy.  She
+undergoes hemodialysis three times a week.  She is
+administered Phos-Lo three tablets t.i.d. with meals.  Her
+nephrologist is Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 2737**].  A fistulogram done on
+[**12-17**] demonstrated a patent AV fistula.
+
+5.  FLUIDS, NUTRITION AND ELECTROLYTES / GI:  As noted above,
+the patient underwent a swallow evaluation on [**12-11**].
+She failed this evaluation and it was recommended that she be
+NPO with tube feeds.  Patient initially received tube feeds
+and medications per NG tube.  On [**12-17**], a PEG was
+placed.  Patient is currently being administered tube feeds.
+Her goal tube feeds are Nepro at 35 cc an hour plus 25 grams
+of ProMod per day.  This will give her 1788 kilocalories and
+78 grams of protein per day. The Nutrition Service has
+suggested that the patient be administered Nephrocaps and her
+phosphate should be monitored.
+
+In addition, the patient has chronic constipation.  A
+colonoscopy in the past demonstrated melanosis coli.  The
+patient has continued on her bowel regimen with Senna, Colace
+and Lactulose p.r.n.
+
+6.   ENDOCRINE:  Patient has type 2 diabetes mellitus.  Her
+fingersticks were monitored q.i.d..  She was administered
+regular insulin sliding scale and fixed dose insulin 7 units
+NPH q. AM, 3 units NPH q. PM.
+
+7.  VASCULATURE:  On [**12-8**] following the patient's
+cardiac catheterization, it was noted that she had a right
+femoral artery pseudoaneurysm.  On [**12-9**], the patient
+underwent thrombin injection to that site.  On
+[**12-10**] a repeat ultrasound was done which confirmed
+thrombosis of the right groin and pseudoaneurysm.
+
+The patient also had Doppler ultrasound of the lower
+extremities done during this hospital which disclosed no
+evidence of deep venous thrombosis.
+
+CODE STATUS:  The patient is full code.
+
+DISCHARGE DIAGNOSES:
+1.  Myocardial infarction status post cardiac catheterization
+and intervention with balloon thrombectomy and brachytherapy
+to instant restenosis of LAD stent.
+2.  End stage renal disease secondary to diabetic
+nephropathy.
+3.  Hypercholesterolemia.
+4.  Hypertension.
+5.  Diabetes mellitus type 2.
+6.  Cerebrovascular accident.
+
+CONDITION ON DISCHARGE:  Fair.
+
+DISCHARGE MEDICATIONS:
+1.  Zestril 40 mg p.o. q.d.
+2.  Lovenox 80 mg subcu b.i.d.
+3.  Coumadin 3 mg p.o. q.h.s.
+4.  Plavix 75 mg p.o. q.d.
+5.  Aspirin 81 mg p.o. q.d.
+6.  Lactulose 30 cc t.i.d. p.r.n.
+7.  Nephrocaps one tab p.o. q.d.
+8.  Prevacid 30 mg per PEG q.d.
+9.  Metoprolol 100 mg p.o. b.i.d.
+10. Norvasc 10 mg p.o. q.d.
+11. Colace 100 mg p.o. b.i.d.
+12. Regular insulin sliding scale.
+13. Insulin 9 units NPH q. AM, 3 units NPH q. PM.
+14. Senna one tablet b.i.d. p.r.n.
+15. Tylenol p.r.n.
+16. Phos-Lo three tabs t.i.d. with meals.
+17. Atorvastatin 40 mg p.o. q.d.
+18. Amiodarone 200 mg p.o. q.d.
+
+DISCHARGE INSTRUCTIONS:
+1.  Patient is being discharged on Lovenox and Coumadin.
+When her Coumadin reaches therapeutic range of 2 to 3, the
+Lovenox should be discontinued.
+2.  Patient is to undergo dialysis three times per week.  Her
+nephrologist is Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 2737**].
+3.  Patient should follow up with her cardiologist and with
+her primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 9117**].
+
+
+
+
+                            [**Name6 (MD) 702**] [**Last Name (NamePattern4) 703**], M.D.
+[**MD Number 704**]
+
+Dictated By:[**Last Name (NamePattern1) 2357**]
+MEDQUIST36
+
+D:  [**3467-12-18**]  15:33
+T:  [**3467-12-18**]  15:54
+JOB#:  [**Job Number 9118**]
+Signed electronically by: DR. [**First Name (STitle) 702**] [**Name (STitle) **]
+ on: TUE [**3468-1-7**] 3:55 PM
+(End of Report)
+
+
+",,
+13455,388,,,3467-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-3**] 10:24 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 15833**]
+     Reason: abdominal pain and bloody diarrhea
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, diarrhea
+     REASON FOR THIS EXAMINATION:
+      abdominal pain and bloody diarrhea
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain and bloody diarrhea.
+     
+     ABDOMEN, SUPINE AND LEFT LATERAL DECUBITUS RADIOGRAPHS: There is air seen
+     throughout the colon extending into the rectum.  There are no dilated loops of
+     bowel. There are a couple air-fluid levels, likely colonic.  No free air is
+     detected. Degenerative changes are noted in the lower lumbar spine.
+     
+     IMPRESSION: No evidence of obstruction or free air.
+
+",,
+13455,388,,,3467-12-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-4**] 1:44 PM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 15834**]
+     Reason: ?clot, septic phlebitis at AV fistual site of  LUE          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, DM2, HTN, CAD and 1 week history of redness, 
+      swelling at site of dialysis AV fistula.
+     REASON FOR THIS EXAMINATION:
+      ?clot, septic phlebitis at AV fistual site of  LUE                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Swelling at the site of AV dialysis.
+     
+     FINDINGS:  [**Doctor Last Name **] scale, color, and Doppler sonograms are performed of the left
+     upper extremity.  There is normal color flow and Doppler flow within the
+     jugular vein, subclavian vein and axillary vein.  There is normal
+     compressibility of the jugular vein.  Color flow involving the AV fistula did
+     not demonstrate intraluminal filling defects.  No extraluminal abnormalities
+     are detected.
+     
+     IMPRESSION:  No intraluminal clot is identified within the fistula.
+     
+
+",,
+13455,388,,,3467-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13455,388,,,3467-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13455,388,16748,,3467-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13455,388,16748,,3467-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-7**] 8:15 PM
+     FEMORAL VASCULAR US RIGHT                                       Clip # [**Clip Number (Radiology) 15835**]
+     Reason: S/P CATH, N/W SWELLING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Post cath with right groin swelling.
+     
+     RIGHT FEMORAL VASCULAR ULTRASOUND: The patient was very uncooperative with the
+     examination and combative. The limited study performed demonstrated two
+     adjacent rounded cystic structures with to-and-fro vascular flow compatible
+     with pseudoaneurysms. The more medially and inferiorly located one measures
+     3.5 cm and the more laterally situated measures about 1.5 cm. The necks cannot
+     be assessed.
+     
+     IMPRESSION: Two right groin pseudoaneurysms. These were marked on the skin
+     with purple X's.
+
+",,
+13455,388,16748,,3467-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-7**] 11:02 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15836**]
+     Reason: R/O BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Change in behavior/mental status. History of prior stroke.
+     
+     CT of the head without contrast.
+     
+     COMPARISON: [**3467-10-6**].
+     
+     TECHNIQUE: CT of the head without contrast.
+     
+     FINDINGS: There is no intra or extraaxial hemorrhage, mass effect or shift of
+     normally midline structures. Again noted is diffuse periventricular white
+     matter low attenuation consistent with chronic microvascular infarcts. An old
+     pontine infarct is unchanged in appearance. There is cortical differentiation
+     in left parietal region suspicious for an acute infarct. A focal soft tissue
+     density is noted within the left lateral sphenoid sinus likely representing
+     mucosal thickening, unchanged from prior study. The visualized paranasal
+     sinuses are otherwise well aerated. There is sclerosis/hypopneumatization of
+     the mastoid air cells, unchanged from prior study.
+     
+     IMPRESSION: No evidence of acute intracranial hemorrhage. Chronic
+     microvascular ischemic changes are present within the periventricular white
+     matter. ? acute infarct left parietal region. MR would help for further
+     evaluation. 
+
+",,
+13455,388,,,3467-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-8**] 6:20 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15837**]
+     Reason: FALLING HCT AND EXPANDING GROIN;HEMATOMA; EVAL FOR RETROPERITONEAL BLEED. S/P ACUTE MI.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hematocrit drop status post right femoral access.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the lung bases
+     to the pubic symphysis without intravenous or oral contrast.  Two tiny nodular
+     opacities are demonstrated in the left lung base posteriorly.  There is
+     minimal bibasilar atelectasis.  The liver, adrenal glands, spleen and
+     unopacified loops of bowel are unremarkable.  There is increased density
+     throughout the gallbladder.  There is no gallbladder wall thickening.  There
+     is no pericholecystic fluid.  Note is made of increased cortical density
+     throughout both kidneys.  There is no evidence of urinary contrast excretion.
+     There is no free fluid or free air within the abdomen.  There is no evidence
+     of retroperitoneal hemorrhage.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is within the
+     urinary bladder.  The rectum and intrapelvic bowel loops are unremarkable.
+     Within the superficial tissues of the right groin there is a moderate sized
+     hematoma.  There are multiple right inguinal lymph nodes, the largest of which
+     measures 1 cm in short axis dimension.
+     
+     Osseous structures demonstrate degenerative change.
+     
+     IMPRESSION:
+     1)  No retroperitoneal hemorrhage identified.  There is a moderate sized
+     hematoma within the right inguinal region.
+     2)  There are two tiny nodules within the left lung base.  If clinically
+     indicated these can be followed in three months with a chest CT.
+     3)  There is evidence of a ATN and vicarious excretion of contrast through the
+     biliary system. 
+
+",,
+13455,388,,,3467-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-8**] 6:20 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15837**]
+     Reason: FALLING HCT AND EXPANDING GROIN;HEMATOMA; EVAL FOR RETROPERITONEAL BLEED. S/P ACUTE MI.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hematocrit drop status post right femoral access.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the lung bases
+     to the pubic symphysis without intravenous or oral contrast.  Two tiny nodular
+     opacities are demonstrated in the left lung base posteriorly.  There is
+     minimal bibasilar atelectasis.  The liver, adrenal glands, spleen and
+     unopacified loops of bowel are unremarkable.  There is increased density
+     throughout the gallbladder.  There is no gallbladder wall thickening.  There
+     is no pericholecystic fluid.  Note is made of increased cortical density
+     throughout both kidneys.  There is no evidence of urinary contrast excretion.
+     There is no free fluid or free air within the abdomen.  There is no evidence
+     of retroperitoneal hemorrhage.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  A Foley catheter is within the
+     urinary bladder.  The rectum and intrapelvic bowel loops are unremarkable.
+     Within the superficial tissues of the right groin there is a moderate sized
+     hematoma.  There are multiple right inguinal lymph nodes, the largest of which
+     measures 1 cm in short axis dimension.
+     
+     Osseous structures demonstrate degenerative change.
+     
+     IMPRESSION:
+     1)  No retroperitoneal hemorrhage identified.  There is a moderate sized
+     hematoma within the right inguinal region.
+     2)  There are two tiny nodules within the left lung base.  If clinically
+     indicated these can be followed in three months with a chest CT.
+     3)  There is evidence of a ATN and vicarious excretion of contrast through the
+     biliary system. 
+
+",,
+13455,388,,,3467-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-9**] 4:14 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 15839**]
+     Reason: 69 YO WOMAN WITH HEADACHES, ESRD, HTN, CVA, P-A-FIB, INCREASED CHOL, S/P MI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, HTN, CVA, p-a-fib, increased chol, s/p MI with
+      stent which restosed
+     REASON FOR THIS EXAMINATION:
+      evaluate for infarct
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH DIFFUSION AND MRA OF THE CIRCLE OF [**Location (un) **].
+     
+     INDICATION:  Hypertension, ?infarct.
+     
+     Multiplanar T1- and T2-weighted imaging of the brain, in addition to diffusion
+     images were performed.  3D TOF MRA of the intracranial circulation was
+     obtained.
+     
+     Correlation is made to the recent CT examination from [**3467-12-7**].  There is a
+     moderate-sized area of restricted diffusion involving the left frontoparietal
+     lobe along the parietal division of the left MCA suggestive of subacute
+     infarction.  There is mild surrounding cytotoxic edema present and mass effect
+     on the left lateral ventricle.  Byproducts of blood are seen on susceptibility
+     images.  Chronic microvascular ischemic changes are seen within the
+     periventricular white matter.  The images were overall degraded by motion
+     artifact.  Scattered small lacunar infarcts are seen within the basal ganglia.
+      Generalized atrophy is noted.
+     
+     MRA of the intracranial circulation was degraded by motion artifact.  No
+     abnormalities are seen involving the distal vertebrobasilar circulation.  The
+     visualized anterior and middle cerebral arteries are patent.  There is
+     attenuation of flow along the distal MCA branches within the left parietal
+     lobe most likely due to the presence of the infarct.
+     
+     IMPRESSION:
+     
+     1) Large subacute infarct involving the left parietal lobe seen on diffusion
+     images and surrounded by mild edema.
+     
+     2) Chronic microvascular ischemic changes within the periventricular white
+     matter and to a lesser degree the brain stem.
+     
+     3) Images of the MRA were degraded by motion artifact.  There is mild
+     attenuation of flow along the parietal MCA branches probably related to the
+     presence of the infarct.  Further clinical correlation and follow-up are
+     recommended.
+
+",,
+13455,388,,,3467-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-9**] 1:33 PM
+     ART DUP EXT LO UNI;F/U; 36002 INJ PSEUDOANERYSM RIGHT           Clip # [**Clip Number (Radiology) 15838**]
+     GUID FOR PSEUDOANUREYSM (INJECTION)
+     Reason: PSEUDOANEURYSM THROMBIN INJECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pseudoaneurysm with cardiac catheterization.
+     
+     TECHNIQUE/FINDINGS:  Initial ultrasound of the right inguinal area
+     demonstrates a multiloculated/multilobular pseudoaneurysm measuring a maximum
+     of 6 cm in diameter.  This appears to be arising off the common femoral
+     artery.
+     
+     After discussion of the technique, risk and benefits with the husband, and
+     with the son by phone, the right inguinal area was prepped and draped in a
+     sterile fashion.  A 21 g. spinal needle was advanced into the periphery of the
+     main, large lobe of this patient's pseudoaneurysm.  The location was
+     documented with ultrasound.  Approximately 700 units of topical Thrombin was
+     injected with thrombosis of approximately 90% of the PSA, including the
+     remaining peripheral compartments of this PSA.
+     
+     Scanning demonstrated some persistent flow within a small portion of the
+     pseudoaneurysm, more inferior.  Hence, the needle was redirected and another
+     200 units injected, with complete thrombosis.
+     
+     The patient suffered no untoward complications, the peripheral exam was
+     unchanged.  She was sent back to her room in stable condition.
+     
+     IMPRESSION:  Complicated large right inguinal pseudoaneurysm, successfully
+     treated with approximately 1000 units of topical Thrombin without
+     complication. 
+
+",,
+13455,388,,,3467-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-9**] 1:33 PM
+     ART DUP EXT LO UNI;F/U; 36002 INJ PSEUDOANERYSM RIGHT           Clip # [**Clip Number (Radiology) 15838**]
+     GUID FOR PSEUDOANUREYSM (INJECTION)
+     Reason: PSEUDOANEURYSM THROMBIN INJECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pseudoaneurysm with cardiac catheterization.
+     
+     TECHNIQUE/FINDINGS:  Initial ultrasound of the right inguinal area
+     demonstrates a multiloculated/multilobular pseudoaneurysm measuring a maximum
+     of 6 cm in diameter.  This appears to be arising off the common femoral
+     artery.
+     
+     After discussion of the technique, risk and benefits with the husband, and
+     with the son by phone, the right inguinal area was prepped and draped in a
+     sterile fashion.  A 21 g. spinal needle was advanced into the periphery of the
+     main, large lobe of this patient's pseudoaneurysm.  The location was
+     documented with ultrasound.  Approximately 700 units of topical Thrombin was
+     injected with thrombosis of approximately 90% of the PSA, including the
+     remaining peripheral compartments of this PSA.
+     
+     Scanning demonstrated some persistent flow within a small portion of the
+     pseudoaneurysm, more inferior.  Hence, the needle was redirected and another
+     200 units injected, with complete thrombosis.
+     
+     The patient suffered no untoward complications, the peripheral exam was
+     unchanged.  She was sent back to her room in stable condition.
+     
+     IMPRESSION:  Complicated large right inguinal pseudoaneurysm, successfully
+     treated with approximately 1000 units of topical Thrombin without
+     complication. 
+
+",,
+13455,388,,,3467-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-9**] 4:14 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 15839**]
+     Reason: 69 YO WOMAN WITH HEADACHES, ESRD, HTN, CVA, P-A-FIB, INCREASED CHOL, S/P MI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, HTN, CVA, p-a-fib, increased chol, s/p MI with
+      stent which restosed
+     REASON FOR THIS EXAMINATION:
+      evaluate for infarct
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH DIFFUSION AND MRA OF THE CIRCLE OF [**Location (un) **].
+     
+     INDICATION:  Hypertension, ?infarct.
+     
+     Multiplanar T1- and T2-weighted imaging of the brain, in addition to diffusion
+     images were performed.  3D TOF MRA of the intracranial circulation was
+     obtained.
+     
+     Correlation is made to the recent CT examination from [**3467-12-7**].  There is a
+     moderate-sized area of restricted diffusion involving the left frontoparietal
+     lobe along the parietal division of the left MCA suggestive of subacute
+     infarction.  There is mild surrounding cytotoxic edema present and mass effect
+     on the left lateral ventricle.  Byproducts of blood are seen on susceptibility
+     images.  Chronic microvascular ischemic changes are seen within the
+     periventricular white matter.  The images were overall degraded by motion
+     artifact.  Scattered small lacunar infarcts are seen within the basal ganglia.
+      Generalized atrophy is noted.
+     
+     MRA of the intracranial circulation was degraded by motion artifact.  No
+     abnormalities are seen involving the distal vertebrobasilar circulation.  The
+     visualized anterior and middle cerebral arteries are patent.  There is
+     attenuation of flow along the distal MCA branches within the left parietal
+     lobe most likely due to the presence of the infarct.
+     
+     IMPRESSION:
+     
+     1) Large subacute infarct involving the left parietal lobe seen on diffusion
+     images and surrounded by mild edema.
+     
+     2) Chronic microvascular ischemic changes within the periventricular white
+     matter and to a lesser degree the brain stem.
+     
+     3) Images of the MRA were degraded by motion artifact.  There is mild
+     attenuation of flow along the parietal MCA branches probably related to the
+     presence of the infarct.  Further clinical correlation and follow-up are
+     recommended.
+
+",,
+13455,388,,,3467-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-9**] 1:33 PM
+     ART DUP EXT LO UNI;F/U; 36002 INJ PSEUDOANERYSM RIGHT           Clip # [**Clip Number (Radiology) 15838**]
+     GUID FOR PSEUDOANUREYSM (INJECTION)
+     Reason: PSEUDOANEURYSM THROMBIN INJECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pseudoaneurysm with cardiac catheterization.
+     
+     TECHNIQUE/FINDINGS:  Initial ultrasound of the right inguinal area
+     demonstrates a multiloculated/multilobular pseudoaneurysm measuring a maximum
+     of 6 cm in diameter.  This appears to be arising off the common femoral
+     artery.
+     
+     After discussion of the technique, risk and benefits with the husband, and
+     with the son by phone, the right inguinal area was prepped and draped in a
+     sterile fashion.  A 21 g. spinal needle was advanced into the periphery of the
+     main, large lobe of this patient's pseudoaneurysm.  The location was
+     documented with ultrasound.  Approximately 700 units of topical Thrombin was
+     injected with thrombosis of approximately 90% of the PSA, including the
+     remaining peripheral compartments of this PSA.
+     
+     Scanning demonstrated some persistent flow within a small portion of the
+     pseudoaneurysm, more inferior.  Hence, the needle was redirected and another
+     200 units injected, with complete thrombosis.
+     
+     The patient suffered no untoward complications, the peripheral exam was
+     unchanged.  She was sent back to her room in stable condition.
+     
+     IMPRESSION:  Complicated large right inguinal pseudoaneurysm, successfully
+     treated with approximately 1000 units of topical Thrombin without
+     complication. 
+
+",,
+13455,388,,,3467-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13455,388,,,3467-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-10**] 2:51 PM
+     ART DUP EXT LO UNI;F/U; CAROTID SERIES COMPLETE                 Clip # [**Clip Number (Radiology) 15841**]
+     Reason: RT GROIN ANEURYSM, CVA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, S/P AMI complicated by R groin aneurism S/P CVA.   
+     REASON FOR THIS EXAMINATION:
+      R groin aneurism, S/p thrombin injection on [**3467-12-9**] is it completely 
+      embolized?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Follow-up examination in a 69 year old woman with history of
+     cardiac catheterization and acute myocardial infarction, complicated by a
+     right groin pseudoaneurysm which was treated by percutaneous thrombin
+     injection yesterday. Also, history of end-stage renal disease and status post
+     cerebrovascular accident.
+     
+     TECHNIQUE AND FINDINGS: [**Doctor Last Name **]-scale and color Doppler examinations of the right
+     groin were performed, demonstrating the absence of flow in the known
+     pseudoaneurysm in the right groin.
+     
+     [**Doctor Last Name **]-scale, color Doppler and spectral Doppler examinations were also
+     performed at the level of the cervical portions of the bilateral carotid and
+     vertebral arteries.
+     
+     On the right, there is plaque at the origin of the internal and external
+     carotid arteries. The peak systolic velocities in the internal, common and
+     external carotid arteries are 171, 59 and 73 cm/sec, respectively. The right
+     ICA-to-CCA ratio is 2.89. These findings are consistent with the presence of a
+     luminal narrowing between 60 and 69% in diameter. There is antegrade flow in
+     the right vertebral artery with a peak systolic velocity of 61 cm/sec.
+     
+     On the left, there is also plaque at the origin of the left internal carotid
+     artery. The peak systolic velocities in the internal, common and external
+     carotid arteries are 80, 81 and 98 cm/sec, respectively. The left ICA-to-CCA
+     ratio is 0.98. There is antegrade flow in the left vertebral artery, with a
+     peak systolic velocity of 57 cm/sec.
+     
+     CONCLUSION:
+     
+     1) Confirmation of thrombosis of the right groin pseudoaneurysm.
+     
+     2) 60-69% luminal stenosis at the origin of the right internal carotid artery.
+
+",,
+13455,388,,,3467-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-10**] 2:51 PM
+     ART DUP EXT LO UNI;F/U; CAROTID SERIES COMPLETE                 Clip # [**Clip Number (Radiology) 15841**]
+     Reason: RT GROIN ANEURYSM, CVA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, S/P AMI complicated by R groin aneurism S/P CVA.   
+     REASON FOR THIS EXAMINATION:
+      R groin aneurism, S/p thrombin injection on [**3467-12-9**] is it completely 
+      embolized?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Follow-up examination in a 69 year old woman with history of
+     cardiac catheterization and acute myocardial infarction, complicated by a
+     right groin pseudoaneurysm which was treated by percutaneous thrombin
+     injection yesterday. Also, history of end-stage renal disease and status post
+     cerebrovascular accident.
+     
+     TECHNIQUE AND FINDINGS: [**Doctor Last Name **]-scale and color Doppler examinations of the right
+     groin were performed, demonstrating the absence of flow in the known
+     pseudoaneurysm in the right groin.
+     
+     [**Doctor Last Name **]-scale, color Doppler and spectral Doppler examinations were also
+     performed at the level of the cervical portions of the bilateral carotid and
+     vertebral arteries.
+     
+     On the right, there is plaque at the origin of the internal and external
+     carotid arteries. The peak systolic velocities in the internal, common and
+     external carotid arteries are 171, 59 and 73 cm/sec, respectively. The right
+     ICA-to-CCA ratio is 2.89. These findings are consistent with the presence of a
+     luminal narrowing between 60 and 69% in diameter. There is antegrade flow in
+     the right vertebral artery with a peak systolic velocity of 61 cm/sec.
+     
+     On the left, there is also plaque at the origin of the left internal carotid
+     artery. The peak systolic velocities in the internal, common and external
+     carotid arteries are 80, 81 and 98 cm/sec, respectively. The left ICA-to-CCA
+     ratio is 0.98. There is antegrade flow in the left vertebral artery, with a
+     peak systolic velocity of 57 cm/sec.
+     
+     CONCLUSION:
+     
+     1) Confirmation of thrombosis of the right groin pseudoaneurysm.
+     
+     2) 60-69% luminal stenosis at the origin of the right internal carotid artery.
+
+",,
+13455,388,,,3467-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-10**] 10:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15842**]
+     Reason: Please assess placement of NGT so meds can be administered. 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 yo F with CAD/CHF, s/p recent CVA with swallowing difficulty.                
+     REASON FOR THIS EXAMINATION:
+      Please assess placement of NGT so meds can be administered.                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check NG tube.
+     
+     COMPARISON:  [**3467-10-15**]
+     
+     SINGLE VIEW CHEST:  There is an NG tube extending below the diaphragm with tip
+     in the stomach.  The heart size is within normal limits. There is a right IJ
+     central venous catheter with tip in the SVC.  There is no evidence of vascular
+     congestion, pleural effusion or focal consolidation.
+     
+     IMPRESSION:  NG tube in the stomach.
+
+",,
+13455,388,,,3467-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-10**] 2:51 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 15840**]
+     Reason: look for emboli                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD, S/P AMI and cath with brachytherapy to LAD stent 
+      complicated by R groin aneurism S/P CVA.
+     REASON FOR THIS EXAMINATION:
+      look for emboli                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right groin pseudoaneurysm and lower extremity swelling.
+     
+     FINDINGS:  Duplex examination on the right demonstrates normal flow,
+     compressibility and respiratory augmentation and variation in the superficial
+     femoral vein and popliteal vein.  On the left, there is normal flow,
+     compressibility, respiratory augmentation and variation of the common femoral,
+     superficial femoral and popliteal veins.
+     
+     CONCLUSION:  No evidence of DVT.
+
+",,
+13455,388,,,3467-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-12**] 3:57 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 15843**]
+     Reason: Rule out obstruction.                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with nausea, vomiting, CVA, s/p brachytherapy who has NG 
+      tube.
+     REASON FOR THIS EXAMINATION:
+      Rule out obstruction.                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Stroke with nausea, vomiting and NG tube placement.
+     
+     NG tube is in distal body of stomach.  There is a moderately gas-distended
+     loop of small bowel in the mid abdomen with gas present throughout the colon
+     and in the rectum.  No definite intramural gas or gas in portal venous system.
+      No obvious extraliminal gas, allowing for supine film only.
+     
+     IMPRESSION:  Dilated small bowel loop with gas throughout the colon.  Findings
+     not highly suspicious for intestinal obstruction but ileus/mesenteric ischemia
+     cannot be ruled out, and if clinically indicated a CT scan may be helpful to
+     better evaluate.
+
+",,
+13455,388,,,3467-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-13**] 1:21 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15844**]
+     Reason: 69 yo female s/p CVA with no gag reflex. Concern for PNA    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       renal failure, dialysis dependent                                              
+       
+     REASON FOR THIS EXAMINATION:
+      69 yo female s/p CVA with no gag reflex. Concern for PNA                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 69 year old female s/p CVA with no gag reflux.  Possible
+     pneumonia.
+     
+     COMPARISON: [**3467-12-10**]
+     
+     CHEST, PA AND LATERAL: The right sided internal jugular central venous
+     catheter is seen with its tip in the superior vena cava, right atrial border.
+     There is no pneumothorax.  Nasogastric tube which passes below the level of
+     the diaphragm.  The cardiomediastinal silhouette is unremarkable. The lungs
+     demonstrate no focal opacities, consolidation, or pleural effusions.  The soft
+     tissue and osseous structures are unremarkable.
+     
+     IMPRESSION: Right internal jugular central venous catheter with tip in right
+     atrium superior vena cava border.  No pneumothorax.  No acute cariopulmonary
+     disease.
+     
+
+",,
+13455,388,,,3467-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 69 year old female with end-sage renal disease and recent CVA and
+     cardiac arrest.  At significant risk for aspiration, needs a GJ-tube for long
+     term feeding.
+     
+     RADIOLOGISTS:  Procedure was performed by Drs. [**First Name8 (NamePattern2) 2256**] [**Last Name (NamePattern1) 450**], [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and
+     [**First Name5 (NamePattern1) 127**] [**Last Name (NamePattern1) 2595**].  Dr. [**Last Name (STitle) 2595**], the staff radiologist, was present and
+     supervised the entire procedure.
+     
+     MEDICATIONS AND CONTRAST:  0.5 mg IV Versed, 25 ug IV Fentanyl administered in
+     divided doses under constant hemodynamic monitoring.  3 cc of 1% subcutaneous
+     Lidocaine.
+     
+     TECHNIQUE AND PROCEDURE:  The patient's son was informed of the details and
+     associated risks of the procedure and verbal consent was obtained via
+     telephone.  The patient was placed on the  angiographic table and the
+     epigastrium was sterilely prepped and draped in the usual fashion.  The
+     stomach was then insuflated via the nasogastric tube.  Under fluoroscopic
+     guidance, 19 gauge introducer needles were used to access the stomach and the
+     stomach wall was approximated to the abdominal cavity wall with two T
+     fasteners.  Under fluoroscopic guidance, an introducer needle was inserted
+     into the body of the stomach between the T fasteners.  A 0.035 [**Location (un) 7663**] J-wire
+     was then introduced through the needle and the needle was subsequently
+     exchanged for a 7 French sheath and MP catheter.  After multiple attempts at
+     advancing the guide wire into the duodenum, the J-wire was exchanged for a
+     super stiff glide wire.  The stiff glide wire was then advanced past the
+     pylorus and into the proximal jejunum.  The catheter was then advanced over
+     the wire until the tip was positioned within the distal duodenum.  The glide
+     wire was then exchanged for an Amplatz wire with the tip positioned within the
+     proximal jejunum.  The sheath and MP catheter were exchanged over the wire for
+     serial 8, 10, and 12 French dilators.  A 14 French peel-away sheath was then
+     inserted over the Amplatz wire so that the tip was in the mid-duodenum.  A 14
+     French [**Doctor Last Name 217**] gastrojejunostomy catheter was then advanced over the Amplatz
+     wire under fluoroscopic guidance so that the tip was within the jejunum and
+     the pigtail was then formed.  The peel-away sheath was removed.  Abdominal
+     radiograph following the administration of 15 cc of ionic contrast
+     demonstrates the tip of the catheter to be within the proximal jejunum.  The
+     catheter was then secured to the skin with a Flexi-Trak.
+     
+     There were no immediate post-procedural complications and the patient
+     tolerated the procedure well.
+     
+     IMPRESSION:  Successful placement of a 14 French [**Doctor Last Name 217**] gastrojejunostomy
+                                                                 (Over)
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter with the tip demonstrated to be within the proximal jejunum.
+     
+
+",,
+13455,388,,,3467-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 69 year old female with end-sage renal disease and recent CVA and
+     cardiac arrest.  At significant risk for aspiration, needs a GJ-tube for long
+     term feeding.
+     
+     RADIOLOGISTS:  Procedure was performed by Drs. [**First Name8 (NamePattern2) 2256**] [**Last Name (NamePattern1) 450**], [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and
+     [**First Name5 (NamePattern1) 127**] [**Last Name (NamePattern1) 2595**].  Dr. [**Last Name (STitle) 2595**], the staff radiologist, was present and
+     supervised the entire procedure.
+     
+     MEDICATIONS AND CONTRAST:  0.5 mg IV Versed, 25 ug IV Fentanyl administered in
+     divided doses under constant hemodynamic monitoring.  3 cc of 1% subcutaneous
+     Lidocaine.
+     
+     TECHNIQUE AND PROCEDURE:  The patient's son was informed of the details and
+     associated risks of the procedure and verbal consent was obtained via
+     telephone.  The patient was placed on the  angiographic table and the
+     epigastrium was sterilely prepped and draped in the usual fashion.  The
+     stomach was then insuflated via the nasogastric tube.  Under fluoroscopic
+     guidance, 19 gauge introducer needles were used to access the stomach and the
+     stomach wall was approximated to the abdominal cavity wall with two T
+     fasteners.  Under fluoroscopic guidance, an introducer needle was inserted
+     into the body of the stomach between the T fasteners.  A 0.035 [**Location (un) 7663**] J-wire
+     was then introduced through the needle and the needle was subsequently
+     exchanged for a 7 French sheath and MP catheter.  After multiple attempts at
+     advancing the guide wire into the duodenum, the J-wire was exchanged for a
+     super stiff glide wire.  The stiff glide wire was then advanced past the
+     pylorus and into the proximal jejunum.  The catheter was then advanced over
+     the wire until the tip was positioned within the distal duodenum.  The glide
+     wire was then exchanged for an Amplatz wire with the tip positioned within the
+     proximal jejunum.  The sheath and MP catheter were exchanged over the wire for
+     serial 8, 10, and 12 French dilators.  A 14 French peel-away sheath was then
+     inserted over the Amplatz wire so that the tip was in the mid-duodenum.  A 14
+     French [**Doctor Last Name 217**] gastrojejunostomy catheter was then advanced over the Amplatz
+     wire under fluoroscopic guidance so that the tip was within the jejunum and
+     the pigtail was then formed.  The peel-away sheath was removed.  Abdominal
+     radiograph following the administration of 15 cc of ionic contrast
+     demonstrates the tip of the catheter to be within the proximal jejunum.  The
+     catheter was then secured to the skin with a Flexi-Trak.
+     
+     There were no immediate post-procedural complications and the patient
+     tolerated the procedure well.
+     
+     IMPRESSION:  Successful placement of a 14 French [**Doctor Last Name 217**] gastrojejunostomy
+                                                                 (Over)
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter with the tip demonstrated to be within the proximal jejunum.
+     
+
+",,
+13455,388,,,3467-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 69 year old female with end-sage renal disease and recent CVA and
+     cardiac arrest.  At significant risk for aspiration, needs a GJ-tube for long
+     term feeding.
+     
+     RADIOLOGISTS:  Procedure was performed by Drs. [**First Name8 (NamePattern2) 2256**] [**Last Name (NamePattern1) 450**], [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and
+     [**First Name5 (NamePattern1) 127**] [**Last Name (NamePattern1) 2595**].  Dr. [**Last Name (STitle) 2595**], the staff radiologist, was present and
+     supervised the entire procedure.
+     
+     MEDICATIONS AND CONTRAST:  0.5 mg IV Versed, 25 ug IV Fentanyl administered in
+     divided doses under constant hemodynamic monitoring.  3 cc of 1% subcutaneous
+     Lidocaine.
+     
+     TECHNIQUE AND PROCEDURE:  The patient's son was informed of the details and
+     associated risks of the procedure and verbal consent was obtained via
+     telephone.  The patient was placed on the  angiographic table and the
+     epigastrium was sterilely prepped and draped in the usual fashion.  The
+     stomach was then insuflated via the nasogastric tube.  Under fluoroscopic
+     guidance, 19 gauge introducer needles were used to access the stomach and the
+     stomach wall was approximated to the abdominal cavity wall with two T
+     fasteners.  Under fluoroscopic guidance, an introducer needle was inserted
+     into the body of the stomach between the T fasteners.  A 0.035 [**Location (un) 7663**] J-wire
+     was then introduced through the needle and the needle was subsequently
+     exchanged for a 7 French sheath and MP catheter.  After multiple attempts at
+     advancing the guide wire into the duodenum, the J-wire was exchanged for a
+     super stiff glide wire.  The stiff glide wire was then advanced past the
+     pylorus and into the proximal jejunum.  The catheter was then advanced over
+     the wire until the tip was positioned within the distal duodenum.  The glide
+     wire was then exchanged for an Amplatz wire with the tip positioned within the
+     proximal jejunum.  The sheath and MP catheter were exchanged over the wire for
+     serial 8, 10, and 12 French dilators.  A 14 French peel-away sheath was then
+     inserted over the Amplatz wire so that the tip was in the mid-duodenum.  A 14
+     French [**Doctor Last Name 217**] gastrojejunostomy catheter was then advanced over the Amplatz
+     wire under fluoroscopic guidance so that the tip was within the jejunum and
+     the pigtail was then formed.  The peel-away sheath was removed.  Abdominal
+     radiograph following the administration of 15 cc of ionic contrast
+     demonstrates the tip of the catheter to be within the proximal jejunum.  The
+     catheter was then secured to the skin with a Flexi-Trak.
+     
+     There were no immediate post-procedural complications and the patient
+     tolerated the procedure well.
+     
+     IMPRESSION:  Successful placement of a 14 French [**Doctor Last Name 217**] gastrojejunostomy
+                                                                 (Over)
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter with the tip demonstrated to be within the proximal jejunum.
+     
+
+",,
+13455,388,,,3467-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 69 year old female with end-sage renal disease and recent CVA and
+     cardiac arrest.  At significant risk for aspiration, needs a GJ-tube for long
+     term feeding.
+     
+     RADIOLOGISTS:  Procedure was performed by Drs. [**First Name8 (NamePattern2) 2256**] [**Last Name (NamePattern1) 450**], [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and
+     [**First Name5 (NamePattern1) 127**] [**Last Name (NamePattern1) 2595**].  Dr. [**Last Name (STitle) 2595**], the staff radiologist, was present and
+     supervised the entire procedure.
+     
+     MEDICATIONS AND CONTRAST:  0.5 mg IV Versed, 25 ug IV Fentanyl administered in
+     divided doses under constant hemodynamic monitoring.  3 cc of 1% subcutaneous
+     Lidocaine.
+     
+     TECHNIQUE AND PROCEDURE:  The patient's son was informed of the details and
+     associated risks of the procedure and verbal consent was obtained via
+     telephone.  The patient was placed on the  angiographic table and the
+     epigastrium was sterilely prepped and draped in the usual fashion.  The
+     stomach was then insuflated via the nasogastric tube.  Under fluoroscopic
+     guidance, 19 gauge introducer needles were used to access the stomach and the
+     stomach wall was approximated to the abdominal cavity wall with two T
+     fasteners.  Under fluoroscopic guidance, an introducer needle was inserted
+     into the body of the stomach between the T fasteners.  A 0.035 [**Location (un) 7663**] J-wire
+     was then introduced through the needle and the needle was subsequently
+     exchanged for a 7 French sheath and MP catheter.  After multiple attempts at
+     advancing the guide wire into the duodenum, the J-wire was exchanged for a
+     super stiff glide wire.  The stiff glide wire was then advanced past the
+     pylorus and into the proximal jejunum.  The catheter was then advanced over
+     the wire until the tip was positioned within the distal duodenum.  The glide
+     wire was then exchanged for an Amplatz wire with the tip positioned within the
+     proximal jejunum.  The sheath and MP catheter were exchanged over the wire for
+     serial 8, 10, and 12 French dilators.  A 14 French peel-away sheath was then
+     inserted over the Amplatz wire so that the tip was in the mid-duodenum.  A 14
+     French [**Doctor Last Name 217**] gastrojejunostomy catheter was then advanced over the Amplatz
+     wire under fluoroscopic guidance so that the tip was within the jejunum and
+     the pigtail was then formed.  The peel-away sheath was removed.  Abdominal
+     radiograph following the administration of 15 cc of ionic contrast
+     demonstrates the tip of the catheter to be within the proximal jejunum.  The
+     catheter was then secured to the skin with a Flexi-Trak.
+     
+     There were no immediate post-procedural complications and the patient
+     tolerated the procedure well.
+     
+     IMPRESSION:  Successful placement of a 14 French [**Doctor Last Name 217**] gastrojejunostomy
+                                                                 (Over)
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter with the tip demonstrated to be within the proximal jejunum.
+     
+
+",,
+13455,388,,,3467-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 69 year old female with end-sage renal disease and recent CVA and
+     cardiac arrest.  At significant risk for aspiration, needs a GJ-tube for long
+     term feeding.
+     
+     RADIOLOGISTS:  Procedure was performed by Drs. [**First Name8 (NamePattern2) 2256**] [**Last Name (NamePattern1) 450**], [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and
+     [**First Name5 (NamePattern1) 127**] [**Last Name (NamePattern1) 2595**].  Dr. [**Last Name (STitle) 2595**], the staff radiologist, was present and
+     supervised the entire procedure.
+     
+     MEDICATIONS AND CONTRAST:  0.5 mg IV Versed, 25 ug IV Fentanyl administered in
+     divided doses under constant hemodynamic monitoring.  3 cc of 1% subcutaneous
+     Lidocaine.
+     
+     TECHNIQUE AND PROCEDURE:  The patient's son was informed of the details and
+     associated risks of the procedure and verbal consent was obtained via
+     telephone.  The patient was placed on the  angiographic table and the
+     epigastrium was sterilely prepped and draped in the usual fashion.  The
+     stomach was then insuflated via the nasogastric tube.  Under fluoroscopic
+     guidance, 19 gauge introducer needles were used to access the stomach and the
+     stomach wall was approximated to the abdominal cavity wall with two T
+     fasteners.  Under fluoroscopic guidance, an introducer needle was inserted
+     into the body of the stomach between the T fasteners.  A 0.035 [**Location (un) 7663**] J-wire
+     was then introduced through the needle and the needle was subsequently
+     exchanged for a 7 French sheath and MP catheter.  After multiple attempts at
+     advancing the guide wire into the duodenum, the J-wire was exchanged for a
+     super stiff glide wire.  The stiff glide wire was then advanced past the
+     pylorus and into the proximal jejunum.  The catheter was then advanced over
+     the wire until the tip was positioned within the distal duodenum.  The glide
+     wire was then exchanged for an Amplatz wire with the tip positioned within the
+     proximal jejunum.  The sheath and MP catheter were exchanged over the wire for
+     serial 8, 10, and 12 French dilators.  A 14 French peel-away sheath was then
+     inserted over the Amplatz wire so that the tip was in the mid-duodenum.  A 14
+     French [**Doctor Last Name 217**] gastrojejunostomy catheter was then advanced over the Amplatz
+     wire under fluoroscopic guidance so that the tip was within the jejunum and
+     the pigtail was then formed.  The peel-away sheath was removed.  Abdominal
+     radiograph following the administration of 15 cc of ionic contrast
+     demonstrates the tip of the catheter to be within the proximal jejunum.  The
+     catheter was then secured to the skin with a Flexi-Trak.
+     
+     There were no immediate post-procedural complications and the patient
+     tolerated the procedure well.
+     
+     IMPRESSION:  Successful placement of a 14 French [**Doctor Last Name 217**] gastrojejunostomy
+                                                                 (Over)
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter with the tip demonstrated to be within the proximal jejunum.
+     
+
+",,
+13455,388,,,3467-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 69 year old female with end-sage renal disease and recent CVA and
+     cardiac arrest.  At significant risk for aspiration, needs a GJ-tube for long
+     term feeding.
+     
+     RADIOLOGISTS:  Procedure was performed by Drs. [**First Name8 (NamePattern2) 2256**] [**Last Name (NamePattern1) 450**], [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and
+     [**First Name5 (NamePattern1) 127**] [**Last Name (NamePattern1) 2595**].  Dr. [**Last Name (STitle) 2595**], the staff radiologist, was present and
+     supervised the entire procedure.
+     
+     MEDICATIONS AND CONTRAST:  0.5 mg IV Versed, 25 ug IV Fentanyl administered in
+     divided doses under constant hemodynamic monitoring.  3 cc of 1% subcutaneous
+     Lidocaine.
+     
+     TECHNIQUE AND PROCEDURE:  The patient's son was informed of the details and
+     associated risks of the procedure and verbal consent was obtained via
+     telephone.  The patient was placed on the  angiographic table and the
+     epigastrium was sterilely prepped and draped in the usual fashion.  The
+     stomach was then insuflated via the nasogastric tube.  Under fluoroscopic
+     guidance, 19 gauge introducer needles were used to access the stomach and the
+     stomach wall was approximated to the abdominal cavity wall with two T
+     fasteners.  Under fluoroscopic guidance, an introducer needle was inserted
+     into the body of the stomach between the T fasteners.  A 0.035 [**Location (un) 7663**] J-wire
+     was then introduced through the needle and the needle was subsequently
+     exchanged for a 7 French sheath and MP catheter.  After multiple attempts at
+     advancing the guide wire into the duodenum, the J-wire was exchanged for a
+     super stiff glide wire.  The stiff glide wire was then advanced past the
+     pylorus and into the proximal jejunum.  The catheter was then advanced over
+     the wire until the tip was positioned within the distal duodenum.  The glide
+     wire was then exchanged for an Amplatz wire with the tip positioned within the
+     proximal jejunum.  The sheath and MP catheter were exchanged over the wire for
+     serial 8, 10, and 12 French dilators.  A 14 French peel-away sheath was then
+     inserted over the Amplatz wire so that the tip was in the mid-duodenum.  A 14
+     French [**Doctor Last Name 217**] gastrojejunostomy catheter was then advanced over the Amplatz
+     wire under fluoroscopic guidance so that the tip was within the jejunum and
+     the pigtail was then formed.  The peel-away sheath was removed.  Abdominal
+     radiograph following the administration of 15 cc of ionic contrast
+     demonstrates the tip of the catheter to be within the proximal jejunum.  The
+     catheter was then secured to the skin with a Flexi-Trak.
+     
+     There were no immediate post-procedural complications and the patient
+     tolerated the procedure well.
+     
+     IMPRESSION:  Successful placement of a 14 French [**Doctor Last Name 217**] gastrojejunostomy
+                                                                 (Over)
+
+     DATE: [**3467-12-16**] 7:46 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 15845**]
+     Reason: G-TUBE
+      Contrast: CONRAY Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter with the tip demonstrated to be within the proximal jejunum.
+     
+
+",,
+13455,388,,,3467-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-17**] 9:18 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 15846**]
+     Reason: pt. has non-developing L upper arm AVF, per Dr. [**Last Name (STitle) 8191**], get 
+      Contrast: OPTIRAY Amt: 65
+     ********************************* CPT Codes ********************************
+     * 36145 INTRO DIALYSIS FISTULA         75790 ART VENEOUS SHUNT             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD
+     REASON FOR THIS EXAMINATION:
+      pt. has non-developing L upper arm AVF
+      per Dr. [**Last Name (STitle) 8191**], get fistulagram
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old female with end stage renal disease and creation of left
+     arm AV fistula in last August.The fistula was dysfunctional.  Evaluation of AV
+     fistula maturation is requested.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and [**First Name4 (NamePattern1) 131**] [**Last Name (NamePattern1) 126**] with
+     the attending radiologist Dr. [**First Name (STitle) 126**] supervising.
+     
+     PROCEDURE/FINDINGS: The risks and benefits were explained to the patient
+     through a translator and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the left arm was
+     prepped and draped in sterile fashion.  Under local anesthesia using 1%
+     lidocaine, the left cephalic vein just above the elbow and beyond the AV
+     anastomosis was accessed with a 21 gauge needle.  A 0.018 wire was placed
+     through the needle into the cephalic vein.  The needle was exchanged for a 4
+     french micropuncture sheath pointing to the venous side.  Sequential venograms
+     were performed from the elbow to SVC using nonionic contrast.Since the tip was
+     in a sidebranch the dilator was pulled more proximally and a pressure cuff was
+     insufflated on the left upper arm proximal to the sheath and the venogram was
+     repeated to produce reflux through the AV anastomosis into the artery.  At the
+     end of the procedure the sheath was removed and local hemostasis was achieved
+     by manual compression.
+     
+     The venograms demonstrated a patent left cephalic-brachial end-to-side AV
+     anastomosis. The vein segment immediately distal to the anastomosis has a
+     relative smaller lumen than the remainder of the cephalic vein but has no
+     cliber jump as compared to the artery. Th hemodynamic significance is unkown.
+     Since there is a good thrill in the graft it is likely not significant. The
+     cephalic vein is moderately hypertrophic and patent through its entire course.
+     At the region of the left axilla, the cephalic vein divided into two smaller
+     branches, one joined the axillary vein and the other one connected to the left
+     internal jugular vein, both with no aparent stenosis. The left basilic vein
+     was also opacified through the connecting superficial veins and is widely
+     open. The left subclavian, brachiocephalic veins and SVC were patent with no
+     stenosis or filling defect.
+     
+     The patient tolerated the procedure well with no complications.
+     
+                                                                 (Over)
+
+     DATE: [**3467-12-17**] 9:18 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 15846**]
+     Reason: pt. has non-developing L upper arm AVF, per Dr. [**Last Name (STitle) 8191**], get 
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: Patent left cephalic-brachial AV fistula and venous system. It
+     may be possible that during prior cannulaion of the fistula the same side-
+     branch that we had entered with the tip of our dilator was accessed giving
+     the faulty impression of a venous stenosis. This sidebrnach is very close to
+     the main cephalic vein and can be avoided if punctures are done higher in the
+     upper arm.
+     
+
+",,
+13455,388,,,3467-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-17**] 9:18 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 15846**]
+     Reason: pt. has non-developing L upper arm AVF, per Dr. [**Last Name (STitle) 8191**], get 
+      Contrast: OPTIRAY Amt: 65
+     ********************************* CPT Codes ********************************
+     * 36145 INTRO DIALYSIS FISTULA         75790 ART VENEOUS SHUNT             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with ESRD
+     REASON FOR THIS EXAMINATION:
+      pt. has non-developing L upper arm AVF
+      per Dr. [**Last Name (STitle) 8191**], get fistulagram
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 69 year old female with end stage renal disease and creation of left
+     arm AV fistula in last August.The fistula was dysfunctional.  Evaluation of AV
+     fistula maturation is requested.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] and [**First Name4 (NamePattern1) 131**] [**Last Name (NamePattern1) 126**] with
+     the attending radiologist Dr. [**First Name (STitle) 126**] supervising.
+     
+     PROCEDURE/FINDINGS: The risks and benefits were explained to the patient
+     through a translator and consent was obtained.
+     
+     The patient was placed supine on the angiographic table and the left arm was
+     prepped and draped in sterile fashion.  Under local anesthesia using 1%
+     lidocaine, the left cephalic vein just above the elbow and beyond the AV
+     anastomosis was accessed with a 21 gauge needle.  A 0.018 wire was placed
+     through the needle into the cephalic vein.  The needle was exchanged for a 4
+     french micropuncture sheath pointing to the venous side.  Sequential venograms
+     were performed from the elbow to SVC using nonionic contrast.Since the tip was
+     in a sidebranch the dilator was pulled more proximally and a pressure cuff was
+     insufflated on the left upper arm proximal to the sheath and the venogram was
+     repeated to produce reflux through the AV anastomosis into the artery.  At the
+     end of the procedure the sheath was removed and local hemostasis was achieved
+     by manual compression.
+     
+     The venograms demonstrated a patent left cephalic-brachial end-to-side AV
+     anastomosis. The vein segment immediately distal to the anastomosis has a
+     relative smaller lumen than the remainder of the cephalic vein but has no
+     cliber jump as compared to the artery. Th hemodynamic significance is unkown.
+     Since there is a good thrill in the graft it is likely not significant. The
+     cephalic vein is moderately hypertrophic and patent through its entire course.
+     At the region of the left axilla, the cephalic vein divided into two smaller
+     branches, one joined the axillary vein and the other one connected to the left
+     internal jugular vein, both with no aparent stenosis. The left basilic vein
+     was also opacified through the connecting superficial veins and is widely
+     open. The left subclavian, brachiocephalic veins and SVC were patent with no
+     stenosis or filling defect.
+     
+     The patient tolerated the procedure well with no complications.
+     
+                                                                 (Over)
+
+     DATE: [**3467-12-17**] 9:18 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 15846**]
+     Reason: pt. has non-developing L upper arm AVF, per Dr. [**Last Name (STitle) 8191**], get 
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: Patent left cephalic-brachial AV fistula and venous system. It
+     may be possible that during prior cannulaion of the fistula the same side-
+     branch that we had entered with the tip of our dilator was accessed giving
+     the faulty impression of a venous stenosis. This sidebrnach is very close to
+     the main cephalic vein and can be avoided if punctures are done higher in the
+     upper arm.
+     
+
+",,
+13455,,,,3467-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-20**] 2:59 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 15849**]
+     Reason: fever, question source
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      fever, question source
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  69 year old woman with fever.
+     
+     COMPARISON:  [**3467-12-13**].
+     
+     AP PORTABLE CHEST:  The cardiac, hilar and mediastinal silhouettes are within
+     normal limits for size.  There is a left-sided IJ Perma-Cath in place with its
+     tip in the superior vena cava.  The lungs are clear.  The costophrenic angles
+     are sharp.  The pulmonary vasculature is normal.  The visualized bones are
+     unremarkable.
+     
+     IMPRESSION:  No radiographic evidence of acute cardiopulmonary disease.
+     
+
+",,
+13455,,,,3467-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-20**] 2:59 AM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 15850**]
+     Reason: abdominal distension
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      abdominal distension
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  69 year old with a history of end stage renal disease and stroke
+     with abdominal distention.
+     
+     COMPARISON:  [**3467-12-12**].
+     
+     SUPINE ABDOMEN:  This is a limited view of the abdomen.  Again noted are
+     mildly dilated loops of small bowel and colon.  The entire abdomen is not
+     visualized.  A gastrojejunostomy tube is present.  There are vascular
+     calcifications.
+     
+     IMPRESSION:  Limited view of the abdomen, however as noted on the prior study
+     there are again seen prominent loops of small bowel and colon consistent
+     with ileus.
+     
+
+",,
+13455,,,,3467-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3467-12-20**] 2:00 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15847**]
+     Reason: change in MS [**First Name (Titles) **] [**Last Name (Titles) 15848**] pt on coumadin and lovenox
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      change in MS [**First Name (Titles) **] [**Last Name (Titles) 15848**] pt on coumadin and lovenox
+     CONTRAINDICATIONS for IV CONTRAST:
+      DIALYSIS PT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  69 year old woman with mental status changes, on Coumadin and
+     Lovenox.
+     
+     COMPARISON: CT of [**3467-12-7**] and MRI of [**3467-12-9**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Ther is a left frontoparietal region hemorrhagic infarction,
+     identified on the MRI of [**3467-12-9**]. Edema produces mass effect narrowing the
+     adjacent sulci and mildly shifting the midline stuructures to the right. There
+     is compression of the left lateral ventricle. The edema has increased since
+     the prior examination.  The right ventricle which was mildly dilated on the
+     prior study, is probably unchanged. The basal cisterns are well visualized.
+     Again noted are periventricular white matter hypodensities consistent with
+     small vessel ischemic changes.  The right pontine lacunar infarct is not well
+     appreciated.
+     
+     There are no skull fractures seen.  There is an air-fluid level or area of
+     mucosal thickening seen in the left sphenoid sinus which is unchanged.  Again
+     noted is an area of sclerosis/hypopneumatization in the mastoid air cells
+     unchanged from prior.
+     
+     IMPRESSION:
+     Left frontoparietal hemorrhagic infarction with increased edema and mass
+     effect since the prior exam of [**3467-12-9**].
+
+",,
+13455,,16749,0,3467-12-20 06:47:00 EST,3467-12-20 07:12:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing brief admit
+mrs [**Last Name (STitle) **] is an elderly russian speaking woman admitted to the micu following a large intracranial bleed.
+PMH-ESRD on dialysis, s/p embolic CVA,CAD,recent MI with LAD stent,paroxsysmal afib, hypercholestremia.
+allergies-eggs, tetracyline and iv contrast
+HPI-resident of the [**Hospital3 1297**],developed a fever and mental status changes-was brought to the [**Hospital1 10**] EW.
+reveiw of systems
+CV-in EW bp was 190/50, hr 70's.EKG-NSR. her bp dropped to 96/28 when dilantin infusing in EW.currently bp=147/76 and hr 70.
+NEURO-head CT revealed a massive bleed on R side with midline shift.during her stay in the EW her mental status decreased, and she now has no spontaneous movements.? herniation.pupils are reactive to light.was tx with 1 gm dilantin in EW.
+RESP-due to extensive head bleed decision was made not to intubate pt.she is wearing a cool neb 100%.RR is ~[**11-5**].lungs are pretty clear.
+GI-belly is soft with positive bowel sounds.has a PEG in place.pt is NPO.
+F/E-has ESRD, ? when last dialysis was.no maintainence fluid infusing.mucous membranes are moist.please see labs as listed in CCC.
+had a foley placed, draining clear yellow urine.
+SKIN-has extensive bruising R groin due to recent cardiac cath.also, L groin had a line placed in the EW-up here it was noted to have a large 
+egg sized hematoma.Line removed and elastoplast dressing placed.at first look no other skin issues.
+IV ACCESS- has a #20 R antecub, dialysis cath in place.
+SOCIAL-has a very attentive russian speaking husband, son and daughter-in-law.they are here now
+a-lady with an extensive neuro bleed.
+p-need a russian interpreter asap to help with decision making discussions.also son and daughter-in-law can help.will support with O2 and plan to transfuse with plts and FFP.
+",,
+13455,,16749,0,3467-12-20 07:35:00 EST,3467-12-20 07:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7:40 am Pt husband has declined platelet and FFP transfusion. He has made Mrs [**Last Name (STitle) 4840**] a DNR/DNI. He does want her to receive tube feeds that will be started this am. Pt has a PEG tube.
+Plan: Provide supportive care for pt and family.
+",,
+13455,,16749,0,3467-12-20 11:54:00 EST,3467-12-20 12:06:00 EST,-1,"N",69,"Nursing/Other","Pt expired","
+Pt expired
+12:00 pm 
+At 10 am pt VS started to rapidly decline. BP 88/21 and then 65/17. Hr went from the 60's to the forties. No treatment as pt was made a DNR/DNI this morning.
+
+Pt family at bedside. RN told pt sister that husband and son should be called. RN spoke to son [**Name (NI) 602**] on the phone and informed him of pt rapid decline since had left an hour earlier-he was on his way to the hospital with his father at that time.
+RN stayed in room at family's request answering questions and providing emotional support. At 10:56 pt became asystolic. Husband and son still had not arrived by this time. 
+
+Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] called and pronounced pt and was in touch with medical examiner. Dr [**Last Name (STitle) 1864**] to write family a letter for airline.
+
+Plan: RN will perform post mortem care once family has left bedside. Transport will be called to take pt to morgue.
+",,

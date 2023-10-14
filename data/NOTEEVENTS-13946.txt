@@ -1,0 +1,387 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13946,448,,,3129-08-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3129-8-20**]     Discharge Date:  [**3129-8-25**]
+
+Date of Birth:   [**3044-1-27**]     Sex:  F
+
+Service:  CCU
+HISTORY OF PRESENT ILLNESS:  The patient is an 85-year-old
+female with a history of atrial fibrillation, hypertension,
+and coronary artery disease who is status post recent
+anterior myocardial infarction that was treated medically on
+[**3129-8-10**].  Patient initially presented at that time with left
+V2 through V6.  She was managed medically because infarct was
+thought to be complete, and she was hemodynamically stable and
+pain-free. She had an in- house echocardiogram
+which showed an ejection fraction of 35% which was markedly
+reduced from 60% ejection fraction in [**3129-3-25**].
+
+Patient was medically managed and discharged to
+developed severe diarrhea and was found to be Clostridium
+difficile positive, and started on Flagyl.  The patient had
+increased lethargy and weakness with intermittent agitation
+and complaints of shortness of breath.  The patient denies
+chest pain, fevers, chills, nausea, vomiting.  The patient
+was initially admitted to the CMED service, however, she had
+an echocardiogram in the Emergency Department showing an
+ejection fraction of less than 25% as well as apical left
+ventricular aneurysm.  The patient also had evidence of
+failure on her chest x-ray, but no evidence of new ischemic
+changes on her electrocardiogram.
+
+Patient, in the Emergency Department, developed nonsustained
+V-tach with diaphoresis and blood pressure in the 80s.
+Patient was loaded with amiodarone and then became
+bradycardic.  Patient was thus transferred to the CCU.
+
+PAST MEDICAL HISTORY:
+1. Coronary artery disease as stated above.
+2. Congestive heart failure as stated above.
+3. History of atrial fibrillation on Coumadin.
+4. History of hypertension.
+5. History of previous transient ischemic attacks.
+6. History of pernicious anemia.
+7. History of severe osteoarthritis.
+8. History of macular degeneration.
+9. History of cataracts.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1. Lopressor 25 mg po bid.
+2. Lisinopril 20 mg po q day.
+3. Aspirin 325 mg po q day.
+4. Lipitor 10 mg po q day.
+5. Digoxin 0.125 mg q day.
+6. Lasix 20 mg po q day.
+7. Coumadin 4 mg po q day.
+8. Multivitamin.
+9. Calcium carbonate.
+10. Trazodone 50 mg q hs prn.
+
+On arrival in the CCU, the patient's vitals were as follows:
+96.3, pulse of 115, blood pressure 129/69, breathing at 40,
+sat 93% on room air.  Generally, she was alert, but
+confused, oriented only to herself using accessory muscles to
+breathe.  HEENT was remarkable for dry mucous membranes.
+Neck:  The patient had elevated jugular venous pressure.
+Chest:  The patient had crackles bilaterally to half her lung
+fields and diminished breath sounds at the bases bilaterally.
+Cardiovascular examination was notable for an irregular heart
+rate and a 2/6 systolic murmur best appreciated at the apex.
+The patient's abdomen was benign.  Extremities:  She had 2+
+lower extremity edema.  Neurologically, the patient could
+follow all commands, move all extremities, and had symmetric
+strength.
+
+LABORATORY DATA ON ADMISSION:  Patient's INR was 3.0.  Her
+white count was 11.8, hematocrit 35.5, platelets 384.
+Patient's BUN and creatinine were 85 and 1.7.  Patient's
+baseline creatinine is around 1.1.  Patient's cardiac enzymes
+were notable for a CPK of 101, which was decreased compared
+to discharge from the hospital when it was 345, troponin
+which was 24, which was also decreased from discharge when it
+was greater than 50.  Urinalysis was positive for nitrates,
+but otherwise unremarkable, and chest x-ray as stated above,
+bilateral infiltrates consistent with pulmonary edema and
+cardiomegaly.
+
+Electrocardiogram showed an old right bundle branch block,
+old ST elevations in V2 through V6, left axis deviation, and
+atrial fibrillation.
+
+In short, this is an 85-year-old female with recent anterior
+myocardial infarction and severe congestive heart failure now
+presenting with confusion in the setting of Clostridium
+difficile colitis and dehydration.
+
+HOSPITAL COURSE BY SYSTEM:
+1. Coronary arteries:  The patient was continued on aspirin
+and Lipitor.  Patient was deemed not to be a catheterization
+candidate.  Patient's enzymes were cycled and patient ruled
+out for myocardial infarction.  Patient denied chest pain
+throughout the course of her admission.
+
+2. Pump:  Patient had markedly decreased left ventricular
+ejection fraction on admission as well as pulmonary edema on
+chest x-ray.  Patient received 3 liters of normal saline in
+the Emergency Department for question of volume depletion,
+where she did have some increase in pressure, but
+unfortunately also became markedly short of breath.  The
+patient was diuresed and managed with ACE inhibitor to better
+increase her forward flow.
+
+The patient's volume status was somewhat unclear throughout
+the course of her hospitalization, however, it was decided to
+refrain from aggressive-invasive measures such as PA line
+catheterization in this patient.
+
+3. Rhythm:  Patient had two runs of sustained V-tach that
+required shock.  Patient was symptomatic and blood pressure
+dipped into the 80s during these episodes.
+Patient was loaded on amiodarone and continued on amiodarone.
+Given the patient's propensity to develop further episodes of
+V-tach, family discussion ensued regarding patient's code
+status.  After much deliberation and discussion, patient's
+family decided to make her DNR/DNI. The patient developed
+V-tach V-fib arrest early in the morning of [**3129-8-25**], and was
+pronounced dead at 12:02 am on [**3129-8-25**].
+
+
+
+              DR. [**Last Name (STitle) 518**], [**First Name3 (LF) 3764**] 12-427
+
+Dictated By:[**Name8 (MD) 2866**]
+
+MEDQUIST36
+
+D:  [**3130-1-4**]  12:24
+T:  [**3130-1-7**]  04:49
+JOB#:  [**Job Number 9872**]
+
+
+
+
+
+
+Signed electronically by: DR. [**First Name (STitle) 3764**] [**Name (STitle) 518**]
+ on: [**First Name9 (NamePattern2) **] [**3130-1-17**] 2:31 PM
+(End of Report)
+
+
+",,
+13946,448,17345,0,3129-08-20 04:59:00 EST,3129-08-20 05:30:00 EST,-1,"N",53,"Nursing/Other","NPN 8/26-8/27 11P-7A","
+NPN [**Date range (1) 5447**] 11P-7A
+85 Y/O FEMALE ADM TO [**Hospital1 10**] FROM [**Hospital3 **] WITH INCREASE IN CHANGE IN MENTAL STATUS. 
+HPI- IN ED PT HAD 8-9 BEAT RUN OF VTACH, PT RECEIVED 150 MG AMIODARONE IN ED.  PT CHF RX- LASIX 60MG. PT RECENT DX MI [**3129-8-10**], EF 25-30%.  PT ADM TO UNIT AT 3AM, PT AWAKE CONFUSED W/ PERIODS OF LETHARGY.  EKG AFIB 80'S W/ OCC PVC'S, HYPOTENSIVE TEAM IS AWARE, RESP- CRACKLES BASES 1/2 UP TO APICES, APICE CLEAR. 
+PMH- HX OF RECENT MI [**3129-8-10**], AFIB, EF 25-30%, HOH, HTN, CATARACT BILAT. TIA, CAD, MACULAR DEGENERATION, PERNICIOUS ANEMIA
+PSH- CATARACT BILAT.
+ALLERGIES- NKDA
+LINES- PT TWO PERIPHERAL IVS, RAC 20G HL, R HAND 18G HL, FOLEY DRAINING CLEAR URINE MINIMAL AMTS.
+
+ROS
+NEURO PT CONFUSED, WITH PERIODS OF LETHARGY, PUPILS CATARACTS, PT FOLLOWS COMMANDS INCONSISTENTLY, PURPOSEFUL MOVEMENTS. 
+RESP- LUNGS CRACKLES BASES APICES CLEAR, O2 SAT 98-100% 4LPM VIA NC. S 
+CV- PT AFIB WITH OCC PVC, MULTIFOCAL COUPLETS, BP HYPOTENSIVE 77-104/65-40.
+GI/GU- ABD SOFT TENDER NON DISTENDED, BS PRESENT, U/O OLIGURIC CLEAR YELLOW. PT CARDIAC HEALTHY HEART DIET. PT ON C-DIFF PRECAUTIIONS.
+SKIN- NO IMPAIRED SKIN INTEGRITY NOTED
+SOC- DAUGHTER CALLED ONCE DURING NOC.
+P- CONTINUE MONITOR VS, U/O, EKG, RESP STATUS, LABS.
+",,
+13946,448,17345,0,3129-08-20 05:59:00 EST,3129-08-20 06:09:00 EST,-1,"N",53,"Nursing/Other","NPN 8/26-8/27 11P-7A","
+NPN [**Date range (1) 5447**] 11P-7A
+ADDENDUM:
+PT WOKE UP AT 6:40A C/O NOT FEELING WELL PT HR DOWN 36, VENTRICULAR ESCAPE,PT THEN INTO MULT FOCAL PVC, COUPLETS, 5 BEAT RUN VT, THEN BACK TO A-FIB 92-  110, CCU HO CALLED, IN TO EVALUATE PT. NO FURTHUR EVENTS. 
+",,
+13946,448,17345,0,3129-08-20 18:28:00 EST,3129-08-20 18:39:00 EST,3420,"N",53,"Nursing/Other","7a-7p","
+7a-7p
+cv: hr a-fib(rate 73-95), sbp 97-112, no cardiac gtts, occasional short runs of v-tach, resolved on own, occasional periods of bradycardia, resolved on own, no hypotension noted with v-tach or brady episodes, po lopressor & digoxin on hold, no c/o cp
+
+resp: bs+ all lobes & clear, crackles to bases, on 4 l np, sats 99-100, rr 14-24, pt c/o sob with episodes of bradycardia
+
+gi: cardiac diet as tolerated, appetite poor, no stool
+
+gu: foley cath patent, uo < 30 cc/hr this am, iv lasix started & given x 3 with good diuresis, po zaroxyln x 1
+
+neuro: confused, follows commands, moving all extremities, iv haldol x 1 for anxiety/agitation
+
+plan: monitor in icu overnoc, tx to ccu
+",,
+13946,448,17345,0,3129-08-20 20:56:00 EST,3129-08-20 21:51:00 EST,118,"N",1,"Nursing/Other","CCU Nursing acceptance note","
+CCU Nursing acceptance note
+85 yr old woman on C-med service transferred from T-SICU to CCU. 
+
+See adm notes, briefly, pt originally admitted 10 days ago, ruled in for lg AMI, treated medically, sent to rehab where she developed c.diff colitis, treated with po flagyl, had worsening MS changes, sent back to [**Hospital1 10**] for further evaluation. BUN/Cr had been rising, felt to be dry in EW, was given 3 L NS, developed CHF, bradycardia, given atropine, VT, given Amiodarone 150 bolus, gtt not started d/t bradycardia. Admitted to T-SICU( no CCU beds). Dig level 2.6, dig DC'd, but did get dose  of .125mg po on [**8-20**] am. Cont to have tachy-brady rhythm in T-SICU, short runs of VT. Troponin remains 30's, with CK's trending down, felt residual from prior AMI. Has been getting doses of Lasix/Zaroxyln, responce fair. BUN 88/cr 1.9, K 4.5, INR 3.9, coumadin on hold. 
+
+NKDA
+
+PMH: MI [**8-10**], Afib, anemia, HTN, maculardegenerative disease, cataracts, urinary incontinence, cardiomyopathy, EF last adm 35%, OA, ?dementia(denied by daughter to physician at rehab), (+) c.diff, treating with po flagyl. 
+
+Pt arrived at 8PM, in no distress. HR 80-90's A.fib, BP 90's-110/50. Episode of bradycardia to 50 with turning shortly after arrival, pt became distressed, panicked looking, SOB. Distress resolved as soon as rhythm returned to baseline afib rate of 80's. Episode lasted < 1 min. Later called out in distress, after arriving in room pt had several 3-5 beat runs of VT, resolved spontaneously, pt went back to [**Doctor Last Name 8**]. Zoll pads on, defib hooked up, on standby. Will repeat lytes tonight. 
+
+Resp: Sat 100% on 4L NC, episodes of SOB occur with rhythm disturbances, either bradycardia or VT. Crackles [**12-26**] way up bilaterally, had completed dose of 200mg IV lasix preceded by zaroxyln in T-SICU on arrival. Has put out 150-120cc/hr. 
+
+Neuro: Pt is lethargic, answering yes/no intermittently, closing eyes and not answering questions at times. Coopertive with turning ect. Moving all extremities. 
+
+GI: abd soft, BS (+). No stool. 
+
+Skin: intact. 
+
+access: # 18 in R hand, new # 20 placed in L hand. 
+
+A/P: elderly woman with rhythm disturbance, dig toxicity, MS changes. Will monitor, follow labs, Zoll at bedside. Maintain pt safety. 
+",,
+13946,448,17345,0,3129-08-21 05:48:00 EST,3129-08-21 06:20:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 2300-0700","
+CCU Nursing Progress Note 2300-0700
+ROS:
+MS: Initially pt non-verbal. Nodding head up and down in response to questions. At that point able to follow simple commands. Around midnight pulling out intravenous and restrained hand for pt's safety. Further into morning pt becoming verbal and asking questions, ""where am I and what year is it?"" Pt able to state her name, husband's name and knows she has one daughter otherwise not aware of period of time and location.  This am following commands and obeying commands more consistenly although still with some inconsistencies. Occasionally screaming out during night and asking for water. Turning with minimal assist. Restraints left in place for pt's safety.
+
+CV: HR 80s to 100s. Afib. PVCs rare to occasional. Currently nothing being done for rate control due to bradycardic episode. SBPs 100s to 120s with MAPs > 60 consisitently. Lytes from evening WNLs requiring no repletion. Color very pale and skin warm to touch.  Pulses doppplerable bilaterally with no LE edema. Cardia echo from [**8-19**] with worsening EF < 25%. LV function severely depressed. LV apical aneursym.
+
+RESP: Intially LSs course at bases and clear in upper field. Pt taking full inhalations. This AM now more alert, pt with crackle [**12-26**] way up.
+O2Sats mid 90s to 100% on 4LNC. Pt does not c/o of SOB of CP/chest heaviness. Breathing appearing to be labored with long inhalations and short expirations. RRs teens to mid 20s.
+
+GU/GI: F/C draining light clear yellow urine. Diruesed with 200mg of Lasix on prior shift with poor response. Started on BID dose of 160mg and Zaroxlyn 1/2hr prior to each dose. Given 160mg at 0200 when UOs dropping off again with poor response. BUN and Creat continue to rise. This 90/ 2.0. Baseline creat 1.0-1.1. Abd soft and flat with (+) BSs. 
+Passing flatus but no loose stools. Tolerating pill and sips of H2O well. Cardiac diet as tolerated. 
+
+ID: Afebrile overnight. Continues on Contact precautions for CDIFF. Currently being covered by Flagyl. Believe on 10th day. 
+ 
+A/P: 85 yo who presented with increased mental status changes secondary to dig toxicity vs. cdiff toxic after being discharge on [**8-14**] to rehab. In addition presents still with elevated troponin and MB.   
+-Possible swan and milrinone today
+-No plans for pacing wire
+-Questionable plans for cath
+   
+",,
+13946,448,17345,0,3129-08-21 17:54:00 EST,3129-08-21 18:45:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Neuro: Pt improved MS today d/t Dig level decrease from 2.60 to 1.90. Oriented to person but not place or time despite reorientation. Family states baseline was high functioning performing ADLs for spouse and self but since initial hospitilization and MI two weeks ago a decrease in MS has been observed. Pt is cooperative and follows commands. Moves and repositions self in bed. Denies any pain.
+
+CV: Afib. HR 81-99. PVCs frequently occurring. NBP 80-107/33-57. Decrease in hemodynamics seen prior to diuresis. Discussed slight fluid rehydration if BP continues to decrease to 70s.  Dopplerable pulses bilaterally. PT/PTT 26.3/48.4. INR increased from 3.9 to 4.8 prior to Amio bolus last night. HCT stable. Dig level slightly decreased from 2.60 to 1.90. K+ dropped to 3.0 following diuresis. Needs to be replete with 60 meq. Ca 8.8. Mg 2.4. Echo reveals decreased LV function. EF 25% Aneurysm on apical wall. Pacer pads remain ant/ posteriorly. Compression sleeves remain on. Remains off pressors.
+
+Resp: On 4.0 L of O2. Sats 98% or better. Crackles heard half way. Upper airways clear. Has some episodes of ^SOB opened mouth breathing associated .  Relieved with repositioning and sitting forward.
+
+GI/GU: Pt tolerated dinner. Daughter assisted with feeding ate small amounts. Tolerating PO meds. +BS + Medium soft stool. Remains on CDiff precautions. Still need stool specimen to r/o Cdiff.
+Foley catheter draining clear light yellow urine. UO 80cc - 200cc/ hr. Trending downward. Diuresed 2liters of urine. Possible overdiuresis. BUN/Cr 97/2.0. D/C Zorox and Lasix d/t diuresis.
+
+ID: Remains afebrile. Temp 96.9-98.1 PO. Cdiff precautions. Remains on Flagyl.
+
+Skin: No breakdown or edema noted.
+
+Access: Two peripheral ivs.
+
+Social: Husband and daughter visited most of the afternoon.
+
+A: Diuresed 2 liters. Exhibiting s/s of dehydration. Decreased BP. Has bouts of ^SOB/ anxiety. Dig levels decreased. No plans for cardiac catherization or pacing wire. 
+
+P: Continue current medical management. Notify HO if BP continues to trend down to the 70s. May need to rehydrate with fluid boluses.       Monitor electrolytes and replete if necessary.   
+
+ 
+
+ 
+",,
+13946,448,17345,0,3129-08-22 01:13:00 EST,3129-08-22 02:09:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+ROS:
+MS:A/O/X/1. Obeying and following commands. Asking appropriate questions. Wanting to know date and time. Constanly re-oriented overnight. Occasionally screaming out for water and calling, I believe to be daughter name. Questioned as to why screaming and pt responding ""I don't know."" Moving all extremeties on and off of bed. Turning self with minimal assistance but with some exertion noted. Occasionally will pick at leads and pull of [**Doctor First Name 1452**] but MS greatly improved over past 24hrs. Restraints off overnight and pt doing well.
+
+CV: Around MN pt in VT arrest. Rate 180s to 190s. On presentation unresponsive and with appearance of very rigid seizure like activity from the neck up. Immediately bagged with O2Sat in the 100s. NIBP reading in the 80s(MAPs 40s-60s) but had been pt's baseline during the evening. Shocked with 200J times one and returning to NSR briefly and then to a slow Afib. MS status back to baseline but slightly lethargic post event. Pt unable to re-call events. Placed on 100% NRB with Sats in the 100s and weaned back to 4LNP. Loaded with 150mg of Amio and started at 1mg/min at 1230AM and at 630 due to decrease to 0.5mg/min. HR prior 70s to 90s. Afib with rare to frequent PVCs. K at 5PM 3.0. Repleted with 60meqs of KCL. Recieved with SBPs by NIBP 70s to 80s. Given 250cc NS bolus and responding with SBPs of 90s to 100s. Shortly after bolus, pt's pressure returning to 80s. HO aware and decline pressors and further fluid boluses. Repeat lytes sent post event and still pending. Will replete as neccesary. Currently pt's HR 60s to 80s. Afib with rare to no PVCs noted. Aline place and correlating with NIBP. ABPs 80s to 90s(MAPs 50s). ABP reading in the high 70s when pt asleep. Color remaining pale and warm to touch. Pulses dopplerable bilaterally with pale BLEs and trace edema noted. 
+
+RESP: LS with crackles [**12-26**] way up and clear above. O2Sat 99-100% on 4Ls.ABG sent on 4Ls post event and 7.45/45/111. Breathing appearing unlabored but occassionally will c/o SOB and appears to be dypsnic with a rate in the 20s. Also appearing to be anxious with dypsnea.  
+
+GU/GI: F/C draining golden colored urine. UOs suboptimal at 50cc/or </hr. No plans to futher diureses since HOs fell that pts is ""dry.""
+AM creatine down to 1.7(2.0). Abd softly distended. (+) BSs. Passing flatus. Small BM overnight. Brown and soft in consistency. G(-). TOleratating cardiac diet. Taken pill with some difficulty. Pt pocketing pills in sides of mouth. Tolerates better at 90 degree angle. No coughing or appearing to aspirate.
+
+ID: Afebrile. Continues contact precautions for CDiff and Flagyl PO.
+Stool sent for CDiff culture. 
+
+A/P: CHF c/b ?hypoperfusion vs dig toxicity and now with VT arrest.
+
+-No plans for swan
+-No plans for cardiac cath
+-Questions plans to re-echo
+-No plans to further diureses
+-Continue to treat ""conservatively"" 
+
+
+ 
+",,
+13946,448,17345,0,3129-08-22 04:03:00 EST,3129-08-22 04:09:00 EST,-1,"N",1,"Nursing/Other","Addedum to CCU Nursing Progress Note 1900-0700","
+Addedum to CCU Nursing Progress Note 1900-0700
+CV: K 3.0. Repleted with 60meqs PO and 20meq IV. Rhythmn with increased pauses with a rate into the 30s with quick recovery into the 70s and 80s. HO notified and wanting to  continue Amiodarone in addition to 250cc bolus. 
+
+ACC: PIV in left wrist infiltrated with NS bolus of 250cc over 1/2hr. Left hand very edemamatous and elevated on 2 pillows. Will re-insert on right. 
+
+SKIN: Coccyx area pink and intact. Pt frequently re-positioned but ending up supine. Duouderm placed.
+",,
+13946,448,17345,0,3129-08-22 16:56:00 EST,3129-08-22 17:11:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN:PLEASE SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CARDIAC: HAD SUSTAINED RUN OF VT TO 180 ON AMIODORONE .5MG/MIN,BP DROPPED TO 70/ FROM 90/ AND TRENDING DOWN,SHOCKED WITH 200JULES X1 AND CONVERTED TO AFIB SLOW AT FIRST THEN BACK TO 70-90'S. HR MOSTLY 74-98 AFIB WITH OCC TO RARE PVC'S BP 74-114/30-57 MAPS 46-78. LAST K 4.4 WITH ONE FROM 1600 PENDING. DIG LEVEL TODAY 1.7 NO FURTHER EPISODES OF VT
+
+NEURO: SCREAMING OUT ALL DAY,ORIENTED X1-2. JUST ASKING FOR WATER AND TO GO HOME. RESTLESS AND AGITATED AT TIMES. 
+
+RESP: LUNGS NOW CLEAR. SATS MID TO HIGH 90'S ON 4L NP
+
+ID: T MAX 99 RECTAL.
+
+GI: ATE A FEW BITES OF CUSTARD,SOME JUICE AND A BIT OF A SHAKE. NO STOOL
+
+GU: UO DECREASING TO NOW 8-11CC/HR. POSITIVE 900CC
+
+HEME: INR 4.9 THIS AM 1 UFFP AT THAT TIME IN ANTICIPATION OF LINE PLACEMENT WHICH WAS NOT DONE
+
+A/P: FAMILY MEETING WITH DR [**Last Name (STitle) **] AND CURRENTLY AWAITING MEETING WITH DR.[**Last Name (STitle) 5448**] TO DISCUSS STATUS AND PLAN
+",,
+13946,448,17345,0,3129-08-23 05:19:00 EST,3129-08-23 05:24:00 EST,313,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE.","
+CCU NSG PROGRESS NOTE.
+O:NEURO=CRYING OUT THROUGHOUT NIGHT FOR NO APPARENT REASON. STATES ""I DON'T KNOW I'M DOING IT."" ASKING TO GO HOME, FOR WATERMELON, TO GET OUT IN THE [**Doctor Last Name 99**], FOR COFFEE-ASKING FOR ALOT OF THINGS. SOFT RESTRAINTS PLACED DUE TO FACT PT PULLING @ LINES, ETC. TRAZADONE @ HS W SIGNIF EFFECT.
+  CV=AF W STABLE BP. WO RUNS OF PVC'S. ON AMIODARON @ 0.5MG/MIN. 
+  GU=FOLEY. MINIMAL UO. NEG 1.7L OVERALL.
+  GI=TAKING PO'S. WO STOOL.
+  ID=LOW [**Last Name (un) 5449**] 99.2 TO 99.4 PO.
+  LABS=AM SENT.
+  SOCIAL=DAUGHTER 7 HUSBAND IN TO SEE PT. DISCUSSION W ATTENDING RE:CODE STATUS-PT MADE DNR.
+
+A:HEMODY STABLE.
+
+P:CONTIN PRESENT MED MANAGEMENT. ?CHG AMIODARONE FROM IV TO PO. SUPPORT PT/FAMILY AS INDICATED.
+",,
+13946,448,17345,0,3129-08-23 17:32:00 EST,3129-08-23 17:45:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN: PLEASE SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CARDIAC: BP 94-103/50-56 MAPS 60-72 CAPTOPRIL 6.25 TID STARTED AT 11A. TOLERATING WELL. REMAINS IN AFIB RATE 60-80'S WITH RARE PVC'S. AMIODORONE 400MG PO QD STARTED AND IV AMIODORONE D/CED
+
+GU/VOLUME: BUN/CREAT INCREASING 100/1.9 UO DECREASING OVER COURSE DSY DOWN TO 2-4CC/HR. GIVEN ZAROXYLN 2.5 FOLLOWED BY 120MG LASIX AROUND 2PM UO 40 THEN 80CC/HR FOR TWO HRS. NOW DECREASED TO 30 AND GIVEN 5MG ZAROXYLN AT 6:20 PM AND THE RESIDENT IS TO DECIDE DOSE OF LASIX. POSITIVE ABOUT 200CC.
+
+GI: EATING VERY SMALL AMOUNTS OF SOFT FOOD. TAKING PILLS WHOLE WITH CUSTARD OR PUDDING. VERY SMALL BM,OB-,SENT FOR C-DIFF
+
+ID: AFEBRILE
+
+NEURO: MUCH CALMER TODAY. ORIENTED X2. COMMUNICATING WITH FAMILY THIS AFTERNOON. SEVERAL EPISODES WHERE PULLING OF O2 AND PULLING AT LINES,REQUIRING PRN RESTRAINTS
+
+RESP: LUNGS CLEAR WITH FINE CRACKLES AT BASES. SATS MID 90'S ON 3LNP
+
+SKIN: COCYX PINK,UNBROKEN,SKIN BARRIER CREAM APPLIED
+
+A/P: FOLLOW UO
+     CHECK LYTES WITH DIURESIS
+     CONTINUE TO ORIENT PT AND USE RESTRAINTS AS NECESSARY
+",,
+13946,448,17345,0,3129-08-24 04:20:00 EST,3129-08-24 04:45:00 EST,-1,"N",1,"Nursing/Other","7P-7A NURSING NOTE:","
+7P-7A NURSING NOTE:
+
+Neuro: Pt alert, confused x2. Follows commands. Pt yelling out loud for no apparent reason. Pt reoriented. 
+
+Pulm: Pt maintained on 3L NC. LS- RA bil. SPO2 93-98%. RR 20-30's. SOB at rest noted at times. 
+
+CV: Tele: afib. HR 70-80's. L radial a-line BP 90-110's/40-60's. PO captopril 6.25mg TID and Amiodorone 400mg PO QD. HH 32.3/10.5 NA
+142/ K 4.2/ CA 8.7/ Phos 4.6/ PT 21.9/ PTT 43.4 with INR 3.3
+
+GI/GU: Pt on cardiac diet with reported poor appetite. Foley in place draining yellow urine. Urine o/p > 50cc/hr, pt given IV lasix last night at change of shift. Urine o/p tappering off toward end of shift. See carevue. Bun/Creat 110/2.1
+
+Skin: INtact. Coccyx red. Freq repositioning. Barrier cream applied. 
+
+Plan:
+Monitor VS and Pulm status
+Monitor I&O's
+Update pt and family on plan of care.
+    
+",,
+13946,448,17345,0,3129-08-24 17:55:00 EST,3129-08-24 18:12:00 EST,142,"N",1,"Nursing/Other","CCU NUrsing PRogress Note","
+CCU NUrsing PRogress Note
+S-""I don't feel good""
+O-Neuro oriented to person only, kept asking where she was and what time it was. Having periods of restlessness/aggitation then periods of deep [**Doctor Last Name 8**]. 
+O- VSS remains in AF 70-90 with short pauses down to 50. SBP 90-120, at 12 noon Natrecor started at .01mcg/kg/min after IVB 2mcg/kg over 1 minute. No change in VS
+Resp- LS rales 3/4 up bilaterally with occ NPC. O2 2l increased to 5lnp with sats 90-97%. Having periods of [**Last Name (un) **] [**Doctor Last Name **] resp with apnea 20-25 sec long. Then becomes very tachypnic up to 40 and can't catch her breath. (O2 sats had dropped to 88% during apnea) received zaroxyln/lasix 160mg IVB with good response 200cc/hr. 
+ID afebrile WBC 12.3
+GU-foley draining well with lasix
+GI-appetite poor, taking liquids good and takes pills well. NO BM HCT 32.3 INR remians elevated 3.3
+SKin-reddened coccyx attempting to keep off back, side to side q4hrs.
+Activity-OOB chair with 2 assist, very unsteady, tolerated 90minutes
+Social- all family into visit, recognized most of them, not very talkative.
+A/P-Natricor started to augment diuresis, CHF persists
+MOnitor LS and urine output closely, Keep SBP >90, 
+",,

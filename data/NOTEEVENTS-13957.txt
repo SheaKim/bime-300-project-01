@@ -1,0 +1,2235 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13957,,,,3275-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      patient with known aaa with increase in epig pain and back pain, eval for 
+      change in aaa/dissection
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa TUE [**3275-4-23**] 3:29 PM
+      Awaiting the prior study to fetch. By measurements only, the aneurysm is
+      larger but I am waiting for direct visual comparison with prior exam. There is
+      marked dilation of the descending thoracic aorta and abdominal aorta with
+      multiple penetrating ulcers. No definite contrast extravasation.
+       Direct comparisons now available. No change in size or configuration of
+      aneurysm, and unchanged ulcerations/plaques.
+     WET READ AUDIT #1 KKXa TUE [**3275-4-23**] 1:24 PM
+      Awaiting the prior study to fetch. By measurements only, the aneurysm is
+      larger but I am waiting for direct visual comparison with prior exam. There is
+      marked dilation of the descending thoracic aorta and abdominal aorta with
+      multiple penetrating ulcers. No definite contrast extravasation.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Known thoracoabdominal aortic aneurysm with increase in
+     epigastric and back pain.  Evaluate for change in aortic aneurysm or
+     dissection.
+     
+     COMPARISON:  CTA of the chest, abdomen and pelvis dated [**3275-2-15**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained without contrast.  Subsequently, contiguous axial images through the
+     chest, abdomen, and pelvis were obtained following the administration of 100
+     cc of Visipaque.  Delayed images through the abdomen and pelvis were obtained.
+     Coronal and sagittal reconstructed images were also obtained.
+     
+     CTA OF THE CHEST, ABDOMEN AND PELVIS:  The appearance of the thoracoabdominal
+     aortic aneurysm is essentially unchanged from the previous exam.  The
+     aneurysmal dilation of the aorta begins at the level of the left atrium and
+     continues to the level of the aortic bifurcation.  The exact measurements of
+     the aneurysm in the prior report are difficult to reproduce.  However, the
+     greatest axial dimensions of the aneurysm within the chest occur on series 3,
+     image 87.  At this level of the right and left ventricles, the thoracic aortic
+     aneurysm measures 7.6 x 5.6 cm.  At the equivalent level on the [**3275-2-2**]
+     study, the aneurysm measures 7.6 x 5.7 cm.  Inferiorly, just prior to the
+     aortic bifurcation, the abdominal aortic aneurysm demonstrates its greatest
+     dimensions in the axial plane, best seen on series 3, image 154.  At this
+     level, the aorta measures 9.5 x 5.4 cm, and it previously measured 9.4 x 5.2
+     cm at the equivalent level on the prior scan.  There is circumferential
+     intramural hematoma throughout the course of the aneurysm, and it is unchanged
+                                                                 (Over)
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     in appearance compared to the prior study.  There are small convex foci of
+     contrast enhancement protruding into the intramural hematoma at multiple
+     levels, in an unchanged configuration compared to the [**3274-2-1**] study.
+     Linear foci of increased attenuation within the intramural hematoma are also
+     unchanged.  There is no evidence of an intimal flap.  The origins of the
+     celiac axis, SMA and right renal artery are unchanged in configuration from
+     the prior study.  There appears to be narrowing at the celiac and SMA origins.
+     The left renal artery is not definitely opacified with contrast.  This is also
+     unchanged from the prior exam.
+     
+     CT OF THE CHEST WITHOUT AND WITH CONTRAST:  Emphysematous changes within both
+     lungs are again noted.  There are no consolidations, masses or pneumothoraces.
+     No pathologically enlarged mediastinal, hilar or axillary lymph nodes.  No
+     pleural or pericardial effusion.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  The liver, spleen, pancreas, and
+     adrenals are unremarkable.  The right kidney demonstrates brisk contrast
+     enhancement and excretes normally.  The left kidney is again atrophic, though
+     it does demonstrate some delayed enhancement with contrast.  There is
+     stranding about the left kidney that is unchanged.  The unopacified loops of
+     small and large bowel are unremarkable.  There is no free air, free fluid or
+     lymphadenopathy within the abdomen.  The patient is post cholecystectomy.  The
+     common bile duct is slightly prominent, though it is unchanged from the prior
+     exam.
+     
+     CT OF THE PELVIS WITHOUT AND WITH CONTRAST:  The unopacified loops of bowel
+     are unremarkable.  There are sigmoid diverticula, without evidence of
+     diverticulitis.  The visualized portion of the bladder is unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.
+     Coronal and sagittal reformatted images demonstrate interval central
+     depression of the superior endplate of the L2 vertebral body.  This finding is
+     new compared to the [**3275-2-2**] exam.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case (grade 5).
+     
+     IMPRESSION:
+     1.  Unchanged appearance of the markedly dilated and tortuous thoracoabdominal
+     aneurysm as detailed above.  Multiple scattered areas of ulceration throughout
+     the lumen of the aneurysm are unchanged.  There is no evidence of an intimal
+     flap.  The intramural hematoma is unchanged.
+     2.  Unchanged appearance of the stenotic origins of the celiac axis and SMA.
+     The right renal artery is patent.
+     3.  Unchanged appearance of the lack of definite contrast enhancement of the
+                                                                 (Over)
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     left renal artery, with associated marked atrophy and delayed enhancement on
+     the left kidney.
+     4.  Interval development of central depression of the superior endplate of L2.
+     The findings, including the compression deformity of the superior aspect of
+     the L2 vertebral body were discussed in detail with the team caring for the
+     patient on the afternoon of [**3275-4-23**].
+
+",,
+13957,,,,3275-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-23**] 1:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4974**]
+     Reason: pre-op xray                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with known aaa with epig and back pain                        
+     REASON FOR THIS EXAMINATION:
+      pre-op xray                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known abdominal aortic aneurysm with epigastric and back pain.
+     Preop x-ray.
+     
+     No prior chest radiographs are available for comparison.  Comparison is made
+     to the CTA of today.
+     
+     UPRIGHT AP CHEST:  The heart size is normal.  The hila are unremarkable.  The
+     aorta is tortuous, and aneurysmal dilation of the aorta (based on prior CT) is
+     evident just superior to the diaphragm.  The lungs are clear, without vascular
+     congestion or consolidation.  No pleural effusions or pneumothorax.  The right
+     extreme costophrenic angle is eliminated from the image, but it is clearly
+     visualized on the CT of the same day.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  Aneurysmal dilation of the descending thoracic aorta.  No
+     evidence of pneumonia or CHF.
+     
+
+",,
+13957,,,,3275-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      patient with known aaa with increase in epig pain and back pain, eval for 
+      change in aaa/dissection
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa TUE [**3275-4-23**] 3:29 PM
+      Awaiting the prior study to fetch. By measurements only, the aneurysm is
+      larger but I am waiting for direct visual comparison with prior exam. There is
+      marked dilation of the descending thoracic aorta and abdominal aorta with
+      multiple penetrating ulcers. No definite contrast extravasation.
+       Direct comparisons now available. No change in size or configuration of
+      aneurysm, and unchanged ulcerations/plaques.
+     WET READ AUDIT #1 KKXa TUE [**3275-4-23**] 1:24 PM
+      Awaiting the prior study to fetch. By measurements only, the aneurysm is
+      larger but I am waiting for direct visual comparison with prior exam. There is
+      marked dilation of the descending thoracic aorta and abdominal aorta with
+      multiple penetrating ulcers. No definite contrast extravasation.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Known thoracoabdominal aortic aneurysm with increase in
+     epigastric and back pain.  Evaluate for change in aortic aneurysm or
+     dissection.
+     
+     COMPARISON:  CTA of the chest, abdomen and pelvis dated [**3275-2-15**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained without contrast.  Subsequently, contiguous axial images through the
+     chest, abdomen, and pelvis were obtained following the administration of 100
+     cc of Visipaque.  Delayed images through the abdomen and pelvis were obtained.
+     Coronal and sagittal reconstructed images were also obtained.
+     
+     CTA OF THE CHEST, ABDOMEN AND PELVIS:  The appearance of the thoracoabdominal
+     aortic aneurysm is essentially unchanged from the previous exam.  The
+     aneurysmal dilation of the aorta begins at the level of the left atrium and
+     continues to the level of the aortic bifurcation.  The exact measurements of
+     the aneurysm in the prior report are difficult to reproduce.  However, the
+     greatest axial dimensions of the aneurysm within the chest occur on series 3,
+     image 87.  At this level of the right and left ventricles, the thoracic aortic
+     aneurysm measures 7.6 x 5.6 cm.  At the equivalent level on the [**3275-2-2**]
+     study, the aneurysm measures 7.6 x 5.7 cm.  Inferiorly, just prior to the
+     aortic bifurcation, the abdominal aortic aneurysm demonstrates its greatest
+     dimensions in the axial plane, best seen on series 3, image 154.  At this
+     level, the aorta measures 9.5 x 5.4 cm, and it previously measured 9.4 x 5.2
+     cm at the equivalent level on the prior scan.  There is circumferential
+     intramural hematoma throughout the course of the aneurysm, and it is unchanged
+                                                                 (Over)
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     in appearance compared to the prior study.  There are small convex foci of
+     contrast enhancement protruding into the intramural hematoma at multiple
+     levels, in an unchanged configuration compared to the [**3274-2-1**] study.
+     Linear foci of increased attenuation within the intramural hematoma are also
+     unchanged.  There is no evidence of an intimal flap.  The origins of the
+     celiac axis, SMA and right renal artery are unchanged in configuration from
+     the prior study.  There appears to be narrowing at the celiac and SMA origins.
+     The left renal artery is not definitely opacified with contrast.  This is also
+     unchanged from the prior exam.
+     
+     CT OF THE CHEST WITHOUT AND WITH CONTRAST:  Emphysematous changes within both
+     lungs are again noted.  There are no consolidations, masses or pneumothoraces.
+     No pathologically enlarged mediastinal, hilar or axillary lymph nodes.  No
+     pleural or pericardial effusion.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  The liver, spleen, pancreas, and
+     adrenals are unremarkable.  The right kidney demonstrates brisk contrast
+     enhancement and excretes normally.  The left kidney is again atrophic, though
+     it does demonstrate some delayed enhancement with contrast.  There is
+     stranding about the left kidney that is unchanged.  The unopacified loops of
+     small and large bowel are unremarkable.  There is no free air, free fluid or
+     lymphadenopathy within the abdomen.  The patient is post cholecystectomy.  The
+     common bile duct is slightly prominent, though it is unchanged from the prior
+     exam.
+     
+     CT OF THE PELVIS WITHOUT AND WITH CONTRAST:  The unopacified loops of bowel
+     are unremarkable.  There are sigmoid diverticula, without evidence of
+     diverticulitis.  The visualized portion of the bladder is unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.
+     Coronal and sagittal reformatted images demonstrate interval central
+     depression of the superior endplate of the L2 vertebral body.  This finding is
+     new compared to the [**3275-2-2**] exam.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case (grade 5).
+     
+     IMPRESSION:
+     1.  Unchanged appearance of the markedly dilated and tortuous thoracoabdominal
+     aneurysm as detailed above.  Multiple scattered areas of ulceration throughout
+     the lumen of the aneurysm are unchanged.  There is no evidence of an intimal
+     flap.  The intramural hematoma is unchanged.
+     2.  Unchanged appearance of the stenotic origins of the celiac axis and SMA.
+     The right renal artery is patent.
+     3.  Unchanged appearance of the lack of definite contrast enhancement of the
+                                                                 (Over)
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     left renal artery, with associated marked atrophy and delayed enhancement on
+     the left kidney.
+     4.  Interval development of central depression of the superior endplate of L2.
+     The findings, including the compression deformity of the superior aspect of
+     the L2 vertebral body were discussed in detail with the team caring for the
+     patient on the afternoon of [**3275-4-23**].
+
+",,
+13957,,,,3275-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      patient with known aaa with increase in epig pain and back pain, eval for 
+      change in aaa/dissection
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa TUE [**3275-4-23**] 3:29 PM
+      Awaiting the prior study to fetch. By measurements only, the aneurysm is
+      larger but I am waiting for direct visual comparison with prior exam. There is
+      marked dilation of the descending thoracic aorta and abdominal aorta with
+      multiple penetrating ulcers. No definite contrast extravasation.
+       Direct comparisons now available. No change in size or configuration of
+      aneurysm, and unchanged ulcerations/plaques.
+     WET READ AUDIT #1 KKXa TUE [**3275-4-23**] 1:24 PM
+      Awaiting the prior study to fetch. By measurements only, the aneurysm is
+      larger but I am waiting for direct visual comparison with prior exam. There is
+      marked dilation of the descending thoracic aorta and abdominal aorta with
+      multiple penetrating ulcers. No definite contrast extravasation.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Known thoracoabdominal aortic aneurysm with increase in
+     epigastric and back pain.  Evaluate for change in aortic aneurysm or
+     dissection.
+     
+     COMPARISON:  CTA of the chest, abdomen and pelvis dated [**3275-2-15**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained without contrast.  Subsequently, contiguous axial images through the
+     chest, abdomen, and pelvis were obtained following the administration of 100
+     cc of Visipaque.  Delayed images through the abdomen and pelvis were obtained.
+     Coronal and sagittal reconstructed images were also obtained.
+     
+     CTA OF THE CHEST, ABDOMEN AND PELVIS:  The appearance of the thoracoabdominal
+     aortic aneurysm is essentially unchanged from the previous exam.  The
+     aneurysmal dilation of the aorta begins at the level of the left atrium and
+     continues to the level of the aortic bifurcation.  The exact measurements of
+     the aneurysm in the prior report are difficult to reproduce.  However, the
+     greatest axial dimensions of the aneurysm within the chest occur on series 3,
+     image 87.  At this level of the right and left ventricles, the thoracic aortic
+     aneurysm measures 7.6 x 5.6 cm.  At the equivalent level on the [**3275-2-2**]
+     study, the aneurysm measures 7.6 x 5.7 cm.  Inferiorly, just prior to the
+     aortic bifurcation, the abdominal aortic aneurysm demonstrates its greatest
+     dimensions in the axial plane, best seen on series 3, image 154.  At this
+     level, the aorta measures 9.5 x 5.4 cm, and it previously measured 9.4 x 5.2
+     cm at the equivalent level on the prior scan.  There is circumferential
+     intramural hematoma throughout the course of the aneurysm, and it is unchanged
+                                                                 (Over)
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     in appearance compared to the prior study.  There are small convex foci of
+     contrast enhancement protruding into the intramural hematoma at multiple
+     levels, in an unchanged configuration compared to the [**3274-2-1**] study.
+     Linear foci of increased attenuation within the intramural hematoma are also
+     unchanged.  There is no evidence of an intimal flap.  The origins of the
+     celiac axis, SMA and right renal artery are unchanged in configuration from
+     the prior study.  There appears to be narrowing at the celiac and SMA origins.
+     The left renal artery is not definitely opacified with contrast.  This is also
+     unchanged from the prior exam.
+     
+     CT OF THE CHEST WITHOUT AND WITH CONTRAST:  Emphysematous changes within both
+     lungs are again noted.  There are no consolidations, masses or pneumothoraces.
+     No pathologically enlarged mediastinal, hilar or axillary lymph nodes.  No
+     pleural or pericardial effusion.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST:  The liver, spleen, pancreas, and
+     adrenals are unremarkable.  The right kidney demonstrates brisk contrast
+     enhancement and excretes normally.  The left kidney is again atrophic, though
+     it does demonstrate some delayed enhancement with contrast.  There is
+     stranding about the left kidney that is unchanged.  The unopacified loops of
+     small and large bowel are unremarkable.  There is no free air, free fluid or
+     lymphadenopathy within the abdomen.  The patient is post cholecystectomy.  The
+     common bile duct is slightly prominent, though it is unchanged from the prior
+     exam.
+     
+     CT OF THE PELVIS WITHOUT AND WITH CONTRAST:  The unopacified loops of bowel
+     are unremarkable.  There are sigmoid diverticula, without evidence of
+     diverticulitis.  The visualized portion of the bladder is unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.
+     Coronal and sagittal reformatted images demonstrate interval central
+     depression of the superior endplate of the L2 vertebral body.  This finding is
+     new compared to the [**3275-2-2**] exam.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case (grade 5).
+     
+     IMPRESSION:
+     1.  Unchanged appearance of the markedly dilated and tortuous thoracoabdominal
+     aneurysm as detailed above.  Multiple scattered areas of ulceration throughout
+     the lumen of the aneurysm are unchanged.  There is no evidence of an intimal
+     flap.  The intramural hematoma is unchanged.
+     2.  Unchanged appearance of the stenotic origins of the celiac axis and SMA.
+     The right renal artery is patent.
+     3.  Unchanged appearance of the lack of definite contrast enhancement of the
+                                                                 (Over)
+
+     DATE: [**3275-4-23**] 12:43 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 4973**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: patient with known aaa with increase in epig pain and back p
+     Field of view: 36 Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     left renal artery, with associated marked atrophy and delayed enhancement on
+     the left kidney.
+     4.  Interval development of central depression of the superior endplate of L2.
+     The findings, including the compression deformity of the superior aspect of
+     the L2 vertebral body were discussed in detail with the team caring for the
+     patient on the afternoon of [**3275-4-23**].
+
+",,
+13957,23821,,,3275-04-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3275-4-24**]        Discharge Date: [**3275-5-25**]
+
+Date of Birth:  [**3204-3-11**]        Sex:  F
+
+Service:  VSU
+
+
+This is a 71 year old patient admitted on [**3275-4-24**].
+Discharge date anticipated [**3275-5-17**] was cancelled. This
+is a continuation of the hospital course from the discharge
+summary, document #243640.
+
+HOSPITAL COURSE, CONTINUED:  The patient's discharge was
+delayed. Dr. [**Last Name (STitle) 803**] of the interventional radiology service
+saw the patient regarding vertebroplasty for her lumbar
+compression fracture. An MRI was obtained, which demonstrated
+a compression fracture of the anterior aspect of the L2
+vertebral body, with minimal associated T2 and STIR signal
+abnormalities. The remaining vertebral bodies were normal in
+height, signal and alignment. There were no epidural
+collections seen. The conus medullaris ends at L1-L2, and
+there was no spinal cord narrowing. Also noted on the scan
+was a large left retroperitoneal hematoma in a patient who is
+status post thoraco-abdominal aortic aneurysm repair. There
+was some edema in the muscular soft tissues posterior to the
+lumbar spine at the levels of L2 to L4. These findings could
+reflect dependent changes related to the patient's
+longstanding supine positioning. At this point, a
+vertebroplasty was deferred.
+
+The patient in the next 24 hours developed onset of abdominal
+pain and diarrhea. Abdominal CT was obtained. This CT of the
+abdomen and pelvis did not show any evidence of thoraco-
+aortic dissection. There was a persisting small bowel
+obstruction, which had partially decompressed, and the left
+abdominal wall had a surgical site seroma. The thoraco-
+abdominal aneurysm repair was stable in appearance. The
+appearance of the stenosis of the origin of the SMA, celiac
+and right renal arteries was stable. The patient then
+proceeded to surgery on [**3275-5-17**], and underwent
+abdominal aortogram with selective celiac angiogram,
+angioplasty, and stenting of the celiac artery through a left
+brachial artery access. The patient tolerated the procedure
+well and was transferred to the post anesthesia care unit in
+stable condition, and returned to the VICU for continued
+monitoring and care. The patient's postoperative day 1 from
+her angioplasty and stenting of the celiac artery was
+hemodynamically stable. White count was 13.4, hematocrit
+31.5, BUN 30, creatinine 1.0. Physical examination was
+remarkable for a soft, nontender abdomen with bowel sounds.
+The nasogastric tube was removed and the diet was advanced as
+tolerated. Ambulation was continued. The patient was
+continued on TPN.
+
+Over the next 24 hours, the patient tolerated liquids. The
+TPN was continued. Physical therapy continued to work with
+the patient. Psychiatry was requested to see the patient
+because of a history of depression. The patient's head CT
+scan was remarkable for periventricular white matter changes
+and an old right insular infarct. Psychiatric felt that the
+patient's [**Last Name **] problem was delirium, which was mild and
+which was related to surgery and all the perioperative events
+in an older woman with underlying structurally abnormal
+brain. There was no evidence of anxiety present.
+Recommendations were to discontinue the Ativan, give the
+patient Haldol 0.5 - 1 mg IV every 4-6 hours p.r.n. for
+anxiety or confusion, minimize the use of Dilaudid, or
+replace with a non narcotic analgesic. The patient did
+experience episodes of somnolence with Ativan and narcotics.
+The narcotics were withdrawn, and the Ativan was tapered
+accordingly, with improvement in the patient's somnolence.
+The patient continued to show improvement, and was
+transferred to the regular nursing floor on [**3275-5-23**]. The TPN
+was weaned, and she was continued on diet advanced as
+tolerated. Case Management was requested to begin screening
+for rehab. The finalization of the [**Hospital 101**] hospital course
+will be dictated at the time of discharge to rehab.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 9893**]
+
+Dictated By:[**Last Name (NamePattern1) 4468**]
+MEDQUIST36
+D:  [**3275-5-24**] 13:34:03
+T:  [**3275-5-24**] 14:28:22
+Job#:  [**Job Number 9894**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: SAT [**3275-7-6**] 7:38 AM
+(End of Report)
+
+
+",,
+13957,23821,,,3275-04-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 4975**]
+     Reason: Known abdominal aortic aneurysm.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-one-year old woman with an abdominal aortic aneurysm.    
+     Preoperative for surgery.  Observe for suspected coronary artery disease given
+     arthrosclerotic disease elsewhere. 
+      
+     SUMMARY OF THE PRELIMINARY REPORT FROM THE EXERCISE LAB:  Dipyridamole was
+     infused intravenously for 4 minutes at a dose of 0.142 mg/kg/min. Two minutes
+     after the cessation of infusion, Tc-99m sestamibi was administered IV.  
+      
+     INTERPRETATION: 
+     Image Protocol: Gated SPECT. 
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+     This study was interpreted using the 17-segment myocardial perfusion model. 
+      
+     Left ventricular cavity is normal. 
+     Rest and stress perfusion images reveal uniform tracer uptake throughout the
+     myocardium. 
+      
+     Gated images reveal normal wall motion. 
+     The calculated left ventricular ejection fraction is 83%. 
+      
+     IMPRESSION: 1. Normal myocardial perfusion. 2. Normal left ventricular cavity
+     size and function. 
+     /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) 4004**] [**Last Name (NamePattern1) 4005**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: FRI [**3275-4-26**] 3:15 PM
+
+
+             Date Mailed: [**3275-4-29**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13957,23821,,,3275-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-25**] 9:04 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 4976**]
+     Reason: r/o carotid disease                                         
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with AAA and recent complaints of slurred speech and trouble 
+      walking
+     REASON FOR THIS EXAMINATION:
+      r/o carotid disease                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Carotid series complete.
+     
+     REASON:  TIA.
+     
+     FINDINGS:  Duplex evaluation was performed of both carotid arteries.  No
+     plaque was identified.
+     
+     On the right, peak systolic velocities are 72, 40, and 55 in the ICA, CCA, and
+     ECA respectively.  The ICA:CCA ratio is 1.8.  This is consistent with less
+     than 40% stenosis.
+     
+     On the left, peak systolic velocities are 60, 52, and 101 in the ICA, CCA, and
+     ECA respectively.  The ICA:CCA ratio is 1.2.  This is consistent with less
+     than 40% stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:  Minimal plaque with bilateral less than 40% carotid stenosis.
+                                                                           
+
+",,
+13957,23821,,,3275-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-26**] 6:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4977**]
+     Reason: PA catheter position                                        
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old woman s/p Thoracoabdominal aortic aneurysm repair                  
+     REASON FOR THIS EXAMINATION:
+      PA catheter position                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 71-year-old female status post thoracoabdominal aortic aneurysm
+     repair.  Evaluate position of pulmonary artery catheter.
+     
+     FINDINGS:  An endotracheal tube extends into the left main bronchus.  An NG
+     tube passes into the stomach.  A left-sided chest tube extends into the left
+     upper pleural space.  A left-sided central line extends from the region of the
+     left internal jugular vein.  The distal tip of this catheter overlies the
+     region of the aortic arch, but likely is positioned within the
+     innominate vein on the left.  A right IJ Swan-Ganz catheter terminates within
+     the main pulmonary artery.  Pulmonary parenchymal opacity is present within
+     both lungs. There is a small amount of pulmonary edema.  Subcutaneous gas is
+     present along the left chest wall.  There is a tiny left apical pneumothorax.
+     
+     IMPRESSION: 
+     1.  The endotracheal tube extends into the left main stem bronchus.  This
+     finding was reported to the clinical team responsible for this patient's care,
+     and reflects intended endobronchial intubation.
+     2.  Tiny left apical pneumothorax with left-sided chest tubes terminating
+     within the left upper pleural space.
+     3.  A left IJ central venous catheter is in place with its distal tip likely
+     in position within the innominate vein.  The distal tip of this catheter does
+     overlie the arch of the aorta and clinical correlation is suggested to confirm
+     the position of this catheter.
+     4.  Opacity within both lungs (right greater than left) reflecting pulmonary
+     edema/atelectasis in this patient status post repair of a thoracic aortic
+     aneurysm.
+     
+
+",,
+13957,23821,,,3275-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-27**] 11:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4978**]
+     Reason: swan placement, cardiac eval                                
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , now with 
+      increase in PAP               
+     REASON FOR THIS EXAMINATION:
+      swan placement, cardiac eval                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with thoracoabdominal aortic aneurysm repair.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with a prior chest radiograph dated [**3275-4-26**].
+     
+     FINDINGS:  Left IJ line, Swan-Ganz catheter, left-sided chest tube, and
+     nasogastric tube remain in place.  Again, note is made of double-lumen
+     endotracheal tube, that extend into left main stem bronchus, unchanged
+     compared to the prior study, report of which describes the same finding as a
+     result of intended of endobronchial intubation.  Cardiac and mediastinal
+     contours are unchanged compared to the prior study.  Again, note is made of
+     tiny residual left apical pneumothorax.  Note is made of mild congestive heart
+     failure with small bilateral pleural effusion.
+     
+     IMPRESSION:  Tubes and lines as described above, including endotracheal tube
+     that extends to the left main bronchus, as a result of intended endobronchial
+     intubation.  Continued mild congestive heart failure with small effusion,
+     residual left apical pneumothorax.
+                                                                           
+
+",,
+13957,23821,,,3275-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-27**] 2:43 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4979**]
+     Reason: PA cath eval - refloated                                    
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA cath 
+      replaced and refloated
+     REASON FOR THIS EXAMINATION:
+      PA cath eval - refloated                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with thoracoabdominal aneurysm.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with prior chest radiograph dated [**3275-4-27**], taken
+     approximately 3 hours earlier on the same day.
+     
+     FINDINGS:  Endotracheal tube, left-sided chest tube, nasogastric tube, and
+     left IJ line remain in place.  Swan-Ganz catheter is advanced to right main
+     pulmonary artery.  Previously noted left apical pneumothorax is not
+     confidently identified on the present film.  Cardiac and mediastinal contours
+     are unchanged compared to the prior study.  Again, note is made of mild
+     congestive heart failure with bilateral pleural effusion, slightly increased
+     compared to the prior study.
+     
+     IMPRESSION:  Tubes and lines as described above.  Slight worsening of CHF and
+     bilateral pleural effusion.
+                                                                           
+
+",,
+13957,23821,,,3275-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-27**] 2:43 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4979**]
+     Reason: PA cath eval - refloated                                    
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA cath 
+      replaced and refloated
+     REASON FOR THIS EXAMINATION:
+      PA cath eval - refloated                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with thoracoabdominal aneurysm.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with prior chest radiograph dated [**3275-4-27**], taken
+     approximately 3 hours earlier on the same day.
+     
+     FINDINGS:  Endotracheal tube, left-sided chest tube, nasogastric tube, and
+     left IJ line remain in place.  Swan-Ganz catheter is advanced to right main
+     pulmonary artery.  Previously noted left apical pneumothorax is not
+     confidently identified on the present film.  Cardiac and mediastinal contours
+     are unchanged compared to the prior study.  Again, note is made of mild
+     congestive heart failure with bilateral pleural effusion, slightly increased
+     compared to the prior study.
+     
+     IMPRESSION:  Tubes and lines as described above.  Slight worsening of CHF and
+     bilateral pleural effusion.
+                                                                           
+
+",,
+13957,23821,17357,0,3275-04-27 07:34:00 EST,3275-04-27 08:03:00 EST,5248,"N",54,"Nursing/Other",,"
+
+Nursing Admission Note.
+
+Please refer to CareVue and FHP for details.
+
+Pt is a 71 yr old woman, admitted from PACU for hemodynamic monitoring following thoraco-abdominal aortic aneurysm repair on [**3275-4-26**].  History includes HTN and known aneurysm with medical treatment since [**3272**].
+
+On exam:
+
+RESP:
+Dual lumen ETT in situ, well secured.  Tolerating SIMV&PS 5/5 50%, 600mls x10 resps.  Pt breathing above set rate.  Has not required suctioning since admission.  Chest clear but markedly diminished Rt apex.
+Lt CT to suction with small amount hemoserous drainage since admission.
+
+HEMODYNAMICALLY:
+SR 80s-90s, no ectopy.  Requiring increasing amounts of neosynephrine to maintain SBP >=90mmHg.  CCO swan in situ and CO~ 3L/min.  EDVI climbing.  CVP~9.
+Pt has femoral and radial A-lines, femoral pressure > radial pressure.  Peripheries cool.  Rt foot mottled (team aware, no further orders).  Pulses palpable or dopplerable.
+For recheck of formal HCT this am.
+
+NEURO:
+Sedated on propofol.  Woken on admission for assessment.  Opens eyes to voice.  Nods head to answer some simple questions.  Squeezes hands to command and bends knees spont (rt more readily than Lt).  Pt acknowledging sensation to arms and legs.  
+Lumbar drain in situ.  Slight old ooze under occlusive dressing.  Drain remains clamped- to be opened prn to maintain pressure <=15.
+Pt denying pain at this time, but to be commenced on fentanyl infusion.  
+
+ENDOCRINE:
+Has not required coverage per sliding scale.
+
+FLUIDS/LYTES:
+LR at 100/hr.  Possibly for further fluids to facilitate weaning of neosynephrine.
+
+GI:
+Abd softly distended.  Absent bowel sounds.  OGT to suction with initially green now mustard colored output.  Also stooling offensive-smelling bloody liquid-pasty stool.  Rectal bag insitu.
+Slight staining of pad under pt on admission ?vaginal bleeding.  No further pooling of blood seen, team aware, please observe.
+
+ID:
+Afebrile.  Scheduled for antibiotic coverage.
+
+RENAL:
+Foley patent and draining in satisfactory but decreasing volumes.
+
+SKIN:
+Primary surgical dressing reinforced on admission by colleague RN.  Sacrum intact.
+
+SOCIAL:
+No contact from family overnight.
+
+PLAN:
+Assess fluid volume status and provide further IV fluids prn.
+Open lumbar drain if ICP > 15.
+Fentanyl infusion for analgesia.
+Wean pressor as able.
+",,
+13957,23821,17357,0,3275-04-27 16:42:00 EST,3275-04-27 16:44:00 EST,4188,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt remains intubated & ventilated via double lumen ETT.  Settings changed to PSV this morning; pt required PS of 10 for Vt's greater than 300ml.  ABG within normal limits on these settings.  Suctioned with 10fr suction catheter for sm amts of white secretions.  Plan to continue ventilating as ordered.
+",,
+13957,23821,17357,0,3275-04-27 17:49:00 EST,3275-04-27 18:27:00 EST,6295,"N",54,"Nursing/Other","07-1930","
+[**8-/3200**]
+NPN: ROS
+
+NEURO: patient sedated on propofol and fentanyl; when lightened patient following all commands, moving all extremities, opening eyes to voice, nods head appropriately when asked about pain and/or sensation to extremities. nods ""yes"" to sensation to all extremities, nods ""no"" for pain, until 2 pm when patient nodded ""yes"" to pain and fentanyl drip was increased to 50 mcg/hr. lumbar drain intact with old bloody drainage at site ICP 11-15, increased to 20 this morning and was opened to drainage x20mins with decrease in ICP to 15, since then ICP has been less than 15, CSF clear
+
+CV: HR 80s-90s, SR, rare PVCs, NEO gtt changed to LEVOPHED gtt and maintaining SBP 90-160, wean LEVOPHED to 0.02mcg/kg/min, PA line changed today by Dr. [**Last Name (STitle) 3472**] because of equipment malfunction, a new line was floated without difficulty and PAP running 30s/10s, EDVI 60-120s, CVP 8-10, PCWP 8, patient required a total of 2 liters of LR bolus for low filling pressures and low u/o, responded well to bolus, patient received 2U PRBC for HCT 26.0, tolerated transfusion well, follow up HCT 32.1, lytes repleted as ordered, + peripheral pulses Q2 hours 
+
+RESP: weaned to CPAP with PS 5 peep/10PS, 50% this am,  volumes 350-450, RR 20-24, O2 sat 94-98%, ABG WNL, LS clear, dimished at bases, LEFT Chest tube to suction, draining serosang fluid, +fluctuation, -airleak, -crepitus, CT dressing changed this am, insertion site c/d, no redness
+
+GI: OGT to lcs, brown output, continues with maroon loose/lix stool via rectal bag, HO aware of output. ABD softly distended, absent bowel sounds
+
+GU: foley catheter with marginal urine output, 16-80cc/hr, +response to fluid boluses
+
+ENDO: no RISS coverage needed
+
+SKIN: left side incision with staples intact, small area where staple popped out, draining sang. fluid, dressing changed x1, otherwise incision well approximated. right foot slightly mottled, team aware, pulses intact, backside intact.
+
+ID: afebrile, ABX cont. as ordered; 
+
+SOCIAL: daughter and son into visit today, updated on status and plan, support given. 
+
+PLAN: continue to wean pressors, open lumbar drain if ICP greater than 15, monitor fluid/hemodynamic status, treat as appropriate, control pain, maintain comfort; provide support to family.
+",,
+13957,23821,17357,0,3275-04-28 04:59:00 EST,3275-04-28 05:19:00 EST,3438,"N",54,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: Review of systems:
+Neuro: sedated on low dose propofol and fentanyl gtt for pain. Arouses to voice, nods to questions, follows commands. Moves all extremtities and has sensation to all extremitites. c/o abdominal incision pain. Lumbar drain in place with some bloody drainage noted at insertion site. Lumbar pressures less than 15 and it required no drainage.
+CVS: in sinus rhythm. Remains on levophed. CCO swan in place. SQI between [**3-8**] all night despite repositioning, flushing and recalibrating. HO aware.  Small amount of leakage noted from where swan inserts into introducer. HO aware. Peripheral pulses present. CO 4-6l/minute. SVO2 70-82%.
+RESP: initially on PSV 10, peep 5 50%. pao2 trending downward (to 73). Placed back on simv 12X 600 50% 5 peep with small increase in oxygenation.  Double lumen ET tube remains in. Suctioned via tracheal port using 10Fr catheters.  Secretions small in amount but very thick and difficult to suction with small catheter despite ns instillation. BS decreased in lower fields. Sats in low 90's. L sided ct draining sersanginous liquid, no air leak. Small amount of blood leaking around tube.
+RENAL: urine output 10-40cc/hr. Received a total of 1500cc LR fluid bolus over course of shift in addition to maintenance of 100cc/hr. Cr up to 2.1. Lytes repleted. Weight today 79.7 kg.  Preop weight charted as 70 kg in one place (154 lbs) and 137 lbs in another place in chart. Unsure which is correct weight. Pt. obviously edematous.
+GI: belly firm without bowel sounds. Rectal bag replaced X 2 for leakage.  Have maroon liquid watery stool.  On protonix for prophylaxis. Remains NPO. lactate up slightly to 1.9
+ENDO: ssri, no coverage required
+ID: afebrile, wbc up to 15. On levofloxacin and flagyl.
+Heme: hct 32, inr within normal limits.  On sq heparin and pneumoboots.
+SKIN: L thoracotomy incision draining sanginous drainage in mid portion where staple has failed. Coccyx gets red after 2 hours in one position. Coccyx quite bony.  R foot mottled without change. Both feet cool to touch. Inside of mouth with white coating despite frequent mouth care.
+Social: no calls from family this shift
+LInes: R ij CCO VIP swan in place with small amount leaking as described above. RIJ cordis in place and R radial art line. Peripheral iv dc'd.
+A: borderline urine output with rising cr s/p TAA repair. Continues with liquid stool ??may indicate bowel ischemia but no dramatic rise in lactate noted. 
+P: continue careful monitoring of hemodynamic status, administering fluids as ordered. Be certain meds are renally adjusted.  ??consider changing double lumen tube to single lumen to facilitate pulmonary hygiene. Continue excellent pain control.  Follow lactate and hct carefully. ??tpn for nutrition
+
+",,
+13957,23821,17357,0,3275-04-28 06:36:00 EST,3275-04-28 06:39:00 EST,3971,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient was changed from CPAP/PSV to SIMV/PSV due to increased work of breathing and increasing levels of exhaustion.  Morning abg results revealed a normalized acid-base balance with adequate oxygenation on the current settings.  
+
+RSBI = 38.4 on 5 cm PSV and 0-PEEP.
+",,
+13957,23821,17357,0,3275-04-28 15:58:00 EST,3275-04-28 16:02:00 EST,6646,"N",54,"Nursing/Other",,"
+
+RESPIRATORY  CARE
+
+   Pt changed to PSV 12/8 Back to SIMV during the afternoon as documented due to periods of apnea associated with increased pain medication. Currently continues on PSV in NARD. B/S diminished in bases. Will continue to follow closely and continue to wean as able. 
+",,
+13957,23821,17357,0,3275-04-28 18:36:00 EST,3275-04-28 19:08:00 EST,6295,"N",54,"Nursing/Other","07-1930","
+[**8-/3200**]
+NPN: ROS- see carevue for details
+
+NEURO: patient lightly sedated on propofol and fentanyl, follows commands, +sensation to all extremities, nod ""yes"" to pain at incision site and ETT, fentanyl drip continues, pain increases with turning and coughing. moves all extremities, PERLA
+
+CV: HR 90s, SR, no ectopy noted, BP 110-140s/50s, levophed drip weaned to 0.06mcg/kg/min, PAPs 30s/20s, PCWP 16,  CI above 3.0, CVP low teens, HCT 31, no further orders, +peripheral pulses, pboots, hep sq continue
+
+resp: patient intubated with double lumed ETT, tolerating  cpap [**9-13**] @50%, RR 8-14, ABG adequate, LS Coarse, diminished at bases, suctioned for scant amount of thick white secretions, weak cough effort, CT to suction with bloody drainage, 
+
+GI: OGT to lws, ABD softly distended, very hypoactive bowel sounds, lix green stool via rectal bag-900cc out today, 
+
+GU: foley [**Last Name (un) **] draining clear yellow urine, 30-100cc/hr, dropped off at one point, team aware responded with bolus, received 750 cc LR bolus total for low bp & u/o, urine lytes sent
+
+endo: cortisol stim test sent, no coverage via riss necessary
+
+ID: tmax 99.3, levo/flagyl continue as ordered
+
+skin: left sided incision with staples well approximated, one staple at posterior aspect of incision has dislodged, small open area draining sanguinous fluid, dresssing changed x2 today for leakage. CT dressing also changed for bloody drainage, CT site WNL, patient turned and repositioned Q2-3
+
+social: son called this evening for update, family will visit tomorrow. 
+
+PLAN: pulmonary toilet, wean vent as tolerated, ?extubation tomorrow vs change ETT to single lumen, continue CV support, wean levophed as tolerated. monitor and support.
+",,
+13957,23821,17357,,3275-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-29**] 8:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4980**]
+     Reason: s/p extubation and removal of CT                            
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA cath  
+      replaced and refloated
+     REASON FOR THIS EXAMINATION:
+      s/p extubation and removal of CT                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with thoracoabdominal aortic aneurysm repair.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with a prior chest radiograph dated [**3275-4-27**].
+     
+     FINDINGS:  Swan-Ganz catheter is terminating in right main pulmonary artery.
+     The patient is extubated.  Left-sided chest tube has been removed.  Note is
+     made of small left apical pneumothorax.  Left IJ line, nasogastric tube remain
+     in place.
+     
+     Again, note is made of tortuous thoracic aorta and mild cardiomegaly.  Again,
+     note is made of diffuse opacity in bilateral lungs, representing edema.  Focal
+     increased opacity is noted in the right upper lobe, just above the minor
+     fissure.  Again, note is made of left lower lobe atelectasis with effusion.
+     
+     IMPRESSION:
+     
+     1)  Tubes and lines as described above.  Small left apical pneumothorax in
+     this patient status post chest tube removal.
+     
+     2)  Continued tortuous aorta and mild cardiomegaly with pulmonary edema.
+     
+     3)  Focal increased opacity in the right upper lobe just above the minor
+     fissure, which may represent focal asymmetrical edema; however, 0early
+     pneumonia cannot be excluded.  Please correlate clinically.
+     
+     
+
+",,
+13957,23821,17357,,3275-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-29**] 8:46 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 4981**]
+     Reason: Right Kidney, ? hydronephrosis                              
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      s/p TAA repair                                                                  
+     REASON FOR THIS EXAMINATION:
+      Right Kidney, ? hydronephrosis                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post TAA repair, evaluate for hydronephrosis of the right
+     kidney.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Renal ultrasound (complete study).
+     
+     RENAL ULTRASOUND:  The right kidney measures 11.4 cm.  The patient is status
+     post left nephrectomy.  The right renal cortex is echogenic, consistent with
+     interstitial renal parenchymal disease.  Normal color flow and waveforms are
+     visualized within the right main renal artery and vein.  There is a trace
+     amount of fluid in [**Location (un) 4982**] pouch.  The bladder is decompressed and a Foley
+     catheter is in place.
+     
+     IMPRESSION:
+     
+     1.  Echogenic right kidney consistent with chronic interstitial disease.  No
+     hydronephrosis.  Normal color flow and waveforms within the right kidney.
+     
+     2.  Status post left nephrectomy.
+     
+
+",,
+13957,23821,17357,0,3275-04-29 04:39:00 EST,3275-04-29 04:59:00 EST,3438,"N",54,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: Review of systems:
+Neuro: sedated with fentanyl and low dose propofol.  Arouses easily to name, follow commands, moves all extemitites. Seems calm. At times grimaces with movement.  Lumbar drain remains in with pressures < 15 so no drainage required.
+CVS: stable heart rate at 60-80 with no pvcs. Remains on levophed to support bp.  BP 90-130.  Urine output the best when bp is over 110 systolic. Hemodynamics per flow sheet.  All wnl.  Peripheral pulses palpable
+RESP:  Initially on psv 12/peep 5 50% then switched to simv 12 X 600 50%, 8 peep.  Double lumen tube remains in. Suctioning very small amount white secretions. Breath sounds coarse in upper airways, decreased in lower airways. L sided chest tube with sersanginous drainage, no leak present.
+RENAL: creatinine continues to rise, today is 2.3. Lytes repleted as ordered.  Pt. weight increased 2 kg from yesterday. Receiving maintenace fluids @ 100cc/hr, also received 1 L lr fluid bolus. Urine output borderline 4-100cc/hr.  
+GI: belly softer than yesterday, hypoactive bowel sounds. og with bilious drainage. Rectal appliance in place draining green liquid in large amounts. No tpn or tube feedings in use currently. On protonix for prophylaxis.
+ENDO:ssri, no supplementation given
+Heme: hct down to 28 this am.  on sq heparin and pneumo boots
+ID: t max 99.2, wbc up to 20, remains on flagyl and levofloxacin.
+SKIN: draining large amounts sanginous drainage from L side of chest thoracotomy incision. [**Location (un) 41**] straps placed for dressing changes. One area has staple failure.  Also drains from around chest tube. Coccyx has become reddened and has started pressure areas.  Turned q 2-3 hours side to side. Total body edema continues. R foot remains mottled.
+Lines: R side IJ CCO VIP swan, R wrist radial art line, L IJ introducer all in place.
+Social: no calls from family tonight.
+A:  ??worsening atn, beginning of pressure area on coccyx, stable hemodynamics but continues to require pressor support. Continued copious diarrhea secondary to impact of cross clamp on gut.
+P: continue to optimize hemodynamics.  Extubate if pt will tolerate it, otherwise change to single lumen et tube today. Start nutrition today (prob tpn).  Continue meticulous skin care...consider first step mattress.
+
+",,
+13957,23821,17357,0,3275-04-29 06:12:00 EST,3275-04-29 06:13:00 EST,3438,"N",54,"Nursing/Other","Correction for nursing note","
+Correction for nursing note
+Correction for earlier nursing note today. WBC count 17.8 not 20
+
+",,
+13957,23821,17357,0,3275-04-29 06:33:00 EST,3275-04-29 06:36:00 EST,3971,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient was switched to SIMV due to the low MV noted.  Propofol was shut down, and patient placed on CPAP/PSV as noted in CareVue.
+
+RSBI = 32.1 on 0-PEEP and 5 cm PSV.
+",,
+13957,23821,17357,0,3275-04-29 09:28:00 EST,3275-04-29 09:32:00 EST,5269,"N",54,"Nursing/Other",,"
+
+Respiratory Care
+Pt presents with double lumen ETT. Extubated to 1. cool mist FT. Positive cuff leak. No stridor post extubation strong phonation.Plan: continue to follow, encourage cough and deep breathing exercises.
+",,
+13957,23821,17357,0,3275-04-29 17:23:00 EST,3275-04-29 17:44:00 EST,6295,"N",54,"Nursing/Other","07-1930","
+[**8-/3200**]
+NPN: ROS - see carevue for details.
+
+EVENTS: patient extubated today to 100% cool mist face tent, strong cough, no stridor, good voice. ABG good, weaned to 50%O2, O2 sats maintained 92-94%, adequate ABG, LS coarse/diminished at bases, apices clearing more this afternoon, remains diminshed at bases, CT pulled this morning by Dr. [**Last Name (STitle) 2449**], CXR performed. coughin and deep breathing encouraged t/o day.
+
+NEURO: patient a&o x3, moves all extremities, +CSM, denies numbness/tingling. PERLA. Lumbar drain intact, ICP 5-11, no need to drain today; pateint c/o pain to incision, fentanyl drip changed to PRN fentanyl with adequate pain control, increased pain with turning & coughing/deepbreathing, 
+
+CV: HR 100-110s, SR, no ectopy noted, BP 110-160/40-60s, PA line in place right IJ, PAP s/d 30-40s/10s-20s, CVP 6-15, PCWP this morning 12 up to 38, noted to have higher filling pressures this afternoon; lasix given with +diuresis, IVF changed to KVO, CI above 3.5, lytes repleted as ordered, HCT down to 26.1 this afternoon, team aware, no furthur orders. 
+
+RESP: extubated as above, see carevue for ABG values, RR 14-18, NARD, maintain O2 sat on 50% humidified face mask, coughign and deep breathing encouraged
+
+GI: NGT placed today, continues to drain bilous fluid, rectal bag continues with lix greeen stool out, 1600cc over shift, team aware of large output, ABD softly distended, rare BS
+
+GU: foley catheter wtih marginal urine out, clear yellow, lasix this afternoon with +response, renal US today showed no hydronephrosis, good vascular flow. 
+
+skin: left sided incision with staples partially OTA, top of incision with 1 inch open area (staple out) draining sang. fluid, [**Location (un) **] straps in place, dressing changed X1 today. old chest tube site with sang. drainage, dressing changed x1 today, lumbar drain site wnl, dressing intact, small amount of s/s drainage, small area of redness on coccyx, duoderm placed today for protection, turned and repositioned frequently 
+
+ID: tmax 99.0, levo & flagyl continue
+
+SOCIAL: family into visit today, update given
+
+PLAN: dc lumbar drain and PA catheter tomorrow, continue pulmonary toilet, diuresis, ? start nutrition, monitor and support
+",,
+13957,23821,17357,,3275-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-4-30**] 12:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4983**]
+     Reason: line placement                                              
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA cath 
+      changed to CVL
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post thoracoabdominal aortic aneurysm repair, pulmonary
+     artery catheter changed to central venous line.
+     
+     COMPARISON:  Radiograph dated [**3275-4-29**].
+     
+     AP PORTABLE UPRIGHT VIEW OF THE CHEST:  There is interval removal of the
+     pulmonary artery catheter and interval placement of a right IJ central venous
+     line terminating in the SVC.  There is near-total resolution of the
+     previously-demonstrated tiny left apical pneumothorax.  The overall appearance
+     of the lungs has improved compared to the exam of one day prior.  There is a
+     probable persistent small left-sided pleural effusion and left lower lobe
+     opacity.  The cardiac and mediastinal contours are stable.
+     
+     IMPRESSION:
+     
+     1.  Status post pulmonary artery catheter removal with placement of right IJ
+     line.
+     2.  Near-total resolution of the tiny left apical pneumothorax.
+     3.  Interval improvement in the appearance of the lungs with a likely residual
+     small left effusion and left lower lobe opacity consistent with
+     atelectasis/consolidation.
+                                                                           
+
+",,
+13957,23821,17357,0,3275-04-30 06:35:00 EST,3275-04-30 06:48:00 EST,3510,"N",54,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- a+o x3, mae's purposefully and w/ gd strength. fentanyl given x2 for pain control.
+
+resp- fio2 inc from 50% to70% d/t pao2 drop to 55. w/ r side down sao2 97-99%, w/ l side down sao2 92-95%, strong non productive congested cough, limited episode of i/e wheezing following activity, resolved w/ rest and lasix.
+
+cvs- sbp 120's-150's, hr 80's-105nsr no ectopy, svo2 68-72, ci 3.4-4.2, see flowsheet for all details. tm 37.2bld, k+ repleted, hct stable @27.
+
+gi- abd soft/distended, lg amt liquid green stool, no bs, ngt draining min amt bilious.
+
+gu- cont w/ gd amt of cyu, gd diuresis following lasix dosees.
+
+skin- unchanged, dsgs w/ min drainage, lumbar drain intact. remains edematous.
+
+endo- bs 72-86
+
+a: stable cvs
+
+p: monitor cvs/nvs per routine, follow labs and replete lytes as ordered, maintain pulm toileting, enc c+db, IS, medicate for pain prn. support pt.
+
+
+",,
+13957,23821,17357,0,3275-04-30 18:42:00 EST,3275-04-30 19:00:00 EST,6295,"N",54,"Nursing/Other",,"
+
+ROS: see carevue for details
+
+NEURO: a&o x3, pleasant, mae, +csm. lumbar drain pulled today, site WNL, fentanyl for pain with good effect.
+
+CV: stable, started on PO lopressor, BP increased this afternoon to above 160s, extra dose of 25 mg given at 6pm, ? increase dose to 50 mg, HR 70s-80s, SR, +PP, pboots, hep sq, asa for prophylaxis
+
+RESP: weaned to 4 L NC, O2sat above 93%, ABG marginal, will recheck later,  LS clear, diminished at bases. 
+
+GI: tolerating sips clear lix, denies n/v, ABD soft, slightly distended, tender to palpation, absent bowel sounds, continues with lix stool via rectal bag, output decreasing
+
+GU: foley catheter draining adequate amounts of clear yellow urine 
+
+ENDO: BS changed to BID, WNL, no coverage needed
+
+SKIN: left sided abd. incision with staples OTA, small area open at top of incision, covered with DSD, changed x1, minimal drainage, chest tube dressing changed x1, minimal drainage
+
+MOBILITY: oob to chair, pivoted, sat up for the afternoon, tolerated well, back to bed this afternoon, lifted back.
+ID: levo/flagyl continues, pan cultured today for rising WBC, afebrile
+",,
+13957,23821,17357,0,3275-05-01 05:25:00 EST,3275-05-01 05:37:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ ASSESSMENT AS NOTED
+
+RES: PO2 WAS 44 LAST NIGHT -WAS SWITCHED TO COOL MIST 50% AND GIVEN ALBUTEROL NEBS FOR EX. WHEEZING WITH GOOD EFFECT.(SEE ABGS)LS WITH END EXPIR. WHEEZING /DIM ON L SIDE/BASES.WEAK COUGH BUT PRODUCTIVE AFTER NEBS WERE GIVEN. CHEST PT AND DEEP BREASING ENCOURAGED
+
+CV:HYPERDYNAMIC WHEN AWAKE/IN PAIN, WHEN ASLEEP SPB IN 130-140S, IN NSR ,NO ECTOPY. STILL GENERAL EDEMA PRESENT, COOL EXTREMITIES
+
+
+NEURO: INTACT, IN PAIN REQUIRED UP TO 100MCG FENTANYL AT A TIME
+
+GI: NO BS, OOZING STOOL INTO RECTAL BAG>1000CC OUT
+
+GU: U/O30-60CC/H
+
+SKIN: DUODERM ON COCCYX, INCISION IS ECHYMOTIC(SURGERY AWARE)
+
+LABS:HCT-26, K AND MAG REPLETED
+
+PLAN: PULM. TOILET, PAIN MANAGEMENT
+",,
+13957,23821,,,3275-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-4**] 3:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4984**]
+     Reason: eval for PNA                                                
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA cath 
+       changed to CVL
+     REASON FOR THIS EXAMINATION:
+      eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Repair of aortic aneurysm with CV line change.
+     
+     Jugular CV line is in proximal SVC.  No pneumothorax.  Heart size is
+     borderline for technique with tortuosity of the thoracic aorta.  No evidence
+     for CHF.  Minimal atelectasis at left base, improved since prior studies.  No
+     new lung lesions.
+                                                                           
+
+",,
+13957,23821,,,3275-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-6**] 6:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4985**]
+     Reason: assess for pna                                              
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA 
+      cath   changed to CVL
+     REASON FOR THIS EXAMINATION:
+      assess for pna                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**3275-5-6**].
+     
+     COMPARISON: [**3275-5-4**]
+     
+     INDICATION:  Line change.
+     
+     A right internal jugular catheter is in satisfactory position within the
+     superior vena cava.  There is no evidence of pneumothorax.
+     
+     Cardiac and mediastinal contours are stable.  There are small bilateral
+     pleural effusions, left greater than right, with apparent loculation of the
+     left effusion laterally.  The left effusion is stable, but the right effusion
+     has slightly improved.  There is patchy increased opacity at both lung bases,
+     most likely due to atelectasis.  Surgical clips are seen in the left chest
+     wall, and there are fractures of left ribs in the mid portion of the left
+     chest.  The latter findings are stable.
+     
+     IMPRESSION:
+     
+     1)  Persistent bilateral pleural effusions, left greater than right, with
+     interval slight decrease in right effusion.
+     
+     2)  Satisfactory positioning of vascular catheter with no pneumothorax.
+                                                                           
+
+",,
+13957,23821,,,3275-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-7**] 12:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4986**]
+     Reason: acute change                                                
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              71 year old woman s/p Thoracoabdominal aortic aneurysm repair   , PA  
+      cath   changed to CVL
+     REASON FOR THIS EXAMINATION:
+      acute change                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with thoracoabdominal aortic repair.
+     
+     COMPARISON:  [**3275-5-6**].
+     
+     SINGLE PORTABLE UPRIGHT VIEW OF THE CHEST:  There are increased pulmonary
+     vascular markings, with increased left lower lobe atelectasis and bilateral
+     pleural effusions.  The cardiac contour is stable, as are left-sided rib
+     fractures and staples on the lateral thoracoabdominal wall, indicating recent
+     surgery.  The right IJ is stable in position.
+     
+     IMPRESSION:  Worsening failure.
+                                                                           
+
+",,
+13957,23821,,,3275-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-8**] 9:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4987**]
+     Reason: 71 yo s/p thoracic anuerysm repair 2 weeks ago now with new 
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               71 year old woman s/p Thoracoabdominal aortic aneurysm repair          
+     REASON FOR THIS EXAMINATION:
+      71 yo s/p thoracic anuerysm repair 2 weeks ago now with new on set afib after 
+      confusion yesterday and altered mental status, please evalaute for possibility 
+      of aspiration pneumonia. Thanks-[**Doctor First Name 4988**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with recent thoracoabdominal aortic aneurysm
+     repair.  Confusion and altered mental status.
+     
+     COMPARISON:  [**3275-5-7**].
+     
+     Single upright portable AP view of the chest shows no interval change in the
+     appearance of the lung fields, cardiac, mediastinal, or hilar contours.  Rib
+     fractures are again noted on the left.  The right IJ central venous line
+     remains in place.  Surrounding soft tissue and osseous structures are
+     unchanged.
+     
+     IMPRESSION:  No significant interval change.  No new infiltrates seen.
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 7:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4989**]
+     Reason: NEw onset change in MS, please assess for effusions/infiltra
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                71 year old woman s/p Thoracoabdominal aortic aneurysm repair         
+       
+     REASON FOR THIS EXAMINATION:
+      NEw onset change in MS, please assess for effusions/infiltrates.                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post thoracoabdominal aortic aneurysm repair with mental
+     status change.
+     
+     COMPARISON:  Radiograph dated [**3275-5-8**].
+     
+     AP UPRIGHT VIEW CHEST:  The right IJ line is unchanged.  Left sided rib
+     fractures are again noted.  There is a persistent left lower lobe opacity and
+     left sided effusion, not significantly changed compared to the prior study.
+     Lungs are otherwise grossly clear.  No evidence of pneumothorax.  The cardiac
+     and mediastinal contours are stable.
+     
+     IMPRESSION:  No significant interval change in persistent left sided effusion
+     with left lower lobe opacity.
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 8:30 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4994**]
+     Reason: 71 yo s/p PO contrast CT this AM. Please do scan around [**10-12**]
+     Admitting Diagnosis: ABDOMINAL PAIN
+     Field of view: 38
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old woman with s/p TAAA repair [**4-26**]                                    
+       
+     REASON FOR THIS EXAMINATION:
+      71 yo s/p PO contrast CT this AM. Please do scan around [**10-12**] pm or so to 
+      evaluate for porgression of contrast toward large bowel.  Please there is no 
+      need for ANY additional contrast.   
+     CONTRAINDICATIONS for IV CONTRAST:
+      No need. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old female status post abdominal aortic aneurysm repair
+     on [**4-26**].  Now with questionable small-bowel obstruction.  Evaluate for
+     progression of contrast.
+     
+     COMPARISON:  CTA abdomen with and without contrast and reconstruction dated
+     [**3275-5-14**] at 2:22.
+     
+     TECHNIQUE:  Multidetector imaging was obtained from bilateral lung bases
+     through the pubic symphysis without intravenous contrast.
+     
+     CT ABDOMEN WITH ORAL, WITHOUT INTRAVENOUS CONTRAST:  There are bilateral
+     pleural effusions, with compressive atelectasis.  A nasogastric tube descends
+     below the diaphragm, and there are dense coronary artery calcifications.
+     Imaging of the abdomen is limited by the lack of intravenous contrast.
+     Allowing for this, the liver is normal in attenuation without nodules or
+     masses.  The gallbladder, pancreas, spleen, and bilateral adrenals are normal.
+     There is a right duplicated kidney, with small atrophic left kidney.  The
+     patient is status post thoracoabdominal aneurysm repair.  Postoperative
+     hematoma tracks along the left retroperitoneum/psoas muscle.  Nasogastric tube
+     terminates within the stomach, and the stomach is decompressed.  There is an
+     interval decrease in the dilation of the proximal small bowel loops, without
+     interval progression of contrast.  Previously noted narrowed small bowel is
+     again identified within the mid abdomen.  More distal loops of small bowel are
+     decompressed.  The colon is partly decompressed, with segments containing
+     fluid and gas.  There is a small amount of intraabdominal free fluid.  There
+     is no free air.  Soft tissue stranding is identified along the right anterior
+     abdominal wall, there is no defect of the wall to suggest anterior abdominal
+     wall hernia.  This additionally correlates with prior intravenous contrast
+     imaging.
+     
+     CT OF THE PELVIS WITH ORAL, WITHOUT INTRAVENOUS CONTRAST:  There is diffuse
+     atherosclerotic disease extending into the pelvis.  A Foley catheter is within
+     a decompressed bladder.  The sigmoid, rectum, and uterus are unremarkable.
+     There is mild left inguinal soft tissue stranding.  There is no inguinal, or
+     pelvic lymphadenopathy.  There is no free air and no free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**3275-5-14**] 8:30 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4994**]
+     Reason: 71 yo s/p PO contrast CT this AM. Please do scan around [**10-12**]
+     Admitting Diagnosis: ABDOMINAL PAIN
+     Field of view: 38
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  There are no suspicious lytic or blastic osseous abnormalities.
+     
+     IMPRESSION:
+     
+     1.  No significant evidence of contrast progression beyond previously
+     identified transition point within the proximal jejunum in the mid abdomen.
+     
+     2.  Status post thoracoabdominal aortic aneurysm repair, with stable
+     appearance of left retroperitoneal hematoma.
+     
+     3.  Stable appearance of bilateral pleural effusions, left greater than right.
+     
+     4.  Left lateral abdominal wall postoperative scarring, without evidence of
+     bowel herniation.
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 8:30 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4994**]
+     Reason: 71 yo s/p PO contrast CT this AM. Please do scan around [**10-12**]
+     Admitting Diagnosis: ABDOMINAL PAIN
+     Field of view: 38
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old woman with s/p TAAA repair [**4-26**]                                    
+       
+     REASON FOR THIS EXAMINATION:
+      71 yo s/p PO contrast CT this AM. Please do scan around [**10-12**] pm or so to 
+      evaluate for porgression of contrast toward large bowel.  Please there is no 
+      need for ANY additional contrast.   
+     CONTRAINDICATIONS for IV CONTRAST:
+      No need. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old female status post abdominal aortic aneurysm repair
+     on [**4-26**].  Now with questionable small-bowel obstruction.  Evaluate for
+     progression of contrast.
+     
+     COMPARISON:  CTA abdomen with and without contrast and reconstruction dated
+     [**3275-5-14**] at 2:22.
+     
+     TECHNIQUE:  Multidetector imaging was obtained from bilateral lung bases
+     through the pubic symphysis without intravenous contrast.
+     
+     CT ABDOMEN WITH ORAL, WITHOUT INTRAVENOUS CONTRAST:  There are bilateral
+     pleural effusions, with compressive atelectasis.  A nasogastric tube descends
+     below the diaphragm, and there are dense coronary artery calcifications.
+     Imaging of the abdomen is limited by the lack of intravenous contrast.
+     Allowing for this, the liver is normal in attenuation without nodules or
+     masses.  The gallbladder, pancreas, spleen, and bilateral adrenals are normal.
+     There is a right duplicated kidney, with small atrophic left kidney.  The
+     patient is status post thoracoabdominal aneurysm repair.  Postoperative
+     hematoma tracks along the left retroperitoneum/psoas muscle.  Nasogastric tube
+     terminates within the stomach, and the stomach is decompressed.  There is an
+     interval decrease in the dilation of the proximal small bowel loops, without
+     interval progression of contrast.  Previously noted narrowed small bowel is
+     again identified within the mid abdomen.  More distal loops of small bowel are
+     decompressed.  The colon is partly decompressed, with segments containing
+     fluid and gas.  There is a small amount of intraabdominal free fluid.  There
+     is no free air.  Soft tissue stranding is identified along the right anterior
+     abdominal wall, there is no defect of the wall to suggest anterior abdominal
+     wall hernia.  This additionally correlates with prior intravenous contrast
+     imaging.
+     
+     CT OF THE PELVIS WITH ORAL, WITHOUT INTRAVENOUS CONTRAST:  There is diffuse
+     atherosclerotic disease extending into the pelvis.  A Foley catheter is within
+     a decompressed bladder.  The sigmoid, rectum, and uterus are unremarkable.
+     There is mild left inguinal soft tissue stranding.  There is no inguinal, or
+     pelvic lymphadenopathy.  There is no free air and no free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**3275-5-14**] 8:30 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4994**]
+     Reason: 71 yo s/p PO contrast CT this AM. Please do scan around [**10-12**]
+     Admitting Diagnosis: ABDOMINAL PAIN
+     Field of view: 38
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  There are no suspicious lytic or blastic osseous abnormalities.
+     
+     IMPRESSION:
+     
+     1.  No significant evidence of contrast progression beyond previously
+     identified transition point within the proximal jejunum in the mid abdomen.
+     
+     2.  Status post thoracoabdominal aortic aneurysm repair, with stable
+     appearance of left retroperitoneal hematoma.
+     
+     3.  Stable appearance of bilateral pleural effusions, left greater than right.
+     
+     4.  Left lateral abdominal wall postoperative scarring, without evidence of
+     bowel herniation.
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4993**]
+     Reason: Change in mental status, minimal speech                     
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      Change in mental status, minimal speech                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old female with decreased mental status.
+     
+     TECHNIQUE:  Axial noncontrast CT imaging of the brain.  No studies are
+     available for comparison on PACs.
+     
+     FINDINGS:  Images are blurry, secondary to technique.  There is no evidence of
+     acute intracranial hemorrhage, mass effect, or shift of normally midline
+     structures. The ventricles and sulci are prominent, a finding that is
+     consistent with involutional change.  There is extensive hypodensity within
+     the periventricular white matter in a pattern consistent with chronic
+     microvascular infarction.  An old area of infarction is likely present within
+     the right insular region.
+     
+     Bone windows show clear paranasal sinuses.
+     
+     IMPRESSION:
+     1)  No evidence of acute intracranial hemorrhage or mass effect.
+     2)  Hypodensity within the periventricular white matter that has an appearance
+     suggestive of chronic microvascular infarction as well as an old area of
+     infarction within the right insular region.  If there is clinical need to
+     exclude acute infarction, an MRI with diffusion-weighted imaging could be
+     performed (assuming that the patient is MRI compatible).
+     
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 4992**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ACute mental status change, severely abnormal ABG. Please us
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: VISAPAQUE Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with s/p TAAA repair [**4-26**]                                     
+     REASON FOR THIS EXAMINATION:
+      ACute mental status change, severely abnormal ABG. Please use po and IV 
+      contrast.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent thoracoabdominal aneurysm repair, now with elevated white
+     count, increased NG output, and mental status change.
+     
+     COMPARISON:  Preop exam [**3275-4-23**].
+     
+     TECHNIQUE:  CT of the abdomen and pelvis with oral contrast and before and
+     after the administration of intravenous contrast.  The intravenous contrast
+     bolus was limited by the access route (central line).
+     
+     ABDOMEN WITHOUT AND WITH CONTRAST:  There is bibasilar atelectasis with a
+     moderate sized left pleural effusion.  The patient has undergone
+     thoracoabdominal aneurysm repair.  There is no evidence of contrast
+     extravasation from the repair.  Persistent abnormal soft tissue density is
+     noted at the origin of the celiac and superior mesenteric arteries, as before,
+     and likely partially related to postoperative hematoma. Postoperative hematoma
+     tracks along the left retroperitoneum/psoas muscle, and is of mixed density.
+     
+     There is a nasogastric tube within the stomach.  The stomach is decompressed,
+     but the prior duodenum as well as the proximal small bowel loops are dilated.
+     A transition point is noted in the left lower abdomen at the level of the
+     anterior iliac crest, beyond which the distal small bowel loops are
+     decompressed.  The colon is partly decompressed, with some segments containing
+     fluid and gas.
+     
+     There is mild intrahepatic biliary ductal dilatation, as before.  No focal
+     liver abnormalities are appreciated.  These spleen, pancreas, and adrenal
+     glands are within normal limits.  The left kidney is again noted to be a
+     atrophic, and again seen is cortical loss on the right.  The right kidney is
+     beginning to excrete some contrast.  No contrast is yet visible within the
+     left collecting system.  There is no free abdominal fluid.
+     
+     PELVIS WITH CONTRAST:  There is a small soft tissue density collection within
+     the left abdominal wall.  The bladder is decompressed by a Foley catheter. The
+     bladder contains some iatrogenic gas.  The pelvic loops of bowel are grossly
+     unremarkable.  There is no free pelvic fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+                                                                 (Over)
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 4992**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ACute mental status change, severely abnormal ABG. Please us
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: VISAPAQUE Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Small bowel obstruction with transition point in the left lower abdomen.
+     This may represent either an early complete or a partial obstruction.  Close
+     clinical correlation is recommended, and repeat CT scan may be helpful in
+     differentiating early complete from partial obstruction as the contrast
+     progresses through the bowel.
+     2.  Retroperitoneal hematoma, likely postoperative.
+     3.  Stable soft tissue density surrounding the celiac and superior mesenteric
+     arteries, likely representing hematoma.  The proximal portion of the SMA is
+     not well visualized, also stable.
+     4.  Stable mild intrahepatic biliary ductal dilatation.
+     
+     Findings discussed with Dr. [**First Name8 (NamePattern2) 197**] [**Last Name (NamePattern1) 3771**] in the evening of [**3275-5-14**].
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 4992**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ACute mental status change, severely abnormal ABG. Please us
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: VISAPAQUE Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with s/p TAAA repair [**4-26**]                                     
+     REASON FOR THIS EXAMINATION:
+      ACute mental status change, severely abnormal ABG. Please use po and IV 
+      contrast.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent thoracoabdominal aneurysm repair, now with elevated white
+     count, increased NG output, and mental status change.
+     
+     COMPARISON:  Preop exam [**3275-4-23**].
+     
+     TECHNIQUE:  CT of the abdomen and pelvis with oral contrast and before and
+     after the administration of intravenous contrast.  The intravenous contrast
+     bolus was limited by the access route (central line).
+     
+     ABDOMEN WITHOUT AND WITH CONTRAST:  There is bibasilar atelectasis with a
+     moderate sized left pleural effusion.  The patient has undergone
+     thoracoabdominal aneurysm repair.  There is no evidence of contrast
+     extravasation from the repair.  Persistent abnormal soft tissue density is
+     noted at the origin of the celiac and superior mesenteric arteries, as before,
+     and likely partially related to postoperative hematoma. Postoperative hematoma
+     tracks along the left retroperitoneum/psoas muscle, and is of mixed density.
+     
+     There is a nasogastric tube within the stomach.  The stomach is decompressed,
+     but the prior duodenum as well as the proximal small bowel loops are dilated.
+     A transition point is noted in the left lower abdomen at the level of the
+     anterior iliac crest, beyond which the distal small bowel loops are
+     decompressed.  The colon is partly decompressed, with some segments containing
+     fluid and gas.
+     
+     There is mild intrahepatic biliary ductal dilatation, as before.  No focal
+     liver abnormalities are appreciated.  These spleen, pancreas, and adrenal
+     glands are within normal limits.  The left kidney is again noted to be a
+     atrophic, and again seen is cortical loss on the right.  The right kidney is
+     beginning to excrete some contrast.  No contrast is yet visible within the
+     left collecting system.  There is no free abdominal fluid.
+     
+     PELVIS WITH CONTRAST:  There is a small soft tissue density collection within
+     the left abdominal wall.  The bladder is decompressed by a Foley catheter. The
+     bladder contains some iatrogenic gas.  The pelvic loops of bowel are grossly
+     unremarkable.  There is no free pelvic fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+                                                                 (Over)
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 4992**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ACute mental status change, severely abnormal ABG. Please us
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: VISAPAQUE Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Small bowel obstruction with transition point in the left lower abdomen.
+     This may represent either an early complete or a partial obstruction.  Close
+     clinical correlation is recommended, and repeat CT scan may be helpful in
+     differentiating early complete from partial obstruction as the contrast
+     progresses through the bowel.
+     2.  Retroperitoneal hematoma, likely postoperative.
+     3.  Stable soft tissue density surrounding the celiac and superior mesenteric
+     arteries, likely representing hematoma.  The proximal portion of the SMA is
+     not well visualized, also stable.
+     4.  Stable mild intrahepatic biliary ductal dilatation.
+     
+     Findings discussed with Dr. [**First Name8 (NamePattern2) 197**] [**Last Name (NamePattern1) 3771**] in the evening of [**3275-5-14**].
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 4992**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ACute mental status change, severely abnormal ABG. Please us
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: VISAPAQUE Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with s/p TAAA repair [**4-26**]                                     
+     REASON FOR THIS EXAMINATION:
+      ACute mental status change, severely abnormal ABG. Please use po and IV 
+      contrast.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent thoracoabdominal aneurysm repair, now with elevated white
+     count, increased NG output, and mental status change.
+     
+     COMPARISON:  Preop exam [**3275-4-23**].
+     
+     TECHNIQUE:  CT of the abdomen and pelvis with oral contrast and before and
+     after the administration of intravenous contrast.  The intravenous contrast
+     bolus was limited by the access route (central line).
+     
+     ABDOMEN WITHOUT AND WITH CONTRAST:  There is bibasilar atelectasis with a
+     moderate sized left pleural effusion.  The patient has undergone
+     thoracoabdominal aneurysm repair.  There is no evidence of contrast
+     extravasation from the repair.  Persistent abnormal soft tissue density is
+     noted at the origin of the celiac and superior mesenteric arteries, as before,
+     and likely partially related to postoperative hematoma. Postoperative hematoma
+     tracks along the left retroperitoneum/psoas muscle, and is of mixed density.
+     
+     There is a nasogastric tube within the stomach.  The stomach is decompressed,
+     but the prior duodenum as well as the proximal small bowel loops are dilated.
+     A transition point is noted in the left lower abdomen at the level of the
+     anterior iliac crest, beyond which the distal small bowel loops are
+     decompressed.  The colon is partly decompressed, with some segments containing
+     fluid and gas.
+     
+     There is mild intrahepatic biliary ductal dilatation, as before.  No focal
+     liver abnormalities are appreciated.  These spleen, pancreas, and adrenal
+     glands are within normal limits.  The left kidney is again noted to be a
+     atrophic, and again seen is cortical loss on the right.  The right kidney is
+     beginning to excrete some contrast.  No contrast is yet visible within the
+     left collecting system.  There is no free abdominal fluid.
+     
+     PELVIS WITH CONTRAST:  There is a small soft tissue density collection within
+     the left abdominal wall.  The bladder is decompressed by a Foley catheter. The
+     bladder contains some iatrogenic gas.  The pelvic loops of bowel are grossly
+     unremarkable.  There is no free pelvic fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+                                                                 (Over)
+
+     DATE: [**3275-5-14**] 1:46 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 4992**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ACute mental status change, severely abnormal ABG. Please us
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: VISAPAQUE Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Small bowel obstruction with transition point in the left lower abdomen.
+     This may represent either an early complete or a partial obstruction.  Close
+     clinical correlation is recommended, and repeat CT scan may be helpful in
+     differentiating early complete from partial obstruction as the contrast
+     progresses through the bowel.
+     2.  Retroperitoneal hematoma, likely postoperative.
+     3.  Stable soft tissue density surrounding the celiac and superior mesenteric
+     arteries, likely representing hematoma.  The proximal portion of the SMA is
+     not well visualized, also stable.
+     4.  Stable mild intrahepatic biliary ductal dilatation.
+     
+     Findings discussed with Dr. [**First Name8 (NamePattern2) 197**] [**Last Name (NamePattern1) 3771**] in the evening of [**3275-5-14**].
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 11:12 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4991**]
+     Reason: check ngt plcmt, r/o ileus                                  
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 71 year old woman s/p Thoracoabdominal aortic aneurysm repair        
+         
+     REASON FOR THIS EXAMINATION:
+      check ngt plcmt, r/o ileus                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Abdomen, single film.
+     
+     History of NG tube placement.
+     
+     The NG tube is coiled in the stomach with distal end in the region of
+     fundus/proximal body.
+                                                                           
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 11:11 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4990**]
+     Reason: check cvl placement                                         
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 71 year old woman s/p Thoracoabdominal aortic aneurysm repair        
+         
+     REASON FOR THIS EXAMINATION:
+      check cvl placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with recent NG tube placement.
+     
+     COMPARISON:  Same day, 8:00 a.m.
+     
+     UPRIGHT AP PORTABLE VIEW OF THE CHEST:  There is persistent left lower lobe
+     atelectasis and small bilateral pleural effusions.  An NG tube is seen
+     coursing below the diaphragm.  The right-sided IJ central venous line remains
+     in place.  Again seen are healed rib fractures on the left.  No pneumothorax
+     is identified.
+     
+     IMPRESSION:  Continued left lower lobe atelectasis and bilateral small pleural
+     effusions.  Satisfactory placement of NG tube.
+                                                                           
+
+",,
+13957,23821,,,3275-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-14**] 11:11 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4990**]
+     Reason: check cvl placement                                         
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 71 year old woman s/p Thoracoabdominal aortic aneurysm repair        
+         
+     REASON FOR THIS EXAMINATION:
+      check cvl placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with recent NG tube placement.
+     
+     COMPARISON:  Same day, 8:00 a.m.
+     
+     UPRIGHT AP PORTABLE VIEW OF THE CHEST:  There is persistent left lower lobe
+     atelectasis and small bilateral pleural effusions.  An NG tube is seen
+     coursing below the diaphragm.  The right-sided IJ central venous line remains
+     in place.  Again seen are healed rib fractures on the left.  No pneumothorax
+     is identified.
+     
+     IMPRESSION:  Continued left lower lobe atelectasis and bilateral small pleural
+     effusions.  Satisfactory placement of NG tube.
+                                                                           
+
+",,
+13957,23821,,,3275-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-15**] 3:48 PM
+     MR L SPINE SCAN                                                 Clip # [**Clip Number (Radiology) 4995**]
+     Reason: PLEASE ASSESS L2 FX
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with s/p TAAA repair, and L2 fracture                         
+     REASON FOR THIS EXAMINATION:
+      Please assess L2 fracture                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old female status post thoracoabdominal aortic aneurysm
+     repair and L2 fracture.
+     
+     TECHNIQUE:  Multiplanar T1, T2, and STIR imaging of the lumbar spine without
+     contrast.
+     
+     FINDINGS:  There is compression of the anterior aspect of the L2 vertebral
+     body with minimal associated T2 and STIR signal abnormalities.  The remainder
+     of the vertebral bodies are normal in height, signal, and alignment.  No
+     epidural collections are seen.  The conus medullaris ends at  L1/2.   No
+     spinal canal narrowing is seen.  A large left retroperitoneal hematoma is
+     present adjacent to the iliopsoas musculature.  Abnormal signal on T2 weighted
+     imaging is present within the musculature posterior to the lumbar spine at the
+     levels of L2 through L5.  A T2 bright elliptical collection is seen with
+     within the subcutaneous tissues posterior to the L2 and L4 vertebral bodies
+     approximately 1 cm deep to the skin surface.  This could be dependent edema
+     and clinical corrleation is needed to determine the significance of this
+     finding.
+     
+     IMPRESSION:   1)  Compression deformity of the anterior L2 vertebral body with
+     associated abnormal mild signal on T2 and STIR imaging suggesting edema.
+     Please note that this L2 compression deformity was present on a CT of the
+     abdomen from [**3275-4-23**].
+     
+     2)  Large left retroperitoneal hematoma in this patient status post
+     thoracoabdominal aortic aneurysm repair.
+     
+     3)  Edema within the musculature and soft tissues posterior to the lumbar
+     spine at the levels from  L2 through L4. These findings could reflect
+     dependent changes related to the patient's long standing supine positioning.
+     Please correlate with clinical exam.
+
+",,
+13957,23821,,,3275-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-17**] 6:21 PM
+     OR VASCULAR A-GRAM                                              Clip # [**Clip Number (Radiology) 4997**]
+     Reason: CELIAC ARTERY STENT PLACEMENT FOR CELIAC ARTERY STENOSIS
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 75960 TRANSCATH INTRO INTRAVAS STENT 75726 ANGIOGRAPHY VISCERAL DELECTIVE*
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Please see Operative Report in CareWeb Clinical Lookup for complete report.
+
+",,
+13957,23821,,,3275-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-17**] 9:33 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 4996**]
+     Reason: Pt. is s/p aneurysm repair, now pending return to cath lab f
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman s/p thoraco-abdominal aortic aneurysm repair.                 
+     REASON FOR THIS EXAMINATION:
+      Pt. is s/p aneurysm repair, now pending return to cath lab for re-angio: Rule 
+      out thoracic dissection.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post aneurysm repair, please rule out thoracic dissection
+     prior to re-cath.
+     
+     COMPARISONS:  CT abdomen/pelvis of [**3275-5-14**].
+     
+     TECHNIQUE:  Axial MDCT images through the chest, abdomen, and pelvis to the
+     level of the femoral heads, with 100 mL of non-ionic Optiray contrast
+     administered by rapid bolus.  No reformats were performed.
+     
+     CT CHEST WITH IV CONTRAST:  There is a partially loculated left-sided pleural
+     effusion, with associated passive atelectasis.  There is a very small right-
+     sided effusion/thickening, with associated atelectasis.  There is a small
+     amount of fluid tracking within the fissure at the right base, simulating a
+     nodule.  The lungs are otherwise clear.  NG tube is identified with its tip in
+     the stomach.  Right-sided IJ line is seen, with its tip unchanged in position.
+     Heart and pericardium are unremarkable.  There is no pericardial effusion. The
+     airways are patent to the segmental level.  The patient is status post
+     thoracoabdominal aneurysm repair.  The thoracic aorta demonstrates multiple
+     areas of ulceration, however, demonstrates no evidence of dissection.  There
+     is some residual hematoma/postoperative changes within the corrected aneurysm
+     sac, not significantly changed from the prior study. The remaining great
+     vessels are unremarkable.
+     
+     CT ABDOMEN WITH IV CONTRAST:  The liver, spleen, and pancreas are
+     unremarkable.  There is persisting small-bowel obstruction, with a transition
+     point identified in the left lower quadrant, unchanged from the prior study.
+     There appears to have been some interval decompression of the proximal small
+     bowel loops, which now measure only up to 2.5 cm in diameter, however, still
+     demonstrate air-fluid levels, and distal decompression.  There is no free air
+     or free fluid within the abdomen.  The right kidney demonstrates mild cortical
+     thinning.  The left kidney is atrophic and demonstrates no detectable contrast
+     enhancement.  A patent contrast filled left renal artery is not identified.
+     There remains stenosis at the origin of the celiac, SMA, and right renal
+     arteries.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Persisting small-bowel obstruction noted,
+     with transition point in the left lower quadrant, distal to which the small
+     bowel is decompressed.  Slightly more prominent appearance of post-surgical
+     fluid collection at the superficial surgical site in the left mid abdomen.
+                                                                 (Over)
+
+     DATE: [**3275-5-17**] 9:33 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 4996**]
+     Reason: Pt. is s/p aneurysm repair, now pending return to cath lab f
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Slight interval decrease in size of left retroperitoneal hematoma/collection.
+     Small amount of residual free fluid within the pelvis.  Stable appearance of
+     aneurysm sac, status post repair.  No pathologically enlarged lymph nodes in
+     the pelvic or inguinal region.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous abnormalities.
+     
+     IMPRESSION:
+     
+     1  No evidence of thoracic aortic dissection.  Several small regions of
+     ulceration noted throughout the thoracic aorta.
+     
+     2.  Persisting small-bowel obstruction; there may be slight interval
+     decompression of the proximal small bowel loops, indicating slight resolution.
+     
+     3.  Left abdominal wall surgical site seroma.
+     
+     4.  Bibasilar atelectasis and left-sided loculated pleural effusion.
+     
+     5.  Status post thoracoabdominal aortic aneurysm repair, with stable
+     appearance of hematoma/postoperative changes within the aneurysm sac.
+     
+     6.  Stable appearance of stenosis at the origin of the SMA, celiac, and right
+     renal arteries.
+     
+     7.  Atrophic non-enhancing left kidney, without visualization of a patent left
+     renal artery.
+     
+     8.  Slight interval resolution of left-sided retroperitoneal hematoma.
+     
+     
+     
+     
+
+",,
+13957,23821,,,3275-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-17**] 9:33 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 4996**]
+     Reason: Pt. is s/p aneurysm repair, now pending return to cath lab f
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman s/p thoraco-abdominal aortic aneurysm repair.                 
+     REASON FOR THIS EXAMINATION:
+      Pt. is s/p aneurysm repair, now pending return to cath lab for re-angio: Rule 
+      out thoracic dissection.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post aneurysm repair, please rule out thoracic dissection
+     prior to re-cath.
+     
+     COMPARISONS:  CT abdomen/pelvis of [**3275-5-14**].
+     
+     TECHNIQUE:  Axial MDCT images through the chest, abdomen, and pelvis to the
+     level of the femoral heads, with 100 mL of non-ionic Optiray contrast
+     administered by rapid bolus.  No reformats were performed.
+     
+     CT CHEST WITH IV CONTRAST:  There is a partially loculated left-sided pleural
+     effusion, with associated passive atelectasis.  There is a very small right-
+     sided effusion/thickening, with associated atelectasis.  There is a small
+     amount of fluid tracking within the fissure at the right base, simulating a
+     nodule.  The lungs are otherwise clear.  NG tube is identified with its tip in
+     the stomach.  Right-sided IJ line is seen, with its tip unchanged in position.
+     Heart and pericardium are unremarkable.  There is no pericardial effusion. The
+     airways are patent to the segmental level.  The patient is status post
+     thoracoabdominal aneurysm repair.  The thoracic aorta demonstrates multiple
+     areas of ulceration, however, demonstrates no evidence of dissection.  There
+     is some residual hematoma/postoperative changes within the corrected aneurysm
+     sac, not significantly changed from the prior study. The remaining great
+     vessels are unremarkable.
+     
+     CT ABDOMEN WITH IV CONTRAST:  The liver, spleen, and pancreas are
+     unremarkable.  There is persisting small-bowel obstruction, with a transition
+     point identified in the left lower quadrant, unchanged from the prior study.
+     There appears to have been some interval decompression of the proximal small
+     bowel loops, which now measure only up to 2.5 cm in diameter, however, still
+     demonstrate air-fluid levels, and distal decompression.  There is no free air
+     or free fluid within the abdomen.  The right kidney demonstrates mild cortical
+     thinning.  The left kidney is atrophic and demonstrates no detectable contrast
+     enhancement.  A patent contrast filled left renal artery is not identified.
+     There remains stenosis at the origin of the celiac, SMA, and right renal
+     arteries.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Persisting small-bowel obstruction noted,
+     with transition point in the left lower quadrant, distal to which the small
+     bowel is decompressed.  Slightly more prominent appearance of post-surgical
+     fluid collection at the superficial surgical site in the left mid abdomen.
+                                                                 (Over)
+
+     DATE: [**3275-5-17**] 9:33 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 4996**]
+     Reason: Pt. is s/p aneurysm repair, now pending return to cath lab f
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Slight interval decrease in size of left retroperitoneal hematoma/collection.
+     Small amount of residual free fluid within the pelvis.  Stable appearance of
+     aneurysm sac, status post repair.  No pathologically enlarged lymph nodes in
+     the pelvic or inguinal region.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous abnormalities.
+     
+     IMPRESSION:
+     
+     1  No evidence of thoracic aortic dissection.  Several small regions of
+     ulceration noted throughout the thoracic aorta.
+     
+     2.  Persisting small-bowel obstruction; there may be slight interval
+     decompression of the proximal small bowel loops, indicating slight resolution.
+     
+     3.  Left abdominal wall surgical site seroma.
+     
+     4.  Bibasilar atelectasis and left-sided loculated pleural effusion.
+     
+     5.  Status post thoracoabdominal aortic aneurysm repair, with stable
+     appearance of hematoma/postoperative changes within the aneurysm sac.
+     
+     6.  Stable appearance of stenosis at the origin of the SMA, celiac, and right
+     renal arteries.
+     
+     7.  Atrophic non-enhancing left kidney, without visualization of a patent left
+     renal artery.
+     
+     8.  Slight interval resolution of left-sided retroperitoneal hematoma.
+     
+     
+     
+     
+
+",,
+13957,23821,,,3275-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-17**] 7:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4998**]
+     Reason: evaluate ETT position                                       
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman s/p Thoracoabdominal aortic aneurysm repair and celiac artery 
+      stenting         
+     REASON FOR THIS EXAMINATION:
+      evaluate ETT position                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aneurysm repair, ETT insertion.
+     
+     An ETT has been inserted terminating 3 cm above the carina.  A right IJ
+     catheter and NGT are unchanged in position.  There is left basilar
+     subsegmental atelectasis and/or effusion, and there are multiple fractured
+     ribs in the left chest.  These findings are stable since [**3275-5-14**].  The
+     right lung is clear.
+     
+     IMPRESSION:  ETT insertion since [**3275-5-14**].
+     
+     Otherwise, no change in the chest.
+                                                                           
+
+",,
+13957,23821,,,3275-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-17**] 6:21 PM
+     OR VASCULAR A-GRAM                                              Clip # [**Clip Number (Radiology) 4997**]
+     Reason: CELIAC ARTERY STENT PLACEMENT FOR CELIAC ARTERY STENOSIS
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 75960 TRANSCATH INTRO INTRAVAS STENT 75726 ANGIOGRAPHY VISCERAL DELECTIVE*
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Please see Operative Report in CareWeb Clinical Lookup for complete report.
+
+",,
+13957,23821,,,3275-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-17**] 6:21 PM
+     OR VASCULAR A-GRAM                                              Clip # [**Clip Number (Radiology) 4997**]
+     Reason: CELIAC ARTERY STENT PLACEMENT FOR CELIAC ARTERY STENOSIS
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 75960 TRANSCATH INTRO INTRAVAS STENT 75726 ANGIOGRAPHY VISCERAL DELECTIVE*
+     * -59 DISTINCT PROCEDURAL SERVICE                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Please see Operative Report in CareWeb Clinical Lookup for complete report.
+
+",,
+13957,23821,,,3275-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-20**] 9:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4999**]
+     Reason: questionable pnuemoniapt SOB with increase sputum           
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old woman s/p Thoracoabdominal aortic aneurysm repair and celiac 
+      artery  stenting         
+     REASON FOR THIS EXAMINATION:
+      questionable pnuemoniapt SOB with increase sputum                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71-year-old woman with recent thoracoabdominal aortic aneurysm
+     repair, now with shortness of breath.
+     
+     COMPARISON:  [**3275-5-17**].
+     
+     SINGLE PORTABLE AP UPRIGHT VIEW OF THE CHEST:  The left pleural effusion has
+     grown to a moderate size, with associated left lower lobe compression
+     atelectasis.  There is a small right pleural effusion.  Additionally, there is
+     cardiomegaly, with perivascular perihilar edema.  The endotracheal tube has
+     been removed, but the right-sided IJ central venous line remains in place. 
+     Surrounding soft tissues and osseous structures are not significantly changed.
+     
+     IMPRESSION:   1.  Increased size of left pleural effusion, with left lobe
+     atelectasis.  Residual small right pleural effusion.
+     
+     2.  Mild cardiac failure.
+                                                                           
+
+",,
+13957,23821,,,3275-05-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-24**] 2:19 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5000**]
+     Reason: Please assess for effusions, infiltrates                    
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with s/p TAAA repair, with mild tachypnea.                    
+     REASON FOR THIS EXAMINATION:
+      Please assess for effusions, infiltrates                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post aneurysm repair with mild tachypnea.
+     
+     COMPARISON:  Radiograph dated [**3275-5-20**].
+     
+     AP AND LATERAL VIEWS OF THE CHEST:  The right IJ line is unchanged.  There are
+     bilateral pleural effusions, left greater than right.  The left-sided effusion
+     appears to be partially loculated and is stable in appearance compared to the
+     prior study.  There is persistent left lower lobe opacity.  The pulmonary
+     vessels are not engorged.  The right lung appears grossly clear.  No evidence
+     of pneumothorax.
+     
+     IMPRESSION:  Persistent, apparently partially loculated left-sided effusion
+     and left lower lobe opacity, unchanged compared to study of 4 days prior.  The
+     left lower lobe opacity may be atelectatic in nature although infectious
+     process cannot be excluded.
+                                                                           
+
+",,
+13957,23821,,,3275-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3275-5-25**] 3:27 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 5001**]
+     Reason: acute change                                                
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old woman s/p new line placement                                      
+     REASON FOR THIS EXAMINATION:
+      acute change                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     COMPARISON:  [**3275-5-24**].
+     
+     INDICATION:  Line placement.
+     
+     A right internal jugular vascular catheter terminates in the region of the
+     junction of the superior vena cava and right atrium.  There is no
+     pneumothorax.  The cardiac silhouette remains enlarged.  There is a persistent
+     left pleural effusion, which is likely partially loculated with adjacent
+     opacity in the left retrocardiac region.  Left-sided rib fractures are noted.
+     
+     IMPRESSION:  Vascular catheter in satisfactory position with no pneumothorax. 
+     Otherwise, no significant change since recent study.
+                                                                           
+
+",,

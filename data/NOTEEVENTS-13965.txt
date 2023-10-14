@@ -1,0 +1,1828 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13965,17098,,,3141-08-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3141-8-19**]     Discharge Date:  [**3141-8-28**]
+
+Date of Birth:   [**3065-5-16**]     Sex:  F
+
+Service:
+
+Addendum:
+
+COMPLETION OF HOSPITAL COURSE:
+Pulmonary:  Following transfer to the floor, the patient
+required supplemental oxygen of 2 to 4 liters per minute to
+maintain saturations over 90% which is likely close to her
+baseline.  She has proven to be exquisitely sensitive to
+narcotics and high percentages of O2 with respect to her
+respiratory drive as both Ultram and O2 flow rates of greater
+than 4 liters per minute and a resultant decreased
+respiratory rate.  She was also continued on Flovent,
+Serevent, albuterol prn and Atrovent inhalers.  She continued
+to complain of shortness of breath with exertion, but not at
+rest.
+
+Heme:  The patient was continued to be anticoagulated for new
+onset atrial fibrillation with goal INR of 2.0, but not
+greater due to her baseline thrombocytopenia.  On day of
+discharge, the patient's INR was 3.4 and the warfarin dose
+was decreased to 2 mg po q hs.  The INR needs to be followed
+closely given her low platelets and significant fall risk,
+but she needs to remain therapeutic from now until she
+returns for her cardioversion.  During her stay, Ms.
+[**Known patient lastname 9905**]' hematocrit remained stable between 27 and 32.
+
+Oncology:  The patient has a history of non-Hodgkin's
+lymphoma and during this admission has complained of anorexia
+and diffuse body pain.  CT scan of the abdomen and pelvis
+demonstrated an increased retroperitoneal lymphadenopathy and
+splenomegaly compared to her previous CT.  The patient is to
+follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 615**] with regard to her
+oncologic care.
+
+Cardiovascular:  Since her return from the Medical Intensive
+Care Unit, Ms. [**Known patient lastname 9905**]' blood pressure and heart rate have
+been stable.  Her transfer to the Medical Intensive Care Unit
+was preceded by an episode of bradycardia, but followed her
+change from diltiazem to diltiazem ER.  She has been in
+atrial fibrillation since admission with good rate control.
+She is to follow up with the electrophysiology department at
+[**Hospital6 273**]; that phone number is
+([**Telephone/Fax (1) 9906**], within two weeks to schedule cardioversion.
+This department here is aware of her situation and will be in
+contact with the patient's brother to schedule an appointment
+to discuss cardioversion.
+
+Renal:  The patient has been diuresed on the floor for
+congestive heart failure with Lasix with improvement in her
+shortness of breath.  This required repeated oral potassium
+supplementation.  She is being discharged on a standing dose
+of potassium, but will require daily monitoring until her
+diuretic regimen is stabilized.
+
+Musculoskeletal:  The patient with a right sacral fracture by
+CT, cleared by orthopedic for weight bearing activity and not
+requiring additional intervention at this time other than
+pain control.  If the pain worsens or fails to improve, the
+patient may require an MRI to rule out a hip fracture.
+However, she has adamantly refused MRI during this admission
+due to claustrophobia.
+
+DISCHARGE MEDICATIONS:
+1.  Calcitonin nasal spray 1 spray by inhaler qd
+2.  Diltiazem 60 mg po qid
+3.  Flovent metered dose inhaler 220 mcg 2 puffs bid
+4.  Atrovent metered dose inhaler 2 puffs qid
+5.  Lasix 40 mg po bid
+6.  K-Dur 20 milliequivalents po qd
+7.  Synthroid 100 mcg po qd
+8.  Metolazone 5 mg po qd
+9.  Ultram 50 mg tablets, �� tablet po q8h prn pain
+10. Albuterol metered dose inhaler 2 puffs q6h prn shortness
+of breath
+11. Serevent metered dose inhaler 1 puff bid
+12. Timolol malleate 1 drop both eyes bid
+13. Warfarin 2 mg po q hs
+14. Miconazole powder 2% 1 application to the skin bid prn
+itching
+15. Protonix 40 mg po qd
+
+FOLLOW UP:
+1.  The patient is to call Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 615**], her primary
+care provider, [**Name10 (NameIs) **] schedule a follow up at the following phone
+number ([**Telephone/Fax (1) 9907**].  Dr.[**Doctor Last Name 5246**] office has been called
+to inform him of Ms. [**Known patient lastname 9905**]' discharge to [**Hospital6 9908**].  I personally spoke with Dr. [**Last Name (STitle) 615**]
+and he is aware of her situation and will follow up.
+2.  The patient is also to call the electrophysiology
+department at [**Hospital6 273**] within two
+weeks at ([**Telephone/Fax (1) 9906**] and ask for [**Doctor Last Name **] J. to schedule at
+appointment to discuss possible left hip cardioversion.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 162**]
+
+Dictated By:[**Last Name (NamePattern1) 4564**]
+
+MEDQUIST36
+
+D:  [**3141-8-28**]  15:18
+T:  [**3141-8-29**]  10:09
+JOB#:  [**Job Number 9909**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: TUE [**3141-9-23**] 1:25 PM
+(End of Report)
+
+
+",,
+13965,17098,,,3141-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-19**] 10:07 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 5091**]
+     Reason: Pt with right hip pain.  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis
+     REASON FOR THIS EXAMINATION:
+      Pt with right hip pain.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right hip pain, concern for occult fracture.
+     
+     SINGLE VIEW OF THE PELVIS AND TWO ADDITIONAL VIEWS OF THE RIGHT HIP:
+     
+     There is osteopenia present.  There are sclerotic changes of the lower lumbar
+     spine.  There are osteophytes at the bilateral hip joints, left greater than
+     right.  The joint spaces are normal. There is no evidence of fracture or
+     dislocation of the hips.
+     
+     IMPRESSION:
+     No evidence of hip fracture.
+
+",,
+13965,17098,,,3141-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-19**] 10:07 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5090**]
+     Reason: Pt with 87% O2 sat, abnl lung exam, new afib.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with h/o NHL, chronic venous stasis
+     REASON FOR THIS EXAMINATION:
+      Pt with 87% O2 sat, abnl lung exam, new afib.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  H/O Non-Hodgkin's lymphoma and chronic venous stasis and
+     decreased O2 saturation.
+     
+     AP AND LATERAL VIEWS OF CHEST reveal a prominent heart.  The mediastinum
+     otherwise is unremarkable. There is no evidence of failure, focal pulmonary
+     opacities or pleural effusions. There is marked kyphosis and compression
+     fractures of the thoracic vertebrae.
+     
+     IMPRESSION:  No acute cardiopulmonary disease.
+     
+
+",,
+13965,17098,,,3141-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-19**] 10:06 AM
+     EMERG. LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 5089**]
+     Reason: Pt with right LE pain, hypoxia - r/o DVT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis, h/o NHL
+     REASON FOR THIS EXAMINATION:
+      Pt with right LE pain, hypoxia - r/o DVT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chronic venostatis. History of non-Hodgkin's lymphoma with right
+     lower extremity pain.
+     
+     FINDINGS:  A right lower extremity sonogram was performed in color and [**Doctor Last Name 63**]
+     scale.  The right common femoral, superficial femoral, popliteal veins
+     demonstrate normal flow, compressibility, and augmentation.
+     
+     IMPRESSION:  No evidence of right lower extremity DVT.
+
+",,
+13965,17098,,,3141-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-19**] 11:53 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5092**]
+     Reason: Pt with new afib, hypoxia, lwr extremity edema (chronic).  P
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis, HTN, hx of NHL
+     REASON FOR THIS EXAMINATION:
+      Pt with new afib, hypoxia, lwr extremity edema (chronic).  Please perform CT
+      angio protocol to evaluate for PE.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JMBu TUE [**3141-8-19**] 1:11 PM
+      NO PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia and new onset atrial fibrillation.  Lower extremity
+     edema.  Chronic venous stasis.
+     
+     COMPARISON:  [**3140-3-11**].
+     
+     TECHNIQUE:  Pulmonary CT angiograhy with multiplanar reconstructions.
+     
+     MULTIPLANAR REFORMATS confirm the findings described below.
+     
+     CONTRAST:  100 cc Optiray, secondary to CTA protocol.
+     
+     PULMONARY CTA:  There is no pulmonary arterial thrombus identified.  The main
+     pulmonary artery is slightly  enlarged at 3.4 cm, possibly reflecting elevated
+     right-sided pressures.  The heart is enlarged and there is some reflux of
+     contrast retrograde down the IVC into the hepatic vein, possibly suggesting
+     the presence of right-sided heart failure.  In addition, there are minimal
+     thickened septal lines at the  bases which may  represent interstitial edema.
+     Previously identified patchy peripheral bilateral parenchymal consolidations
+     have nearly completely resolved in the interval.  There is a single 8 mm lung
+     nodule in the right upper lobe.  There are minor emphysematous changes
+     present, better demonstrated on today's examination due to thinner slices.
+     There is no lymphadenopathy identified.  The aorta contains a large amount of
+     calcific plaque and thrombus and there is an area of ulceration of plaque just
+     above the level of the diaphragm.  This did not appear to be ulcerated on
+     previous study. The bones demonstrate marked degenerative changes and kyphosis
+     without suspicious osseous lesions.
+     
+     At the visualized organs of the upper abdomen reveal a spleen that is enlarged
+     though this is incompletely imaged.  This may be larger than on [**3140-3-11**].
+     
+     IMPRESSION:
+     1)  No P.E.
+     2)  Mild emphysema.
+     3)  Stable right upper lobe nodule.
+     4)  No lymphadenopathy.
+     5)  High burden of aortic plaque with ulceration evident in the inferior
+     portion of the descending thoracic aorta.
+                                                                 (Over)
+
+     DATE: [**3141-8-19**] 11:53 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5092**]
+     Reason: Pt with new afib, hypoxia, lwr extremity edema (chronic).  P
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     5)  Though incompletely imaged, the spleen appears to have enlarged since
+     previous study.
+
+",,
+13965,17098,,,3141-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-19**] 11:53 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5092**]
+     Reason: Pt with new afib, hypoxia, lwr extremity edema (chronic).  P
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis, HTN, hx of NHL
+     REASON FOR THIS EXAMINATION:
+      Pt with new afib, hypoxia, lwr extremity edema (chronic).  Please perform CT
+      angio protocol to evaluate for PE.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JMBu TUE [**3141-8-19**] 1:11 PM
+      NO PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia and new onset atrial fibrillation.  Lower extremity
+     edema.  Chronic venous stasis.
+     
+     COMPARISON:  [**3140-3-11**].
+     
+     TECHNIQUE:  Pulmonary CT angiograhy with multiplanar reconstructions.
+     
+     MULTIPLANAR REFORMATS confirm the findings described below.
+     
+     CONTRAST:  100 cc Optiray, secondary to CTA protocol.
+     
+     PULMONARY CTA:  There is no pulmonary arterial thrombus identified.  The main
+     pulmonary artery is slightly  enlarged at 3.4 cm, possibly reflecting elevated
+     right-sided pressures.  The heart is enlarged and there is some reflux of
+     contrast retrograde down the IVC into the hepatic vein, possibly suggesting
+     the presence of right-sided heart failure.  In addition, there are minimal
+     thickened septal lines at the  bases which may  represent interstitial edema.
+     Previously identified patchy peripheral bilateral parenchymal consolidations
+     have nearly completely resolved in the interval.  There is a single 8 mm lung
+     nodule in the right upper lobe.  There are minor emphysematous changes
+     present, better demonstrated on today's examination due to thinner slices.
+     There is no lymphadenopathy identified.  The aorta contains a large amount of
+     calcific plaque and thrombus and there is an area of ulceration of plaque just
+     above the level of the diaphragm.  This did not appear to be ulcerated on
+     previous study. The bones demonstrate marked degenerative changes and kyphosis
+     without suspicious osseous lesions.
+     
+     At the visualized organs of the upper abdomen reveal a spleen that is enlarged
+     though this is incompletely imaged.  This may be larger than on [**3140-3-11**].
+     
+     IMPRESSION:
+     1)  No P.E.
+     2)  Mild emphysema.
+     3)  Stable right upper lobe nodule.
+     4)  No lymphadenopathy.
+     5)  High burden of aortic plaque with ulceration evident in the inferior
+     portion of the descending thoracic aorta.
+                                                                 (Over)
+
+     DATE: [**3141-8-19**] 11:53 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5092**]
+     Reason: Pt with new afib, hypoxia, lwr extremity edema (chronic).  P
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     5)  Though incompletely imaged, the spleen appears to have enlarged since
+     previous study.
+
+",,
+13965,17098,,,3141-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13965,17098,,,3141-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-20**] 8:07 AM
+     KNEE (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 5093**]
+     Reason: Any sign of fracture or joint disease?                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with osteopenia and right leg pain. CT angiogram negative for 
+      PE. U/S negative for DVT.
+     REASON FOR THIS EXAMINATION:
+      Any sign of fracture or joint disease?                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pain.
+     
+     RIGHT KNEE, 3 VIEWS:  There is no acute fracture or dislocation.  There is
+     moderate joint space narrowing within the medial compartment of the knee with
+     associated sclerosis.  Several osteophytes are seen on the medial aspect of
+     the knee.  There is diffuse osteopenia.  There is no joint effusion.
+     
+     IMPRESSION:  Moderate osteoarthritis.
+     
+
+",,
+13965,17098,,,3141-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-20**] 10:11 AM
+     CT L-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 5094**]
+     Reason: PAIN IN RT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 yo female with hx of htn, osteopenia and venous stasis here for right leg 
+      pain. Began suddenly and radiates from hip down to heel. 
+     REASON FOR THIS EXAMINATION:
+      Any sign of fracture?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76 year old female with hypertension, osteopenia, and venous
+     stasis, upper right leg which began suddenly and radiated down to the hip.
+     
+     TECHNIQUE: Multiple axial images were obtained from the lumbar spine without
+     contrast, in addition coronal and sagittal reconstructed images were obtained.
+     
+     FINDINGS:  All five lumbar vertebral are visualized.  In the visualized
+     portion of the T12 vertebral body, there is a hemangioma seen.
+     
+     There is a scoliosis of the lumbar spine with convexity to the right.  At the
+     L1-2 and L2-3 levels, there is mild left neural foramen narrowing seen. At the
+     L3-4 level, there is facet and ligamentous hypertrophy seen, but no neural
+     foraminal narrowing.  At the L4-5 level, there is bilateral neural foraminal
+     narrowing seen and canal stenosis.  There is facet hypertrophy seen
+     bilaterally.  There is anterior osteophytes seen at the T12-L1 level and L1-2
+     levels.  There is significant aortic calcifications seen.
+     
+     Along the right sacral ala, there is a linear nondisplaced fracture seen
+     extending from the superior to the inferior portion of the sacrum.  It
+     parallels the SI joint and does not appear to involve the sacral foramen.
+     There appears to be gas within the fracture line.  No other fractures are
+     seen.
+     
+     IMPRESSION:
+     
+     1.  Scoliosis.
+     
+     2.  T12 hemangioma.
+     
+     3.  Degenerative changes with osteophyte formation and facet hypertrophy seen
+     throughout the lumbar spine, but there is more extensive disease at the L4-5
+     level with bilateral neural foraminal narrowing and canal stenosis.
+     
+     4.  There is a right sacral ala nondisplaced fracture.
+
+",,
+13965,17098,,,3141-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-20**] 10:11 AM
+     CT PELVIS [**Hospital Unit Name 2865**] W/O C                                           Clip # [**Clip Number (Radiology) 5095**]
+     Reason: HX OSTEOPEIASUDDEN PAIN RT LEG/HEEL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 yo female with hx of htn, osteopenia and venous stasis here for right leg 
+      pain. Began suddenly and radiates from hip down to heel. 
+     REASON FOR THIS EXAMINATION:
+      Any sign of fracture?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76 year old with a history of hypertension, osteopenia and venous
+     stasis, presents with right leg pain.  Are there any fractures?
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the level of the iliac
+     crest to approximately the level of the lesser trochanters without the
+     administration of IV contrast.
+     
+     COMPARISON:  Direct comparison is made to a prior CT examination dated
+     [**3140-3-11**].
+     
+     Arterial calcification is identified.  The sacroiliac joints display some
+     subchondral sclerosis and vacuum phenomena and there is a small anterior
+     osteophyte identified in the right sacroiliac joint; these findings are
+     consistent with degenerative change.  Degenerative change is identified in the
+     facet joints at the lower lumbar spine.  No fractures are identified.  No
+     dislocations are identified.
+     
+     There is an oval soft-tissue density identified in the left hemipelvis
+     extending to the level of the left iliac crest which likely represents the
+     spleen.  The spleen did not extend to this caudal level on the prior CT exam
+     and there is likely new splenomegaly.
+     
+     There is a 1.1-cm oval soft-tissue density in the anterior abdominal wall not
+     present on the prior exam and attention to this region could be paid on any
+     follow-up examinations; it is of uncertain significance.
+     
+     IMPRESSION:
+     
+     1) No fractures or dislocations are identified.
+     
+     2) Degenerative changes in the lower spine and in the sacroiliac joints.
+     
+     3) Likely splenomegaly which is new over the interval.
+     
+
+",,
+13965,17098,,,3141-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-20**] 10:11 AM
+     CT L-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 5094**]
+     Reason: PAIN IN RT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 yo female with hx of htn, osteopenia and venous stasis here for right leg 
+      pain. Began suddenly and radiates from hip down to heel. 
+     REASON FOR THIS EXAMINATION:
+      Any sign of fracture?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76 year old female with hypertension, osteopenia, and venous
+     stasis, upper right leg which began suddenly and radiated down to the hip.
+     
+     TECHNIQUE: Multiple axial images were obtained from the lumbar spine without
+     contrast, in addition coronal and sagittal reconstructed images were obtained.
+     
+     FINDINGS:  All five lumbar vertebral are visualized.  In the visualized
+     portion of the T12 vertebral body, there is a hemangioma seen.
+     
+     There is a scoliosis of the lumbar spine with convexity to the right.  At the
+     L1-2 and L2-3 levels, there is mild left neural foramen narrowing seen. At the
+     L3-4 level, there is facet and ligamentous hypertrophy seen, but no neural
+     foraminal narrowing.  At the L4-5 level, there is bilateral neural foraminal
+     narrowing seen and canal stenosis.  There is facet hypertrophy seen
+     bilaterally.  There is anterior osteophytes seen at the T12-L1 level and L1-2
+     levels.  There is significant aortic calcifications seen.
+     
+     Along the right sacral ala, there is a linear nondisplaced fracture seen
+     extending from the superior to the inferior portion of the sacrum.  It
+     parallels the SI joint and does not appear to involve the sacral foramen.
+     There appears to be gas within the fracture line.  No other fractures are
+     seen.
+     
+     IMPRESSION:
+     
+     1.  Scoliosis.
+     
+     2.  T12 hemangioma.
+     
+     3.  Degenerative changes with osteophyte formation and facet hypertrophy seen
+     throughout the lumbar spine, but there is more extensive disease at the L4-5
+     level with bilateral neural foraminal narrowing and canal stenosis.
+     
+     4.  There is a right sacral ala nondisplaced fracture.
+
+",,
+13965,17098,,,3141-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-21**] 8:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5096**]
+     Reason: r/o CHF                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with hx of htn, hypothyroidism, and venous stasis here for R 
+      leg pain and new onset afib. Pt also has ?lymphoma.
+     REASON FOR THIS EXAMINATION:
+      r/o CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Right leg pain and new onset a-fib.
+     
+     Single view of the chest is compared to previous study dated [**3141-8-19**].
+     
+     There is tortuosity and calcification of the aorta. There is enlargement of
+     the heart. There is an increased opacity in the right base. There is increase
+     in congestive failure. No pneumothorax.
+     
+     IMPRESSION:
+     
+     Worse congestive failure.
+     
+     Increasing opacity at the right base probably representing atelectasis and
+     effusion.
+
+",,
+13965,17098,17369,0,3141-08-22 03:38:00 EST,3141-08-22 04:04:00 EST,-1,"N",69,"Nursing/Other",,"
+
+D: Recieved 76 yr old female pt as transfer from CC6 for increased somulence, poor ABG values and CHF.  Pls see transfer note, [**Name6 (MD) 498**] data, MD progress notes and orders.  Pt a&o on arrival to bed 4.  Pt with 10% NRB mask in place with respitory effort unlabored and O2 Sat>95%.  Lung sounds initially with some rales noted in RUL, decreased breath sounds at other fields, pt noted to have only fair inspiratory effort. Pt. recieved total of 240mg IV lasix as well as 5mg zaroxylyn with little response.  UO 0-25cc/hr initially and dk amber in color.  Foley irrigated without difficulty and is patent.  Pt with new dx Afib which is currently her rhythm along with occ PVC's. Of other issue was HR that has dropped to the low 40's resolving without intervention and no accompanying symptoms.  
+
+P:  Attempt bibap as warrented by ABG results, monitor response to same.  Hold on further diuresis at present, monitor UO closely.  Continue to assess Lung sounds, O2 sats and respitory effort.  
+",,
+13965,17098,17369,0,3141-08-22 04:04:00 EST,3141-08-22 04:07:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Adendum: D: Pt continues on bipap tolerating same fairly well with some adjusments to mask and occasional sips of water.  O2Sats >95%,respitory effort unlabored, lung sounds coarse, decr at bases.  UO improving and becoming less concentrated.  Pt. sleeping in naps, is alert & oriented when awoken.  
+
+P: Continue current coarse , ? repeat ABG's this morning.
+",,
+13965,17098,17369,0,3141-08-22 05:12:00 EST,3141-08-22 05:19:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient was placed on masked bipap through the vent, tolerating fairly well with freq. periods off. Settings initially  pressures of 5/5, fio2 weaned from 70-50% per sats. ABGS on this 7.26/80/75. Pt. is alert, easily rousable from [**Doctor Last Name 8**]. Breath sounds are decreased with rales bilaterally 2/3 up. Plan is to reasses this morning.
+",,
+13965,17098,17369,0,3141-08-22 18:56:00 EST,3141-08-22 19:03:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 7a-7p
+
+review of systems:
+Stable day
+Neuro:  AA&Ox3.  Pleasant and cooperative
+
+REsp:  Received pt on BIPAP.  Placed on cool neb in am.  Sats good 92-97%  Pt placed on NC 4L later in afternoon.  Tolerated well with  sats 92%
+
+CV:  afib with frequent PVCs.  per CXR pt in CHF.  Plan to diuresis with lasix and hydroclorathizide.  Team wanted pt 1 liter negative.  
+
+GI: BS present.  no stool this shift.  pt advanced to cardiac healthy diet.  Did not eat today.
+
+GU:  pt put out 920cc urine after lasix.  Currently ~2 liters negative for the day.  
+
+
+",,
+13965,17098,,,3141-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-23**] 1:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5097**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splen
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       The patient is a 76 yo female with hx of non-Hodgkin's lymphoma here for right 
+       leg pain most likely secondary to sciatica and for new-onset afib. Please look 
+       for any signs of lymphoma recurrence. Thanks.
+     REASON FOR THIS EXAMINATION:
+      76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splenomeg on chest CT. 
+      ok to do am, [**8-23**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old woman with non-Hodgkins lymphoma and right leg pain
+     and new onset AFIB.  Evaluate for recurrence of lymphoma.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH CONTRAST
+     
+     COMPARISON:  Comparison is made with prior CT's performed [**3140-11-6**] and [**3139-8-29**].
+     TECHNIQUE:  Contiguous serial axial images were obtained from the lung bases
+     to the pubic symphysis after the administration of 150 cc of non-ionic Optiray
+     contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  The visualized lung bases demonstrate
+     bilateral pleural effusions with bibasilar patchy areas of atelectasis.  A
+     small bulla is present at the right base.
+     
+     The liver pancreas and left kidney are normal in appearance.  A low
+     attenuation focus is again noted arising from the posterior aspect of the
+     right kidney, too small to accurately characterize but unchanged compared to
+     prior study.  Large gallstones are again noted.  The right adrenal is normal
+     in appearance.  Low attenuation soft tissue density is seen within the region
+     of the left adrenal and splenic hilum, possibly representing confluent
+     enlarged lymph nodes versus enlargement of the adrenal.  There has been
+     interval enlargement of the multiple periportal and to a lesser extent
+     aortocaval lymph nodes.  The largest lymph node is in the porta hepatis and
+     measures 1.9 x 3.8 cm.  There has been interval enlargement in the spleen.  A
+     wedge shaped area of low attenuation is seen within the lateral aspect of the
+     spleen consistent with a small splenic infarct.  There are scattered colonic
+     diverticula.  A thecal lipoma is again noted, unchanged from prior study.
+     Intra-abdominal loops of bowel are otherwise grossly unremarkable.  There are
+     dense vascular calcifications.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Numerous sigmoid diverticula without evidence
+     of diverticulitis.  The bladder rectum and intrapelvic loops of bowel are
+     otherwise grossly unremarkable. There is no free pelvic fluid.  Small, sub-cm
+     lymph node is again noted along the left pelvic side wall.  There is no free
+     pelvic fluid.  There is no inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  The structures reveal demineralization and extensive
+                                                                 (Over)
+
+     DATE: [**3141-8-23**] 1:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5097**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splen
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     degenerative changes.  A fine linear lucency is seen along the right aspect of
+     the sacrum just medial to the SI joint.  Gas is seen along the hairline
+     lucency.
+     
+     IMPRESSION:  1)  Interval increase in para-aortic, aortocaval and porta
+     hepatis lymphadenopathy.  Marked interval increase in splenomegaly.
+     2)  Possible hairline fracture of the right medial sacrum.  If there is
+     clinical concern for occult pelvic fracture a bone scan can be performed for
+     further evaluation.
+     3)  Diverticulosis without evidence of diverticulitis.
+     4)  Bilateral small pleural effusions with associated bibasilar atelectasis.
+     
+     
+     
+
+",,
+13965,17098,,,3141-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-23**] 1:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5097**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splen
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       The patient is a 76 yo female with hx of non-Hodgkin's lymphoma here for right 
+       leg pain most likely secondary to sciatica and for new-onset afib. Please look 
+       for any signs of lymphoma recurrence. Thanks.
+     REASON FOR THIS EXAMINATION:
+      76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splenomeg on chest CT. 
+      ok to do am, [**8-23**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old woman with non-Hodgkins lymphoma and right leg pain
+     and new onset AFIB.  Evaluate for recurrence of lymphoma.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH CONTRAST
+     
+     COMPARISON:  Comparison is made with prior CT's performed [**3140-11-6**] and [**3139-8-29**].
+     TECHNIQUE:  Contiguous serial axial images were obtained from the lung bases
+     to the pubic symphysis after the administration of 150 cc of non-ionic Optiray
+     contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  The visualized lung bases demonstrate
+     bilateral pleural effusions with bibasilar patchy areas of atelectasis.  A
+     small bulla is present at the right base.
+     
+     The liver pancreas and left kidney are normal in appearance.  A low
+     attenuation focus is again noted arising from the posterior aspect of the
+     right kidney, too small to accurately characterize but unchanged compared to
+     prior study.  Large gallstones are again noted.  The right adrenal is normal
+     in appearance.  Low attenuation soft tissue density is seen within the region
+     of the left adrenal and splenic hilum, possibly representing confluent
+     enlarged lymph nodes versus enlargement of the adrenal.  There has been
+     interval enlargement of the multiple periportal and to a lesser extent
+     aortocaval lymph nodes.  The largest lymph node is in the porta hepatis and
+     measures 1.9 x 3.8 cm.  There has been interval enlargement in the spleen.  A
+     wedge shaped area of low attenuation is seen within the lateral aspect of the
+     spleen consistent with a small splenic infarct.  There are scattered colonic
+     diverticula.  A thecal lipoma is again noted, unchanged from prior study.
+     Intra-abdominal loops of bowel are otherwise grossly unremarkable.  There are
+     dense vascular calcifications.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Numerous sigmoid diverticula without evidence
+     of diverticulitis.  The bladder rectum and intrapelvic loops of bowel are
+     otherwise grossly unremarkable. There is no free pelvic fluid.  Small, sub-cm
+     lymph node is again noted along the left pelvic side wall.  There is no free
+     pelvic fluid.  There is no inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  The structures reveal demineralization and extensive
+                                                                 (Over)
+
+     DATE: [**3141-8-23**] 1:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5097**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splen
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     degenerative changes.  A fine linear lucency is seen along the right aspect of
+     the sacrum just medial to the SI joint.  Gas is seen along the hairline
+     lucency.
+     
+     IMPRESSION:  1)  Interval increase in para-aortic, aortocaval and porta
+     hepatis lymphadenopathy.  Marked interval increase in splenomegaly.
+     2)  Possible hairline fracture of the right medial sacrum.  If there is
+     clinical concern for occult pelvic fracture a bone scan can be performed for
+     further evaluation.
+     3)  Diverticulosis without evidence of diverticulitis.
+     4)  Bilateral small pleural effusions with associated bibasilar atelectasis.
+     
+     
+     
+
+",,
+13965,17098,,,3141-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-23**] 1:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5097**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splen
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       The patient is a 76 yo female with hx of non-Hodgkin's lymphoma here for right 
+       leg pain most likely secondary to sciatica and for new-onset afib. Please look 
+       for any signs of lymphoma recurrence. Thanks.
+     REASON FOR THIS EXAMINATION:
+      76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splenomeg on chest CT. 
+      ok to do am, [**8-23**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  76-year-old woman with non-Hodgkins lymphoma and right leg pain
+     and new onset AFIB.  Evaluate for recurrence of lymphoma.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH CONTRAST
+     
+     COMPARISON:  Comparison is made with prior CT's performed [**3140-11-6**] and [**3139-8-29**].
+     TECHNIQUE:  Contiguous serial axial images were obtained from the lung bases
+     to the pubic symphysis after the administration of 150 cc of non-ionic Optiray
+     contrast.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  The visualized lung bases demonstrate
+     bilateral pleural effusions with bibasilar patchy areas of atelectasis.  A
+     small bulla is present at the right base.
+     
+     The liver pancreas and left kidney are normal in appearance.  A low
+     attenuation focus is again noted arising from the posterior aspect of the
+     right kidney, too small to accurately characterize but unchanged compared to
+     prior study.  Large gallstones are again noted.  The right adrenal is normal
+     in appearance.  Low attenuation soft tissue density is seen within the region
+     of the left adrenal and splenic hilum, possibly representing confluent
+     enlarged lymph nodes versus enlargement of the adrenal.  There has been
+     interval enlargement of the multiple periportal and to a lesser extent
+     aortocaval lymph nodes.  The largest lymph node is in the porta hepatis and
+     measures 1.9 x 3.8 cm.  There has been interval enlargement in the spleen.  A
+     wedge shaped area of low attenuation is seen within the lateral aspect of the
+     spleen consistent with a small splenic infarct.  There are scattered colonic
+     diverticula.  A thecal lipoma is again noted, unchanged from prior study.
+     Intra-abdominal loops of bowel are otherwise grossly unremarkable.  There are
+     dense vascular calcifications.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Numerous sigmoid diverticula without evidence
+     of diverticulitis.  The bladder rectum and intrapelvic loops of bowel are
+     otherwise grossly unremarkable. There is no free pelvic fluid.  Small, sub-cm
+     lymph node is again noted along the left pelvic side wall.  There is no free
+     pelvic fluid.  There is no inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  The structures reveal demineralization and extensive
+                                                                 (Over)
+
+     DATE: [**3141-8-23**] 1:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5097**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 76 yo F w/ NHL, pathologic sacral fx, thombocytopenia, splen
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     degenerative changes.  A fine linear lucency is seen along the right aspect of
+     the sacrum just medial to the SI joint.  Gas is seen along the hairline
+     lucency.
+     
+     IMPRESSION:  1)  Interval increase in para-aortic, aortocaval and porta
+     hepatis lymphadenopathy.  Marked interval increase in splenomegaly.
+     2)  Possible hairline fracture of the right medial sacrum.  If there is
+     clinical concern for occult pelvic fracture a bone scan can be performed for
+     further evaluation.
+     3)  Diverticulosis without evidence of diverticulitis.
+     4)  Bilateral small pleural effusions with associated bibasilar atelectasis.
+     
+     
+     
+
+",,
+13965,17098,,,3141-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-26**] 11:42 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5098**]
+     Reason: Please eval interval change in regard to CHF.               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman with h/o NHL, chronic venous stasis and persistent O2 
+      requirement
+     REASON FOR THIS EXAMINATION:
+      Please eval interval change in regard to CHF.                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Non Hodgkin's lymphoma with persistent O2 requirement.
+     
+     There is tortuosity of the aorta.  The heart is enlarged, but stable.  There
+     is persistent congestive failure.  No pneumothorax. There is bilateral hazy
+     opacity consistent with pleural effusion.  There are multilevel degenerative
+     changes of the thoracic spine.
+     
+     IMPRESSION:  Congestive failure with bilateral pleural effusion.
+
+",,
+13965,,,,3141-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-31**] 4:43 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5100**]
+     CT RECONSTRUCTION
+     Reason: 86 y/o with acute onset SOB, pleuritic CP and back pain, [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) **] of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis, HTN, hx of NHL
+     REASON FOR THIS EXAMINATION:
+      86 y/o with acute onset SOB, pleuritic CP and back pain, evaluate for PE.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CTu SUN [**3141-8-31**] 5:32 AM
+      no PE; new hazy ground glass opacities of both upper lung zones (not seen on
+      exam of 11 days ago), probable infectious etiology
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypertension, history of non-Hodgkin's lynphoma.  Pleuritic chest
+     and back pain.  Assess for P.E.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained through
+     the chest after the administration of iv contrast, according to the CTA
+     protocol.
+     
+     COMPARISON: CHEST CT OF [**3141-8-19**].
+     
+     CHEST CTA W/CONTRAST:  Soft tissue windows show no evidence of intra-arterial
+     filling defects.  There are a few subcm mediastinal lymph nodes, none of which
+     meet strict CT criteria for pathologic enlargement.  There are no enlarged
+     hilar or axillary lymph nodes.  The heart and pericardium are unremarkable.
+     Again noted, are diffuse plaques of the intrathoracic aorta. There are no
+     pleural effusions.  Lung windows demonstrate no interval change in the right
+     upper lobe nodule.  There has been interval increase in ground glass
+     opacifications, predominantly involving the upper lung zones.  Increased
+     atelectasis is noted at the lung bases with increased patchy opacities of the
+     right lower lobe .  There are mild emphysematous changes.
+     
+     Bone windows demonstrate stable appearance of the osseous structures since the
+     previous exam.
+     
+     Limited views of the upper abdomen again show a prominent spleen.  The
+     partially visualized liver is unchanged in appearance.
+     
+     MULTIPLANAR REFORMATTED IMAGES confirm the above findings.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     
+     2)  Slight interval increase in the amount of diffuse ground glass opacities,
+     predominantly involving the upper lung zones, and patchy opacities of the
+     right lower lobe.  Given their rapidity of onset, these findings may represent
+     an infectious viral/fungal process. Correlation with patient's clinical exam
+     is recommended.
+                                                                 (Over)
+
+     DATE: [**3141-8-31**] 4:43 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5100**]
+     CT RECONSTRUCTION
+     Reason: 86 y/o with acute onset SOB, pleuritic CP and back pain, [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) **] of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3)  Stable right upper lobe pulmonary nodule.
+     
+     4)  Mild emphysema.
+     
+
+",,
+13965,,,,3141-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-31**] 2:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5099**]
+     Reason: 80 year with back/chest pain evaluate for intrathoracic etio
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      HTN, hypothyroid, chf
+     REASON FOR THIS EXAMINATION:
+      80 year with back/chest pain evaluate for intrathoracic etiology
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Back and chest pain.
+     
+     CHEST, AP PORTABLE:  Comparison is made to a previous examination dated
+     [**3141-8-26**].  Overall, there have been no significant changes since the previous
+     exam.  The cardiac silhouette is again enlarged.  The mediastinal and hilar
+     contours are stable.  There is slight upper zone redistribution of the
+     pulmonary vasculature.  There is bibasilar atelectasis and hazy opacities at
+     both lung bases, likely representing small pleural effusions.  Again noted is
+     increased density overlying the right heart border, unchanged from the
+     previous examination.  There has been slight interval clearing of the left
+     retrocardiac opacity.  There are no new infiltrates or pneumothoraces.  The
+     visualized soft tissues and osseous strutures are stable.
+     
+     IMPRESSION:  Findings consistent with stable congestive heart failure with
+     small bilateral pleural effusions.  No significant change since the previous
+     exam of [**3141-8-26**].
+     
+
+",,
+13965,,,,3141-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-31**] 6:07 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 5101**]
+     Reason: r/o cholelithiasis and cholecystitis                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with RUQ pain and elevated LFT                                
+     REASON FOR THIS EXAMINATION:
+      r/o cholelithiasis and cholecystitis                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right upper quadrant pain and elevated LFT's
+     
+     RIGHT UPPER QUADRANT US: There are 2 large echogenic foci with posterior
+     shadowing consistent with large gallstones noted within the dependent portion
+     of the gallbladder. The gallbladder wall appears thickened measuring
+     approximately 5 mm.  Hypoechoic material is noted throughout the wall of the
+     gallbladder, consistent with edema.  There is no pericholecystic fluid.  No
+     intrahepatic or common bile duct dilatation is noted. The common duct measures
+     up to 6 mm.  A positive sonographic [**Doctor Last Name 1392**] sign was elicted.
+     
+     IMPRESSION: The combination of a positive [**Doctor Last Name 1392**] sign, the large gallstones
+     and gallbladder wall edema are consistent with acute cholecystitis.
+     
+
+",,
+13965,,,,3141-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-31**] 4:43 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5100**]
+     CT RECONSTRUCTION
+     Reason: 86 y/o with acute onset SOB, pleuritic CP and back pain, [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) **] of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis, HTN, hx of NHL
+     REASON FOR THIS EXAMINATION:
+      86 y/o with acute onset SOB, pleuritic CP and back pain, evaluate for PE.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CTu SUN [**3141-8-31**] 5:32 AM
+      no PE; new hazy ground glass opacities of both upper lung zones (not seen on
+      exam of 11 days ago), probable infectious etiology
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypertension, history of non-Hodgkin's lynphoma.  Pleuritic chest
+     and back pain.  Assess for P.E.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained through
+     the chest after the administration of iv contrast, according to the CTA
+     protocol.
+     
+     COMPARISON: CHEST CT OF [**3141-8-19**].
+     
+     CHEST CTA W/CONTRAST:  Soft tissue windows show no evidence of intra-arterial
+     filling defects.  There are a few subcm mediastinal lymph nodes, none of which
+     meet strict CT criteria for pathologic enlargement.  There are no enlarged
+     hilar or axillary lymph nodes.  The heart and pericardium are unremarkable.
+     Again noted, are diffuse plaques of the intrathoracic aorta. There are no
+     pleural effusions.  Lung windows demonstrate no interval change in the right
+     upper lobe nodule.  There has been interval increase in ground glass
+     opacifications, predominantly involving the upper lung zones.  Increased
+     atelectasis is noted at the lung bases with increased patchy opacities of the
+     right lower lobe .  There are mild emphysematous changes.
+     
+     Bone windows demonstrate stable appearance of the osseous structures since the
+     previous exam.
+     
+     Limited views of the upper abdomen again show a prominent spleen.  The
+     partially visualized liver is unchanged in appearance.
+     
+     MULTIPLANAR REFORMATTED IMAGES confirm the above findings.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     
+     2)  Slight interval increase in the amount of diffuse ground glass opacities,
+     predominantly involving the upper lung zones, and patchy opacities of the
+     right lower lobe.  Given their rapidity of onset, these findings may represent
+     an infectious viral/fungal process. Correlation with patient's clinical exam
+     is recommended.
+                                                                 (Over)
+
+     DATE: [**3141-8-31**] 4:43 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5100**]
+     CT RECONSTRUCTION
+     Reason: 86 y/o with acute onset SOB, pleuritic CP and back pain, [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) **] of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3)  Stable right upper lobe pulmonary nodule.
+     
+     4)  Mild emphysema.
+     
+
+",,
+13965,,,,3141-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-8-31**] 4:43 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5100**]
+     CT RECONSTRUCTION
+     Reason: 86 y/o with acute onset SOB, pleuritic CP and back pain, [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) **] of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with chronic venous stasis, HTN, hx of NHL
+     REASON FOR THIS EXAMINATION:
+      86 y/o with acute onset SOB, pleuritic CP and back pain, evaluate for PE.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CTu SUN [**3141-8-31**] 5:32 AM
+      no PE; new hazy ground glass opacities of both upper lung zones (not seen on
+      exam of 11 days ago), probable infectious etiology
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypertension, history of non-Hodgkin's lynphoma.  Pleuritic chest
+     and back pain.  Assess for P.E.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained through
+     the chest after the administration of iv contrast, according to the CTA
+     protocol.
+     
+     COMPARISON: CHEST CT OF [**3141-8-19**].
+     
+     CHEST CTA W/CONTRAST:  Soft tissue windows show no evidence of intra-arterial
+     filling defects.  There are a few subcm mediastinal lymph nodes, none of which
+     meet strict CT criteria for pathologic enlargement.  There are no enlarged
+     hilar or axillary lymph nodes.  The heart and pericardium are unremarkable.
+     Again noted, are diffuse plaques of the intrathoracic aorta. There are no
+     pleural effusions.  Lung windows demonstrate no interval change in the right
+     upper lobe nodule.  There has been interval increase in ground glass
+     opacifications, predominantly involving the upper lung zones.  Increased
+     atelectasis is noted at the lung bases with increased patchy opacities of the
+     right lower lobe .  There are mild emphysematous changes.
+     
+     Bone windows demonstrate stable appearance of the osseous structures since the
+     previous exam.
+     
+     Limited views of the upper abdomen again show a prominent spleen.  The
+     partially visualized liver is unchanged in appearance.
+     
+     MULTIPLANAR REFORMATTED IMAGES confirm the above findings.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     
+     2)  Slight interval increase in the amount of diffuse ground glass opacities,
+     predominantly involving the upper lung zones, and patchy opacities of the
+     right lower lobe.  Given their rapidity of onset, these findings may represent
+     an infectious viral/fungal process. Correlation with patient's clinical exam
+     is recommended.
+                                                                 (Over)
+
+     DATE: [**3141-8-31**] 4:43 AM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 5100**]
+     CT RECONSTRUCTION
+     Reason: 86 y/o with acute onset SOB, pleuritic CP and back pain, [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) **] of view: 45 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3)  Stable right upper lobe pulmonary nodule.
+     
+     4)  Mild emphysema.
+     
+
+",,
+13965,,,,3141-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-9-2**] 9:09 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 5104**]
+     Reason: r/o perforation                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with acute cholecystitis                                      
+     REASON FOR THIS EXAMINATION:
+      r/o perforation                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     ABDOMEN, TWO VIEWS;
+     
+     HISTORY; Acute abdominal pain in patient with h/o lymphoma.
+     
+     There is retained contrast in the rectosigmoid with contrast filling multiple
+     sigmoid diverticula.  Distribution of bowel has is unremarkable and there is
+     no evidence for intestinal obstruction and no free intraperitoneal gas.  There
+     is splenomegaly and a lumbar scoliosis, convex left.
+     
+     IMPRESSION:  No evidence for intestinal obstruction or free intraperitoneal
+     gas.  Splenomegaly.
+     
+
+",,
+13965,,,,3141-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-9-2**] 4:06 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 5106**]
+     Reason: cholecystitis                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with cholecystitis                                            
+     REASON FOR THIS EXAMINATION:
+      cholecystitis                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Acute cholecystitis.
+     
+     TECHNIQUE& FINDINGS: The procedure was fully explained to the patient amd
+     informed signed consent was obtained.  Conscious sedation was utilized and a
+     radiology nurse was present with the patient during the entire procedure.
+     
+     Under ultrasonic guidance, an 8 French [**Last Name (un) 5107**] catheter was introduced into the
+     gallbladder.  5 cc of bilious aspirate was sent for Gram stain and culture.
+     The catheter was secured in place with a flexitract bandage and a drainage bag
+     was attached.  The patient tolerated the procedure well without immediate
+     complication.
+     
+     CONCLUSION: Successful percutaneous cholecystostomy tube placement.
+     
+     
+
+",,
+13965,,,,3141-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GALLBLADDER SCAN                                                Clip # [**Clip Number (Radiology) 5102**]
+     Reason: ABDOMINAL PAIN. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-six year old woman who has an elevated alk phos level,  
+     elevated total bilirubin, and a positive [**Doctor Last Name **] sign.  By ultrasound, she has
+     gallbladder wall thickening and cholelithiasis.  Symptomatically she has right
+     upper quadrant pain with rebound.   
+      
+     INTERPRETATION:  Serial images over the abdomen show normal uptake of tracer
+     into the hepatic parenchyma.  At approximately 29 minutes, tracer activity is
+     noted in the small bowel.  After 76 minutes of imaging, no tracer could be
+     visualized within the gallbladder.  2 mg of morphine were administered IV. 
+     Imaging was then continued for another 30 minutes.  Again, the gallbladder was
+     not visualized after 30 minutes of additional imaging. 
+      
+     IMPRESSION:  Non-visualization of the gallbladder, consistent with
+     cholecystitis.  
+     /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) 477**] [**Name8 (MD) 478**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: TUE [**3141-9-2**] 7:09 PM
+
+
+             Date Mailed: [**3141-9-3**]                     West [**Medical Record Number 5103**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13965,,,,3141-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-9-2**] 4:06 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 5106**]
+     Reason: cholecystitis                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with cholecystitis                                            
+     REASON FOR THIS EXAMINATION:
+      cholecystitis                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Acute cholecystitis.
+     
+     TECHNIQUE& FINDINGS: The procedure was fully explained to the patient amd
+     informed signed consent was obtained.  Conscious sedation was utilized and a
+     radiology nurse was present with the patient during the entire procedure.
+     
+     Under ultrasonic guidance, an 8 French [**Last Name (un) 5107**] catheter was introduced into the
+     gallbladder.  5 cc of bilious aspirate was sent for Gram stain and culture.
+     The catheter was secured in place with a flexitract bandage and a drainage bag
+     was attached.  The patient tolerated the procedure well without immediate
+     complication.
+     
+     CONCLUSION: Successful percutaneous cholecystostomy tube placement.
+     
+     
+
+",,
+13965,,,,3141-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-9-2**] 9:40 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 5105**]
+     Reason: RUQ PAIN AND ELEVATED LFT , ASSESS FOR DUCT OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman with RUQ pain and elevated LFT now w/ increased abdominal 
+      pain.                                
+     REASON FOR THIS EXAMINATION:
+      r/o duct obstruction                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper quadrant pain and elevated liver function tests.
+     
+     ULTRASOUND FINDINGS:  Comparison is made to prior examination from [**3141-8-31**].
+     Since the prior examination, there remains thickening of the gallbladder wall,
+     which now measures 9 mm.  Multiple shadowing gallstones are identified.  There
+     is hyperemia of the gallbladder wall.  The common bile duct measures 8-9 mm in
+     greatest dimension.  This is slightly increased from the prior study, where
+     the maximal measurement was 6 mm.  No definite stones are seen within the
+     distal common bile duct.  There is no intrahepatic ductal dilatation.  No
+     fluid is identified.  No other significant interval change since the prior
+     study.
+     
+     CONCLUSION:  Positive sonographic [**Doctor Last Name **] sign with gallbladder wall thickening
+     and multiple gallstones are consistent with acute cholecystitis.  There is
+     increased gallbladder wall thickening and the common bile duct is slightly
+     larger as described above.  No definite obstructing stones are seen in the
+     common bile duct.
+
+",,
+13965,13741,,,3141-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-6**] 5:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5108**]
+     Reason: r/o CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with NHL, a fib, OSA with elev R sided pressures into ED with
+      worsening bilateral LE edema. 
+     REASON FOR THIS EXAMINATION:
+      r/o CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Non-Hodgkin lymphoma.
+     
+     FINDINGS: Comparison was made to the prior film obtained on [**3141-8-31**]. The
+     heart is at the upper limits of normal size. Again noted is mild hilar
+     enlargement, which remains stable from the prior exam. The lungs are clear,
+     without evidence of pulmonary edema or focal consolidation. There is no
+     evidence of pleural effusion or pneumothorax.
+     
+     IMPRESSION: No evidence of acute pneumonia or CHF.
+
+",,
+13965,13741,,,3141-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-7**] 4:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5109**]
+     Reason: CHECK RT IJ TRIPLE LUMEN LINE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old woman with NHL, a fib, OSA with elev R sided pressures into ED 
+      with worsening bilateral LE edema. 
+     REASON FOR THIS EXAMINATION:
+      Check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Non-Hodgkins lymphoma, afib, elevated right sided pressures.  Check
+     line placement.
+     
+     Reference exam - [**11-6**]
+     
+     FINDINGS:  There is a new right IJ line with tip in the right atrium.  The
+     cardiac silhouette is mildly enlarged.  There is patchy increased opacity at
+     both lung bases which could represent subsegmental atelectasis or early
+     infiltrate.
+     
+
+",,
+13965,13741,,,3141-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-7**] 8:56 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5112**]
+     Reason: Please evaluate for cholecystitis                           
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with recent diagnosis cholecystitis s/p drainage tube 
+      placement via IR presents with hypotension, acidosis.  Please evaluate for 
+      cholecystitis.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for cholecystitis                                               
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Persistent hypotension and lactic acidosis.  Assess for
+     intraabdominal infection.
+     
+     COMPARISON:  [**3141-8-23**].
+     
+     TECHNIQUE:  Non-contrast CT of the abdomen and pelvis.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Again noted are small bilateral
+     pleural effusions.  There is a small degree of compressive atelectasis
+     associated with this.  The heart is enlarged.  The liver demonstrates no focal
+     abnormalities on this non-contrast scan and the spleen is smaller than on the
+     previous study.  The aorta is heavily calcified.  There is no hydronephrosis.
+     There is an exophytic simple cyst again noted off the right kidney and the
+     kidneys are otherwise unremarkable.  The left adrenal gland appears thickened;
+     this is stable from the prior study.  There are several enlarged periportal
+     and retroperitoneal lymph nodes that are unchanged, though there are also
+     venous collaterals exaggerating nodularity in the left periaortic region.
+     There are numerous gallstones some of which contain gas within their centers.
+     There is no CT evidence of cholecystitis.  There is no abscess.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is no ascites or free air.  There
+     is no abnormal bowel wall thickening detected.  There is edema in the flanks.
+     Bones reveal multilevel degenerative changes of the spine without suspicious
+     lesions.
+     
+     IMPRESSION:  No etiology for hypotension and lactic acidosis identified.
+     Gallstones. No evidence of cholecystitis or abscess.
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3141-11-7**] 8:56 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5112**]
+     Reason: Please evaluate for cholecystitis                           
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13965,13741,,,3141-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-7**] 8:56 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5112**]
+     Reason: Please evaluate for cholecystitis                           
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with recent diagnosis cholecystitis s/p drainage tube 
+      placement via IR presents with hypotension, acidosis.  Please evaluate for 
+      cholecystitis.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for cholecystitis                                               
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Persistent hypotension and lactic acidosis.  Assess for
+     intraabdominal infection.
+     
+     COMPARISON:  [**3141-8-23**].
+     
+     TECHNIQUE:  Non-contrast CT of the abdomen and pelvis.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Again noted are small bilateral
+     pleural effusions.  There is a small degree of compressive atelectasis
+     associated with this.  The heart is enlarged.  The liver demonstrates no focal
+     abnormalities on this non-contrast scan and the spleen is smaller than on the
+     previous study.  The aorta is heavily calcified.  There is no hydronephrosis.
+     There is an exophytic simple cyst again noted off the right kidney and the
+     kidneys are otherwise unremarkable.  The left adrenal gland appears thickened;
+     this is stable from the prior study.  There are several enlarged periportal
+     and retroperitoneal lymph nodes that are unchanged, though there are also
+     venous collaterals exaggerating nodularity in the left periaortic region.
+     There are numerous gallstones some of which contain gas within their centers.
+     There is no CT evidence of cholecystitis.  There is no abscess.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is no ascites or free air.  There
+     is no abnormal bowel wall thickening detected.  There is edema in the flanks.
+     Bones reveal multilevel degenerative changes of the spine without suspicious
+     lesions.
+     
+     IMPRESSION:  No etiology for hypotension and lactic acidosis identified.
+     Gallstones. No evidence of cholecystitis or abscess.
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3141-11-7**] 8:56 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5112**]
+     Reason: Please evaluate for cholecystitis                           
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13965,13741,,,3141-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-7**] 8:56 PM
+     CT LOW EXT W/O C & RECONS LEFT                                  Clip # [**Clip Number (Radiology) 5111**]
+     Reason: is there bleeding in the left leg? Please include hip region
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with hx of htn, non-Hodgkins lymphoma, admitted for increased 
+      left leg swelling and pain
+     REASON FOR THIS EXAMINATION:
+      is there bleeding in the left leg? Please include hip region. thank [**Doctor First Name 1041**]         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypertension and non-Hodgkin's lymphoma.  Increased left leg
+     swelling and pain.  ?Hematoma.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast CT of the left hip and thigh.
+     
+     FINDINGS:  There is diffuse increased attenuation in the subcutaneous fat
+     representing edema along with thickening of the septa within the fat.  There
+     is no hematoma or abnormal fluid collection in the thigh or hip region.  There
+     is calcification of the artery and superficial venous varicosities noted.  The
+     right thigh which is partially imaged demonstrates a lesser degree of soft-
+     tissue swelling.  There is a Foley catheter present within a collapsed
+     bladder.  The bones demonstrate a serpiginous sclerotic area in the medullary
+     cavity of the proximal femur which is eccentrically located.
+     
+     IMPRESSION: 1) Edema without hematoma or abscess.
+     2) Sclerotic lesion in proximal femur most likely represents a bone infarct
+     .
+     ADDENDUM:  The multiplanar reformats confirm the findings described above. 
+
+",,
+13965,13741,,,3141-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13965,13741,,,3141-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-7**] 6:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5110**]
+     Reason: Please eval NGT placement                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old woman with NHL, a fib, OSA with elev R sided pressures into ED  
+      with worsening bilateral LE edema. 
+     REASON FOR THIS EXAMINATION:
+      Please eval NGT placement                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  NG tube placement.
+     
+     COMPARISON: [**3141-11-7**]
+     
+     PORTABLE CHEST AND UPPER ABDOMEN TWO VIEWS:  NG tube is well positioned within
+     the stomach.  A right IJ central venous catheter terminates with its tip in
+     the vicinity of the cavo-atrial junction on the right.  There are no effusions
+     and there is no pneumothorax.  The heart is enlarged.  The lungs are grossly
+     clear.
+     
+     IMPRESSION:  Satisfactory NG tube placement.
+
+",,
+13965,13741,17370,0,3141-11-07 18:49:00 EST,3141-11-07 19:01:00 EST,-1,"N",69,"Nursing/Other",,"
+
+CV: Upon arrival to floor SBP 70/40's, pt bolused and responded with SBP remaining 90-110/50-60's. Right IJ TLCL placed and confirmed. Afebrile. Right LE with large Stage II areas to innder knee area and upper thigh area, eval by vasc surgery and dressed with triple antibx oint/xerofoam/ace wrap; FOB gatched a/o. Multiple labs drawn, see carevue. 
+
+Resp: LS clear upper lobes, diminished to bases. O2 sats remained >92% with 2 l nc. Hx COPD
+
+GI: NGT placed, awaiting confirmation to instill contrast for CT of abd/pelvis. Pt unable to tolerate taking po's and BP falling with HOB elevation.
+
+GU: Anuric; foley catheter placement rechecked; few drops of conc urine at 1600 hrs. Team aware. Bolused with 500 cc/ IVF 150 cc/hr. 
+
+Comf: Generalized discomfort throughout; more pronounced to abdomen and movement of bilat legs. 
+
+Neuro: Confused, states she is in her home and we are the VNA ""checking up on her"". Agitated at times; picking at lines. Restrained to prevent interruption of treatment. Brother in visiting. Pt remains full code
+
+Plan: CT of abd/pelvis; r/o abd process/hip fx. IVF. Antibx. Restraints. Silvadene dressings to right leg, [**Last Name (un) 5481**] fob.  Await labs.
+",,
+13965,13741,17370,,3141-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-8**] 12:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5113**]
+     Reason: Please eval ETT placement                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old woman with NHL, a fib, OSA with elev R sided pressures into ED   
+      with worsening bilateral LE edema.  Intubated secondary to metabolic acidosis
+     REASON FOR THIS EXAMINATION:
+      Please eval ETT placement                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ET tube placement.
+     
+     COMPARISON:  [**3141-11-7**].
+     
+     FINDINGS:  An ET tube has been placed with the tip 0.5 cm above the carina and
+     directed towards the right main bronchus. This tube should be withdrawn
+     approximately 2 cm.  The right IJ catheter and NG tube are unchanged.
+     
+     The heart is enlarged but also unchanged.  Moderate calcification of the
+     transverse aorta is again identified.
+     
+     The lungs are clear except for minimal streaky opacities in the left lung
+     base.
+     
+     IMPRESSION:
+     
+     1. ET tube with tip at carina.  Please note these findings were called to the
+     attention of the Nursing staff caring for the patient at the time of
+     dictation.
+     
+     2. Subsegmental atelectasis left base.  Otherwise, no significant change.
+
+",,
+13965,13741,17370,,3141-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-8**] 8:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5114**]
+     Reason: Evaluate for CHF                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          76 year old woman with NHL, a fib, OSA with elev R sided pressures into ED  
+        with worsening bilateral LE edema.  Intubated secondary to metabolic acidosis
+     REASON FOR THIS EXAMINATION:
+      Evaluate for CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Worsening bilateral lower extremity edema with metabolic
+     acidosis.  ? CHF.
+     
+     Reference exam:  [**11-7**].
+     
+     FINDINGS:  There has been interval pull back of the endotracheal tube which is
+     now at the thoracic inlet, 5 1/2 cm above the carina.  There is a right IJ
+     line with the tip in the right atrium.  There is an NG tube coiled in the
+     stomach.  There is low lung volumes but no focal infiltrate.  Heart size
+     continues to be mildly enlarged.
+
+",,
+13965,13741,17370,0,3141-11-08 06:39:00 EST,3141-11-08 06:54:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 1900-0700","
+micu/sicu npn 1900-0700
+     patient found to be very lethargic at change of shift. pt difficult to arouse, mumbling incoherently. abg drawn by dr. [**Last Name (STitle) 5482**] initially 68/46/7.18/18. pt had ct, initial read negative. pt back to floor, cont to remain lethargic, abg's showing increased met acidosis. pt intubated finally, abg's improving on a/c 600x18, 40% fio2. last abg 121/37/7.22/16. lactate 3.1. 
+brief ros
+neuro- pt arousable to stimuli. sedated w/prn versed/fentanyl, sm amts. 
+cv- vss. per carevue. ion ca this am .94, currently being repleted w/2 amps ca. 
+gi- ngt to suction most of night ~750cc in barocat out. [**Doctor First Name **]-excelate held per ho for normalizing k. 
+gu-oliguric o/n. 3 L of ivf in bolus' o/n w/slight improvment in u/o. bun/cr rising..
+id-flagyl/levo/vanco given o/n, afebrile.
+skin- l leg w/inc amts of serous drainage, blisters forming and popping after fluid bolus'.. l leg dressing w/silvadine cream done o/n to blistered areas. bilat ace bandages placed. l leg cont to be bruised. reportedly no fracture/blood collection per ct. mult skin tears, tegaderm applied to areas. 
+",,
+13965,13741,17370,0,3141-11-08 18:45:00 EST,3141-11-08 18:53:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S CLEAR. O2 SATS FINE. STILL WITH A MET. ACIDOSIS. TV'S INCREASED TO 700. NO SECRETIONS. 
+GI: STARTED ON NEPRO AT 10CC/HR. 
+RENAL: U/O'S SLOWLY IMPROVING. IVF'S CHANGED TO BICARB GTT AT 125CC/HR. ALSO RECEIVING FLUID BOLUS AT PRESENT FOR BP IN 80'S. 
+HEM: HCT 25 AND GIVEN 2U PC'S. NEED TO RECHECK HCT LATER. 
+CV: BP WELL CONTROLLED, UNTIL PT TURNED AT 18PM. BP PRESENTLY IMPROVED TO 100'S WITH FB. PT REMAINS IN AF. NEED TO CHECK CK AS WELL TONIGHT.
+ENDOC: NEED TO RECHECK K+, MG+ AND IONIZED CA+ AT 20PM. 
+ID: 2 SETS + BC'S IN AEROBIC BOTTLES ONLY. STARTED ON CEFTAZ. 
+SKIN INTEGRITY: BLISTERS CONTINUE TO BREAK WITH RESULTING SKIN TEARS. LOOSING COPIOUS AMTS OF SEROSANG. FLUID. YELLOW. XEROFORM APPLIED WITH EXUDRIES. BED CHANGED 2X FOR DRAINAGE. LEFT LEG VERY EDEMATOUS. BROTHER STATED THAT SHE HAS HAD THESE BLISTERS BEFORE, THOUGH THE LEG DEFINATELY LOOKS WORSE TO HIM.
+NEURO: MORE AWAKE THIS PM. OPENING EYES. VERY AGITATED WITH TURNING INSPITE OF FENT. AND VERSED. IVP. 
+SOCIAL: BROTHER INTO VISIT. 
+",,
+13965,13741,17370,,3141-11-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-9**] 10:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5115**]
+     Reason: assess for pna                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           76 year old woman with NHL, a fib, OSA with elev R sided pressures into ED 
+          with worsening bilateral LE edema.  Intubated secondary to metabolic 
+      acidosis
+     REASON FOR THIS EXAMINATION:
+      assess for pna                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Lymphoma, atrial fibrillation, worsening acidosis.
+     
+     FINDINGS:  There is marked cardiomegaly, but no evidence of pulmonary edema or
+     pleural effusions.  The lungs are grossly clear.  Tubes and lines are
+     unchanged since yesterday.
+     
+
+",,
+13965,13741,17370,0,3141-11-09 04:25:00 EST,3141-11-09 04:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+Fentanyl and Versed PRN pain/agitation with moderate effect. LS clear, scant secretions, acidosis improving, no vent changes made over noc. See carevue for data. VSS, afebrile, CVP 6-8. HCT stable @ 30, calcium repleated for ionized ca 0.97, am labs pending. abdomen soft and non-distended, Hypo BS, small guiac neg stool x1. Nepro advanced to 30cc/hr, residuals <30cc. Continues with LE edema, large blisters oozing copious amt's of serosang fluid. Xeroform and exudry to affected areas. Pt's skin is very tender, pt. becomes very anxious when attempting any ADL's. Does not tolerate repositioning. Foley drng adeq. amt's of clear. yellow urine. U/A CNS sent. 
+",,
+13965,13741,17370,0,3141-11-09 06:30:00 EST,3141-11-09 06:32:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient remains intubated and ventilated on a/c 700 x 18 40% 5 of peep. Abgs with improving metabolic acidosis, good oxygenation. Breath sounds have scattered expir. wheezes. Given Combivent inhaler q 4 hours and Serevent BID.
+",,
+13965,13741,17370,0,3141-11-09 18:46:00 EST,3141-11-09 18:54:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S CLEAR WITH EXP. WHEEZES THIS PM. NO SECRETIONS. ABG'S HAVE IMPROVED SINCE BICARB GTT.
+GI: CONTINUES ON TF'INGS. UP TO 30CC/HR. 1X MED STOOL THIS AM. NEXT STOOL PLEASE SEND FOR C-DIFF. BS'S HYPOACTIVE. ABD TENDER TO PALPATION.
+RENAL: U/O'S HAVE DECREASED, BUT PT. HAVING COPIOUS AMTS OF INSENSIBLE LOSSES. CREAT 2.5. BICARB GTT DECREASED TO 75CC/HR.
+ENDOC: MG+ AND CA+ REPLETED THIS AM. REPEAT I.CA+ .99. THIS IS BEING REPLETED NOW. MG 1.9. 
+NEURO: MORE AWAKE. VERY AGITATED WITH ANY MOVEMENT. 
+PAIN CONTROL: STARTED ON A FENTYNL GTT THIS AM. PT. APPEARS SLIGHTLY MORE COMFORTABLE, EXCEPT WHILE TURNING. 
+CV: HYPOTENSIVE THIS AM D/T FENT. AND VERSED. GIVEN 500CC FB WHICH RESOLVED THIS. 
+COAGS: INR 1.5 THIS AM. CONTINUE WITH VIT K PO 1 MORE DAY.
+SKIN INTEGRITY: MORE BLISTERS HAVE OPENED AND XEROFOAM APPLIED. SEEN BY ID AND DERM. SEVERAL SMALL SKIN SPECIMENS OBTAINED BY DERM. AREA
+
+ HAS EXPANDED TO LEFT LOWER ABD. 
+ID: vanco given today. need to check poe for further orders re: cultures. 
+social: brother into visit. concerned and supportive. 
+",,
+13965,13741,17370,,3141-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-10**] 11:59 PM
+     US ABD LIMIT, SINGLE ORGAN PORT                                 Clip # [**Clip Number (Radiology) 5116**]
+     Reason: assess for cholecystitis                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old woman with recent cholecystitis s/p percutaneous drainage [**9-1**] 
+      and   IV abx.  Now presents with gram negative sepsis and rising bilirubin.
+     REASON FOR THIS EXAMINATION:
+      assess for cholecystitis                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Gram-negative sepsis and rising bilirubin. History of recent
+     cholecystitis. 
+     
+     RIGHT UPPER QUADRANT ULTRASOUND: Multiple shadowing gallstones and sludge are
+     seen within the gallbladder. In comparison to the prior study of [**3141-9-2**], gallbladder wall thickening has resolved. There is no pericholecystic
+     fluid or significant gallbladder distention. The common duct measures 4 mm
+     proximally and widens up to 9 mm distally. These measurements are unchanged
+     from the prior study. No intrahepatic biliary ductal dilatation has developed.
+     The visualized head and body of the pancreas are normal. Shadowing from
+     gallstones obscures more proximal portions of the common duct and cystic duct.
+     
+     IMPRESSION: Cholelithiasis without evidence of cholecystitis. The gallbladder
+     wall thickening seen on the prior study of [**3141-9-2**] is no longer
+     present. Common duct measurements are unchanged.
+
+",,
+13965,13741,17370,0,3141-11-10 06:21:00 EST,3141-11-10 06:35:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: Pt. mildly sedated on Fentanyl gtt @ 50mcg/hr. Pt. becomes very agitated with any stimulation.
+CV: afebrile, mildly hypotensive at times with repositioning, see carevue for data. HCT 28, Plt's 26, K+ 3.2. Pt. oozing serosang drng from all extremities. Unable to put sterile dsg on aline site d/t constant oozing. BCx2 sent from aline and TLC.
+RESP: LS coarse with occ. I/E wheezes, no vent changes made over noc, see carevue for ABG's. Sputum cx sent, scant amt. of thick, tan secretions.
+GI: Abdomen soft and obese, hypo BS, Mushroom cath in place for liquid stool. Continues on bicarb gtt. TF infusing @ goal with minimal residuals.
+GU: U/o decreased, foley drng small amt's dark yellow urine with sediment. UA and cx sent. 1000cc Fluid bolus given with slight improvement in u/o.
+SKIN: Multiple skin tears from broken blisters on all extremities. Xeroform to open areas and DSD. 
+
+",,
+13965,13741,17370,0,3141-11-10 13:18:00 EST,3141-11-10 13:25:00 EST,579,"N",69,"Nursing/Other","Hypovolemia","
+Hypovolemia
+D: pt having decreased u/o to < 10 ml/hr. urine dark/icteric without sediment. TF residual ~ 600 ml. con't to have liquid stool via mushroom cath. (+) visible fld leak from sq tissue in all blistered locations on U/LE. CVP 3-4. B/P hypotensive with MAP ~ 60
+A:transfused 1 unit PRBC
+IV D5W maint with 150 meq NaHCO3 infusing @ 75ml/hr
+Surgical resident in for consult
+left ft cx sent
+RUQ US to be done
+HO made aware of above info
+R: pt receiving PRBC without incidence, u/o without improvement after PRBC. awaiting US. MAP con't to be low. Brother in to visit and given pt's ring. con't to have large insensible loss.
+
+",,
+13965,13741,17370,0,3141-11-10 17:45:00 EST,3141-11-10 17:54:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NURSING PROGRESS NOTE 11AM-7PM.","
+[**Wardname **] 4 ICU NURSING PROGRESS NOTE 11AM-7PM.
+
+ S/O: At x's pt will attempt to shake & nod to ?'s. UO poor. Dopa started. HR transiently up to 120's. Presently 90's to low 100's AF. SBP down to 80's when turned despite dopa. Receiving 1L NS bolusat present. No improvement in UO. 
+  Continues to ooze copious amts serrous fld from open blistered areas.
+  TF restarted at 10 cc/hr.
+  Afeb
+  Cont on fent gtt. Versed 0.5-1mg.
+A: No sig change.
+P: cont to follow UO.
+   Cont antibx.
+   Skin care as ordered.
+ 
+",,
+13965,13741,17370,,3141-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-11-11**] 7:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5117**]
+     Reason: Please eval for pneumonia                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            76 year old woman with NHL, a fib, OSA with elev R sided pressures into 
+      ED      with worsening bilateral LE edema.  Intubated secondary to metabolic  
+      acidosis
+     REASON FOR THIS EXAMINATION:
+      Please eval for pneumonia                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metabolic acidosis, evaluate for pneumonia.
+     
+     COMPARISON:  AP chest radiograph from [**3141-11-9**].
+     
+     SUPINE AP CHEST RADIOGRAPH:  Again demonstrated are an ETT, right internal
+     jugular central venous line, and feeding tube, positions unchanged.  Stable
+     cardiomegaly is present.  The lungs are overall better inflated on today's
+     study, suggesting a slight improvement in left heart failure.  No focal area
+     of consolidation is present to suggest pneumonia.
+     
+     IMPRESSION:  Slight improvement of left ventricular failure.
+
+",,
+13965,13741,17370,0,3141-11-11 05:25:00 EST,3141-11-11 05:51:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress","
+SMICU nsg progress
+Neuro- Remains on fent gtt at 50mc. Given 100mc boluses with turning. Pt appears very uncomfortable with any care. Fighting against being turned eyes wide open appears in pain especially when touching legs. Not following commands but moving appropriately.
+Cardiac- Bp remains stable 100-120/40-50 with hr 70-90af on dopa at 5.4mc Bicarb gtt at 75/hr. Cont with poor uo despite ns boluses 1000ccx3. Pt cont to lose copious amts fluid from serous drainage legs and arms.
+Resp- Remains intub/vented. No changes made. Stable 02 sats/abg. Suctioned for sm amts thick yellow secretions.
+Gi- Recieving tube feeds at 10cc/hr. By 4am pt with 100cc aspirate. Tube feeds on hold. Cont with hypoactive bs. Putting out sm amts stool via rectal tube stool c-diff sent.
+ID- Remains afebrile on current antibiotics. Still with elevated pt/ptt but hct stable at 35.7.
+Skin- All extremities cont with lg blisters. Left ankle area with purulent drainage. Cont with copious amts serous drainage soaking through pads hourly. Silverdene cream applied unopen areas xeroform applied to open areas
+",,
+13965,13741,17370,0,3141-11-11 17:17:00 EST,3141-11-11 17:32:00 EST,-1,"N",69,"Nursing/Other",,"
+
+CV: Afebrile. Dopamine gtt mx'd thru shift with continued poor u/o of <22 cc/hr despite multiple fluid boluses. SBP 100-130/50-70's, A-fib 60-90's. Copious amount of serous drng continues to all extremities especially LLE. Pads changed Q1-2 hrs, pads saturated; silvadene applied to affected areas. Vascular and dermatology consulting.
+
+Resp; Extubated 1700 hrs by RT after family meeting. Face tent applied, o2 sat 96-99%. Ls clear, diminished to bases. Sodium bicarb gtt d/c'd with initiation of comfort measures.
+
+GI: High residuals overnoc. Synthroid this am via NGT. Abd firm, distended; absent BS
+
+GU: Poor u/o as stated above; urine amber w/ sediment
+
+Comf:  Fent gtt increased to 100mcg/hr at 1600hrs, pt restless and expressing discomfort.  Morphine gtt initiated 10 mg/hr, increased to 14 mg/hr at 1700 hrs.  
+
+Social/MS: Pt fairly alert, opening eyes to speech.  Pastor visited and last rites administered with brother at bedside.  Brother with patient intermittently throughout shift, expressing reasonable concerns/sorrow.  Patient conversing in few words with brother after extubation; pt appears comfortable.  Brother discussing health plans with sister.
+
+Plan: Discontinue aggressive treatment.  Provide emotional support to patient and brother.  Morphine gtt, scopalimine patch.  Pastoral care. 
+Care and comfort, DNR> 
+
+
+",,
+13965,13741,17370,0,3141-11-11 18:50:00 EST,3141-11-11 18:54:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Addendum: Pt resting comfortably with 100 mcg fent gtt and morphine gtt at 14mg/hr. Moving left hand occasionally; opens eyes inconsistently to voice; Face mask provided for comfort. Brother sitting at bedside, appears to be coping appropriately.  Asking appropriate questions.  SBP presently 45/P--taken at brother's request.
+",,
+13965,13741,17370,0,3141-11-12 05:53:00 EST,3141-11-12 06:00:00 EST,-1,"N",69,"Nursing/Other","progress note","
+progress note
+family decision made yesterday for pt to be dnr/comfort measures only. family in room overnight providing emotional support as needed.
+
+neuro- pt withdraws to painful stimuli and utters incomprehensible sounds on occasion with care. pupils equal and sluggishly reactive.
+
+cv- pt in afib sbp 50-60/20-30 overnight. rij for access. 
+
+resp- pt lungs cl and decreased at bases. o2sat>95%.
+
+gi/gu0 pt npo. no stools overnight bowel sounds hypoactive. uo not present at current time.
+
+skin- arms and legs with weeping blisters and skin tears, pads changed beneath pt q4hrs. no labs, meds due except mso4 gtt. will continue to monitor and provide support as needed.
+",,

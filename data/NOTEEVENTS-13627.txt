@@ -1,0 +1,1604 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13627,22992,,,2720-04-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2720-4-15**]       Discharge Date:  [**2720-4-19**]
+
+Date of Birth:   [**2679-3-20**]       Sex:  M
+
+Service:  FICU
+
+HISTORY OF PRESENT ILLNESS:  This is a 41-year-old male with
+diabetes mellitus type I admitted in diabetic ketoacidosis.
+The patient reports going on a drinking binge two to three
+days prior to admission and stopped taking his insulin during
+this time.  He states that he knew ""something was wrong when
+I was in the alley drink a quart of beer and it kept coming
+back up.""  He has been vomiting frequently for the past few
+days, occasionally with coffee ground material.  He also
+reports dry cough and mild abdominal pain.  He denies fever,
+chills, diarrhea, bright red blood per rectum, melena, chest
+pain or shortness of breath.
+
+The patient was brought to the Emergency Department three
+times in the week prior to admission and reportedly left
+against medical advice as soon as he started feeling better.
+He was brought back to the Emergency Room on the day of
+admission by his group home for continued nausea and
+vomiting.  His initial labs showed a glucose 296 and a
+bicarbonate of 8 with an anion gap of 38.  He was given 1
+liter of normal saline and started on an insulin drip in the
+Emergency Room.  The patient had approximately 400 cc of
+coffee ground emesis in the Emergency Department and a
+nasogastric lavage was done which cleared with approximately
+200 cc of fluid.  The patient was transferred to the FICU for
+further management.
+
+PAST MEDICAL HISTORY:
+1.  Significant psych history status post many
+hospitalizations and multiple suicide attempts.
+2.  History of schizophrenia versus personality disorder
+3.  History of alcohol abuse with history of alcohol abuse
+with history of withdrawal seizures and DTs
+4.  Antisocial personality disorder
+5.  Diabetes mellitus type I
+6.  History of peptic ulcer disease
+7.  Status post appendectomy
+8.  History of seizure disorder (unclear if this was only in
+the setting of withdrawal)
+
+ADMISSION MEDICATIONS:
+1.  Tetracycline 500 mg po bid
+2.  Vitamin E
+3.  Multivitamin
+4.  Benzoyl peroxide
+5.  Aciphex 20 mg po q day
+6.  Insulin 70/30 38 units q a.m.
+7.  NPH insulin 8 units q hs
+8.  Regular insulin sliding scale
+9.  Enteric coated aspirin
+10. Colace
+11. Clozaril
+12. Paxil
+13. Clonazepam
+14. Lactulose
+
+ALLERGIES:  THE PATIENT REPORTS ALLERGIES TO NAVANE AND
+HALDOL WHICH CAUSE HIM TO BECOME ""STIFF AT HOT.""
+
+FAMILY HISTORY:  Sister and aunt with diabetes.
+
+SOCIAL HISTORY:  The patient is divorced.  He has lived in a
+group home for approximately two weeks after a seven year
+hospitalization in the .............. Hospital.  He smokes
+one pack tobacco per day.  He is a heavy alcohol user.
+
+ADMISSION LABS:  White count 22.7 with 22% neutrophils, 3.8%
+lymphocytes and 3.9% monocytes, hematocrit of 33.3 and
+platelets to 231.  His PT was 12.9.  His PTT 22.2, INR of
+1.2.  Chem-7 was 140, 4.3, 98, 8, 13, 1.0, 296 with an anion
+gap of 38.  His urinalysis showed trace blood, 500 glucose,
+greater than 80 ketones, 0 to 2 red blood cells, 0 to 2 white
+blood cells and occasional bacteria.  His alcohol level was
+71.
+
+IMAGING:  A chest x-ray was done which was within normal
+limits.  An electrocardiogram showed sinus tachycardia at a
+rate of 120, normal axis, normal intervals, wavy baseline.
+T-wave flattening in leads V6, 3 and AVF which was unchanged
+when compared to the electrocardiogram from [**2720-3-15**].
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  ENDOCRINE:  The patient was admitted to the Intensive
+Care Unit primarily for management of his diabetic
+ketoacidosis.  The patient was treated with an insulin drip
+and aggressive hydration and his lab valves corrected over
+the first night of admission.  By the following morning, his
+anion gap was closed to 18 and he was started on subcutaneous
+insulin and his insulin drip was discontinued.  His potassium
+and phosphate were aggressively repleted.  At the time of
+discharge, the patient is still receiving NPH 10 units
+subcutaneous bid plus a regular insulin sliding scale.  This
+is markedly less insulin than his outpatient requirement,
+however the patient has not been taking a lot of po intake
+during this hospitalization.
+
+2.  INFECTIOUS DISEASE:  The patient had an elevated white
+count with a left shift at presentation.  He never developed
+any signs or symptoms of infection.  All cultures were
+negative.  It was felt that this patient's diabetic
+ketoacidosis was likely secondary to medications on
+compliance and not triggered by an infectious process.
+
+3.  GASTROINTESTINAL:  The patient has a history of peptic
+ulcer disease and presented with a mild upper
+gastrointestinal bleed.  This was represented by a hematocrit
+down to 33 from 42 in [**2720-3-15**].  This was felt to be
+likely a gastritis secondary to chronic alcohol use and daily
+aspirin.  The patient was treated with Protonix bid.  His
+hematocrit remained stable throughout the hospitalization.
+The gastrointestinal service was consulted and they felt that
+conservative management was appropriate unless the clinical
+deterioration was seen.  The patient should continue his
+Protonix bid and can follow up with gastrointestinal as an
+outpatient.
+
+4.  CARDIOVASCULAR:  On [**4-17**], the patient developed
+""crushing"" chest pain.  This however resolved with treatment
+with Maalox.  The patient's cardiac enzymes were cycled and
+were negative.  There were no electrocardiogram changes with
+this event.
+
+5.  PSYCHIATRY:  The patient was brought to the Emergency
+Department under section 12 and was monitored on a 1:1 sitter
+during the hospitalization due to threats of wheezing, AMA.
+The patient was continued on his home psychiatric medication
+regimen.  He also was monitored with a CIWA scale, but
+required very little extra benzodiazepines during the
+admission.  The psychiatry service in conjunction with the
+patient's primary physician, [**Name10 (NameIs) **] arranged for the patient to
+enter a dual diagnosis rehabilitation at discharge.
+
+DISCHARGE DIAGNOSIS:
+1.  Diabetic ketoacidosis
+
+DISCHARGE CONDITION:  Medically stable for discharge to dual
+diagnosis psychiatric/substance abuse rehabilitation.
+
+DISCHARGE MEDICATIONS:
+1.  Protonix 40 mg po bid
+2.  Multivitamin
+3.  Lamictal 75 mg po tid
+4.  Colace 100 mg po bid
+5.  Clonazepam 1 mg po tid
+6.  Paxil 20 mg po q day
+7.  Clozapine 125 mg po bid
+8.  Thiamine
+9.  Folate
+10. NPH 10 units subcutaneous bid
+11. Regular insulin sliding scale
+12. Lopressor 12.5 mg po bid
+
+
+
+
+                       [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 617**], M.D.  [**MD Number 618**]
+
+Dictated By:[**Last Name (NamePattern1) 9405**]
+MEDQUIST36
+
+D:  [**2720-4-19**]  13:39
+T:  [**2720-4-19**]  13:44
+JOB#:  [**Job Number 9406**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2720-4-20**] 1:47 PM
+(End of Report)
+
+
+",,
+13627,22992,,,2720-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-4-15**] 1:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2002**]
+     Reason: 41 y/o man w/ etoh intox and iddm w/ elevated glucose and ac
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with 
+     REASON FOR THIS EXAMINATION:
+      41 y/o man w/ etoh intox and iddm w/ elevated glucose and acidosis and elevated
+      wbc 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  ETOH, IVDM.  Elevated glucose and acidosis, elevated white blood
+     count. 
+     
+     PA AND LATERAL CHEST:
+     
+     COMPARISONS:  [**2717-4-1**].
+     
+     FINDINGS:  Cardiac silhouette, mediastinal contour, pulmonary vasculature are
+     normal in appearance. There are no pleural effusions or focal parenchymal
+     opacities.  No pneumothorax is present and the visualized osseous structures
+     are within normal limits.
+     
+     IMPRESSION:   No acute cardiopulmonary disease.
+
+",,
+13627,22992,,,2720-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-4-15**] 5:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2003**]
+     Reason: 41 y/o s/p central line placement evaluate for pneumothorax
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with 
+     REASON FOR THIS EXAMINATION:
+      41 y/o s/p central line placement evaluate for pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Central line placement.
+     
+     Comparison is made to study from four hours previously.
+     
+     PORTABLE AP CHEST:
+     An NG tube is seen coursing to the diaphragm and curling up with tip in the
+     fundus of the stomach. A right-sided IJ central venous line is seen with tip
+     terminating in the lower SVC. Heart size, mediastinal contours and lung fields
+     are unchanged. There are no new consolidations. There is no pneumothorax. The
+     pulmonary vasculature is within normal limits.
+     
+     IMPRESSION:
+     1. Interval placement of right-sided central line without pneumothorax.
+
+",,
+13627,22992,16960,0,2720-04-15 17:14:00 EST,2720-04-15 17:21:00 EST,379,"N",69,"Nursing/Other","MICU/SICU ADMIT NOTE (BRIEF)","
+MICU/SICU ADMIT NOTE (BRIEF)
+
+41 yo man w/ h/o ETOH abuse, being trasnferred from ED in  DKA.
+
+Apparently he left the group home ,stopped taking his meds and began drinking. Found and brought to ED. Pt was sectioned 12. Has security sitters. BS 345, HCO3 8 and he was intoxicated. Hct 33. Some N/V (coffee grds) in ED but no change in Hct at this time. Started on Insulin gtt. Most recent BS 258 on 2u/hr. RIJ placed. T 101. Given Ativan x2 for ? ETOH withdrawal. ETA ~1900. Details to follow.
+",,
+13627,22992,16960,0,2720-04-16 04:16:00 EST,2720-04-16 04:27:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT ARRIVED AT 1900- INSULIN GTT AT 2U/HR.  PT A&OX3, MAEW THOUGH SHAKILY.  NG IN PLACE, RIJ CATH IN PLACE VERIFIED BY RADIOLOGY.  LUNGS CLEAR, SATS WELL ON RA.  ABD SOFT, NONTENDER, NG TO LCS.  GOOD UOP-VOIDS CLEAR YELLOW; PT REFUSED FOLEY CATH. INSULIN GTT AND IVF CHANGES MADE ACCORDING TO SUBSEQUENT BG VALUES.  ATIVAN IV GIVEN SEVERAL DOSES FOR SHAKING.  PT VERY THIRSTY-CONTINUES TO TAKE COPIOUS  AMTS OF ICE CHIPS PO.  REHYDRATED WITH APPROX. 4L FLUIDS (NS IN ED, D5NS/40MEQ KCL IN UNIT.  IVF CONT AT 250/HR.  PT REMAINS CALM AND COOPERATIVE WITH CARE.
+",,
+13627,22992,16960,0,2720-04-16 07:22:00 EST,2720-04-16 07:33:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Initial assessment 7a-7p:
+Pt laying supine with eyes closed. Easily arousable to voice and follows commands and orientedx3.  Hands with a shaky during purposeful movements. PEARL.  VSS with temp of 99.8 orally.  Lungs clear bilaterally and of RA with sats 92-95%.  Abdomen soft with bowel sounds all quads. No BM.  NGT checked for placement with air bolus and flushed with 20cc H2O and coffee ground color noted as drainage.  Patient states abdomen is achy and repositioned with no verbal response to activity. Pt just laying supine with eyes closed.  Pt states to using urinal at bedside for voiding and having no desire to void at this time.  Skin dry and intact.  RIJ TLC in place and dsg changed.  D5NS at 250cc/hr with insulin gtt at 2U/hr going at this time and 1st 10Units NPH SQ given at 0800 via orders.  BS 182 at 0800. Monitors checked and activating.  No family at bedside nor no phone calls.
+",,
+13627,22992,16960,0,2720-04-16 17:43:00 EST,2720-04-16 17:56:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Narrative Update from 7a-7p:
+Neuro:  Alert and orient x3. MAE to command, PEARL,and denies dizziness.  CIWA scale 9-4 and only alcohol withdrawal symptom is some tremors of hands when asked to hold out.
+Cardio: Blood pressure stable and temp. 99.8 for high. ST with no extopy.  Denies CP.
+Pulm: Lungs clear bilaterally and sats 92-94% on RA while asleep and up to 97% on RA while awake.
+GI:  NGT taken out around 1100 and tolerated well with no nausea/vomiting and drinking fluids and po meds well.  Pt states, ""I am not hungry and only want some ginger ale.  No BM and BS are positive x 4 quads.
+GU:  Voids without difficulty via urinal and clear yellow.  Patient tends to void at 3-5hr intervals.
+I.V.  Taking BS every 4 hr via orders and sliding scale and sliding scale regarding I.V fluids.  Now on D5NS with 20mEqKCL at 250cc/hr via RIJ/TLC.  
+Psych. consult today and is considered a section 12 and sitter at bedside.  Pt depressed and anxious at times with 2mg ativan I.V given once at 1430.  Room has been called out since late morning and no room as of yet.
+",,
+13627,22992,16960,,2720-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-4-17**] 10:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2004**]
+     Reason: R/O INFILTRATE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with DM, CHEST PAIN
+     REASON FOR THIS EXAMINATION:
+      R/O INFILTRATE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Chest pain, patient with diabetes.
+     
+     The heart is normal in size, and the lungs are clear and fully expanded. The
+     right IJ line is again noted. There is no appreciable change in the chest
+     since [**2720-4-15**].
+     
+     IMPRESSION: There are no acute changes.
+
+",,
+13627,22992,16960,0,2720-04-17 04:37:00 EST,2720-04-17 04:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: Pt. is A&Ox3, flat affect, follows commands appropriately, MAE. CIWA scale Q2/hrs, no ativan required t/o noc. Minimal tremors noted. Pt. sleeping most of noc.
+CV: afebrile, HR 88-109, NBP 121-141/71-88, pt. c/o non-radiating, crushing chest pain, 6.5/10 pain scale, MD aware. EKG obtained, nitroglycerin given x2, Maalox given x1 with some relief ([**2728-2-16**]). Phos 0.7 - repleated with KPHOS 15mmol IV over 6 hours x2.
+RESP: 4LO2 applied, POX 91-100%. Denies SOB. returned to RA. LS clear bilat.
+GI: abdomen soft and non-distended, +BS, no stool this shift. Q4hr BS covered with sliding scale. Sliding scale for IVF followed, see carevue. 
+GU: Pt. voids lg. quantities, clear, yellow urine Q6-8hrs. 
+PSYCH: sitter @ bedside
+",,
+13627,22992,16960,0,2720-04-17 16:38:00 EST,2720-04-17 17:03:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nurse note 7a-7p:
+Neuro: A@Ox3. More agitated and anxious today.  No tremors,no N/V,or dizziness. Up to chairx1 for only 10min and tolerated. Flat mood and had not wanting to do anything but go to ""his group home"".
+Cardio: Pt. complained to MD's during rounds about CP and given Maalox x1 and EKG done. No changes noted on EKG and pain subsided to 0 on 0-10scale. Afebrile. ST/NSR no ectopy and BP stable.
+Pulm: Lungs clear bilaterally. Sats 93-98% on RA. Dry cough noted. Nose stuffy with scant amount of bloody drainage noted this am with sneezing. CXray done--pending results.
+GI: No N/V, no BM and +BSx4quads.  Pt still refusing to eat.  ""I'm not hungry"".  Pt did drink a couple of ginger ale sodas and swallowed po meds without difficulty.
+GU: Voids via urinal and still on negative end of I/O's.
+Blood sugars 180's-210.  NPH and regular insulin ordered. Pt. now back on the NSwith 20mEqKCL @250cc/hr.  Phos at 1100-1.2 and K-3.6.  40mEqKCL IVBPX1 given and a total of 30mmol K-Phos IV given and next Chem Panel draw at 1900.  CPK at 1300--728 and Troponin--<0.03  Sitter at bedside [**Name8 (MD) 17**] MD's orders and throughout hospital stay.  Psych. doctor came to see patient today and plan is to not being able to send patient back to pre-hospital living status and send to a mental [**Hospital1 **]. See also ICU event notes for today for further data.
+",,
+13627,22992,16960,0,2720-04-18 03:44:00 EST,2720-04-18 04:04:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: Pt. sleeping most of noc, easily arousable, Ox3, MAE. Flat affect. CIWA scale Q2 hrs. No Ativan required t/o noc.
+CV: afebrile, vss, see carevue for data. Phos. 1.3 - repleated with KPHOS IV over 6 hrs, am Phos 2.2. PO Lopressor started per order, denies any chest pain.
+RESP: LS clear, bilat, denies SOB, POX 95-100%RA, dry, non-productive cough noted.
+GI: abdomen soft and non-distended, no BM over noc, started taking small amt of po, tolerated well. RISS, Q4hr fingersticks, IVF sliding scale as per order.
+GU: voiding lg. quantities of clear, yellow urine.
+PSYCH: sitter at bedside.
+
+
+",,
+13627,22992,16960,0,2720-04-18 16:32:00 EST,2720-04-18 16:49:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Narrative note 7a-7p:
+Neuro: A&Ox3.Up in chair for breakfast and lunch without difficulty and tolerated well.  Denies dizziness, HA.  Calm and cooperative most of day until around 1515 and became alittle anxious and wanting to know when he can go to his group home.  Reinforcement on education given verbally on status, anxiety meds, blood sugars, and nutrition. Patient verbalized understanding with reinforcement needed prn.
+Cardio: VSS, afebrile. SR with no ectopy. Denies CP.  I.V changed to NS at 100cc/hr and TKO if po>2000/day.  RIJ in place and intact with some slight on blood noted under tegaderm.
+Pulm: RA and sats 97-99% and lungs clear bilaterally and SOB noted.
+GI: Ate 50% of Bkfst and 30% lunch and 75% dinner.  No BM and no N/V.
+GU: Voiding via urinal clear yellow without difficulty.
+Skin intact with no skin breakdown noted.  Prolixin 2.5mg IM given X1 for anxiety along with verbaly education about med and post results-good.  Sitter at bedside.  Pt now watching television and content.  Blood sugars under control with the NPH and sliding scale--see flowsheet for further data.  Bed in lowest to ground position, and monitors checked and activating.  No family/visitors nor no phone calls.
+",,
+13627,,16960,0,2720-04-19 04:50:00 EST,2720-04-19 05:01:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: A&Ox3, follows commands with encouragement, needs enc. to perform any ADL's. CIWA scale as ordered, no Ativan required t/o noc.
+CV: tmax: 100.1, vss see carevue for data, continues on lopressor po 
+RESP: LS clear, POX 93-98%RA, denies SOB
+GI: abdomen soft and distended, +BS, stool x2, taking some po's, NS@ 100cc/hr. RISS.
+GU: voiding large quantities of amber urine Q 6-8 hrs.
+PSYCH: sitter at bedside.
+",,
+13627,,,,2720-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-4-20**] 7:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2005**]
+     Reason: to assess for infiltrates
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with history of diabetes mellitus, presents with DKA.  please
+      assess for infiltrates.  page [**Doctor First Name 2006**] [**Doctor First Name 2007**] [**Pager number 2008**] with questions.
+     REASON FOR THIS EXAMINATION:
+      to assess for infiltrates
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of diabetes, presents in DKA.  Assess for infiltrates.
+     
+     COMPARISON:  [**2720-4-15**].
+     
+     PA AND LATERAL CHEST:  The heart, mediastinal and hilar contours are within
+     normal limits.  The lungs are clear.  There are no effusions.  The pulmonary
+     vascularity is normal.  On review of osseous structures there is a wedge
+     deformity of a mid-thoracic vertebral level, not changed.
+     
+     IMPRESSION:  No evidence of pneumonia.
+     
+
+",,
+13627,18679,,,2720-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-5-5**] 8:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2009**]
+     Reason: 41 y.o with incr. WBC and DKA  - r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with 
+     REASON FOR THIS EXAMINATION:
+      41 y.o with incr. WBC and DKA  - r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diabetes keto acidosis.
+     
+     COMPARISON:  [**2720-4-20**]
+     
+     AP PORTABLE SEMI-UPRIGHT CHEST:  NG tube is coiled in the fundus of the
+     stomach.  The cardiac and mediatinal contours are unchanged.  The lungs are
+     clear and there are no effusions.  The pulmonary vascularity is normal.
+     
+     IMPRESSION:  No pneumonia.
+     
+
+",,
+13627,18679,16961,0,2720-05-05 17:44:00 EST,2720-05-05 18:00:00 EST,1729,"N",69,"Nursing/Other","MICU nsg progress note","
+MICU nsg progress note
+Endo: Pt initially on D5NS @ 200cc/hr and Insulin gtt at 3u/hr. BS 130 > 77  Insulin decreased to 1u/hr. Agap 20 > 16 by 4pm. Pt given SQ regular insulin and gtt stopped 1 hr later. IVF decreased to 100cc/hr. BS 103 at present off Insulin gtt. Pt ordered for diabetic diet but is refusing food.
+CV: BP 120-130s/, HR 97-104 ST
+GU: Foley draining clear yellow urine. u/o 60cc/hr.
+ID:Pt with low grade temps. WBC 20 on admission. 
+GI: Repeat HCT 27.4 No residual from NGT, Pt denies nausea or abd pain. NGT d/c'd. cont on Protonix. 
+Neuro:Pt a&o x3. Pt on CIWA for Alcohol. Pt c/o feeling very anxious, noted with mild tremors and low grade temp. No other symptoms of withdrawal noted. Pt restarted on usual meds.  Pt c/o also feeling very depressed but denies suicidal ideation, states binge was not suicide attempt.
+Social/D/C planning: Per [**Name6 (MD) 317**] attending MD pt will probably not be able to return to group home. Social services consulted. MD requesting team meeting to discuss disposition. 
+Plan: follow BS q4hs, cover per sliding scale. Hold NPH for now because pt not eating. Repeat lytes this evening at 8pm. Pt will need sitter if transfered out of ICU.
+",,
+13627,,,,2720-05-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-5-23**] 7:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2010**]
+     Reason: ? infiltrates.                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with  schizoprenia, DM, with chest pain and shortness of 
+      breath. 
+     REASON FOR THIS EXAMINATION:
+      ? infiltrates.                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Schizophrenia, diabetes, chest pain, and shortness of breath.
+     Rule out infiltrates.
+     
+     COMPARISON:  [**2720-5-5**].
+     
+     SINGLE VIEW CHEST:  The cardiac and mediastinal contours appear normal.  The
+     lungs are clear.  There are no pleural effusions.  There is slight elevation
+     of the left hemidiaphragm which may be secondary to volume loss.  The
+     pulmonary vasculature appears normal.
+     
+     IMPRESSION:  No evidence for pneumonia or failure.
+
+",,
+13627,,,,2720-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-5-29**] 12:08 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2011**]
+     Reason: R/O bleed. 41 year old male with history of IDDM, mulitple h
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with 
+       
+      As above.
+     REASON FOR THIS EXAMINATION:
+      R/O bleed. 41 year old male with history of IDDM, mulitple head injuries and
+      seizure disorder found conscious but unresponsive on bathroom floor by
+      roommate.  Pt does not remember incident.  He has an abrasion in occipital
+      region.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 41 yr old man with hx of multiple head injuries and seizure
+     disorder.  Found unresponsive with occipital region abrasion.  Evaluate for
+     intracranial hemorrhage.
+     
+     CT HEAD:
+     
+     TECHNIQUE: Contiguous axial images were obtained from the foramen magnum
+     through the cranial vertex without the administration of IV contrast.
+     
+     COMPARISON: None
+     
+     FINDINGS: No intra or extra-axial hemorrhage is identified. There is no mass
+     affect or shift of normally midline structures. The CSF spaces are prominent
+     consistent with atrophy of the brain, somewhat out of proportion to what would
+     be expected in a patient of this age. There is normal [**Doctor Last Name 63**]/white matter
+     differentition and no large vascular territorial infarcts are seen. Note is
+     made of prominent cisterna [**Last Name (LF) 2012**], [**First Name3 (LF) **] incidental finding. A small amount of
+     soft tissue swelling is present over the left occipital region but no
+     underlying fractures are identified.
+     
+     IMPRESSION: No CT evidence of acute intracranial hemorrhage.
+     
+
+",,
+13627,,,,2720-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-6-5**] 4:41 PM
+     ANKLE (AP, MORTISE & LAT) RIGHT                                 Clip # [**Clip Number (Radiology) 2013**]
+     Reason: Fell this AM and ankle currently swollen and tender
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with ETOH dependence reports having a ""seizure"" which appears
+      to be more consistent with pseudoseizure.
+     REASON FOR THIS EXAMINATION:
+      Fell this AM and ankle currently swollen and tender
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ANKLE THREE VIEWS:
+     
+     HISTORY:  Swelling and tenderness following seizure.
+     
+     There is soft tissue swelling laterally and an oblique fracture of the lateral
+     malleolus with minimal lateral displacement.  The mortise is congruent.  There
+     is a ? avulsed linear fragment of the medial aspect of the medial malleolus.
+
+",,
+13627,,,,2720-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-6-5**] 9:31 PM
+     ANKLE (AP, MORTISE & LAT) RIGHT                                 Clip # [**Clip Number (Radiology) 2014**]
+     Reason: s/p ankle fx splinting.  Assess alignment.  Make sure to get
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with ankle fx.
+     REASON FOR THIS EXAMINATION:
+      s/p ankle fx splinting.  Assess alignment.  Make sure to get good mortise view,
+      thanks. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT ANKLE, 3 VIEWS:
+     
+     HISTORY:  Fracture with cast placement.
+     
+     Nondisplaced fracture lateral malleolus.  The mortise is congruent.  Linear
+     density seen adjacent to the medial malleolus on prior films is not identified
+     on the current study but detail is obscured by the cast.
+
+",,
+13627,,,,2720-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-6-7**] 11:02 AM
+     ANKLE (AP, MORTISE & LAT) RIGHT                                 Clip # [**Clip Number (Radiology) 2015**]
+     Reason: follow-up exam of bimaleolar fracture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with ankle fx.
+     REASON FOR THIS EXAMINATION:
+      follow-up exam of bimaleolar fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Followup bimalleolar fracture.
+     
+     COMPARISON:  [**2720-6-5**].
+     
+     The plaster cast has been replaced by fiberglass cast. Again seen is the
+     oblique fracture of the distal fibula, best appreciated on the lateral mortise
+     views. There is minimal lateral off set of the distal fragment on the mortise
+     view.  Overall alignment is anatomic.  The mortise is preserved. Overlying
+     soft tissue swelling is noted.
+     
+     IMPRESSION:   Oblique fracture distal fibula in overall anatomic alignment.
+     See comment.
+
+",,
+13627,,,,2720-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-6-16**] 11:35 AM
+     ANKLE (AP, MORTISE & LAT) RIGHT                                 Clip # [**Clip Number (Radiology) 2016**]
+     Reason: PAIN/FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pain.
+     
+     RIGHT ANKLE, THREE VIEWS:  A cast is seen in place, obscuring the visualized
+     bony and soft tissue structures.  A complete fracture is noted in the right
+     distal fibular, likely extending to the articular surface.  There is no
+     significant displacement.  A small amount of callus formation is noted,
+     consistent with interval healing.  A small osseous fragment is noted adjacent
+     to the right medial malleolus, which may represent a small fracture.  The
+     ankle mortise is preserved.
+
+",,
+13627,,,,2720-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-7-20**] 9:26 AM
+     ANKLE (AP, LAT & OBLIQUE) RIGHT                                 Clip # [**Clip Number (Radiology) 2017**]
+     Reason: CHECK FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fracture f/u.
+     
+     THREE VIEWS OF THE RIGHT ANKLE show a subacute fracture of the distal fibula
+     extending into the ankle joint.  There is probable cortical avulsion fracture
+     off the anteromedial portion of the distal tibia.  Suboptimally visualized
+     ankle mortise appears congruent with the talus.  No comparison exams.
+     
+
+",,
+13627,,,,2720-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-7-27**] 12:03 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 2018**]
+     Reason: N/V
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with s/p appy remote, now n/v, no bm 1 wk on colace/lactulose\
+     REASON FOR THIS EXAMINATION:
+      eval for SBO vs. constipation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Abdominal pain, constipation.
+     
+     TECHNIQUE: Two views of the abdomen.
+     
+     There are no prior studies for comparison.
+     
+     FINDINGS: A large amount of stool and air are seen throughout the colon.  No
+     air-fluid levels are seen.  There is no free air in the abdomen. There is an
+     oval calcification in the right hemiabdomen which probably represents a pill.
+     No other calcifications are seen although they may be obscured by the amount
+     of stool.  The bones are unremarkable.
+     
+     IMPRESSION: No evidence of bowel obstruction.
+
+",,
+13627,,,,2720-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-8-6**] 3:08 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 2019**]
+     Reason: assess for SBO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with constipation and N/V
+     REASON FOR THIS EXAMINATION:
+      assess for SBO
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Supine and upright abdominal radiographs from [**2720-8-6**] at 15:29.
+     
+     INDICATION:  Constipation and nausea and vomiting.
+     
+     FINDINGS:  Stool is seen throughout the large intestine and through to the
+     rectum.  There are no dilated loops of small bowel or air-fluid levels.  The
+     splenic flexure is distended up to 8 mm.  No free air is identified.  The
+     osseous structures are unchanged.  There are no abnormal calcifications.
+     
+     IMPRESSION:
+     
+     1) No evidence of obstruction.
+     
+     2) Stool seen throughout the colon.
+
+",,
+13627,,,,2720-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-8-27**] 5:53 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2020**]
+     Reason: r/o pna/infiltrates in 41 yo homeless patient s/p etoh withd
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with diabetes and etoh abuse
+     REASON FOR THIS EXAMINATION:
+      r/o pna/infiltrates in 41 yo homeless patient s/p etoh withdrawal
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P ETOH withdrawal and diabetes.
+     
+     PA and lateral radiograph dated [**2720-8-27**] is compared with the AP radiograph
+     dated [**2720-5-23**].
+     
+     The cardiac and mediastinal contours are normal.  The lungs appear clear.
+     There are no pleural effusions.  The pulmonary vascularity is normal.  Soft
+     tissues are unremarkable. There is slight loss of height of the T6 and T9
+     vertebral bodies. The alignment is maintained.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary disease.  Loss of height of
+     vertebral bodies as described above.
+
+",,
+13627,,,,2720-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-8-27**] 7:16 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 2021**]
+     Reason: r/o pneumoperitoneum/obstruction in pt with vomiting and abd
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with etoh abuse, seizure d/o
+     REASON FOR THIS EXAMINATION:
+      r/o pneumoperitoneum/obstruction in pt with vomiting and abdominal pain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: ETOH abuse. Seizure disorder. Vomiting, abdominal pain.
+     
+     COMPARISON: [**2720-8-6**].
+     
+     ABDOMEN, SUPINE AND ERECT: There is stool throughout the colon.  The bowel gas
+     pattern is nonspecific. There is no free air.  Osseous structures are
+     unremarkable. There are no abnormal calcifications.
+     
+     IMPRESSION: No evidence of obstruction. Stool throughout the colon.
+     
+
+",,
+13627,,,,2720-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2720-9-15**] 10:17 PM
+     FOOT AP,LAT & OBL LEFT PORT                                     Clip # [**Clip Number (Radiology) 2022**]
+     Reason: Rule Out fracture of Left great toe                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Pt may travel with transport alone.                                             
+     REASON FOR THIS EXAMINATION:
+      Rule Out fracture of Left great toe                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     LEFT FOOT, 3 VIEWS:
+     
+     History of injury and pain in left great toe.
+     
+     There is a fracture with small avulsed fragment off the dorsomedial aspect of
+     the base of the proximal phalanx.
+
+             DR. [**First Name8 (NamePattern2) 2023**] [**Last Name (NamePattern1) 2024**]
+",,
+13627,,,,2721-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13627,15118,,,2721-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-22**] 6:01 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2025**]
+     Reason: FEVER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever.
+     
+     CHEST, TWO VIEWS:  Comparison [**2720-8-27**].  There is a right subclavian line with
+     tip in the inferior SVC.  There is no pneumothorax.
+     
+     The cardiac silhouette is partially obscured but appears to have significantly
+     increased in size since the prior exam.  This could be related to adjacent
+     parenchymal consolidation.  There is dense consolidation in the left lower
+     lobe and likely also in the lingula, new from the prior exam.  There is a new
+     left effusion and elevation of the left hemidiaphragm.  In addition, there is
+     increased soft-tissue density in the region of the AP window with deviation of
+     the trachea/carina to the right.  There is mild vascular prominence in the
+     right lung, which is otherwise clear without focal consolidation or pleural
+     effusion.
+     
+     There is diffuse bony demineralization and loss of height of a few mid and
+     lower thoracic vertebral bodies.
+     
+     IMPRESSION:  Dense consolidations in the left lower lobe and lingula with
+     associated volume loss and new left effusion.  Possible left hilar/AP window
+     mass with secondary deviation of the trachea to the right.  Equivocally
+     enlarged cardiac silhouette vs. apparent enlargement due to adjacent
+     parenchymal consolidation.  These findings are all new since the prior exam,
+     and CT scan is recommended for further evaluation.
+     
+     Findings discussed by telephone with Dr. [**Last Name (STitle) 2026**] in the Emergency Room at
+     7:20 on [**2721-2-22**].
+     
+     
+     dtf
+
+",,
+13627,15118,,,2721-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-23**] 7:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2029**]
+     Reason: chest tube placed, empyema                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with LLL PNA and large L loculated effusion on Chest CT        
+     REASON FOR THIS EXAMINATION:
+      chest tube placed, empyema                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Interval chest tube placement.
+     
+     TECHNIQUE: Portable AP chest.
+     
+     COMPARISON: Exam performed 2 hours earlier.
+     
+     FINDINGS: Central venous catheter is in stable position. There has been
+     interval placement of a large left basilar chest tube. There is no
+     pneumothorax. A moderate sized, partially loculated pleural effusion is again
+     present and appears slightly smaller in size in the interval. There is
+     persistent rightward shift of the heart due to adjacent loculated effusion.
+     There is a persistent retrocardiac density, likely representing compression
+     atelectasis vs. pneumonic consolidation.
+     
+     IMPRESSION: Interval placement of large bore left-sided chest tube with
+     subsequent slight decrease in size of moderate sized partially loculated left
+     pleural effusion.
+
+",,
+13627,15118,,,2721-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-23**] 6:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2028**]
+     Reason: r/o PTX                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with LLL PNA and large L loculated effusion on Chest CT s/p 
+      L-sided thoracentesis 
+     REASON FOR THIS EXAMINATION:
+      r/o PTX                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Assess for pneumothorax following thoracentesis.
+     
+     TECHNIQUE: AP upright portable chest radiograph.
+     
+     COMPARISON: [**2721-2-22**].
+     
+     FINDINGS: The right IJ catheter is in stable position within the distal SVC.
+     There is no evidence of pneumothorax. There is a persistent partially
+     loculated left pleural effusion adjacent to the left heart border with
+     rightward shift of the heart. There has been no significant change in the size
+     or extent of the effusion. There is a persistent retrocardiac density, likely
+     secondary to compressive atelectasis from the large effusion. A pneumonic
+     consolidation cannot be excluded. The right lung appears grossly clear.
+     
+     IMPRESSION: 1) No evidence of pneumothorax.
+     2) Stable appearance of moderate sized, partially loculated left pleural
+     effusion.
+     3) Persistent retrocardiac opacity.
+
+",,
+13627,15118,,,2721-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-23**] 2:36 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 2027**]
+     Reason: cardiomegaly, AP mass? on CXR, post obstructive pna ???malig
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with etoh and CXR several days ago without findings.            
+     REASON FOR THIS EXAMINATION:
+      cardiomegaly, AP mass? on CXR, post obstructive pna ???malignancy. please 
+      perform in am [**2721-2-23**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITH CONTRAST, [**2-23**]:
+     
+     INDICATION:  ETOH and new mass on chest x-ray.
+     
+     TECHNIQUE:  Axial chest CT was performed following administration of 100 cc of
+     Optiray.
+     
+     CT CHEST WITH CONTRAST:  There is a large left-sided pleural fluid collection
+     which has multiple loculations both anterior and posterior.  The fluid
+     demonstrates [**Doctor Last Name **] of 20, suggesting either exudate or an element of hemothorax.
+     The effusion causes mass effect and deviates the mediastinal structures to the
+     right.  There is atelectasis of the left lower lobe.  An element of pneumonia
+     within this atelectasis.  The remaining portions of the left upper lobe are
+     predominantly clear.  There is ground-glass attenuation involving most of the
+     right upper lobe and right middle lobe.  This is likely due to pneumonia or
+     aspiration.  The right lower lobe is clear.  There is no right-sided effusion.
+     
+     A right-sided subclavian line terminates in the proximal right atrium.
+     Assessment for mediastinal lymphadenopathy is difficult given rightward shift
+     of mass effect.  However, there may be a subcarinal lymph node measuring 2.6 X
+     1.5 cm.
+     
+     Bone windows reveal an acute rib fracture involving the lateral aspect of the
+     left 7th rib, with asymmetric thickening of the chest wall musculature
+     suggesting an acute hematoma.  It is suspected that the left-sided effusion is
+     a hemothorax due to this acute fracture.  There is no evidence of suspicious
+     lytic or blastic skeletal lesions.
+     
+     Limited evaluation of the upper abdomen reveals no abnormalities of the
+     partially imaged liver, spleen, or adrenals.  Please note however that these
+     organs are only partially imaged on this chest exam.
+     
+     IMPRESSION:
+     1)  Loculated left-sided hemothorax.  Hemothorax is considered most likely
+     given the close proximity to the acute left rib fracture with surrounding
+     hematoma.  Ultimately, this may represent a loculated empyema.
+     2)  Left lower lobe atelectasis, due to mass effect of the effusion.
+     3)  Rightward mediastinal shift due to mass effect of left-sided pleural
+     fluid.
+     4)  Right upper and right middle lobe patchy opacity probably represents
+                                                                 (Over)
+
+     DATE: [**2721-2-23**] 2:36 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 2027**]
+     Reason: cardiomegaly, AP mass? on CXR, post obstructive pna ???malig
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pneumonia or aspiration.
+
+",,
+13627,15118,,,2721-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-23**] 2:36 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 2027**]
+     Reason: cardiomegaly, AP mass? on CXR, post obstructive pna ???malig
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with etoh and CXR several days ago without findings.            
+     REASON FOR THIS EXAMINATION:
+      cardiomegaly, AP mass? on CXR, post obstructive pna ???malignancy. please 
+      perform in am [**2721-2-23**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITH CONTRAST, [**2-23**]:
+     
+     INDICATION:  ETOH and new mass on chest x-ray.
+     
+     TECHNIQUE:  Axial chest CT was performed following administration of 100 cc of
+     Optiray.
+     
+     CT CHEST WITH CONTRAST:  There is a large left-sided pleural fluid collection
+     which has multiple loculations both anterior and posterior.  The fluid
+     demonstrates [**Doctor Last Name **] of 20, suggesting either exudate or an element of hemothorax.
+     The effusion causes mass effect and deviates the mediastinal structures to the
+     right.  There is atelectasis of the left lower lobe.  An element of pneumonia
+     within this atelectasis.  The remaining portions of the left upper lobe are
+     predominantly clear.  There is ground-glass attenuation involving most of the
+     right upper lobe and right middle lobe.  This is likely due to pneumonia or
+     aspiration.  The right lower lobe is clear.  There is no right-sided effusion.
+     
+     A right-sided subclavian line terminates in the proximal right atrium.
+     Assessment for mediastinal lymphadenopathy is difficult given rightward shift
+     of mass effect.  However, there may be a subcarinal lymph node measuring 2.6 X
+     1.5 cm.
+     
+     Bone windows reveal an acute rib fracture involving the lateral aspect of the
+     left 7th rib, with asymmetric thickening of the chest wall musculature
+     suggesting an acute hematoma.  It is suspected that the left-sided effusion is
+     a hemothorax due to this acute fracture.  There is no evidence of suspicious
+     lytic or blastic skeletal lesions.
+     
+     Limited evaluation of the upper abdomen reveals no abnormalities of the
+     partially imaged liver, spleen, or adrenals.  Please note however that these
+     organs are only partially imaged on this chest exam.
+     
+     IMPRESSION:
+     1)  Loculated left-sided hemothorax.  Hemothorax is considered most likely
+     given the close proximity to the acute left rib fracture with surrounding
+     hematoma.  Ultimately, this may represent a loculated empyema.
+     2)  Left lower lobe atelectasis, due to mass effect of the effusion.
+     3)  Rightward mediastinal shift due to mass effect of left-sided pleural
+     fluid.
+     4)  Right upper and right middle lobe patchy opacity probably represents
+                                                                 (Over)
+
+     DATE: [**2721-2-23**] 2:36 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 2027**]
+     Reason: cardiomegaly, AP mass? on CXR, post obstructive pna ???malig
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pneumonia or aspiration.
+
+",,
+13627,15118,16962,0,2721-02-24 17:38:00 EST,2721-02-24 18:14:00 EST,348,"N",69,"Nursing/Other","6 pm MICU nsg admit note","
+6 pm MICU nsg admit note
+41 y.o. male transfer from 5South to MICU w/ increased O2 requirements in setting of LLL consolidation, hemothorax/loculated effusion (likely empyema.    
+
+pt admitted to 5S on [**2-22**] w/ h/o DMI w/ h/o DKA, ETOH abuse and borderline personality, with schizotypal features who presented to ED with increased CP, SOB, pt found to be tachypnic, tachycardic and hypoxic with RA sat of 86%.   Pt recently d'cd from [**Hospital1 10**] after admission for ETOH detox and DKA.  Pt transferred to [**Hospital1 **] House (pt states he resides there).  since last week , pt c/o C?>  Received 5 day course of Zithromax without relief of symptoms.  CXR neg at that time.   CXR showed LLL consolidation,  bedside thoracentesis done [**2-23**] with removal of 2 cc's (pt with loculated left pleural effusion)  chest tube inserted
+
+PMH:  borderline personality d/o,  schizo-affective d/0, ETOH abuse,  DMI with h/o DKA,  h/o suicide attempts,  depression with paranoia, ?sz d/o, h/o microcytic anemia
+
+SOCIAL HX:  DIVORCED, 1 CHILD,  +H/O ETOH ABUSE, IVDA, +TOB-[**12-16**] PPD, LIVES @ [**Hospital1 1730**] HOUSE
+
+ALLERGIES:  Haldol, MSO4, Navane
+
+ROS:
+
+RESP:  pt on 100%NRB, RR~26-30  O2 sats 93-97%    pt quickly desats to 84% when O2 removed.   pt with left sided chest tube on 20 cm cont. suction - draining small amt of serous/sang fluid.     lungs clear on right,   decreased breath sounds on left.    Pt to have VATS procedure in am.         
+
+ID:  temp 98.9 po   WBC 20.9   blood and urine cx sent,  urine neg legionella,   [**2-23**]~pleural fluid sent for cx.   
+
+NEURO:  pt alert and oriented x3, teary eyed, states he is scared, c/o pain from chest tube site,  pt medicated with Oxycodone 5-10 mg po q 4-6 hrs w/ fair affect.   pt receiving Ativan prn.   on psych meds. 
+
+CV:  BP 109-120/70  HR 110 -120 ST no vea noted,   pt had CV echo done - results pending.  
+
+ENDO:  FS q 6 hrs, follow regular insulin SS,  pt receives 18 units NPH in AM and 10 units NPH in pm.   see carevue 
+
+GI:  poor appetite,  pt on Diabetic diet,  drinking H2O, ice chips    NPO after midnight.  
+
+GU:  pt voiding ~using urinal     500cc's clear, yellow
+",,
+13627,15118,16962,,2721-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-25**] 3:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2030**]
+     Reason: check position of ett                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        41 year old man with LLL PNA and large L loculated effusion on Chest CT       
+       now s/p vats/decortication
+     REASON FOR THIS EXAMINATION:
+      check position of ett                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Endotracheal tube placement.
+     
+     There has been interval intubation with an endtracheal tube terminating
+     approximately 5 cm above the carina. There are several new left-sided chest
+     tubes with associated marked decrease in size of previously noted medially
+     loculated component of a left pleural effusion. A residual moderate effusion
+     remains with some partial loculation laterally.
+     
+     A nasogastric tube is in satisfactory position as well as a right subclavian
+     vascular catheter, terminating at the junction of the superior vena cava and
+     right atrium.
+     
+     Apparent interval decrease in heart size likely reflects improvement of the
+     medially loculated component of the left pleural effusion which previously
+     obscured the left heart border. There is some patchy consolidation in the left
+     mid- and lower lung zones.
+     
+     IMPRESSION:
+     1. Endotracheal tube in satisfactory position.
+     2. Improved left pleural effusion with interval placement of several new left-
+     sided chest tubes.
+
+",,
+13627,15118,16962,0,2721-02-25 05:19:00 EST,2721-02-25 05:30:00 EST,-1,"N",69,"Nursing/Other","MICU 7P-7A","
+MICU 7P-7A
+Neuro: Alert and orientated x3, very anxious about Vats procedure today, med. x1 with 2mg ativan iv with good effect.
+
+Resp: Conts. in 100% non-rebreather ,sats 94-97%, sats drop very quickly if pt. comes out of o2. Sob on exertion.  Left sided chest tube to 20cm cont. sx. draining small amts of serosang fluid, Lungs clear on right, decreased on left.
+
+CV: BP and hr stable no ectopy noted.
+
+GI: [**Doctor First Name 196**] diet, npo after mid. for Vats procedure today.
+
+GU: Foley in place, urine very conc. draining 50-100cc/hr.
+
+ID: Temp max. 99.5 ax. WBC 20.9 on [**2-24**] awaiting this am's blood work.
+
+Social: Lives at [**Hospital1 **] House, pt's psychiatrist called last noc. to check up on pt's progress.
+",,
+13627,15118,16962,0,2721-02-26 04:52:00 EST,2721-02-26 05:17:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress note","
+SMICU nsg progress note
+Resp- Pt back from pacu s/p vats procedure. Intubated and vented on simv 700x14 5peep 60% with pp low 20's sats stable 97-99% with last abg 107/42/7.42. Pt with 4 chest tubes post lt chest. Placed on suction- draining total of 135cc serous/sang drainage since procedure. Suctioned for minimim secretions.
+Cardiac- On admission from pacu pt on neo at .6mcg/kg/min with bp 90-100s. Given 500cc ns bolus. Bp improving thoughout night. Able to wean neo to .3mcg/kg with stable bp(see carevue) Hr 80-90's nsr. Uo minimal ~30cc/hr.
+Neuro- Sedated on propofol. Has periods when awakes with eyes open moving extremities. Easily fall back to [**Doctor Last Name 8**]. 
+Endocrine- FS on admit 260. Pt given 4u iv reg insulin and started on insulin gtt increased to 5u/hr with stable fs 107-140 (of note pt with dka when in surgery). Remains npo. Checking fs q1-2hrs.
+Heme- Hct 26 post procedure. No s/s active bleeding. Given one unit pc with repeat hct 25.3. Pt recieving 2nd unit at this time.
+ID- Low grade temp t-max 100.4 po on clinda/levo. Remains on resp precautions for r/o tb. Cultures pending. Foley draining cloudy urine. c+s sent.
+
+",,
+13627,15118,16962,0,2721-02-26 05:41:00 EST,2721-02-26 05:44:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt from PACU West Campus intubated and place on 7200 SiMV 14/700/ps+10 +5/60%.  02 sats remain 97-99% with recent abg's of 7.42, 42, 102, 28.  Pt has 4 chest tubes in place.  No further changes noted.
+",,
+13627,15118,16962,0,2721-02-26 17:15:00 EST,2721-02-26 17:48:00 EST,959,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE.","
+M/SICU NURSING PROGRESS NOTE.
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+
+     Neuro:  Opens eyes to verbal stimulus for short periods, localizes pain, moving all extrem.  Occn periods of restlessness.  Perlla at 3 mm.  Sedated with versed at 4 mg/hr, fentanyl at 75 mcg/hr.  Appears to be having improved effect over propofol.  Temperature max. 100.9 oral.  
+     Respiratory:  Lung sounds are coarse in upper fields and diminished in lower fields bilat.  Ventilator settings at present imv .60/520/10/5.  O2 saturation on present settings are 95-97%. Suctioned several times for moderate amts thick tan sputum.  Sputum obtained for gs and cx, afb.  Chest tubes [**12-18**] on lt chest and draining sangiouness fluid.  Dressing is intact, + fluctuation, no air leak or crepitus noted. ? extubation tommorrow.  Risbi 35  
+     CV:  Sinus rhythm to sinus tachycardia with no ectopy noted, rates from high 80's to 120's, elevated with agitation.  Abp ranging from high 80's to low 120's systolic, waveform is dampened and positional, can be difficult to draw abg's from.  Nbp low 100's to 120's.  Easily palpable pulses all extrem.  No edema noted.  Iv fluid d5ns at 125 cc/hr.  Potassium repleated this pm with 40meq kcl iv.  
+     GI/GU:  Abdomen soft with hypoactive bs.  No bm this shift.  Ngt in lt nare patent and good placement by asucultation  Was draining sm amt bilious fluid, now has tf promote with fiber running at 10cc/hr with goal rate of 60.  No bm this shift.  Foley catheter patent and draining yellow urine with sediment in 30-45 cc/hr amt.  
+     Endocrine:  Bs labile, ranging from mid 90's to 170's.  Presently have insulin running at 3 units per hr.  Given  10 units nph and 5 units regular insulin sc at 1500.  
+      Social:  Mother and father into see pt today for several hrs, will be back into see pt later this week.  
+",,
+13627,15118,16962,,2721-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-27**] 9:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2031**]
+     Reason: FU empyema                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         41 year old man with LLL PNA and large L loculated effusion on Chest CT      
+         now s/p vats/decortication
+     REASON FOR THIS EXAMINATION:
+      FU empyema                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Empyema followup. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from two days earlier.
+     The previously noted ET tube and nasogastric tube, and central venous catheter
+     remain in satisfactory position. Four left sided chest tubes are again
+     identified. Note that the side hole of the caudal most chest tube is quite
+     lateral, and relatively close to being outside the chest.
+     
+     Cardiac and mediastinal contours are grossly unchanged. There is still hazy
+     increased density in the lower half of the left hemithorax; aeration here may
+     be slightly improved in the interval.
+     
+     Of note, there is also patchy increased density in the right base, more
+     conspicuous than on the most recent prior films. Pneumonia here cannot be
+     excluded.
+     
+     IMPRESSION:   Note that the side hole of the caudal most left chest tube is
+     quite lateral and close to being outside the chest.
+     
+     There may be slightly improved aeration in the left base.
+     
+     There is, however, worsened aeration in the right base; pneumonia here cannot
+     be excluded.
+
+",,
+13627,15118,16962,0,2721-02-27 05:52:00 EST,2721-02-27 06:15:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+Neuro: Conts to be sedated with ativan and versed, very sedated this am cut back sedation to 2mg versed and 50mcg of fentanyl. Responds to pain. Perl.
+
+Resp: Vent settings unchanged see carevue, am blood gas 7.43/33/122/26, lungs sound coarse on the right, diminished on the left, L Chest #1 drained 25cc sangunous fluid, L Chest tube #2 drained 15cc sangunous, L Chest tube #3 drained 10cc sangunnous fluid,L Chest tube dsg and intact. 
+
+CV: Off neo since yesterday, a-line is dampened bp low - mid 90's / 60's, nbp correlates with a-line, nbp is higher at times.  No ectopy noted.
+
+GI: Promote with fiber infusing well at 20cc/hr, goal is 60cc/hr, min. residual.
+
+GU: U/O 25-45cc/hr, urine is very conc. Dr. [**First Name (STitle) **] was made aware of pt's low output, pt. is receiving D5.9NS at 125cc/hr.
+
+ID: Temp max. 101.6 po, blood cultures drawn, tylenol 650mg given with good effect temp this am 99 po.
+
+Endo: FS q 1hr, insulin gtt decreased to 1.5u/hr, goalis to have pt. off insulin gtt, and back on his normal insulin schedule.
+
+
+",,
+13627,15118,16962,0,2721-02-27 06:19:00 EST,2721-02-27 06:21:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on 7200 simv 10/600/+5/60%,  Ambu @ HOB/syringe.  Bs auscultated reveal bilat clear apecies with diminished bases.  Sux small amount of thick yellow/whitish secretions.  02 sats remain between 96-98%.  No further changes noted,
+",,
+13627,15118,16962,0,2721-02-27 16:28:00 EST,2721-02-27 16:31:00 EST,175,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+pt. weaned to PSV 5/5 @ 50%  TV = 1.1L   RR = 5-7BPM
+Sat = 97%. Pt still sleepy, Plan to keep him on PSV over noc then Extubate tomorrow.
+",,
+13627,15118,16962,0,2721-02-27 18:10:00 EST,2721-02-27 18:23:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro: sedation decreased in hopes of waking patinet and extubation. pt slow to awaken currently on o versed and 25mcg of fent. pt arousable to speech not oriented but opens eyes. 
+cad vss aline drsg changed [**Name5 (PTitle) **] continues to be dampened . systolic b/p 90-135 maps 80's
+resp; pt currently on ps5/5 since 1pm abg at 1700 7.33/51/72. ls coarse. pt suctioned for small amts of thick tannish secreitons. chest tubes in place cont on lws. no crepitus noted. output #1 30cc/#2 35cc /#3 34cc
+gi: tf remained at 20cc /hr residuals greater than 60cc. bowel regime started with senna, colace and bisacodyl given see mar- no results. bs +
+gu: uo24-70cc/hr urine cx sent. ivf d5ns cont at 125cc/hr. 2600cc positive for prev. 24 hours
+
+endo: bs cont q1 ranging from 292-135 at 1700. insulin gtt at 2u/hr md aware. pt restarted on nph with 20u givne at 8am and 10 units nph ordered for 2000 [**2-27**].
+
+hct 31.1 after rec. one unit of pc on days.
+
+id: temp max 100.3 one dose tylenol given. cx still pedning. afb smear and urine cx sent. antb tx given.
+
+plan: monitor pt neuro status. poss. extubation if pt extremely agitated. cont q1/hr bs nph dose due at 2000. cont to monitor vs/labs and respn status
+
+
+",,
+13627,15118,16962,,2721-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-2-28**] 9:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2032**]
+     Reason: r/o new infiltrate                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 y/o s/p decortication vats CT placement for empyemas on L, continued hypoxia 
+     REASON FOR THIS EXAMINATION:
+      r/o new infiltrate                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  H/O Left emphyema.  S/P decortication and chest tube placement
+     with persistent hypoxia.
+     
+     AP PORTABLE CHEST:  Comparison:  [**2721-2-26**].
+     
+     Four chest tubes are present in the left hemithorax in stable position.  The
+     cardiac and mediastinal contours are stable, with increased visualization of
+     the left heart border due to resolving empyema.  There is a small persistent
+     left pleural effusion with partial loculation.  There is some patchy
+     consolidation within the left lung zone, as well as patchy atelectasis
+     involving the right base.
+     
+     IMPRESSION:
+     1)  Small residual left pleural effusion with partial loculation.
+     
+     2)  Interval increase in extent of left lung patchy consolidation.
+     
+     3)  Right basilar patchy infiltrate likely representing atelectasis.
+     
+     
+
+",,
+13627,15118,16962,0,2721-02-28 04:56:00 EST,2721-02-28 05:10:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+Neuro: Awakes to voice, versed gtt. is off, fentanyl conts. at 25mcg/hr for pain control. Alert and orientated x2. Aware that he is in the hospital states ""I'm scared.""
+
+Resp: Extubated at 2000. In 02 via cool neb at 100%, sats 94-97%, sats drop rapidly if out of o2 for any period of time. L Chest tubes [**12-18**] at 20cm wall suction, draining sang. fluid, dsg d&i, no crepitus noted. Lung sounds course throughout.
+
+CV: BP and hr stable see carevue for details, a-line to r wrist very positional, no ectopy noted.
+
+GI: Taking clear liquids, pulled out ngt, tube feeds were not restarted. Started on bowel regimen yesterday no bm's yet, is passing gas, bs hypoactive.
+
+GU: U/O 60-100cc/hr, urine is more clearer now.
+
+ID: Temp spike to 101.8 po, blood culture x1 were drawn off central line, blood culture from the 11th and 15th still pending, temp down this am to 99.8 po after tylenol supp was given.
+
+Endo: Insulin gtt. stopped,  started on nph last noc. see carevue for  
+blood sugar numbers.
+",,
+13627,15118,16962,0,2721-02-28 05:05:00 EST,2721-02-28 05:08:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Respiratory:  Rec'd pt on 7200 ps 5/+5/40%.  Ambu @ HOB/syringe.  RSBI performed =36.  Pt extubated and place on CAM @ 100%.  02 sats remain 94-96% with no distress noted.  Will continue to monitor.  No further changes noted.
+",,
+13627,15118,16962,0,2721-02-28 15:10:00 EST,2721-02-28 15:46:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN HD #6","
+MICU/SICU NPN HD #6
+S: ""I feel like I am very sick""
+
+O:
+
+Neuro: pt is A&Ox2-3, following commands, MAEW, reports pain [**6-23**] on left flank, fentanyl gtt continues at 25mcg/h, pt OOB to chair x 3.5h
+
+Resp: currently on 50% CN and 3L NP, SpO2 91-95%, pt rapidly desaturates to the mid 80's when O2 off, LS coarse throughout, occasional rales at right base, left flank covered with chest tube dressing, 4 chest tubes draining into three pleuravacs, #1&2 draining sersanguinous fluid and #3&4 draining serous fluid
+
+CV: AVSS, please see flowsheet for data, skin is C&D, intact except for CT insertion
+
+GI/GU: abd is soft, NT/ND, BS present, pt denies appetite but frequently reports thirst, tolerating liquids well with supervision and encouragement, a bedside speech and swallow c/s was obtained today to evaluate risk for aspiration, pt did well with encouragement to drink slowly as he has the tendency to drink very quickly and this stimulates a coughing fit, Foley patent for coupious amts clear yellow urine
+
+Lines: right SC TLCL
+
+FEN: D5NS infusing at 75cc/h, FSBS QID with RISS and BID NPH
+
+ID: afebrile on levofloxacin and clindamycin, AFB #3 induced and sent, PPD to be read this PM (48H at 2130)
+
+A:
+
+risk for aspiration r/t swallowing technique
+altered breathing r/t pna and pain
+pain, acute r/t recent VATS and multiple chest tubes
+
+
+P:
+
+continue to monitor hemodynamic stability, continue to monitor resp status, convert fentanyl gtt to oral [**Doctor Last Name 50**] for better pain control, aggressive pulmonary toilet, encourage pt to take more po solids
+",,
+13627,15118,16962,0,2721-03-01 04:08:00 EST,2721-03-01 04:26:00 EST,-1,"N",69,"Nursing/Other","NURSING NARRATIVE NOTE","
+NURSING NARRATIVE NOTE
+NEURO: A&OX2, PT UNABLE TO RECALL DATE. MAE.PEARL. 
+
+RESP: ON 50% MASK AND 3L N/C. SAO2 91-95%. SAO2 DROPS TO 88-89% WHEN PT REMOVES CANNULA. LUNGS COARSE WITH EXP WHEEZES THROUGHOUT AND LEFT BASE RALES. ENC TO DB&C, STRONG NON-PRODUCTIVE COUGH NOTED. CT X4 ON LEFT. #1&2 DRAINING SMALL AMTS OF SEROSANGUINOUS DRAINAGE, #3&4 DRAINING SMALL AMOUNTS OF SEROUS DRAINAGE. ALL CT TO WATER SEAL. RR 10-18 AT REST.
+
+CV: SKIN W/D TO TOUCH,PINK IN COLOR. PPP [**Last Name (un) **], EASILY PALPABLE. D1+ PEDAL EDEMA BILAT. HANDS WITH 3+ PEDAL EDEMA BILAT. B/P RANGED 90/58-118/67, H/R 90-100 RANGE SR, NO ECTOPY NOTED. TMAX 100.0 ORAL.
+
+GU: FOLEY CATH PATENT, DRAINING AMBER URINE IN SMALL AMOUNTS. FLUID BOLUS OF 500CC @ 0345.
+
+GI: ON [**Doctor First Name 196**] DIET. PT NOT EATING WELL. STATED ""MY JAW IS SORE"" BS @2200-68, PT DRANK OJ AND BOOST. BS 78 @ 0000- DRANK BOOST, BS 139 @ 0245.
+
+SKIN: INTACT OTHER THAN L CT SITE. DSG CDI, UNABLE TO VISUALIZE SITE OF INSERTION.
+
+ID: ON CLINDAMYCIN AND OXACILLIN.
+
+SOCIAL: PT STATED ""I'M SCARED, CALL MY PARENTS AND SEE IF THEY ARE GOING TO COME SEE ME"". FATHER WAS PHONED AND STATED HE WOULD COME SEE PT ON WED. INFORMATION PASSED ALONG TO PT, PT SATISFIED.
+",,
+13627,15118,16962,0,2721-03-01 17:55:00 EST,2721-03-01 18:12:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN HD #7, POD #4","
+MICU/SICU NPN HD #7, POD #4
+S: ""My parents are coming tomorrow.""
+
+O:
+
+Neuro: pt is A&Ox2-3, MAEW, follows commnands, reports pain much improved today, started Oxycontin 20 mg BID today, OOB to chair with 1 assist x8h today, pt ambulated ~200 feet pushing wheelchair with 1 CGA
+
+Resp: SpO2 91-96% on 4L NP, desaturates when O2 removed, LS coarse, rare rales at right base, 4 CT from left flank draining to H20 seal, pt has strong cough and expectorating tan sputum
+
+CV: AVSS, please see flowsheet for data
+
+Skin: C/W/D and intact except for left flank CT site, dsg intact
+
+GI/GU: abd soft, NT/ND, BS present, tolerating soft diabetic diet, pt reports left side of jaw is tender, unable to chew food, Foley patent for clear yelow urine in adequate amts
+
+Lines: right SC TLCL
+
+ID: afebrile on clindaycin, oxacillin
+
+FEN: restarted NPH & RISS yesterday, FSBS slightly high today while taking PO's covered with RISS
+
+A: 
+
+pain r/t surgical incision
+altered breathing r/t increased resp secretions, inflammatory process
+impaired skin integrity r/t surgical incision, chest tubes
+high risk for infection r/t invasive line, drains
+
+P:
+
+continue to monitor hemodynamic stability, aggressive pulmonary toilet, continue abx as ordered, activity progression 
+",,
+13627,15118,16962,0,2721-03-02 04:22:00 EST,2721-03-02 04:32:00 EST,760,"N",69,"Nursing/Other","SMICU nursing progress note","
+SMICU nursing progress note
+Neuro- Alert oriented and cooperative. C/o some pain around chest tube sites although much improved with oxycodone. Sleeping most of night.
+Resp- Cont on 4lnc with 50% cool neb with stable 02 sats 94-97%. Does still desat to high 80's when 02 off. 4 post lt chest tubes to H20 seal intact. Cont with productive cough small amts tan secretions.
+Cardiac- VSS with good uo.
+ID- Afebrile on clind/oxicillin.
+Gi- Taking po's without difficulty. Following fs when pt eating.
+A/P Cont to improve. Pt to be transferred to medical floor when bed available.
+",,
+13627,15118,,,2721-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-4**] 9:32 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2033**]
+     Reason: follow up empyema, post thoracoscopic surgery               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       empyema                                                                        
+     REASON FOR THIS EXAMINATION:
+      follow up empyema, post thoracoscopic surgery                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of empyema.
+     
+     TECHNIQUE: Portable AP chest.
+     
+     COMPARISON: [**2721-2-28**].
+     
+     FINDINGS: A left subclavian central venous catheter remains in satisfactory
+     position within the distal SVC. 4 left sided chest tubes are again evident.
+     The most inferiorly located tube has its side port outside of the chest wall.
+     There is no subcutaneous emphysema. In the interval, there has been improved
+     aeration of the left lung. There is only a very small residual partially
+     loculated effusion with associated atelectatic changes. The right lung appears
+     grossly clear.
+     
+     IMPRESSION: 1) Interval improvement in the appearance of the left lung. 2)
+     Most inferior chest tube placed with its side port outside the chest wall.
+
+",,
+13627,15118,,,2721-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-5**] 8:57 AM
+     FINGER(S),2+VIEWS RIGHT                                         Clip # [**Clip Number (Radiology) 2034**]
+     Reason: please eval for fracture                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with swelling and deformity of Right 4th digit                  
+     REASON FOR THIS EXAMINATION:
+      please eval for fracture                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Swelling and deformity.
+     
+     FINDINGS:  Three views of the right fourth digit show an oblique, comminuted
+     fracture of the middle phalanx with suspected extension into the distal
+     interphalangeal joint.  The proximal and distal phalanges appear normal.  No
+     foreign body or soft tissue gas is identified.
+     
+     IMPRESSION:  Comminuted intra-articular fracture of the middle phalanx with
+     suspected extension into distal interphalangeal joint.
+
+",,
+13627,15118,,,2721-03-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-7**] 8:54 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2035**]
+     Reason: follow up, one tube out                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        empyema                                                                       
+       
+     REASON FOR THIS EXAMINATION:
+      follow up, one tube out                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post chest tube removal, empyema.
+     
+     CHEST X-RAY, PA AND LATERAL: Comparison [**2721-3-4**] chest x-ray PA and
+     lateral. A right subclavian central venous line is seen with tip in the lower
+     superior vena cava. There is no pneumothorax on this right side. Three left-
+     sided chest tubes are seen. There has been interval removal of one chest tube.
+     There is no pneumthorax. A loculated left pleural effusion is again
+     demonstrated, unchanged in the interval. Streaky left lung lower zone
+     opacities are seen, which is consistent with residual patchy atelectasis. No
+     new infiltrates are seen.
+     
+     IMPRESSION: Status post removal of one left chest tube. No pneumothorax.
+     Appearance of lungs unchanged from [**2721-3-4**].
+
+",,
+13627,15118,,,2721-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-9**] 9:33 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2037**]
+     Reason: please eval for pulmonary embolism                          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with etoh and empyema, now w/ narcotic overdose and persistent 
+      hypoxemia and tachycardia
+     REASON FOR THIS EXAMINATION:
+      please eval for pulmonary embolism                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Hypoxemia and tachycardia in patient s/p narcotic overdose.
+     Known empyema.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases to the
+     lung apices after the administration of 150 cc of Optiray contrast per fast
+     bolus protocol.  Multiplanar reformations were also obtained and reviewed.
+     
+     Comparison is made to the contrast enhanced chest CT of [**2721-2-23**].
+     
+     PULMONARY CTA:  The heart, pericardium, and aorta are normal.  There is good
+     contrast opacification of the pulmonary arterial tree and no filling defects
+     are identified to suggest the presence of a pulmonary embolism.  Prominent
+     lymph nodes in the prevascular space and subcarinal reactive lymph node is
+     also seen which was not appreciated in the prior study.  There are scattered
+     patchy opacifications throughout both lungs which have improved since the
+     prior study and likely represent resolving pneumonia.  The fluid collection in
+     the anterior left mediastinum has completely resolved.  There is a chest tube
+     in the posterior pleural space and the posterior fluid collection has largely
+     resolved.  There is residual hydropneumothorax with loculated effusion vs.
+     pleural thickening most notable posteriorly but does extend anteriorly with a
+     few pockets of air.  There is no right-sided pleural effusion.  The airways
+     are patent through the segmental bronchi bilaterally.
+     
+     No osseous abnormalities are noted.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     2)  Interval improvement of patchy areas of opacification consistent with
+     improving pneumonia.
+     3)  Marked interval decrease in fluid collections in the left pleural space.
+     Residual hydropneumothorax with associated loculated fluid collections vs.
+     pleural thickening as described.
+     4)  A subcarinal lymph node appears enlarged since the prior study and is
+     consistent with a reactive lymph node.
+
+",,
+13627,15118,,,2721-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-9**] 1:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2036**]
+     Reason: please r/o pneumothorax, pleural effusion                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 y/o s/p decortication vats CT placement for empyemas on L, now hypoxic      
+     REASON FOR THIS EXAMINATION:
+      please r/o pneumothorax, pleural effusion                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  41 year old status post decortication, VATS chest tube placement
+     for empyema.  Patient now hypoxic.  Please evaluate for pneumothorax or
+     effusion.
+     
+     CHEST X-RAY PORTABLE AP:  Comparison [**2721-3-7**].  A right-sided central
+     venous line is seen in the subclavian vein with tip in the mid superior vena
+     cava.  There is no pneumothorax.  Two left-sided chest tubes are appreciated.
+     There has been interval removal of one chest tube.  No pneumothorax is
+     visualized on the left side.  The cardiomediastinal silhouette is
+     unremarkable.  No acute infiltrates are demonstrated in the right lung.  There
+     has been slight improvement in the patchy atelectasis with improved aeration
+     of the left lung.  There has also been slight improvement of the loculated
+     left pleural effusion.
+     
+     IMPRESSION:
+     
+     1.  Tubes and lines in satisfactory position.  Interval removal of one left
+     chest tube.  No pneumothorax.
+     
+     2.  Interval improvement of left lung aeration and slight improvement of left
+     loculated pleural effusion.
+
+",,
+13627,15118,,,2721-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-9**] 9:33 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2037**]
+     Reason: please eval for pulmonary embolism                          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with etoh and empyema, now w/ narcotic overdose and persistent 
+      hypoxemia and tachycardia
+     REASON FOR THIS EXAMINATION:
+      please eval for pulmonary embolism                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Hypoxemia and tachycardia in patient s/p narcotic overdose.
+     Known empyema.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases to the
+     lung apices after the administration of 150 cc of Optiray contrast per fast
+     bolus protocol.  Multiplanar reformations were also obtained and reviewed.
+     
+     Comparison is made to the contrast enhanced chest CT of [**2721-2-23**].
+     
+     PULMONARY CTA:  The heart, pericardium, and aorta are normal.  There is good
+     contrast opacification of the pulmonary arterial tree and no filling defects
+     are identified to suggest the presence of a pulmonary embolism.  Prominent
+     lymph nodes in the prevascular space and subcarinal reactive lymph node is
+     also seen which was not appreciated in the prior study.  There are scattered
+     patchy opacifications throughout both lungs which have improved since the
+     prior study and likely represent resolving pneumonia.  The fluid collection in
+     the anterior left mediastinum has completely resolved.  There is a chest tube
+     in the posterior pleural space and the posterior fluid collection has largely
+     resolved.  There is residual hydropneumothorax with loculated effusion vs.
+     pleural thickening most notable posteriorly but does extend anteriorly with a
+     few pockets of air.  There is no right-sided pleural effusion.  The airways
+     are patent through the segmental bronchi bilaterally.
+     
+     No osseous abnormalities are noted.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     2)  Interval improvement of patchy areas of opacification consistent with
+     improving pneumonia.
+     3)  Marked interval decrease in fluid collections in the left pleural space.
+     Residual hydropneumothorax with associated loculated fluid collections vs.
+     pleural thickening as described.
+     4)  A subcarinal lymph node appears enlarged since the prior study and is
+     consistent with a reactive lymph node.
+
+",,
+13627,15118,,,2721-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-10**] 3:39 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2038**]
+     Reason: follow up                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         empyema                                                                      
+         
+     REASON FOR THIS EXAMINATION:
+      follow up                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Empyema, follow up.
+     
+     Frontal and lateral chest radiographs dated [**2721-3-10**] are compared with
+     the prior chest radiograph dated [**2721-3-9**].
+     
+     The chest tubes in the left hemithorax have been intervally removed.  There is
+     no pneumothorax.  There is persistent residual left small pleural
+     effusion/thickening blunting with left costophrenic angle and tracking along
+     the left lateral chest wall.
+
+",,
+13627,,,,2721-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-3-22**] 9:55 AM
+     FINGER(S),2+VIEWS RIGHT                                         Clip # [**Clip Number (Radiology) 2039**]
+     Reason: patient s/p closed reduction and internal fixation of right 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with swelling and deformity of Right 4th digit                 
+     REASON FOR THIS EXAMINATION:
+      patient s/p closed reduction and internal fixation of right 4th middle phalanx
+      fracture 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post closed reduction and internal fixation of right 4th
+     middle phalanx fracture.
+     
+     RIGHT FOURTH FINGER, AP, LATERAL, OBLIQUE VIEWS
+     
+     Comparison study dated [**2721-3-5**].  There has been interval pin placement through
+     the comminuted fracture of the right 4th finger middle phalanx.  Three
+     stabilization pins are identified, with two extending solely through the
+     middle phalanx, and the third extending from the distal phalanx across the
+     distal interphalangeal joint and into the middle phalanx.  There is overall
+     anatomic position of the bones.  There is interval callus formation.
+     
+     IMPRESSION:
+     
+     1) Status post internal fixation of the comminuted right 4th middle phalanx
+     fracture.  Overall anatomic alignment.
+
+",,
+13627,,,,2721-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-4-12**] 10:49 AM
+     FINGER(S),2+VIEWS RIGHT                                         Clip # [**Clip Number (Radiology) 2040**]
+     Reason: RIGHT RING FINGER                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      42 year old man S/P FX OF MIDDLE PHALANX.                                       
+     REASON FOR THIS EXAMINATION:
+      RIGHT RING FINGER                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Middle phalanx fracture.
+     
+     COMPARISON:  [**2721-3-22**].
+     
+     FINDINGS:  AP, lateral, and oblique views of the right fourth digit
+     demonstrate interval removal of three surgical pins.  Callous formation is
+     noted, as are faint fracture lines.  Alignment is anatomic.  Minor soft tissue
+     swelling remains.
+     
+
+",,

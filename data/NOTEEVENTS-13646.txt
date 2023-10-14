@@ -1,0 +1,1008 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13646,3786,,,3221-07-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3221-7-7**]     Discharge Date:  [**3221-7-15**]
+
+Date of Birth:   [**3147-7-17**]     Sex:  F
+
+Service:
+
+ADDENDUM:  The patient grew gram negative rods from her urine
+culture.  The identification and sensitivities of the
+organism are pending.  However, the patient developed this
+infection on Levofloxacin which she had been taking for nine
+days prior.  Therefore the presumption was that this is
+pseudomonal or resistant organism and the patient was started
+on Aztreonam 1 gm q. 8 hours.  The patient should receive
+seven days of this, the last day which should be [**3221-7-21**].  On [**7-16**], Friday morning, Dr. [**Last Name (STitle) **] will call
+[**Hospital1 293**] and report identification sensitivities of the
+organisms so that they may adjust antibiotics appropriately.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1680**], M.D.  [**MD Number 1681**]
+
+Dictated By:[**Last Name (NamePattern1) 3792**]
+
+MEDQUIST36
+
+D:  [**3221-7-15**]  14:08
+T:  [**3221-7-15**]  15:14
+JOB#:  [**Job Number 9450**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3221-7-31**] 11:32 AM
+(End of Report)
+
+
+",,
+13646,3786,,,3221-07-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-7**] 4:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2229**]
+     Reason: 79 yr old female with hypoxemia and hypotension on ventilato
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with  s/p RLL resection 
+     REASON FOR THIS EXAMINATION:
+      79 yr old female with hypoxemia and hypotension on ventilator r/o pneumo eval
+      ett placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: ET tube placement.
+     
+     COMPARISON: Earlier same day.
+     
+     FINDINGS: In the interval, an ET tube has been placed with tip in good
+     position several centimeters above the carina. Left lower lobe consolidation
+     and collapse has improved in the interval, and the left lung appears well
+     inflated. There is increased lucency on the left when compared to the previous
+     exam, and if there is clinical concern for pneumothorax, right side down
+     decubitus view is recommended for further evaluation. Previously described
+     pleural thickening and patchy densities within the right lung are unchanged.
+     Probable layering effusion on the right.
+     
+     IMPRESSION: ET tube in good position. Right side down decutibus view
+     recommended to exclude left pneumothorax.
+
+",,
+13646,3786,,,3221-07-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-7**] 3:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2228**]
+     Reason: sob, tachypnic
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      sob, tachypnic
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath and tachypnea.
+     
+     COMPARISON: None.
+     
+     FINDINGS: Heart is enlarged and the aorta is unfolded. There is pleural
+     thickening and volume loss on the right with patchy densities in the upper
+     mid- and lower lung zones. On the left, surgical chain sutures are noted in
+     the midlung zone. There is left lower lobe consolidation/collapse. No
+     appreciable pneumothorax. A small nodular density at the left lung apex is
+     noted, as are healed rib fractures on the left posteriorly. Ribs have been
+     partially resected on the right posteriorly. Loculated right pleural effusion
+     and/or infiltrate not excluded.
+     
+     IMPRESSION: Chronic-appearing pleral/parenchymal changes within the right
+     lung. Current infiltrate and effusion not excluded in the absence of prior
+     films for comparison. Atelectasis/consolidation left base. Post surgical
+     changes on left.
+     
+
+",,
+13646,3786,,,3221-07-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13646,3786,16990,,3221-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-8**] 5:08 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2231**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: RESPITORY FAILURE, R/O INFILTRATE AND HYDRONEPHROSIS
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o hydronephrosis or abd abcess                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure and lack of urine output.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Contiguous axial images through the chest, abdomen and pelvis were
+     obtained following the administration of oral contrast, as well as 150 cc of
+     Optiray due to patient history of allergy.
+     
+     CHEST WITH CONTRAST:  There is no axillary, hilar or mediastinal lymph
+     adenopathy.  Nasogastric tube and endotracheal tube are noted.  There is a
+     right hydropneumothorax, moderately-sized.  Fibrosis and bronchiectasis are
+     present at the right lung base, and a superimposed infection cannot be
+     excluded.  On the left, bullae are noted, and there is a loculated pleural
+     effusion inferiorly.  The heart is enlarged.  The great vessels are grossly
+     unremarkable.
+     
+     ABDOMEN WITH CONTRAST:  The liver, pancreas, adrenal glands, and right kidney
+     are unremarkable.  A large calcified stone is present with an otherwise
+     normal-appearing gallbladder.  There is a moderate-sized splenic infarction.
+     At the lower pole of the left kidney, there is a complex, septated cystic
+     structure which is not fully characterized on this exam but is not clearly
+     benign by CT criteria.  The opacified loops of bowel are normal in caliber.
+     There is a small fluid attenuation structure in the retrocrural region just to
+     the right of the aorta, of doubtful significance.  There is edema within the
+     subcutaneous tissues of the left flank.
+     
+     PELVIS WITH CONTRAST:  A Foley catheter is present within the bladder, and
+     there is a moderate amount of urine within the bladder.  Multiple colonic
+     diverticuli are noted.  There is a small amount of free pelvic fluid.  The
+     uterus and adnexa are unremarkable.  Central venous line is noted within the
+     right femoral vein, through which contrast has been injected.  There is no
+     appreciable inguinal or pelvic lymph adenopathy.
+     
+     BONE WINDOWS:  Healed left posterior rib fractures are noted.  There are
+     multiple cortical defects within the right posterior ribs, suggesting more
+     recent fractures.  One of these appears minimally displaced.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3221-7-8**] 5:08 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2231**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: RESPITORY FAILURE, R/O INFILTRATE AND HYDRONEPHROSIS
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Moderate-sized right hydropneumothorax.  Multiple right posterior rib
+     fractures which may be acute or subacute.
+     2.  Chronic fibrotic-appearing changes at the right lung base.  Superimposed
+     infection is not excluded.
+     3.  Incidentally noted gallstones, splenic infarction, and diverticulosis.
+     4.  No evidence of urinary tract obstruction.  The kidneys enhance and excrete
+     symmetrically.
+
+",,
+13646,3786,16990,,3221-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-8**] 5:08 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2231**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: RESPITORY FAILURE, R/O INFILTRATE AND HYDRONEPHROSIS
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o hydronephrosis or abd abcess                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure and lack of urine output.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Contiguous axial images through the chest, abdomen and pelvis were
+     obtained following the administration of oral contrast, as well as 150 cc of
+     Optiray due to patient history of allergy.
+     
+     CHEST WITH CONTRAST:  There is no axillary, hilar or mediastinal lymph
+     adenopathy.  Nasogastric tube and endotracheal tube are noted.  There is a
+     right hydropneumothorax, moderately-sized.  Fibrosis and bronchiectasis are
+     present at the right lung base, and a superimposed infection cannot be
+     excluded.  On the left, bullae are noted, and there is a loculated pleural
+     effusion inferiorly.  The heart is enlarged.  The great vessels are grossly
+     unremarkable.
+     
+     ABDOMEN WITH CONTRAST:  The liver, pancreas, adrenal glands, and right kidney
+     are unremarkable.  A large calcified stone is present with an otherwise
+     normal-appearing gallbladder.  There is a moderate-sized splenic infarction.
+     At the lower pole of the left kidney, there is a complex, septated cystic
+     structure which is not fully characterized on this exam but is not clearly
+     benign by CT criteria.  The opacified loops of bowel are normal in caliber.
+     There is a small fluid attenuation structure in the retrocrural region just to
+     the right of the aorta, of doubtful significance.  There is edema within the
+     subcutaneous tissues of the left flank.
+     
+     PELVIS WITH CONTRAST:  A Foley catheter is present within the bladder, and
+     there is a moderate amount of urine within the bladder.  Multiple colonic
+     diverticuli are noted.  There is a small amount of free pelvic fluid.  The
+     uterus and adnexa are unremarkable.  Central venous line is noted within the
+     right femoral vein, through which contrast has been injected.  There is no
+     appreciable inguinal or pelvic lymph adenopathy.
+     
+     BONE WINDOWS:  Healed left posterior rib fractures are noted.  There are
+     multiple cortical defects within the right posterior ribs, suggesting more
+     recent fractures.  One of these appears minimally displaced.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3221-7-8**] 5:08 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2231**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: RESPITORY FAILURE, R/O INFILTRATE AND HYDRONEPHROSIS
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Moderate-sized right hydropneumothorax.  Multiple right posterior rib
+     fractures which may be acute or subacute.
+     2.  Chronic fibrotic-appearing changes at the right lung base.  Superimposed
+     infection is not excluded.
+     3.  Incidentally noted gallstones, splenic infarction, and diverticulosis.
+     4.  No evidence of urinary tract obstruction.  The kidneys enhance and excrete
+     symmetrically.
+
+",,
+13646,3786,16990,,3221-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-8**] 5:08 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2231**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: RESPITORY FAILURE, R/O INFILTRATE AND HYDRONEPHROSIS
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o hydronephrosis or abd abcess                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure and lack of urine output.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Contiguous axial images through the chest, abdomen and pelvis were
+     obtained following the administration of oral contrast, as well as 150 cc of
+     Optiray due to patient history of allergy.
+     
+     CHEST WITH CONTRAST:  There is no axillary, hilar or mediastinal lymph
+     adenopathy.  Nasogastric tube and endotracheal tube are noted.  There is a
+     right hydropneumothorax, moderately-sized.  Fibrosis and bronchiectasis are
+     present at the right lung base, and a superimposed infection cannot be
+     excluded.  On the left, bullae are noted, and there is a loculated pleural
+     effusion inferiorly.  The heart is enlarged.  The great vessels are grossly
+     unremarkable.
+     
+     ABDOMEN WITH CONTRAST:  The liver, pancreas, adrenal glands, and right kidney
+     are unremarkable.  A large calcified stone is present with an otherwise
+     normal-appearing gallbladder.  There is a moderate-sized splenic infarction.
+     At the lower pole of the left kidney, there is a complex, septated cystic
+     structure which is not fully characterized on this exam but is not clearly
+     benign by CT criteria.  The opacified loops of bowel are normal in caliber.
+     There is a small fluid attenuation structure in the retrocrural region just to
+     the right of the aorta, of doubtful significance.  There is edema within the
+     subcutaneous tissues of the left flank.
+     
+     PELVIS WITH CONTRAST:  A Foley catheter is present within the bladder, and
+     there is a moderate amount of urine within the bladder.  Multiple colonic
+     diverticuli are noted.  There is a small amount of free pelvic fluid.  The
+     uterus and adnexa are unremarkable.  Central venous line is noted within the
+     right femoral vein, through which contrast has been injected.  There is no
+     appreciable inguinal or pelvic lymph adenopathy.
+     
+     BONE WINDOWS:  Healed left posterior rib fractures are noted.  There are
+     multiple cortical defects within the right posterior ribs, suggesting more
+     recent fractures.  One of these appears minimally displaced.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3221-7-8**] 5:08 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 2231**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: RESPITORY FAILURE, R/O INFILTRATE AND HYDRONEPHROSIS
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Moderate-sized right hydropneumothorax.  Multiple right posterior rib
+     fractures which may be acute or subacute.
+     2.  Chronic fibrotic-appearing changes at the right lung base.  Superimposed
+     infection is not excluded.
+     3.  Incidentally noted gallstones, splenic infarction, and diverticulosis.
+     4.  No evidence of urinary tract obstruction.  The kidneys enhance and excrete
+     symmetrically.
+
+",,
+13646,3786,16990,,3221-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-8**] 11:38 AM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 2230**]
+     Reason: eval NG tube placement                                      
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with respiratory failure s/p NG tube                          
+     REASON FOR THIS EXAMINATION:
+      eval NG tube placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  For NG tube placement.
+     
+     Distal end of NG tube is in proximal stomach.  Distribution of bowel gas is
+     unremarkable.  Vascular catheter overlies right common iliac vessels.
+
+",,
+13646,3786,16990,0,3221-07-08 04:22:00 EST,3221-07-08 04:55:00 EST,2479,"N",69,"Nursing/Other",,"
+
+NPN MICU ADMIT NOTE 0700-1900
+
+73 YO FEMALE W/ADENO CARCINOMA OF THE LUNG.  S/P MULTIPLE WEDGE RESECTIONS AND RUL LOBECTOMY ON [**6-3**]. POST OP COURSE WAS NOTABLE FOR MULTIPLE BRONCHS AND 2 REINTUBATIONS, ARRYTHMIA'S (A FIB??)GRAM NEG PNUEMONIA .PT WAS DISCHARGED TO HOME AND WAS NOT ABLE TO ""BOUNCE"" BACKAS PER DAUGHTER. SEEMED CONTINUOUSLY AND INCREASINGLY FATIGUED.911 WAS ACTIVATED AND PT WAS FOUND TO HAVE A SAT OF 50% ON 5 LITERS.WAS BROUGHT TO ER, INTUBATED FOR RESP FAILURE, FOLLOWED BY HYPOTENSION REQUIRING FLUID BOLUSES AND PRESSORS.
+ PRESENTLY
+NEURO:AWAKE AND ALERT , FOLLOWS COMMANDS . DENIES PAIN OR DISCOMFORT. ON FENTYNAL @ 100MCG/HR.IT IS NOTED PT HAS A HX OF BEING STOIC.
+
+RESP:WAS ON A/C OVERNOC, PRESENTLY ON PS 8 W/5 OF PEEP 40% FIO2.MAINTAINING SATS IN LOW 90'S (PT'S BASELINE).LUNGS ARE COARSE W/ MILD EXP WHEEZE RELIEVED W/ MDI'S. SUCTIONED FOR THICK YELLOW SECRETIONS AND COPIOUS ORAL SECRETIONS.
+
+C/V: JUNCTIONAL RHYTHM IN 60'S .? HB, DOPA WEANED OFF NEO @ 1.5MCG/KG/MIN, CONTINUOUS FLUID BOLUSES TO KEEP MAP > 60.R CHEST WALL HAS LARGE INCISIONAL SITE FROM ANT TO POST FLANK AREA. INCISION IS WELL APPROXIMATED AND COVERED W/ STERISTRIPS. AREA IS DRAINING LARGE AMTS OF CLEAR SANG DRAINAGE.
+
+F/E/N: NSS @ 200CCHR , RECIEVED 4 LITERS IN ED. TEAM FEELS PT IS VERY DRY. HAS BEEN HOME W/POOR PO INTAKE.UO BORDERLINE 20-40CC/HR.IS 4 LITERS POS .
+
+SKIN: L L ARM W/ LARGE J SHAPED SKIN TEAR. CLENASED AND DRESSED W/ TEGRADERM. [**Hospital1 **] LAT LOWER EXTREMETIES, SCALY AND DISCOLORED.PAPER THIN SKIN. PT PRESENTED ON THE UNIT WITH ALL OVER BODY RASH, WORSENING OVERNOC HO AWARE.
+
+PLAN: WEAN PRESSORS, POSSIBLE EXTUBATION.MONITOR UO.
+
+
+",,
+13646,3786,16990,0,3221-07-08 05:04:00 EST,3221-07-08 05:07:00 EST,2476,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remained on A/C ventilatory support for most of night.  Switched to CPAP/PSV after performance of RSBI.  SPO2 remains 91-92% on 40% with 5cm PEEP and 8 cm PSV.
+
+RSBI with 0-PEEP and 0-PSV = 86.4.
+",,
+13646,3786,16990,0,3221-07-08 14:24:00 EST,3221-07-08 14:48:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Events:  Pt. remains hemodynamically unstable throughout the day and received fluid recussitation with Neo on/off.  U/O remains an issue as it dropped off to 5.0cc/hr this afternoon.  Pt. endured bronch, echo and is being prepped for abd. CT as well as Chest CT.  To receive 1u PRBC as well this afternoon.  Plan- pt. will remain intubated and w/u for hemodynamic instability continues.
+
+Review of Systems:
+
+Neuro:  Pt. off of Fentanyl gtt since this am.  Pt. very cooperative with care, remains unrestrained.  Following commands.  Received 2mg of versed during bronch.  Writing appropriate questions and expressing concern that ETT may be removed ""too quickly""... concerns discussed with team.  
+
+Resp:  Pt. received on PSV 8/ PEEP5 40%.  Sat's 91-95%.  11am ABG showing some expected hypercarbia and resp. acidosis 7.31/57/81/30.  No vent changes made.  Pt. sx'd for minimal amts of thin, white secretions.  BAL sent.  Bronch showing thin, white secretions, friable mucosa, astemosis site looking ok per Dr. [**Last Name (STitle) 1425**].  Pt. to remain intubated.  Would repeat ABG with evening labs.  To have chest ct this evening.
+
+CV:  HR 46-60's junctional rhythm.  daily EKG reviewed by team this am, no sig changes from previous.  BP labile. On/off Neo.  Currently at 1.0mcg/kg/min.  CPKs flat X 3.  Received 1500cc FB thus far this shift.  Fluids have been at 200cc/hr; pt. has received about 7L of fluid in bolus form since admission.   Echo completed and results are pending.  Mg Sulf repleted this am (1.4), labs to be repeated this evening.  HCT down from 38 to 28 then 26.9 this am.  When d/c'd from [**Hospital1 72**] 4d ago, HCT was 32.  ? retroperitoneal bleed from mult. stick sites in right fem.  No obvious signs of blood loss.  To receive 1u PRBC this afternoon; however pt. with many antibodies and is not ready thus far.  To repeat HCT after unit infuses.  
+
+GI:  ABD soft, +BS.  No stool.  OGT placed and confirmed by XRAY.  Pt. with some bile in mouth after sx'ing this am.  OGT to LIWS and draining minimal amounts of bile throughout the shift.  Pt. remains without nutrition.  receiving barocat for CT.  
+
+GU:  U/O dropping off this am to 15cc/hr then to 5cc/hr.  Received mult. fluid boluses with minimal change in u/o.  Neo then added again to increase MAPs to >70 with again no change in u/o.  F/C flushed with 120cc of normal saline appearing patent.  U/A , C+S sent and lytes.  No significant results thus far reported.  BUN CREAT 16/0.5... w/u of poor u/o continues.  Renal CT scan this afternoon.  Will cont to bolus as needed to try and reach a goal u/o >30.
+
+ID:  ABX changed around this afternoon.  Vanco, flagyl, ceftaz d/c'd Levo remains and Aztreonam added.  Remains Afebrile.  ?drug rash along trunk that is much less angry read this afternoon than am.  Team aware and will cont to observe.
+
+Derm:  Steri-strips appear clean, dry and intact on right posterior chest from recent surgery.  Rash as mentioned.  Skin tear on right arm assessed by plastics and dressed in telfa.  Otherw
+",,
+13646,3786,16990,0,3221-07-08 14:25:00 EST,3221-07-08 14:48:00 EST,2078,"N",69,"Nursing/Other",,"
+
+(Continued)
+ise, skin intact.  
+",,
+13646,3786,16990,0,3221-07-08 16:57:00 EST,3221-07-08 16:59:00 EST,1625,"N",69,"Nursing/Other",,"
+
+Resp CAre
+remains ett/vent support. psv 8/5/40%. volumes 310/rr 26. denies sob. sxned sm amts clear/whitish thick secretions. bronched for same with sm amt yellowish obtained for specimen. admin combivent q4h. no further weaning pursued today d/t fluid/cv status.
+",,
+13646,3786,16990,0,3221-07-08 17:31:00 EST,3221-07-08 17:34:00 EST,2078,"N",69,"Nursing/Other",,"
+
+Addendum:
+
+Pt. to CT for abd/chest (with IV contrast and barocat) preliminary findings sig for: right pleural effusion, may be old... may need to be tapped..., full bladder and sm cyst on kidney; final read not yet available.  To have u/s tom'row.  Pt. u/o picking up slightly.  IVF changed to rate of 100cc/hr.  Will titrate Neo and fluids to maintain u/o >30cc/hr.  Neo down to 0.5mcg/kg/min as SBP 140's during CT scan.  
+
+Family at bedside updated by Pulm fellow and nursing.   
+",,
+13646,3786,16990,,3221-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-9**] 10:43 AM
+     PLEURAL ASP BY RADIOLOGIST; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 2232**]
+     Reason: please place pigtail drainage [**Last Name (un) **] for R hydropneumothorax
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with h/o lung CA, most recent resection [**6-5**], now with R 
+      hydropneumothorax
+     REASON FOR THIS EXAMINATION:
+      please place pigtail drainage [**Last Name (un) **] for R hydropneumothorax                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of lung cancer with right hydropneumothorax.
+     
+     ULTRASOUND GUIDED THORACENTESIS:  A right pleural effusion was identified
+     under ultrasound guidance.  An explanation of the procedure, including its
+     risks and benefits were explained to the patient who consented to the
+     procedure.  The skin was cleaned with betadine and 1% lidocaine was given for
+     local anesthesia.  An 18G [**Last Name (un) 2233**] catheter was inserted into the pleural fluid
+     collection and 100cc of clear yellow fluid was aspirated.  A sample of fluid
+     was sent to microbiology.  The patient tolerated the procedure well and there
+     were no immediate post-procedure complications.
+     
+     IMPRESSION:  Status post ultrasound guided thoracentesis of a right pleural
+     effusion.  100 cc of clear fluid was aspirated.
+     
+
+",,
+13646,3786,16990,,3221-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-9**] 10:43 AM
+     PLEURAL ASP BY RADIOLOGIST; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 2232**]
+     Reason: please place pigtail drainage [**Last Name (un) **] for R hydropneumothorax
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with h/o lung CA, most recent resection [**6-5**], now with R 
+      hydropneumothorax
+     REASON FOR THIS EXAMINATION:
+      please place pigtail drainage [**Last Name (un) **] for R hydropneumothorax                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of lung cancer with right hydropneumothorax.
+     
+     ULTRASOUND GUIDED THORACENTESIS:  A right pleural effusion was identified
+     under ultrasound guidance.  An explanation of the procedure, including its
+     risks and benefits were explained to the patient who consented to the
+     procedure.  The skin was cleaned with betadine and 1% lidocaine was given for
+     local anesthesia.  An 18G [**Last Name (un) 2233**] catheter was inserted into the pleural fluid
+     collection and 100cc of clear yellow fluid was aspirated.  A sample of fluid
+     was sent to microbiology.  The patient tolerated the procedure well and there
+     were no immediate post-procedure complications.
+     
+     IMPRESSION:  Status post ultrasound guided thoracentesis of a right pleural
+     effusion.  100 cc of clear fluid was aspirated.
+     
+
+",,
+13646,3786,16990,,3221-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-9**] 6:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2234**]
+     Reason: Please evaluate R hydropneumothorax, R subclavian line place
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with  s/p RLL resection  and COPD, R hydropneumothorax, s/p 
+      R subclavian placement.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate R hydropneumothorax, R subclavian line placement.               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 73-year-old female with right lower lobe resection and COPD with
+     right hydropneumothorax.
+     
+     FINDINGS: Comparison is made to a prior study from [**3221-7-7**].
+     
+     There is an endotracheal tube in satisfactory position 4 cm above the carina.
+     There is a right-sided subclavian line in position with its distal tip in the
+     mid SVC. The heart size and mediastinal contours are stable. There is evidence
+     of large pleural effusion on the right with pleural fluid tracking in the
+     region of the right apex. There is unchanged pleural effusion on the left.
+     There is an unchanged appearance of pleural thickening with patchy parenchymal
+     opacity throughout the right upper mid- and lower lung zones as well as within
+     the retrocardiac region on the left. There is evidence of surgical sutures
+     within the left midlung zone. There are multiple healed rib fractures within
+     posterior ribs on the left. There are multiple posterior rib fractures on the
+     right which are acute to subacute.
+     
+     IMPRESSION:
+     
+     1. ET tube and right subclavian line in stable position.
+     
+     2. Unchanged loculated effusion over the right apex, right rib fractures,
+     left- sided effusion, and pulmonary parenchymal opacity which is most
+     prominent within the right midlung zone, right lower lung zone.
+     
+     3. Worsening parenchymal opacity in the retrocardiac region.
+
+",,
+13646,3786,16990,0,3221-07-09 04:22:00 EST,3221-07-09 05:30:00 EST,1771,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+
+   pt c/o ^sob earlier in the shift. a repeat abg revealed a worsening respiratory acidosis and hypoxia. fio2 increased along with psv w/improved abg and resolution of sob. later in the shift, a review of an earlier chest ct revealed a large rul hydro-ptx. the resident called ct surgery who decided to defer placement of a chest tube until later this morning since the pt was stable. also of note, the pt continued to have low hourly uop's despite additional fluid boluses and adequate blood pressures. the possible need for a pa catheter was discussed.
+
+review of systems
+
+respiratory-> pt remains intubated and vented on psv15/5 w/o2 increased to 50%. rr teens-20's w/tv 350-450cc. suctioned ~q4hrs for small to moderate amts of thin, white secretions. repeat abg on current settings: 47/99/7.32/25/-2. lung exam is course w/^ in scattered expiratory wheezing. unclear whether chest tube will be placed later today.
+
+cardiac-> although hemodynamically stable w/sbp >110 and maps >70 off of pressors, the pt's uop continued to be marginal overnoc. she received another 1.5 liters in ns fluid boluses along w/1u prbc's. pt appears to be preload dependent; however, she is currently ~15 liters tfb positive over the past 24hrs. since her fluid status is so unclear, she may require placement of a pa catheter. per the team, this would have to be done under fluoro.
+
+neuro-> a&o. pleasant and able to cooperate w/her care. +mae.
+
+gi-> abd is soft, nontender w/+bs. no bm overnoc. ogt aspirates 0-20cc checked q4hrs. please f/u re: enteral feeding w/medical team.
+
+gu-> as noted above, uop is marginal despite fluid boluses and an adequate blood pressure. foley catheter changed to a 16f to eliminate the possibility of a mechanical obstruction. bun/creat wnl.
+
+heme-> pt was transfused w/1u prbc's this am. a repeat hct was only 28.4 although this may be dilutional. coags wnl today.
+
+access-> right fem tl patent and intact. team did discuss the possibilty of resiting the central line. right arterial line is positional at times. 
+
+social-> pt's dtr updated on the pt's condition last evening prior to leaving. no further contact overnoc.
+",,
+13646,3786,16990,0,3221-07-09 04:48:00 EST,3221-07-09 04:52:00 EST,2476,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+PSV increased to 15 cm due to patient's stated SOB.  FIO2 increased to 50% due to hypoxia demonstrated with ABG's.  Physician noted Rt. pneumothorax on CT scan.
+
+No RSBI per physician.
+",,
+13646,3786,16990,0,3221-07-09 18:03:00 EST,3221-07-09 18:24:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Review of systems:
+
+Resp:  Initially on vent settings PS 15/peep 5/50%/TV 350-450/RR 20. Attempted to wean support, however due to multiple procedures today pt eventually returned to PS 15/peep 5/40%/TV 480/RR 26 to rest overnight. Pt's right lung was tapped in ultrasound this am with approx 100ml yellow fluid drained. Simple bandage applied to site.Pt tol procedure well. Lungs coarse bilat with exp wheeze R>L. Maintaining sats at 95-100%. 
+
+CV: VSS with HR 60-76 junctional rhythm without ectopy. BP 117/57-148/65. Team attempted to insert central line and entered carotid. Pt on Q2hr neuro signs X 12hrs. Signs cont stable. Team then inserted RIJ with cofirmation by X-ray pending. Pt tol procedure well despite extended duration. Right groin line has been D/C'd with pressure applied and no sign of bleeding from site.
+
+Neuro: A&O X 3, no C/O discomfort. Neuro checks per above.
+
+GI: Pt cont NPO. No stool this shift, but rectal by HO tested guiac neg. Bowel sounds present. Abd is soft, slightly distended.
+
+GU: Pt output cont only 20-40ml/hr. BUN/creat WNL. Indwelling cath changed to coude without change in output. I/O for 24hrs 2587/688ml. Urine cont light yellow, clear. IV fluid D5 .45NS @ 50ml/hr.
+
+Social: Family in at bedside, supportive/appropriate.
+",,
+13646,3786,16990,0,3221-07-09 18:41:00 EST,3221-07-09 18:41:00 EST,2078,"N",69,"Nursing/Other",,"
+
+Addendum:
+""Mothers ring"" (3 stone gold ring) cut and given to family.
+[**First Name8 (NamePattern2) 5089**] [**Last Name (NamePattern1) 5090**] RN
+",,
+13646,3786,16990,,3221-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-10**] 11:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2235**]
+     Reason: eval for change in effusion, infiltrate, PTX                
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman with  s/p RLL resection  and COPD, R hydropneumothorax, s/p 
+       extubation with decreased 02 saturations and hypercapnia
+     REASON FOR THIS EXAMINATION:
+      eval for change in effusion, infiltrate, PTX                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:  11:25
+     
+     INDICATION:  Right lower lobe resection and COPD with decreased O2 sats.
+     
+     COMPARISON:  [**3221-7-9**] at 18:18
+     
+     FINDINGS:  Chain sutures are identified at the left mid lung field and the
+     visualized aerated lung on the left is substantially different.  There is some
+     blunting at the left lateral costophrenic sulcus as noted previously.
+     
+     The right lung appears to demonstrate increased opacity at the right base with
+     obscuration of the right heart border.  The right upper lung zone is not
+     substantially different.  The central venous line remains in place.
+     
+     The patient has extubated.
+     
+     IMPRESSION:
+     Slightly worsened air space disease in the right middle lobe vs. prior - no
+     other interval changes in the appearance of the lungs.
+     
+
+",,
+13646,3786,16990,0,3221-07-10 00:41:00 EST,3221-07-10 00:44:00 EST,2010,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Current settings: Cpap/PS 15ps 5 peep and 40%fio2. Spontaneous tidal volume 400's with Respiratory rates in the teens. Breathsounds are coarse. Combivent given as ordered. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Wean per protocol.
+",,
+13646,3786,16990,0,3221-07-10 04:00:00 EST,3221-07-10 04:20:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Remains alert, follows commands. Communicates needs by mouthing words and writing on board. MAE. PERL. 
+
+Resp - Rested on PSV 15/5 40% overnight. TV's 410-430. RR 10-26. 02 sats > 96%. LS coarse. Sx q 4 hrs for sm amts thick white sputum. Plan is for SBT this am and ? extubation.
+
+C-V - HR mostly 58- 62 junctional rhythm. BP 112-136/54-65. Pt experienced several (5) episodes where HR decreased to the 40's. With two episodes, prolonged pauses noted - longest lasting 4.24 secs. During these episodes pt asymptomatic with a stable BP. Atropine at bedside and pacemaker pads applied. 
+
+GI - NPO for ? extub. Abd sl distended. +BS. No stool. 
+
+Heme - Hct 27.9. Plan is to transfuse to keep hct > 26. 
+
+F/E - IV d51/2 NS infusing at 50ccs/hr cont. Pt with neurogenic bladder. Urine output averaging 20-25ccs/hr. MD aware, no intervention ordered. CVP 11-13. Lytes sent last eve secondary to low HR - K 4.3 BUN 18 Cr 0.4 Mg 2.1. 
+
+ID - Afeb. Remains on levoflox for ? VAP. 
+
+Skin - Pitting edema lower exts. Adaptic and kerlix applied to skin tear on left forearm. 
+
+Social - Family visited last eve. 
+
+A+P - Continue to monitor for bradycardia. Follow f+e status closely. Wean PSV as tolerated. ? extubation this am. 
+",,
+13646,3786,16990,0,3221-07-10 15:52:00 EST,3221-07-10 16:38:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Review of Systems:
+
+Resp:   RSBI this am 52.6, pt with strong cough, ABG on PS15/5peep/40% 7.35/50/75 with SRR 20, TV 400-550. Pt suctionned for large amt thin, white secretions. At 0915 pt extubated and placed on face mask @ FIO2 50%. Following ABG 7.22/68/72. ABG cont unsatisfactory despite changes in FIO2 per carevue. At 1115 pt placed on CPAP mask/PS. She is presently on CPAP/PS 15/peep5/FIO2 30%/TV 470-600/RR24.ABG @ 1500 7.31/57/68. CPAP mask removed occas to allow pt to clear secretions. Pt tol mask well, able to [**Doctor Last Name 8**] for an hour at a time.  Lungs clear with diminished sounds on right, some crackles at right base. Thoracic consult has suggested CT to aide lung expansion, although there's no plan for that at this time.
+
+CV:  VS generally stable with HR 50's-80 junctional rhythm without ectopy. BP 141/54-176/87. Pt cont to have HR as low as 35/min when sleeping, but maintains SBP>140.  CVP initially [**11-14**], now [**5-9**] although dampened. Card. consult recommends keeping Atropine @ bedside, Isuprel if pt has longer runs of extreme SB, and a temp wire as a last resort. Pacer pads remain on pt with defib. @ bedside.
+
+GI: Pt cont NPO. OGT D/C'd with extubation of ETT. NGT not inserted as it would break CPAP mask seal. Bowel sounds present. No stool this shift.
+
+GU: Pt with a burst of urination this am for approx 3hrs with output up to 250ml/hr. Urine at that time colorless. Output quickly tapered off to base of 25-40ml/hr. 24hr I/O 1050/897. Goal ouput neg 500ml.
+
+ID: Afebrile. WBC 6.5. Hydrocort cont to taper down, presently 60mg TiD. 
+
+Skin: Torn skin on left arm appearing less reddened. Both arms around level of elbows have started to weep large amt serous fluid. Pt's family states this has occurred on previous hosp with pt. 
+
+Social:  Family at bedside several hrs today. Drs [**Last Name (STitle) **] with [**Name5 (PTitle) **], beginning to discuss pt's future and quality of life vs levels of aggression of care. Family receptive to disscussion and appropriate. 
+
+Plan: CPAP mask as tol, cont to monitor ABG's/RR/TV. Isuprel if prolonged extreme SB. Cont to support family as they adjust to pt's status.
+
+
+",,
+13646,3786,16990,0,3221-07-10 17:04:00 EST,3221-07-10 17:10:00 EST,2477,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+     Patient extubated this am and decompensated after a few hours. She has been tolerating mask ventilation very well. On BIPAP of 15/5, 30% her abgs are 7.31/57/68/30/0. Goal for SpO2 in the low 90's per pt baseline. BS bilat, somewhat coarse at times, clearer post MDIs with combivent given Q4 and albuterol app., Q2 as needed. Cough productive for small amounts of thick white sputum during breaks from mask. Plan for reintubation if necessary. Patient and family aware.
+",,
+13646,3786,16990,,3221-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-11**] 10:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2236**]
+     Reason: evaluate positioning of ETT and OGT                         
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old woman with  s/p RLL resection  and COPD, R hydropneumothorax,  
+      reintubated for fatigue and worsening hypercarbia
+     REASON FOR THIS EXAMINATION:
+      evaluate positioning of ETT and OGT                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post right lower lobe resection. COPD. Right
+     hydropneumothorax, Fatigue.  Evaluate positions of endotracheal tube and
+     orogastric tube.
+     
+     FINDINGS:   Single AP supine view. Comparison is made to previous films from
+     [**3221-7-10**].  A new endotracheal tue is noted with its tip approximately 3 cm
+     above the carina, tilted towards the right side.  The NG tube is in the
+     stomach with its tip directed beyond the margin of the image in the lower
+     portion of the stomach. A right subclavian line is again noted with its
+     distal end well positioned in the mid SVC. The heart is not significantly
+     enlarged and the pulmonary vessels are not well displayed. Some patchy
+     infiltrate is noted at the right base consistent with the recent surgery and
+     some residual infiltrate/atelectasis.  Slight blunting of the costophrenic
+     angles is noted bilaterally consistent with small effusions. External
+     electrode stimulating pads are noted over the left lung.
+     
+     IMPRESSION:   Satisfactory placement of lines. Bibasilar infiltrates and some
+     atelectasis is noted following the right sided surgery.
+
+",,
+13646,3786,16990,0,3221-07-11 03:31:00 EST,3221-07-11 03:42:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient has been on mask ventilation overnight, psv 15/ 5 of peep/ 28%, latest abg on these settings 7.31/59/63 O2 sat 91%. She was taken off the mask last evening and changed to cool aerosol but was poorly tolerated becoming more tachypneic with increased heart rate after 20-25mins. Breath sounds are coarse with crackles throughout. Given albuterol and combivent inhalers q 2-4hours, also given albuterol/atrovent by neb when off the vent. Strong cough effort productive of small amounts of white sputum. Currently breathing in mid 20 with tidal volumes 450-500. Although pt. is tolerating the mask, her breathing appears labored. She did have several periods of apnea earlier although none in past few hours.
+",,
+13646,3786,16990,0,3221-07-11 04:41:00 EST,3221-07-11 05:15:00 EST,1628,"N",69,"Nursing/Other",,"
+
+NPN
+MICU
+7 PM - 7 AM
+ADENO LUNG CA..S/P  (R) UPPER LOBECTOMY ON [**6-3**]..
+WITH INCREASED SOB PROGRESSING TO HYPERCAPNIC RESP FAILURE
+REQUIRING INTUBATION
+CV HR 70-90'S...WITH FREQUENT  DROPPED BEATS ...NO PAUSES ..SBP 150-180'S/70-80'S... STARTED ON IV HYDRALAZINE 20 MG IV Q6...CVP 4-6...
+RESP CONTINUED ON MASK VENTILATION 15/5PEEP..WITH RR 24-36..TV 460-500..FIO2 OF 30%...ABG 7.31/69/62....PT REQUESTING  "" BREAK "" FROM MASK VENTILATION ...02 CHANGED TO 40% COOL MIST MASK... RR AND PATTERN  UNCHANGED IN THAT PT USING ACCESSORY MUSCLES.EXPECTORATING SMALL AMOUNT OF THICK WHITE SNXS ..CONGESTED COUGH.BUT PT BECAME TACHYCARDIC AFTER ONLY 25 MINUTES WITH HR ^^ TO THE  90'S AND PT  UNABLE TO TOLERATE CHANGE IN 02 DELIVERY ..REQUESTING  MASK VENTILATION...PERSISTENT LEAKS  AROUND MASK REQUIRING FREQUENT PLACEMENT RE-ADJUSTMENTS ...LUNGS COARSE ..WITH CXS THROUGHOUT ...HYDROCORTISONE TAPER TO 60 MG IV Q6..
+GI NPO ..NO STOOL
+GU URINE OUTPUT 60-80 CC Q2 
+COMFORT  PT DENIES RESP DISTRESS OR INCISIONAL PAIN...PT EDEMATOUS IN UPPER, TRUNK AND LOWER EXTREMITIES 
+A  UNSUCCESSFUL TRIAL OFF MASK VENTILATION
+P ? LONG TERM PULM  PLANS  ..SWALLOW STUDY PLANNED 
+ID TEMP 100 R ..CONTINUES ON ABX
+",,
+13646,3786,16990,0,3221-07-11 16:35:00 EST,3221-07-11 17:10:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Review of Systems:
+
+Resp: Pt alternated CPAP mask/PS 15/peep5/28% with NC @ 2-5l/min. Tol off CPAP mask from 10-1100, 1230-1430 with ABG 7.40/50/54/RR20's. However, when taken off mask at 1600 pt stated she was exhausted and requested reintubation with understanding that trach would mostly likely follow. Pt had discussed possible resp scenarios with family and Drs, and [**Name5 (PTitle) **]/eventual trach is acceptable to all. ABG @ 1700 7.37/51/55 with RR 44, O2 sat 89%.  Asesth has been called and they will evaluate pt in next hr. Secretions have been thick, and pt expectorated large white plug while off mask @ 1400. CPT/inhalation tx aggressively done. Lungs with diminished sounds throughout right, coarse on left. CXR this am showed increased opacity on right.
+
+CV: Pt has been in SR with HR83-97. No long pauses/skipped beats noted this shift. No ectopy. BP 185/94(before Hydralazine dose)-148/74. Hydralazine increased from 20 to 30mg Q6hr. Cardiology consult has signed off, but wishes to reevaluate her before D/C.
+
+Neuro:  Pt alert and oriented X 3. Talking with family when off CPAP mask. Moving all extremeties equally. No C/O pain, only tiredness.
+
+GI:  Passed soft, guiac neg stool X 1. Colace held as without access at this time (gag/swallow test to be done ? tomorrow). TPN started through central line.  K+ @ 1700 3.3--repleted with 20meq X2.
+
+GU: I/O x 24hrs [**Telephone/Fax (1) 5091**]. Pt again had sharp increase in urine output  this am with avg 140ml out X 3hr. Pt then reverted to normal output of 25-40ml/hr. 
+
+ID: Afebrile. No change in antibiotics. Hydrocort dec from 60 to 40mg Q8hr. WBC this am 8.7, up from 6.5.
+
+Skin: Skin tear on left lower arm unchanged. Compression sleeves off as they are abrading pt's skin. Skin is increasingly fragile, with fluid just below the surface on all extremeties (esp legs, hands).
+
+Plan: Please order 1st step mattress. Pt will most likely be reintubated this pm per her request after anesth evaluation. Will need to recheck lytes this pm. Cont to support pt and family. Access pt's need for anti-anxiety med, as her resp status appears to improve when she is able to nap.
+",,
+13646,3786,16990,,3221-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13646,3786,16990,0,3221-07-12 04:06:00 EST,3221-07-12 04:33:00 EST,2037,"N",69,"Nursing/Other",,"
+
+S. If [**Doctor First Name **] think I should be intubated then I will be I just want to be comfortable
+O. Resp labored breathing Abg on 50% fm 7.29/65/90/33 decision was made to electively intubate she was placed on cmv 40% TV 500 Peep 5 RR 14 lungs coarse to clear some exp wheezes prior to intubation. sx for thick yellow secretions q 2 hr
+cardiac pt had 2 episodes of asystole came back nsr without  intervention. pt went into rapid AFib with rate as high as 180 given 10mg diltazem iv sl improvement rate 90-133 afib bp as low as 65/ placed on neo gave total of 2liter fluid bolus able to wean neo keeping map 60. pt was cardioverted 3am converted to nsr then went asystolic chest compressions started 1amp of epi given came back nsr bp stable 1-2 min later asystolic again chest compressions done  pt came back nsr. K+ 4.1 mag 1.8 tx with 2gm mag sulfate. Hct 29.7 skin anasarca weeping pp+2
+GU u/o initial low after boluses improved >35 q hr bun 19 cr .4
+GI TPN abd snt bs+ had soft brown stool sm
+ID wbc 9.7 on levo afebrile
+skin lt forearm skin tear weeping yellow exudate. SKin very frail unable to tolerate compression sleeves, edematous and weeping
+Access rt SC IJ and rt radial aline
+Prophylaxis heparin sq
+a.episodes of asystole and rapid afib
+resp distress
+anasarca weeping skin
+p. consult EP
+intubation with prob need for a trach
+good skin care need for KCI bed
+
+",,
+13646,3786,16990,0,3221-07-12 04:39:00 EST,3221-07-12 04:45:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory CAre
+Patient was reintubated last night due to worsening resp. failure. 7.5 et tube taped @23cm +bilateral breath sounds, coarse with wheezes and rales. Unstable  post intubation with hypotension/afib req. cardioversion/asystole. Stable now, sedated on propafol. Vent settings a/c 500 x14 40% 5 of peep. RSBI = 72 but not placed on spontaneous breathing trial.
+",,
+13646,3786,16990,0,3221-07-12 16:20:00 EST,3221-07-12 16:49:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing Note (0700-1900hrs)
+
+Neuro: Alert; appropriately answering to questions/commands via nonverbal cues and letter board. Family visiting; pt aware of plan for trach [**7-13**]. Pt initiating conversations w/ staff. Lightly sedated w/ propofol gtt; no ativan given. Pt denies discomfort/pain.
+
+CV: Afebrile. Remained in NSR thru shift, 70-90's w/rare PVC's. BP 100-120/50's. Hydralazine d/c'd. Neo gtt remains off.  R QLCL intact, A-line unremarkable. Anasarca, several large intact blisters to BLE's, p-boots removed d/t risk of more skin tears; team aware. LUE drng lg amt yellow drng. EP consulted- appears to have had a transient loss of juctional escape during [**Doctor Last Name 8**] w/ sinus node dysfunction.  Placed on first step bed for prevention of decub/skin breakdown.
+
+Resp: LS w/occ exp wheeze otherwise clear/coarse. Remains on AC 500/40/14/5; ABG wnl. Scheduled for trach tomorrow.
+
+GI: Promote w/ fiber begun 10cc/hr, increased to 25 cc/hr. Abd soft. PEG in am. No stool. TPN.
+
+GU: u/o remains borderline; catheter ?positional; coude catheter.
+
+ID: levo for for positive sputum cx. WBC 9.7
+ 
+Plan: Trach/PEG [**7-13**]. Monitor for arrythmias, treat accordingly. EP has recommended no pacemaker at this time- cont w/telemetry, atropine prn; EP to reassess later for pacer.  Goal for u/o 30 cc/hr. TF goal 75 cc/hr, increase rate Q 4 hrs as tol. NPO after MN for peg/trach. Check FS q 6 hrs. 
+",,
+13646,3786,16990,,3221-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3221-7-13**] 5:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2237**]
+     Reason: please eval for infiltrates                                 
+     Admitting Diagnosis: RESPIRATORY FAILURE;COMPLETE HEART BLOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           73 year old woman with  s/p RLL resection  and COPD, R hydropneumothorax,  
+       reintubated for fatigue and worsening hypercarbia
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrates                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post right lower lobe resection and COPD, with right
+     hydropneumothorax. Reintubation for fatigue and worsening respiratory
+     performance. Question infiltrates.
+     
+     TECHNIQUE: Single portable AP view of the chest was compared with a prior
+     study from two days ago.
+     
+     FINDINGS: Again seen is an endotracheal tube, terminating in appropriate
+     position. NG tube terminates in the upper stomach, and should be advanced 15
+     to 25 cm for the side port to be safely within the stomach. Right-sided
+     subclavian catheter again terminates in the mid SVC. Cardiac and mediastinal
+     silhouettes are unchanged. There is slight improvement in the right basilar
+     and left apical patchy opacities. There is persistence of right-sided pleural
+     effusion. No evidence of pneumothorax. Again seen are multiple right-sided
+     posterior apical rib fractures, some of which are moderately displaced.
+     
+     IMPRESSION:
+     1. Slight improvement of right basilar and left apical patchy opacities.
+     2. NG tube terminates in the upper stomach, and should be advanced
+     approximately 20 cm for adequate placement within the stomach.
+     3. Unchanged appearance of multiple right-sided ___ rib fractures.
+
+",,
+13646,3786,16990,0,3221-07-13 04:21:00 EST,3221-07-13 04:33:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Pt remains alert and cooperative. Follows commands. Communicates with writing board or by mouthing words. Sedated with 4.6 mcgs/kg/min of propofol. 
+
+C-V - HR 72-92 SR with only rare PVC's noted. BP 116-134/60-73. PMR ext pads remain in place. Atropine at bedside. 
+
+Resp - Vent settings unchanged. Pt rested on AC 500/40/14/5. Occasionally overbreathing the vent by 1-4 breaths. 02 sats > 96%. Initially sx for copious amts thick white secretions q 1-2 hrs. Quantity of secretions decreased as the noc progessed requiring only q 3-4 hr sx. ABG this am 7.40/52/104/33/5.
+
+GI - TF held since MN for planned trach and peg placement today. +BS. No stool. TPN infusing via central line. 
+
+F/E - Continues to experience sm u/o - voiding 17-45ccs/hr via foley cath. MD aware. No fluid boluses administered. 
+
+Skin - + anasarca. Lg amt yellow drainage noted from LUE. Adaptic, 4x4 and kerlix applied. Intact blisters noted on BLE. 
+
+Endo - RISS
+
+Social - Numerous family memebers visited last eve. 
+
+A+P - Continue to monitor c-v and resp status closely. Trach and peg placement as scheduled for today after resp wean.
+",,
+13646,3786,16990,0,3221-07-13 04:26:00 EST,3221-07-13 04:27:00 EST,2052,"N",69,"Nursing/Other",,"
+
+pt.remains on cmv ventilation, 500-ac.14-40% -5 peep, abg=7.40,52,104,33,5,98%, rsbi 57, will probably attempt wean this a.m.
+",,
+13646,3786,16990,0,3221-07-13 17:35:00 EST,3221-07-13 17:50:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing Note (0700-1900hrs)
+
+Neuro: remains alert, answering questions appropriately via nonverbal cues and writing board. Pt more lethargic after trach placement-? due to sedatives given; dozing off easily.
+
+CV: Afebrile. Hemodynamically stable. Received 40 meq kcl IV am. restarted on IV hydralazine for mild hypertension to 140-150. Hydrocortisone taper. hct 29.7, repeat HCt to be drawn 7 pm with ABG due to presence of mod amt bleeding to trach w/suctioning.
+
+Resp: Trach placement; received 5 mg verconium, 200 fent, 100 propofol. Several vent changes post placement, unable to tolerate CPAP/SIMV, placed on AC; next ABG due 7 pm. respirations labored, achieving TV of 270-320 while on CPAP. ""Large clot"" found w/ bronch-trach placement.
+
+GI: PEG placed, tol well. No TF for next 24 hrs. May receive meds via PEG. Site w/o drng. Abd soft, tender due to PEG; received 1 mg MS04 w/effect for discomfort. receiving TPN.
+
+GU: u/o improved, achieving hourly outputs >35 cc/hr. No stool
+
+Endo: RISS
+ID:  Levo for RLL process. Afebrile
+
+Social: Daughter and husband visiting [**Name2 (NI) **] day.  Met w/ social work to discuss rehab placement. 
+
+Plan: Emotional support. Vent changes as necessary per ABG's. f/u with team re: TF for [**7-14**] in afternoon; meds via PEG. Monitor u/o. hydrocortizone taper. ?pacemaker per EP if acute issues resolved. ?lasix iv or gtt in 1-2 days to begin diuresis- caution in light of preload dependency. 
+
+
+",,
+13646,3786,16990,0,3221-07-14 02:49:00 EST,3221-07-14 02:52:00 EST,2010,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains trached and mechanically vented. Vent checked and alarms functioning. Current settings: A/C 500* 12 40% 5 peep. Breathsounds are coarse and decreased at bases. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Wean per protocol.
+
+",,
+13646,3786,16990,0,3221-07-14 04:45:00 EST,3221-07-14 05:02:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Progress Note 7p-7a","
+PMICU Nursing Progress Note 7p-7a
+Events'
+ 
+ Pt slept soundly for most of night, no c/p pn. No further cardiac changes or irregularities. Met goal diuresis of neg 1 L by this am. NPO since yesterday for planned pacing wire placement today per EP last evening. Plan to follow up w. team.
+
+Review of Systems  
+
+Neuro- Cont on 4.96 mcg/kg/min of Propofol, as stated above comfortable o/n. Consistently arousbale to voice and stimuli. PERRLA, bsk. MAE- weak, recommend surgical contact.
+
+Resp- Placed on PS 10(from AC o/n, please refer to CV for all further details), 5 PEEP, @ 0600; TV 400-500, Sats 95%, RR 20. Suctioned for thick bloody secretions q 3 hrs.  LS coarse in throughout, rhonchi also noted. Cont pulm toilet and vent weaning per protoclo.
+
+CV- Hemodynamically stable, HR 90-100, NSR, no ectopy. Potassium repleted w 20 mequ following 20 mg lasix dose IVP. Pt had excellent response to lasix, met goal -1 L for this am. Please follow up on all am labs.
+
+GI- Abd soft, +BS, no BM- cont w/ colace. NPO for pacing wire today pER EP and team.
+
+GU- Excellent u/o/hr, please refer to CV./
+
+Skin- Steri strips on back dry and intact, Arm and leg dsd changed.
+
+Plan- Follow up on all labs w/ team and cont supportive medical care.  Daughter updated by nsg this am.
+",,
+13646,3786,16990,0,3221-07-14 16:35:00 EST,3221-07-14 16:38:00 EST,2477,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+    Patient tolerating PSV wean well on PSV of 10/5, with increase to 14 for rest type periods. RR in the low twenties. BS remain decreased in the RLL. Suctioned for thick sometimes slightly yellow tinged secretions. Receiving MDIS with increased aeration post tx. See carevue flowsheet.  (She has received morphine for discomfort today and appears tired this afternoon, hopefully, not depressed. 
+",,
+13646,3786,16990,0,3221-07-14 17:28:00 EST,3221-07-14 17:43:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Events:  Pt. tolerating PSV to 10 for 6-8 hours then requiring increase in support to PSV 14, retrialed back to 10 this afternoon.  Pt. 2L negative thus far for today, goal 1L negative q24; lasix 20mg ordered BID.  Pacer put on hold until pt. without significant risk for infection i.e; out of ICU.  Pt. awaiting pulm. rehab unit with telemetry.  Will cont aggressive weaning and diuresing this week.
+
+Review of Systems:
+
+Neuro- Pt. c/o of pain at incisional sites this am; medicated with 1mg of MSO4 X 2 with relief.  Requesting MSO4/ pain relief this afternoon and received another 1mg dose with good effect.  Otherwise, pt. cheerful c/o being tired.  
+
+Mobility- Active ROM of upper ext done, passive of legs.  Pt. transferred to chair with 3 assist and slideboard.  Tolerated X 1 hour.
+
+Resp-  Currently, on PSV 10 40% PEEP5 with TV 300-400 X 20-30.  Slightly tachyneic throughout the day but denied SOB.  Sx'd q2-3 hours for thick, pale yellow sputum.  Requiring lavaging/sx'ing this am to effectively clear secretions.  AM ABG on PSV 10 7.43/54/74/37.  Sat's maintained >92%.  Conts on levoquin for ? RLL pnx.  Trach care done this evening; site appears clean/dry.  
+
+CV-  HR 80-115, BP 90-140's.  Evening dose of hydralazine held d/t SBP 90's.  Receiving lasix BID now.  Received an additional 40meQ of KCL this afternoon; would recheck K+ this evening.  Other lab values stable, no repletion needed.  
+
+Derm-  Pt. remains fluid overloaded; weeping from all skin puncture sites especially right arm and leg; dsd applied.  Steri-strips peeling away of right lobectomy site; otherwise clean.  No breakdown noted.  Remains on air mattress.  
+
+GI-  ABD soft.  As mentioned PEG site ""sore"" per pt.  Dsg changed and visualized by GI; appears clean.  TF restarted at 15cc/hr and advanced to 30cc/hr; goal is 75.  TPN conts until Tf at goal.  No stool this shift conts on colace.  ? last BM.  However, pt. has not been on enteral feeds at goal for while.  
+
+GU-  Goal 1L negative q24; 2L negative now.  BID lasix as mentioned.  Urine cx sent this am d/t cloudy urine; awaiting results.  
+
+ID-  TMAX 100 today.  Conts on levoquin for RLL pnx.  ? new UTI.  
+
+Social- son in today and updated by nursing.  Discussed need for pacer with pt. and family; all appear to understand the need and that the need is not emergent at this point.
+",,
+13646,3786,16990,0,3221-07-15 04:55:00 EST,3221-07-15 05:05:00 EST,2609,"N",69,"Nursing/Other",,"
+
+Nursing note for Micu A 1900-0700
+
+Events: uneventful night, continues on lasix iv bid. K was repleted at 0100 for a k+ level of 3.1, am labs are pending. Pt is awaiting pulm rehab requires a bed with tele.
+
+Neuro: MAE, legs need assistance, pt can move arms very well, pt makes her needs known via writing and mouthing words. Was medicated x one at 2100 with ms 1 mg for PEG discomfort.
+
+Resp: #6 shiley, trach care was given, remains on cpap of 40% peep of 5 and pps of 10, pulling volumes of 325-400. bs are diminished in upper lobes and course at bases. sxned q3-4 hrs for small amt of thick yellow secretions.
+
+Derm: pt has fluid overload and skin is weeping. dsg was changed on left arm and leg. steri strips are pulling away from the skin from s/p lobectomy. remains on step one mattress.
+
+GI/GU: no stool this shift, tf as well TPN infusing. residual are min.
+TF via Peg, at 30cc per hr, goal is 75. The plan is to gradually increase rate in order to prevent discomfort to the patient. Foley to cd, clear yellow urine. did receive routine dose of lasix at 00, diuresed 800cc from lasix. at midnight pt was 1754 neg, in 24 hr 594.5 neg balance.
+
+ID, afebrile, remains on abx.
+
+Heme: pending, see carevue.
+
+Endo: finger sticks made BID>
+Social: daughter called this am, updated on condition.
+",,
+13646,3786,16990,0,3221-07-15 05:58:00 EST,3221-07-15 05:59:00 EST,2609,"N",69,"Nursing/Other",,"
+
+addend: pt was repleted with 40 meq kcl po for k+ level of 3.2 and also was repleted with mag sulfate Iv for a mag level of 1.6.
+",,
+13646,3786,16990,0,3221-07-15 15:34:00 EST,3221-07-15 15:39:00 EST,2070,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains trached and vented on settings PSV 10 peep 5 and 40% with TV 400 and RR 16-20. No vent changed made this shift. Cont on Combivent MDI Q vent check. Sxn for thick white to old blood tinged secretions. Cont current support, plan is for transfer to rehab. soon.
+",,
+13646,3786,16990,0,3221-07-15 16:58:00 EST,3221-07-15 17:21:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Pt. to be d/c to rehab ([**Hospital1 2**]) tom'row at 9:30am; discharge summary complete and nursing page 2 completed.  Coude catheter changed d/t new pseudomonas in urine.  A-line d/c'd.  RSC TLC to be d/c'd tom'row prior to d/c.  Pt. has 1 PIV in right hand.  Affect; withdrawn to staff which is a change for pt.  FYI: Pt. b'day is tom'row!
+
+Review of Systems:
+
+Neuro:  Pt. more withdrawn today.  Refused to get OOB to chair.  Showing frustration with medical/nursing care.  Writing that she does not want more invasive interventions at this time.  Pt. much more interactive with family.  Started on Zoloft qhs.  Sleeping in naps throughout the shift.  No c/o of pain.
+
+Resp:  PSV remained at 10 throughout the day.  Pt. with TV 300-500, RR 20's.  Sat's 94-97% on 40%.  Sx'd q3-4 hours for THICK yellow sputum.  PT. with strong cough and gag.  Trach site looks clean.  Trach care done last night.  
+
+CV:  HR stable 80-90 NSR.  BP stable 100-130.  A-line d/c'd in preparation for discharge.  Manual BP taken d/t malfunctioning BP cuff.  Pt. conts to be edemedous throughout; weeping from puncture sites.  K+ 3.9; received [**2-4**] afternoon dose of KCL (20meQ).  Received 40mg of PO Lasix.  
+
+GI:  TF cont to be advanced towards goal of 75cc/hr.  Currently, at  50cc/hr with last residual of 60cc.  No stool thus far, conts on colace.  
+
+GU:  Currently, 1L negative, at goal.  Conts on bid lasix PO.  Changed coude catheter d/t pseudomonas UTI.  
+
+ID:  Aztreonam added to med regimen for UTI conts on levoquin and is afebrile.
+
+Social:  family aware of transfer to rehab in am.
+",,
+13646,,16990,0,3221-07-16 03:42:00 EST,3221-07-16 04:02:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Progress Note 7p-7a","
+PMICU Nursing Progress Note 7p-7a
+
+ No acute events o/n, pt slept comfortably for most of night. Remains more withdrawn than in the past, cont on PO antidepressants. Plans to leave for rehab this am. Tranfer/Rehab note complete.
+
+Review of Systems
+
+Neuro- Alert, able to mouth answers correctly to questions asked. Follows commands, needs to be encouraged to participate in care. PERRLA, bsk. MAE- weak. Passive ROM done 1x.  
+CV- Hemodynamically stable; HR 70's, NSR, no ectopy. SBP 82-90's. Slightly hypotensive when in a deep [**Doctor Last Name 8**]. Please follow up on all am labs w/ team.
+Resp- No changes made to vent, Trached; cont on 10 PS, 5 PEEP, 40%, TV 300-500, RR 18-20, Sats 95%. Suctioned for lg amts of thick tan bld tinged sputum q 4 hrs. Also expectorates thick plug 2x o/n. Cont pulm toilet.
+GI- And soft, +BS, no BM. Cont on colace. TF @ 50 CC/hr. 
+GU- Adeqaute u/o/hr, 30-50cc, cont w/ BID lasix.
+
+Plan- Cont supportive medical care, send pt to rehab and wish pt happy birthday!   
+",,

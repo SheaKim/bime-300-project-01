@@ -1,0 +1,822 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13847,,,,2934-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-10**] 1:35 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 3989**]
+     Reason: ENCEPHALOPATHY, HX CIRRHOSIS, EVAL FOR ASCITES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with cirrhosis, presents with mental status changes, n/v.
+     REASON FOR THIS EXAMINATION:
+      ?ascites 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis, and mental status changes.
+     
+     ABDOMINAL ULTRASOUND, LIMITED EXAM:  No evidence of ascites.
+     
+
+",,
+13847,,,,2934-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-10**] 5:25 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 3990**]
+     Reason: ?cholecystitis  ?choledocholithiasis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with cirrhosis, presents with mental status changes, n/v, now
+      with RUQ tenderness. 
+     REASON FOR THIS EXAMINATION:
+      ?cholecystitis  ?choledocholithiasis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis, mental status changes, nausea and vomiting, now with
+     right upper quadrant tenderness.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  Comparison is made to a prior ultrasound of
+     [**2934-3-4**].  The liver demonstrates a coarse architecture, consistent with
+     chronic liver disease.  The gallbladder is not enlarged.  There is thickening
+     of the gallbladder wall with possible wall edema unchanged from the prior
+     study. The wall thickness measures up to 6 mm. There is no sonographic
+     [**Doctor Last Name 1392**] sign. Multiple stones are present within the gallbladder, including
+     one immediately adjacent to the gallbladder neck. The common bile duct is
+     dilated to a diameter of 9 mm.  No stones are visualized within the bile duct
+     down to the level of the pancreatic head.  No intrahepatic ductal dilatation.
+     
+     IMPRESSION:  Multiple gallstones with thickened gallbladder wall.  Moderate
+     common bile duct dilatation without evidence of choledocholithiasis.  These
+     findings are unchanged from the prior exam of [**2934-3-4**].  At that time,
+     the patient was asymptomatic.  These findings could represent chronic changes,
+     but an acute cholecystitis cannot be excluded.
+     
+
+",,
+13847,,,,2934-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-10**] 11:33 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3988**]
+     Reason: ?pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with h/o DM, HTN, cirrhosis, presents with mental status
+      change, failure to thrive.
+     REASON FOR THIS EXAMINATION:
+      ?pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: A 79-year-old female with mental status changes.
+     
+     TECHNIQUE: Portable AP chest.
+     
+     COMPARISON: [**2933-10-4**].
+     
+     FINDINGS: There is stable polychamber cardiomegaly and tortuosity of the
+     descending aorta.  The pulmonary vasculature is not engorged.  There is an
+     ill-defined right mediastinal opacity which was present on the previous
+     examination but appears slightly more prominent. The lungs otherwise appear
+     clear.There are no pleural effusions. The visualized osseous structures are
+     notable for diffuse osteopenia.
+     
+     IMPRESSION: Increased prominence of right mediastinal opacity. It is unclear
+     whether this represents a superimposed infiltrate. Please correlate
+     clinically.
+     
+
+",,
+13847,,,,2934-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-12**] 4:39 PM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 3991**]
+     Reason: R/O CBD stones
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with autoimmune hepatitis. Now with rising T.Bili and abd U/S
+      showing GS and 9 mm CBD. 
+     REASON FOR THIS EXAMINATION:
+      R/O CBD stones
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate for common bile duct stones.  Autoimmune hepatitis with
+     rising total bilirubin.
+     
+     ERCP:  Cannulation of the biliary ducts was unsuccessful, despite multiple
+     attempts and multiple different catheters.  No images were obtained.
+     
+     IMPRESSION:  Unsuccessful cannulation of biliary duct.
+
+",,
+13847,,,,2934-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13847,,,,2934-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13847,,,,2934-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-14**] 6:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3992**]
+     Reason: assess for bowel perforation, evidence of pancreatitis      
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with alcoholic cirrhosis, hyperbilirubinemia, abdominal pain, 
+      now with post-ERCP pancreatitis and acute renal failure
+     REASON FOR THIS EXAMINATION:
+      assess for bowel perforation, evidence of pancreatitis                          
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alcoholic cirrhosis with abdominal pain and post-ERCP
+     pancreatitis.  Assess for bowel perforation or evidence of pancreatitis.
+     
+     COMPARISON:  [**2933-3-24**].
+     
+     TECHNIQUE:  Non-contrast CT of the abdomen and pelvis with gastrografin.
+     Intravenous contrast was not used secondary to renal failure.
+     
+     ABDOMEN:  Pleural thickening is seen bilaterally, and there is a small left
+     pleural effusion.  There is dependent atelectasis at both lung bases.  The
+     liver is small, with a nodular contour.  The umbilical vein is recanalized.
+     Multiple calcifications are seen within a plump-appearing spleen.  The splenic
+     artery is calcified.  There is a small amount of free abdominal fluid, mainly
+     in the lesser sac and in the pericolic gutters. Stranding is seen throughout
+     the abdominal mesentery, which is likely related to pancreatitis.  Pancreatic
+     necrosis cannot be assessed without intravenous contrast. Multiple calcified,
+     lamellated stones are seen within the gallbladder. The adrenal glands are
+     unremarkable. The kidneys are scarred bilaterally and contain multiple small
+     bilateral parenchymal stones. There is no evidence of hydronephrosis.
+     
+     The opacified loops of bowel are normal in caliber.  There are no air fluid
+     levels.  There is no free intra-abdominal air to suggest perforation.
+     
+     PELVIS:  A Foley catheter is noted within a collapsed bladder.  The uterus,
+     adnexa, and pelvic loops of bowel are unremarkable.  There is no free pelvic
+     fluid.  There is no appreciable inguinal or pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     Extensive degenerative change is seen throughout the spine.  Multiple
+     injection granulomas are noted in both buttocks.  The aorta is calcified and
+     ectatic.
+     
+     IMPRESSION:  1)  Compared with the previous scan, there is a small new amount
+     of free abdominal fluid and diffuse stranding throughout the mesentery,
+     consistent with pancreatitis. There is no evidence of bowel perforation.
+     
+     2)  Numerous chronic findings as described above.
+                                                                 (Over)
+
+     DATE: [**2934-4-14**] 6:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3992**]
+     Reason: assess for bowel perforation, evidence of pancreatitis      
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13847,,,,2934-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-14**] 6:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3992**]
+     Reason: assess for bowel perforation, evidence of pancreatitis      
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with alcoholic cirrhosis, hyperbilirubinemia, abdominal pain, 
+      now with post-ERCP pancreatitis and acute renal failure
+     REASON FOR THIS EXAMINATION:
+      assess for bowel perforation, evidence of pancreatitis                          
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alcoholic cirrhosis with abdominal pain and post-ERCP
+     pancreatitis.  Assess for bowel perforation or evidence of pancreatitis.
+     
+     COMPARISON:  [**2933-3-24**].
+     
+     TECHNIQUE:  Non-contrast CT of the abdomen and pelvis with gastrografin.
+     Intravenous contrast was not used secondary to renal failure.
+     
+     ABDOMEN:  Pleural thickening is seen bilaterally, and there is a small left
+     pleural effusion.  There is dependent atelectasis at both lung bases.  The
+     liver is small, with a nodular contour.  The umbilical vein is recanalized.
+     Multiple calcifications are seen within a plump-appearing spleen.  The splenic
+     artery is calcified.  There is a small amount of free abdominal fluid, mainly
+     in the lesser sac and in the pericolic gutters. Stranding is seen throughout
+     the abdominal mesentery, which is likely related to pancreatitis.  Pancreatic
+     necrosis cannot be assessed without intravenous contrast. Multiple calcified,
+     lamellated stones are seen within the gallbladder. The adrenal glands are
+     unremarkable. The kidneys are scarred bilaterally and contain multiple small
+     bilateral parenchymal stones. There is no evidence of hydronephrosis.
+     
+     The opacified loops of bowel are normal in caliber.  There are no air fluid
+     levels.  There is no free intra-abdominal air to suggest perforation.
+     
+     PELVIS:  A Foley catheter is noted within a collapsed bladder.  The uterus,
+     adnexa, and pelvic loops of bowel are unremarkable.  There is no free pelvic
+     fluid.  There is no appreciable inguinal or pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     Extensive degenerative change is seen throughout the spine.  Multiple
+     injection granulomas are noted in both buttocks.  The aorta is calcified and
+     ectatic.
+     
+     IMPRESSION:  1)  Compared with the previous scan, there is a small new amount
+     of free abdominal fluid and diffuse stranding throughout the mesentery,
+     consistent with pancreatitis. There is no evidence of bowel perforation.
+     
+     2)  Numerous chronic findings as described above.
+                                                                 (Over)
+
+     DATE: [**2934-4-14**] 6:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3992**]
+     Reason: assess for bowel perforation, evidence of pancreatitis      
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13847,,,,2934-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-15**] 1:53 PM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 3993**]
+     Reason: HEPATITIS, ELEVATED BILI,CBD DILATION
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with hepatitis and elevated bilirubin.
+     
+     TECHNIQUE:  The examination is limited due to patient's inability to hold his
+     breath.  Multiplanar images were acquired including non-breath T1 in/out of
+     phase, inversion recovery, multiplanar HASTE, thick slab heavy T2 tilted
+     images and pre and post-gadolinium turbo FLASH images.  Subtracted images were
+     generated.
+     
+     Multiplanar reconstructions were generated and evaluated on the work station.
+     FINDINGS:  The border of the liver is undular and there are multiple
+     peripheric linear findings which are consistent with fibrosis.  There is also
+     hypertrophy of the left lobe of the liver and atrophy of the right lobe of
+     the liver.
+     
+     Limited examination does not reveal dilatation of the intra or extrahepatic
+     bile ducts.  Sludge or tiny stones are noticed within the gallbladder.
+     Limited evaluation of the liver does not reveal any gross focal arterial
+     enhancing lesions.  There is hepatopetal flow in the main portal vein.  There
+     is normal enhancement of the left and right main portal vein with thrombosis
+     and canalization of the right anterior branch of the portal vein.  The right
+     posterior branch of the portal vein is thrombosed.  There are signs of portal
+     hypertension which include a large recanalized paraumbilical vein and mild
+     quantity of ascites.  The spleen is not enlarged and no paraesophageal varices
+     are noticed.
+     
+     Both adrenals are unremarkable.  Limited evaluation of the pancreas reveals
+     normal enhancement and no gross fluid collection around it.  Multiple lymph
+     nodes are noticed in the paraaortic region up to a dimension of 1 cm.
+     Multiple cysts are seen in the upper and mid portion of both kidneys.  The
+     heart is enlarged especially the right side.  Small amount of pleural
+     effusion is seen on the left side.
+     
+     Multiplanar reconstructions were essential for evaluation of the anatomy and
+     pathology as described above.
+     
+     IMPRESSION:
+     1)  Sizes of liver cirrhosis with portal hypertension.
+     2)  The intra and extrahepatic bile ducts are not dilated.  There are stones
+     or sludge in the gallbladder.
+     3)  Thrombosis of the right anterior and right posterior branches of the
+     portal vein.
+
+",,
+13847,,,,2934-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-15**] 1:53 PM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 3993**]
+     Reason: HEPATITIS, ELEVATED BILI,CBD DILATION
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with hepatitis and elevated bilirubin.
+     
+     TECHNIQUE:  The examination is limited due to patient's inability to hold his
+     breath.  Multiplanar images were acquired including non-breath T1 in/out of
+     phase, inversion recovery, multiplanar HASTE, thick slab heavy T2 tilted
+     images and pre and post-gadolinium turbo FLASH images.  Subtracted images were
+     generated.
+     
+     Multiplanar reconstructions were generated and evaluated on the work station.
+     FINDINGS:  The border of the liver is undular and there are multiple
+     peripheric linear findings which are consistent with fibrosis.  There is also
+     hypertrophy of the left lobe of the liver and atrophy of the right lobe of
+     the liver.
+     
+     Limited examination does not reveal dilatation of the intra or extrahepatic
+     bile ducts.  Sludge or tiny stones are noticed within the gallbladder.
+     Limited evaluation of the liver does not reveal any gross focal arterial
+     enhancing lesions.  There is hepatopetal flow in the main portal vein.  There
+     is normal enhancement of the left and right main portal vein with thrombosis
+     and canalization of the right anterior branch of the portal vein.  The right
+     posterior branch of the portal vein is thrombosed.  There are signs of portal
+     hypertension which include a large recanalized paraumbilical vein and mild
+     quantity of ascites.  The spleen is not enlarged and no paraesophageal varices
+     are noticed.
+     
+     Both adrenals are unremarkable.  Limited evaluation of the pancreas reveals
+     normal enhancement and no gross fluid collection around it.  Multiple lymph
+     nodes are noticed in the paraaortic region up to a dimension of 1 cm.
+     Multiple cysts are seen in the upper and mid portion of both kidneys.  The
+     heart is enlarged especially the right side.  Small amount of pleural
+     effusion is seen on the left side.
+     
+     Multiplanar reconstructions were essential for evaluation of the anatomy and
+     pathology as described above.
+     
+     IMPRESSION:
+     1)  Sizes of liver cirrhosis with portal hypertension.
+     2)  The intra and extrahepatic bile ducts are not dilated.  There are stones
+     or sludge in the gallbladder.
+     3)  Thrombosis of the right anterior and right posterior branches of the
+     portal vein.
+
+",,
+13847,,,,2934-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-17**] 10:50 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3994**]
+     Reason: r/o L pleural effusion, pulmonary edema                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with AI hepatitis, s/p ERCP incduced pancreatitis, getting 
+      aggresive volume resuccitation for poor UO, ARF, now with crackles, L basilar 
+      dullness.
+     REASON FOR THIS EXAMINATION:
+      r/o L pleural effusion, pulmonary edema                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Abnormal breath sounds.
+     
+     The heart is enlarged. There is no evidence of failure and both lungs are
+     clear and fully expanded.
+     
+     IMPRESSION:  Cardiac enlargement. There is no significant change from prior
+     chest X-ray of [**2934-4-10**].
+
+",,
+13847,,,,2934-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-27**] 11:22 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3995**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with AI hepatitis, s/p ERCP incduced pancreatitis, getting 
+      aggresive volume resuccitation for poor UO, ARF, now with crackles, L basilar 
+      dullness.
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Multiple medical problems with aggressive volume resusitation and
+     crackles. ? infiltrate.
+     
+     PA AND LATERAL CHEST are compared with 10 days prior.
+     
+     Again seen, is marked cardiomegaly.  There is new opacity at the left
+     hemithorax, related to a combination of pleural effusion and either
+     atelectasis or consolidation.  There is mild calcification of the aorta.
+     There is linear atelectasis of the right lung, predominantly at the area of
+     the minor fissure.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  Findings consistent with fluid overload, with asymmetric pleural
+     effusions on the left.  Additionally, there is retrocardiac
+     atelectasis/consolidation.
+     
+     
+
+",,
+13847,4632,,,2934-04-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2934-4-28**]     Discharge Date:  [**2934-5-4**]
+
+Date of Birth:   [**2854-4-14**]     Sex:  F
+
+Service:
+
+ADDENDUM:   To continue with Hospital Course in the Medical
+Intensive Care Unit.
+
+ATRIAL FIBRILLATION:  The patient's heart was in the 80s to
+90s.  Given the likely sepsis, we did not recontrol her as
+the higher heart rate for increased cardiac output was likely
+physiological and the patient was auto-anticoagulated given
+her liver dysfunction.
+
+ANEMIA:  Her hematocrit was 31 when transferred to the unit,
+likely intervascularly depleted.  This decreased to 27 over
+the next couple of days in the unit but maintained steady at
+27.  Likely secondary to hydration and fluids.
+
+LIVER FAILURE:  Secondary to auto-immune Hepatitis.  We will
+continue the Ursodiol.  She has likely child's class III with
+a very poor prognosis, especially with her albumin
+approximately less than or equal to 2.0 at presentation.
+
+COAGULOPATHY:  The patient received fresh frozen plasma for
+line placement.  She had a right Cordis/IJ placed.
+Ultrasound shows she had a right arterial line placed, both
+of which family consent was received for.
+
+FLUIDS, ELECTROLYTES AND NUTRITION:  Given the patient's poor
+mental status, she had failed her swallowing test.  Tube
+feeds are being held given the problems with mental status
+and aspiration risk and the instrumentation that the patient
+had received when she first arrived in the unit.  Renagel was
+being given for hyperphosphatemia.  The Cordis was eventually
+changed to a triple lumen.
+
+PROPHYLAXIS:  She received Pepcid and pneumoboots.
+
+DISPOSITION:   The day of admission to the Medical Intensive
+Care Unit, the patient's family had decided to change the
+patient's status from ""DO NOT RESUSCITATE"", ""DO NOT INTUBATE""
+to full code in the attempt to try to treat her to see if her
+change in mental status was reversible with the understanding
+though and desire not to prolong the patient's suffering and
+to re-evaluate depending on what her condition was.  Although
+some of the patient's numbers improved, her sodium and her
+calcium, her mental status continued to worsen and after
+three days in the Unit, the patient's family decided to
+change her code status to ""DO NOT RESUSCITATE"" ""DO NOT
+INTUBATE"" and then to comfort measures only.
+
+The patient was placed on a morphine drip and made
+comfortable.  All medications were discontinued as per the
+family's wishes, and the patient passed very shortly after
+this change in management, being comfortable.  Her family was
+at her side and the attending of record was notified.
+
+
+                    DR.[**First Name (STitle) **],[**First Name3 (LF) 296**] 11-692
+
+Dictated By:[**Last Name (NamePattern1) 7838**]
+
+MEDQUIST36
+
+D:  [**2934-6-1**]  10:04
+T:  [**2934-6-8**]  15:01
+JOB#:  [**Job Number 9718**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 296**] [**Name (STitle) **]
+ on: [**Doctor First Name 123**] [**2934-7-8**] 10:53 AM
+(End of Report)
+
+
+",,
+13847,4632,,,2934-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-28**] 3:45 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 3997**]
+     Reason: evaluate for cholangitis, cholecystitis                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with cirrhosis, presents with mental status changes, n/v, 
+      now with RUQ tenderness. 
+     REASON FOR THIS EXAMINATION:
+      evaluate for cholangitis, cholecystitis                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis and mental status change with right upper quadrant
+     tenderness.
+     
+     Ultrasound of the right upper quadrant was performed.  The liver shows coarse
+     echo texture without focal masses.  There is no intra- or extrahepatic bile
+     duct dilatation.  Stones are noted in the gallbladder with some wall
+     thickening.  The gallbladder is contracted.  There is evidence of ascites and
+     right pleural effusion.
+     
+     IMPRESSION:
+     1.  Cirrhotic liver with cholelithiasis.  There is no evidence of
+     cholecystitis.  There is evidence of ascites and right pleural effusion.
+     
+
+",,
+13847,4632,,,2934-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-28**] 12:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3996**]
+     Reason: please assess NG-tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with h/o DM, HTN, cirrhosis, presents with mental status
+      change, failure to thrive, now with NG-tube
+     REASON FOR THIS EXAMINATION:
+      please assess NG-tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 80 year old with multiple medical problems who is status post NG tube
+     placement.
+     
+     COMPARISON: [**2934-4-27**].
+     
+     PORTABLE CHEST: The marked enlargement of the cardiac silhouette is unchanged
+     compared to the prior study. There is mild blurring of the pulmonary
+     vasculature which could be suggestive of early congestive heart failure. There
+     is left lower lobe opacity which could represent atelectasis or consolidation.
+     There is a small left pleural effusion. The tip of nasogastric tube is seen to
+     extend off the bottom portion of the film.
+     
+     IMPRESSION: 1. Nasogastric tube in satisfactory position. 2. Marked cardio-
+     megaly with mild blurring of the pulmonary vasculature. 3. Left lower lobe
+     atelectasis or consolidation not significantly changed from the prior study.
+
+",,
+13847,4632,,,2934-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-29**] 2:57 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 3998**]
+     Reason: please evaluate for degree of ascites. If more than minimal,
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with autoimmune hepatitis, CHF, ARF.                          
+     REASON FOR THIS EXAMINATION:
+      please evaluate for degree of ascites. If more than minimal, please do 
+      diagnostic tap, slips will be in chart
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for ascites in patient with autoimmune hepatitis, CHF and
+     acute renal failure.
+     
+     FINDINGS:  Ultrasound examination of the abdomen shows only a small amount of
+     ascites, most prominently adjacent to the liver.  Large varices are noted in
+     the anterior abdominal wall in the right lower quadrant.
+     
+     IMPRESSION:  Small collection of perihepatic ascites.  Due to the small amount
+     of fluid and limited patient cooperation, no paracentesis was attempted.
+
+",,
+13847,4632,,,2934-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-4-30**] 2:01 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 3999**]
+     Reason: HYPERCALCEMIA, CHANGE IN MENTAL STATUS, EVALUATE FOR KIDNEY STONES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with hypercalcemia and hematuria presenting with increased 
+      abdominal pain and mental status changes
+     REASON FOR THIS EXAMINATION:
+      evaluate for kidney stones                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypercalcemia, hematuria and abdominal pain.
+     
+     RENAL ULTRASOUND:  Both kidneys are echogenic and contain small cysts.  The
+     right kidney measures 8.6 cm in length, and the left measures 9.6 cm.  There
+     are small, non-obstructing stones bilaterally.  There is no hydronephrosis.
+     The urinary bladder is collapsed due to the presence of a Foley catheter.  A
+     small amount of ascites is noted.
+     
+     IMPRESSION:
+     1) Small, hyperechoic kidneys consistent with chronic medical renal disease.
+     2) Small, non-obstructing stones bilaterally.
+
+",,
+13847,4632,17228,0,2934-05-01 18:04:00 EST,2934-05-01 18:14:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU admit note 1900.
+
+8o y/o admitted with PNA, anasarca, New onset a-fib.  Pt transferred to ICU for further management of care.  Pt arrived to ICU via bed. Neuro:  pt alert to name. Moaning, not following commands.  Pt spanish speaking.  Resp:  LS course, Sats 94% on 6 L via nc.  CV: HR 98, a-fib, BP 97/55. GI:  Mushroom cath inserted.  Pt stooling liquid green stool.  GU: foley draining amber urine.  Heme:  Transfusing FFP and then plan for central line placement.  Access:  18gage left IJ peripheral, patent.  Dispo:  Transferred to MICU.  Full Code
+",,
+13847,4632,17228,,2934-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-5-2**] 12:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4000**]
+     Reason: assess placement of right IJ                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with h/o DM, HTN, cirrhosis, presents with mental status 
+      change, failure to thrive, now with NG-tube
+     REASON FOR THIS EXAMINATION:
+      assess placement of right IJ                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of diabetes, cirrhosis and mental status change.  NG tube placement.
+     
+     Nasogastric tube extends below the diaphragm.  Right jungular CV line is in
+     proximal SVC.  No pneumothorax.  There is cardiomegaly with pulmonary vascular
+     engorgement.  Focal opacity in the left mid zone is again demonstrated.  The
+     left diaphragm is obscured consistent with atelectasis/consolidation in the
+     left  lower lobe.  Cannot rule out left pleural effusion on this film.
+     Discoid atelectasis right mid zone.  Small metallic radiodensity again noted
+     in right hilar region in this single view.
+     
+     IMPRESSION: NG tube extends below diaphragm with distal end not included on
+     film.  Cardiomegaly with probable CHF.  Persistent atelectasis/consolidation
+     left lower lobe with more focal mid zone opacity.
+
+",,
+13847,4632,17228,0,2934-05-02 04:17:00 EST,2934-05-02 04:52:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P TO 7A","
+NURSING PROGRESS NOTE 7P TO 7A
+ROS
+
+CARDIOVAS.: HEART RATE REMAINED A CONTROLLED AF 80'S TO 100 WITHOUT VEA BP 105/57 TO 93/56 TREATED WITH NS TO .45 NS FLUID BOLUSES X6 OVER THE COURSE OF THE PAST 12 HOURS...PATIENT TOLERATED WELL. [**Last Name (un) 5334**] REMAIN HYPERNATREMIC 155-3.6-123-22...CA 11.9/PHOS. 6.6 WITH PTT/PT REMAINING ELEVATED ( INR 2.7 RECEIVED TWO UNITS OF FFP FOR CENTRAL LINE PLACEMENT..TOL. WELL)..POSITIVE DISTAL PULSES...R RADIAL ALINE PLACES/R IJ INTRODUCER WITH 3 LUMEN THREADED PLACED..CVP'S [**7-25**] INCREASING WITH FLUID BOLUSES [**11-28**] (GOAL 14)
+
+RESPIRATORY: BREATH SOUNDS REMAIN COARSE/RHONCHI...PRODUCTIVE COUGH SWALLOWING SECRETIONS NO SPUTUM CULTURE AT PRESENT AT 7P DESAT...ON 6L NC..70% FACE TENT ADDED WITH GOOD AFFECT...INC PROD COUGH O2 SATS INC TO 97-99%
+
+NEURO.: PT. WITH HX OF DEMEMTIA...WHEN AWAKE WILL SPEAK A LITTLE SPANISH TO FAMILY ... SOMETIMES THEY ARE ABLE TO UNDERSTAND ..PERL
+SEEMED EXHAUSTED AFTER LINE INSERTION AND SLEPT IN LONG NAPS ALL NOC
+
+ID.: TEMP 95.0 TO 97.0 AX....GIVEN ONE TIME DOSE OF 1000MG VANCO AND STARTED ON CIPRO 250 VIA NGT...AWAITING ID OKAY FOR IV. AWAITING CBC
+
+GI.: ? HX OF ASPIRATION AND TF IS ON HOLD...TOL. TYLENOL AND OTHER MEDS VIA NGT...TUBE CHECKED FREQUENTLY FOR PLACEMENT ...HOB REMAINS ELEVATED 30-45 DEGREES..POSITIVE BOWEL SOUNDS...LIQUID DARK! GREEN FECES VIA RECTAL TUBE
+
+RENAL: OUTPUT POOR...0-32 CC/H ..URINE DARK AMBER AND PARTICULATE.. WITH ELEVATED BUN/CR 97/3.1
+
+SKIN: C/O ORAL DISCOMFORT ?THRUSH/ULCERS...ANASARCA +3 PITTING EDEMA
+
+ENDOC.: BS STABLE NOT REQUIRING INSULIN 182-144
+
+SOC.: FAMILY TAKINE TURNS VISITING...
+",,
+13847,4632,17228,0,2934-05-02 17:01:00 EST,2934-05-02 17:15:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU  NPN 7am-7pm
+
+Neuro:  Pt moaning when agitated otherwise somulent.  Arousable to voice earlier in shift, currently arousable to stimuli.  Unable to communicate with pt due to language barrier.  Children @ bedside, stating she was uncommunicative with them also.  
+
+Resp:  pt on face tent 100% fio2 with sats 95-97%.  LS course throughout.  Pt NTS x 1 for sputum spec, bloody secretions.  
+
+CV:  Hemodynamically stable.  HR, 90 a-fib, without ectopy.  BP 99-112/59-58.  CVP 8-17.  Pt receiving D5w with 20meq KCL @ 125cc/hr for 2 L to help with hypernatremia (153).  Pt also started on free water boluses via NGT.  Calcium slowly decreasing, 11.6 (8am) and 11.2(1400).  Pt receiving lasix in attempts to decrease calcium.  
+
+GI:  NGT in place. Pt remains NPO except meds. NG lavaged by MDs x 3 today after pt  noted to have nose bleed.  NG lavage to clear.  GI guiac pos.  residuals noted to be brown with some clots.Team aware.  No obvious signs of active GI bleeding @ this time.  Will continue to monitor.  Pt also reaceiving lactulose TID.  Pt putting out green, guiac pos, liquid stool.  Sample sent for c-diff.
+
+GU:  Foley in draining minimal amounts 20-45cc/hr amber urine.  Being followed by Renal.  PT given 40mg IV lasix with minimal (~ 120cc) of urine output.  Pt given second dose of lasix 80mg, urine output pnding after this dose of lasix.  
+
+Heme:  pt noted to have nose bleed which appears to have resolved on it's own.  HCT 26% @ 1400pm.  1800hct pnding.  INR 1.9 @ 1400.  stool guiac is pos.  No obvious source of active bleed @ t his time.  Pt is being followed by GI and they will scope if necessary.  
+
+Access:  Plan to d/c cordus and keep CVL @ some point today.  
+
+ID: afebrile.  Pt placed on zosyn for PNA.  
+
+Social:  multiple family members into visit today.  
+
+Dispo:  remain in micu.  Full Code
+",,
+13847,4632,17228,,2934-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-5-3**] 6:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4001**]
+     Reason: pna?/chf                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old woman with h/o DM, HTN, cirrhosis, presents with mental status  
+      change, failure to thrive, and pna/sepsis
+     REASON FOR THIS EXAMINATION:
+      pna?/chf                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**2934-5-3**]
+     
+     CLINICAL INDICATION:  Mental status change. Failure to thrive.
+     
+     Comparison is made to [**5-2**] and [**2934-4-28**] radiographs.
+     
+     A central venous catheter and nasogastric tube remain in satisfactory
+     position. The heart is markedly enlarged but stable in size. The aorta is
+     tortuous. The pulmonary vascularity is within normal limits for supine
+     technique with no definite CHF. A moderate to large layering left pleural
+     effusion is seen. There is also a smaller right pleural effusion tracking into
+     the minor fissure. A small radiopaque foreign body is seen overlying the
+     right upper lung zone and is shown to be external to the patient on an older
+     lateral chest x-ray of [**2930-2-19**].
+     
+     IMPRESSION:
+     1) Stable marked cardiac enlargement. No definite congestive heart failure.
+     2) Moderate to large left pleural effusion. Small right pleural effusion.
+
+",,
+13847,4632,17228,,2934-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13847,4632,17228,,2934-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2934-5-3**] 2:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4002**]
+     Reason: assess for RIJ placement.                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old woman with h/o DM, HTN, cirrhosis, presents with mental status   
+      change, failure to thrive, and pna/sepsis
+     REASON FOR THIS EXAMINATION:
+      assess for RIJ placement.                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     INDICATION:  Diabetes mellitus, hypertension, cirrhosis.  Mental status
+     change.  Failure to thrive.  Pneumonia and sepsis.  Check new RIJ placement.
+     
+     FINDINGS:  Single AP semiupright view.  Comparison study taken AP supine 8
+     hours earlier.  A new right IJ central line has been inserted.  Its tip is
+     well positioned in the lower SVC.  The NG line extends into the lower stomach,
+     below the edge of the image.  The heart again shows very marked enlargement,
+     predominantly left ventricular.  The aorta is slightly calcified and unfolded.
+      The pulmonary vessels are poorly displayed.  There may be some upper zone
+     redistribution.  There is left lower lobe collapse and consolidation behind
+     the heart.  There is slight blunting of the costophrenic angles and small
+     bilateral effusions may be present.
+     
+     IMPRESSION:  Severe cardiomegaly with probable slight left heart failure.
+     Right IJ line and NG line appear to be in good positions.
+
+",,
+13847,4632,17228,0,2934-05-03 02:54:00 EST,2934-05-03 03:28:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P TO 7A","
+NURSING PROGRESS NOTE 7P TO 7A
+ROS 
+
+CARDIOVAS.: HR. REMAINS A CONTROLLED AF WITH RARE VEA... RATE 80-90'S
+WITH MAPS IN 70'S-80'S BP 95/57 TO 110/69 CONTINUES WITH POSITIVE PERIPHERAL PULSES/POS. PEDAL PULSES R>L CVP'S [**7-28**]
+
+RESP.: RR 11-19 ... BREATH SOUNDS REMAIN COARSE AND RHONCHORUS.. SUCTIONED BACK OF THROAT Q3-4 HOURS (CAREFULLY) WITH MILD CHEST PT (IN
+VIEW OF COAGULOPATHY/HX. OF BLEEDING) GETTING MOD. TO LARGE AMOUNTS BROWN COLORED SECRETIONS...PT. HAS FORCEFUL COUGH WHEN ARROUSED, REMAINS ON HUMIDIFIED FACE TENT AT 100% WITH O2 SATS 94-99%.. HOB REMAINS ELEVATED 45-80 DEGREES WITH REPOSITIONING Q2 H 
+
+NEURO.: SOMULENT TO CRYING OUT AND MOANING...UNCOMPREHENSIBLE EVEN TO SPANISH SPEAKING FAMILY...PERL.. TYLENOL FOR PAIN MANAGEMENT WITH POOR EFFECT...MSO4 1 MG Q 4 HOURS WITH GOOD EFFECT... PATIENT WHINSES WITH MOVEMENT OF LEFT UPPER LEG ? PAINFUL OLD SURGERY ON R HIP
+
+SOC.: FAMILY MET WITH HO AND STATUS CHANGED TO DNR/DNI .. EXCELLENT FAMILY EDUCATION ON SEVERITY OF PATIENT'S CONDITION AND PROGNOSIS ...
+FAMILY CONTINUES TO NEED ALOT OF EMOTIONAL SUPPORT AND TEACHING 
+
+ID.: PT. REMAINS HYPOTHERMIC 96.2-97.0 AX. .. REMAINS ON IV ZOSYN ..  
+
+SKIN: GENERALIZED EDEMA WITH SEROUS OOZE FROM OLD NEEDLE STICKS (BED BATH GIVEN)
+
+RENAL: URINE AMBER PARTICULATE TO YELLOW IN COLOR OUTPUT 45-0 CC Q1 H ..FOLEY INTACT AND DRAINING
+
+GI.: POSITIVE BOWEL SOUNDS ... CONTINUES ON LACTOSE RTC WITH LIQUID GUIAC POSITIVE TARRY-GREEN COLOR .. TOLERATING Q 4 H FREE WATER BOLUSES FOR HYPERNATREMIA ..NGT. CHECKED FREQUENTLY ASPIRATES REMAIN BROWN TO COFFEE GROUND HEME POSITIVE .. NPO X MEDS.
+
+ENDOCR.: BLOOD GLUCOSE 159-142 AND HAS REQUIRED NO INSULIN
+
+IV: RIGHT IJ REMAINS PATIENT WITH 3 LUMEN THREADED THROUGH THE PORT.. R RADIAL A LINE POS. LEFT EJ PATIENT
+
+PLAN: CONTINUE TO ENCOURAGE AND SUPPORT FAMILY WITH THEIR DECISION NOT TO CODE THIS UNFORTUNATE MULTISYSTEM FAILURE PATIENT...MED. PATIENT FOR COMFORT DURING FINAL HOURS.
+",,
+13847,4632,17228,0,2934-05-03 18:30:00 EST,2934-05-03 18:56:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 7am-7pm
+
+Family meeting took place @ end of the shift in which family decided to make Pt CMO. They wished to keep pt comfortable.
+
+Neuro:  Pt became less responsive as day progressed.  Opening eyes only to painful stimuli.  pt given PRN morphine to reduce discomfort.
+
+Resp:  pt remains on face tent @ 100%.  LS course throughout. RR 10-22.  
+
+CV:  a-line dampened.  Treating via NBP.  bp ranged 84-105/44-48.  Pt treated with Fluid bolus x2 with good results.  HR remains in a-fib.  NO ectopy noted.  .45% NS infusing for maintance fluid but stopped secondary to poor urinary output.  
+
+Heme:  Rt CVL changed over a wire.  Bleeding around site.  PRessure held as needed.  Site resutured with MD [**First Name (Titles) **] [**Last Name (Titles) **] lidocaine with epi which appeared to help stop bleeding.  No further bleeding noted from pt.  D-Dimer sent, results >1000.  Pt with noted nose bleed from both nares which appeared to stop on own.  NGT hooked up to low contineous sxn @ that time for brown blood with clots.  Pt NG lavaged by Dr. [**Last Name (STitle) 5335**] to clear. Notable for brown clots.  
+
+GI:  abdomen soft and distended.  Mushroom cath in place draining mod amount of liquid green stool.  PO meds held most of day secondary to procedural events.  Team aware.  
+
+GU:  Minimal urine output 0-25cc/hr.  Renal following
+
+Social:  Family meeting today with Dr. [**Last Name (STitle) 5336**] to discuss pt status.  Family wished to make pt CMO (no fluids, no blood products, no meds), but wish to leave O2 on.  Family wants pt to be comfortable and are comfortable with giving medication for pain.
+
+Dispo:  CMO.  
+
+
+",,
+13847,,17228,0,2934-05-04 04:22:00 EST,2934-05-04 05:00:00 EST,2495,"N",69,"Nursing/Other",,"
+
+Event:Per discussion between MD'S and family menbers Pt. is comfort measures only.                                                          CV:Pt.HR cont.on A-Fib with aventricular rate 80's,no ectopies noted.Pos.peripheral pulses,3 plus edema to all extremities,oozing lg.amoumt clear yellow fluid from both forearms.PAIN: MSO4 1 mg given ~q2h for pain perceived by this RN with good effect; decreased thrashing, pt. breathing more comfortably. RESP:Bresth sound coarse rhonci T/O.No cough effort noted,unable to deep suctioning R/T active bleeding,gentle suctioning to back of mouth,remained on 100% Face tent,HOB 45degrees.GI:abd.soft,BS positive,rectal tube pat. draining 80cc green liq. stool.GU:Foley pat draining scant amount of dark amber urine.INTERGUMENTARY:skin intact no open areas noted,pt. turned and repositioned for comfort.Social:Family in room with pt. all night,all procedures explained to pt. and family in spanish by this RN.before implementation.Reassurance given.PLAN:Continue comfort measures, prn MSO4 as needed.
+",,
+13847,,17228,0,2934-05-04 16:12:00 EST,2934-05-04 16:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Event NOte
+[**2934-5-4**]->1349
+
+EVENT
+Pt CMO; given MSO4 and Ativan to ease respiratory difficulty -> see flow sheet and MARs.Pt expired with family at bedside at 1349. Pt pronounced by Dr. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1864**]. 
+
+",,

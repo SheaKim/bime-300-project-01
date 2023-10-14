@@ -1,0 +1,398 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13720,7244,,,3032-05-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3032-5-11**]     Discharge Date:  [**3032-5-17**]
+
+Date of Birth:   [**2973-7-8**]     Sex:  F
+
+Service:  MEDICAL MICU
+
+REASON FOR ADMISSION:  Dyspnea and left lung collapse.
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 58-year-old woman
+with a 90 pack year smoking history who had worsening dyspnea
+and cough for several months which worsened in the three days
+prior to admission at [**Hospital 3254**] Hospital on [**3032-5-8**].  She
+had chest x-ray in [**3031-9-6**] showing no abnormalities
+besides healing rib fractures.  She had endorsed losing 15
+pounds over the six months prior to admission because of loss
+of appetite.
+
+On admission to [**Hospital1 3254**], the chest x-ray showed complete
+opacification of the left lung.  She was taken to
+bronchoscopy where a left main stem bronchus neoplasm was
+found.  The patient did not tolerate the bronchoscopy well
+and was coughing with 02 desaturations.  She was intubated
+and underwent biopsies of the left main stem bronchus lesion.
+She was then transferred to [**Hospital1 19**] for a rigid bronchoscopy
+with possible stent intervention by Dr. [**First Name (STitle) **] [**Name (STitle) **].
+
+PAST MEDICAL HISTORY:
+1.  Alcohol abuse.
+2.  History of narcotic dependence.
+3.  History of pneumonia.
+4.  Adult ADHD.
+5.  History of reactive airways disease/asthma.
+6.  History of a left hip fracture in [**3030**].
+
+FAMILY HISTORY:  Mother had ""[**Name2 (NI) 6630**] cancer"" and MI.
+
+SOCIAL HISTORY:  Ninety pack year smoking history, quit in
+[**3030**].  History of alcohol abuse in the past but reportedly
+sober for one year, according to the daughter of the patient.
+The patient has also been requiring narcotics for her left
+hip fracture since last year and had evidence of dependence.
+
+MEDICATIONS UPON TRANSFER:
+1.  Morphine drip.
+2.  Versed drip.
+
+OUTPATIENT MEDICATIONS:
+1.  Effexor.
+2.  Prempro.
+3.  Seroquel.
+4.  Ativan.
+5.  Ritalin.
+
+PHYSICAL EXAMINATION UPON PRESENTATION:  Vital signs:
+Temperature 99.4, heart rate 106, BP 127/67.  Ventilator
+settings at AC 400 by 12 at a PEEP of 5 and 100% FI02.
+General:  She was a well appearing intubated woman in no
+apparent distress.  HEENT:  Anicteric sclerae and dry
+oropharynx.  There was some red bloody secretions in the
+endotracheal tube.  Chest:  The chest revealed some very
+decreased breath sounds at the left upper lobe.  The right
+lung field was clear.  Cardiac:  The cardiac examination
+revealed a grade II/VI systolic murmur at the right upper
+sternal border radiating to the carotids.  Abdomen:  Soft,
+nontender, no distention.  Extremities:  No pedal edema.  She
+had good dorsalis pedis pulses.  Neurologic:  The patient
+moves all extremities and is intermittently agitated and will
+try to sit up from the bed.  She does not respond to voice
+nor follows commands but is currently sedated.
+
+LABORATORY DATA UPON PRESENTATION:  White count 13.2,
+hematocrit 32, platelets 626,000.  The Chem 7 is unremarkable
+with a normal bicarbonate at 22.  CK at the outside hospital
+was 130 with a negative troponin.  The ABG on this setting
+was 7.31, PC02 49, P02 135 on 100% FI02.  Her coagulations
+were normal.  Microbiology results at the outside hospital
+showed MSSA from the sputum in the bronchoscopy as well as
+[**Female First Name (un) **].
+
+HOSPITAL COURSE:  1.  LEFT BRONCHIAL MASS:  The patient was
+kept intubated for signs of hypoventilation upon arrival to
+the [**Hospital1 19**] and MICU.  She was stable over the weekend and did
+not experience significant blood loss from the biopsy at the
+outside hospital.  She continued to have agitation while on
+the ventilator but was easily sedated with Ativan, morphine,
+and propofol drips.
+
+She was taken for CT of the airway with reconstruction as
+well as rigid bronchoscopy on [**3032-5-14**] where the left
+main stem bronchus lesion showed a 70% luminal narrowing and
+no distal airway patency.  A metal stent was placed with no
+resulting inflation of the lung postprocedure.  She remained
+intubated showing signs of hypoventilation.  She was also
+treated for MSSA pneumonia with Oxacillin initially.  She
+also was treated with vancomycin for a temperature while on
+Oxacillin.  Additional Gram's stain revealed gram-negative
+rods and she was started on ciprofloxacin and then switched
+to levofloxacin for concern of gram-negative rod coverage.
+
+The day postbronchoscopy, the family was informed of the
+ineffectiveness of the stent regarding her ability to
+ventilate that lung.  The patient's family was informed of
+the poor prognosis regarding weaning off mechanical
+ventilation.  She continued to spike low-grade fevers while
+on the Oxacillin and Fluoroquinolone.
+
+She was watched for one day post stent with no improvement in
+chest x-ray appearance of the left lung collapse.  It was
+determined at this time that the patient probably would not
+improve on the ventilator and the patient's daughter agreed
+to extubation and comfort measures only for the patient.
+
+It should also be noted that a pleural effusion was noted on
+the left lung and 800 cc were drained in the OR during rigid
+bronchoscopy when a left chest tube was placed to that side.
+Cytology is pending on that specimen but was thought to be
+most likely a malignant pleural effusion.
+
+The patient underwent extubation on [**3032-5-16**] and was
+administered Ativan and morphine drips, titrating up for
+sedation and comfort.  The patient expired early
+approximately 5:30 a.m. on [**3032-5-17**].  The family was
+notified and they declined a postmortem examination.
+
+
+
+
+                          [**Name6 (MD) **] [**Last Name (NamePattern4) 2923**], M.D.  [**MD Number 2933**]
+
+Dictated By:[**Name8 (MD) 5891**]
+
+MEDQUIST36
+
+D:  [**3032-5-17**]  03:22
+T:  [**3032-5-22**]  17:18
+JOB#:  [**Job Number 9562**]
+Signed electronically by: DR. [**First Name (STitle) 128**] [**Doctor Last Name 129**]
+ on: MON [**3032-5-28**] 4:19 PM
+(End of Report)
+
+
+",,
+13720,7244,17082,0,3032-05-11 16:48:00 EST,3032-05-11 16:51:00 EST,1670,"N",69,"Nursing/Other",,"
+
+resp care
+
+pt arrived via med flight from osh. pt intubated 8.0 oett secured 22cm @lip. pt placed on [**Last Name (un) 144**] vent a/c 550 x12 peep 5 100%. vt lowered to 400 and rr ^ to 16. cxr at osh shows lt lung white out.  b/s coarse, sxn mod thk bloody secretions.  abg to be drawn. plan: cont w/mech support
+",,
+13720,7244,17082,0,3032-05-11 17:19:00 EST,3032-05-11 17:52:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Review of Systems:
+
+Neuro: Admitted to MICU-A @ 1545 from [**Hospital **] Hosp via Med-Flight, intubated, received Vecuronium enroute and previously on MSO4 @2mg/hr and Versed @ 4mg/hr for sedation while intubated. Pt also with ? recent hx of ETOH abuse. On admit pt given Versed boluses of 2mg/5mg/2mg/4mg for sedation as pt attempting to sit up in bed. Presently on cont Versed @ 4mg/hr with good sedation at rest, sitting when suctionned but lies back in bed on command. Pupils equal and reactive.
+
+Resp:  Initially on vent settings on AC 70% 16/400/peep 5, pt overbreathing to RR 20. Resulting ABG 7.27/54/105. TV increased to 450 with ABG to follow. Pt with coarse lung sounds bilat (despite occluded left lung). Suctionned for mod amt bloody secretions. Large plug ( 1 inch long) X 1. HCT 30.1.
+
+CV: VSS with HR 104-120SR without ectopy, BP 118-130/60-70. Given fluid bolus X 1 of NS 500ml on admit for low SBP. Lytes pending.
+
+GI: Indwelling cath draining cloudy, thick yellow urine. U/A sent.
+
+GU: OGT in place and confirmed by X-ray. Tube fdg to begin. Residual approx 4ml undigested food. Bowel sounds present.
+
+ID: temp 99.4PR. WBC 13.9. No antibiotics at this time.
+
+Social: Pt's daughter is listed as contact person (see admit note). No contact with family since admit, although family aware of transfer to [**Hospital1 10**]. Note: Pt with Hx adult ADD, currently off meds.
+
+Plan: HO to insert art line this evening. Cont to adjust vent settigns to optimize ventilation. Sedation to keep pt safe/comfortable. Monitor Hct. Begin tube fdgs. Bronch on Monday.
+
+
+",,
+13720,7244,17082,0,3032-05-12 00:31:00 EST,3032-05-12 00:36:00 EST,2010,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Multiple vent changes made overnight. Current settings: A/C 450 * 18 50% with 5 peep. ABG on 450 *16 70% 5 peep was 7.32/49/143 26. Breathsounds are coarse. Ett retaped and secured. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Wean per protocol.
+",,
+13720,7244,17082,0,3032-05-12 04:46:00 EST,3032-05-12 05:06:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 7pm-7am
+
+Review of systems:  
+
+Neuro:  Received pt on Versed gtt @ 4mg/hr.  PT extremely agitated sitting bolt upright in bed.  Pt has unclear h/o ETOH abuse and ? prescription narcotic abuse.  Pt placed on Ativan gtt and Morphine gtt. Pt still becoming extremly agitated with stimuli, attempting to sit up in bed, biting ETT.  Pt placed in 4 points restraints and propofol gtt added to aid in pt's safety.  Gtts currently running: Ativan 5mg/hr, Morphine 2mg/hr and Propofol 22mcg/kg/min.  Pt still requiring boluses @ times of stimulation.  ? ETOH or Narcotic withdrawal.
+
+Resp:  Vent changes made overnoc.  Initial ABG after A-line placed, 7.32/49/143/26.  RR increased to 18 and O2 decreased 50%.  Pt currently on ACx18/450/50/peep 5.  Repeat ABG 7.31/48/86/25.  No further vent changes made. Pt sats 97%.  Pt initially sxned for copious amounts of bloody frothy secretions.  Pt has some thick blood tinged secretions also.  LS course throughout.  Plan for Bronch on monday.
+
+CV:  BP 97-135/54-67. HR 86-124,SR-ST without ectopy.  Goal MAPS >60. HCT 26%.  am labs pnding.  
+
+GI:  OGT remains clamped.  ? starting TF today.  Abdomen soft, BS present.  No stool this shift.
+
+GU:  urine amber in color and cloudy.     Draining ~ 30-45cc/hr.
+
+ID:  TMAX 99.4.  WBC 14.5. 
+
+Social:  No calls from family overnoc.
+
+Dispo:  Remain in MICU.  Full Code
+",,
+13720,7244,17082,1,3032-05-12 15:08:00 EST,3032-05-12 17:32:00 EST,1741,"Y",69,"Nursing/Other","MICU A NSG 7A-7P","
+MICU A NSG 7A-7P
+adden--repeat hct 25.5, ho aware, and plan is to recheck at 10pm. Started on IV Vanco for ? pnx. 
+",,
+13720,7244,17082,0,3032-05-12 15:08:00 EST,3032-05-12 15:21:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG 7A-7P","
+MICU A NSG 7A-7P
+RESP--REMAINS ON AC 18 450 PEEP 5 50%.  SX'D Q4 FOR THICK BROWN/OLD BLOOD TINGED SECRETIONS.  LUNGS SOUNDS IN RIGHT LUNG FIELDS DIMINISHED.  ORDERED FOR CT OF CHEST WITH TRACHEAL RECONSTRUCTION, BUT UNABLE TO HAVE DONE TILL BEGINNING OF WEEK.  PLAN TO RESEND ABG THIS EVE.  
+NEURO--REMAINS ON PROPAFOL, ATIVAN AND MSO4 GTT'S FOR SEDATION.  NEEDS BOLUS-PROPAFOL 2CC PRIOR TO CARE, OTHERWISE, PT BECOMES AGITATED, TRYING TO SIT UP IN BED, ATTEMPTS AT GRASPING AT TUBES WITH MIN STIMULATION.  DOES NOT OPEN EYES OR FOLLOW COMMANDS, BUT APPEARS TO MOVE ALL EXTREMITES EQUALLY.  PERRL AT 4-5MM AND BRISK.  
+CV--TRACE EDEMA IN EXTREMITIES.  HR 88-90'S SR WHEN CALM, ST 100-110 WHEN AGITATED.  SBP 90'S-170'S/, DEPENDING ON LEVEL OF AGITATION.  TMAX 100.0.  
+GI--TF STARTED, PROMOTE WITH FIBER, GOAL 30CC/HR.  CURRENTLY RUNNING AT 10CC/HR, RESIDUALS 50CC, AND RATE NOT ADVANCED.  ABD SOFT WITH NORMOACTIVE BS.  NO BM THIS SHIFT.  ASPIRATED BILE WITH SM AMOUNT OF COFFEE GROUNDS THIS AM, TEAM AWARE AND PLAN IS REPEAT HCT THIS AM, AS HAD DROPPED FROM 30 TO 26 OVERNIGHT.
+GU--U/O ~30-100CC/HR, DARK AMBER AND CLOUDY EARLY IN SHIFT.  RECEIVED NS 500CC BOLUS THIS AM AND NOW ON CONTS NS AT 100CC/HR GTT. 
+SOCIAL--DAUGHTER [**Name (NI) **] HERE TO VISIT, SPOKE WITH HOUSE STAFF REGARDING PLAN AND PT'S CONDITION.  BROUGHT PERSONAL ITEMS FROM [**Hospital 1025**] HOSPITAL.  SENT HOME POCKET BOOK AND GOLDS BRACELET WITH DAUGHTER.  
+",,
+13720,7244,17082,0,3032-05-12 16:58:00 EST,3032-05-12 17:04:00 EST,2477,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+    No changes made in vent settings today. She remains sedated on ativan and propofol. BS present bilat, absent LLL. Suctioned for scant amounts of blood tinged sputum.  She is on A/C of 18, 450, 50% and 5  of PEEP with abg of 7.35/ PCO2=48/ PaO2=107/ 28/BE=0. Plan to maintain present level of support.
+",,
+13720,7244,17082,0,3032-05-13 04:55:00 EST,3032-05-13 04:58:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Remains intubated and ventilated on assist/control 450 x 18 50% 5 of peep. She is sedated but still overbreathing the vent. When at all awake, she is agitated and pulling at restraints. Attempted x 2 to obtain a RSBI this morning but unable to do so as when vent rate is turned down her rate increases to high 40s and becomes more agitated within 1-2mins.
+",,
+13720,7244,17082,0,3032-05-13 05:30:00 EST,3032-05-13 05:54:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P TO 7A","
+NURSING PROGRESS NOTE 7P TO 7A
+ROS.:
+
+CARDIOVAS.: HR REMAINS 80-90'S SR WITHOUT VEA. .. BP STABLE 95/45 TO 119/59 WITH MAPS IN THE 60-70'S .. POS STRONG DISTAL PULSES .. HCT 23.3 AND IN AM 27.O/9.0 WITH LYTES 134-4.1-104-23 .. 
+
+RESP.: REMAINS ON VENT FIO2 - 50% - VT .450 - RR 18 - PEEP 5 O2 SATS 97-100 % @ TIMES VERY RESTLESS AND NEEDING SLIGHT ADJUSTMENT TO PROPOFOL IF LEFT ALONE WILL STAY COMPLIANT WITH VENT AND REMAIN SEDATED.. SUCTIONED Q 1-2 HOURS FOR SMALL TO MODERATE AMOUNTS OF THIN TO THICK WHITE TO CLEAR COLORED SECRETIONS .. BREATH SOUNDS REMAIN DEMINISHED ON LEFT .. XRAY REPORT STATED THAT THERE WAS COMPLETE OPACIFICATION OF LEFT HEMITHORAX WITH NO MEDIASTINAL SHIFT..WITH PROB. ATELACTASIS OF L LUNG .. PATIENT REMAINS ON MSO4 2 MG/H, PROPOFOL 30 MCG/KG/MIN AND ATIVAN 3 MG./H FOR SEDATION AND VENT CONTROL .. AM ABG'S REMAIN STABLE 7.36 - 47-100- 28
+
+NEURO.: PERL, AT TIMES RESTLESS AS STATED ABOVE .. HAVE NEEDED TO CONTINUE FOUR-POINT SOFT RESTRAINTS FOR ET TUBE  AND LINE PROTECTION 
+
+ID.: AFEBRILE, WBC 13.5
+
+GI.: TOL. TUBE FEED PROMOTE WITH FIBER AT 30 CC/H WITH ASPIRATES 22-18 CC. 
+
+RENAL.: OUTPUT 45-200 CC/H CLEAR AMBER TO YELLOW URINE .. BUN/CR 5/0.6
+
+SOC.: NO FAMILY CALLS/VISITS
+",,
+13720,7244,17082,0,3032-05-13 13:23:00 EST,3032-05-13 13:29:00 EST,1741,"N",69,"Nursing/Other","MICU NSG 7A-3PM","
+MICU NSG 7A-3PM
+RESP--NO CHANGES MADE TO VENT.  SPUTUM SPEC SENT.  SPUTUM AT TIMES THICK YELLOW, OTHERS BLOOD TINGED.  CT OF CHEST DONE.  RESULTS PENDING.  ABX CHANGED TO OXACILLIN FROM VANCO.
+NEURO--REMAINS ON IV ATIVAN AND MSO4 GTT, TRYING TO TITRATE DOWN PROPAFOL.  PT CONTS TO HAVE EPISODES OF AGITIATION ASSOCIATED WITH CARE, PT TRIES TO SIT UP, BITES ON TUBE AND BREATHES OUT OF SYNC WITH VENT. 
+CV--BP AND HR STABLE PLEASE SEE CAREVIEW.  ECTREMITES CONT WITH TRACE EDEMA.
+GI--CONTS ON PROMOTE WITH FIBER AT GOAL 30CC/HR, TOL WELL.  WILL NEED TO BE NPO AFTER MN FOR RIGID BRONCH IN OR.
+GU--U/O IMPROVED TODAY, REMAINS ON NS AT 100CC/HR.  
+SOCIAL--DAUGHTER CALLED THIS AM UPDATED ON PT'S CONDITION AND PLAN. 
+",,
+13720,7244,17082,0,3032-05-13 15:50:00 EST,3032-05-13 15:57:00 EST,2477,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+   Patient remains intubated and sedated. No weaning done today as she needs sedation. Plan for rigid bronchoscopy on Monday. Patient changed to a heated wire circuit today. BS more coarse today on R side not clearing as well with suctioning. She was given 2 albuterol MDI treatments which improved aeration to R side. Left side remains diminished/absent. See Carevue flowsheet.
+",,
+13720,7244,17082,0,3032-05-14 03:48:00 EST,3032-05-14 04:13:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7A TO 7P","
+NURSING PROGRESS NOTE 7A TO 7P
+ROS.
+
+CARDIOVAS.: HR. 70-90'S SR UNTIL 10-11PM PT HAD RUNS OF SVT .. LYTES AND ABG.S SENT .. PT. REPOSITIONED FROM L TO R SIDE WITH SOME IMPROVEMENT AND DECREASE IN IRRITIBILITY .. THEN MOVED INTO A SUPINE POSITION FOR EKG .. ALL SVT STOPPED .. EKG NSR .. NOW BEING CAREFUL TO REPOSITION ONLY SLIGHTLY AND NO  FURTHER RECURRENCE OF IRRITIBILITY .. 
+BP STABLE 97/48 TO 124/56 WITH MAP'S IN THE 60-70'S .. AM K 3.7 MG 1.8 IONIZED CA 1.19 HCT DOWN SLIGHTLY FROM YESTERDAY 24.5/8.2 .. CONTINUES WITH POS. STRONG DISTAL PULSES
+
+RESP.: BREATH SOUNDS REMAIN DEMINISHED TO NON-EXISTENT ON L SIDE WITH CLEAR TO COARSE ON RIGHT AND DEMINISHED IN RIGHT BASE .. SUCTIONING CLEAR TO WHITE COLORED SECRETIONS Q 3-4 HOURS .. ON AC VENT AT 50%- 
+.450- 18- PEEP 5 O2 SATS DOWN TO 96% WITH 10-11PM CARDIAC [**Last Name (un) 991**]. NOW UP TO 97-98% .. AM ABG'S (?METABOLIC ACIDOSIS) 7.35-32-78 
+
+NEURO.: SEEMS BETTER SEDATED TONIGHT ON PROPOFOL 10 MCG/KG/MIN .. MSO4 @4 MG/H AND ATIVAN @ 4 MG/H .. PERL .. NOT AS AGITATED WHEN REPOSITIONING BUT CONTINUES TO SCRUB LEGS ON THE BED AND BITE DOWN ON ET TUBE .. HOWEVER NOT SITTING BOLT UPRIGHT AND CALMING FASTER
+
+GI. TOL. TUBE FEED AT 30 CC/H WITH MINIMAL ASPIRATES .. REMAINS NPO AFTER MIDNIGHT FOR PLAN RIGID BRONC TODAY (TIME UNKNOWN)
+
+RENAL.: URINE CLEAR YELLOW 60-80 CC/H .. 
+
+ID.: T MAX 100.3 PO TO 99.3 PO. WBC CONTINUING TO DROP 12.2 THIS MORNING .. 
+
+SOC.: NO FAMILY MEMBER HAS CALLED OR VISITED THIS SHIFT (DAUGHTER PLANS TO CALL IN AM)
+
+PLAN.: CAREFUL MOVING SIDE TO SIDE .. CONTINUE TO MONITOR HCT ? TRANSFUSE .. 
+",,
+13720,7244,17082,0,3032-05-14 05:27:00 EST,3032-05-14 05:30:00 EST,1942,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE
+REMAINS INTUBATED AND VENTILATD ON A/C 450 X 18 50% 5 OF PEEP. NO VENT CHANGES MADE OVERNIGHT. SHE APPEARS WELL SEDATED AND BREATHING IN SYNCH WITH THE VENT. ATTEMPTED TO OBTAIN RSBI BUT PT. HAS NO SPONTANEOUS BREATHS.
+",,
+13720,7244,17082,0,3032-05-14 15:07:00 EST,3032-05-14 15:28:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+RESP: Pt received on AC-18-50-450-5.0 c sats in the 98-100% range and pt generally breathing c vent.  Sxn'ing pt for sm amounts of thick tan sec per ETT Q2-3hrs (sec are now slightly blood tinged s/p rigid bronchoscopy in OR).  LS are clear in RUQ, diminished in RLQ and coarse/diminished on L side.  No weaning trials performed today.  Pt remains on Oxacillin for MSSA/+GPC's on BAL.  Chest CT c contrast performed today -- total collapse of L side reported.
+
+PROC: The pt went for a rigid bronch in OR this afternoon, a stent was placed into her RMS, specs were obtained and a CT was placed(800ml straw colored pleural fluid output c placement).  A cytology spec was drawn/sent for analysis from CT collection chamber.  A CXR was performed after CT placement, no CXR changes s/p proc per HO.  CT is a clear straw color and slightly blood tinged.
+
+MS: Pt received on IV MSO4, IV Lorazepam and IV Propofol @ 4mg/hr, 4mg/hr and 10mcg/kg/min respectively for sedation.  Per team, Propofol gtt was weaned off over one hour to simplify sedation.  IV MSO4 and Lorazepam were both weaned up to facilitate d/c of IV Propofol.  The pt was sedated/paralyzed in OR for rigid bronch.  Currently both MSO4 and Lorazepam are infusing in @ 0.5mg/hr, pt is responsive to noxious stimuli and is not purposeful/does not follow commands.  Will cont to lighten sedation as tol.  UE restrained to protect ETT, OGT, PIV's, etc.  
+
+GI: FS Promote c Fiber TF's restarted s/p OR procedure @ 35ml/hr via OGT c minimal residuals evident @ this time.  TF goal is 65ml/hr per Nutrition note.  Will titrate TF up 10m Q 6 hrs until desired infusion rate is achieved.  Pt abd is soft, obese, c +BS.
+
+DERM: Intact.  No acute skin issues @ this time.
+
+CV: 99.8 Tmax today.  AM K = 3.7, Mg = 1.8, repleted c 40MEQ KCL IV and 2 gm MgSO4 IV respectively.  NSR per EKG c occ PVC's.  +1 Peripheral edema noted c palpable pulses.  R radial A-Line c optimally dampened waveform noted.  HDS.  Adequate UO today, pt is currently net out 400ml today.  The pts three UE PIV's remain patent.
+
+FAMILY:  Dtr and sister both have called today and both were kept up to date c POC/pt status.  The pt is a full code.
+
+OTHER: Please see CareVue for additional pt care data/comments.
+
+
+",,
+13720,7244,17082,0,3032-05-15 04:23:00 EST,3032-05-15 04:25:00 EST,2052,"N",69,"Nursing/Other",,"
+
+pt.remains on cmv ventilation, 450-ac.18-60%-5 peep, abg=7.37,48,96,29,1,99%, mdi albuterol q4h, rsbi 50, will probably attempt wean this a.m.
+",,
+13720,7244,17082,0,3032-05-15 04:30:00 EST,3032-05-15 04:49:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 7pm-7am
+
+Review of systems:
+
+Neuro:  Pt sedated on Ativan and morphine.  Currently, Ativan gtt @ 4mg/hr and Morphine gtt @ 4mg/hr.  Initially recieved pt on 6mg of ativan and 6mg of morphine.  Pt slightly hypotensive SBP 90's and MAPs 60 so sedation decreased @ that time. Pt responsive to painful stimuli but does not open her eyes.  PERRL.  PT is not following commands.
+
+Resp:  Received pt on ACx18/450/50%/peep 5. O2 sats upon arrival to shift 93%.  Fio2 increased to 60% with Sats increasing to 97-98%.  Am ABG: 7.37/48/96/29.  LS course throughout.  @ times, pt with copious amounts of secretions.  O2 sats greatest when pt positioned with Left lung up.  O2 sats 93% when pt with Left lung down.  LEft CT remains @ 20cm sxn, draining serosanguinous fluid.  ? head CT today for staging of Squamous cell Lung CA.
+
+CV:  Pt hemodynamically stable.  BP 92-122/47-63.  HR 89-103 with occassional PACs and PVCs.  K 4.3, Ca 7.9, Mg 1.9.  HCT 27% @ 1900 but 24% this am.  ? transfusion for low hct.  continue to follow.
+
+GI:  Abdomen soft.  BS hypoactive.  Per order, TF promote with fiber infusing @ 30cc/hr (order goal rate).  Per Nutrition note, TF goal should be @ 65cc/hr.  ? starting bowel regime to promote motility.  NO stool since admission.
+
+GU:  U/O via foley 25cc-120cc/hr.  Pt still receiving 100cc/hr NS maintence fluid.  Pt curretnly ~700cc pos. today and ~ 5.4 L pos LOS.
+
+ID:  PT started on po cipro.  Pan Cultured @ 1900.  Pt continues with low grade temp.  WBC 14
+
+Access:  ? central line placement for this pt.  Currently pt only has peripheral iv access.  
+
+Social:  Daughter called last night.  Wanted to be notified if there was any significant change in pt's status.  Daughter plans on coming in to visit pt today.  Would set up family meeting as she lives 2 hours away and may not be in every day.
+
+Dispo:  Remain in MICU.  Full Code
+
+",,
+13720,7244,17082,0,3032-05-15 17:21:00 EST,3032-05-15 17:49:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+RESP: Pt received on MV c the following mode: AC-18-60-450-5.0.  Pt ABG sent @ 06:45; 7.33-55-66 -- TVol subsequently increased to 500.  Follow up ABG c improved ABG values; 7.34-54-93.  The pt has tol a reduction of her FiO2 down to 50% c a good repeat gas, pt FiO2 currently dropped down to 40% @ 18:15 and will repeat ABG to ensure good tol.  Pt cont to have rhoncherous BS throughout all lung fields c exp wheezes assoc c ETT sxn'ing.  Sxn'ing sm/mod amounts of thick off-white sec per ETT.  Secretions are mobilized by turning.  Chest tube c minimal output today (10ml), drainage is straw colored.  Pt started on IV Steroids today to possibly optimize resp fxn.  20mg IV Lasix also provided to optimize resp fxn.  Pt cont to have copious tan sec per mouth.  
+
+CV: HDS, NSR c occ PVC's and PAC's.  101.7 Tmax this afternoon, pt med c 650mg Acetaminophen per OGT, last temp = 98.5 c pt quite diaphoretic.  Pt med c 20mg IV Lasix this AM c good output, although pt is still net positive approx 700ml per I&O flowsheet -- will notify team of results but do not expect the pt to receive additional doses @ this time 2nd borderline hypotension (MAP's in the low 60's).  The pt presently has 2 PIV's operational, a LSC TLC was placed, a CXR was performed, comfirmation of placement is currently pending.  The pt is +2 anasarca.  +Scleral edema noted.  
+
+MS: Pt received on IV Ativan and MSO4 gtt's, both infusing @ 6.0mg/hr via PIV.   These two gtts were titrated both up and down today to maximize pt comfort and minimize O2 consumption/CO2 production.  Pt currently responds to noxious stimuli, does not follow commands and is not purposeful.  PERRL, sluggishly.   
+
+GI: Pt is tol FS Promote c Fiber TF's today, slowly calibrating rate up and presently infusing @ 50ml/hr.  Will cont to titrate up c goal of 65ml/hr per Nutrition.  Pt started on a bowel regime today including a Dulcolax supp, pt subsequently had a small formed stool.  Abd is soft, obese c +BS appreciated. 
+
+FAMILY: Dtr, boyfriend and son-in-law visited today and kept abreast of POC/pt status.  SW met and discussed currently pt hospitalization c dtr.  [**Last Name (un) **] and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] priest visited pt c dtr @ BS.  Plan is to watch pt over the next 24-48 hours to watch for improvements.  If pt improves will cont to provide aggressive supportive care.  If pt condition deteriorates, expect to withdraw MV support and provide CMO.  
+The pt is currently a Full Code.
+
+DERM: No new/acute skin issues @ this time.
+
+OTHER: Please see CareVue for additional pt care data/comments. 
+",,
+13720,7244,17082,0,3032-05-16 02:46:00 EST,3032-05-16 02:49:00 EST,2010,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning.  Current settings: A/C 500 * 18 40% 5 peep. Breathsounds are coarse. Sx for thick white sputum. Inhalers given with vent checks. Please see respiratory section of carevue for further data. 
+Plan: Continue mechanical ventilation. Wean per protocol.
+",,
+13720,7244,17082,0,3032-05-16 03:56:00 EST,3032-05-16 04:10:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 7pm-7am
+
+Hemodynamically stable overnoc.  No major events.
+
+Review of systems:
+
+Neuro:  Pt remains sedated @ 6mg ativan and 6mg morphine.  No need for boluses with pt care.  Pt withdraws to painful stimuli but no other movements noted.  PERRL and sluggish.  
+
+Resp: Initial Vent settings: ACx18/500/40%/peep 5.  ABG:  7.37/50/61/30.   Fio2 increased to 45%.  Dr. [**Last Name (STitle) 681**] aware and did not want to increase fio2 any further.  Pt's O2 sats remained 93-94%.  Am AbG 7.41/43/61/28.  LS course throughout.  Left CT with minimal drainage.  Pt remains on steroids to optimize resp status.  Pt receiving inhalers per RT.  
+
+CV:  HDS.  NSR 69-82, no ectopy.  BP 98-114/50-58.   am labs pnding.  
+
+GI:  TF, promote c fiber infusing @ goal of 65cc/hr.  Minimal residuals noted.  Pt given colace as ordered.  No stool this shift.  Pt continues to hace NS @100cc/hr infusing.  ? if still needed now that TF are to goal.  
+
+GU:  Pt with good urine output (had received lasix yesterday).  Pt still positive ~5.2L for LOS.  
+
+ID:  Afebrile.  Gram Pos cocci in pairs and cluster from Blood culture.  Oxacillin d/ced and pt started on levofloxacin and vancomycin. 
+
+Skin:  no issues @ this time.
+
+Endo:  pt started on RISS for BS control.
+
+Social: Daughter @ bedside throughout the night.  Appears to be realistic about mother's prognosis and situation.  Daughter states she doesn't want her mother to suffer.  Continue to support family.
+",,
+13720,7244,17082,0,3032-05-16 14:49:00 EST,3032-05-16 15:09:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+The pt was received on MV this AM c the following mode:  AC-18-45-500-5.0 c sats in the mid-90's and breathing c vent.  After discussion of pts case this AM on rounds c the team, in the context of no resp improvement since last bronchoscopy and in accordance c pt desires as expressed by family members it was decided to extubate the pt c goal of care CMO.  Pt subsequently made a DNR/DNI.  The pt was therefore bolused c 2mg IV MSO4 and 2mg IV Lorazepma and extubated @ 11:30 to 40% FiO2 CSM.  The pts MSO4 and Ativan IV gtts have been titrated up since extubation 2nd dyspnea/air hunger and elevated WOB (+accessory resp muscle recruitment).  MSO4 gtt currently infusing @ 20mg/hr and Lorazepam is infusing @ 10mg/hr(will not titrate Ativan gtt up any higher 2nd perservatives incorporated into Lorazepam bottle), but will titrate up MSO4 gtt as needed to achieve good pt comfort.  Dtr [**Name (NI) 1390**] has freq expressed that her mother would not want aggressive care, would not want to be kept alive by a MV, and that she did not want to cause her mother needless suffering.  Social work has been helpful and @ the BS providing support.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **] Priest gave last rites to pt today.  Unit [**Last Name (un) **] also was in to see pt and said a prayer.  +Verbal/non-verbal support given by myself c explanations/rationale for all procedures provided to pt.  Currently the pts is tachycardic(110-130), + occ PVC's, resp drive is agonal c a RR is in mid teens, MAPs are the in 60-70 range and sats are in the low 40's.  Pt exhibiting death rattle, NTS has been useful in minimizing this for the family, provided Q2 hours.  Pts dtrs friend [**Name (NI) **] has also been here, providing support for dtr.  All meds except MSO4 and Ativan gtts have been d/c'ed(including O2) as part of CMO.  Will have next family meeting c medical team @ 18:00 to assess pts death trajectory progress.  Please see CareVue for additional pt care data/comments.  Universal isolation precautions in place. 
+   
+",,
+13720,,17082,0,3032-05-17 03:36:00 EST,3032-05-17 03:47:00 EST,1771,"N",69,"Nursing/Other","pmicu 7p-7a","
+pmicu 7p-7a
+
+
+   pt continues to be comfort measures only and remains on morphine and ativan qtts w/no changes made overnoc. she appears comfortable with no evidence of respiratory distress. family and friends have visited overnoc and updated on the current plan of care.
+",,
+13720,,17082,0,3032-05-17 05:39:00 EST,3032-05-17 05:43:00 EST,1771,"N",69,"Nursing/Other","expiration note","
+expiration note
+
+   precipitous drop in hr/bp noted between 4:30-5:00am. the pt's significant other was at the pt's bedside and was asked if there were any family members who may want to come in and see the pt. the pt's dtr was called and updated on the pt's worsening condition but opted not to come in. the pt expired @5:30am w/her so at the bedside. the intern was made aware and pronounced the pt. family has declined an autopsy.
+",,

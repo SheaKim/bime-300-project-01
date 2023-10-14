@@ -1,0 +1,93 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13029,8143,,,3081-12-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+13029,8143,16209,0,3081-12-15 17:34:00 EST,3081-12-15 17:49:00 EST,187,"N",1,"Nursing/Other",,"
+
+76 YR OLD C CAD,AS,MR [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] CATH TODAY FOR PROGRESSIVE SOB IABP FOR SEVERITY OF LAD  LESION SEEN BY CT SX BUT HIGH RISK DUE TO CALCIFICATION OF AORTA , MAY HAVE PCI PROCEDURE IN CATH LAB .
+
+SR NO ECTOPY . MAP 100 C GOOD AUGMENTATION . SL OOZE FROM R FEM  INSERTION PUMP AREA INITIALLY . GOOD PEDALS . HEPARIN 700U , PTT PENDING . NO CP, SOB . 
+
+BS CL, SAT 97 RM AIR 
+
+
+NPO P MINNOC . ATE SUPPER.
+
+DIURESING VIA FOLEY 
+
+ALERT,COOPERATIVE ,ANXIOUS ,MAKING MANY PHONE CALLS 
+
+STABLE BUT ANXIOUS AS PLAN NOT CLEAR 
+
+EMOTIONAL SUPPORT 
+
+",,
+13029,8143,16209,0,3081-12-16 05:49:00 EST,3081-12-16 06:11:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: ""  My leg hurts ""
+O:  s/p cath/IABP placement [**12-15**].  c/o pain at right fem. cath insertion site.  area clean. no bruise, hematoma, oozing.  HO aware and evaluated:  rx with tylenol po initially with poor relief,  given 2 percocets ~ 2130 with some relief but still c/o unable to [**Doctor Last Name 8**].  Therefore med. with ambien 5mg x2 and pt. able to [**Doctor Last Name 8**] for rest of night.  easily arousable.  Ox3.  still has small amt. of pain at site but diminished per pt.  
+
+IABP 1:1.  good augmentation.  MAPS 60-100, lower when asleep.  AS 62-119, AD 80-114, BAEDP 33-64.  
+pulses [**3-13**]+ bilat.  extrem. warm.  
+heparin increased to 800u/hr for PTT 53.  AM pnd.
+
+HR 60's-70 SR.  no VEA.  K+ 3.3 in afternoon.  Rx with total 80mcq KCL(40IV/40PO).  Mg 1.6 rx with mg oxide 800mg x1.
+MA lytes pnd.  CK pnd
+
+post cath HCT 31.  
+
+GU:  foley draining 40-100cc/hr.  clear.  
+GI:  NPO after MN.  having crackers, g-ale in eve.  c/o low level nausea ~ 2300 rx with mylanta with good effect.  also on protonix po.
+
+neuro:  pt. on phone with friends in [**Name2 (NI) **].  anxious about procedure today and when she will be going home.  
+daughters coming in today from out of town.  
+
+A: stable hemodynamics, cath site leg pain. electrolyte replacement. 
+P:  NPO.  cath in afternoon.  f/u with lytes, HCT, PTT.  percocet prn for pain.  family/pt. support. 
+",,
+13029,8143,16209,0,3081-12-16 10:51:00 EST,3081-12-16 11:01:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress NOte","
+CCU Nursing Progress NOte
+S-""I know this is going to be risky but it's better than nothing""
+O-Neuro- alert and oriented x3, pleasant and cooperative but very anxious. 
+CV- IABP 1:1 with poor augmentation but good systolic unloading [**1-27**] points. MAPS increased to 110 and c/o nausea/vomited x1 EKG no change but started IV NTG at 1mcg/kg. NO c.o chest pain. Consent for high risk intervention obtained.
+Resp-LS clear, O2 Sats 97%  on RA.
+ID afebrile
+GU- foley draining amber urine qs
+GI-NPO n/v small amt of bile treated with droperidol .625mg IV with relief of nausea and anxiety.
+Social-spoke to boyfriend on phone and 2 daughters from out of state had not arrived before transfer to cathlab at 10:15am.
+A/P-painfree stable on IABP.
+",,
+13029,8143,16209,0,3081-12-16 22:48:00 EST,3081-12-16 23:09:00 EST,488,"N",1,"Nursing/Other","CCU NPN 1400-2300","
+CCU NPN 1400-2300
+S/O: ""I'M AFRAID TO MOVE, I HOPE I CAN GO HOME TOMORROW"".
+
+CV: PT RETURNED FROM CATH LAB WITH RIGHT ART/VENOUS SHEATHS IN PLACE. PULSES PALP, FEET WARM. SHEATHS PULLED BY FELLOW AND TRANSPARENT DRSG [**Name5 (PTitle) **]. NO HEMATOMA OR OOZE. LEFT GROIN WITH PRESSURE DRSG FROM [**Name5 (PTitle) **] [**Name5 (PTitle) **], NO OOZE OR HEMATOMA FELT, PT WITHOUT DISCOMFORT. INTEGRELIN CONT AT 9CC/HR UNTIL 8AM [**12-17**]. IVF AT 125CC/HR X 1L ONLY. NTG AT 20 MCG/MIN. NO FURTHER LASIX GIVEN. 
+
+RESP: WEANED TO RA, SATS IN HIGH 90'S. LUNGS CLEAR.
+
+ID: AFEB.
+
+GI: FELT NAUSEATED IN AFTERNOON, REC'D MAALOX AND DROPERIDOL WITH RELIEF. DRINKING FLUIDS ONLY. NO STOOL. HCT 29.3.
+
+GU: FOLEY DRAINING CLEAR URINE. 
+
+MS: PT RESTLESS, REC'D PERCOCET X1 FOR BACK PAIN, WANTS SLEEPING PILL TONIGHT. ANXIOUS TO BE ABLE TO MOVE AROUND IN BED AT MN. DAUGHTER AND FRIEND IN TO VISIT. 
+
+A/P: STABLE POST PROCEDURE, CONT TO FOLLOW CLOSELY. SLEEPER TONIGHT. ASSESS RIGHT AND LEFT GROIN FREQ. COMFORT MEASURES. CHECK HCT AGAIN IN AM. ? D/C TOMORROW.
+
+
+",,
+13029,8143,16209,0,3081-12-17 05:03:00 EST,3081-12-17 05:16:00 EST,284,"N",1,"Nursing/Other","nursing progress note 7p-7a","
+nursing progress note 7p-7a
+neuro:  PT. ALERT AND ORIENTED.  MOVING ALL EXTREMITIES.  GIVEN AMBIEN FOR [**Doctor Last Name **] WITH GOOD EFFECT.  SLEPT IN LONG NAPS OVERNIGHT.  
+
+CV:  NTG WEANED TO OFF.  BP STABLE SYS 92/40.  INTGRILLIN TO BE D/C'D AT 0800.  DENIES C/O CP.  RIGHT GROIN C&D, PALP PEDAL PULSES.  LEFT GROIN C&D WITH PRESSURE DRESSING INTACT. 
+
+RESP:  LUNGS CLEAR.  ON ROOM AIR.  O2 SATS 98%-99%.  DENIES C/O SOB.  
+
+GU:  FOLEY PATENT DRAINING CLEAR YELLOW URINE IN FAIR AMTS.  
+
+GI:  NO FURTHER C/O NAUSEA.  GIVEN TOAST AND SIPS OF WATER WITH NO PROBLEMS.  + BOWEL SOUNDS 
+
+ID:  AFEBRILE
+",,

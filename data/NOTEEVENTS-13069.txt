@@ -1,0 +1,243 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13069,19060,,,2950-01-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2950-1-2**]     Discharge Date:  [**2950-1-5**]
+
+Date of Birth:   [**2881-9-14**]     Sex:  M
+
+Service:  MEDICINE
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 68-year-old male with
+past medical history significant for an embolic stroke on
+aspirin and Coumadin who presented to Emergency Room with
+diaphoresis, weakness and five day history of dark stools.
+In the Emergency Department, he was seen to have large
+melanotic stool.  He also had been orthostatic on
+examination.  His hematocrit baseline is 42, which dropped to
+30 with hydration.  Gastrointestinal Services was called from
+the Emergency Room and patient was brought to Medical
+Intensive Care Unit.  He was stabilized and transfused with
+three units of packed red blood cells and FFP and Vitamin K.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease, status post myocardial
+infarction.
+2.  History of stroke in [**2945**] with aphasia and .........
+thrombus on anticoagulation.
+3.  Thrombocytosis on Hydrea.
+4.  Status post splenectomy secondary to trauma.
+5.  Pituitary adenoma.
+6.  Hypothyroidism.
+7.  Gout.
+8.  Spinal stenosis.
+
+MEDICATIONS ON ADMISSION:  Hydrea 500 mg po q.d., Synthroid
+150 mcg po q.d., aspirin 81 mg po q.d., Coumadin 6 mg po
+q.d., allopurinol 400 mg po q.d., Zocor 10 mg po q.d., Viagra
+prn.
+
+MEDICATIONS ON TRANSFER:  Protonix 40 mg po b.i.d., Ativan
+prn, Benadryl prn.
+
+ALLERGIES:  Compazine, Perazine, Trilafon, penicillin and
+shrimp after which patient develops rash.
+
+SOCIAL HISTORY:  Denies alcohol or tobacco use.
+
+GENERAL PHYSICAL EXAMINATION:  On transfer from Medical
+Intensive Care Unit to the floor:  Temperature 98.8.  Heart
+rate 74.  Blood pressure 124/60, oxygen saturation 95% on
+room air.  Patient with no acute distress.  Head, eyes, ears,
+nose and throat reveals pupils are equal, round, and reactive
+to light and accommodation, mucous membranes are moist.
+Oropharynx clear.  Neck without jugular venous pressure.
+Cardiovascular:  Regular rate and rhythm, no murmur.
+Respiratory rate exam reveals clear to auscultation
+bilaterally.  Abdomen is nontender, nondistended with
+positive bowel sounds.  Extremities with normal peripheral
+pulsation and no edema.  Neurologically:  Patient is oriented
+and attentive.  He has anomia for low frequency objects.  Has
+no focal, neurological or motor deficit.  He has bilateral
+upper extremity postural inaction tremor which is left more
+than right (patient was diagnosed with a central tremor).
+
+HOSPITAL COURSE:  This is a 68-year-old male with history of
+embolic stroke on anticoagulation who presented with melena
+and decreased hematocrit.  Initially, patient was
+hospitalized in the Medical Intensive Care Unit and required
+transfusion with three units of packed red blood cells, FFP
+and Vitamin K.  His esophagogastroduodenoscopy showed
+multiple gastric ulcers with overlying clot.  The scope
+showed ulcers with signs of recent bleed and patient was
+cauterized during the esophagogastroduodenoscopy.  He
+remained stable after the cauterization.  He received an
+additional three units with stable hematocrit at the level of
+36.  His blood pressure remained stable and INR was 1.4.  It
+was decided to hold his anticoagulation and aspirin.
+
+LABORATORY DATA:  White blood cell count 11.1, hemoglobin
+12.7, hematocrit on discharge 38.9, platelet count 379,000.
+Sodium 135, potassium 4.4, chloride 105, CO2 27, BUN 12,
+creatinine 0.9, glucose 97, INR 1.4.  Electrocardiogram:
+Normal sinus rhythm, normal axis, normal intervals, inverted
+T wave in III, aVF, V6.
+
+DIAGNOSES ON DISCHARGE:
+1.  Melena, multiple gastric ulcers.
+2.  Coronary artery disease.
+3.  History of CVA.
+4.  Thrombocytosis.
+
+MEDICATIONS ON DISCHARGE:
+1.  Hydrea 500 mg po q.d.
+2.  Synthroid 150 mcg q.d.
+3.  Allopurinol 400 mg po q.d.
+4.  Zocor 10 mg po q.d.
+5.  Protonix 40 mg po b.i.d.
+
+DISCHARGE STATUS:  Patient is going to be discharged home.
+His primary care physician had been notified regarding his
+hospital course and the decision to hold his anticoagulation.
+This patient is a resident of [**State 192**].  Further management of
+his medical care will be continued there.
+
+
+
+
+DISCHARGE CONDITION:  Good.
+
+
+
+
+
+                          [**Name6 (MD) **] [**Last Name (NamePattern4) 178**], M.D.  [**MD Number 179**]
+
+Dictated By:[**Last Name (NamePattern1) 3183**]
+
+MEDQUIST36
+
+D:  [**2950-1-8**]  18:12
+T:  [**2950-1-8**]  18:12
+JOB#:  [**Job Number 8479**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: [**First Name8 (NamePattern2) 1125**] [**2950-1-27**] 9:03 PM
+(End of Report)
+
+
+",,
+13069,19060,,,2950-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2950-1-2**] 1:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12673**]
+     Reason: H/O SP SPLENECTOMY W/ HEAVY  DIAPHOREISI, R/O INFECTION, NO ENW S
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with h/o splenectomy with heavy diaphoresis 
+     REASON FOR THIS EXAMINATION:
+      r/o infection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Diaphoresis.
+     
+     AP PORTABLE CHEST
+     
+     No prior studies are available for comparison.
+     
+     The cardiomediastinal contours are unremarkable. There are low lung volumes
+     and associated basilar linear densities consistent with subsegmental
+     atelectasis. The upper lung fields are clear.  There is no large pleural
+     effusion or pneumothorax. The right costophrenic angle is not visualized. The
+     osseous structures are unremarkable.
+     
+     IMPRESSION:  Bilateral subsegmental atelectasis. A repeat AP and lateral xray
+     may be helpful.
+
+",,
+13069,19060,16287,0,2950-01-02 18:48:00 EST,2950-01-02 20:25:00 EST,96,"N",1,"Nursing/Other","gi bleed","
+gi bleed
+micu nsg admit note (in ccu)
+pt is 68 y/o male with allergy to shrimp, penicillin, compazine, thorazine, trilifon (any zines) he states.
+past hx of silent mi in [**2945**], followed by cva (no deficits). 
+meds- asa, coumadin, zocor, hydrea, synthroid.
+
+hpi- c/o diaphoresis, weakness since this am. had nl bm last noct. no other stomach pain or gi sxs. 
+[**2950-1-2**] to [**Hospital1 **] ew about 12pm. bp 86-128/. hr 70sr. re's asa, had rectal exam- melena. states he then had a bloody stool. ngt in with 1000cc of dk red blood out, irrigated, but bleeding did not stop. to gi for endoscopy which showed ulcer in antrum with small ulcers and erosions around the area. also had large clot in stomach which could not be washed away/moved. no active bleeding. re'd total 4mg versed and 75mg demerol. bp 97-108, 86 coming up to ccu. re'd total 3500cc n/s in ew and gi. 
+to ccu at 6:30pm. 
+id- afebrile, temp runs low. cv- hr 60s to low 70s sr, no vea. bp 104/112/. hct- 12:45pm-41.6, at 3:30pm- 30.4. chemistries hemolyzed from ew, redrawn in ccu. 
+resp- on 2l n/c with sat 96-97. l/s ess. clear, some rhonchi lower [**1-28**]. no sob. vded x2 total 575cc. 
+gi- pos. b. sounds, abd soft, no abd pain. had lge liquid, maroon stool on bedpan. 2 units prbcs set up from ew. 1 unit prbcs started in ccu, tol well so far. 2 more units prbcs set up and 2 units ffp also ordered. 
+ms- a+ox3, sl. anxious.
+skin- intact. 
+access- 1 #18 iv left wrist, 1 #16 iv left antecub. 
+social- lives in [**Last Name (LF) 4392**], [**First Name3 (LF) 598**]. married with 2 sons, is a lawyer. here for a [**Hospital1 **] convention at the [**Doctor Last Name 2631**]. wife and 1 son are also here. 
+plan- npo. per gi, will rescope again this weekend. transfuse as ordered, FFP/ Vitamin K. recheck hct after prbcs infused.   
+
+
+
+
+
+
+
+ 
+
+",,
+13069,19060,16287,0,2950-01-03 07:02:00 EST,2950-01-03 07:18:00 EST,358,"N",1,"Nursing/Other","GI BLEED","
+GI BLEED
+O: SEE FLOW SHEET SECTION FOR CLINICAL INFORMATION
+
+NEURO: ALERT, ORIENTED, APPROPRIATE
+
+CV: IN SR WITH RARE, ISOLATED, UNIFOCAL PVC'S; BP STABLE
+
+RESP: ON  2L NP: O2 SAT > OR = 95%; CLEAR LUNGS
+
+RENAL: VOIDING QS YELLOW URINE UTILIZING URINAL
+
+GI: NO NAUSEA OR VOMITING OVERNIGHT; MOVED BOWELS X 3- MELANOTIC STOOLS; CONSISTENCY LIQUID TO FOAMY; GUAIAC POSITIVE.
+
+ID: AFEBRILE
+
+HEME: TRANSFUSED WITH 3 UNITS PRBC'S OVERNIGHT; 2 UNITS FFP; IV VITAMIN K X 1; PROTONIX; HCT 36
+
+ACCESS: 2 PERIPHERAL IV'S- LEFT ANTECUBITAL; LEFT HAND
+
+SOCIAL: FAMILY PRESENT AT ALL TIMES- WIFE VISITING IN EARLY EVENING; SON IN ROOM ALL NIGHT
+
+POTENTIAL ALLERGY: PROTONIX IV BOLUS 80 MG; STARTED ON PROTONIX DRIP AT 8 MG/HR; APPROX. 90 MIN LATER C/O BEING ITCHY; NO RASH PRESENT; RIGHT EYELID APPEARS SWOLLEN; HOUSE OFFICERS INFORMED; PROTONOX DRIP ON HOLD; PO BENADRYL GIVEN WITH STATED RELIEF OF ITCHINESS.
+
+A: GI BLEED; PASSING MELENA, BUT NO BRIGHT RED BLOOD OVERNIGHT; HCT REFLECTING TRANSFUSIONS. P: FOR AM BLOOD DRAW- SERIAL HCT'S, COAGS; FOR ADDITIONAL TRANSFUSIONS IF NECESSARY.
+
+
+",,
+13069,19060,16287,0,2950-01-03 17:28:00 EST,2950-01-03 17:45:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S.  DENIES PAIN/DIZZYNESS/SOB
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV: HR 60-70'S SR OCCASSIONAL PVC'S, BP STABLE AT 110-130/SYSTOLIC, DECREASED  BRIEFLY TO 80'S/ DURING ENDOSCOPY, CPK'S NEGATIVE
+
+GI: HCT STABLE AT 36-37, LAST 36.5 AT 4PM, 2 SMALL LIQ MELANOTIC STOOLS IN AM, NONE SINCE, ZANTAC 50MG IV Q8HR STARTED AFTER REACTION TO PROTONIX OVERNIGHT, REPEAT ENDOSCOPY REVEALED SEV. ULCERS,NONE ACTIVELY BLEEDING, SOME W/CLOTS - CAUTERIZED,RECEIVED DEMEROL 100MG IV/VERSED 2MG IV TOTAL BY GI FOR PROCEDURE; REMAINS NPO EXCEPT ICE CHIPS, D51/2NS AT 100/HR INFUSING
+
+RESP:  RR 16-20'S, LUNGS CLEAR, SATS IN HIGH 90'S ON 2L N/C
+
+GU: VOIDING WELL IN URINAL CLEAR YELLOW URINE
+
+MS: ALERT AND ORIENTED X 3, POST-ENDOSCOPY, PT QUICKLY AWOKE AND BECAME REORIENTED
+
+SOCIAL:  SON/WIFE IN TO VISIT ON/OFF THROUGHOUT DAY, VERY SUPPORTIVE
+
+A:  S/P GI BLEED, + ULCERS, HCT STABLE S/P 3 UNITS PRBC'S
+
+P:  MONITOR HCT Q 6HR OVERNIGHT, KEEP NPO UNTIL AM, FOLLOW FLUID STATUS, KEEP BLOOD IN BLOOD BANK, EMOTIONAL SUPPORT.
+
+
+",,
+13069,19060,16287,0,2950-01-04 07:02:00 EST,2950-01-04 07:07:00 EST,358,"N",1,"Nursing/Other","GI BLEED","
+GI BLEED
+O: SEE FLOW SHEET FOR CLINICAL INFORMATION
+
+HEME: NO NAUSEA OR VOMITING OVERNIGHT;  VERY SMALL SOFT BOWEL MOVEMENT X 1- GUAIAC POSITIVE; IV D51/2 NS AT 100 CC/HR; VOIDING QS; SLEPT IN VERY LONG NAPS; EVENING LAB WORK DC'D BY HOUSE OFFICER; A: NO ACTIVE BLEEDING OVERNIGHT- REMARKABLY STABLE NIGHT. P: FOR AM BLOOD WORK- ESP HCT; ADVANCE ACTIVITY, ADVANCE DIET; FOR POSSIBLE TRANSFER TO FLOOR THIS AFTERNOON.
+",,

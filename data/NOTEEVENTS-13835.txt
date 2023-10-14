@@ -1,0 +1,503 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13835,26948,,,3349-05-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3349-5-4**]              Discharge Date:   [**3349-5-11**]
+ 
+Date of Birth:  [**3286-10-21**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Iodine; Iodine Containing / Sulfonamides
+ 
+Attending:[**First Name3 (LF) 5664**] 
+Chief Complaint:
+Fever and chills
+ 
+Major Surgical or Invasive Procedure:
+Central line placement
+PICC line placement
+Negative V/Q scan
+
+ 
+History of Present Illness:
+62 year-old female retired [**Hospital1 19**] pathologist, with h/o 
+diverticulitis s/p partial colectomy, PUD, HTN, hypothyroidism, 
+Raynaud's, p/w 5 day history of fevers and chills that are 
+sudden onset.  She also complained of associated with nausea and 
+decreased PO intake with mild RLQ pain. 3 day prior to 
+admission, she developed vomiting x 2 and Tm 104.5 with urinary 
+frequency but no dysuria.  In ED, she was noted to have Tm 
+100.1, normotensive, WBC 11.7, U/A positive for UTI 21-50 WBC, 
+many bacteria, and pos nit, mod leuks.  She states she is having 
+unprotected sexual intercourse with husband prior to symptoms 
+developing, no abnml vag discharge.  She received Cipro and IVF 
+in the ED. 
+ 
+Past Medical History:
+1. Diverticulitis s/p partial colectomy  
+2. PUD  
+3. Depression  
+4. Htn  
+5. Hypothyroidism  
+6. Raynauds  
+8. Uterine Fibroids  
+9. Internal carotid artery dissection  
+10. Asthma  
+11. h/o hepatitis  
+12. h/o TIA  
+13. Visual Seizures  
+
+ 
+Social History:
+Retired [**Hospital1 19**] pathologist, no tobacco, no EtOH, lives with her 
+husband.
+ 
+Physical Exam:
+VS: T 100.1 HR 98 BP 104/68 RR 20 O2sat 96% RA
+GEN: Alert and oriented x 3, ill appearing, appears pale
+HEENT: NC/AT, anicteric sclera, EOMI, mmm, oropharynx clear
+NECK: supple, no LAD
+Cor: RRR, normal S1, S2, no M/R/G
+Lungs: CTA bilaterally
+Abd: +BS, some discomfort to palpation of RLQ, no rebound 
+tenderness or guarding.   
+Back: No CVA tenderness
+Ext: No edema/cyanosis/clubbing. 2+ DP
+Neuro: CNII-XII intact, slightly ataxic gait, no resting tremor 
+or dysmetria.
+ 
+Pertinent Results:
+CT ABDOMEN/PELVIS:
+1) Interval development of a compression fracture in L1 
+vertebral body.
+2) Interval development of small amount of stranding around the 
+left kidney, which maintains otherwise unchanged characteristics 
+since the last CT examination.
+3) Calcified uterine fibroid.
+
+V/Q SCAN: Negative
+
+MICRO:
+
+                             ESCHERICHIA COLI
+                             |          ESCHERICHIA COLI
+                             |          |   
+AMPICILLIN------------   <=2 S      <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S      <=2 S
+CEFAZOLIN-------------   <=4 S      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------     4 S        4 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------     2 S        2 S
+IMIPENEM--------------   <=1 S      <=1 S
+LEVOFLOXACIN----------   =>8 R      =>8 R
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------   <=4 S      <=4 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------     2 S      <=1 S
+
+ 
+Brief Hospital Course:
+1)Pyelonephritis: Patient presented with several day history of 
+fever and chills.  CT abdomen on admission was suggestive of 
+left pyelonephritis.  She had a positive UA so she was initially 
+started on IV levofloxacin.  However, she became hypotensive the 
+first night requiring short stay in the ICU where she got R IJ 
+central line placed, received 2 liters of IVF and Gentamycin was 
+added.  She grew 8/8 bottles gram negative rods from adission.  
+It later grew levofloxacin-resistant E.Coli.  Since she is 
+allergic to penicillin and refused to try cephalosporin 
+sensitization, antibiotic was switched to IV Aztreonam.  (E.Coli 
+sensitive to Aztreonam).  She got PICC line placed and was 
+discharged with 14 day course of Aztreonam.  The surveillance 
+culture after Gentamycin was added showed no growth to date.
+
+2)Chest pain: Patient developed pleuric chest/epigastric pain on 
+[**5-9**].  She has a history of PUD but describes this pain to be 
+different.  She got a V/Q scan which was negative for PE.  The 
+etiology of this pleuritic chest pain remaines unclear.
+
+3)Hyponatremia: Na on admission was 129 which resolved after IVF 
+hydration.
+
+4)HTN: Her BP meds were held while she was septic but was 
+re-started on discharge.
+ 
+Medications on Admission:
+Albuterol
+[**Doctor First Name 912**] 60 mg bid
+Atenolol 25 mg po qd
+Diprolene tid
+Dyazide 25-37.5 qd
+Flonase 2 puff qd
+Levoxyl 150 mcg qd x 6 days/week
+Neurontin 200 mg po tid
+Nifedipine XL 30 mg bid
+Prilosec 20 mg bid
+Rhinocort 1-2 puffs qd
+Singulair 10 mg qhs
+Cymbalta 60 mg qd
+Adderel XR 60 mg qd
+ 
+Discharge Medications:
+1. Aztreonam 1 g Recon Soln Sig: Two (2) gram Injection Q8H 
+(every 8 hours) for 10 days: Last day: [**3349-5-20**].
+Disp:*10 day supply* Refills:*0*
+2. Fexofenadine HCl 60 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+3. Fluticasone Propionate 50 mcg/Actuation Aerosol, Spray Sig: 
+One (1)  Nasal BID (2 times a day).  
+4. Levothyroxine Sodium 150 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+5. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+6. Montelukast Sodium 10 mg Tablet Sig: One (1) Tablet PO QHS 
+(once a day (at bedtime)).  
+7. Amphetamine-Dextroamphetamine 20 mg Capsule, Sust. Release 
+24HR Sig: Three (3) Capsule, Sust. Release 24HR PO qd ().  
+8. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Nifedipine ER 30 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO twice a day.  
+11. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+12. Rhinocort 32 mcg/Actuation Aerosol Sig: [**12-15**] puff Nasal once 
+a day.  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary: 
+1)Urosepsis 
+2)Pyelonephritis 
+3)Atypical chest pain 
+ 
+Secondary: 
+1)Peptic ulcer disease 
+2)Depression 
+3)Hypertension 
+4)Hypothyroidism 
+5)Cluster Headache 
+6)Raynaud's 
+7)Asthma 
+
+ 
+Discharge Condition:
+Hemodynamically stable, afebrile, able to ambulate.
+ 
+Discharge Instructions:
+Please take all of the medications as directed.  [**Doctor First Name 54**] need to 
+complete a 14 day course of antibiotic.  If [**Doctor First Name **] continue to have 
+diarrhea or develop fever/chills, headache, abdominal pain, or 
+any other concerning symptoms, please seek medical attention.  
+Please continue all of your home medications.  No medication has 
+been discontinued.
+ 
+Followup Instructions:
+Please follow up with your PCP [**Last Name (NamePattern4) **] 1-2 weeks.
+
+Provider: [**Name10 (NameIs) 9707**] FIELD SCREENING Where: [**Hospital6 64**] 
+[**Hospital3 2008**] CENTER Phone:[**Telephone/Fax (1) 341**] Date/Time:[**3349-6-12**] 2:30
+Provider: [**Name10 (NameIs) 296**] [**Last Name (NamePattern4) 340**], M.D. [**MD Number 60**]: [**Hospital6 64**] 
+[**Hospital3 2008**] CENTER Phone:[**Telephone/Fax (1) 341**] Date/Time:[**3349-6-12**] 3:00
+Provider: [**Name10 (NameIs) 6226**] Where: EAST CAMPUS CLINICAL CENTER 
+RADIOLOGY Phone:[**Telephone/Fax (1) 592**] Date/Time:[**3349-6-18**] 4:20
+
+ 
+                             [**Name6 (MD) 296**] [**Last Name (NamePattern4) 5616**] MD [**MD Number 5617**]
+ 
+Completed by: [**First Name8 (NamePattern2) 2774**] [**Name8 (MD) 2775**] MD [**MD Number 2776**] [**3349-5-11**] @ 1312
+Signed electronically by: DR. [**First Name8 (NamePattern2) 296**] [**Name (STitle) **]
+ on: SUN [**3349-5-11**] 3:58 PM
+(End of Report)
+
+
+",,
+13835,26948,17212,0,3349-05-06 04:58:00 EST,3349-05-06 05:21:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 00:15-7:00","
+micu/sicu nsg note: 00:15-7:00
+this is a very pleasant 62 y.o. woman who is a retired [**Hospital1 **] pathologist with sig. hx of diverticulitis, pud, htn, hypothyroidism, raynaud's, who presented with 5 day h/o fevers, chills of sudden onset. also with nausea, dec. po intake with mild rlq pain. 3 days pta pt developed vomiting x2 with tmax 104.5 with urinary frequency, no dysuria. in er u/a + for uti. tx'd with cipro and ivf. bld cx revealed gnr in 4/4 bottles. abx switched to levofloxacin and gent added. pt became hypotensive on 11 [**Hospital Ward Name **] with sbp in 80s with poor access. the iv rn was only able to get 1 piv: a rlp #20g. pt transferred to ficu for management of hypotension.
+
+pt arrived to ficu hypotensive with sbp in 80s with map in low 60s. pt was given 2 liters ns boluses over 1 hour each with sbp in 90s with map in mid 60s. ns switched to 200cc/hr and maps now in the 70s. pt asymptomatic. k, mg, po4 currently being repleted. 
+
+neuro: a&ox3, mae, following commands appropriately, able to turn in bed with assist, requires 2 assist for boost in bed. 
+
+cv: hr in the 80s with no ectopy. maps in the low 60s and currently in the 70s. +pp but difficult to palpate-feet cool (hx raynauds). 
+
+resp: lungs cta and diminished at bases, rr 18-24, sp02 94-100% on 3lnc. denies sob. 
+
+gi/gu: abd soft, +bs, sl ruq abd pain that she rates as a ""3"" on a 0-10 pain scale. tolerating sips of gingerale with no n/v. foley patent draining adequate amts clear light yellow urine. 
+
+skin: cwd&i.
+
+lines: rlp #20g patent. new quad lumen cl placed in l sc area and xray confirmed + placement in svc. patent. ns at 200cc/hr infusing via central line. 
+
+f/e/n: 2am k=3.1-pt given 40 meq kcl total. mg=1.9, [**Name8 (MD) 17**] md, repleted with 2amps mg. p04=1.9- to receive k phos when med available. repeat am labs pending.
+
+id: t max 97.6. due for next gent iv at 7am. denies chills, sweats. bld cx drawn with am labs. pt was given 650mg tylenol around 2am for headache with good effect.
+
+plan: continue ivf and monitor bp and u.o. closely, maintain u.o. >30cc/hr and map >60. monitor temp and micro data, cont. iv abx, obtain a gent peak level before the 4th dose and a gent trough level after the 4th dose. replete lytes as ordered. start iv kphos when med available. f/u with repeat am lab results.
+",,
+13835,26948,17212,0,3349-05-06 06:10:00 EST,3349-05-06 06:24:00 EST,5192,"N",69,"Nursing/Other","micu/sicu addendum: 00:15-7:00","
+micu/sicu addendum: 00:15-7:00
+at 7am noted small amt bright red blood under l sc quad line tegaderm dsg. md dr. [**Last Name (STitle) 5310**] present.  site not actively bleeding. continue to monitor [**Name8 (MD) 17**] md. pt's valuables (10 dollars cash and 2 credit cards) locked in ficu safe.  
+",,
+13835,26948,17212,0,3349-05-06 17:13:00 EST,3349-05-06 17:20:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN FOR 7A-7P:     FULL CODE     NUMEROUS ALLERGIES:
+
+
+                  PLEASE SEE FLOWSHEET FOR MORE DETAILS
+
+NEURO: AAOX3. PERLA. OOB TO CHAIR WITH MIN ASSIST X 1. C/O HA/RLQ ABD. PAIN WITH TYLENOL PO GIVEN. 
+
+PULM: PLACED ON RA WITH STABLE SATS 97-99%. LUNG SOUNDS CTA. NO COUGH NOTED. 
+
+CV:  NSR-ST WITH HR 70-100'S. BP STABLE 90-130 SYSTOLIC. GIVEN A TOTAL OF 2L NS FOR MY TIME WITH STABLIZATION OF BP. AFEBRILE. NO EDEMA NOTED. PPP X 4.
+
+GI/GU: + BS NOTED. ON HOUSE DIET AND TOLERATING WELL. ABD IS SOFT, SLIGHTLY DISTENDED WITH SOME RLQ ABD PAIN WITH MARKED IMPROVEMENT PER PT SINCE YESTERDAY. NO BM.  FOLEY IN PLACE WITH 3+ LITERS OF LIGHT YELLOW URINE SINCE MN. 
+
+SOCIAL:  HUSBAND IN TO VISIT.  UPDATED BY RN.  WILL BE BRINGING IN THE REST OF HOME MEDS. PLEASE ADVISE PHARMACY WHEN HE ARRIVES WITH MEDS. 
+
+LABS:  REPLETED K+ LEVEL [**Name6 (MD) **] PRN MD ORDER. REPEAT LABS SENT AT 1800. AWAITING RESULTS.
+
+PLAN:  PLEASE CONT. WITH CURRENT PLAN OF CARE.  MONITOR PER PROTOCOL. NEEDS GENTAMYCIN PEAK AND TROUGH LEVEL DRAWN BEFORE/AFTER 4TH DOSE DUE TONIGHT AT 2300. REQUESTING PRIVATE ROOM AND HAS TRANSFER ORDERS WRITTEN. 
+
+",,
+13835,26948,17212,0,3349-05-06 20:14:00 EST,3349-05-06 20:20:00 EST,874,"N",69,"Nursing/Other",,"
+
+7p-9p;
+ neuro: alert and oriented cooperative... pt became very weepy,crying in room, pt states she has had a lot to deal with rcently.. loss of father etc. pt ddid not elaborate on other tragedies and things going on in her life. this illnes is also upsetting to her. dr [**Last Name (STitle) **] with her. pt states her priest was in today to offer support and that her""shrink is coming in to visit her tomorrow.
+
+cv: vss, t 99.9
+resp: o2 sats 96-98 % on roomair.
+gi: abd soft,positive bowel sounds denies abdominal pain.
+gu: foley drining clear yellow urine.
+
+6p labs k=3.6 repleted with kcl 20 meq iv, mag repleted with 2 grams mag sulfate.
+",,
+13835,26948,17212,0,3349-05-06 21:00:00 EST,3349-05-06 21:01:00 EST,874,"N",69,"Nursing/Other",,"
+
+addendum: trough gentamycin level drawn at 2200. bs rechecked bs=100 by fingerstick
+",,
+13835,13410,17213,0,3349-10-20 06:09:00 EST,3349-10-20 06:46:00 EST,3136,"N",54,"Nursing/Other","Nursing Admission Note","
+Nursing Admission Note
+Pt is a 62 yr old female,retired pathologist  admitted through the EW with C/O of abd pain and an abcess on her right ankle. Pt was hypotensive and having mental status changes. She was initially treated with 6 liters of fluid and then levophed gtt was started to support her B/P. Her abd CT scan was negative and she was taken to the OR for debridement her right ankle and leg. Please see ICU admission and FHP for medical history and meds. Pt is allergic to PCN, sulfa, IV contrast dye, latex and ibuprophen causes bleeding. Pt was stable in the OR with levophed infusing at .025mcg/kg/min . Pt EBL was 250, and she received another liter intraop with u/o of 150cc. pt had received Vanco, and levoquin and clindamycin. Pt wounds are open and packed, oozing large amounts of sersanquinous fluid, and wounds will be re-evaluated this Am for further debridement.Pt transferred from OR to TSICU. 
+Neuro- pt is sedated on propofol gttnow at 40 mcg/kg/min. Pt has awaken from surgery, pt is agitated but will follow commnads with all extremities. She has received fentanyl for pain, in 25mcg increments for a total of 200 mcg. Pt hands are restrained with adequate circulation 
+CV- Pt B/P has bveen stable with systolic of 96-110/ mean > 70. Attempted to wean levophed, unable to as Propofol needed to be increased for sedation. Pt in NSR with periods of tachycardia with agitation. Potassium being repleted.Magnesium repleted.  pt has right subclavian in place, only one port is fuctioning at this time, other ports leak. Will be rewired.Hct is stable at 29.5.Lactate is now 1.4.IVF at 100cc of LR   
+Resp - pt initially ventilated on assist control, TV of 400 with aratre of 20 with improved ABG of 7.37-37-146,-3 and 22.As pt wakened , mode changed to PSV of 5 with 5 of peep on 50 % FIO2 with sats of 100%. pt has scant secretions.Breath sounds are clear to diminished in bases. RR no PSV is [**11-27**] with spont volumes of 450-500. 
+GI- Pt abd is soft  with bowel sounds. Unable to assess if she continues to have pain, pt too agitated.when awake. 
+GU- pt has had good U/O via foley cath, clear yellow urine 
+Wound- pt leg continues to ooze , it is now saturated , and new pads have been changed frequently. Her foot is warm and red with weak pedal pulse, easily found by doppler. 
+ID- T 96-97. warm blankets applied. pt received Clindamycin this AM  and is on Vanco and levoquin QD. WBC is 16.4 down from 19.1
+endo- no insulin coverage needed, Cortisol stim test done.
+social- pt husband and son(doctor [**First Name (Titles) **] [**Last Name (Titles) 5311**] doing emergency medicine) in to visit asking appropriate questions, they had just spoken with Dr [**Last Name (STitle) 1492**] post surgery.Will call this AM. 
+A/P- Pt stable  post op unable to wean levophed, with propofol infusing for sedation. pt awakens quite agitated and has required increased dosage of sedation. Pt cont to have good u/o and has improved ABG and appears to be tolorating  pressure support ventilation. Surgery wiull reassess wound for further dibriedment. Cont to keep pt sedated will in
+",,
+13835,13410,17213,0,3349-10-20 06:10:00 EST,3349-10-20 06:46:00 EST,3136,"N",54,"Nursing/Other","Nursing Admission Note","
+Nursing Admission Note
+(Continued)
+tubated. Medicate for pain as needed.   
+  
+",,
+13835,13410,17213,0,3349-10-20 06:33:00 EST,3349-10-20 06:37:00 EST,3440,"N",54,"Nursing/Other",,"
+
+Respiratory Care
+Patient was received from o.r intubated, 7.5 oet taped at 23cm. Bilateral breath sounds, clear. Initially on a/c but weaned down to psv 5/5 50% with RSBI = 62. No plans to extubate as of yeat as pt may require return to o.r fro further debridement.
+",,
+13835,13410,17213,0,3349-10-20 06:37:00 EST,3349-10-20 06:38:00 EST,3440,"N",54,"Nursing/Other",,"
+
+Resp
+Add: Started on albuterol inhalers q6 hrs. Breath sounds clear but has history of mult. allergies.
+",,
+13835,13410,,0,3349-10-20 16:49:00 EST,3349-10-20 17:15:00 EST,7656,"N",-1,"Nursing/Other","nursing note","
+nursing note
+Events- right central line rewired this am. Blood gases showed metabolic acidosis compensated by resp acidosis, resolved p fluid bolus of 500cc's LR. Pt will be going to the OR when called for RLe debridement. 
+
+Neuro- Follows commands on and off propofol. Moves all extremities. Perrla.increased agitation when weaned off propofol.  Denies any pain by nodding head and mouthing words. Cont's on propofol gtt and remains painfree.
+
+CV- HR 80's SR with occasional PVC's. Bp maps 70's-80. Received fluid bolus of 1000cc's. Maintained on Levophed gtt, titrated as needed to stablize BP's. 
+
+Resp- Vented on SIMV mode TV 500 rate 14 peep 5 ps5. ls-rhonchi, diminished at bases. 
+
+GI/GU abd soft distended +bs. dobhoff placed in left nare. placement confirmed by xray.  TF started at 1300 but stopped d/t new order of NPO for OR this evening. U/O- adequate. clear yellow urine.  
+
+Id- Pt on vanco, clindamycin, gentamycin, levaquin per ID team. mtemp 97.7 
+
+to be continued
+
+",,
+13835,13410,,0,3349-10-20 18:53:00 EST,3349-10-20 19:01:00 EST,7656,"N",-1,"Nursing/Other","continuence of prev note","
+continuence of prev note
+continued from previous note 7a-1900
+
+Event- Pt went to OR for irrigation and dsg change.  Per surgeon didn't need to be debrided again.  
+
+Skin- No breakdown on back.  RLE dsg intact, with some drg at thigh level.  Prior dsg was saturated with serosanguinous drg
+
+Social- Husband and son in to visit pt today
+ 
+Plan- continue current measures, provide support to pt and family members, cont to wean off levophed and propofol.
+
+",,
+13835,13410,,1,3349-10-21 04:02:00 EST,3349-10-21 06:09:00 EST,7476,"Y",-1,"Nursing/Other","psweeney,rrt","
+[**Name8 (MD) 1560**],rrt
+[**Name (NI) 84**] not done- no spontaneous respirations.
+",,
+13835,13410,,0,3349-10-21 04:02:00 EST,3349-10-21 04:03:00 EST,7476,"N",-1,"Nursing/Other","psweeney,rrt","
+[**Name8 (MD) 1560**],rrt
+pt. remained on current settings t/o shift, no changes made, plan for [**Name8 (MD) 84**] in a.m.
+",,
+13835,13410,,0,3349-10-21 06:51:00 EST,3349-10-21 06:56:00 EST,4422,"N",-1,"Nursing/Other",,"
+
+unable to wean off levophed-sbp falls to 70s, on 0.04mcg now, 
+team is in this am-dressing change is planned later today , tf was stopped at 0630.r leg dsd saturated and chucks were changed 3 times
++pulses, no edema, warm feet.brisk u/o, k and mag were replaced.
+vaco and genta levels were sent
+no family calls
+aggitated and restless when awake and she was kept sedated most of the night
+
+plan:dsg change , extubate take off sedation, wean off levo
+",,
+13835,13410,,0,3349-10-21 17:43:00 EST,3349-10-21 18:12:00 EST,3210,"N",-1,"Nursing/Other","T/SICU NSG NOTE","
+T/SICU NSG NOTE
+0700>>1900
+
+EVENTS: VAC dsg applied to RLE
+        EXTUBATED
+        Unable to wean levophed; map dip <65.
+        Pt CONFUSED/agitated/uncooperative when awake
+
+NEURO- agitated waking from propofol; follows inconsistently & reluctantly; MAE's. Does not focus on speaker but turns to voice onn occassion. Perseverating once extubated- ""I'm left-handed, left-handed."" Demanding to see husband; does not listen to any explanations/reassurances.
+Pt not attempting to listen or follow instructions; panting breathing and tense positioning of body- sitting upright in bed, eyes closed nad defiant in her resistance to cooperate.
+Haldol 5mg ivp x1 for initial agitation post extubation..w/effect.
+NOW when awake, pt is aware of RLE pain; fentanyl 50mcg ivp w/effect.
+
+CVS- HR remains in NSR. Unable to wean levo once sedation off; MAP continue to drift <65 and systolic to 80's. Levo @ .04 to .03 mcg/kg/min. CVP 8-11
+IVF maintained @ 100cc/hr. CURRENTLY receiving a fluid bolus of 1000cc in attempt remove levo support.
+
+RESP- QUICK wean/extubation ~ 1230 noon. Pt with panicked, panting breathing which resolved once extubated and treated with haldol 5mg ivp. Breathing pattern remains regular @ rr 12-20 with equal inflation of both lungs. NO c/o distress. Pt NOT tolerating cool neb/FT; NC applied and currently @ 4L. ABG's wnl- see careviewe. Breath sounds are clear with crackle @ LL base.
+
+RENAL- adequate u/o- clear.
+       electrolytes repleted as neeeded.
+
+ID- ax temp 99.3 (96.6 in am requiring bear hugger.) Temp more stable now that VAC dsg is in place and drainage is contained. Antibiotics x4 ongoing; gent & vanco TROUGH levels this evening.
+RLE extremity wound was redressed by surgical team; VAC applied to ankle portion of wound. Upper incisions are open with W>D dsg changes BID. Wound bed are pink & moist; draiange is copious s/s.
+
+ENDO- no coverage needed.
+
+GI- NPO, prevacid. Abd soft distended w/bowel sounds. Pt pulled feeding tube out.
+
+HEME- no issues
+
+Social- son visited briefly; husband also for short time; pt with brief waking but remained disoriented & agitated. Pt returns to restful [**Doctor Last Name 8**] once resettled OR following pain med.
+
+Assess- s/p infected wound to RLE with debredment x1 [**10-19**]. Dsg now w/VAC to lower portion. Pt extubated once off sedation. VASopressor requirement persists. Pt ? delirious r/t infectious process/SIRS.
+
+PLAN- per POC
+      dsg changes bid to non VAC portin of wound
+      fluid bolus to wean levo
+      ?start diet-
+      ? transfer to floor in am
+
+",,
+13835,13410,,0,3349-10-22 04:55:00 EST,3349-10-22 05:01:00 EST,4422,"N",-1,"Nursing/Other",,"
+
+assessment as noted
+
+events:
+confused on and off, becomes disoriented, tells she is at home, refuses treatment, to wear nc o2, blood draws. grossly intact, turns herself in bed, getting fentanyl for r leg pain and asleep most of the night.on ra so2 88-92, po2 60, denies sob, nausea
+sbp stable off levo , nsr no ectopy, + bil pulses, feet warm.dry, r is more swallen. r leg dsg was changed last night w-to-d, incision is pink/granulating, benign
+brisk u/o 140-400/h
+npo
+labs:mag, ca, k were replaced, no ri given
+id: no fever, cont on vanco/clinda/levoflox
+
+transfer note was started
+
+plan: monitor mental status, bp, id, ? transfer
+",,
+13835,20058,17214,0,3350-01-16 05:17:00 EST,3350-01-16 05:31:00 EST,1007,"N",1,"Nursing/Other",,"
+
+NPN (SEE CAREVUE FOR SPECIFICS)
+PT ADMITTED FROM THE ER AT 0345. EXTENSIVE PMH (SEE CHART) WAS RECENTLY ADMITTED TO HOSPITAL FOR N/V/D AND DC'D HOME ON [**1-14**] AFTER WORKUP INCONCLUSIVE. 
+NEURO- PT MOANING AND YELLING OUT LOUD UPON ARRIVAL, COMPLAINING OF DRY MOUTH, ACHES ""EVERYWHERE"", ROLLING SIDE TO SIDE IN THE BED, HOWEVER ANSWERING ALL DIRECT QUESTIONS APPROPRIATELY. A & O X 3. MAE.
+CV- TACHY IN 100-120 RANGE, NSR WITHOUT ECTOPY. BP STABLE, 120-140 SYSTOLIC VIA CUFF. HCT IN ER 21, CAME WITH ONE UNIT PRBCS RUNNING, 2 MORE UNITS GIVEN WITH HCT CHECKED AFTER FIRST TWO, LABS PENDING. 
+RESP- LUNGS DIMINISHED, O2 SAT 100% ON RA. 
+GI/GU- ABD SOFT AND DISTENDED, NO BM AT THIS TIME, HOWEVER WILL BE STARTING GOLYTELY PREP FOR COLONSCOPY THIS AM. NOT TOLERATING BARIUM IN THE ER, CT CANCELLED PER DR. [**Last Name (STitle) 5312**]. WILL START GOLYETLY PREP FOR COLONOSCOPY THIS AM. FOLEY CATH PLACED UPON ARRIVAL, UOP ADEQUATE.
+ID- AFEBRILE
+",,
+13835,20058,17214,0,3350-01-16 15:47:00 EST,3350-01-16 16:07:00 EST,1016,"N",1,"Nursing/Other",,"
+
+0700-1500;
+
+TRAVELLED FOR BLEEDING STUDY FROM 945-13 30 STUDY INCONCLUSIVE.
+RECEIVED3X PEBC FOR TOTAL OF 6 UNITS HAS 4 UNITS RESERVED. CONTINUES TO PASS LARGE AMOUNTS OF BLOODY SYOOL RECTALLY.
+HR TO 135-140 ;AT REST PT GIVEN 2L LR BOLUS. AND PRBCX1 WITH HR TO 97 /MIN.
+
+NEURO; AOOX3 MAE TO COMMAND VERY NERVOUS AND ANXIOUS AT TIMES,REQUIRING REASSURANCE AND COAXING TO TAKE [**Last Name (un) 2045**].
+GIVEN MSO4 2MGS Q4  I.V FOR PAIN AND IV ATIAN 1MG FOR ANXIETY .
+
+RESP;LUNGS CLEAR DIMINSHED SATS 99-100% ON RA.RR 12-20;C/O OF THROAT DISCOMFORT AND DRYNESS.
+
+PAIN ; C/O OF [**Last Name (un) **] PAIN  GIVEN MSO4 2MGS I.V. WITH GOOD EFFECT PER PT.
+
+CVS; T95.6 PO 96.6 AX. NSR 135-97 WITH ISOLATED PVC'S AFTER  FB FOR TACHYCARDIA.  BO 118-152/68-115 [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3408**] AWAAERE OF HIGH DIASTOLIC  NO ACTION TAKEN.
+
+GU;  PASSING LARGE AMOUNTS CLEAR YELLOW URINE VIA FOLEY.
+
+GI; BELLY SOFT DISTENDED HYPOACTIVE BS. PASSING LARGE AMOUNTS OF BLOODY STOOL VIA RECTUM TEAM AWARE GI WANTS PT TO COMPLETE  GO          LIGHTLY PREP [**First Name9 (NamePattern2) 5313**] [**Last Name (un) 4342**] LARGE AMOUNTS BLOOD RECTAL TUBE INSERTED 
+AND DRAINGN WELL.
+HEME; HCT 30 AFTER  NEXT DUE AT 1600;
+
+INTEGRUM SKIN IN GOOD CONDITION SCARS FROM NECROTISING FASCIOTOMY PINK AND HEALING.
+
+SOC; PT ASKED SEVERAL TIMES FOR HUSBAND , MORE COMFORTABLE  WIWTIH HUSBAND AT SIDE. UPDATED WITH PT CURRENT CONDITION BY [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3408**].MD.
+
+A/P PT WITH LGIB RECEIVING BLOOD BPRODUCTS WHEN PT COMPLETES [**Last Name (un) 2045**]  TO HAVE COLONOSCOPY.
+TEAM WANT TO REPLACE FOLEY DUE TO CONTAMINATION AND TO PLACE PERIPH I.V AND TAKE OUT GROIN LINE.
+ AEDDENDUM.;
+LYTES PENDING. 
+
+ACCESS UNABLE TO PLACE  PERIPH I.V TEAM CONTACTED STSATED THAT THEY WERE UNABLE TO PLAACE I.V. LAST NIGHT AND THAT PT HAD TO GO TO IR FOR PLACEMENT ON LAST ADMISSION.                 
+",,
+13835,20058,17214,0,3350-01-16 18:19:00 EST,3350-01-16 18:33:00 EST,7572,"N",1,"Nursing/Other","3-7 CONDITION UPDATE","
+[**2-17**] CONDITION UPDATE
+ PT A&OX3, MAE, FOLLOWS ALL COMMANDS. ANXIOUS AT TIMES, RECIEVED 1MG IV ATIVAN WITH POS EFFECT. C/O ABD PAIN, MORPHINE IV PRN WITH POS EFFECT. 
+ REMAINS IN NSR-NST, NO ECTOPY. VSS. RECIEVED 2 UNITS FFP IN PREPARATION FOR COLONOSCOPY R/T GI BLEED, HCT STABLE. DENIES CP. PALP DP/PT BILAT. R FEM TLC, WNL; NEW L BICEPT PIV #18GAUGE PLACED BY MD VIA U/S. IVF: NS @ 125CC/HR. LYTES REPLETED PRN. 
+ LS DIMINISHED THROUGHOUT. DENIES SOB. MAINTAINING O2 SAT >95% ON RA.
+ ABD SOFTLY DISTENDED, HYPOACTIVE BS. APPROX 1L OF BLOODY STOOL WAS PUT OUT THROUGH MUSHROOM CATH, PT D/C'D MUSHROOM CATH AND HAS NOT GONE SINCE. NPO, GOLYTELY PREP FOR COLONOSCOPY, ONLY ABLE TO GET 2L IN, DUE TO N/V, ANZEMET WITH MOD EFFECT, MD AWARE.
+ ADEQUATE AMOUNTS OF CLEAR YELLOW URINE VIA FOLEY CATH.
+ HUSBAND IN TO VISIT. 
+PLAN:
+ COLONOSCOPY TONIGHT, PICC PLACEMENT IN FUTURE, D/C FEM TLC AFTER LYTE REPLETION, PAIN MANAGEMENT, CHECK HCT Q4 HRS AND TRANSFUSE < 30, LATEX ALLERGY PRECAUTIONS.
+",,
+13835,20058,17214,0,3350-01-17 06:19:00 EST,3350-01-17 06:42:00 EST,626,"N",1,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: neuro: alert and oriented. engages in conversation.. moves all extremities on the bed. assists with personal hygiene. 
+
+resp: remains on room air. o2sats 94-100%. resp rate 15-30. breath sounds clear. 
+
+cardiac: remains in nsr. hct 31.7. wbc 8.1. inr 1.1. k repleted with repeat  to 4.2. iv ns at 125cc/hr. calicium repleted. 
+
+gu: foley intact and draining clear yellow urine. 
+
+gI abd soft. no stools. to nuclear med for further study. 
+
+action: to nuclear med. tol well. iv ns at 125cc/hr. k repleted, caliciulm repleted and magnesium repleted. update to husband. right groin line intact. colonsocopy presently on hold. will discuss this am with md. 
+
+response: monitor closely.
+",,
+13835,20058,17214,0,3350-01-18 05:34:00 EST,3350-01-18 05:48:00 EST,6251,"N",1,"Nursing/Other","Nursing Progress Note:","
+Nursing Progress Note:
+Please refer to CareVue for details.
+   Pt easily arousable to voice when asleep. Ox3. Cooperative w/ care. Asks approp questions. Follows commands; MAE. Pt c/o headache; rating pain as ""[**3-18**] out of 10."" Tylenol 650mg PO given x2 w/ +effect. Afebrile. HR 90s (NSR); HR increases to low 100s w/ activity. NBP 110-130s/70-90s. No edema noted. DP/PT pulses palpable. [**Male First Name (un) **] stocking on LLE. Hct stable: 30.7. K and Mg repleted (magnesium sulfate mixed by pharmacy d/t pt has [**Last Name (un) **] to Latex). Lungs sound diminished. O2 sat >/= 97% on RA. RR 16-20s. Nonproductive cough at times. Abdomen softly distended w/ +BS. No BM this shift. Pt on clear liquid, low sodium diet. Poor PO intake overnight; pt only drank fluid when med given. No c/o N/V. FS checked q6hr; BS 99-104. Foley intact w/ clear, light-yellow urine. UO 100-400cc/hr. Skin intact. RLE wound from previous surgery healing well; pink; no drainage noted. Pt turns independently in bed. Pt's husband called x1 overnight; spoke to pt. 
+   Plan: Monitor VS, I's and O's, labs. Discuss plan of care w/ pt and husband. Plan to transfer pt to floor when private/tele bed available. Cont ICU care and treatment. 
+",,

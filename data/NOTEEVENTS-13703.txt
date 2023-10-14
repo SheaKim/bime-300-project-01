@@ -1,0 +1,331 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13703,14190,,,2769-02-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2769-2-11**]              Discharge Date:   [**2769-2-22**]
+ 
+Date of Birth:  [**2686-3-13**]             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1002**] 
+Chief Complaint:
+NSTEMI
+ 
+Major Surgical or Invasive Procedure:
+AV repair/CABGx2(LIMA->LAD, SVG->OM) [**2769-2-13**]
+
+ 
+History of Present Illness:
+82 yo male admitted to Landmark Med. Ctr [**1-31**] with NSTEMI. 
+Cardiac cath showed 90-95% LAD, sub-totaled CX, 95% OM 1, 95% 
+RCA with mult. lesions, LVEDP 18. Echo showed EF 30-35%, LVH, 
+mod. MR, mild AS, [**Location (un) **] 1.36 cm2, nl. RV. Transferred to [**Hospital1 19**] for 
+surgical evaluation by Dr. [**Last Name (STitle) 393**]. 
+ 
+Past Medical History:
+CAD
+NSTEMI
+PAFib, chronic Afib on coumadin
+Right lung nodule, ? lipoma
+gout
+Bell's palsy with resolved left facial droop
+NIDDM
+elev. chol.
+nephrolithiasis
+BPH
+HTN
+prior RLL PNA
+chronic LLE edema
+left vein stripping
+acute convalescent/chronic active Hep B ( liver bx [**2-7**] with ? 
+cirrhosis)
+VRE
+s/p RIH repair
+s/p bil. cataract surgery
+ 
+Social History:
+lives with brother and son
+works as machine inspector PT
+no tobacco
+occcasional ETOH
+
+ 
+Family History:
+brother with CABG, 
+son with CAD and 3 MIs
+ 
+Physical Exam:
+HR 80's AFib with freq. 2-2.5 sec pauses   134/47  
+RR 16  97% on 3L NC
+alert and oriented x3 , non-focal exam grossly
+irregularly irregular  3/6 SEM loudest at LSB
+CTAB
++ BS, soft NT, ND
+extrems warm, well-perfused with venous stasis , LLE 2+ edema
+ 
+Pertinent Results:
+[**2769-2-12**] 06:00AM BLOOD WBC-6.4 RBC-4.23* Hgb-13.5* Hct-38.6* 
+MCV-91 MCH-31.9 MCHC-34.9 RDW-14.8 Plt Ct-230
+[**2769-2-20**] 06:20AM BLOOD WBC-10.3 RBC-3.40* Hgb-10.8* Hct-31.4* 
+MCV-92 MCH-31.7 MCHC-34.3 RDW-15.8* Plt Ct-401
+[**2769-2-22**] 07:30AM BLOOD PT-19.1* INR(PT)-1.8*
+[**2769-2-12**] 06:00AM BLOOD PT-15.6* PTT-39.1* INR(PT)-1.4*
+[**2769-2-19**] 08:30AM BLOOD Glucose-67* UreaN-32* Creat-1.4* Na-133 
+K-4.9 Cl-96 HCO3-26 AnGap-16
+[**2769-2-20**] 06:20AM BLOOD UreaN-30* Creat-1.2 K-4.0
+[**2769-2-12**] 06:00AM BLOOD Glucose-121* UreaN-37* Creat-1.4* Na-133 
+K-5.8* Cl-98 HCO3-23 AnGap-18
+[**2769-2-12**] 06:00AM BLOOD ALT-75* AST-58* LD(LDH)-451* AlkPhos-95 
+Amylase-38 TotBili-1.1
+[**2769-2-12**] 06:00AM BLOOD Lipase-42
+[**2769-2-12**] 06:00AM BLOOD %HbA1c-7.5* [Hgb]-DONE [A1c]-DONE
+[**2769-2-12**] 06:00AM BLOOD TSH-3.4
+ 
+Brief Hospital Course:
+Admitted from Landmark [**2-11**] for pre-op work-up. Vein mapping 
+showed absent SVG on left, right greater saph present. Carotid 
+US showed [**Doctor First Name **] 50% stenosis, [**Country **] no stenosis.Echo showed 
+moderate AS, nl. LV function, possibly necessitating AVR 
+also.Received Vit. K to normalize INR.  Urology consulted for 
+foley placement in OR and underwent AV repair/cabg x2 on [**2-13**]. 
+Transferred to the CSRU in stable condition on epinephrine, neo 
+and propofol drips. Foley coverage with abx and extubated on POD 
+#1. Heparin coverage while coumadin restarted and continued 
+until INR therapeutic. Swan and chest tubes removed and 
+transferred to the floor to begin increasing his activity level 
+on POD #3. Foley removed on POD #4. Developed clear sternal 
+drainage on POD #6 ( vanco started) which stopped on POD #8. 
+Cleared for discharge to home with VNA on POD #9.
+ 
+Medications on Admission:
+allopurinol 300 mg daily
+glipizide XL 5 mg daily
+digoxin 0.25 mg daily
+triamterene/HCTZ 37.7/25 mg daily
+lopressor 50 mg BID
+colchicine 0.5 mg BID
+coumadin 2.5/2.5/5 mg alternating
+folmaz 0.4 mg daily
+valsartan 80 mg daily
+
+on Admission also: heparin drip
+ASA 81 mg daily
+mag. oxide 400 mg BID
+RISS
+lasix 20 mg daily
+ 
+Discharge Medications:
+1. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two 
+(2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7 
+days.
+Disp:*28 Capsule, Sustained Release(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+every six (6) hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) 
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+8. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+12. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) for 10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+13. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+14. Coumadin 5 mg Tablet Sig: 1.5 Tablets PO once a day for 2 
+days: Then INR check on [**2769-2-24**], and check with Dr. [**Last Name (STitle) 7430**] for 
+continued dosing.
+Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Coronary artery disease
+Aortic stenosis
+chronic AFib
+right lung nodule
+gout
+NIDDM
+nephrolithiasis
+BPH
+elev. chol.
+chronic LLE edema
+? cirrhosis
+Hep B
+VRE
+Bell's palsy
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Follow medications on discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 3 months.
+[**Doctor First Name 54**] should shower daily, let water flow over wounds, pat dry 
+with a towel.
+Do not use powders, lotions, or creams on wounds.
+Call our office for temp>101.5, sternal drainage.
+ 
+Followup Instructions:
+CT scan of chest with PCP in [**Name Initial (PRE) **] few months for follow-up of 
+pulmonary nodules
+Make an appointment with Dr. [**Last Name (STitle) 393**] for 4 weeks.
+Make an appointment with Dr. [**Last Name (STitle) 7430**] for 1-2 weeks.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 397**] MD [**MD Number 398**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 665**] [**Last Name (NamePattern4) 666**] NP[**MD Number 667**] [**2769-5-1**] @ 1046
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2769-5-1**] 12:50 PM
+(End of Report)
+
+
+",,
+13703,14190,17062,0,2769-02-13 21:27:00 EST,2769-02-13 21:48:00 EST,1706,"N",54,"Nursing/Other",,"
+
+ afib w vrr ranging from 50's-120's w unifocal pvc's unresponsive to magnesium & potassium,seems to be pt's baseline,see old record,team aware.a wires grounded for chronic afib,v wires work appropriately.volume dependent hemodynamics with huge huo(intra op lasix)& low filling pressures requiring large amts volume for svo2/ci support.epi continues,prn neo needed for bp support. attempted waking x 2 but aborted for hemodynamic instability. mae x 4 weakly to command,nodded to questions but dropped ci to < 2,svo2 into the 30's-40's with hypotension & elevated pap's during the process. hemodynamics recovered quickly with resedation. precedex started,process attempted again with same results. propofol resumed,to remain intubated overnight,re-eval in a.m. bs with occas. rhonchi that clear w suctioning,no wheezes.minimal ct dng,thin sero sang.abd. obese,soft. carafate & zantac for gi prophy. bilious gastric drainage. dopplerable pulses x 4,stasis changes noted bilat. lower legs.glucoses managed w protocol,see flow sheet.levofloxin x 3 days for gu manipulation in o.r. urine clear yellow,foley to remain in place. no family contact. 
+",,
+13703,14190,17062,0,2769-02-14 03:07:00 EST,2769-02-14 03:36:00 EST,7650,"N",54,"Nursing/Other",,"
+
+Neuro: Remained sedated on propofol overnight. No wake up per team. PERRLA. Facial grimace to nailbed. Overbreathes vent by 2-3 breaths when turned, no overbreathing at rest. 
+
+C/V: Afib 80-90s. Rare-occasional unifocal PVCs. Lytes WNL. SBP 100-110 via a-line, 110-120 via cuff. A-line w/irregular waveform-NP [**Last Name (NamePattern4) 4299**] aware, cuff pressures correlate. SVO2s 60s. CI >2 by CCO thermo. PADs & CVP teens. No change in epi gtt, 0.02mcg/kg/min overnight. Dopperable pulses. 2+ edema BUE, elevated on pillows. 1+ edema RLE. CT to SX w/min serosanginous output.
+
+Resp: Remains on SIMV 40% 600x14 5 peep/5 PS. No vent changes. Suctioned sm-mod amt thick tan sputum. Lung sounds clear throughout.
+
+Gi/Gu: Absent BSx4. OGT to SX w/bilious drainage. Abd soft. Foley patent. Adequate HUO. Creat 0.9, BUN 23.
+
+ID: Low grade temp, 99.5. On IV levofloxacin/vanco.
+Endo: Titrating insulin gtt per CSRU protocol.
+Skin: See carevue for incisions.
+Social: No call/visit from family. 
+
+Plan: Wake up & vent wean/extubate later today if tol. ?wean epi gtt as tol. Cont pulm toilet. Advance diet/act & wean insulin gtt if extubated.
+
+
+",,
+13703,14190,17062,0,2769-02-14 06:09:00 EST,2769-02-14 06:17:00 EST,7650,"N",54,"Nursing/Other",,"
+
+Nursing Add: Increased HR 100-115. CCO recaled: CI remained >2, SVO2 68--Epi gtt decreased to 0.01mcg/kg/[**Name6 (MD) 141**] [**Name8 (MD) 17**] NP [**Last Name (NamePattern4) 4299**]. Foley cath w/scant sanginous drainage from urethra. Foley not to be dc'd per team. ?Obtain urology consult prior to dc.  
+",,
+13703,14190,17062,0,2769-02-14 06:38:00 EST,2769-02-14 06:39:00 EST,2742,"N",54,"Nursing/Other",,"
+
+RESP CARE; Pt remaines intubated/on vent per carevue. No weaning yet this am. Lungs coarse bilat. Will attempt RSBI when sedation decreased
+",,
+13703,14190,17062,0,2769-02-14 16:35:00 EST,2769-02-14 17:07:00 EST,7647,"N",54,"Nursing/Other",,"
+
+NEURO: INITIALLY SEDATED ON PROPOFOL, THEN WEANED TO OFF AND EXTUBATED. PT MAES & FOLLOWED COMMANDS ONCE FULLY AWAKE. BOTH PUPILS ARE OVAL SHAPED AND REACTIVE TO LIGHT, BUT LEFT IS SLIGHTLY LARGER THAN RIGHT. INCISIONAL PAIN TREATED WITH IVP MORPHINE W/GOOD EFFECT. 
+
+CV: AFIB 80S-90S W/OCCASIONAL PVC's. A WIRES SECURED. V WIRES S/C APPROPRIATELY. EPI INITIALLY .01. MIXED VENOUS >65, CI >2~RECALED. EPI OFF. PAs 30s-40s, CVP 10S. SWAN DC'D. SBP 110S W/MAPS >80. CUFF PRESSURES ON LEFT 120S-130S. RT SIDE HAS A-LINE WHICH IS DAMPENED. A-LINE LEFT IN FOR LAB DRAWS. CT TO SXN DRAINING MIN SEROSANG DRNG QH. PT HAS LOW GRADE TEMP 99-100.9, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 327**] AWARE.
+
+RESP: BILAT UPPER LS CLEAR, BASES ARE DIM. PT INITIALLY ON SIMV, THEN WEANED TO CPAP TO EXTUBATE. 02SATS WERE >96%. PAO2 >100. PT EXTUBATED TO .50 FIO2 FACE TENT, THEN WEANED TO 3L NC. O2SATS REMAIN >96%. PA02 >140, BUT PT SLIGHTLY ALKALOTIC. PT CDB'G, USES IS UP TO 500. 
+
+GI/GU: BS INITIALLY ABSENT, NOW HYPOACTIVE ALL QUADS. OGT DC'D W/EXTUBATION. PT TOLERATED ICE CHIPS AND SIPS OF H20. NO C/O NAUSEA. FOLEY DRAINING ADEQUATE CLR YELLOW URINE QH. SOME SEDIMENT NOTED IN AM. 
+
+ENDO: BS MONITORED PER CSRU SS PROTOCOL. GTT OFF @1600. 4UNITS REG. INS. GIVEN SC. 
+
+SOCIAL: RELATIVES VISITED THROUGHOUT THE DAY.
+
+PLAN: CONTINUE MONITORING CARDIORESPIRATORY STATUS. MONITOR BREATH SOUNDS & CONTINUE ENC. CDB, IS. INCREASE ACTIVITY & PO INTAKE AS TOL. PROGRESS PER CSRU PROTOCOL. TRANSFER TO FLR IF APPROPRIATE.
+",,
+13703,14190,17062,0,2769-02-14 18:25:00 EST,2769-02-14 18:29:00 EST,7647,"N",54,"Nursing/Other",,"
+
+ADDENDUM:
+
+PO LOPRESSOR, IV LASIX STARTED. ALBUTEROL CHANGED TO Q6H FROM PRN. FLOVENT BID ADDED. ALINE DC'D. 
+",,
+13703,14190,17062,0,2769-02-15 03:02:00 EST,2769-02-15 03:14:00 EST,7846,"N",54,"Nursing/Other",,"
+
+7PM to 7 AM
+Neuro:  A&O X3, MAE, afebrile. FC. Medicated for pain Percocet X 1.
+RESP:  O2 via n/c @ 2 l/min.  BS CTA. IS 500...needs encouragement, non-productive cough.
+CV:  A-fib, frequent multifocal PVC's.  Mag corrected. K+ WNL.  Pulses palp. ++ edema extremeties.  CT output minimal..s/a drng. no leak noted.  Sternal inc. small drng noted. 2A/2V wires. A's capped, V's to pacer.
+GI/GU:  Taking clears w/o difficulty..swallows meds.  Hypoactive BS, no BM yet.  Indwelling foley, DO NOT REMOVE w/ good u/o post Lasix.  Sediment in urine.
+SKIN:  Slight reddened coccyx, otherwise bony prominences benign.  
+
+Pt OOB in chair until 0100 (6 hrs), transferred weakly to bed w/staff assist X2.
+",,
+13703,14190,17062,0,2769-02-15 20:04:00 EST,2769-02-15 20:27:00 EST,1586,"N",54,"Nursing/Other","update","
+update
+D: pt POD #2 progressing well, delined and readt for tranfer to floor.
+Plan: transfer to floor when bed avail=progress diet and activity as tol.   Ct d/c today  f/u cxr done
+neuro: pt dosing intermittently, alert when awake, follows commands readily, pupils equal and rx to light. mae, 
+cardiac: pt remains in afib with multiple PVC""s (according to chart this is baseline) sbp 110-150/60 via cuff. pt tol po lopressor 12.5mg po-
+
+resp: pt weaned to 2l np with sat >95%, bs coarse at times clear slightly with coughing. raising clear at times frothy. spirocare done with tv 500cc.
+
+gi; tol sips well, soup at noon, appetite fair. h2 blocker cont. abd slightly distended bs presnt.
+
+gu: foley in place draining cl yellow urine-amber in color at times, 
+lasix given with fair diuresis- po Kcl added to med profile per transfer orders.
+
+skin; intact
+
+Pain: med with 1 percocet earlier today- napped intermittiently thereafter.
+
+access: new right hand periph lock placed--out dates Iv d/c.
+",,
+13703,14190,17062,0,2769-02-16 08:08:00 EST,2769-02-16 08:12:00 EST,2040,"N",54,"Nursing/Other","CSRU Progress Note","
+CSRU Progress Note
+S/O: Neuro: Intact.
+     CV: Stable in Afib with PVCs.
+     Resp: Room air, good sats, productive cough.
+     Renal: Diuresing well.
+     Heme: To start coumadin.
+     ID: T100.1.
+     GI: Swallows well.
+     Endo: SLiding scale insulin.
+     Skin: Intact.
+     Rehab: OOB to chair with 2 assist.
+A: Stable, awaiting bed on [**Hospital Ward Name **] 2.
+P: Cont rehab. Diurese, start transfer meds, advance activity, eval for rehab. 
+",,
+13703,14190,17062,0,2769-02-16 16:00:00 EST,2769-02-16 16:09:00 EST,1585,"N",54,"Nursing/Other","PT UPDATE","
+PT UPDATE
+  NEURO:  PT A&O X3-SLIGHTLY CONFUSED THIS AM. COOPERATIVE.
+
+  RESP: BS CLEAR, SLIGHTLY DECREASED IN BASES-ESP RLL. HAS GOOD STRONG COUGH-MIN SPUTUM PRODUCTION. USING I.S. SATS 93-95 ON RA.
+
+  CV: PT REMAINS IN AFIB WITH MORE FREQUENT PVC'S-INCLUDING COUPLETS TODAY. K 4.0 THIS AM AND GIVEN PO KCL. SBP DOWN TO 88 THIS AM IN CHAIR AFTER RECEIVING LASIX AND LOPRESSOR. WIRES TO BE D/C'D TODAY AS DISCUSSED IN ROUNDS; AND THEN PT TO BE STARTED ON HEPARIN GTT AND COUMADIN; BUT WIRES NOT D/C'D YET.
+
+   GU: GOOD U/O. CONT ON LASIX BID.
+
+   GI: APPETITE IMPROVING. HAS BS; NO BM YET.
+
+   OTHER: PT MED THIS AM FOR INCISIONAL PAIN WITH 1  PERCOCET WITH GOOD RELIEF AND DENIES PAIN SINCE THEN. P.T. IN TO SEE PT; BUT TOO WEAK TO AMB. REQUIRES MAX ASSIST OF 2 TO GET OOB; THOUGH WAS WEIGHT-BEARING GETTING UP THIS AFTERNOON. FAMILY IN TO VISIT.  ALLOPURINOL AND COLCHICINE STARTED UP.
+
+    A/P: ?SLIGHT CONFUSION DUE TO PERCOCET. PT NEEDS MUCH P.T.-HAS DIFFICULTY AMB. PT CONT TO WAIT FOR BED ON F2. CONT TO ADVANCE ACTIVITY; CONT WITH PO KCL. ?HEPARIN AND COUMADIN TO BE STARTED. TRANSFER WHEN BED AVAILABLE.
+",,

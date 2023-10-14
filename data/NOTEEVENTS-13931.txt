@@ -1,0 +1,1165 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13931,17034,,,2627-06-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2627-6-4**]              Discharge Date:   [**2627-6-13**]
+ 
+Date of Birth:  [**2556-6-26**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Heparin Agents
+ 
+Attending:[**First Name3 (LF) 668**] 
+Chief Complaint:
+dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+70M sent from [**Hospital1 **] w/ h/o recent PNA, as well as CHF, COPD 
+presents after noted to be dyspneic and hypoxic at [**Hospital1 **]. Room air 
+sat on arrival was low 80s, was given O2, Steroids, Bipap, and 
+rose to 90s-100s. HR initially 130s-> improved to 110s. 
+Transiently dropped pressure to 80s, but came up spontaneously. 
+Gas 7.31/67/85 on Bipap. Pt adamantly refused intubation in ED, 
+initially agreed to short term BIPAP, refusing after short trial 
+in MICU. He states his breathing currently feels well. Pt states 
+he has 4 sons, but he wants to make his own medical decisions, 
+and is very clear that he does not want intubation. He denies 
+any recent fever, chills, chest pain, abdominal pain. He has 
+lower back pain where is he noted to have diffusely macerated 
+skin. Initial trial at foley insertion with pus returned. Pt 
+states he has chronic indwelling foley after past surgery. 
+.
+In ED labs significant for BNP 3800, elevated troponin with Cr 
+1.0, although prior hx of renal failure. Also noted to have RBBB 
+on EKG, but no STT changes per ED. CXR limited by motion. Given 
+Vanco/levo in ED in addition to 20mg lasix IV.  
+.  
+Pt refused intubation in ED, prior documentation at rehab with 
+full code.  
+
+Note he was admitted to OSH mid May to [**2627-5-28**] after being found 
+on floor in feces. Treated that admit for ARF, hepatitis, 
+pneumonia.
+
+ 
+Past Medical History:
+most per phone conversation with rehab nurse:  
+DM II  
+HTN  
+COPD (on 3-4L NC O2 per pt)  
+CHF  
+CAD  
+ARF  
+Hemorrhagic cystitis  
+Skin ulcers  
+
+ 
+Social History:
+has 4 sons, closest in [**Doctor Last Name **], states it is not a closely 
+knit family, does not want any of them to be primary decision 
+makers. 60 pack year smoking hx, previous heavy etoh hx, not 
+recently. 
+ 
+Family History:
+NC
+ 
+Physical Exam:
+Temp 98.4, BP 150/54, HR 112, RR 26, O2 sat 95% on 4L NC  
+GENERAL: elderly, obese male, mild respiratory distress, awaker, 
+fully oriented, coherent  
+HEENT: OP clear, anicteric, L nares with some fresh bleeding  
+NECK: full neck, unable to examine for JVD  
+CARDIOVASCULAR: regular tachycardic, no murmurs  
+LUNGS: diffuse wheezes, no crackles  
+ABDOMEN: obese, non-distended, non-tender  
+BACK: large area of erythema, macerated skin, and ulceration 
+starting at coccyx  
+EXTREMITIES:  
+NEURO: AAOx3, moves all extremities  
+
+ 
+Pertinent Results:
+EKG: irregular, tachycardic, RBBB, no ST changes or T wave 
+changes (same as previous read at prior hospitalization)  
+.  
+Admission CXR: very poor quality, lung volumes are low. There is 
+likely a left pleural effusion with associated atelectasis. No 
+large pneumothorax is identified.  
+.
+Admission Labs:
+
+[**2627-6-4**] 05:00AM   PT-12.9 PTT-24.0 INR(PT)-1.1
+[**2627-6-4**] 05:00AM   HYPOCHROM-3+ ANISOCYT-2+ MICROCYT-2+
+[**2627-6-4**] 05:00AM   NEUTS-76.4* LYMPHS-17.4* MONOS-4.3 EOS-1.0 
+BASOS-0.9
+[**2627-6-4**] 05:00AM   WBC-17.0* RBC-4.07* HGB-10.6* HCT-35.3* 
+MCV-87 MCH-26.0* MCHC-30.0* RDW-19.7* PLT COUNT-531*
+[**2627-6-4**] 05:00AM   CALCIUM-8.4 PHOSPHATE-4.2 MAGNESIUM-2.1
+[**2627-6-4**] 05:00AM   CK-MB-7
+[**2627-6-4**] 05:00AM   cTropnT-0.21* proBNP-3799*  CK(CPK)-118
+[**2627-6-4**] 05:08AM   LACTATE-2.5*
+[**2627-6-4**] 05:00AM   GLUCOSE-159* UREA N-12 CREAT-1.0 SODIUM-138 
+POTASSIUM-6.3* CHLORIDE-100 TOTAL CO2-29 ANION GAP-15
+[**2627-6-4**] 05:30AM URINE  RBC-0-2 WBC->50 BACTERIA-MANY YEAST-NONE 
+EPI-0
+[**2627-6-4**] 05:30AM URINE  BLOOD-MOD NITRITE-POS PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-MOD
+[**2627-6-4**] 05:30AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 302**]-1.016
+[**2627-6-4**] 05:31AM   K+-4.4
+[**2627-6-4**] 05:31AM   TYPE-ART RATES-/40 PEEP-8 O2-80 PO2-84* 
+PCO2-67* PH-7.31* TOTAL CO2-35* BASE XS-4 AADO2-417 REQ O2-73 
+INTUBATED-NOT INTUBA VENT-SPONTANEOU
+[**2627-6-4**] 10:12AM   LACTATE-1.4
+[**2627-6-4**] 10:12AM   TYPE-ART O2-40 PO2-66* PCO2-64* PH-7.33* 
+TOTAL CO2-35* BASE XS-4 INTUBATED-NOT INTUBA
+[**2627-6-4**] 12:03PM   ALBUMIN-3.2* MAGNESIUM-2.0
+[**2627-6-4**] 12:03PM   ALT(SGPT)-15 AST(SGOT)-17 CK(CPK)-39 ALK 
+PHOS-139* TOT BILI-0.3
+[**2627-6-4**] 12:03PM   CK-MB-NotDone cTropnT-0.19*
+.
+CXR [**6-12**]: AP semiupright view.  Evaluation is limited by patient 
+positioning and body habitus.  Cardiac and mediastinal contours 
+are unchanged.  There are moderate bilateral pleural effusions, 
+left greater than right, and basilar atelectasis, unchanged 
+compared to the previous study. 
+IMPRESSION:  Limited study. No interval change 
+.
+R LENI [**6-8**]: IMPRESSION:  Limited study secondary to patient 
+body habitus.  No evidence of DVT seen within the right common 
+femoral, proximal superficial femoral, and popliteal veins. 
+.
+Head CT [**6-4**]:
+FINDINGS:  Patient motion and positioning within the scanner 
+somewhat limits assessment.  No intra- or extra-axial hemorrhage 
+is clearly identified.  There is no mass effect or shift of 
+normally midline structures.  The ventricles do not demonstrate 
+any hydrocephalus.  The basal cisterns are visualized. Paranasal 
+sinuses appear clear.  The patient is edentulous.  Soft tissue 
+structures appear unremarkable. 
+.  
+IMPRESSION:  Limited study.  No obvious intracranial hemorrhage 
+or mass 
+effect. 
+.  
+Note added at attending review: There is an incompletely 
+visualized expansile mass in the left maxillary alveolar ridge 
+and there is a partially calcified mass in the left frontal 
+sinus. Ct scan of the facial bones suggested. 
+.
+CT Sinus, prelim read: 2.4 x 1.4 cm expansile mass in the left 
+maxillary alveolar ridge.  There is thinning of the cortical 
+margins and areas of focal dehiscense.  The findings may be 
+consistent with an ameloblastoma.  Partially calcified mass in 
+the left frontal sinus. Right maxillary and ethmoid sinus 
+mucosal thickening.  
+.
+TTE:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or  color Doppler. There is moderate symmetric left 
+ventricular hypertrophy. The  left ventricular cavity size is 
+normal. Due to suboptimal technical quality, a  focal wall 
+motion abnormality cannot be fully excluded. Overall left 
+ventricular systolic function is normal (LVEF>55%). The right 
+ventricular  cavity is mildly dilated. Right ventricular 
+systolic function is normal. The aortic root is moderately 
+dilated. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic regurgitation.  
+There is no aortic valve stenosis. The mitral valve leaflets are 
+mildly thickened. Mild (1+) mitral regurgitation is seen. The 
+estimated pulmonary  artery systolic pressure is normal. There 
+is no pericardial effusion.  
+.
+Urine Culture:
+ URINE CULTURE (Final [**2627-6-7**]): 
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML.. 
+      PROTEUS MIRABILIS.    10,000-100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          PROTEUS MIRABILIS
+                             |          |   
+AMPICILLIN------------             =>32 R
+AMPICILLIN/SULBACTAM--             =>32 R
+CEFAZOLIN-------------               16 I
+CEFEPIME--------------     2 S      <=1 S
+CEFTAZIDIME-----------     4 S      <=1 S
+CEFTRIAXONE-----------              <=1 S
+CEFUROXIME------------                4 S
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S     =>16 R
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------              =>8 R
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------     8 S       32 I
+PIPERACILLIN/TAZO-----     8 S      <=4 S
+TOBRAMYCIN------------   <=1 S        8 I
+TRIMETHOPRIM/SULFA----             =>16 R
+
+ 
+Brief Hospital Course:
+COPD exacerbation -  Initially admitted to the MICU. No previous 
+available ABG values, however initial ABG with partly 
+compensated respiratory acidosis and component of newly worsened 
+hypercarbia c/w COPD exacerbation. Pt became progressively 
+sedated over the course of HOD #1 -> continued on BIPAP, pCO2 
+trended up to 76 (ABG 7.31/76/154).  Pt became more arousable 
+overnight with continued BIPAP, repeat ABG 7.38/65/188.  He was 
+started on high dose steroids with solumedrol 125 mg q6hrs and 
+Q4H scheduled atrovent/albuterol nebs, q2hrs prn.  Placed on 
+ceftriaxone, azithromycin for cough, productive of yellow 
+sputum, recent pneumonia, finished a course of this in-house.  
+On HOD #2 pt. refused further positive pressure ventilation, 
+BiPAP, or intubation.  Repeat ABGs with pCO2 as high as 80, 
+pH>7.30.  Prednisone was tapered to 40 mg PO, and pt. was 
+transferred to the floor as he was refusing any invasive 
+ventilation.
+.
+On the floor pt. continued to have elevated PCO2 levels, which 
+peaked at 95 and then trended down to 70s.  Pt. had no further 
+sedation or AMS.  He maintained O2 sats 88-92% on 4 L 
+throughout.  Prednisone was weaned to 30 mg QD after 5 days at 
+40 mg, and a slow wean should be continued in rehab.
+.
+CHF exacerbation - EF 55-60% on TTE, evidence of diastolic 
+dysfunction (see results above).  Difficult to evaluate fluid 
+status on CXR although he did have marked LE edema on exam, and 
+elevated BNP suggested CHF exacerbation.  Diuresed with lasix 
+40mg IV bid, Bun/Cr stable in MICU, with ~ 1L negative QD in the 
+MICU.  This was initially continued on the floor, and then 
+decreased to 40 mg daily as he was 2-3 L negative daily -> 1-1.5 
+negative with 40 IV QD.  On discharge lasix was d/ced and Bumex 
+reinitiated at 1 mg QD, along with aldactone, which was started 
+for K+ sparing and to avoid contraction alkalosis.
+.
+# CAD - elevated troponin on presentation suggestive of previous 
+ischemic event, trended down.  Continued ASA, metoprolol, 
+losartan.  No need for statin based on lipids, LDL<70.  Noted to 
+have allergic reaction to heparin in past, appears most likely 
+had thrombocytopenia?, but HIT negative.  Covered with 
+Fondaparinux for DVT prophylaxis in house as it is safe if he 
+really did have HIT in past.
+.  
+# HTN - continued losartan, metoprolol.  Started on Aldactone on 
+discharge for K+ sparing and to avoid contraction alkalosis (pt. 
+was beginning to develop a contraction alkalosis from lasix).  
+. 
+# A Fib: continued beta-blocker.  Elected not to anti-coagulate 
+given acute illness, bleeding risk, though this should be 
+considered in the future. He had converted back to NSR at 65 BPM 
+by discharge.
+. 
+# Mass L maxillary ridge- this was noted incidentally on Head CT 
+performed in MICU.  It was followed up with a CT sinus, the 
+prelim read of which showed a mass concerning for ameloblastoma. 
+ ENT was consulted and recommended outpatient work-up by OMFS 
+and ENT (Dr. [**First Name (STitle) 3882**] from ENT reviewed imaging and felt that it 
+was c/w frontal sinus osteoma).  Final read of sinus CT was 
+pending at time of discharge and should be follow up by Dr. 
+[**First Name (STitle) 3882**]. He will see Dr. [**First Name (STitle) 3882**] in about 2 weeks.
+
+# UTI - treated with ceftriaxone and then cefepime in-house and 
+discharged on the rest of a 12 day course (see urine culture 
+above) 
+.  
+# Decubitus ulcer - no clear cellulitis, but given past 
+colonization with MRSA, elevated WBC, initially covered with 
+vancomycin, stopped after cx's negative x48 hrs, afebrile.  
+- frequent turns
+- continued skin care as recommended by wound care consult (see 
+page 2 attached)
+.  
+# FEN: cardiac diet
+.
+* Prophylaxis: no heparin products given previous allergy. 
+Pneumoboots/Fondaparinux, PPI.
+.
+* Code status: DNR/DNI, no non-invasive ventilation per several 
+discussions with pt.
+
+By discharge the patient was much improved but still 
+significantly SOB with any exertion in bed.  He needs more 
+diuresis. At rest his Sa02 was 92-96% on 3-4 L o2.
+
+ 
+Medications on Admission:
+ASA 81mg daily  
+Cyclopentolate drops L eye bid  
+Dexamethasone maxidex 5mL BID L eye  
+brinzolamide 5 mL L eye BID
+Albuterol  
+Advair  
+Atrovent  
+FeSo4 300mg TID  
+Panptoprazole 40 mg BID  
+Losartan 50md [**MD Number **]  
+Toprol XL 75mg daily  
+Tramadol 50mg TID  
+Theophylline 300mg PO BID  
+Bumex 2mg PO QOD  
+
+ 
+Discharge Medications:
+1. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+2. Regular Insulin Sliding Scale
+please check FS before meals and at bedtime and administer 
+insulin per sliding scale attached
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Cyclopentolate 1 % Drops Sig: Two (2) Drop Ophthalmic  BID (2 
+times a day).  
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+6. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Dexamethasone 0.1 % Drops, Suspension Sig: Two (2) Drop 
+Ophthalmic  Q12H (every 12 hours).  
+8. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day) as needed.  
+9. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).  
+10. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+11. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+12. Prednisone 20 mg Tablet Sig: One (1) Tablet PO once a day 
+for 5 days: [**Date range (1) 9839**]/26.  
+13. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO 
+twice a day.  
+14. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation 
+Q4-6H (every 4 to 6 hours) as needed.  
+15. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+16. Cefepime 1 g Recon Soln Sig: One (1) Recon Soln Intravenous  
+Q12H (every 12 hours) for 2 days.  
+17. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-25**] Sprays Nasal 
+QID (4 times a day) as needed.  
+18. Fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1)  
+Subcutaneous once a day.  
+19. Bumex 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+20. Aldactone 25 mg Tablet Sig: One (1) Tablet PO once a day.  
+21. Brinzolamide 1 % Drops, Suspension Sig: Five (5) mL 
+Ophthalmic  twice a day: 5 mL L eye BID.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1446**] & Rehab Center - [**Hospital1 370**]
+ 
+Discharge Diagnosis:
+Primary: COPD Exacerbation, Diastolic CHF, Frontal Sinus Osteoma
+.
+Secondary:
+Type II DM, well-controlled
+HTN
+CAD
+Morbid obesity
+Decubitus Ulcer
+Hemorrhagic cystitis
+
+ 
+Discharge Condition:
+Stable, O2 sats 88-92% on 4L (on home O2)
+
+ 
+Discharge Instructions:
+Please call your doctor or go to the ER if [**Doctor First Name **] have any 
+shortness of breath, chest pain, fevers, chills, cough, or any 
+other symptoms that concern [**Doctor First Name **].
+.
+Please take all medications as prescribed
+ 
+Followup Instructions:
+Oral Surgery: [**Doctor First Name 54**] have an appointment scheduled with Dr. [**Last Name (STitle) **] 
+on Tuesday, [**7-24**] at 2:00.  His office is located at [**Street Address 9840**], Suite 334, [**Location (un) 310**], phone # [**Telephone/Fax (1) 9841**].  [**Doctor First Name 54**] had 
+a mass in one of the bones in your face that he will follow up 
+further. 
+.
+ENT: [**Doctor First Name 54**] have an appointment scheduled with Dr. [**First Name (STitle) 3882**] on Friday, 
+[**6-29**] at 8:30AM.  His office is located at [**Location (un) 9842**]., 
+Suite 303.  Please call his office at [**Telephone/Fax (1) 4741**] with any 
+questions.
+.
+Primary Care: Please call your primary care doctor to set up a 
+follow up appointment in the next 1-2 weeks.
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 674**] MD [**MD Number 675**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3347**] MD [**MD Number 3348**] [**2627-6-13**] @ 1614
+Signed electronically by: DR. [**First Name4 (NamePattern1) 15**] [**Last Name (NamePattern1) **]
+ on: SAT [**2627-6-16**] 5:06 PM
+(End of Report)
+
+
+",,
+13931,17034,,,2627-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-4**] 9:50 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4712**]
+     Reason: MS CHANGES
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with somnolence, MS changes today                               
+     REASON FOR THIS EXAMINATION:
+      evaluate for bleed                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Somnolence and mental status change today, evaluate for bleed.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Patient motion and positioning within the scanner somewhat limits
+     assessment.  No intra- or extra-axial hemorrhage is clearly identified.  There
+     is no mass effect or shift of normally midline structures.  The ventricles do
+     not demonstrate any hydrocephalus.  The basal cisterns are visualized.
+     Paranasal sinuses appear clear.  The patient is edentulous.  Soft tissue
+     structures appear unremarkable.
+     
+     IMPRESSION:  Limited study.  No obvious intracranial hemorrhage or mass
+     effect.
+     
+     Note added at attending review: There is an incompletely visualized expansile
+     mass in the left maxillary alveolar ridge and there is a partially calcified
+     mass in the left frontal sinus. Ct scan of the facial bones suggested. Amended
+     report called to Dr. [**First Name (STitle) 4713**], covering for Dr. [**Last Name (STitle) 4714**].
+
+",,
+13931,17034,,,2627-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-4**] 2:16 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4711**]
+     Reason: eval PNA                                                    
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old man with sob despite Bipap                                         
+     REASON FOR THIS EXAMINATION:
+      eval PNA                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Persistent SOB.
+     
+     CHEST:  Prior film had large quantity of motion artifact.  Current film shows
+     cardiac enlargement and bilateral pleural effusions and increased densities in
+     the left mid and lower zones.  There is definitely failure present and a
+     left-sided pneumonia may also be present at the same time.
+     
+     IMPRESSION:  Bilateral effusions consistent with failure.  Pneumonia could
+     also be present.
+                                                                           
+
+",,
+13931,17034,,,2627-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-4**] 2:16 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4711**]
+     Reason: eval PNA                                                    
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old man with sob despite Bipap                                         
+     REASON FOR THIS EXAMINATION:
+      eval PNA                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Persistent SOB.
+     
+     CHEST:  Prior film had large quantity of motion artifact.  Current film shows
+     cardiac enlargement and bilateral pleural effusions and increased densities in
+     the left mid and lower zones.  There is definitely failure present and a
+     left-sided pneumonia may also be present at the same time.
+     
+     IMPRESSION:  Bilateral effusions consistent with failure.  Pneumonia could
+     also be present.
+                                                                           
+
+",,
+13931,17034,,,2627-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-4**] 10:11 AM
+     BILAT LOWER EXT VEINS PORT                                      Clip # [**Clip Number (Radiology) 4710**]
+     Reason: ? DVTs                                                      
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with acute onset of SOB, leg swelling of unknown duration       
+     REASON FOR THIS EXAMINATION:
+      ? DVTs                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old male with shortness of breath and leg colored
+     swelling.
+     
+     COMPARISON:  No comparisons are available.
+     
+     LEFT LOWER EXTREMITY DVT STUDY:  The study is slightly limited due to the
+     patient's body habitus.  The left common femoral, superficial femoral and
+     popliteal veins are examined.  There is normal flow, compressibility and
+     augmentation of these vessels.  No intraluminal thrombus was identified.
+     
+     IMPRESSION:  Limited study but no evidence of DVT.
+                                                                           
+
+",,
+13931,17034,,,2627-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-4**] 4:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4709**]
+     Reason: assess for infiltrate, chf                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with sob                                                        
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate, chf                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     COMPARISON:  None.
+     
+     SINGLE PORTABLE AP UPRIGHT CHEST RADIOGRAPH:  This study is extremely limited
+     by patient motion and rotation.  Lung volumes are low.  There is likely a left
+     pleural effusion with associated atelectasis.  No large pneumothorax is
+     identified.
+
+",,
+13931,17034,17329,0,2627-06-04 15:07:00 EST,2627-06-04 15:41:00 EST,4160,"N",54,"Nursing/Other","Nursing Admission Note 0800-1900","
+Nursing Admission Note 0800-1900
+Pt transfered up to MICU 7 from ED at approx 0815. Arrives in NAD, wearing Bipap mask, asking for it to be removed. 
+
+HPI: Pt transfered in from [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] NH in JP for acute SOB. + Chf/ COPD exacerbation. Attempted nasal intubation in ED, pt refused. Pt refusing most invasive/ uncomfortable treatments. Long PMH for COPD and CHF. overall declining medical status. in NH since last thursday, reportedly in [**Hospital 670**] Hospital x2 weeks prior to that for similar etiology. NO medical records here as pt is usually treated at OSH.
+
+PMH: CHF, COPD (60pk/yr smoker), CRF, s/p Rhabdo, Morbid obesity. MRSA pna. wears 3L NC at baseline.
+
+ROS/PE:
+
+CV: NSR/ ?afib. HR 80-120's. has episodes of increased irregular HR, ?afib. otherwise in NSR when resting. frequent PAC's. NiBP 130-160's systolic. Anasarcic. hct stable at 35. Significant Cardiomegaly per CXR. 
+
+RESP: Ausculatation limited by body habitus. coarse crackles w/ exp wheezes throughout, diminished bases, poor inspiration. Pt arived on BiPap, refusing to wear therefore taken off and placed on simple face mask -35%. had several episodes of desaturations while sleeping to 70%. Pulling off mask at times. This afternoon became much more somnolent, abg's stable at 7/33/69/82. Placed back on BiPAP this afternoon d/t somnolence and desaturation. 
+
+NEURO: Arrives A&O, following commands and adamant that he DOES NOT WANT intubation. makes many statements, ""just leave me alone, let me die"". MAE on the bed. Denies pain. this Afternoon, arouses to his name, slow to open his eyes, much less alert. 
+
+GI/GU: Abd obese, firm. hypoactive BS. on q6hr FS w/ RISS. tolerated PO meds well this am. otherwise NPO at this time. Arrives w/ UTI and previous foley in place (from NH). Foley removed. After MUCH difficulty, Coude catheter placed. Large amt puss expressed from penile area. puss present in urine. Has recieved 60mg additional lasix today, currently about even. 
+
+SKIN: Large excorriarted/ Macerated area to sacrum/ buttocks. Arrives OTA. CNS consulted and covered w/ Duoderm Gel, Aquacell and Softsorb. Placed on Bariair bed. several cellulitic appearing areas to bilateral legs, appears chronic. erythemic area in arm. crusted would to R elbow from skin breakdown, covered w/ Duoderm. Appearent Fungal involvement to skin folds, underneath pannus, etc. some small open areas. Will order Nystatin. 
+
+SOCIAL: Pt refuses to allow us to contact any family. Reportedly has 4 sons. no HCP that we know of. There was some concern for neglect at NH w/ pt arriving in such a neglected states. Upon further conversation w/ pt this am, pt states that he tells healthcare workers at NH to leave him alone- does not like to be turned or cleaned, so they dont. 
+
+ACCESS: piv x2. 
+
+PLAN: Maintain MRSA contact precautions. closely eval mental status for continued/ worsening lethargy. BiPap as tolerated. Pt is DNI, but per POE is not DNR. This should be clarfified when pt becomes more arouseable. Diurese to goal FB -1L. SW and case manager following. ?Ho
+",,
+13931,17034,17329,0,2627-06-04 15:08:00 EST,2627-06-04 15:41:00 EST,4160,"N",54,"Nursing/Other","Nursing Admission Note 0800-1900","
+Nursing Admission Note 0800-1900
+(Continued)
+spice care if pt continues to express wishes of not wanting uncomfortable treatments in light of cardiopulmonary failure. 
+
+
+",,
+13931,17034,17329,0,2627-06-04 16:44:00 EST,2627-06-04 16:59:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. Care Note
+Pt received from ED on NIPPV with settings PSV 10 peep 8 and 80%. Pt alert, asking to take mask off, so placed on aerosol mask at 35%. ABG with little change, so left off until became more somnolent and then placed back on NIV. ABG essent. unchanged from earlier. Pt then began having more periods of apnea and irreg. breathing pattern in afternoon. Pt remained somnolent but easily arousable to take deep breaths. Albuterol and Atrovent nebs ordered and pt. rx'd x2 this shift. BS with coarse exp wheezes, unchanged with Rx. 
+",,
+13931,17034,17329,0,2627-06-05 03:12:00 EST,2627-06-05 03:15:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont on NIPPV as per Carevue. Lung sounds coarse dim bases. Pt coughs spont.m Pt transported to CT scan without incident on NRB. ABGs resp acidosis off NIPPV pH normalizes on NIPPV. Cont NIPPV.
+",,
+13931,17034,17329,0,2627-06-05 05:36:00 EST,2627-06-05 05:50:00 EST,4196,"N",54,"Nursing/Other",,"
+
+cv: vss hr to 110. initially pt somnolent and unable to take po lopressor but when pt awakened he was able to take his lopressor and his hr came down to 80's nsr with occasional pvc.
+
+neuro: pt awakened during head catscan. very alert ,obeying all commands and answering questions appropriately. oriented to person and place and time.pt baCK TO [**Doctor Last Name **] FOR SEVERAL HOURS AND D IFFICULT TO AWAKEN BUT THIS A.M. PT AGAIN AWAKE REQUESTING TO TAKE BIPAP OFF SO THAT HE CAN RAISE SECRETIONS.
+
+resp: coughing and raising thick yellow and using yankeur. bipap on most of night.. removed to take pt to catscan. This a.m. placed on open face tent at .35%. dsee careview ffffor abg results on and off bipap.
+
+gi: mushroom catheter draining small amoiunts of liquid dark brown stool.obese. takes liquids and pills without p[roblem when he is off bipap.
+
+gu: foley draining yellow urine . pt received a dose of lasix 40 mg iv times one. UO increased for a few hours after getting lasix dose.
+
+integumentary: Entir buttocks and perianal area is macerated and there are large areas of open weeping serosanguinous. area cleansed and aquacel applied. to some areas wound gel applied and adaptiiiiic and sofsorb.pt has many deep creases and crevices, folds. abds and gauze placed in folds to absorb moisture. An order for nilstatin powder is needed
+",,
+13931,17034,17329,0,2627-06-05 15:51:00 EST,2627-06-05 16:32:00 EST,7972,"N",54,"Nursing/Other",,"
+
+0700-1900 micu-7 nursing progress note
+
+DNR
+ALLG: Heparin/Levoquin
+CONTACT PRECAUTIONS for MRSA PNA
+
+TODAYS EVENTS: maintained sats in 93-98% on 5 L NC, Diuresed Lasix 40mg at w/ good response, ABGS @ 1500 7.35/70/75/40, ECHO done, Neuro status improved from last night. 
+
+NEURO: Pt. alert and oriented x 3 all day today, much improved from last night pt. was reported somulent. Pt. able to state person, place, and time, follow commands,verbalizes needs, tolerates sips of water/ginger ale/ice sips,gag and cough reflex intact, UE and LE movement is limited and tremorous, Right pupils pearl 3mm brisk, pt. is blind in left eye - optical gtts applied in OS. HEAD CT -- results nonimpressive showing some sinus calcification.
+
+RESP: Received pt. on Face T 15/.35, midnight ABGS were WNL. Around 1000, oxgen requirements were weaned to 5LNC, pt. tolerated well w/ 02sats 89-98%, RR 23-33 labored and exacerbated by turning/activity, expectorating yellow thick sputum - pt. able to Yankeur on own. Pt was called out, but @ 1500 ABGS were 7.35/70/75/40 -- MDs decided CO2 was too high for call out. 
+SPUTUM CULT- pos for gram neg rods and gram pos cocci
+
+CV: HR NS 84-104, Occass PVCs, sbp=101-142, access: R-wrist 18G WNL and R-arm 20g RED, peripheral pulses palpable, CKs neg/Troponins trending down, ECHO DONE. Venadyn boots ON.
+
+GU: Pt. given Lasix 40mg w/ 520cc out in 3 hours (goal= 1-1.5 L neg), foley cath draining yellow/sediment urine >30cc/hr, urine cult- pos wbc/pos rbc, Cr=1.0
+
+GI: Mushroom catheter draining brown liquid stool, hypoactive BS, abd soft obese, pt. tolerates gingerale and PO meds. 
+
+INTEG: LE's - cellulitis but pt. does not complain of pain, Bar Air Bed, Buttox stage 2 decubiti covering entire region, tx w/ gel and aquacell x 2 today, appears red, but clean/no puss. 
+
+ID: afebrile Tmax=99.0, WBC=5.3, ABX: Ceft/Vanco/Azithromicin
+
+HEME: HCt 29.4, K+=4.6/LDP 144/Trigly 116
+
+SOCIAL: pt. was called out on rounds since was tolerating 5L NC (baseline is 3-4L NC @ home), but 1500 ABG caused MDs to cancel call out. Pt. called [**Doctor First Name 1470**], his declared proxy, pt. said [**Doctor First Name 1470**] will come in to sign proxy papers. Pt. verbalized he was unahppy at his old NH and wishes to go somewhere else once discharged, [**Doctor Last Name 5434**]is following him starting today to assess his needs. Pt's sister's name is on board -- but pt. does not know her number, nor does he wish to call any of his three sons. Pt. has been divorced for many many years. 
+
+PLAN: Cont. to monitor oxygen requirement
+      ABGS
+      Follow-up on CULTure results
+      Follow-up on ECHO results
+      Code Status?
+      Cont. Skin care w/ aqua cell/gel
+      Follow-up on Vanc Levels
+      
+",,
+13931,17034,17329,0,2627-06-06 05:07:00 EST,2627-06-06 05:23:00 EST,4273,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of Systems:
+
+Neuro: Pt AAO X 3, follows commands consistantly. He C/O knee/hip pain after being turned STS, and rec'd Tylenol 650mg po X 1 with good relief. Pt able to [**Doctor Last Name 8**] for several hrs overnight.
+
+Resp: Pt on 5l NC, and added FT 35% intermit for humidity. O2 pleth intermit unreliable, but sat generally 95-100%. RR 18-32 and regular with pt mouth-breathing. Lung snds coarse, diminished @ bases. Pt with strong cough productive of lg amts thick white sputum, which he removes with a yankouer.
+
+CV: HR 83-108SR with occas PAC's/PVC's. BP 103/39-157/66. AM labs WNL with Hct stable.
+
+GI: Pt taking small amts clear liqs, appetite poor. FSG WNL. Abd obese/soft with + bowel snds. Mushroom cath draining small amt stool.
+
+GU: Urine yellow with sed, draining in adequate amts per carevue. 24hr fluid balance @ MN -1200ml, with LOS balance -1500ml.
+
+Skin: Buttocks with stage II excoriation. Dsg changed X 1. 
+
+Social: Friend brought pt's glasses from NH.
+
+Plan: MD to repeat ABG to determine if pt can be called out to floor. Advance diet as tol. ? PT consult. Cont to prep for D/C to extended care facility.
+",,
+13931,17034,17329,0,2627-06-06 16:52:00 EST,2627-06-06 17:11:00 EST,3933,"N",54,"Nursing/Other",,"
+
+npn 0700-1900;
+
+stable day weaned to 3ln/c after neb treatment and diuresis.
+called out to floor no beds available.
+
+ros; neuro aoox3 limited movement lower limbs moves upper limb sperla cooperative with care.
+
+resp; c/o of sob at start of shift pos exp wheeze on lt side treated with nebs lasix improved weaned to 3l n/c with sats 96-97% accepting sats around 92. rr 22-26 strong productive cough using yankeur well.
+
+cvs; tmax 98..2 ax nsr 90-112 bp 120-132/43 tolerting cozaar and lopressor. please see carevue for details.iso pvc's 
+
+gu; passing good amounts clear yellow urine via [**Last Name (un) 1975**] pos uti, to start on cefapime.
+
+gi; pos bs draining samll amounts brown stool via rectal tube.obese belly taking good po's denies n/v. being covered on riss.
+
+skin; gen edema yeast in slkin folds, cocyx red beefy and bleeding wi.
+aquacell applied anf soft sorb placed. attempted to reposition .more frequently.as pt not tolerting rotating bed.
+
+soc; no phone calls or visit s today so far.
+
+a/p stable s/p chf/copd exacerbation.
+continnue with pulmonary toiklet and diuresisi aiming for neg500-1000/24.hr
+continue antibiotic follow up cultures
+ recheck k . received 20 meq's po. for pos transfer to rehab .if bed available
+",,
+13931,17034,17329,,2627-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13931,17034,17329,,2627-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-7**] 4:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4715**]
+     Reason: to eval for hypoxias                                        
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old man with copd, morbid obesity and profound hypoxia                
+                              
+     REASON FOR THIS EXAMINATION:
+      to eval for hypoxias                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Morbid obesity, COPD, profound hypoxia.
+     
+     COMPARISON:  [**2627-6-4**].
+     
+     SEMI-UPRIGHT AP VIEW OF THE CHEST:  Severe cardiomegaly and widening of the
+     mediastinum are unchanged.  Increasing bilateral moderate sized pleural
+     effusions are present with bibasilar consolidations, likely atelectasis.
+     Pulmonary vascularity is normal.  There is no pneumothorax.
+                                                                           DFDdp
+
+",,
+13931,17034,,,2627-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with COPD, PNA, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bedside PICC unsuccessful and the patient requires prolonged IV
+     antibiotics.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 620**] [**Name (STitle) 621**], Dr. [**First Name4 (NamePattern1) 4524**] [**Last Name (NamePattern1) 4525**], and Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 2339**] with
+     Dr. [**First Name (STitle) 2339**], the attending radiologist, present and supervising throughout the
+     procedure.
+     
+     PROCEDURE:  As no suitable superficial veins were present, the deep venous
+     system of the left upper extremity was examined with ultrasound.  The left
+     brachial vein was found to be patent and compressible.  Standard sterile prep
+     and drape of the left arm.  Local anesthesia with 10 cc of 1% lidocaine
+     subcutaneously.  Using realtime ultrasound guidance, a 21-gauge needle was
+     advanced into the left brachial vein.  Hardcopy ultrasound images pre- and
+     post-puncture were obtained.  A 0.018-inch guidewire was advanced through the
+     needle and the needle was exchanged for the introducer sheath.  A 5-French
+     double-lumen [**Last Name (un) 1828**] PICC was placed through the sheath and positioned with
+     its tip in the superior vena cava using fluoroscopic guidance.  The peel-away
+     sheath was removed.  Both lumens of the catheter flushed and aspirated well,
+     were capped and saline locked.  The catheter was fixed in place with a
+     Statlock device and a sterile transparent dressing was applied.  Final limited
+     chest radiograph confirmed the catheter tip position in the expected region of
+     the superior aspect of the superior vena cava.  There is evidence of bilateral
+     pleural effusions, cardiomegaly, and possible atelectasis or consolidation of
+     the right lower lobe.  Suggest correlation with a dedicated chest radiograph
+     performed earlier today.
+     
+     The catheter can be used immediately.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  Successful placement of a 5-French 60 cm PICC ([**Last Name (un) 1828**]) by way
+     of the left brachial vein with tip in the superior vena cava.  The catheter
+     can be used immediately.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13931,17034,,,2627-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-8**] 4:52 PM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 4717**]
+     Reason: R/O  DVT
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     WET READ: KCLd FRI [**2627-6-8**] 6:23 PM
+      limited study
+      right mid and distal sfv not visualized adequately secondary to body habitus
+      no dvt seen right cfv and right popliteal
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluate for DVT.
+     
+     FINDINGS:  This is a limited study secondary to patient body habitus.
+     Grayscale and Doppler sonograms of the right common femoral, proximal
+     superficial femoral, and popliteal veins were performed. These demonstrate
+     normal compressibility, waveforms, and flow in the common femoral, proximal
+     superficial femoral, and popliteal veins. No intraluminal thrombus is
+     identified within these vessels. The mid and distal right superficial femoral
+     veins were not adequately visualized.
+     
+     IMPRESSION:  Limited study secondary to patient body habitus.  No evidence of
+     DVT seen within the right common femoral, proximal superficial femoral, and
+     popliteal veins.
+     
+     
+
+",,
+13931,17034,,,2627-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with COPD, PNA, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bedside PICC unsuccessful and the patient requires prolonged IV
+     antibiotics.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 620**] [**Name (STitle) 621**], Dr. [**First Name4 (NamePattern1) 4524**] [**Last Name (NamePattern1) 4525**], and Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 2339**] with
+     Dr. [**First Name (STitle) 2339**], the attending radiologist, present and supervising throughout the
+     procedure.
+     
+     PROCEDURE:  As no suitable superficial veins were present, the deep venous
+     system of the left upper extremity was examined with ultrasound.  The left
+     brachial vein was found to be patent and compressible.  Standard sterile prep
+     and drape of the left arm.  Local anesthesia with 10 cc of 1% lidocaine
+     subcutaneously.  Using realtime ultrasound guidance, a 21-gauge needle was
+     advanced into the left brachial vein.  Hardcopy ultrasound images pre- and
+     post-puncture were obtained.  A 0.018-inch guidewire was advanced through the
+     needle and the needle was exchanged for the introducer sheath.  A 5-French
+     double-lumen [**Last Name (un) 1828**] PICC was placed through the sheath and positioned with
+     its tip in the superior vena cava using fluoroscopic guidance.  The peel-away
+     sheath was removed.  Both lumens of the catheter flushed and aspirated well,
+     were capped and saline locked.  The catheter was fixed in place with a
+     Statlock device and a sterile transparent dressing was applied.  Final limited
+     chest radiograph confirmed the catheter tip position in the expected region of
+     the superior aspect of the superior vena cava.  There is evidence of bilateral
+     pleural effusions, cardiomegaly, and possible atelectasis or consolidation of
+     the right lower lobe.  Suggest correlation with a dedicated chest radiograph
+     performed earlier today.
+     
+     The catheter can be used immediately.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  Successful placement of a 5-French 60 cm PICC ([**Last Name (un) 1828**]) by way
+     of the left brachial vein with tip in the superior vena cava.  The catheter
+     can be used immediately.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13931,17034,,,2627-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with COPD, PNA, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bedside PICC unsuccessful and the patient requires prolonged IV
+     antibiotics.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 620**] [**Name (STitle) 621**], Dr. [**First Name4 (NamePattern1) 4524**] [**Last Name (NamePattern1) 4525**], and Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 2339**] with
+     Dr. [**First Name (STitle) 2339**], the attending radiologist, present and supervising throughout the
+     procedure.
+     
+     PROCEDURE:  As no suitable superficial veins were present, the deep venous
+     system of the left upper extremity was examined with ultrasound.  The left
+     brachial vein was found to be patent and compressible.  Standard sterile prep
+     and drape of the left arm.  Local anesthesia with 10 cc of 1% lidocaine
+     subcutaneously.  Using realtime ultrasound guidance, a 21-gauge needle was
+     advanced into the left brachial vein.  Hardcopy ultrasound images pre- and
+     post-puncture were obtained.  A 0.018-inch guidewire was advanced through the
+     needle and the needle was exchanged for the introducer sheath.  A 5-French
+     double-lumen [**Last Name (un) 1828**] PICC was placed through the sheath and positioned with
+     its tip in the superior vena cava using fluoroscopic guidance.  The peel-away
+     sheath was removed.  Both lumens of the catheter flushed and aspirated well,
+     were capped and saline locked.  The catheter was fixed in place with a
+     Statlock device and a sterile transparent dressing was applied.  Final limited
+     chest radiograph confirmed the catheter tip position in the expected region of
+     the superior aspect of the superior vena cava.  There is evidence of bilateral
+     pleural effusions, cardiomegaly, and possible atelectasis or consolidation of
+     the right lower lobe.  Suggest correlation with a dedicated chest radiograph
+     performed earlier today.
+     
+     The catheter can be used immediately.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  Successful placement of a 5-French 60 cm PICC ([**Last Name (un) 1828**]) by way
+     of the left brachial vein with tip in the superior vena cava.  The catheter
+     can be used immediately.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13931,17034,,,2627-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with COPD, PNA, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bedside PICC unsuccessful and the patient requires prolonged IV
+     antibiotics.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 620**] [**Name (STitle) 621**], Dr. [**First Name4 (NamePattern1) 4524**] [**Last Name (NamePattern1) 4525**], and Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 2339**] with
+     Dr. [**First Name (STitle) 2339**], the attending radiologist, present and supervising throughout the
+     procedure.
+     
+     PROCEDURE:  As no suitable superficial veins were present, the deep venous
+     system of the left upper extremity was examined with ultrasound.  The left
+     brachial vein was found to be patent and compressible.  Standard sterile prep
+     and drape of the left arm.  Local anesthesia with 10 cc of 1% lidocaine
+     subcutaneously.  Using realtime ultrasound guidance, a 21-gauge needle was
+     advanced into the left brachial vein.  Hardcopy ultrasound images pre- and
+     post-puncture were obtained.  A 0.018-inch guidewire was advanced through the
+     needle and the needle was exchanged for the introducer sheath.  A 5-French
+     double-lumen [**Last Name (un) 1828**] PICC was placed through the sheath and positioned with
+     its tip in the superior vena cava using fluoroscopic guidance.  The peel-away
+     sheath was removed.  Both lumens of the catheter flushed and aspirated well,
+     were capped and saline locked.  The catheter was fixed in place with a
+     Statlock device and a sterile transparent dressing was applied.  Final limited
+     chest radiograph confirmed the catheter tip position in the expected region of
+     the superior aspect of the superior vena cava.  There is evidence of bilateral
+     pleural effusions, cardiomegaly, and possible atelectasis or consolidation of
+     the right lower lobe.  Suggest correlation with a dedicated chest radiograph
+     performed earlier today.
+     
+     The catheter can be used immediately.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  Successful placement of a 5-French 60 cm PICC ([**Last Name (un) 1828**]) by way
+     of the left brachial vein with tip in the superior vena cava.  The catheter
+     can be used immediately.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13931,17034,,,2627-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with COPD, PNA, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bedside PICC unsuccessful and the patient requires prolonged IV
+     antibiotics.
+     
+     PHYSICIANS:  Dr. [**First Name8 (NamePattern2) 620**] [**Name (STitle) 621**], Dr. [**First Name4 (NamePattern1) 4524**] [**Last Name (NamePattern1) 4525**], and Dr. [**First Name8 (NamePattern2) 2935**] [**Last Name (NamePattern1) 2339**] with
+     Dr. [**First Name (STitle) 2339**], the attending radiologist, present and supervising throughout the
+     procedure.
+     
+     PROCEDURE:  As no suitable superficial veins were present, the deep venous
+     system of the left upper extremity was examined with ultrasound.  The left
+     brachial vein was found to be patent and compressible.  Standard sterile prep
+     and drape of the left arm.  Local anesthesia with 10 cc of 1% lidocaine
+     subcutaneously.  Using realtime ultrasound guidance, a 21-gauge needle was
+     advanced into the left brachial vein.  Hardcopy ultrasound images pre- and
+     post-puncture were obtained.  A 0.018-inch guidewire was advanced through the
+     needle and the needle was exchanged for the introducer sheath.  A 5-French
+     double-lumen [**Last Name (un) 1828**] PICC was placed through the sheath and positioned with
+     its tip in the superior vena cava using fluoroscopic guidance.  The peel-away
+     sheath was removed.  Both lumens of the catheter flushed and aspirated well,
+     were capped and saline locked.  The catheter was fixed in place with a
+     Statlock device and a sterile transparent dressing was applied.  Final limited
+     chest radiograph confirmed the catheter tip position in the expected region of
+     the superior aspect of the superior vena cava.  There is evidence of bilateral
+     pleural effusions, cardiomegaly, and possible atelectasis or consolidation of
+     the right lower lobe.  Suggest correlation with a dedicated chest radiograph
+     performed earlier today.
+     
+     The catheter can be used immediately.
+     
+     There were no immediate complications.
+     
+     IMPRESSION:  Successful placement of a 5-French 60 cm PICC ([**Last Name (un) 1828**]) by way
+     of the left brachial vein with tip in the superior vena cava.  The catheter
+     can be used immediately.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2627-6-8**] 7:32 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4716**]
+     Reason: can [**Doctor First Name 1041**] place IR guided PICC for IV antibiotics?            
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13931,17034,,,2627-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-12**] 6:11 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4719**]
+     Reason: Non-contrastPlease eval for abnormalities seen on head CT   
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with COPD, hypoventilation, hypoxia/hypercapnia                 
+     REASON FOR THIS EXAMINATION:
+      Non-contrastPlease eval for abnormalities seen on head CT                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JWK TUE [**2627-6-12**] 11:59 PM
+      2.4 x 1.4 cm expansile mass in the left maxillary alveolar ridge.  There is
+      thinning of the cortical margins and areas of focal dehiscense.  The
+      findings may be consistent with an ameloblastoma.  Partially calcified mass in
+      the left frontal sinus. Right maxillary and ethmoid sinus mucosal thickening. 
+     WET READ AUDIT #1 JWK TUE [**2627-6-12**] 9:06 PM
+     WET READ AUDIT #2 JWK TUE [**2627-6-12**] 11:10 PM
+      2.4 x 1.4 cm expansile mass in the left maxillary alveolar ridge.  The cortex
+      appears preserved.  Partially calcified mass in the left frontal sinus.  Right
+      maxillary and ethmoid sinus mucosal thickening.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old with hypoxia and COPD with maxillary lesion noted on
+     head CT scan.
+     
+     TECHNIQUE:  MDCT images of the maxillofacial sinuses without the
+     administration of IV contrast.  Coronal reformatted images were obtained.
+     
+     Comparison is made to head CT performed [**2627-6-4**].
+     
+     FINDINGS:  In the left maxillary alveolar ridge extending to the midline,
+     there is a 1.4 x 2.4 x 1.8 cm expansile lytic slightly aggressive-appearing
+     lesion.  Areas of cortical breakthrough along the anterior maxillary margin
+     are seen.  This lesion extends superiorly to the floor of the left maxillary
+     sinus, but there is no definite invasion into the left maxillary sinus.  The
+     maxilla itself otherwise is osteopenic in appearance.  There may be a soft
+     tissue component associated with this lesion given internal Hounsfield unit
+     attenuation levels of 33.
+     
+     In the left frontal sinus, there is a 9 x 12 mm rounded somewhat lobulated
+     partially peripherally calcified lesion.  Minimal mucosal thickening is seen
+     within the ethmoid sinuses and right maxillary sinus.  Degenerative changes
+     are seen of the dens.
+     
+     IMPRESSION:
+     1.  Expansile, slightly aggressive lytic lesion seen in the left maxillary
+     alveolar ridge.  Appearance is somewhat nonspecific and the differential would
+     include entities such as aneurysmal bone cyst, periapical abscess, or an
+     ameloblastoma. MRI may be helpful in delineating solid versus cystic
+     components of this mass.
+     2.  Left frontal partially calcified lesion probably represents an osteoma.
+     The differential would be a partially calcified retention cyst.
+                                                                 (Over)
+
+     DATE: [**2627-6-12**] 6:11 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4719**]
+     Reason: Non-contrastPlease eval for abnormalities seen on head CT   
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Osteoporosis.
+
+",,
+13931,17034,,,2627-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2627-6-12**] 3:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4718**]
+     Reason: Please eval for changes in lung findings                    
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old man with copd, morbid obesity and profound hypoxia, now stable   
+                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for changes in lung findings                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  COPD and profound hypoxia.
+     
+     COMPARISON:  [**2627-6-7**].
+     
+     CHEST:  AP semiupright view.  Evaluation is limited by patient positioning and
+     body habitus.  Cardiac and mediastinal contours are unchanged.  There are
+     moderate bilateral pleural effusions, left greater than right, and basilar
+     atelectasis, unchanged compared to the previous study.
+     
+     IMPRESSION:  Limited study. No interval change.
+                                                                           DFDkq
+
+",,

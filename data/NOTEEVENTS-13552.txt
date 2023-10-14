@@ -1,0 +1,836 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13552,11838,,,2974-06-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2974-6-18**]       Discharge Date:  [**2974-6-28**]
+
+Date of Birth:   [**2880-2-5**]       Sex:  F
+
+Service:  ACOVE
+
+ADDENDUM:
+1. Neurology:  The patient was scheduled to go to [**Hospital3 2592**] facility on [**2974-6-22**] after being worked up for
+failure to thrive.  However at 12 PM on [**2974-6-22**], the patient
+was noted to have acute mental status changes.  She was
+moaning, but was unable to speak.  The patient was not able
+to follow any directions.  She was noted to have a
+right-sided facial droop.  In addition, she was noted to have
+right-sided hemiparesis.  On further neurological
+examination, the patient was noted to have left-sided gaze
+deviation.  The patient was immediately thought to be having
+an acute stroke.  The stroke team was called.  A head CT was
+obtained because the patient was not able to get a head MR
+secondary to her pacer.  The official read of the head CT was
+read as normal with no acute hemorrhage or mass effect.
+However the stroke fellow commented on subtle signs of early
+ischemia such as a loss of insular ribbon, some sulcal
+effacement in the left temporal and frontal peri-insular
+region.  He also noted a subtle left MCA sign.  Because of
+these acute changes in her mental status and neurological
+examination combined with the subtle CT results, the stroke
+service conferred with the attending internist and family.  Since
+the family strongly believed that the patient would not want
+to live in a severely debilitated state due to a stroke, they
+agreed, after reviewing the risks and benefits, that the
+patient should receive tissue plasminogen activator.  This
+occurred 105 minutes after the event was presumed to have begun.
+The patient received a total of 45 mg of TPA with 4.5 mg bolus
+and then the remaining 40.5 mg over one hour.  The patient
+was transferred to the intensive care unit for blood pressure
+management.  The patient initially showed only moderate
+response to the TPA.  The goal blood pressure set for her was
+systolic of 140 to 180.  Because she was going over 180, the
+patient received IV labetalol.  Over the next several days,
+the patient had remarkable improvement in both her mental
+status and neurological examination.  Follow-up head CT on
+[**2974-6-23**] showed no acute hemorrhage or mass effect, no acute
+infarction.  Unexpectedly, the patient returned back to her
+prestroke baseline.  She was once again able to walk with a
+walker, was easily able to verbalize, and her right-sided
+hemiparesis and gaze deviation resolved.  The patient
+remained with a baseline dementia which she appears to have
+had on admission and several months prior to that point.  The
+patient was started on aspirin.  The stroke team also
+recommended that she be started on Plavix.  The patient
+doesn't likely need any special stroke rehabilitation as she
+has come back to her prestroke state.
+
+2. Atrial fibrillation:  The patient was noted to be atrially
+paced at 70 beats per minute on admission.  She was not in
+atrial fibrillation.  The patient's stroke is likely embolic
+in nature.  Its origin is unknown.  The patient was not
+anticoagulated after her pacer placement, which may have led
+to clot formation.  The patient may also have thrown a piece
+of atheroma from one of her large vessels.  Anticoagulation
+with Coumadin was closely considered and discussed with the
+family.  It was explained that the patient has a reasonably
+high risk of having another stroke given that she already
+threw an embolus.  It is tough to exactly quantify her risk
+for reembolization, but it is probably around 10% per year.
+The patient likely has at least 3-5% improvement with
+Coumadin over aspirin alone per year.  However, the morbidity
+associated with Coumadin in someone who is a genuine fall
+risk has to be closely considered.  At this point in time,
+the family has decided not to pursue anticoagulation with
+Coumadin.  For this reason, the patient does not receive any
+further work-up for her embolism.  In the future, if Coumadin
+is even considered, she will need an echocardiogram and
+likely carotid ultrasound.  The patient doubtfully would be a
+carotid stent candidate.
+
+3. Failure to thrive:  As already discussed in prior
+discharge summary, the patient was found to be subclinically
+treated for her hypothyroidism given her admission TSH of 40.
+The patient's Levoxyl dose was increased to 75 mcg p.o. q.d.
+The patient's TSH was rechecked on [**2974-6-27**] and she was still
+found to have a TSH of 41.  It is likely that this is an
+increase in circulating thyroid hormone and thus suppression
+of her TSH will occur over a few weeks' time.  Currently it
+is probably premature to further increase her levothyroxine
+dose, especially given her history of atrial tachycardia and
+the secondary risk of further embolism.  Given the patient's
+progressing dementia, Aricept may be considered once again,
+especially once she is euthyroid again.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE MEDICATIONS:
+1. Plavix 75 mg p.o. q.d.
+2. Neurontin 100 mg p.o. q.d.
+3. Toprol XL 12.5 mg p.o. q.d.
+4. Artificial Tears 1-2 drops OU p.r.n.
+5. Colace 100 mg p.o. b.i.d.
+6. Enteric-coated aspirin 325 mg p.o. q.d.
+7. Protonix 40 mg p.o. q.d.
+8. Levothyroxine 75 mcg p.o. q.d.
+9. Tylenol 325 to 650 mg p.o. q. 4-6 hours p.r.n.
+10. Digoxin 0.0625 mg p.o. q.d.
+
+DISCHARGE INSTRUCTIONS:  The patient was discharged to [**Hospital3 2592**] facility.  She will need to have her TSH
+rechecked two weeks from [**2974-6-28**] to assess her progress with
+the increased levothyroxine dose.  If her TSH is still high,
+her free T4 should also be rechecked and consider increasing
+her levothyroxine dose to 100 mcg p.o. q.d.  The patient
+should follow up with Dr. [**Last Name (STitle) **], her cardiologist.  The
+patient's Neurontin dose is currently 100 mg p.o. q.d., this
+is for her trigeminal neuralgia.  This can be titrated up to
+400 mg p.o. q.d. as tolerated.  It should be held for
+sedation or mental status changes.  The patient should
+continue aspirin and Plavix for her post stroke care.  As
+already discussed, she will take no Coumadin at this point in
+time.
+
+DISCHARGE DIAGNOSES:
+1. Acute left MCA stroke.
+2. Atrial fibrillation, status post pacer placement.
+3. History of atrial tachycardia.
+4. Hypothyroidism.
+5. Anorexia.
+6. Dementia.
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) 5545**] [**Last Name (NamePattern4) 5546**], M.D.  [**MD Number 5547**]
+
+Dictated By:[**Name8 (MD) 815**]
+MEDQUIST36
+
+D:  [**2974-6-28**]  10:08
+T:  [**2974-6-28**]  10:46
+JOB#:  [**Job Number 9263**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 5545**] [**Last Name (NamePattern1) **]
+ on: WED [**2974-6-29**] 8:10 PM
+(End of Report)
+
+
+",,
+13552,11838,,,2974-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-6-18**] 12:55 PM
+     HIP UNILAT MIN 2 VIEWS LEFT                                     Clip # [**Clip Number (Radiology) 1036**]
+     Reason: eval for fx/re-injury
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with difficulty ambulating
+     REASON FOR THIS EXAMINATION:
+      eval for fx/re-injury
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] y/o female with difficulty with ambulation.
+     
+     FINDINGS: There is evidence of a dynamic compression screw within the left
+     proximal femur.  There is no evidence of hardware failure or hardware
+     loosening. There is no evidence of fracture or dislocation. There is diffuse
+     osteopenia. There is no evidence of bone destruction or bone erosion.
+     
+     IMPRESSION:  No evidence of fracture, dislocation, or hardware failure.
+
+",,
+13552,11838,,,2974-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-6-18**] 12:55 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1035**]
+     Reason: eval for infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with cough, tactile fevers, weakness
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] y/o female with cough and fevers.  Evaluate for infiltrates.
+     
+     FINDINGS:  Comparison is made to prior chest radiograph of [**2974-4-23**].
+     
+     This exam is limited by patient positioning with the patient in a somewhat
+     lordotic position and slightly rotated to the right.  There is a pacemaker
+     overlying the left hemithorax with pacemaker wires in stable position. The
+     heart size and mediastinal contours are stable. The pulmonary vascularity is
+     normal with no evidence of failure.  There is no evidence of pneumothorax or
+     pleural effusion.  Visualized portions of the lung fields are clear with no
+     evidence of parenchymal consolidation or pulmonary nodules.  The left lower
+     lung zone is obscured by an overlying pacemaker.  There is probable
+     atelectasis at the left lung base.
+     
+     Bone windows show diffuse osteopenia with extensive degenerative change within
+     the thoracic spine.
+     
+     IMPRESSION:  Limited exam secondary to patient positioning. No evidence of
+     definite pneumonia.
+
+",,
+13552,11838,,,2974-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-6-22**] 12:44 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1037**]
+     Reason: r/o acute stroke                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with new onset non-responsiveness, facial droop.  Has pacer 
+      so no MR.
+     [**Name13 (STitle) **] FOR THIS EXAMINATION:
+      r/o acute stroke                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] y/o woman with facial droop.
+     
+     COMPARISONS: [**2974-4-20**]
+     
+     TECHNIQUE: Multiple axial images of the head were obtained without IV
+     contrast.
+     
+     FINDINGS:  There is no acute intra or extra axial hemorrhage. There is no mass
+     effect or shift of normally midline structures.  The ventricles, cisterns, and
+     sulci are prominent, consistent with age related atrophy.  There are
+     calcifications seen in the globus pallidus, unchanged from the prior study.
+     The [**Doctor Last Name 63**]-white matter differentiation is unchanged from the prior study. There
+     is right maxillary sinus thickening. Bone windows reveal no fracture.
+     
+     IMPRESSION:
+     1) No acute hemorrhage or mass effect.
+     2) Right maxillary sinus thickening.
+
+",,
+13552,11838,16866,0,2974-06-22 16:58:00 EST,2974-06-22 17:39:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NURSING ADMISSION NOTE","
+[**Wardname **] 4 ICU NURSING ADMISSION NOTE
+
+   [**Age over 90 **] YO admitted from 5S with acute MS changes for TPA therapy.
+   Please see nursing admission/FHPA for more detailed HPI & PMH.
+   ***ALLERGIES- PCN.
+   Originally admitted with FTT. Was ready for discharge when family noted pt was unable to speak. S/B stroke team, Head Ct sca done TPA infusion started. transferred to ICU for further management.
+
+  NEURO: Very agitated. not follow commands Legs over & between  side rails . Pulling & grabbing at [**Doctor First Name 1452**], foley. Attempting to sit up. Will momentarily look in at the sspeaker when name called. Occas will 
+call out ""help me, help me"" in a clear voice. PEARL 2-3 mm. L squint. MAE. 
+  CV: Initially SBP low 200's. Given lopressor, hydralazine & started on labatelol gtt to maintain SBP 145-180. Gtt presently off d/t SBP < 145, HR 70's paced. Rare PVC's noted.
+
+  RESP: Sats > 94% on RA. RR 20's. BS clear.
+
+  GU: foley placed. Yellow urine.
+
+  GI: NPO> On maint IVF.
+
+ ACCESS: #18G PIV X1.
+
+ HEME: L hand hematoma noted. Pressure dsg applied. L shin hematoma noted. Small abraision on lip oozing scant amt blood. Clot sent to BB
+
+SOCIAL: Children & grandchildren at bedside. 
+
+A/P: Stable S/P TPA infusion.
+     Follow neuro checks Q1 hr. 
+     VS Q 30 min X3 hrs then Q1 hr.
+     Fld bolus for SBP <110. Page stroke team with any questions.
+     Assess for bleeding.
+     cont to assess neuro status.
+     Family at bedside to comfort pt. restrain for safety PRN. 
+",,
+13552,11838,16866,,2974-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-6-23**] 8:58 AM
+     CTA HEAD W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 1038**]
+     Reason: POST TPA DECREASED MENTAL STATUS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA s/p tPA now with acute decline.                
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  84 y/o woman with acute stroke status post TPA. Now with acute
+     decline.
+     
+     COMPARISONS: [**2974-6-22**].
+     
+     TECHNIQUE: Multiple axial images of the head were obtained before and after
+     the administration of 150 cc of intravenous contrast.
+     
+     FINDINGS:  There is no acute intra or extra axial hemorrhage. There is no mass
+     effect or shift of normally midline structures.  The ventricles, cisterns, and
+     sulci are prominent, consistent with age related atrophy.  Again seen are
+     calcifications in the globus pallidi, unchanged from prior study. The [**Doctor Last Name 63**]-
+     white matter differentiation is unchanged from prior study. There are no
+     regions of an evolving infarction.  The major tributaries of the circle of
+     [**Location (un) **] are patent.  Overall, the study is not significantly changed from study
+     of one day prior.
+     
+     IMPRESSION:
+     1) No acute hemorrhage or mass effect. No acute infarction identified. No
+     significant change compared to the study of one day prior.
+     
+
+",,
+13552,11838,16866,,2974-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-6-23**] 8:58 AM
+     CTA HEAD W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 1038**]
+     Reason: POST TPA DECREASED MENTAL STATUS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute CVA s/p tPA now with acute decline.                
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  84 y/o woman with acute stroke status post TPA. Now with acute
+     decline.
+     
+     COMPARISONS: [**2974-6-22**].
+     
+     TECHNIQUE: Multiple axial images of the head were obtained before and after
+     the administration of 150 cc of intravenous contrast.
+     
+     FINDINGS:  There is no acute intra or extra axial hemorrhage. There is no mass
+     effect or shift of normally midline structures.  The ventricles, cisterns, and
+     sulci are prominent, consistent with age related atrophy.  Again seen are
+     calcifications in the globus pallidi, unchanged from prior study. The [**Doctor Last Name 63**]-
+     white matter differentiation is unchanged from prior study. There are no
+     regions of an evolving infarction.  The major tributaries of the circle of
+     [**Location (un) **] are patent.  Overall, the study is not significantly changed from study
+     of one day prior.
+     
+     IMPRESSION:
+     1) No acute hemorrhage or mass effect. No acute infarction identified. No
+     significant change compared to the study of one day prior.
+     
+
+",,
+13552,11838,16866,0,2974-06-23 03:42:00 EST,2974-06-23 04:02:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Neuro: s/p TPA therapy, pt will open eyes to name, as night progress she would open eyes spontaneously. Will not consistently follow commands, will spontaneously move extermites, easily moves legs to stimuli, PERLA,2-3mm. speech pt will usually make only noise and moan but will occasionaly state a clear word. BP did drop to 100/ treated with 500cc fluid boluses x2 with bp back up to 110-120's/50, Pt has had sm amt of hematuria,bruising on the right leg totaling 3 eccymotic areas, bruising on the right hand,left posterior upper arm. eccymotic areas have not increased in size, pnuemo boots were ordered however very comfortable on the legs with bruising. 
+  Cardiac: HR 70's paced, BP 100-130/40's 
+  Resp: on RA, with O2 sat range 96-98% lungs clear,
+  GU; foley in place, urine output only miminal averaging 10-15cc/hr. yellow to slight pink in color. 
+  Social: family at bedside all night. Pt is a DNR
+ 
+",,
+13552,11838,16866,0,2974-06-23 17:32:00 EST,2974-06-23 18:03:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN/TRANSFER NOTE 0700-1900","
+[**Wardname **] 4 ICU NPN/TRANSFER NOTE 0700-1900
+
+ [**Age over 90 **] YO admitted to [**Wardname **] 4 ICU [**6-22**] with probable acute stroke for TPA therapy. 
+  Please see NPN for HPI & PMH.
+  ALLERGIES: PCN
+  ROS: 
+  *NEURO: Pt c/o HA & persistently moaning this AM. Tylenol supp PR. Head Ct scan with contrast revealing no bleed. Throughtout the day pt is less agitated. Opens eyes when name called. Answers ""yes"" when asked if she can hear me. Opens mouth briefly on command. Otherwise does not squeeze either hand on command. MAE. Speech is easy to understand. Napping this afternoon. Easily arousable. 
+
+  *CV: Fld bolus X1 for decreased UO with good effect. Labatelol restarted this AM to maintain SBP <185. D/c'd when 24 hr post TPA infusion done & BP in good control. Will be started on PO anti-hypertensives. HR 70's PMR. No VEA. Mult echymotic areas noted on shins & echymotic area noted R hand- none of which have increased in size throughout the day.
+
+  *RESP:  BS clear. Sats high 90's on RA. This AM pt appeared to have some upper airway congestion & occac wretching when pt with HOB minimally elevated (~15 degrees)  per TPA protocol. No congestion or wretching noted since HOB elevated.
+
+  *ID: WBC 13. T-max 99ax.
+
+  *GI: Tol sips water. Able to swallow ASA. No BM. Abd soft.
+
+  *F&E: Maint IVF. (+) fld balance 2.3L.
+
+  *SOCIAL: [**Last Name (un) **] family members at pt's bedside throughout the day. They have left for the eve. Grandaughter will call later on & if pt is agitated she will return to sit with pt overnight. Family uupdated by ICU team as well stroke service. they are aware she is called out to the medical floor.
+
+A/P: Stable S/P TPA therapy.
+     Cont to assess MS. [**First Name (Titles) 4955**] [**Last Name (Titles) 3828**].
+     Start C/L as tol.
+     Asp precautions. 
+     Follow WBC, temp
+
+
+ 
+
+",,
+13552,11838,16866,0,2974-06-24 05:33:00 EST,2974-06-24 05:43:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Neuro: Pt is S/P TPA for embolic stroke, pt is more alert, opening eyes spontaneously, following staff with her eyes in the room, PERLA 2mm, moves her extermites spontaneously but will not follow commands. She will say one word or a few words at a time. 
+  Cardiac: HR 70's paced, BP stable 110-120/70 urine output still only 20-30cc/hr is on D5ns at 75cc/hr. 
+  Resp: on RA, O2 sat continues to be stable at >96% RR 18-20, 
+   GU: foley in place and draining well. 
+  GI: no stool, will have nausea if moved too fast in the bed.
+  IV: #18 angio in the left forearm, ? if starting to become sllightly reddened, good blood return, did attempt get new site however unsuccessfull will try warm compress to see if reddness improves. unable to get morning labs as [**Last Name (un) 3314**] collaspe.  
+",,
+13552,4836,,,2974-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-26**] 8:06 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1043**]
+     Reason: change in bleed (to be done 4-6 hours following first scan) 
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left parenchymal hemorrhage                              
+     REASON FOR THIS EXAMINATION:
+      change in bleed (to be done 4-6 hours following first scan)                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    [**Age over 90 **] y/o woman with left parenchymal hemorrhage.
+     
+     COMPARISON;  Same day at 2:58 p.m.
+     
+     TECHNIQUE:   Noncontrast head CT.
+     
+     FINDINGS:   Some of the images were degraded by motion artifact. Again seen is
+     a left posterior temporal lobe hemorrhage, unchanged from the prior study.
+     There is minimal mass effect on the adjacent sulci. The ventricles and
+     cisterns are prominent consistent with age related atrophy and are unchanged
+     from 7 hours prior.
+     
+     IMPRESSION:   No significant change in the posterior temporal lobe hemorrhage.
+     
+
+",,
+13552,4836,,,2974-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-26**] 4:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1042**]
+     Reason: look for infiltrate, aspiration
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with intracranial hemorrhage, fall
+     REASON FOR THIS EXAMINATION:
+      look for infiltrate, aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **] year old woman with intracranial hemorrhage, evaluate for
+     infiltrate.
+     
+     COMPARISON:  [**2974-6-18**].
+     
+     AP PORTABLE UPRIGHT CHEST RADIOGRAPH:  The patient is slightly rotated.  The
+     cardiomediastinal silhouette is unchanged in the interval.  Again seen is a
+     pacemaker in the left chest wall with its leads in stable position.  No
+     pneumothorax is seen.  The pulmonary vascularity is normal in appearance
+     without evidence of CHF.  No focal consolidations are seen.  No pleural
+     effusions.
+     
+     IMPRESSION:  No focal consolidations or congestive heart failure.
+
+",,
+13552,4836,,,2974-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-26**] 2:45 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1039**]
+     Reason: s/p unwitnessed fall                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p unwitnessed fall                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**2974-12-26**] 3:33 PM
+      left posterior temporal intraparenchymal hemorrhage, 3.2 cm, without any
+      significant mass effect due to generalized atrophy
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  Unwitnessed fall.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Comparison is made to the prior study of [**2974-6-23**].
+     Intraparenchymal hemorrhage is present within the left posterior temporal
+     lobe, measuring 3 cm in diameter.  There is minimal associated mass effect, as
+     the patient has age-appropriate generalized atrophy of the brain parenchyma.
+     There is no shift of the normally midline structures or hydrocephalus.  The
+     appearance of this hemorrhage is most consistent with underlying amyloid
+     angiopathy.
+     
+     There is moderate mucosal thickening within the ethmoid air cells bilaterally.
+     Prominent calcification is present within the cavernous carotid arteries.  The
+     visualized osseous structures are unremarkable.
+     
+     IMPRESSION:  Left temporal intraparenchymal hemorrhage, as described above.
+     
+
+",,
+13552,4836,,,2974-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-26**] 2:46 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1040**]
+     Reason: s/p fall                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p fall                                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**2974-12-26**] 3:56 PM
+      1. no fracture or malalignment
+      2. retropharyngeal and unusually medial course of left carotid artery, with
+      prominent calcifications at the bifurcation, creating risk of embolic stroke
+      during intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  Unwitnessed fall.
+     
+     TECHNIQUE:  Axial helical scanning of the cervical spine was performed without
+     intravenous contrast.  Sagittal and coronal reconstructions were obtained.
+     
+     FINDINGS:  There are no prior studies for comparison.  There is no
+     prevertebral soft-tissue swelling.  There is no evidence of fracture or
+     malalignment of the component vertebrae.  Mild degenerative changes are
+     present.
+     
+     The left carotid artery has a retropharyngeal course, approaching the midline,
+     with severe calcification at the bifurcation.  This anatomic variant puts the
+     patient at an increased risk of embolic stroke during attempts at intubation.
+     This was discussed with [**Doctor First Name 1041**] at the time of interpretation at approximately
+     4:00PM on [**2974-12-26**].
+     
+     IMPRESSION:
+     
+     1) No evidence of traumatic injury of the cervical spine.
+     
+     2) Retropharyngeal course of the left carotid artery, as discussed above.
+     
+     
+
+",,
+13552,4836,,,2974-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-26**] 2:46 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1040**]
+     Reason: s/p fall                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p fall                                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq MON [**2974-12-26**] 3:56 PM
+      1. no fracture or malalignment
+      2. retropharyngeal and unusually medial course of left carotid artery, with
+      prominent calcifications at the bifurcation, creating risk of embolic stroke
+      during intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  Unwitnessed fall.
+     
+     TECHNIQUE:  Axial helical scanning of the cervical spine was performed without
+     intravenous contrast.  Sagittal and coronal reconstructions were obtained.
+     
+     FINDINGS:  There are no prior studies for comparison.  There is no
+     prevertebral soft-tissue swelling.  There is no evidence of fracture or
+     malalignment of the component vertebrae.  Mild degenerative changes are
+     present.
+     
+     The left carotid artery has a retropharyngeal course, approaching the midline,
+     with severe calcification at the bifurcation.  This anatomic variant puts the
+     patient at an increased risk of embolic stroke during attempts at intubation.
+     This was discussed with [**Doctor First Name 1041**] at the time of interpretation at approximately
+     4:00PM on [**2974-12-26**].
+     
+     IMPRESSION:
+     
+     1) No evidence of traumatic injury of the cervical spine.
+     
+     2) Retropharyngeal course of the left carotid artery, as discussed above.
+     
+     
+
+",,
+13552,4836,,,2974-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-26**] 8:06 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1043**]
+     Reason: change in bleed (to be done 4-6 hours following first scan) 
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left parenchymal hemorrhage                              
+     REASON FOR THIS EXAMINATION:
+      change in bleed (to be done 4-6 hours following first scan)                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    [**Age over 90 **] y/o woman with left parenchymal hemorrhage.
+     
+     COMPARISON;  Same day at 2:58 p.m.
+     
+     TECHNIQUE:   Noncontrast head CT.
+     
+     FINDINGS:   Some of the images were degraded by motion artifact. Again seen is
+     a left posterior temporal lobe hemorrhage, unchanged from the prior study.
+     There is minimal mass effect on the adjacent sulci. The ventricles and
+     cisterns are prominent consistent with age related atrophy and are unchanged
+     from 7 hours prior.
+     
+     IMPRESSION:   No significant change in the posterior temporal lobe hemorrhage.
+     
+
+",,
+13552,4836,16867,,2974-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-27**] 9:57 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 1044**]
+     Reason: progression of bleed (to be done in AM [**2974-12-27**]), evidence f
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] yo woman with left parenchymal hemorrhage                                    
+     REASON FOR THIS EXAMINATION:
+      progression of bleed (to be done in AM [**2974-12-27**]), evidence for tumor            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left parenchymal hemorrhage follow-up.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     FINDINGS: Comparison is made to the non-contrast head CT of [**2974-12-26**].
+     The current study is limited by prominent patient motion. The left temporal
+     hemorrhage appears unchanged in size. The amount of surrounding edema is also
+     unchanged, with minimal mass effect secondary to the underlying age-
+     appropriate atrophy. There is no hydrocephalus. The osseous structures are
+     unchanged.
+     
+     IMPRESSION: Stable appearance of left temporal parenchymal hemorrhage. 
+
+",,
+13552,4836,16867,,2974-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-27**] 9:57 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 1044**]
+     Reason: progression of bleed (to be done in AM [**2974-12-27**]), evidence f
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] yo woman with left parenchymal hemorrhage                                    
+     REASON FOR THIS EXAMINATION:
+      progression of bleed (to be done in AM [**2974-12-27**]), evidence for tumor            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left parenchymal hemorrhage follow-up.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     FINDINGS: Comparison is made to the non-contrast head CT of [**2974-12-26**].
+     The current study is limited by prominent patient motion. The left temporal
+     hemorrhage appears unchanged in size. The amount of surrounding edema is also
+     unchanged, with minimal mass effect secondary to the underlying age-
+     appropriate atrophy. There is no hydrocephalus. The osseous structures are
+     unchanged.
+     
+     IMPRESSION: Stable appearance of left temporal parenchymal hemorrhage. 
+
+",,
+13552,4836,16867,0,2974-12-27 01:22:00 EST,2974-12-27 01:59:00 EST,2380,"N",69,"Nursing/Other","MICU NURSING PROGRESS NOTE. 7PM TO 7 AM.","
+MICU NURSING PROGRESS NOTE. 7PM TO 7 AM.
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+
+     Admitted to micu A from the e.w. at 1900 for lt intraparenchymal bleed.  Was pt at [**Hospital **] Rehab and fell this am.  Daughter noted pt had change in ms, poor speach.  Sent to [**Hospital1 10**].  Decreasing loc in ew, head ct showed 2x3cm intraparenchymal bleed.  Repeat ct at 2000 showed no notable increase in bleed.   Pt is DNR/DNI.
+
+    Neuro:  Unresponsive to verbal stimuli, responds to panful stimuli by w/d.  Speach is unintelligable, garbled.  Moving all extrem. on bed, no purpose noted. Unable to follow commands. Pupils are 3mm, lt is unresponsive, rt is responsive despite prior surgery.  Daughter reports during last admission [**6-11**] for lt mca cva pt was easily agitated by most stimuli incl. pneumo boots,bp cuffs, etc.  Daughter also reports that pt has had visual changes, blind spots in vision since cva.  Temperature max. 100.8 rectally   
+
+     Respiratory:  Lung sounds are clear.  RR 18-32 and irregular, non labored.  O2 saturation 97-100% on 3l nc.  Poor cough reflex.  At risk for aspiration, hob at 30 degrees.  
+
+     CV:  Atrial pacemaker, no ectopy noted, rate high 60's to low 70's.  Nbp 120's to 170's systolic.  Nipride gtt on/off for bp.  Is set for lowest dose when running, good response noted.  Goal for bp is 140's to 150's systolic.  IVF ns at 100cc/hr for 2 liters, 1 of 2 up at 1900.  2 # 18 in lt lower arm.  Potassium level 4.3 at 2200.
+
+     GI/GU:  Abdomen soft with + bs.  No bm this shift.  2 episodes of n/v green bile.  Hob at 30 degrees.  Last meal was at 11am.  Recived verbal order per Dr. [**Last Name (STitle) 1061**] for zofran 4 mg for nausea.  Foley catheter patent and draining clear yellow urine.  
+
+     Neuro:  Neuro checks ecvery 1 hr as of this time.  So far no changes noted since arrival to Micu.  Pt recieved dilantin load and is to recieve dose every 8 hrs, dilantin lvel 18.2 at 2000.  Repeat head ct at 2000 showed no icrease in size of bleed.  
+
+     Social:  Daghters and granddaughters in with pt, daughter stayed in rm all night.  Appear very caring and appropriatly concerned, do understand the potential outcomes.  Advised that removing c-collar could be detrimental to mothers wellbeing.  Daughter who is hcp reports understanding the risk of removing hard collar and placing soft collar on pt.  Wants mother to be comfortable.  NSICU team aware of daughters decision.  
+
+     Integument:  Skin appears to be in very good condition, no areas of breakdown noted.   Pt appear to have foot drop in lt foot, may be sequelie of polio.
+
+     Plan:  Continue neuro checks, give antiemetics as needed, monitor for sz activity and repeat ct incase of neurolic status changes.
+
+     
+",,
+13552,4836,16867,0,2974-12-27 06:30:00 EST,2974-12-27 06:35:00 EST,2380,"N",69,"Nursing/Other","Addendum to nursing progress note 11/18/03 7am","
+Addendum to nursing progress note [**2974-12-27**] 7am
+      Appears to be more alert, responding to stimuli, verbalizing with occn understandable words.  Iv site in lt wrist infiltrated, warm packs applied after iv removed.  Area is reddened and edemetous. New iv rt wrist, #18.
+",,
+13552,4836,16867,0,2974-12-27 18:13:00 EST,2974-12-27 18:28:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Pt c/o to floor, awaiting bed. Repeat CT this am showed no change in intraparenchymal bleed. also neg. for tumor. This am very agitated and confused. not following commands, repeatedly stating that she needed to go to the dentist. not able to be reoriented. repeatedly trying to get OOB. While at CT scan, pt given 2mg Ativan for agitation, would not lay still for scan. For remainder of day pt resting more comfortably and less agitated while enjoying residual ativan. no s/s of worsening bleed, hemodynamically stable.
+
+ROS-
+
+CV- A paced w/ rate of 70-72. BP this am elevated with agitation, did require nipride gtt briefly for hypertension. goal SBP <160. pt started in IV metoprolol w/ good effect. weak peripheral pulses. Afebrile.
+
+RESP- pt on RA, no cough, no SOB, LS clear but diminished at bases. o2 sats 93-99%.
+
+NEURO- not following commands. is able to make simple sentances, but does not interact appropriately. upper extermities in restraints d/t picking at IV's, foley and agitation. LE's in restraints periodically when trying to climb OOB. pupils 2-3cm, sluggish. restless. states, ""[**Last Name (un) **]!"" when stimulated, but shows no other s/s of pain. pt will require 1:1 sitter when on floor for safety. q2hr neuro checks. no sz activity.
+
+GI/GU- NPO, hypoactive BS's. no stool. foley draining approx 60-100cc/hr clear yellow urine. NS at 100cc/hr, to be HL'ed after current bag.
+
+SKIN- intact. 
+
+SOCIAL- daughter [**Name (NI) **] here most of the day, encouraged to go home and take care of herself (ie [**Doctor Last Name 8**], eat). wants to be called when pt is transferred to new bed. 
+
+PLAN- awaiting bed, keep SBP <160. q2hr neuro checks. keep HOB 30deg. monitor for safety and restrain as needed. 
+
+",,
+13552,4836,16867,,2974-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-28**] 12:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1045**]
+     Reason: [**Age over 90 **] year old woman with intracranial hemorrhage, fall, with i
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with intracranial hemorrhage, fall, with increasing WBC eval 
+      for infiltrate
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] year old woman with intracranial hemorrhage, fall, with increasing WBC eval 
+      for infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Elevated white blood cell count.
+     
+     A permanent pacemaker remains in place, unchanged in position.  The heart is
+     slightly enlarged and there is increasing vascular engorgement with
+     development of associated perihilar haziness and a subtle interstitial
+     pattern.  There are possible very small pleural effusions.
+     
+     IMPRESSION:  Interval development of CHF pattern with interstitial edema.  No
+     definite evidence of pneumonia, but follow up films after diuresis may be
+     helpful to exclude subtle underlying infection.
+
+",,
+13552,4836,16867,0,2974-12-28 03:07:00 EST,2974-12-28 03:31:00 EST,2380,"N",69,"Nursing/Other","MICU NURSING PROGRESS NOTE. 7PM TO 7AM","
+MICU NURSING PROGRESS NOTE. 7PM TO 7AM
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+
+     Neuro: Arouses to stimulus when being moved or manipulated in any way, opens eyes, occn moans or calls out.  W/d from painful stimulus, w/d from any stimulus.  Moving all extrem. on bed.  Temperature max. 97.4 axillary.  Neuro checks every 2 hrs negative, no changes noted during shift.  Negative sz activity.
+
+     Respiratory:  Lung sounds are clear in uppe fields, diminished in lower fields bilat.  RR 16-28 non labored.  O2 saturation 92-100%, placed on 3l nc for decreased sat.  No cough noted.
+
+     CV:  Atrial paced, rate 70-75 with rare pvc.  One episode of ventricular tachycardia lasting approx. 15 seconds, no interventions required, returned to atrial paced rhythm.  Nbp in 150's to 170's systolic.  Fair response to metoprolol.
+
+      GI/GU:  Abdomen soft with + bs.  Npo d/t aspiration precaution, Hob > 30 aspiration precations.  Small amt of stool on pad.  Foley catheter patent and draining clear yellow urine.
+
+      Social:  No calls from family overnight.
+
+       
+",,
+13552,4836,16867,0,2974-12-28 13:54:00 EST,2974-12-28 14:00:00 EST,1711,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+ FOR TRANSFER NOTE,PLS REFER TO  NOTE FROM [**2890-12-26**] IN TRANSFER NOTE SECTION OF CAREVIEW.
+
+ROS--
+CARDIAC--HR A PACED. OCCAS PVC'S, SBP 130-150. ON NO GTTS.
+
+RESP--R/A SAO2 91-94%. ON 3L NC WITH SAO2 95-98%. LUNGS CLEAR BUT DECREASED IN BASES BILATERALLY. NO COUGH.
+
+NEURO--NO MOVEMENT ON L SIDE. R SIDE CAN LIFT AND HOLD. DOES NOT FOLLOW COMMANDS. SPEECH IS MUMBLED. 
+
+GI--REMAINS NPO. INCONT. LGR AMTS OF FOUL SMELLING STOOL X2.
+
+GU--FOLEY CATH PATENT DRAINING >30 C HR OF CL. URINE.
+
+ENDO--UNREMARKABLE AT PRESENT.
+
+SKIN--INTACT.
+
+ID--AFEBRILE
+
+PAIN--UNABLE TO ASSESS. 
+
+COPING--DAUGHTER IN TO VISIT. SHE HAS ASKED SEVERAL QUESTIONS ABOUT TREATMENTS AND PLAN FOR HER MOTHER.
+
+DISPO--DNR/DNI. TRANSFER TO FLOOR WHEN BED AVAIL.
+",,
+13552,4836,16867,0,2974-12-28 17:33:00 EST,2974-12-28 17:37:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progress note 1500-1900","
+MICU nursing progress note 1500-1900
+Pt found to have mild CHF by CXR. Lasix 10mg IV given 16:30. Also, pt has been NPO, trialed with sips H2o and small amt ice cream so PO lopressor could be given and did well. No cough/asp. Lopressor changed from IV to PO for better control. Crushed and given in ice cream without difficulty. Please monitor U/O from Lasix. Meds preceded by Zofran for ? nausea.
+",,
+13552,4836,16867,,2974-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2974-12-29**] 5:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1046**]
+     Reason:   [**Age over 90 **] year old woman with intracranial hemorrhage, fall, with
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with intracranial hemorrhage, fall, with increasing WBC 
+      eval  for infiltrate/resolving CHF
+     REASON FOR THIS EXAMINATION:
+        [**Age over 90 **] year old woman with intracranial hemorrhage, fall, with increasing WBC 
+      eval  for infiltrate/resolving CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     COMPARISON:  [**2974-12-28**].
+     
+     SINGLE-VIEW CHEST, AP:  Unchanged perihilar interstitial opacities.  Bilateral
+     pleural effusions, left greater than right.  Unchanged cardiomegaly.  No
+     evidence of consolidation.
+     
+     IMPRESSION:  Unchanged mild LV heart failure.  No evidence of consolidation.
+
+",,
+13552,4836,16867,0,2974-12-29 06:46:00 EST,2974-12-29 07:22:00 EST,2404,"N",69,"Nursing/Other",,"
+
+D More awake currently . follow commands . speech is clearer but is not appropriate.noted to MAE. rt freely; lt arm minimally L leg when stimulated.pt verbalizing more and more. restless this am slept on and off through the night.
+CV:  A Paced Rare PVC.  See Care view for specific DATA. Palp DP.  Pt needs new IV with increase restlessness dislodged IV . IV NS with 40meg KCL to be started @ 75 and 40meg of PO Potasium to be given.
+GI: ABD soft BS present. 
+GU: foley to CD . Initially UO > 100 from lasix down to 30 this am.
+Lungs: clear in upper lobs slightly deminished to a few rales in bases noted.
+A pt Is confused and stable.
+R Transfer to floor when bed ready repleat Potasium . Obtain swallow study as ordered. place new IV.
+
+  
+",,

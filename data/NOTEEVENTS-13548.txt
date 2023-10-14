@@ -1,0 +1,1250 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 50398 CHG NEPHROTOMY/PYLOSTOMY TUBE  50394 INJ NEPHROSTOMY/PYLOSTOMY     *
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74425 ANTEGRADE UROGRAPHY            CATHETER, DRAINAGE                  *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC LESS THAN 100CC           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with s/o left nephroureteral stent 
+     REASON FOR THIS EXAMINATION:
+      please change left nephroureteral stent
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with malignant obstruction of the left ureter.
+     Nephroureteral stent placed on [**2593-9-24**].  The stent needs replacement.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Name5 (PTitle) 340**] & [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**],
+     the attending radiologist, was present during the entire procedure.
+     
+     MEDICATIONS:  Only Lidocaine 1%, approximately 10 cc, was used.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were discussed
+     with the patient and informed consent was obtained.  The patient was brought
+     to the angiography suite and placed in prone position.  A scout view was
+     obtained and demonstrates an 8 French 24-cm nephroureteral stent.
+     Approximately 10 cc of Optiray 320 was then injected through the catheter and
+     a tube nephrogram was obtained.  It demonstrates a nondilated collecting
+     system with an obstruction of the mid ureter.  This obstruction is unchanged
+     when compared to the prior studies.  The catheter was then cut to relieve the
+     pigtail device.  A 0.035 [**Last Name (un) 528**] wire was then introduced through the catheter
+     into the urinary bladder. The catheter was removed over the wire.  A new 8
+     French, 24-cm internal-external nephroureteral stent was then introduced over
+     the wire. The pigtail devices were deployed.  An antegrade nephrostogram was
+     then obtained and demonstrates the new catheter to be in appropriate position.
+      Distal pigtail loop is located in the urinary bladder, while the proximal
+     pigtail loop is located in the renal pelvis.  There is prompt emptying of
+     contrast into the urinary bladder through the catheter.  The patient tolerated
+     the procedure well and there were no complications.  The drain was attached to
+     the skin with a 0-Prolene suture, and a Stat-lock device was applied.
+     
+     CONTRAST:  Approximately 30 cc of nonionic IV contrast was used.
+     
+     IMPRESSION:  Successful exchange of an 8 French, 24-cm internal-external
+     nephroureteral stent.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 2:08 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 987**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: status of colon cancer and question of surgical removal
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with stage IV colon cancer and left flank pain. She has had
+      two cycles of chemotherapy with a good subjective response.
+     REASON FOR THIS EXAMINATION:
+      status of colon cancer and question of surgical removal
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Restage for colon cancer with left flank pain, question status of
+     colon cancer after chemotherapy.
+     
+     COMPARISON: [**2593-9-16**]
+     
+     TECHNIQUE: MDCT non-contrast followed by contrast-enhanced images of the
+     abdomen, with delayed images of the chest, abdomen and pelvis.  No
+     reformations were performed.  Oral and IV Optiray non-ionic contrast were
+     administered.
+     
+     CT ABDOMEN WITHOUT/WITH INTRAVENOUS CONTRAST:  There is minimal linear
+     atelectasis at the right lung base and right upper lobe.  The lungs are
+     otherwise clear.  The liver is unremarkable.  The gallbladder is not
+     visualized.  There is a small area of soft tissue attenuation with central fat
+     density in the left subhepatic recess, with minimal surrounding fat stranding.
+     This is unchanged from the prior study, and may represent a small lipoma v. an
+     epiploic appendage.  The spleen and pancreas are unremarkable. There are
+     multiple tiny mesenteric and retroperitoneal lymph nodes, the largest in the
+     periaortic region, measuring 8 mm, slightly smaller than the previous study.
+     No new pathologically enlarged lymphadenopathy is identified.
+      There is no free fluid or air within the abdomen.  Again identified, is a
+     large heterogeneous mass centered in the descending colon, and invading the
+     psoas muscle, unchanged and appearance from the previous study.  There has
+     been interval placement of a percutaneous left sided ureteral stent, in good
+     anatomic position.  There is mild periureteral stranding, however no evidence
+     of urinary tract obstruction or hydronephrosis.
+     
+     CT PELVIS WITHOUT/WITH IV CONTRAST:  No contrast was seen to flow distal to
+     the large descending colon mass, however there is no proximal bowel dilation
+     to indicate bowel obstruction.  The more distal bowel is unremarkable.  There
+     is no free air or air within the pelvis.  There is no evidence of
+     pathologically enlarged lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are detected.
+     
+     IMPRESSION:
+     1) Unchanged size and appearance of large heterogeneous mass centered on the
+     descending colon and invading the psoas muscle, likely represent recurrent
+     colon cancer.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 2:08 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 987**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: status of colon cancer and question of surgical removal
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2) Unchanged size and appearance of multiple sub-cm mesenteric and
+     retroperitoneal lymph nodes.
+     3) Satisfactory placement of left ureteral stent, without evidence of urinary
+     tract obstruction.
+     4) No contrast seen distal to the large descending colon mass, however no
+     secondary signs to suggest bowel obstruction.
+     
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 2:08 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 987**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: status of colon cancer and question of surgical removal
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with stage IV colon cancer and left flank pain. She has had
+      two cycles of chemotherapy with a good subjective response.
+     REASON FOR THIS EXAMINATION:
+      status of colon cancer and question of surgical removal
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Restage for colon cancer with left flank pain, question status of
+     colon cancer after chemotherapy.
+     
+     COMPARISON: [**2593-9-16**]
+     
+     TECHNIQUE: MDCT non-contrast followed by contrast-enhanced images of the
+     abdomen, with delayed images of the chest, abdomen and pelvis.  No
+     reformations were performed.  Oral and IV Optiray non-ionic contrast were
+     administered.
+     
+     CT ABDOMEN WITHOUT/WITH INTRAVENOUS CONTRAST:  There is minimal linear
+     atelectasis at the right lung base and right upper lobe.  The lungs are
+     otherwise clear.  The liver is unremarkable.  The gallbladder is not
+     visualized.  There is a small area of soft tissue attenuation with central fat
+     density in the left subhepatic recess, with minimal surrounding fat stranding.
+     This is unchanged from the prior study, and may represent a small lipoma v. an
+     epiploic appendage.  The spleen and pancreas are unremarkable. There are
+     multiple tiny mesenteric and retroperitoneal lymph nodes, the largest in the
+     periaortic region, measuring 8 mm, slightly smaller than the previous study.
+     No new pathologically enlarged lymphadenopathy is identified.
+      There is no free fluid or air within the abdomen.  Again identified, is a
+     large heterogeneous mass centered in the descending colon, and invading the
+     psoas muscle, unchanged and appearance from the previous study.  There has
+     been interval placement of a percutaneous left sided ureteral stent, in good
+     anatomic position.  There is mild periureteral stranding, however no evidence
+     of urinary tract obstruction or hydronephrosis.
+     
+     CT PELVIS WITHOUT/WITH IV CONTRAST:  No contrast was seen to flow distal to
+     the large descending colon mass, however there is no proximal bowel dilation
+     to indicate bowel obstruction.  The more distal bowel is unremarkable.  There
+     is no free air or air within the pelvis.  There is no evidence of
+     pathologically enlarged lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are detected.
+     
+     IMPRESSION:
+     1) Unchanged size and appearance of large heterogeneous mass centered on the
+     descending colon and invading the psoas muscle, likely represent recurrent
+     colon cancer.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 2:08 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 987**]
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST
+     Reason: status of colon cancer and question of surgical removal
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2) Unchanged size and appearance of multiple sub-cm mesenteric and
+     retroperitoneal lymph nodes.
+     3) Satisfactory placement of left ureteral stent, without evidence of urinary
+     tract obstruction.
+     4) No contrast seen distal to the large descending colon mass, however no
+     secondary signs to suggest bowel obstruction.
+     
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 50398 CHG NEPHROTOMY/PYLOSTOMY TUBE  50394 INJ NEPHROSTOMY/PYLOSTOMY     *
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74425 ANTEGRADE UROGRAPHY            CATHETER, DRAINAGE                  *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC LESS THAN 100CC           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with s/o left nephroureteral stent 
+     REASON FOR THIS EXAMINATION:
+      please change left nephroureteral stent
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with malignant obstruction of the left ureter.
+     Nephroureteral stent placed on [**2593-9-24**].  The stent needs replacement.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Name5 (PTitle) 340**] & [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**],
+     the attending radiologist, was present during the entire procedure.
+     
+     MEDICATIONS:  Only Lidocaine 1%, approximately 10 cc, was used.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were discussed
+     with the patient and informed consent was obtained.  The patient was brought
+     to the angiography suite and placed in prone position.  A scout view was
+     obtained and demonstrates an 8 French 24-cm nephroureteral stent.
+     Approximately 10 cc of Optiray 320 was then injected through the catheter and
+     a tube nephrogram was obtained.  It demonstrates a nondilated collecting
+     system with an obstruction of the mid ureter.  This obstruction is unchanged
+     when compared to the prior studies.  The catheter was then cut to relieve the
+     pigtail device.  A 0.035 [**Last Name (un) 528**] wire was then introduced through the catheter
+     into the urinary bladder. The catheter was removed over the wire.  A new 8
+     French, 24-cm internal-external nephroureteral stent was then introduced over
+     the wire. The pigtail devices were deployed.  An antegrade nephrostogram was
+     then obtained and demonstrates the new catheter to be in appropriate position.
+      Distal pigtail loop is located in the urinary bladder, while the proximal
+     pigtail loop is located in the renal pelvis.  There is prompt emptying of
+     contrast into the urinary bladder through the catheter.  The patient tolerated
+     the procedure well and there were no complications.  The drain was attached to
+     the skin with a 0-Prolene suture, and a Stat-lock device was applied.
+     
+     CONTRAST:  Approximately 30 cc of nonionic IV contrast was used.
+     
+     IMPRESSION:  Successful exchange of an 8 French, 24-cm internal-external
+     nephroureteral stent.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 50398 CHG NEPHROTOMY/PYLOSTOMY TUBE  50394 INJ NEPHROSTOMY/PYLOSTOMY     *
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74425 ANTEGRADE UROGRAPHY            CATHETER, DRAINAGE                  *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC LESS THAN 100CC           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with s/o left nephroureteral stent 
+     REASON FOR THIS EXAMINATION:
+      please change left nephroureteral stent
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with malignant obstruction of the left ureter.
+     Nephroureteral stent placed on [**2593-9-24**].  The stent needs replacement.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Name5 (PTitle) 340**] & [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**],
+     the attending radiologist, was present during the entire procedure.
+     
+     MEDICATIONS:  Only Lidocaine 1%, approximately 10 cc, was used.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were discussed
+     with the patient and informed consent was obtained.  The patient was brought
+     to the angiography suite and placed in prone position.  A scout view was
+     obtained and demonstrates an 8 French 24-cm nephroureteral stent.
+     Approximately 10 cc of Optiray 320 was then injected through the catheter and
+     a tube nephrogram was obtained.  It demonstrates a nondilated collecting
+     system with an obstruction of the mid ureter.  This obstruction is unchanged
+     when compared to the prior studies.  The catheter was then cut to relieve the
+     pigtail device.  A 0.035 [**Last Name (un) 528**] wire was then introduced through the catheter
+     into the urinary bladder. The catheter was removed over the wire.  A new 8
+     French, 24-cm internal-external nephroureteral stent was then introduced over
+     the wire. The pigtail devices were deployed.  An antegrade nephrostogram was
+     then obtained and demonstrates the new catheter to be in appropriate position.
+      Distal pigtail loop is located in the urinary bladder, while the proximal
+     pigtail loop is located in the renal pelvis.  There is prompt emptying of
+     contrast into the urinary bladder through the catheter.  The patient tolerated
+     the procedure well and there were no complications.  The drain was attached to
+     the skin with a 0-Prolene suture, and a Stat-lock device was applied.
+     
+     CONTRAST:  Approximately 30 cc of nonionic IV contrast was used.
+     
+     IMPRESSION:  Successful exchange of an 8 French, 24-cm internal-external
+     nephroureteral stent.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 50398 CHG NEPHROTOMY/PYLOSTOMY TUBE  50394 INJ NEPHROSTOMY/PYLOSTOMY     *
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74425 ANTEGRADE UROGRAPHY            CATHETER, DRAINAGE                  *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC LESS THAN 100CC           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with s/o left nephroureteral stent 
+     REASON FOR THIS EXAMINATION:
+      please change left nephroureteral stent
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with malignant obstruction of the left ureter.
+     Nephroureteral stent placed on [**2593-9-24**].  The stent needs replacement.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Name5 (PTitle) 340**] & [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**],
+     the attending radiologist, was present during the entire procedure.
+     
+     MEDICATIONS:  Only Lidocaine 1%, approximately 10 cc, was used.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were discussed
+     with the patient and informed consent was obtained.  The patient was brought
+     to the angiography suite and placed in prone position.  A scout view was
+     obtained and demonstrates an 8 French 24-cm nephroureteral stent.
+     Approximately 10 cc of Optiray 320 was then injected through the catheter and
+     a tube nephrogram was obtained.  It demonstrates a nondilated collecting
+     system with an obstruction of the mid ureter.  This obstruction is unchanged
+     when compared to the prior studies.  The catheter was then cut to relieve the
+     pigtail device.  A 0.035 [**Last Name (un) 528**] wire was then introduced through the catheter
+     into the urinary bladder. The catheter was removed over the wire.  A new 8
+     French, 24-cm internal-external nephroureteral stent was then introduced over
+     the wire. The pigtail devices were deployed.  An antegrade nephrostogram was
+     then obtained and demonstrates the new catheter to be in appropriate position.
+      Distal pigtail loop is located in the urinary bladder, while the proximal
+     pigtail loop is located in the renal pelvis.  There is prompt emptying of
+     contrast into the urinary bladder through the catheter.  The patient tolerated
+     the procedure well and there were no complications.  The drain was attached to
+     the skin with a 0-Prolene suture, and a Stat-lock device was applied.
+     
+     CONTRAST:  Approximately 30 cc of nonionic IV contrast was used.
+     
+     IMPRESSION:  Successful exchange of an 8 French, 24-cm internal-external
+     nephroureteral stent.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 50398 CHG NEPHROTOMY/PYLOSTOMY TUBE  50394 INJ NEPHROSTOMY/PYLOSTOMY     *
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74425 ANTEGRADE UROGRAPHY            CATHETER, DRAINAGE                  *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC LESS THAN 100CC           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with s/o left nephroureteral stent 
+     REASON FOR THIS EXAMINATION:
+      please change left nephroureteral stent
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with malignant obstruction of the left ureter.
+     Nephroureteral stent placed on [**2593-9-24**].  The stent needs replacement.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Name5 (PTitle) 340**] & [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**],
+     the attending radiologist, was present during the entire procedure.
+     
+     MEDICATIONS:  Only Lidocaine 1%, approximately 10 cc, was used.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were discussed
+     with the patient and informed consent was obtained.  The patient was brought
+     to the angiography suite and placed in prone position.  A scout view was
+     obtained and demonstrates an 8 French 24-cm nephroureteral stent.
+     Approximately 10 cc of Optiray 320 was then injected through the catheter and
+     a tube nephrogram was obtained.  It demonstrates a nondilated collecting
+     system with an obstruction of the mid ureter.  This obstruction is unchanged
+     when compared to the prior studies.  The catheter was then cut to relieve the
+     pigtail device.  A 0.035 [**Last Name (un) 528**] wire was then introduced through the catheter
+     into the urinary bladder. The catheter was removed over the wire.  A new 8
+     French, 24-cm internal-external nephroureteral stent was then introduced over
+     the wire. The pigtail devices were deployed.  An antegrade nephrostogram was
+     then obtained and demonstrates the new catheter to be in appropriate position.
+      Distal pigtail loop is located in the urinary bladder, while the proximal
+     pigtail loop is located in the renal pelvis.  There is prompt emptying of
+     contrast into the urinary bladder through the catheter.  The patient tolerated
+     the procedure well and there were no complications.  The drain was attached to
+     the skin with a 0-Prolene suture, and a Stat-lock device was applied.
+     
+     CONTRAST:  Approximately 30 cc of nonionic IV contrast was used.
+     
+     IMPRESSION:  Successful exchange of an 8 French, 24-cm internal-external
+     nephroureteral stent.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2593-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 50398 CHG NEPHROTOMY/PYLOSTOMY TUBE  50394 INJ NEPHROSTOMY/PYLOSTOMY     *
+     * -51 MULTI-PROCEDURE SAME DAY         75984 CHANGE PERC TUBE OR CATH W/CON*
+     * 74425 ANTEGRADE UROGRAPHY            CATHETER, DRAINAGE                  *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC LESS THAN 100CC           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with s/o left nephroureteral stent 
+     REASON FOR THIS EXAMINATION:
+      please change left nephroureteral stent
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with malignant obstruction of the left ureter.
+     Nephroureteral stent placed on [**2593-9-24**].  The stent needs replacement.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Name5 (PTitle) 340**] & [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**],
+     the attending radiologist, was present during the entire procedure.
+     
+     MEDICATIONS:  Only Lidocaine 1%, approximately 10 cc, was used.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were discussed
+     with the patient and informed consent was obtained.  The patient was brought
+     to the angiography suite and placed in prone position.  A scout view was
+     obtained and demonstrates an 8 French 24-cm nephroureteral stent.
+     Approximately 10 cc of Optiray 320 was then injected through the catheter and
+     a tube nephrogram was obtained.  It demonstrates a nondilated collecting
+     system with an obstruction of the mid ureter.  This obstruction is unchanged
+     when compared to the prior studies.  The catheter was then cut to relieve the
+     pigtail device.  A 0.035 [**Last Name (un) 528**] wire was then introduced through the catheter
+     into the urinary bladder. The catheter was removed over the wire.  A new 8
+     French, 24-cm internal-external nephroureteral stent was then introduced over
+     the wire. The pigtail devices were deployed.  An antegrade nephrostogram was
+     then obtained and demonstrates the new catheter to be in appropriate position.
+      Distal pigtail loop is located in the urinary bladder, while the proximal
+     pigtail loop is located in the renal pelvis.  There is prompt emptying of
+     contrast into the urinary bladder through the catheter.  The patient tolerated
+     the procedure well and there were no complications.  The drain was attached to
+     the skin with a 0-Prolene suture, and a Stat-lock device was applied.
+     
+     CONTRAST:  Approximately 30 cc of nonionic IV contrast was used.
+     
+     IMPRESSION:  Successful exchange of an 8 French, 24-cm internal-external
+     nephroureteral stent.
+                                                                 (Over)
+
+     DATE: [**2593-12-24**] 7:32 AM
+     URINARY DILATA                                                  Clip # [**Clip Number (Radiology) 986**]
+     Reason: please change left nephroureteral stent
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,23106,,,2594-01-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2594-1-10**]              Discharge Date:   [**2594-1-18**]
+ 
+Date of Birth:  [**2539-12-18**]             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1013**] 
+Chief Complaint:
+Admit for planned surgery
+ 
+Major Surgical or Invasive Procedure:
+Left colectomy
+Small Bowel Resection
+Excision of Retroperitoneal mass
+Left uretero-ureterostomy
+
+ 
+History of Present Illness:
+51-year-old female with sigmoid
+lesion discovered during surveillance colonoscopy for
+reassessment of sessile polyp.  Family history of colon
+cancer, biopsy proven hyperplasia, plastic polyp at 50 cm
+with 270 degree growing sessile lesions at approximately 35
+cm. Pt underwent sigmoid colectomy in [**2590**], and presented 
+recently with new-onset L leg weakness. Evaluation revelaed a 
+large mass from the L colon invading the psoas muscle. She is 
+admitted for subtotal colectomy and possible colostomy.
+
+ 
+Past Medical History:
+1. Colon CA s/p sigmoid colectomy in '[**90**]. No chemo or rad tx.
+2. Report of multiple episodes of bleeding; hematologic workup 
+and two workups for vWF have been normal.
+3. Uterine CA s/p TAH BSO 1999
+4. HTN
+5. Anxiety/depression
+7. Cervical neuropathy
+8. Hep C
+9. OA
+10. Asthma
+11. H/o EtOH abuse
+12. CCY 2003 
+13. Appendectomy
+14. Tonsillectomy
+15. Ventral hernia repair
+ 
+Social History:
+Quit tob and EtOH last month. EtOH: [**12-15**] pint of rum 2-3x/week. 
+On nicotine patch. No IVDU. On disability. Lives with daughter, 
+granddaughter, and ex-husband.
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Physical exam on discharge:
+
+VS: 98.0 103 110/70 20 96%RA
+REgular rate and rhythm
+Clear lung fields
+Abd soft, mildly distended, with good healing of surgical 
+incision.
+
+ 
+Pertinent Results:
+[**2594-1-11**] 11:50AM BLOOD Hct-23.6*
+[**2594-1-12**] 12:10AM BLOOD WBC-14.7* RBC-3.65* Hgb-10.6* Hct-30.5* 
+MCV-84 MCH-29.1 MCHC-34.8 RDW-15.9* Plt Ct-303
+[**2594-1-13**] 07:28PM BLOOD Hct-26.9*
+[**2594-1-17**] 04:59AM BLOOD WBC-13.2* RBC-3.40* Hgb-9.8* Hct-29.5* 
+MCV-87 MCH-29.0 MCHC-33.4 RDW-16.0* Plt Ct-475*
+ 
+Brief Hospital Course:
+Pt admitted on day of surgery. She tolerated the procedure well 
+and was transferred to the SICU post-operatively, as she 
+remained intubated. She was extubated on [**1-11**], and continued to 
+do well. On [**1-12**], it was noted that her hematocrit had dropped 
+to 23 from 30, and she was transfused 2 Units. No source of 
+bleeding was found after extensive examination. Pt's SICU course 
+was otherwise uneventful, and she was transferred to the floor 
+on [**1-14**]. Here she continued to do well, with stable crits, vital 
+signs, and a generally reassuring course. ALthough the output 
+from her [**Location (un) 767**]-[**Location (un) 1527**] drain remained elevated, the creatinine 
+of this fluid was reassuring that there was no urine leak, and 
+the drain was removed. She began tolerating oral intake on [**1-16**], 
+and by [**1-18**] was doing very well. She was discharged home with 
+services, and instructed to return to clinic for follow up.
+ 
+Medications on Admission:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+2. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).  
+3. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+4. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig: 
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).  
+5. Venlafaxine HCl 75 mg Capsule, Sust. Release 24HR Sig: One 
+(1) Capsule, Sust. Release 24HR PO DAILY (Daily).  
+
+ 
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+2. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).  
+3. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+4. Zolpidem Tartrate 5 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime) as needed.  
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+6. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig: 
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).  
+7. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 
+ 
+8. Venlafaxine HCl 75 mg Capsule, Sust. Release 24HR Sig: One 
+(1) Capsule, Sust. Release 24HR PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Metastatic Adenocarcinoma of Colon
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Please keep wound area clean.  Please perform sterile wet to dry 
+dressing changes with sterile saline water twice daily to open 
+wound area.  Take medications as prescribed.
+ 
+Followup Instructions:
+Please call Dr.[**Doctor Last Name 9257**] office at [**Telephone/Fax (1) 4820**] within one week 
+after discharge to schedule a follow-up appointment. 
+ 
+
+ 
+PLEASE CALL DR [**First Name (STitle) **] [**Name (STitle) **] OFFICE in 2-3 Wks for f/u and 
+removal of URETERAL STENT.  
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD, [**MD Number 1019**]
+ 
+Completed by: [**Name6 (MD) 1127**] [**Last Name (NamePattern4) 1128**] MD [**MD Number 1129**] [**2594-4-9**] @ 0957
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**2594-4-14**] 5:19 PM
+(End of Report)
+
+
+",,
+13548,23106,16862,0,2594-01-11 04:48:00 EST,2594-01-11 05:08:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+Admission note:
+
+Prior hx of Sigmoid colon CA w/sigmoid colectomy in [**2590**] for lession. Now w/large mass  from the left colon. Had left nephrostomy and stent for left ureteral obstruction, nephrostomy tube dc'd. Now presents post 12 hour OR case for laparotomy, left colectomy, small bowel reection, takedown of splenic flexure, excision retroperitoneal mass, left uretero-ureterostomy w/mobilization of left kidney and bladder, stent placement left ureter.
+
+Admitted to room 682 from OR in bed. Connected to monitors and initial assessment completed and as noted in Care view flow record.
+
+ROS:
+
+Neuro: opens eyes to verbal stim. Grasps hand slightly to command bilaterally. Slight wiggle of toes to command. On propofol at 50 mcg, beginning to wean this down to facilitate extubation this AM. PEARRLA.
+
+CV: Sinus tach->RSR w/o ectopy. VSS, see flow record for details. Has right IJ w/prox port transduced for CVP = 8->12. Has right radial ABP line. Peripheral pulses palpable w/ease.  Fluid bolus given around 0100 for tachycardia w/relief. Heparin and P boots prophylacticly.
+
+Resp: Orally intubated and on vent SIMV 600x10, 40%, Peep 5, PS 5. Sx w/o return of secreations. Lung sounds w/fine rhonci before sx to clear post sx. No resp distress noted, = rise and fall of chest. 
+
+GI: Abd w/mid line incision intact w/staples. DSD w/o drainage. Soft/round w/o bowel sounds. Protonix prophylactily. No GI tube. Has JP drain to bulb sx draining large amt of serosang fluid (HO aware). 
+
+GU: Foley patent draining clear pink->red urine in marginal amt. Fluid bolus at 0430 for lower urine output.
+
+Endo: FSG not requiring coverage w/insulin
+
+Social: Update to husband via phone at MN
+
+Plan: pain management, wean sedation and vent, extubate.
+",,
+13548,23106,16862,1,2594-01-11 05:46:00 EST,2594-01-11 05:51:00 EST,4312,"Y",54,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+RSBI completed on PS 5=24.
+",,
+13548,23106,16862,0,2594-01-11 05:46:00 EST,2594-01-11 05:49:00 EST,4312,"N",54,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt received from OR intubated and fully ventilated on SIMV settings.  Changed to PS 5, Peep 5 @ 0500.  Vt=600, Ve=[**7-23**], RR=15.  [**Name6 (MD) 190**] from MD is to extubate this AM.
+
+                             [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT  
+",,
+13548,23106,16862,0,2594-01-11 16:43:00 EST,2594-01-11 17:23:00 EST,3433,"N",54,"Nursing/Other","NPN 0700-1700","
+NPN 0700-1700
+   Pt alert and orientated x 3. C/o incisional pain with mild relief from PRN MSO4. PCA started and pain control better, using appropriately.  MAEs, pt has h/o LLE weakness from pressure from tumor but no obvious defeciet with limited exam. Pt states she has anxiety disorder, HO aware pt would like antianxiety meds, states he will talk to her.
+
+  Pt extubated today in am and doing well. Placed on Face Tent and then changed to 4lnc with adeq sats. Lungs clear with few crackles in bases. Pt cooperative with coughing and IS but needs encouragement and coaching. Tends to cough weakly. Teaching with PCA and splinting done. 
+
+  ST in 120s, on lopressor. Rate into low 100s when asleep. HTN in evening. Afebrile. HCT dropped this afternoon and 2u PRBCs transfused. Mag repleted. Skin w/d. Drainage on abd dressing marked, no new since this morning. JP with large amt serosanginous drainage, sample sent for creatinine per Urology team. 
+
+  Pt c/o nausea throughout day, treated with anzamet, reglan and phenergan. Pt states she had severe nausea after last surgery as well.
+Pt does not have NGT. +BS and +belching. No flatus. UO increasing in afternoon.
+
+Plan- Coags and repeat HCT when blood finishes. 
+
+Husband in to visited and updated.
+",,
+13548,23106,16862,0,2594-01-12 05:39:00 EST,2594-01-12 05:59:00 EST,5248,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+Please see CareVue for specifics.
+
+Pt condition stable overnight.
+
+RESP:
+Tolerating nasal cannula well.  Good oxygenation on 4L.  Chest clear but very diminished.  Pt needs encouragement to take deep breaths.  Has weak, non productive cough.  Using incentive spirometer with encouragement.
+
+NEURO:
+Pt has slept well, wakes easily, oriented and pleasant.  Complained of pain, reminded to use PCA.  Nausea resolved with addition of regular metoclopramide and prn promethazine.  Complained of anxiety at commencement of shift and requested her home meds, but due to NPO status, pt received IV ativan with good effect.
+Still complaining of pain to left leg, but this is pre-exisiting condition, unchanged per pt, peripheries well perfused.
+
+HEMODYNAMICALLY:
+SR, no ectopy.  Rate slowed with metoprolol.  Peripheries warm and well perfused.  Hypertension resolving.
+HCT stable.
+LR continues at 150/hr.  Lytes repleted.
+
+ID:
+Afebrile, mildly diaphoretic.  Cefazolin continues.
+
+RENAL:
+Satisfactory urine output.
+
+SKIN:
+Blister to Left posterior hip is pink, open to air.
+Abd incision- primary dressing intact with old ooze, nil new.  JP drain is draining declining volumes of fluid- initially hemoserous, now straw colored slightly bloodstained.
+
+SOCIAL:
+No visitors overnight.
+
+PLAN:
+Possible transfer out today.
+Watch HCT and renal function.
+",,
+13548,23106,16862,0,2594-01-12 18:48:00 EST,2594-01-12 18:56:00 EST,3433,"N",54,"Nursing/Other","npn 0700-1900","
+npn 0700-1900
+Pt neurologically intact. MAEs, L neuropathy present prior to admission. Pt able to get OOB to chair with min assist of 2, lle weaker aand painful with ambulation.
+
+On 2lnc. Pt freq using IS independently. Able to get 750 but does try for 1000cc. Lower lobes very diminished. NP weak cough.
+
+Cv stable, see carevue. Lopressor dose increased to 10mg q6, only 5 given at 1800 for bp 120s. Hr sr in 70s-80s. Afebrile. Abd wound oozing ss drainage and changed at 1600. JP output appr 550cc.
+
+Abd soft, +bs. C/o nausea x 1 this am and again with getting OOB, which resolved when at rest. No BM. adeq UO.
+
+Awaiting floor bed to transfer.
+",,
+13548,,,,2594-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-20**] 1:39 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 988**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT of torso (chest, addomen, and pelvis) WITH contrast.  Pt 
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with h/o retroperitoneal mass
+     REASON FOR THIS EXAMINATION:
+      CT of torso (chest, addomen, and pelvis) WITH contrast.  Pt is s/p surgical
+      procedure for low anterior resection with resection of left retroperotoneal
+      mass and a radical nephrectomy on [**2594-1-10**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 54-year-old woman with history of retroperitoneal mass status post
+     low anterior resection and resection of mass.
+     
+     COMPARISON:  [**2593-12-24**].
+     
+     TECHNIQUE:  Multidetector axial images were obtained from the lung apices to
+     the pubic symphysis with oral and IV contrast.  150 Ml Optiray.
+     
+     CT chest with IV contrast:  There is no axillary, mediastinal, or hilar
+     lymphadenopathy.  The heart, pericardium, and great vessels are within normal
+     limits.  No pulmonary nodules are identified.  Atelectasis and scarring in the
+     right lower lobe is again noted.  There are no pleural or pericardial
+     effusions.
+     
+     CT abdomen without and with IV contrast:  The liver, pancreas, spleen, adrenal
+     glands, and right kidney,  and bowel loops are within normal limits.  There
+     has been removal of the left NU stent.  There is prominence of the left ureter
+     but no hydronephrosis is seen.  Contrast is observed passing into the bladder.
+     There is no free air or free fluid.  There has been interval increase in size
+     of multiple retroperitoneal and portal nodes.  Several of these nodes adjacent
+     to the aorta and IVC measure over 10 mm in short axis.
+     
+     CT pelvis with IV contrast:  The bladder and distal bowel are within normal
+     limits.  Some residual stranding is noted at the left retroperitoneal
+     resection site.  No definite enhancing lesion is identified at this location.
+     Prominent nodes are noted at the aortic bifurcation.  There is no free fluid
+     and no inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  No definite recurrence of retroperitoneal mass.
+     2.  Interval increase in retroperitoneal and portal lymphadenopathy.
+     
+                                                                 (Over)
+
+     DATE: [**2594-3-20**] 1:39 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 988**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT of torso (chest, addomen, and pelvis) WITH contrast.  Pt 
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2594-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-20**] 1:39 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 988**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT of torso (chest, addomen, and pelvis) WITH contrast.  Pt 
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with h/o retroperitoneal mass
+     REASON FOR THIS EXAMINATION:
+      CT of torso (chest, addomen, and pelvis) WITH contrast.  Pt is s/p surgical
+      procedure for low anterior resection with resection of left retroperotoneal
+      mass and a radical nephrectomy on [**2594-1-10**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 54-year-old woman with history of retroperitoneal mass status post
+     low anterior resection and resection of mass.
+     
+     COMPARISON:  [**2593-12-24**].
+     
+     TECHNIQUE:  Multidetector axial images were obtained from the lung apices to
+     the pubic symphysis with oral and IV contrast.  150 Ml Optiray.
+     
+     CT chest with IV contrast:  There is no axillary, mediastinal, or hilar
+     lymphadenopathy.  The heart, pericardium, and great vessels are within normal
+     limits.  No pulmonary nodules are identified.  Atelectasis and scarring in the
+     right lower lobe is again noted.  There are no pleural or pericardial
+     effusions.
+     
+     CT abdomen without and with IV contrast:  The liver, pancreas, spleen, adrenal
+     glands, and right kidney,  and bowel loops are within normal limits.  There
+     has been removal of the left NU stent.  There is prominence of the left ureter
+     but no hydronephrosis is seen.  Contrast is observed passing into the bladder.
+     There is no free air or free fluid.  There has been interval increase in size
+     of multiple retroperitoneal and portal nodes.  Several of these nodes adjacent
+     to the aorta and IVC measure over 10 mm in short axis.
+     
+     CT pelvis with IV contrast:  The bladder and distal bowel are within normal
+     limits.  Some residual stranding is noted at the left retroperitoneal
+     resection site.  No definite enhancing lesion is identified at this location.
+     Prominent nodes are noted at the aortic bifurcation.  There is no free fluid
+     and no inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  No definite recurrence of retroperitoneal mass.
+     2.  Interval increase in retroperitoneal and portal lymphadenopathy.
+     
+                                                                 (Over)
+
+     DATE: [**2594-3-20**] 1:39 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 988**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT of torso (chest, addomen, and pelvis) WITH contrast.  Pt 
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2594-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-30**] 11:00 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 989**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: status of metastatic colon cancer
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with met. colon cancer
+     REASON FOR THIS EXAMINATION:
+      status of metastatic colon cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT chest, abdomen and pelvis.
+     
+     INDICATION:  Metastatic colon cancer, follow up progression.
+     
+     TECHNIQUE:  Multidetector acquired axial images from the thoracic inlet to the
+     pubic symphysis were displaced with 5-mm slice thickness with no constrast and
+     multi-phasic contrast imaging.
+     
+     CT ABDOMEN WITH CONTRAST:  No pleural effusions, nodules, or opacities are
+     present at the lung bases.  The liver appears normal with no masses
+     identified.  The pancreas and spleen, adrenal glands appear normal.  There is
+     a small 1.5-cm lesion in the left posterior inferior aspect of the kidney that
+     demonstrates wall enhancement and an irregular wall.  Compared to previous
+     study 3 months ago, there is growth of this lesion from 1 cm to 2cm. The small
+     and large bowel is unchanged from previous study. There is an incidental note
+     of an epiploic appendage in the transverse colon that is also present on
+     previous study.  There are no masses in the left lower quadrant identified.
+     There is some lymphadenopathy present within the abdomen, but all lymph nodes
+     have decreased in size compared to [**2594-3-20**]. There is no free fluid.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The distal large bowel is unchanged from
+     comparison study.  The bladder is normal.  The uterus is not well visualized.
+     
+     BONE WINDOWS:  The osseous structures are unremarkable.  There are no bone
+     lesions noted.
+     
+     IMPRESSION:
+     
+     1.  Improved lymphadenopathy, no new pathology noted in left lower quadrant.
+     
+     2.  2cm left renal lesion increased in size in comparison to the prior study.
+     This is concerning for renal cell carcinoma and could be further evaluated
+     with MRI.
+     
+     A message was left with Dr.[**Doctor Last Name 990**] office.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2594-7-30**] 11:00 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 989**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: status of metastatic colon cancer
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2594-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-30**] 11:00 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 989**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: status of metastatic colon cancer
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with met. colon cancer
+     REASON FOR THIS EXAMINATION:
+      status of metastatic colon cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT chest, abdomen and pelvis.
+     
+     INDICATION:  Metastatic colon cancer, follow up progression.
+     
+     TECHNIQUE:  Multidetector acquired axial images from the thoracic inlet to the
+     pubic symphysis were displaced with 5-mm slice thickness with no constrast and
+     multi-phasic contrast imaging.
+     
+     CT ABDOMEN WITH CONTRAST:  No pleural effusions, nodules, or opacities are
+     present at the lung bases.  The liver appears normal with no masses
+     identified.  The pancreas and spleen, adrenal glands appear normal.  There is
+     a small 1.5-cm lesion in the left posterior inferior aspect of the kidney that
+     demonstrates wall enhancement and an irregular wall.  Compared to previous
+     study 3 months ago, there is growth of this lesion from 1 cm to 2cm. The small
+     and large bowel is unchanged from previous study. There is an incidental note
+     of an epiploic appendage in the transverse colon that is also present on
+     previous study.  There are no masses in the left lower quadrant identified.
+     There is some lymphadenopathy present within the abdomen, but all lymph nodes
+     have decreased in size compared to [**2594-3-20**]. There is no free fluid.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The distal large bowel is unchanged from
+     comparison study.  The bladder is normal.  The uterus is not well visualized.
+     
+     BONE WINDOWS:  The osseous structures are unremarkable.  There are no bone
+     lesions noted.
+     
+     IMPRESSION:
+     
+     1.  Improved lymphadenopathy, no new pathology noted in left lower quadrant.
+     
+     2.  2cm left renal lesion increased in size in comparison to the prior study.
+     This is concerning for renal cell carcinoma and could be further evaluated
+     with MRI.
+     
+     A message was left with Dr.[**Doctor Last Name 990**] office.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2594-7-30**] 11:00 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 989**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: status of metastatic colon cancer
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2594-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-11-5**] 8:22 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 991**]
+     MR RECONSTRUCTION IMAGING
+     Reason: left kidney mass noted on prior ct and mri suggested
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with met. colon ca and left renal mass.
+     REASON FOR THIS EXAMINATION:
+      left kidney mass noted on prior ct and mri suggested
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left kidney mass noted on prior CT scan.  Metastatic colon
+     cancer.
+     
+     COMPARISON:  CT torso [**2594-3-20**], and [**2594-7-30**].
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted gadolinium-enhanced MR of the
+     abdomen with 3D subtraction images and multiplanar workstation reformatted
+     images.
+     
+     FINDINGS:  The left kidney is partially malrotated.  At the lower pole of the
+     left kidney medially, there is a 1.1 x 1.2 x 1.3 cm lesion which is low signal
+     on T2-weighted images, similar in signal to the renal parenchyma on T1 images,
+     does not drop signal on out-of phase images, and which demonstrates thin
+     peripheral enhancement without internal septation or nodularity following
+     gadolinium administration.  This is consistent with a cyst and does not
+     demonstrate any concerning features.  The size of the lesion on today's exam
+     is similar to that seen on the CT torso of [**2594-3-20**], and is unlikely to
+     have grown in the interval.  The apparent increase in size on the CT torso
+     from [**2594-7-30**], may relate to differences in position due to respiratory
+     motion.  The remainder of the left kidney appears normal.  The right kidney
+     appears normal.
+     
+     There is a tiny T2 bright lesion within the right lobe of the liver, which
+     does not enhance and is consistent with a simple cyst.  The liver is not
+     completely imaged on this exam, but no other lesions are seen.  The spleen,
+     pancreas, adrenal glands, and biliary tree are within normal limits.  The
+     gallbladder is not visualized.  There is some fluid adjacent to the tail of
+     the pancreas.  A small retrocrural nodule on the left measuring 8 x 14 mm is
+     noted, corresponding to a small soft tissue nodule on the prior study, and may
+     represent a lymph node.  Small paraaortic nodes are also noted which do not
+     meet strict criteria for pathologic enlargement.  The aorta is normal in
+     caliber.  There is no free peritoneal fluid.  The osseous structures are
+     grossly unremarkable.
+     
+     3D subtraction images and workstation reformatted images were essential in
+     assessing the left renal lesion.
+     
+     IMPRESSION:
+     1.  11 x 12 x 13 mm nodule at the lower pole of the left kidney with thin
+     enhancing rim, but without internal architecture, nodular enhancement, or
+     septation.  This is consistent with a cyst, and is unchanged in size compared
+                                                                 (Over)
+
+     DATE: [**2594-11-5**] 8:22 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 991**]
+     MR RECONSTRUCTION IMAGING
+     Reason: left kidney mass noted on prior ct and mri suggested
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     to the [**2594-3-20**] exam.  Patient may return to a CT followup for this
+     lesion.
+     2.  Small retrocrural and paraaortic nodes, similar in size to the recent
+     prior CT scan.
+     3.  Small amount of fluid adjacent to the tail of the pancreas of uncertain
+     significance.
+     
+
+",,
+13548,,,,2595-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2595-1-1**] 9:13 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 992**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Status of recurrent colon cancer compared to last scan
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with colon cancer
+     REASON FOR THIS EXAMINATION:
+      Status of recurrent colon cancer compared to last scan
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Follow up colon cancer.
+     
+     COMPARISON:  [**2594-7-30**].
+     
+     TECHNIQUE:  Axial images through the abdomen prior to and following
+     administration of IV contrast.  Axial contrast images through the chest and
+     pelvis.  Multiplanar reformats were performed.
+     
+     CT OF THE CHEST WITH CONTRAST:  There are no pathologically enlarged axillary,
+     hilar, or mediastinal lymph nodes.  The great vessels and heart are normal. 
+     There are no pulmonary nodules.  There is an area of thickening along the left
+     major fissure.  There are no pleural or pericardial effusions.  The airways
+     are patent to the level of the subsegmental bronchi bilaterally.  There is
+     also thickening along the right major fissure.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST.  There is a small low
+     attenuation at the dome of the liver, and another within the right lobe, too
+     small to characterize, but unchanged.  The spleen, right kidney, pancreas, and
+     both adrenal glands are normal.  The gallbladder is not identified.  There is
+     an area of low attenuation, approximately 1 cm in the left kidney, consistent
+     with the cyst seen on the recent MRI.  There is normal-appearing small bowel. 
+     There is evidence of stable stranding within the left abdomen, in the region
+     of prior surgery.  There is no free air or free fluid.  There are stable 5 mm
+     left paraaortic lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is a 2 x 2 cm soft tissue mass on
+     series 3, image 89 adjacent to the distal descending, proximal sigmoid colon. 
+     This measures 2 x 2 cm, and likely represents a lymph node.  The remainder of
+     the large and small bowel are unremarkable.  There is no free fluid.  There
+     are no pathologically enlarged inguinal lymph nodes.  The bladder is normal. 
+     The uterus and ovaries are not identified.
+     
+     BONE WINDOWS:  There are no suspicious lesions.
+     
+     IMPRESSION:
+     1.  New 2 cm soft tissue mass adjacent to the distal descending/proximal
+     sigmoid colon, likely representing lymphadenopathy and concerning for disease
+     recurrence.
+     2.  Left renal lesion consistent with the recent MRI which showed a cyst.  Dr.
+     [**Last Name (STitle) 32**] was attempted to be paged, next attempt will be made again tomorrow.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2595-1-1**] 9:13 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 992**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Status of recurrent colon cancer compared to last scan
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13548,,,,2595-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2595-1-1**] 9:13 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 992**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Status of recurrent colon cancer compared to last scan
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with colon cancer
+     REASON FOR THIS EXAMINATION:
+      Status of recurrent colon cancer compared to last scan
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Follow up colon cancer.
+     
+     COMPARISON:  [**2594-7-30**].
+     
+     TECHNIQUE:  Axial images through the abdomen prior to and following
+     administration of IV contrast.  Axial contrast images through the chest and
+     pelvis.  Multiplanar reformats were performed.
+     
+     CT OF THE CHEST WITH CONTRAST:  There are no pathologically enlarged axillary,
+     hilar, or mediastinal lymph nodes.  The great vessels and heart are normal. 
+     There are no pulmonary nodules.  There is an area of thickening along the left
+     major fissure.  There are no pleural or pericardial effusions.  The airways
+     are patent to the level of the subsegmental bronchi bilaterally.  There is
+     also thickening along the right major fissure.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST.  There is a small low
+     attenuation at the dome of the liver, and another within the right lobe, too
+     small to characterize, but unchanged.  The spleen, right kidney, pancreas, and
+     both adrenal glands are normal.  The gallbladder is not identified.  There is
+     an area of low attenuation, approximately 1 cm in the left kidney, consistent
+     with the cyst seen on the recent MRI.  There is normal-appearing small bowel. 
+     There is evidence of stable stranding within the left abdomen, in the region
+     of prior surgery.  There is no free air or free fluid.  There are stable 5 mm
+     left paraaortic lymph nodes.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is a 2 x 2 cm soft tissue mass on
+     series 3, image 89 adjacent to the distal descending, proximal sigmoid colon. 
+     This measures 2 x 2 cm, and likely represents a lymph node.  The remainder of
+     the large and small bowel are unremarkable.  There is no free fluid.  There
+     are no pathologically enlarged inguinal lymph nodes.  The bladder is normal. 
+     The uterus and ovaries are not identified.
+     
+     BONE WINDOWS:  There are no suspicious lesions.
+     
+     IMPRESSION:
+     1.  New 2 cm soft tissue mass adjacent to the distal descending/proximal
+     sigmoid colon, likely representing lymphadenopathy and concerning for disease
+     recurrence.
+     2.  Left renal lesion consistent with the recent MRI which showed a cyst.  Dr.
+     [**Last Name (STitle) 32**] was attempted to be paged, next attempt will be made again tomorrow.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2595-1-1**] 9:13 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 992**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Status of recurrent colon cancer compared to last scan
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,

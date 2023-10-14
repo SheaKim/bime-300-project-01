@@ -1,0 +1,832 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13590,,,,2906-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-11-28**] 11:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1453**]
+     Reason: size of bleed                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with L posterior temporal hematoma 1.7 cm seen on MRI today     
+     REASON FOR THIS EXAMINATION:
+      size of bleed                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**2906-11-28**] 11:42 PM
+      1.5cm round focus of acute blood products in the left temporal lobe with
+      surrounding edema.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left posterior temporal hematoma of 1.5 cm seen on MRI today.
+     Evaluate size of bleed.
+     
+     COMPARISON:  No studies are available for comparison.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is a 1.5 cm round hyperdense focus in the left temporal lobe
+     consistent with acute blood products.  There is a surrounding area of
+     hypodensity consistent with vasogenic edema.  However, the edema is
+     asymmetric with little hypodensity superficial to the bleed.  This could
+     be due to an underlying mass occupying this area. An MRI with gadolinium
+     should be performed for further evaluation.  The differential diagnosis
+     would also include amyloid angiopathy or a vascular malformation.
+     
+     No other definite foci of hemorrhage are seen. There is no hydrocephalus or
+     shift of normally midline structures. The basal cisterns appear patent. The
+     visualized portions of the paranasal sinuses are well aerated.
+     
+     The prior MRI from the outside hospital is not available for review.
+     
+     IMPRESSION:  1.5 cm focus of acute blood products in the left temporal lobe
+     with edema deep to the bleed.  Due to the asymmetry of the edema, a mass
+     should be considered and an MRI with contrast should be obtained for further
+     evaluation.
+     
+     
+
+",,
+13590,,,,2906-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-11-28**] 11:18 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1454**]
+     Reason: infiltrate                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with recent fall, confusion                                     
+     REASON FOR THIS EXAMINATION:
+      infiltrate                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent fall and confusion, rule out infiltrate.
+     
+     COMPARISON:  None.
+     
+     AP CHEST, TWO VIEWS:  Heart size is borderline.  There is thickening or fluid
+     in the minor fissure on the right.  Lungs are grossly clear.  There is
+     flattening of the diaphragms demonstrated on the lateral view that could
+     suggest hyperinflation.  There is no overt pulmonary edema.  There are
+     degenerative changes of the thoracic spine.
+     
+     IMPRESSION:  Thickening or small fluid in the right minor fissure.  No overt
+     pulmonary edema or air space consolidation.
+                                                                           
+
+",,
+13590,,,,2906-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13590,,,,2906-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-11-30**] 9:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1455**]
+     Reason: ?infiltrate, opacities                                      
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with low grade temp 100.8 and confusion.                        
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate, opacities                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old man with low-grade temperature.  Temporal hematoma.
+     
+     COMPARISON:  [**2906-11-28**].
+     
+     UPRIGHT FRONTAL CHEST RADIOGRAPH:  Again seen is an enlarged cardiac
+     silhouette. The mediastinal contours appear unremarkable.  Atherosclerosis is
+     seen of the aortic arch.  There is obscuration of the medial aspect of the
+     left hemidiaphragm which was not present on the prior study.  The pulmonary
+     vascularity is stable.  No pleural effusions are seen.
+     
+     IMPRESSION:  Increased retrocardiac opacity obscuring the medial aspect of the
+     left hemidiaphragm.  Atelectasis, aspiration, or consolidation are within the
+     differential diagnosis.
+
+",,
+13590,,,,2906-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-11-30**] 9:45 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1456**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with head bleed.                                                
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old with intraparenchymal hemorrhage.
+     
+     COMPARISON:  [**2906-11-28**].
+     
+     TECHNIQUE:  Routine head CT without intravenous contrast.
+     
+     FINDINGS:  There is no overt change in size of a 1.5 cm intraparenchymal
+     hemorrhage within the area of surrounding hypodensity, representing vasogenic
+     edema.  Differential diagnosis would include amyloid angiopathy, underlying
+     mass or vascular malformation.  MRI would be helpful in proving the etiology.
+     
+     There are no other foci of hemorrhage, hydrocephalus, or shift of normally
+     midline structures.
+     
+     IMPRESSION:  Unchanged in size or appearance of 1.5 focus of left temporal
+     lobe intraparenchymal hemorrhage and surrounding edema.  MRI would be helpful
+     in refining the differential diagnosis, noted above.
+
+",,
+13590,,,,2906-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-1**] 3:16 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 1457**]
+     Reason: please evaluate for microbleeds (GRE images) and contrast im
+     Admitting Diagnosis: INTRACRANIAL BLEED
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with left temporal bleed.                                       
+     REASON FOR THIS EXAMINATION:
+      please evaluate for microbleeds (GRE images) and contrast images to eval for 
+      underlying mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old man with a left temporal lobe hemorrhage.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted sequences were obtained through the
+     brain with multiplanar post-gadolinium T1 imaging.
+     
+     FINDINGS:  On the diffusion-weighted imaging, there is a tiny focus of slow
+     diffusion in the left centrum semiovale which is likely due to an acute
+     infarct. No additional areas of slow diffusion are noted.
+     
+     The previously noted 1.5 cm left temporal lobe hematoma is again identified
+     with a small amount of adjacent vasogenic edema.  On the gradient echo
+     sequence, there are numerous punctate foci of magnetic susceptibility
+     scattered about both cerebral hemispheres.  These findings have an appearance
+     most consistent with amyloid angiopathy.  There is a lacune within the right
+     cerebral peduncle.
+     
+     There are no enhancing abnormalities.  No masses are noted.  The temporal lobe
+     hemorrhage is considered to be most likely due to amyloid angiopathy.
+     
+     On the FLAIR sequence, there are numerous areas of subcortical white matter
+     hyperattenuation, mostly with a posterior predominance, are likely due to
+     hypertension.
+     
+     IMPRESSION:  Numerous foci of magnetic susceptibility scattered about both
+     cerebral hemispheres most consistent with amyloid angiopathy.  The 1.5 cm left
+     temporal lobe hematoma is again present.  No underlying masses are identified.
+     
+     Tiny acute-to-subacute infarct in the left centrum semiovale.
+     
+
+",,
+13590,,,,2906-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-1**] 8:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1458**]
+     Reason: PNA versus pulmonary edema                                  
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with confusion; now diffuse coarse crepiations                 
+           
+     REASON FOR THIS EXAMINATION:
+      PNA versus pulmonary edema                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status change with diffuse coarse crepitations.
+     
+     COMPARISON:  [**2906-11-22**] CXR.
+     
+     FINDINGS:  Upper radiograph of the chest.  Enlarged cardiac silhouette appears
+     stable.  Atherosclerotic changes of the aortic arch are also seen.  The
+     remainder of the mediastinal contour is unchanged.  Obscuration of the medial
+     aspect of left hemidiaphragm is again identified and likely represents
+     atelectasis.  Right basilar streaky changes are also present suggesting
+     atelectasis.  Pulmonary vasculature is unremarkable.  No pleural effusion is
+     seen.  No pneumothorax.
+     
+     IMPRESSION:  Bibasilar streaky opacification likely representing atelectasis
+     at both bases.  No definite lung consolidation present.
+                                                                           
+
+",,
+13590,,,,2906-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-3**] 11:28 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 1459**]
+     Reason: EVALUATE FOR DVT
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with stroke and fever.                                          
+     REASON FOR THIS EXAMINATION:
+      r/o dvt                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  83-year-old man with stroke and fever, evaluate for DVT.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND STUDY:  Both [**Doctor Last Name 63**] scale and color
+     Doppler ultrasound examination was performed.  There is normal
+     compressibility, respiratory variation and response to augmentation of the
+     common femoral, superficial femoral, and popliteal veins bilaterally.  No
+     intraluminal filling defects are identified.
+     
+     IMPRESSION:  No DVT.
+
+",,
+13590,,,,2906-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-6**] 7:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1460**]
+     Reason: Please r/o PNA, consolidation                               
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old man with confusion, fever, tachycardia                            
+     REASON FOR THIS EXAMINATION:
+      Please r/o PNA, consolidation                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old with fever, confusion, and tachycardia.
+     
+     PORTABLE SEMI-UPRIGHT FRONTAL RADIOGRAPH.
+     
+     COMPARISON:  [**11-28**] and [**2906-12-1**].
+     
+     Cardiac and mediastinal contours are unchanged.  There is improved aeration at
+     the lung bases, and a decrease in the previously seen right pleural effusion.
+     There is no new consolidation or evidence of congestive failure.  There is no
+     pneumothorax.  A 5 mm bone island is seen overlying the lateral aspect of the
+     right sixth rib.
+     
+     IMPRESSION:
+     
+     Improving aeration at the lung bases and decreased right pleural effusion.
+     
+
+",,
+13590,,,,2906-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-7**] 9:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1461**]
+     Reason: ?Infection.                                                 
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         83 year old man with confusion, fever, tachycardia                           
+       
+     REASON FOR THIS EXAMINATION:
+      ?Infection.                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old with confusion, fever, and tachycardia.  Assess for
+     pneumonia.
+     
+     Portable semi-upright frontal radiograph compared to one day earlier.
+     
+     There has been no change in the appearance of the chest.  A small right
+     effusion and left lower lobe atelectasis are stable.  Bone island overlying
+     the right sixth rib is unchanged.  There is no new consolidation or congestive
+     failure.
+
+",,
+13590,29418,,,2906-12-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2906-12-13**]              Discharge Date:   [**2906-12-16**]
+ 
+Date of Birth:  [**2823-3-6**]             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Haldol
+ 
+Attending:[**First Name3 (LF) 218**] 
+Chief Complaint:
+Lethargy, garbled speech
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is an 83 yo RHM with cerebral amyloid angiopathy, left 
+temporal hemorrhage [**2906-11-28**], atrial fibrillation now off 
+coumadin, HTN, seizures, and previous strokes, recently 
+discharged from the stroke service at [**Hospital1 19**] [**2906-12-9**] for 
+treatment of above-mentioned hemorrhage. He was discharged to 
+[**Hospital3 1446**] where he has been convalescing until last 
+night when he had a fairly acute onset of garbled speech to the 
+point where he would just be mumbling. His daughter notes that 
+he also has left-sided weakness however she attributes this to 
+previous strokes. He was sent to [**Hospital1 19**] for evaluation.
+
+In the ED, he had a head CT and received IV Levaquin after he 
+was found to have a UTI.
+
+ 
+Past Medical History:
+cerebral amyloid angiopathy
+left temporal hemorrhage [**2906-11-29**]
+HTN
+Atrial fibrillation
+Stroke '[**03**] with resultant left sided deficits
+Stroke '[**99**] with left eye blindness
+Seizures started in 50s, last years ago
+Hypercholesterolemia
+BPH s/p TURP
+
+ 
+Social History:
+Worked as TV repairman and janitor. smoked for five years in his 
+20's. No ETOH.
+
+ 
+Family History:
+non-contributory
+
+ 
+Physical Exam:
+T 103.6   HR 104  BP 104/44  RR 24  Sat 98% 2L NC
+PE: Gen  ill-appearing
+HEENT  AT/NC, mouth dry
+Neck  Supple, no thyromegaly, no [**Doctor First Name **]
+Chest  CTA B
+CVS  irregularly irregular, II/VI SEM
+ABD  soft, NTND, + BS
+EXT  no C/C/E.  no rashes or petechiae, no asterixis
+
+Neuro
+MS: Lethargic, awake. Responds to name. Knows name. Disoriented 
+to place and condition. 
+Speech garbled seemingly fluent, less than 20% intelligible
+There is significant L/R confusion.
+There is left-sided neglect of the face arm and leg. Patient 
+shows left thumb on command. Moves right body when stimulated on 
+left (unlikely secondary to weakness alone). 
+Definite left gaze preference. Possible right hemianopsia. 
+
+CN:  
+- PERRL 2.5-1.5 bilat., left eye blind; 
+- Left gaze preference, can cross midline; 
+- ? face sensation intact to LT/PP, masseters strong
+symmetrically; 
+- left face weak; left palpebral fissure widened 
+- voice normal, palate elevates symmetrically, uvula midline
+- SCM/trapezii >4 bilat. 
+- tongue protrudes midline
+
+Motor: Strength: formal testing limited by mental status
+NO adventitious movement
+ Delt [**Hospital1 **] Tri WE  FF FE 
+R >4  5  >4  >4   5  >4
+L >3  5  >4  >2  >4  >2
+  IP Quad Ham TA [**First Name9 (NamePattern2) **] [**Last Name (un) 220**]
+R >4 5    >4  >3  >3   >3
+L >3 5    >4  >3  >3   >3
+
+Coord: cannot test secondary to mental status
+Refl: 
+
+  [**Hospital1 **] Tri Brachio Pat [**Doctor First Name **] Toe
+R 2  2   -       2   1   up
+L 2  2   -       1   1   up
+
+[**Last Name (un) **]: withdraws right side to left sided tactile stimulation 
+ 
+Pertinent Results:
+WBC-20.5* RBC-3.65* Hgb-11.8* Hct-35.2* MCV-96 MCH-32.4* 
+MCHC-33.6 RDW-14.0 Plt Ct-256 Neuts-90.4* Lymphs-4.9* Monos-3.8 
+Eos-0.6 Baso-0.3 Macrocy-1+
+
+Glucose-170* UreaN-39* Creat-1.3* Na-143 K-5.5* Cl-106 HCO3-29 
+AnGap-14 Calcium-5.6* Phos-2.2* Mg-1.4*
+
+PT-13.4* PTT-27.8 INR(PT)-1.2*
+
+[**2906-12-13**] 05:45PM BLOOD CK(CPK)-65 CK-MB-2 cTropnT-0.05*
+[**2906-12-14**] 03:11AM BLOOD CK(CPK)-36* CK-MB-NotDone cTropnT-0.04*
+[**2906-12-14**] 04:12AM BLOOD CK(CPK)-37* CK-MB-NotDone cTropnT-0.05*
+
+Albumin-2.3* Phenoba-10.1 Lactate-2.1*
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.021 Blood-SM 
+Nitrite-NEG Protein-TR Glucose-NEG Ketone-NEG Bilirub-NEG 
+Urobiln-1 pH-5.0 Leuks-SM RBC-[**3-7**]* WBC-[**11-22**]* Bacteri-FEW 
+Yeast-NONE Epi-0-2 Uric AX-MOD
+
+STUDIES:
+[**12-13**] PCXR: Left lower lobe atelectasis.
+
+[**12-13**] Head CT: 1. Unusual appearance of a bihemispheric process 
+involving the left temporal and right temporoparietal lobes. The 
+latter appears more acute, as there was no evidence of such a 
+process on the MR examination obtained less than two weeks ago. 
+There is a suggestion of [**Doctor Last Name 898**] matter involvement, this may 
+represent _____ edema related to relatively acute infarction. 
+The persistent vasogenic edema in the contralateral temporal 
+lobe may relate to evolving hematoma at that site given the lack 
+of enhancement of underlying lesions on the interval MR study, 
+the process is most consistent with infarctions of different 
+ages, perhaps with hemorrhagic conversion on the left, and the 
+bilaterality is most suggestive of embolic events from a 
+central, perhaps cardiac, source.
+
+[**12-13**] EKG: Atrial fibrillation with rapid ventricular response  
+Probable right arm-left arm reversed  Right bundle branch block  
+ST-T wave changes  
+Since previous tracing, rate increased, QRS wider Suggest repeat 
+tracing and clinical correlation  
+    Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+131 0 134 340/[**Telephone/Fax (2) 9342**]7 
+
+[**12-14**] Head CT: Resolving hematoma in the left temporal lobe with 
+vasogenic edema. Low attenuation in the right temporoparietal 
+lobe, also likely represent a subacute infarct, with possible 
+petechial hemorrhage versus gelatinous/proteinaceous material. 
+These likely represent infarcts of different ages. Followup is 
+recommended to evaluate for hemorrhagic conversion.
+
+[**12-14**] ECHO: Markedly dilated atria in the setting of atrial 
+fibrillation. Severe symmetric left ventricular hypertrophy with 
+preserved regional/global biventricular systolic function. Mild 
+mitral regurgitation. At least moderate pulmonary hypertension. 
+Small pericardial effusion.
+
+[**12-14**] EKG: Atrial fibrillation Premature beat, ventricular or 
+aberrant 
+Left axis deviation RBBB with left anterior fascicular block 
+Since previous tracing, the rate has decreased, limb leads 
+probably correct, 
+premature beat new 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+89 0 148 408/454.57 0 -45 24 
+ 
+Brief Hospital Course:
+In summary, 83 yo man with amyloid angiopathy, s/p left temporal 
+hemorrhage [**2906-11-28**] with recent d/c from [**Hospital1 19**] on [**2906-12-9**] 
+(neuro service), afib not anticoagulated, HTN, seizures, CVAs 
+who presented with left sided neglect/hemiparesis. Found to have 
+a subacute stroke (event likely last night) in right posterior 
+MCA territory. Also with UTI.  
+
+# NEURO: Patient initially presented with report of left sided 
+neglect/hemiparesis.  Head CT with an area of new edema in right 
+posterior MCA territory; c/w subacute infarct and left temporal 
+hemorrhage (old).  Neurologic exam was signficant for 
+inattentiveness, mumbling speech, left gaze preference and right 
+hemianopsia.  Repeat head CT at 24 hours was unchanged.  Patient 
+was started on Aspirin 325mg QD given new stroke.  Kept HOB <30 
+degrees and autoregulated SBP goal 120-180.
+
+History of seizure-continued phenobarbitol. Trough level was 
+7.9.  Continue outpatient PO dose PGT.  Also, will recommend 
+speech therapy and re-evaluation speech and swallow when more 
+stable and rehabilitated from stroke.
+
+# CV: Patient was in atrial fibrillation with RVR in ED that was 
+responsive to fluids.  Continued beta blocker increased to TID 
+dosing.  Also, responded well to IVF resuscitation.
+
+Elevated troponin- Likely [**2-4**] afib and worry of an acute 
+ischemic event is low. No changes on EKG. Will check set in am 
+only.
+
+Given likely embolic stroke, will control BP to goal SBP 
+120-180.  Titrate up metoprolol as tolerated.  Continued outpt 
+fenofibrate for hypercholesterolemia.
+
+# ID: Likely [**2-4**] UTI. Started levaquin at rehab; however was 
+spiking through with leukocytosis. Switched to IV ceftriaxone x7 
+day course. Urine culture at [**Hospital1 293**] was contaminated.  Resent 
+UA and urine culture which were pending at discharge.  Patient 
+remained afebrile since switching to ceftriaxone.  He was 
+discharged on cefpodoxime to complete the 7day course.
+
+# WOUND CARE: Place pt on 1st step select mattress.  Pressure 
+relief per pressure ulcer guidelines.  Turn and reposition pt q 
+2 hours.  When sitting in chair use 4"" foam cushion and limit 
+sitting to 1hour at a time.  Cleanse coccyx skin with wound 
+cleanser pat dry apply Allevyn foam dressing change q 3 days and 
+prn. 
+
+# GU: CRI (b/l 1.2-1.3). Monitored closely.  
+
+# FEN: RISS, FS QID.  Continue folic acid, thiamine, zinc, 
+vitamin c. Electrolyte checked and repleted. On jevity at 
+[**Hospital1 293**]. We do not carry that here; nutrition consulted for 
+tube feeding recommendations and started on FS Probalance 
+@20cc/hr adv to goal 80cc/hr, checking residuals q4hr hold TFs 
+if >150cc.  Monitored I/Os.
+
+# PPX: Pneumoboots. Eye drops per outpt. Bowel regimen per 
+outpt.  
+
+# Code Status: Full Code. Discussed with HCP daughter [**First Name8 (NamePattern2) **] 
+[**Last Name (NamePattern1) 9343**]. (h) [**Telephone/Fax (1) 9344**]; (c) [**Telephone/Fax (1) 9345**]  
+ 
+Medications on Admission:
+Phenobarbital 30 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO Q 
+day    
+Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).   
+Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic  BID 
+Travoprost 0.004 % Drops Sig: One (1) Drop Ophthalmic  daily 
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).    
+Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H 
+Metoprolol Tartrate 50 mg Tablet Sig: 2.5 Tablets PO BID 
+Chlorhexidine Gluconate 0.12 % Mouthwash 
+Ascorbic Acid 500 mg Tablet PO BID (
+Zinc Sulfate 220 mg Capsule 
+Thiamine HCl 100 mg/mL 
+
+ 
+Discharge Medications:
+1. Phenobarbital 30 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+2. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic  Q12 
+HOURS ().  
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+5. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) as needed for PEG.  
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+8. Insulin Regular Human 100 unit/mL Solution Sig: PER SLIDING 
+SCALE UNIT Injection ASDIR (AS DIRECTED).  
+9. Travoprost 0.004 % Drops Sig: One (1) gtt OU Ophthalmic  
+DAILY (Daily).  
+10. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+11. Docusate Sodium 150 mg/15 mL Liquid Sig: One Hundred (100) 
+mg PO BID (2 times a day).  
+12. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+13. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+UNIT Injection TID (3 times a day).  
+14. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO 
+TID (3 times a day): Hold for SBP<110, HR<60.  
+15. Ceftriaxone-Dextrose (Iso-osm) 1 g/50 mL Piggyback Sig: One 
+(1) gram Intravenous  Q24H (every 24 hours): until [**12-19**].  
+16. Midline care
+Midline care per protocol
+17. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 
+times a day).  
+18. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every 
+12 hours): until [**12-19**].  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary diagnosis: 
+Subacute right temporoparietal lobe stroke 
+Urinary tract infection 
+Atrial fibrillation with rapid ventricular response 
+Sacral skin breakdown 
+ 
+Secondary diagnosis: 
+Cerebral amyloid angiopathy 
+Left temporal hemorrhage [**2906-11-29**] 
+Hypertension 
+Stroke '[**03**] with resultant left sided deficits 
+Stroke '[**99**] with left eye blindness 
+
+ 
+Discharge Condition:
+Neurologically stable.  Left sided weakness (face, arm, leg).  
+Mumbling and incoherent speech but is able to follow commands.  
+
+ 
+Discharge Instructions:
+Please take medications as prescribed.
+
+Please keep follow-up appointments.
+
+If [**Doctor First Name **] have any change in mental status, worsening 
+fevers/chills, worsening weakness or any other worrying 
+symptoms, please call your primary care physician or return to 
+the emergency room.
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) **], MD, PHD[**MD Number **]:[**Telephone/Fax (1) 2684**] 
+Date/Time:[**2907-1-4**] 3:00
+
+Please follow-up with your primary care physician [**Name Initial (PRE) 426**] [**1-4**] 
+weeks of discharge.
+
+ 
+                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 226**]
+ 
+Completed by: [**Name6 (MD) 1456**] [**Name8 (MD) **] MD [**MD Number 1457**] [**2906-12-16**] @ 1155
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: FRI [**2906-12-31**] 12:02 PM
+(End of Report)
+
+
+",,
+13590,29418,,,2906-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-13**] 6:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1464**]
+     Reason: new aphasia                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          83 year old man with confusion, fever, tachycardia                          
+         
+     REASON FOR THIS EXAMINATION:
+      new aphasia                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Confusion, fever, tachycardia, new aphasia.
+     
+     CHEST, ONE VIEW:  Comparison with [**2906-12-6**], and [**2906-12-7**].
+     Again seen is probable calcified granuloma in right middle lung zone.  Left
+     lower lobe atelectasis.  Extreme right costophrenic angle excluded from the
+     study; no definite blunting of that costophrenic angle seen.  Right
+     hemidiaphragm slightly elevated.  Linear lucency along the right heart border
+     may reflect fluid in an accessory fissure.  Cardiac, hilar, and mediastinal
+     contours are unchanged. Bony structures also unchanged.
+     
+     IMPRESSION:  Left lower lobe atelectasis.
+
+",,
+13590,29418,,,2906-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-13**] 6:09 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1462**]
+     Reason: New expressive aphasia and altered ms                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      New expressive aphasia and altered ms                                           
+     [**Name13 (STitle) **] contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DRT MON [**2906-12-13**] 7:43 PM
+      (d/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1463**]) prob further evol'n L temp hemorrhagic process, w/resol'n acute
+      blood, sltly incr'd vasogenic edema. no new bleed.
+      new R temporparietal process, prob cytotoxic edema rel. to interv'l infarct'n
+      (no def process, no E+ at this site on interval MR). no def hemorrhage or
+      mass.
+      ? embolic infarcts from central (?cardiac) source, past hemorrhagic convers'n
+      on L.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE HEAD WITHOUT CONTRAST DATED [**2906-12-13**].
+     
+     HISTORY:  83-year-old man with new expressive aphasia and altered mental
+     status.
+     
+     TECHNIQUE:  Contiguous 5 mm axial tomographic sections were obtained from the
+     skull base to the vertex and viewed in brain and bone window on the
+     workstation.
+     
+     FINDINGS:  Study is compared with previous NECTs dated [**11-28**] and [**11-30**] and
+     contrast-enhanced MR examination dated [**2906-12-1**].  There has been interval
+     resolution of the hemorrhage in the lateral aspect of the left temporal lobe,
+     now replaced by a round low-attenuation focus; however, there may be more in
+     the way of vasogenic edema at this site than on the previous studies.  In
+     addition, there is a large and somewhat wedge-shaped zone of low attenuation
+     in the right temporoparietal region, which is not clearly present on the
+     earlier studies.  This process largely involves both subcortical and deep
+     white matter and involvement of the overlying cortex is somewhat unclear.
+     There is no definite acute hemorrhage at this location or elsewhere in the
+     brain. Other than these two sites, no definite edema is identified elsewhere.
+     The midline structures are in the midline and the ventricles and cisterns are,
+     overall, unchanged in size and configuration.  No bone destructive lesion is
+     identified.
+     
+     IMPRESSION:
+     1.  Unusual appearance of a bihemispheric process involving the left temporal
+     and right temporoparietal lobes.  The latter appears more acute, as there was
+     only minimal evidence of such a process on the MR examination obtained less
+     than two weeks ago.  As there is evidence of [**Doctor Last Name 63**] matter involvement, this may
+     represent cytotoxic edema related to relatively acute infarction.
+     2.  Persistent vasogenic edema in the contralateral temporal lobe may relate
+     to evolving hematoma at that site, given the lack of enhancement of
+     an underlying lesion on the interval MR study
+                                                                 (Over)
+
+     DATE: [**2906-12-13**] 6:09 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1462**]
+     Reason: New expressive aphasia and altered ms                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     COMMENT: The process is most consistent with infarctions of different ages,
+     perhaps with hemorrhagic conversion on the left, and the bilaterality is most
+     suggestive of embolic events from a central, perhaps cardiac, source.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 1463**] (301930H, [**2906-12-13**]).
+
+",,
+13590,29418,16912,,2906-12-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-12-14**] 10:31 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1465**]
+     Reason: interval change                                             
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with RIGHT temporo-occipital stroke                             
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right temporal occipital stroke, followup.
+     
+     COMPARISON:  [**2906-12-13**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There are no significant changes from one-day prior.  There is
+     decreased attenuation in the region of prior hemorrhage in the left temporal
+     lobe, now with surrounding vasogenic edema.  There is a stable large, wedge-
+     shaped area of low attenuation in the right temporal lobe, which was not
+     present on more remote studies of [**2906-12-1**].  Involving the subcortical and
+     deep white matter, there are foci of slightly higher attenuation within this,
+     which could be gelatinous/ proteinaceous material or petechial hemorrhage.
+     There is no new hydrocephalus, shift of normally midline structures, or new
+     foci of hemorrhage.  The osseous structures and sinuses are stable and
+     unremarkable.
+     
+     IMPRESSION:  Resolving hematoma in the left temporal lobe with vasogenic
+     edema.  Low attenuation in the right temporoparietal lobe, also likely
+     represent a subacute infarct, with possible petechial hemorrhage versus
+     gelatinous/proteinaceous material.  These likely represent infarcts of
+     different ages.  Followup is recommended to evaluate for hemorrhagic
+     conversion.
+     
+     
+
+",,
+13590,29418,16912,0,2906-12-14 03:51:00 EST,2906-12-14 04:12:00 EST,3606,"N",54,"Nursing/Other","micu nursing admission note","
+micu nursing admission note
+Pt is an 83 oy male w/hx of htn, cva, afib (on coumadin at home until ich) for which he was treated at [**Hospital1 **] and d/c to [**Hospital **] rehab [**12-9**]. Yesterday pt w/ms changes, l sided neglect, weakness and aphasia. Also +uti begun on levofloxacin 2 days ago.  He is admitted to the micu w/stroke team following overnight. 
+
+ros-
+
+Neuro- Patient is alert, responsive and follows commands appropriately. Pt has good strength in his rue>lue. l sided neglect present. less movement noted in his lower extremeties. perl ~3mm bilaterally. goal bp 120-180, hob <30 deg per neuro. 
+cv- hr  remains in afib rate 90-120's. metoprolol given as well as 500cc bolus w/rate coming down to 90's. occ pvc noted. bp stable high 90's-130's sys. 
+resp- ls clear. 35% cool neb w/sats 99%. pt is a mouth breather. no c/o sob
+gi/gu- peg in place to abdomen. Had been on jevity tf's at rehab., nutrition consult in for the am. no stool noted this shift. urine looks good, putting out adequate amts after vol resucitation. +uti beiging treated x2 days w/levo. vanco and levo given in the er, switched now to ceftriaxone. no culture data back from [**Hospital1 **] yet. new set of bc sent in the er x2. 
+social- pt's dtr in hcp, # in fhpa. she has statyed in the waiting room overnight. updated by this RN and Resident
+
+Follow neuro status, ?neuro service recs. To have a repeat head ct this afternoon. f/u labs, culture data from rehab,. cont to treat for uti and new l sided stroke. 
+",,
+13590,29418,16912,2,2906-12-14 03:51:00 EST,2906-12-14 04:14:00 EST,3606,"Y",54,"Nursing/Other","micu nursing admission note","
+micu nursing admission note
+skin- pt w/a superficial appearing wound (abrasion) to coccyx area w/reddedned blanchable area surrounding. telfa dressing applied. wound care rn to ?see this am
+",,
+13590,29418,16912,1,2906-12-14 03:51:00 EST,2906-12-14 04:14:00 EST,3606,"Y",54,"Nursing/Other","micu nursing admission note","
+micu nursing admission note
+skin- pt w/a superficial appearing wound (abrasion) to coccyx area w/reddedned blanchable area surrounding. telfa dressing applied. wound care rn to ?see this am
+",,
+13590,29418,16912,0,2906-12-14 17:06:00 EST,2906-12-14 17:35:00 EST,8714,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1900","
+NURSING PROGRESS NOTE 0700-1900
+REPORT RECEIVED FROM NIGHT SHIFT NURSE. PT'S ENVIRONMENT SECURED FOR SAFETY, ALL ALARMS ON MONITOR ARE WORKING CORRECTLY. PT IS A FULL CODE.
+
+NEURO: NEURO IN TO SEE PT TODAY. PT IS ALERT AND EASILY AROUSABLE BY VOICE, OPENS EYES SPONTANEOUSLY-PERRLA 3MM/BRISK BILATERALLY. SPEECH IS GRABLED, FACIAL FEATURES SYMMETRICAL, TONGUE AT MIDLINE. CONSISTENTLY FOLLOWS COMMANDS, HAS PURPOSEFUL MOVEMENTS. ABLE TO LIFT AND HOLD RUE AND RLE, RIGHT HANDGRASP STRONG. LIFTS LUE, BUT UNABLE TO HOLD UP. HAS WEAK LEFT HANDGRASP. SLIGHT MOVEMENT OF LLE ON BED, ABLE TO WIGGLE TOES. NO SEIZURE ACTIVITY NOTED. TMAX 99.4.
+
+CV: S1 S2 PER AUSCULTATION, HR 90'S-1TEENS. AFIB THROUGHOUT THE DAY WITH OCCASIONAL PVC'S. SBP 120'S-150'S. NO C/O CP. BILATERAL PALPABLE RADIALS AND DP/TIBIAL PULSES AUDIBLE WITH DOPPLER. NO SIGNS OF ACTIVE BLEEDING. BC SENT X1, SECOND SET TO BE DRAWN. HCT STABLE. ACCES: #18 TO RIGHT AC, #20 PIV TO RIGHT WRIST.
+
+RESP: LUNGS CLEAR, CHEST EXPANSION SYMMETRICAL. SPO2 > OR = 95% ON 3L O2 VIA NC. RR 20'S. NO C/O SOB OR INCREASED WOB. 
+
+GI/GU: PEG TO ABDOMEN SECURE, DSG CDI. ABDOMEN SOFT AND NONTENDER/NINDISTENDED. BOWEL SOUNDS PRESENT X4. INDWELLING FOLEY CATHETER PATENT W/APPROX 30-120ML/HR CLEAR YELLOW URINE. 
+
+INTEG: SKIN WARM AND PINK/DRY. INTACT BLISTER TO L HEEL OTA-MULTI PODUS BOOTS ON. SCAB-LIKE ABRASION TO TOP OF L FOOT OTA. ALLEVYN DSG APPLIED TODAY TO ABRASION ON COCCYX-CDI. 
+
+SOCIAL: DAUGHTER IN TO VISIT TODAY. UPDATED BY THIS RN, AS WELL AS MEMBERS OF THE GREEN TEAM. NEURO CONSULT TEAM IN TO SEE PT WITH DAUGHTER PRESENT. ALL QUESTIONS ANSWERED APPROPRIATELY.
+
+PLAN: MONITOR NEURO STATUS. PT IS CALLED OUT TO THE FLOOR. 
+",,

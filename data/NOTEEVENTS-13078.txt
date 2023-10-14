@@ -1,0 +1,900 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13078,,,,3089-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-6**] 9:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12707**]
+     Reason: assess for CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with peipheral edema
+     REASON FOR THIS EXAMINATION:
+      assess for CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Peripheral edema.  Question CHF.
+     
+     TECHNIQUE: Single portable AP view of the chest is compared with 10/2000.
+     
+     FINDINGS:  The cardiac silhouette is markedly enlarged.  There is coronary
+     vascular redistribution and Kerley B lines.  There are moderate bilateral
+     pleural effusions present.  Osseous structures are unremarkable.
+     
+     Compared to the prior study, there is worsening of cardiomegaly with new
+     pleural effusions.
+     
+     IMPRESSION: Cardiomegaly and CHF with bilateral moderate pleural effusions.
+
+",,
+13078,5042,,,3089-06-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3089-6-7**]     Discharge Date:  [**3089-6-19**]
+
+Date of Birth:   [**3028-9-2**]     Sex:  F
+
+Service:  CCU
+
+ADDENDUM TO HOSPITAL COURSE:  Repeated attempts of low-dose
+Captopril resulted in hypotension, and the patient was
+restarted on her beta blocker.  She tolerated a dose of 3.125
+of Carvedilol b.i.d., and this should be continued as an
+outpatient.  She was started on digoxin for her congestive
+heart failure and had a dose of 0.125 mg p.o. q.d. without a
+load.  Her levels should be followed-up as an outpatient by
+her primary care provider.  [**Name10 (NameIs) **] diuretic dosage was increased
+to Lasix 80 mg p.o. b.i.d. with spironolactone 25 mg p.o.
+b.i.d. for maintaining her volume status.  This dose may be
+adjusted as an outpatient as needed.
+
+ADDENDUM TO INFECTIOUS DISEASE:  The patient completed a ten
+day course of dicloxacillin and levofloxacin and remained
+afebrile with a normal white count at the time of discharge.
+
+PULMONARY:  The patient's oxygenation status remained stable
+on her home oxygen requirements of 4 liters by nasal cannula.
+Physical Therapy recommended home oxygen with 4 liters by
+nasal cannula at rest and 5 liters with activity.
+
+PSYCHIATRY:  The patient was evaluated by psychiatric
+consultation, who recommended continuing Celexa and Remeron
+and avoiding benzodiazepines for anxiety symptoms.  They
+recommend follow-up with outpatient psychiatry and
+discontinuation of Seroquel.
+
+DISPOSITION: The patient was discharged in stable condition
+to home.
+
+DISCHARGE DIAGNOSIS:
+1.  Congestive heart failure.
+2.  Coronary artery disease.
+3.  Diabetes mellitus.
+4.  Chronic obstructive pulmonary disease.
+5.  Hypertension.
+6.  Anxiety disorder.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg p.o. q.d.
+2.  Carvedilol 3.125 mg p.o. b.i.d.
+3.  Atorvostatin 10 mg p.o. q.d.
+4.  Lasix 80 mg p.o. b.i.d.
+5.  Spironolactone 25 mg p.o. b.i.d.
+6.  Glipizide XL 5 mg p.o. q.d.
+7.  Digoxin 0.125 mg p.o. q.d.
+8.  Mirtazapine 15 mg p.o. q.h.s.
+9.  Celexa 30 mg p.o. q.d.
+10. Albuterol and Atrovent nebulizers p.r.n.
+11. Flovent four puffs p.o. b.i.d.
+12. Colace 100 mg p.o. b.i.d.
+13. Dulcolax 5 mg p.o. q.h.s. p.r.n.
+
+DISCHARGE PLAN:
+1.  The patient should follow-up with her primary care
+provider in one to two weeks.
+2.  The patient should have her blood drawn for a digoxin
+level and panel 7 within one week and have these results
+faxed to her primary care provider, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], at
+[**Telephone/Fax (1) 8493**].
+3.  The patient should consider following up with an
+outpatient cardiologist if her primary care provider, [**Name10 (NameIs) 4557**] is
+listed as a cardiologist, is not comfortable with managing
+her heart failure symptoms.
+
+
+                          [**First Name8 (NamePattern2) 15**] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number 2080**]
+
+Dictated By:[**Last Name (NamePattern1) 4727**]
+
+MEDQUIST36
+
+D:  [**3089-6-19**]  02:11
+T:  [**3089-6-19**]  18:34
+JOB#:  [**Job Number 8494**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Doctor Last Name **]
+ on: [**Doctor First Name 123**] [**3089-7-18**] 2:58 PM
+(End of Report)
+
+
+",,
+13078,5042,,,3089-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-7**] 5:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12709**]
+     Reason: confirm placement of central line and Swan Ganz catheter    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with CHF.                                                     
+     REASON FOR THIS EXAMINATION:
+      confirm placement of central line and Swan Ganz catheter                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 60 year old woman with CHF, evaluate line placement.
+     
+     COMPARISON: [**3089-6-7**]  at 5:51 AM.
+     
+     AP PORTABLE CHEST RADIOGRAPH: Interval placement of a Swan-Ganz catheter via
+     the right IJ with its tip in the right main pulmonary artery.  No pneumothorax
+     identified.  The endotracheal tube remains in satisfactory position,
+     approximagely 4 cm from the carina.  Again seen is a right sided pleural
+     effusion with redistribution of the pulmonary vascularity consistent with
+     cardiac failure.  The heart size is enlarged.  The mediastinal and hilar
+     contours are unchanged in the interval.  Again seen is a retrocardiac
+     density,unchanged. The lungs are hyperinflated.
+     
+     IMPRESSION:
+     1) Continued cardiac failure.
+     2) Stable appearance of lines and tubes with no pneumothorax.
+
+",,
+13078,5042,,,3089-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-7**] 5:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12708**]
+     Reason: check tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with peipheral edema
+     REASON FOR THIS EXAMINATION:
+      check tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Peripheral edema and worsened pulmonary status, status post
+     intubation.
+     
+     TECHNIQUE:  Single portable AP view of the chest is compared with the prior
+     study from 8 hours ago.
+     
+     FINDINGS:  There has been interval intubation, with tip of the endotracheal
+     tube in the thoracic inlet.  This may represent the area of intubation.  Again
+     seen are marked pulmonary markings, which are indeterminate in nature but may
+     represent some aspect of mixed interstitial/alveolar manifestations of
+     failure.  The right sided pleural effusion remains quite prominent, and there
+     the left sided pleural effusion is much less apparent due to supine patient
+     positioning Cardiac silhouette is unremarkable.  There may be some
+     retrocardiac atelectasis/consolidation. There is an area of linear atelectasis
+     at the right lung base.
+     
+     IMPRESSION:
+     
+     Appropriate placement of ETT, tip 5 cm from the carina.
+     
+
+",,
+13078,5042,16297,0,3089-06-07 17:19:00 EST,3089-06-07 17:21:00 EST,894,"N",1,"Nursing/Other",,"
+
+RESP CARE: Pt remains on CMV/14/ .50/5peep. ABG pending
+",,
+13078,5042,16297,0,3089-06-07 18:46:00 EST,3089-06-07 19:21:00 EST,96,"N",1,"Nursing/Other","chf, copd, r/o mi","
+chf, copd, r/o mi
+ccu npn (see admit note also) to ccu 12pm.
+o- t max 100.4r. urine very cloudy- u/a, c+s sent. sputum sent. 
+cv- hr 80s-90s sr, no vea. bp 110-120s/. aline inserted by ho with good waveform. labs drawn from ej and hemolyzed (no other access at time). labs redrawn after aline in and k- 3.1, replacing with 40meq iv x1 after pa line/access obtained this evening. hct 37.8 in ew. cks neg. so far. pa line in this pm via r ij per team. r ej dislodged with ij insertion and d/c'd. pa 60s/30s, cvp 14-15. wedge 37. co 2.8, ci 1.79, svr 2200s, ho aware. ef 15-20 with 4+mr etc in ew. has [**2-25**]+ edema feet/lower legs. clot sent to bb. 
+resp- intubated on a/c 50%, 500tv, rate 14 with 5peep. lowered to 40% after abgs drawn, but up to 100% for pa line with hob flat. after pa line in back to 50% and last abg 96,51,7.44,36,8 sat 97. not overbreathing earlier pm, overbreathing to about 20 this pm. sats 99-100 thruout. l/s clear with scat wheeze, on inhalers per rt. 
+sx'd orally for thick yellow sputum, sx'd for small white via ett, sputum sent. u/o poor, ho aware.  
+gi- abd soft with hypoactive b. sounds. no bm. npo. 
+dm- bs 65, ho aware, re'd [**1-24**] amp d50w, f/u bs 120s this pm up to 140 at 1800, no insulin given. 
+ms- on propofol, sedated and awakened at times. lost access during line insertion as above (awake, moving) and rebolused with total 60mg propofol when access obtained in order to sedate again. makes eye contact and mae when awake. changed to versed after lines inserted this pm and requiring up to 4mg/hr so far with 1-2mg boluses. still awake, moving. 
+skin- intact, edema as above with some skin peeling on legs, also ?sl. rash on feet. pneumoboots on. repos with skin care. on back for pa line insertion this pm.  
+social- son called x2, updated on pt's status and plan. relative in to visit this pm.
+a- intubated/chf with copd, ?uti. 
+p- replace k and mg. diurese, meds as ordered for chf. place ogt for po meds as needed. follow bs. f/u on cultures sent, u/a.   
+  
+",,
+13078,5042,16297,,3089-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-8**] 1:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12710**]
+     Reason: Confirm OG tube placement                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old woman with CHF.                                                    
+       
+     REASON FOR THIS EXAMINATION:
+      Confirm OG tube placement                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 y/o woman with congestive heart failure.
+     
+     PORTABLE AP SUPINE VIEW OF THE CHEST
+     
+     COMPARISONS: [**3089-6-7**]
+     
+     An endotracheal tube and right swan ganz catheter are unchanged in position.
+     There has been interval placement of a nasogastric tube. The tip is coiled in
+     the stomach, tip not visualized.  The cardiac and mediastinal contours are
+     stable. There are bilateral, right greater than left pleural effusions. Coarse
+     interstitial markings are present.
+     
+     IMPRESSION:
+     
+     1) Nasogastric tube coiled in stomach, tip not visualized.
+     2) Cardiomegaly, bilateral pleural effusions and coarse interstitial markings
+     consistent with pulmonary edema.
+
+",,
+13078,5042,16297,0,3089-06-08 05:10:00 EST,3089-06-08 05:23:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ CV SHOCK; CHF","
+CCU NSG PROGRESS NOTE 7P-7A/ CV SHOCK; CHF
+
+S- INTUBATED.
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- VSS- HR- 70-90 SR, ST WITH BP- 110/40-140/60 DEPENDING ON AGITATION LEVEL. PA LINE INSERTED LATE AFTERNOON- CO/CI/SVR OBTAINED- 
+LOW CI- 1.79 WITH SVR- 2200. STARTED MILRINONE 0.375 AFTER 50 MCG BOLUS- IMPROVED #- 4.0/2.56/1820. AM # PENDING CURRENTLY.
+K- 3.1- RECEIVED 80 KCL- REPEAT- 3.6- 40 KCL. MG- 1.2- 4 AMPS MGSO4.
+PAD- 25-38; CVP- [**11-8**]. BETTER # AFTER MILRINONE AND DIURESIS.
+RECEIVED 80 LASIX LATE EVES WITH GREAT DIURESIS.
+I/O (-) 2500CC.
+WITH ANY AGITATION OR STIMULATION- PAD- INCREASE IN PA #.
+
+RESP- REMAINS INTUBATED- 50/500/14 A/C [**5-27**]. SUCTIONED FOR MINIMAL AMT SPUTUM, SOME I/E WHEEZE- INHALERS PRN AND AS ORDERED.
+ABG UNCHANGED.
+
+GU- SEE ABOVE- 80 LASIX- GREAT DIURESIS- I/O (-) 2500CC.
+
+GI- INSERTED OG TUBE ONCE PT SEDATED AND COMFORTABLE.
+RECEIVED 12.5 CAPTOPRIL PER OG.
+NPO.
+
+MS- MUCH DIFFICULTY WITH SEDATION- SWITCHED FROM PROPOFOL GTT TO VERSED.
+UNABLE TO ACHEIVE SEDATION UP TO TOTAL 20 MG VERSED GTT WITH 5 MG BOLUSES. ADDED FENTANYL WITH MUCH BETTER SEDATION LEVEL.
+CURRENTLY APPEARS COMFORTABLE- 50 MCG FENT/15 VERSED.
+OF NOTE, PT IS ON MUCH PSYCHOTROPIC/SEDATIVE DRUGS AT HOME.
+
+SOCIAL- NIECE IN TO VISIT- ? NEXT OF [**Doctor First Name **]- TOLD CURRENT CONDITION AND PLAN OF CARE- APPEARS TO UNDERSTAND.
+
+ENDO- QID FS- >100- NO FURHTER SS REG INSULIN NOR D 50 THIS SHIFT.
+
+A/P- PT WITH CV SHOCK/LOW EF/CHF- CURRENTLY WITH BETTER CO/CI/SVR ON MILRINONE AND CAPTOPRIL AND S/P LARGE DIURESIS.
+
+CONTINUE TO CLOSELY FOLLOW CO/CI ON CURRENT MEDS. CONTINUE TO INCREASE CAPTOPRIL AS TOLERATED. CONSIDER MORE DIURESIS AS HEMODYNAMICS ALLOW.
+SEDATION /COMFORT/SAFETY. KEEP LYTES REPLETED AS NEEDED.
+AWAIT AM LABS.
+KEEP PT AND FAMILY AWARE OF PLAN OF CARE.
+",,
+13078,5042,16297,0,3089-06-08 15:51:00 EST,3089-06-08 15:54:00 EST,1039,"N",1,"Nursing/Other","resp care note","
+resp care note
+pt. remains on A/C 500 f 14 50% 5 of peep . no change made pt. no breathing spont. due to sedatation. plan to start wean tommorrow.
+",,
+13078,5042,16297,0,3089-06-08 16:37:00 EST,3089-06-08 17:09:00 EST,118,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S: sedated on fent/versed
+O:
+CV: remains on Milrinone at .375ug/kg/min, CO/CI improved to 4.1/2.6 SVR 1307, then later this afternoon, 5.2/3.3 SVR 800. Given additional 80mg IV lasix at 0900 for PCWP 30/PAD 29, diuresed well and is 1700 neg for the day. Captopril increased to 25mg at 12N, 30min later BP dropped to 80/, pt repositioned, stimulated and BP back up. Captopril dose changed back to 12.5mg tid. Dropped BP again ~1700 after position change to L side down to 80/, pt placed supine, given 250cc NS bolus,  PCWP has fallen from 30-20-12 throughout the day, with CVP also trending down. BP after bolus 90/50 MAP 63. 
+
+ID: sputum has grown gr + cocci, staph aureus coag(+), pt to start Vanco IV. T 98-99po. follow trend of CO/CI, they are rising on Milrinone, ?becoming septic.
+
+Resp: vented, AC 50% 500, 5 PEEP, rate decreased to 10 from 14 for rising pH (metabolic alkalosis), suctioned total of 4 times by Rn/RT for sm amounts pale yellow-clear secretions. LS clear, dim at bases. 
+
+Neuro: sedated on fent 50ug, Versed weaned from 15mg to 6mg throughout the day. Grimaces mildly with care. When left alone is very sedate.
+
+Lytes: repleated with pot phosphate for low phosphate, k+ PND. 
+
+GI: BS(+), started Respalor at 10cc/hr, increase q 4hrs to goal of 45cc/hr. No BM. 
+
+Soc: Brother in to visit today, updated by MD/RN.
+
+A/P: Good diuresis with lasix, improved CO/CI on Milrinone, hypotension responded to fluid bolus. Will start Vanco for sputum culture results. Will attempt to wean for vent tomorrow. 
+
+
+",,
+13078,5042,16297,,3089-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-9**] 1:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12711**]
+     Reason: infiltrate                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        60 year old woman with CHF.                                                   
+         
+     REASON FOR THIS EXAMINATION:
+      infiltrate                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  SOB.
+     
+     Endotracheal tube is 3 cm above the carina.  The Swan-Ganz catheter is in
+     right pulmonary artery at right hilar level.  NG tube is in stomach.  No
+     pneumothorax.  There is cardiomegaly and bilateral pleural effusions with
+     bibasilar atelectases.  There are probable diffusely increased interstitial
+     markings bilaterally.
+     
+     IMPRESSION:  Findings consistent with CHF with bilateral pleural effusions and
+     atelectasis in the left lower lobe.  No pneumothorax.
+
+",,
+13078,5042,16297,0,3089-06-09 04:50:00 EST,3089-06-09 05:02:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S/O: 60YO FEMALE WITH PAST MED HX OF MI([**10-24**]) NOW PRESENTING WITH LOWERED EF AND CHF. 
+ID:TMAX 100.8 RECTALLY.  
+CV: INCREASING HR THROUGHOUT NIGHT. 100-110'S WITH RARE PVC. BP 90-100'S, HELD 10PM CAPTOPRIL IN FAVOR OF DIURESIS. CO/CI [**4-24**]. MILRINONE UNCHANGED. 
+RESP: REMAINS ORALLY INTUBATED. SUCTIONED MORE FREQUENTLY (Q2HR) FOR MOD AMT THIN WHITE/YELLOW SECRETIONS. CONTS TO HAVE FAIR AMT OF SECRETIONS IN HER MOUTH. LUNGS WITH COURSE AERATION.  ALSO NOTED INSP WHEEZED, RESP AWARE (GIVEN EXTRA INH). PADS CONT TO BE ELEVATED IN THE HIGH 20'S WITH CVP 10-12. LASIX 80MG GIVEN WITH GOOD DIURESIS. (-) 750CC YESTERDAY AND 600CC TODAY. 
+GI/GU: ABD SOFT WITH GOOD BOWEL SOUNDS, TUBE FEEDS INCREASED TO 30CC WITH LOW RESIDUALS. NO BM. FOLEY DRNG CLEAR YELLOW URINE. 
+MS: CONTS TO BE SEDATED WITH FENT/VERSED. DECREASED VERSED TO 3MG BUT INCREASED BACK TO 8MG (THOUGHT ELEVATED HR MIGHT BE RELATED TO WITHDRAWAL OF BENZOS). SHE DOES WEAKLY WITHDRAW FROM PAIN BUT DOES NOT OPEN EYES. SHE DOES GRIMACE TO SUCTIONING AND CHANGE IN POSITION. 
+SKIN: FEET REMAIN BRIGHT RED/WARM. ELBOWS BEGINNING TO REDDEN. REPOSITIONED Q 2HR.
+A: INCREASING HR>? BENZO WITHDRAWAL
+   DIURESED
+   INCREASE IN SECRETIONS
+P: CONT WITH GOOD PULM TOILET
+   CONT WITH BENZOS ? IT HR WITLL DECREASE
+   1ST STEP MATTRESS
+",,
+13078,5042,16297,0,3089-06-09 06:18:00 EST,3089-06-09 06:23:00 EST,478,"N",1,"Nursing/Other","CCU NPN ADDENDUM","
+CCU NPN ADDENDUM
+AFTER REC'ING AM CAPTOPRIL DOSE DECREASE SBP TO HIGH 40'S, TEAM NOTIFIED, REC'D IVF BOLUS, DOPA STARTED THEN DC'D DUE TO EXTREMELY ELEVATED HR (140'S). STARTED NEO AND TITRATED UP TO 2MCG/KG/MIN WITH INCREASE IN BP TO 100'S.  DURING HYPOTENSIVE EPISODE MILRINONE AND SEDATION DC'D AND REMAIN OFF. CURRENTLY ON NEO AND IVF ONLY. 
+",,
+13078,5042,16297,0,3089-06-09 16:16:00 EST,3089-06-09 16:50:00 EST,118,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+CV: Placed back on Milrinone .375ug/kg/min this AM, weaned Neo off and then after 1 hr BP trending down again, placed back on .25ug of Neo with BP 90's/50, later able to wean off. PAP increasing, with PCWP 26-33, given 40mg IV lasix, with good responce, maintaining BP 90's-107/50-60. PAD slowly decreasing to 26-27. Captopril dc'd. EKG done and CK's sent. Pt is -600cc so far today, goal 1L neg. K+ and Mg repleated this afternoon. Occ PVC's. 
+
+Neuro: sedation has remained off since this AM, opens eyes to voice, does not follow commands, moves arms and legs spontaneously. PERL. Arouses with care, otherwise has remained sleepy. HR stable in low 100's. Increased agitation at 1745, reaching for ETT, HR up to 118, restarted IV versed.
+
+Resp: remains on vent, no changes made, ABG: 7.39/65/88. Suctioned for sm amts thick pale yellow sputum, lg amts creamy sec from throat. LS clear. 
+
+ID: low grade T, BCx2 sent, IV vanco dc'd. Recieved 1 dose last eve. Will monitor for increasing T, WBC, await culture results.
+
+Endo: On ss reg ins, req 4-6U reg. 
+
+GI: tolerating TF at 30cc with no residuals, increased to goal of 45cc, no stool. 
+
+Soc: son, brother in updated by RN/MD
+
+A/P; hypotension s/p captopril this AM, requiring pressor, now off. CO/CI stable on Milrinone. Cont with more gentle diuresis, follow PCWP. Avoid additional fluids. Follow for signs of infection. Sedate as needed.
+",,
+13078,5042,16297,0,3089-06-10 04:56:00 EST,3089-06-10 05:10:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+60 YO FEMALE S/P MI [**10-24**] (STENTED LAD), NOW PRESENTS WITH CHF AND LOWERED EF.
+ID: TEMP SPIKE 102.2 RECTALLY, REC'D TYLENOL AND RESTARTED VANCO WITH CEFTRIAXONE (SPUTUM +)
+CV: HEMODYNAMICS LABILE TONIGHT. HR INITIALLY 120'S ST (DUE TO TEMP AND ? BENZO WITHDRAWAL) INCREASED ATIVAN AND GIVEN TYLENOL WITH DECREASE HR TO 90-100'S. K+ REPLEATED. BP 80'S-120'S DEPENDING ON SEDATION AND POSITION. AT ONE POINT TURNED ON L SIDE WHICH WAS C/B DECREASE IN BP TO LOW TO MID 80'S.  MILRINONE CONTS AT .375MCG/KG/MIN, WITH CO/CI UNCHANGED.
+RESP: REMAINS ORALLY INTUBATED, INCREASED VENT RATE TO 14 FOR INCREASING PCO2 TO 80'S WITH DECREASE IN PH TO 7.35. SUCTIONED Q [**3-26**] FOR THIN WHITE SECRETIONS. LUNGS INITIALLY WITH CRACKLES 1/2 UP DEPENDENTLY OTHERWISE DIMINISHED. PT SEEMS TO DO BETTER ON R SIDE WITH IMPROVED SATS/BP.  REC'D ADDITIONAL LASIX 40MG AT 3AM WITH FAIR DIURESIS. PADS MID 20'S AFTER DIURESIS (HIGH 20'S LOW 30'S PRIOR TO DIURESIS). 
+GI/GU: TOLERATING RESPOLAR AT 45CC/HR WITH LOW RESIDUALS. ABD SOFT WITH GOOD BOWEL SOUNDS. NO BM. + FLATUS. FOLEY DRNG CLEAR YELLOW URINE.
+MS: CONTS ON VERSED THAT HAS BEEN TITRATED UP AND DOWN DEPENDING ON SEDATION. CURRENTLY AT 5MG/HR. FENT RESTARTED AFTER A FEW BOLUSES AND INCREASED TO 50MCG/HR. AT TIMES MOVING EXTREMS ON OWN BUT NOT OPENING EYES OR FOLLOWING COMMANDS. 
+SKIN: ELBOWS REMAIN REDDENED. FEET BACK TO NORMAL COLOR. OTHERWISE SKIN INTACT. PNEUMO BOOTS ON. 
+SOCIAL: SONS HERE, EXPRESSING CONCERN OVER MOTHER.  STATING THAT THEY ARE ANGRY WITH THE PSYCH HOSP SHE WAS AT PRIOR TO ADMIT FOR NOT GIVING HER LASIX.  THEY ARE ASKING APPROPRIATE QUESTIONS AND ARE AWARE OF MOTHERS CONDITION. 
+A: TEMP SPIKE>RESTARTED ANTIBX/TYLENOL
+   DIURESED WITH LASIX 40MG
+   LABIL HEMODYNAMICS DEPENDING ON SEDATION
+P: CONT WITH SEDATION AS NEEDED
+   FOLLOW ELECTROLYTES
+   CHECK BLOOD CULTURES FOR GROWTH
+   ? IF FURTHER DIURESIS IS NEEDED
+    NEEDS 1ST STEP MATTRESS
+",,
+13078,5042,16297,0,3089-06-10 16:48:00 EST,3089-06-10 17:06:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN RESP/CV","
+CCU NSG NOTE: ALT IN RESP/CV
+O: For complete VS see CCU flow sheet.
+ID: Pt afebrile and conts on ABX.
+CV: Pt remains on milrinone at .375 mic/kilo. Last C/O was 3.9/2.5 with SVR 1190. HR has been primarily in 90s to low 100s, however when pt aggitated HR will go up to 1-teens. BP has been stable ranging 95-115/50s. PAPs range 50s/27-35 wit RA [**8-1**]. She startyed spironolactone NG today and lasix has changed to standing 80mg IV QS. She last recived it at 4pm. K+ is pending.
+RESP: Pt remains intubated on AC 500 X 14 with overbreathing with aggitation, 50%, 5 PEEP. FI02 was decreased to 40% but PO2 dropped. Last gas on 50% was not much better at 65/70/7.44/46. She is suctioned for small amts of viscouse white sputum. She has decreased breath sounds. 
+GI: Pt continues on respalar at goal of 45cc/hr. She has minimal residual and no BM.
+RENAL: Pt responds well to lasix for a short period of time. She is neg 500 for the day and 3500cc LOS. 
+ENDO: Finger stick at noon up to 378. She received 10u reg insulin IV and was started on insulin drip. It is now at 3u/hr with last finger stick 128. Finger sticks being done Q 1 hr.
+MS/SEDATION: Pt lightened up at ~ 8am. She was moving all extremities and appeared at times to make eye contact, however she would follow no commands. She continues on fentanyl 50mic/hr and versed at 5mg/hr and has required few boluses. She will move and try to sit up when care is being given, but will settle down quickly when left alone. He family has been in and out most of the day.
+A: Poorer blood gas/marginal c/o/ fair response to lasix.
+P: Continue to monitor parameter. Continue with lasix Q 6. Lighten Pt Q day. Suction prn and change position Q 2. Check finger stick Q 1 hr.
+",,
+13078,5042,16297,,3089-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-11**] 1:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12712**]
+     Reason: ETT placement                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         60 year old woman with CHF.                                                  
+           
+     REASON FOR THIS EXAMINATION:
+      ETT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  60 year old woman with congestive heart failure, evaluate
+     endotracheal tube placement.
+     
+     COMPARISON:  [**3089-6-9**].
+     
+     AP SUPINE PORTABLE CHEST RADIOGRAPH:  The endotracheal tube is at the thoracic
+     inlet, in satisfactory and stable position.  There is a Swan-Ganz catheter via
+     the right IJ whose tip terminates in the right mid pulmonary artery.  No
+     pneumothorax is identified.  An NG tube is seen, which is coiled in the
+     stomach, however, it's tip is in the distal stomach and beyond the edge of the
+     radiograph.  The heart size is enlarged with LV predominance and bilateral
+     pleural effusions.  The pulmonary vascularity shows signs of upper-zone
+     redistribution consistent with congestive heart failure, however, it has
+     improved compared to the prior study.  In addition, there are possible
+     bibasilar infiltrates.
+     
+     IMPRESSION:
+     1. No pneumothorax.  Lines and tubes in satisfactory position.
+     2. Improving congestive heart failure.
+     3. Possible bibasilar infiltrates.
+
+",,
+13078,5042,16297,0,3089-06-11 05:22:00 EST,3089-06-11 05:25:00 EST,999,"N",1,"Nursing/Other",,"
+
+Pt. remains on full support sxn for sm. white thick b/s clear but decreased hemodynamically stable through out shift RSBI done on cpap o peep 5 p/s {53} will cont. to [**Last Name (un) **]. resp. status
+",,
+13078,5042,16297,0,3089-06-11 06:42:00 EST,3089-06-11 07:00:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p=7a","
+CCU Nursing Progress Note 7p=7a
+S: Pt remains intubated and sedated
+
+O: Please see careview for complete VS/ Additional objective data
+
+Neuro: Pt remains sedated on Fentanyl 50 mcg/hr and Versed 5 mg/hr. Pt comfortable overnoc w/ minimal aggitation requiring bolus x1. Pt responds to stimuli. Opens eyes. MAE.  Does not follow commands or track with eyes. Soft wrist restraints remain on for safety of ETT and invasive lines.
+
+CV: Tele-> NSR. No VEA. ABP 83-136/51-68 on Milrinone unchanged @ .375 mcg/kg/min and Neo gtt started @ 2130 to maintain MAPs>80. Titrated up to 2.5 mcg/kg/min following aggressive overnoc. Lasix gtt started at 2200 @ 10mg/hr w/ excellent effect. PAD ^ 33 following electrolyte repletion and abx. Following diuresis PAD returned to 25. CVP ^15 but back to 5 following diuresis. PCWP 28 down to 16 this am. Afternoon K+ 3.1. Repleted w/ 80meq via central line. Repeat K+ 4.7 but decreased to 2.8 this am following diuresis.Co/CI/SVR 3.9/2.5/1292. 
+
+RESP: Remains on mechanical ventilation. AC 50%/500/14/5 peep. Pt rarely overbreathing vent. Scant to sm amt of white thick secretions. Atrovent nebs administered by RT. ABG 7.46/61/96/45/16/97. LS coarse/clear but diminished in bases.
+
+GI/GU: TF-> Respalor @ 45cc/hr goal. Residuals 2-55cc. Abd soft. +BS. No BM overnoc. F/C draining large amts of cyu following diuresis. -1600 overnoc/ -4700 LOS.
+
+ID: Febrile. Tmax 101.5. Tx w/ Tylenol x1. BC x2 and urine specimen sent. Cont on abx regimen.
+
+Endo: Cont on insulin gtt. Titrated ^ 5u/hr for BS 195 titrated down this am to 3u. 
+
+Social: Sister called early last pm.
+
+A/P: Pt started on NEO gtt to maintain MAPs> 80. Lasix gtt started 10mg/hr for aggressive diuresis. Elevated PAD, CVP and PCWP following repletion of electrolytes and abx. Greatly improved this am following diuresis.  CO/CI remains unchanged despite diuresis and start of NEO gtt. Temp spiked pan cx. Need to obtain sputum if applicable. Follow electrolytes and replete as necessary. Cont to support family and pt as indicated. 
+
+
+",,
+13078,5042,16297,0,3089-06-11 14:51:00 EST,3089-06-11 15:06:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/RESP 7a-3p","
+CCU NSG NOTE: ALT IN CV/RESP 7a-3p
+O: For complete VS see CCU flow sheet.
+ID: Pt continues febrile at101.8R at 8a and 101.2 R at noon. Tylenol given. Sputum culture sent. Other cultures pending. Pt conts on IV abx.
+CV: HR 60s-70s NSR with rare PVCs. She has required lots of electrolyte repletion. She received 4amp MGS04, 80 meq KCL with repeat K+ 3.2 and she is being repleted with another 80, and K-phos. She will have repeat lytes later. BP has been stable ranging 100-120/50-70 on milrinone .375mic/kilo and neosynephrine 2.5mic/kilo. PAP have ranged 55-60/18-25. RA [**7-1**]. Higher numbers with aggitation. Last CO 4.6/2.95 SVR 1096.
+RESP: Pt has ""wandering sats"". She will have a sat of 97% and with no intervention it will drop to 92% and then come back up to mid 90s with no intervention.She does have more secretions today and required more frequent suctioning for thin white secretions. Last gas on 40% AC 500 X 14 5 PEEP was 7.43/ PCO2 66/ PO2 62/ 45.She has course BS. 
+GI: Tube feed is being changed to replete wtih promote with goal of 45CC. She has had minimal residuals and no BM.
+RENAL: She continues on the lasix gtt at 10mg/hr. She has had good response and is 1600cc neg for the day and 4700 neg LOS. SHe has less pedal edema. Creatinine has not bumped and is .6.
+ENDO: Pt was off insulin drip for low BS from 7 to 9am and it was again stopped by HO, but restarted after an hour at 2pm. It is presently at 2u/hr with FS of 135. 
+MS: PT was lightened up this am and for the first time seemed to follow some simple commands and attempt to assist with care. She remains on fentanyl at 50mic and versed at 5mg/hr. 
+A: Variable blood gas/reuires pressures for BP/fever.
+P: Check repeat blood gas. Monitor finger stick Q1 hr. Keep careful I & O. Decrease neo as tolerated.
+",,
+13078,5042,16297,0,3089-06-11 16:26:00 EST,3089-06-11 16:28:00 EST,147,"N",1,"Nursing/Other",,"
+
+resp care
+
+pt remains intubated and mech ventilated. a/c 500x14 peep 5 45%. fio2 weaned from 50% to 45%.  abg 7.45/57/105/41.  b/s ess clear.  min secretions. will follow.
+",,
+13078,5042,16297,0,3089-06-11 20:57:00 EST,3089-06-11 21:20:00 EST,118,"N",1,"Nursing/Other","CCU NPN 3-11PM","
+CCU NPN 3-11PM
+CV: cont to diurese aggressively on lasix gtt at 10mg/hr, UO 2-300cc/hr, neg ~2400cc for the day, over 5L LOS. HR 70-80's NSR, no ectopy, BP 94-118/50's on 2.5ug/kg/min Neo, decreased to 2ug/kg/min at 2200, will begin to attempt to wean. Recieving K replacement this eve for earlier K+ 3.2. Repeating lytes at 2200. PAP 48/29-20, CVP 9-6. Cont on Milrinone at .375ug/kg/min. 
+
+Resp: vented AC 45%/500x14, spon rate of 4 when awake. Sats 94-98%. ABG stable. LS coarse throughout, suctioned for this white sputum x2.
+Cont with MDI by RT. 
+
+Neuro: On fent at 50ug/hr, Versed at 5mg/hr, becoming very restless by 2200, pulling at restraints, given 4mg versed bolus and increased gtt to 6mg/hr, quieter, still easily arousable. Will not follow commands, staring to make eye contact. No matter what position she is in she attempts to roll to R side. 
+
+GI: TF changed to promote with fiber with promode added, goal 45cc, now up to 25cc hr. advance by 10cc q 4hrs. No stool. BS(+).
+
+GU: Cr remains .6, cont to vigorously respond to lasix gtt. 
+
+ID: T 102.4 this eve, given tylenol. Cultures sent today, AB changed to Levoflox IV q 12, 1 dose given at 1800.
+
+Endo: ins gtt at 2U/hr, decreased to 1U/hr, BS 104-132, checked q 1hr.
+
+Soc; brother [**Name (NI) 4397**] in this afternoon. 
+
+A/P: cont current plan, wean Neo as tolerated, check lytes and repleate as indicated, sedate to comfort.Good diuresis, filling pressures decreasing, hopefully wean off vent soon.
+",,
+13078,5042,16297,,3089-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-12**] 7:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12713**]
+     Reason: ETT placement, ? pneumonia                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         60 year old woman with CHF.                                                  
+           
+     REASON FOR THIS EXAMINATION:
+      ETT placement, ? pneumonia                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  CHF.  Endotracheal tube placed. R/O pneumonia. 
+     
+     PORTABLE AP CHEST:  A single AP, semiupright view. Comparison is made to
+     previous films from  [**3089-6-11**].
+     
+     The heart again shows moderate left ventricular enlargement. There is some
+     upper zone redistribution and there is again evidence suggestive for bilateral
+     pleural effusions, suggesting some left heart failure.  There is also
+     collapse/consolidation of the left lower lobe behind the heart.  The
+     endotracheal tube, the NG line, and the right IJ pulmonary artery catheter all
+     remain in satisfactory position.
+     
+     IMPRESSION:
+     
+     LV decompensation with bilateral pleural effusions. Left lower lobe
+     collapse/consolidation. Some atelectasis is also present in the right lower
+     lobe.
+
+",,
+13078,5042,16297,,3089-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-12**] 5:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12714**]
+     Reason: evaluate for chf, effusion.                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          60 year old woman with CHF, now hypoxic s/p extubation                      
+                                       
+     REASON FOR THIS EXAMINATION:
+      evaluate for chf, effusion.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CHF, hypoxic, status post extubation, ? CHF or effusion.
+     
+     TECHNIQUE:  A single portable AP view of the chest is compared with 10 hours
+     prior.
+     
+     FINDINGS:  Again, the right-sided IJ Swan-Ganz catheter terminates with the
+     tip in the right interlobar artery.  There is improved appearance of the
+     pleural effusions and less prominent pulmonary vascular redistribution.  The
+     osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Persistent retrocardiac opacities, representing elevation/collapse.
+     2.  Improved appearance of CHF.
+
+",,
+13078,5042,16297,0,3089-06-12 06:12:00 EST,3089-06-12 06:47:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S: Pt remains sedated
+
+O: Please see careview for complete VS/ additional objective data
+
+Neuro: Pt remains sedated on Fentanyl 50mcg and Versed 5.0mg. Pt more awake this evening than past night. Pt responds to stimuli. Opening eyes staring but unable to track. PEARL. Brisk in response. Pt does not follow simple commands. Pt does attempt to reach for ETT. Soft wrist restraints remain in place to maintain safety of ETT and invasive lines.
+
+CV: Tele-> NSR 79-91. More tachycardic w/ ^ fever. ABP 92-118/55-67. Pt cont on NEO gtt to maintain MAPS>65. Currently Neo gtt @ 1.00 mcg/kg/min. Milrinone unchanged and cont infusing @ .375/hr. Cont aggressive diuresis. Pt negative 2500cc over 24hrs and negative 5+L/ LOS. HO pleased w/ diuresis and ordered decrease in Lasix gtt from 10u to 7.5u/hr. PAP 39-47/15-23. CVP 4-10. ^ with aggitation. H/H stable. K+ 3.5 this am repleted w/ 40 meq KCL. Pt cont to have standing orders for 40 meq KCL BID and neutra phos TID. Palpable pulses bilaterally.
+CO/CI/SVR 4.1/2.63/1229 PCWP 12
+
+Resp: Cont on AC 45%/500/RR 12 (14)/ peep 5. Decreased RR following ABG 75/53/7.5/43. LS remain coarse. Suctioning scant-sm amts white/thick secretions. Inhalers administered by RT. 
+
+GI/GU: TF Promote w/ Fiber w/ Promod at goal 45cc/hr. Minimal residuals. Abd slightly distended. +BS. No stool. F/C cont drain lg amts cyu. BUN/Cr remain stable. 
+
+ID: Cont to be febrile. Tmax [** 58**] 101.5. Treated w/ Tylenol x2. AM 100.5. Cont on abx. Cultures sent yesterday and evening before. Results still pending. WBC 11.9
+
+Endo: Cont on insulin gtt, BS 110-151. Titrated gtt to 2.5u/hr where it currently remains.
+
+Skin: No breakdown noted. 
+
+Social: No calls or visitors [**Name (NI) 58**].
+
+A/P: Cont to wean Neo as tolerated. Maps>65. Filling pressures cont to improve w/ cont aggressive diuresis. HO pleased w/ current fluid status and decreased Lasix [**Name (NI) 58**]. Cont to evaluate and adjust Lasix gtt as necessary. Monitor and replete electrolytes as indicated. Still no stool. ? aggressive bowel regimen. Currently TF at goal. Pt cont to spike  temp through abx tx. Pan cultured past two days. Still waiting for results. Sputum sensitive for Levofloxacin. More awake [**Name (NI) 58**] adjust sedation for comfort. Cont support for pt and family as indicated.
+",,
+13078,5042,16297,0,3089-06-12 13:10:00 EST,3089-06-12 13:30:00 EST,514,"N",1,"Nursing/Other",,"
+
+O. neuro fentanyl weaned down to 20mcg/kg and versed weaned to  1.5mg/hr pt alert following commands pearla equal strength
+cardiac neo weaned to .5mcg/kg map >60 HR 90-[**Street Address **] occ PVC repeat K+ 4.7 milronone at .375mcg/kg/.min skin W+D PP+3 CO 3.6 CI 2.31 SVR 1511.  PA wedge [**9-1**] CVP 5-11
+Resp failed AM RISBI 40 sec apnea presently 1420 RISBI 60 on cpap 5 peep and 5 PS o2 sat 92-95% lungs coarse throughout sx q [**2-26**] thin white secretions
+GU lasix gtt 7.5mg q hr to keep u/o > 100cc a hr 
+gi TF changed to promote with fiber full strength 10cc q hr min residual abd snt BS+ no stool
+Endo insulin gtt 
+ID afebrile wbc 11.9
+Access rt PA, Rt radial aline, [**Last Name (un) **] 20g
+Skin abrasion lt elbow
+a. alt cvs CHF  and alt resp status secondary to MSSA pnx on levofloxin
+DM
+P. cont lasix gtt to keep u/o >100cc qhr goal  500cc-1liter neg
+milronone gtt .375mcg/hr titrate neo keep MAP> 60
+obtain abg 1500 on cpap poss. extubation
+monitor temp wbc cx cont on levofloxcin 14 day course
+TF goal promote with fiber 55cc
+",,
+13078,5042,16297,0,3089-06-12 16:29:00 EST,3089-06-12 16:31:00 EST,962,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt weaned to extubate w/acceptable RSBI. She refused to cough with any effort. Approximately one hr late BIPAP w/ 8/+5 and 50% was applied.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] RRT 
+",,
+13078,5042,16297,0,3089-06-12 20:34:00 EST,3089-06-12 20:53:00 EST,118,"N",1,"Nursing/Other","CCU NPN 3-11PM","
+CCU NPN 3-11PM
+S: ""I want a beer"" , ""Budweiser""
+
+O: see flow sheet for all objective data.
+
+CV: remains on Milrinone with [**Last Name (un) **] CO/CI, weaned off Neo at 3PM, BP and PA pressures increasing when extubated requiring addition of Nipride at 2.5ug/kg/min, has since maintained MAP in 70's. HR 80's most of the day, creeping up to 110's as sedcation weaned, once extubated increased to 130 ST, given Versed 4mg bolus x2 2 hrs apart and increased gtt to 4mg then to 5mg/hr, pt remains alert, restless, feeling scared. HR done sl to 120. Remains on Lasix gtt at 7.5mg/hr, was putting out 100-150/hr, after extubation given 40mg Lasix bolus, good response, is neg 600cc for day, 6L LOS. 
+
+Resp: extubated, after ~20-30min, filling pressures and BP up, RR up to 30, sats dropped to 80, placed on Bipap with subsequent improvement in ABG's, decreased RR. Cough weak initially, stronger now, cough congested, coughed and swallowed secretions. 
+
+Neuro: has been alert, repeatedly asking for drinks, coke, icecream, beer. Very restless, moving continually in the bed. 
+
+Endo: BS 104-174, titrating Reg Ins gtt and following FS q hr. 
+
+GI: TF stopped prior to extubation, no residual, NPO for now. No stool. 
+
+ID: cont on IV levoflox, low grade T. 
+
+Soc: brother and his wife and kids in to visit pt, no word from sons. 
+
+A/P: decompensated post extubation, has responded well to afterlaod reduction, diuresis, bipap. Cont to monitor closely, may be able to give break from bipap tonight. Cont to follow BS and titrate Ins gtt hourly. Cont AB for pneumonia, pul toilet. 
+
+
+
+",,
+13078,5042,16297,0,3089-06-13 03:26:00 EST,3089-06-13 03:41:00 EST,103,"N",1,"Nursing/Other","CCU NSG -PROGRESS NOTE 11P-7A/ S/P CHF/PNEUMONIA","
+CCU NSG -PROGRESS NOTE 11P-7A/ S/P CHF/PNEUMONIA
+
+S- UNABLE TO UNDERSTAND WORDS/LEVEL OF ORIENTATION- BIPAP MASK ON - NOT ANSWERING WITH GESTURES SUCH AS NODDING /SHAKING HEAD YES/NO APPROPRIATELY.
+
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT REMAINS WITH BASELINE HEMODYNAMICS- OF HR- 110'S- 120 ST, NO VEA. BP- 98/57- 121/70- OFF NEO GTT. REMAINS ON NIPRIDE 2 MCG/KG S/P EXTUBATION PULM EDEMA EPISODE/HTN AND REMAINS ON MILRINONE 0.375MCG/KG. 
+K- [**3-2**]- CURRENTLY RECEIVING LAST OF 80 MEQ KCL. 
+AM LABS/CO/CI PENDING.
+PA NUMBERS- PA- 40/20'S WITH CVP- [**9-3**].
+
+RESP- PT CURRENTLY ON BIPAP 5/5 WITH 50%- TV- 450-500CC.
+AT TIMES TACHYPNEA AS RELATED TO LEVEL OF AGITATION.
+ALL VALUES UNCHANGED- APPEARS TO BE TOLERATING BIPAP CURRENTLY S/P EVE EXTUBATION. O2 SATS- MID 90'S. DIM AT BASE- OTHERWISE CLEAR- (+) INHALERS AS ORDERED.NO WHEEZE.
+ATTEMPTED D/C BIPAP EARLIER ON EVES- DID NOT TOLERATE.
+
+ID- AFEBRILE- REMAINS ON LEVO FOR (+) PNEUMONIA.
+
+GI- NPO S/P EXTUBATION- OG/NG TUBE OUT. NO STOOL (+) BS.
+
+ENDO- INSULIN GTT- 0-1.5 U FOR BS- 67-160- SEE FLOWSHEET.
+Q 1 HOUR FINGER STICKS
+
+GU- REMAINS ON LASIX GTT - 7.5 INCREASED TO 10 MG FOR DECREASING UO.
+I/O 12 A- (-)688CC- OVERALL I/O- (-) 6200CC.
+GOOD RESPONSE TO INCREASED LASIX GTT.
+
+MS- VERSED 5 MG GTT REMAINS - MUCH MUCH MUCH ISSUE WITH AGITATION SINCE EXTUBATION
+UNABLE TO ASCERTAIN REASON FOR AGITATION OR LEVEL OF AWARENESS.
+NOT ANSWERING QUESTIONS- EVEN WITH NODDING OF HEAD.
+GIVEN HALDOL 2.5, 5 MG OVER 2 HOURS- NOT MUCH DECREASE IN AGITATION LEVEL.
+MUCH REPOSITIONING/SUPPORT.
+WRIST RESTRAINTS/SAFETY.
+
+A/P- PT REQUIRING BIPAP/NIPRIDE/LASIX GTT S/P EXTUBATION
+
+CURRENTLY REMAINS WITH ADEQUATE VENTILATION ON [**5-27**] BIPAP.
+MAJOR ISSUE WITH AGITATION/SAFETY OF LINES ISSUES- REQUIRING CONSTANT SUPERVISION/WRIST RESTRAINT FOR SAFETY.
+
+CONTINUE TO ADJUST INSULIN GTT ACCORDING TO BS Q 1 HOUR.
+CONTINUE TO ADJUST LASIX GTT TO UO/ I AND O.
+CONTINUE TO MAINTAIN PATENCY OF LINES/BIPAP- SAFETY RESTRAINTS/SEDATION.
+CHECK AM LYTES/CO/CI- REPLETE AS NEEDED.
+CONTINUE NIPRIDE/MILRINONE GTT AS ORDERED.
+KEEP FAMILY AWARE OF PLAN OF CARE.
+KEEP ATTEMPTING TO REORIENT/DECREASE ANXIETY AND AGITATION OF PT.
+",,
+13078,5042,16297,0,3089-06-13 05:42:00 EST,3089-06-13 05:43:00 EST,731,"N",1,"Nursing/Other",,"
+
+Resp Care,
+Pt. remained on mask ventilation [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] on CPAP IPS 8/.5/5peep. VT 300-400, RR 20's. Agitated but tol. mask ventilation well. See carevue.
+",,
+13078,5042,16297,0,3089-06-13 16:11:00 EST,3089-06-13 16:17:00 EST,910,"N",1,"Nursing/Other",,"
+
+Pt taken off of mask ventilation at start of shift, placed on 50% aerosol mask.  Tolerating well.  Pt used MDI with help.  Bs diminished with scattered rhonchi. Plan is to leave her off of mask vent. as long as tolerated.             [**First Name8 (NamePattern2) 147**] [**Last Name (NamePattern1) 148**], RRT
+",,
+13078,5042,16297,0,3089-06-13 16:39:00 EST,3089-06-13 17:27:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 7a-7p:
+
+S: It's 1933 and I am in [**Location (un) **].  Please, Please, Help, Help.
+
+O: Please see carevue for all data.
+
+Neuro: Alert and confused following commands inconsistently.  Pt denies pain.  Conts to be agitated and restless.  Remains in bilateral wrist restraints to maintain integrity of lines.  Weaning versed gtt as tolerated currently at 3.5 mg/hr. Pt rec'd haldol 2.0mg IV x 2 with fair effect.  Restarted on xanax, seroquel and celexa this afternoon. 
+?Psych consult when pt's mental status clears.  Per family for 3weeks prior to admission pt confused and anxious with insomnia.  Pt was in bed yelling help and please.
+
+CV: HR 117-122 ST with rare pvc's. Pm K+ 3.1 will be repleted with 60meq KCL, first 20meq infusing.  BP 112-127/64-72 on Nipride gtt 2mg/kg/min.  Per team no orders to wean nipride gtt today, plan to start captopril [**6-14**].  Denies CP. Conts on milrinone 0.375mcg/kg/min and lasix gtt 15mg/hr.  PAD's 14-22 CVP 6(10). C.O/C.I./SVR am/6.1/3.91/1023/pm/3.9/2.50/1600.  No peripheral edema.  Extremities warm and dry.
+
+PULM: Off Bipap at 8am tolerating cool neb 50%.  RR 24-36.  Tachypnea with restless/agitation. Sats 93-99%. LS with crackles in R base.  Pt with occasional congested cough.  Pt will not cough on command.  ABG on cool neb 7.47/55/70/41.  Cont cool neb as long as tolerated.
+
+GI: Abd soft NT +BS.  No stool.  Pt tolerating pills crushed in custard, sips of water and diet slice.  Swallowing w/o difficulty.  Aspiration precautions maintained.  Due to possible need to place pt back on bipap Dr. [**First Name (STitle) 914**] requested to hold meal trays at this time.
+
+GU: Foley cath patent draining light yellow urine.  Conts on lasix gtt increased to 15mg/hr for goal u/o >100cc/hr.  Team aware of hourly u/o.  Goal fluid status is neg 2L for th day.  -1189 since mn and -7449 LOS.  BUN 18(19) Cr 0.6.     
+
+ID: afebrile.  Conts on levofloxacin and oxacillin added for coverage of staph in sputum.  Pt will receive a 14 day course.
+
+ENDO: Conts on insulin gtt currently at 2u/hr.  FS 85-164.
+
+SKIN: Small facial abrasion on L cheek.  Heels and elbows redened cream appiled.  Difficult to preform skin care of pt due to restlessness.
+
+LINES: 2 PIV. RIJ swan ganz and R radial a-line.
+
+DISPO: Full Code
+
+SOCIAL: Pt's brother, niece and nephew visited.  Updated on plan of care.
+
+A: Hemodynamically stable on nipride, milrinone and lasix gtts.  Pulm status stable on cool neb 50%.  Tolerating full liquids. Diuresing on current regimen.  Conts to be restless and agitated on current regimen.
+
+P: Follow hemodynamics on current regimen.  Follow pulm status.  Cont to follow diuresis on lasix gtt.  Replete K+.  Cont Q1hr FS while on insulin gtt. Skin care.  Provide support.  Update family daily.
+",,
+13078,5042,16297,,3089-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3089-6-14**] 7:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12715**]
+     Reason: Evaluate for PA line position                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           60 year old woman with CHF, now hypoxic s/p extubation                     
+                                         
+     REASON FOR THIS EXAMINATION:
+      Evaluate for PA line position                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia after extubation.
+     
+     AP CHEST:  In comparison to the prior study of [**3089-6-12**], the right PA
+     catheter is in unchanged position, terminating in an intralobar right
+     pulmonary artery division.  The heart size and mediastinal and hilar contours
+     are stable and within normal limits.  Hyperinflation of the lungs is
+     consistent with underlying emphysema.  Mild pulmonary vascular redistribution
+     is unchanged, as is the small right pleural effusion.
+     
+     IMPRESSION:  Stable mild  CHF.
+
+",,
+13078,5042,16297,0,3089-06-14 04:28:00 EST,3089-06-14 04:49:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P RESP FX; CHF","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P RESP FX; CHF
+
+S- "" SOMETHING TO DRINK?""
+
+O= SEE FLOWSHEET FOR OBJECTIVE...
+
+CV- HR- 113-122 ST= MINIMAL VEA- K- 3.1- 80 KCL. BP- 107/65- 136/76.
+REMAINS ON MILRINONE 0.375 AND NIPRIDE 1-2MG. MV SAT- 55% DOWN FROM 63% EARLIER- CO/CI/SVR PENDING. STARTED CAPTOPRIL 6.25 TID QHS.
+AM LABS PENDING CURRENTLY.
+
+RESP- PT ON 50% NEB- O2 SATS- MID 90'S- WEAK COUGH- SOMEWHAT PRODUCTIVE. RESP TX X 2 FOR WHEEZES. DIURESING GREATLY TO LASIX IV BID AS ORDERED- 100-180/HOUR VIA FOLEY
+PA #- 40/18-22. WITH INCREASED PA PRESSURES- RESTART NIPRIDE AFTER OFF FOR BP- 80/ ., TITRATING NIPRIDE UP AND DOWN- CURRENTLY 1MG.
+NO NT SUCTIONING THIS SHIFT.
+MAINTAINING O2 SATS
+ABG- SIMILAR TO PREVIOUS- 7.45/59/71
+
+ID- AFEBRILE- ON OXACILLIN/LEVO FOR STAPH SPUTUM
+
+GI- TAKING MEDS /LIX - SOME COUGHING- MIXING MEDS IN CUSTARD.
+REQUIRES MUCH SUPERVISION WITH ANY PO'.S
+LETHARGIC.
+
+GU- DIURESING TO 40 LASIX BID- 100-180/HOUR.
+I/O (-) 1400CC AS OF 12 A
+OVERALL- (-) 7700 L LOS.
+
+MS- PT ANXIOUS, RESTLESS, ORIENTED X [**1-24**].
+BROTHER IN ALL EVE. TALKING TO MD/RN
+PT ON VERSED 3.5 GTT.
+PUT BACK ON PO PSYCH MEDS- TAKING PO.
+HALDOL 2 MG Q 4 HOUR PRN.
+LESS RESTLESS THAN LAST NITE, BUT STILL REQUIRING MUCH SUPPORT. AND WRIST RESTRAINTS FOR SAFETY.
+
+A/P- PT WITH CHF/RESP FX/PNEUMONIA- CURRENTLY TOLERATING EXTUBATION
+
+SOME DECREASE IN CO/CI- ATTEMPTING TO TRANSITION CAPTOPRIL OVER FROM NIPRIDE 
+
+ANXIETY AND AGITATION BECOMING BETTER CONTROLED ON BASELINE PSYCH MEDS AND HALDOL AS ORDERED
+
+
+CONTINUE TO CLOSELY MONITOR RESP STATUS/PULM TOILET- SUCTION AS NEEDED/NEBS/DIURESIS.
+CONTINUE TO OPTIMIZE CV MEDS- CO/CI/SVR- WEAN OVER NIPRIDE TO CAPTOPRIL TODAY AND CONSIDER D/C PA LINE ONCE STABILIZED.
+SUPPORT/SEDATE/PSYCH MEDS .
+KEEP PT AWARE OF PLAN OF CARE AS WELL AS FAMILY.
+CONTINUE ANTIBX/WATCH FOR FEVER/INFECTION
+",,
+13078,5042,16297,0,3089-06-14 12:34:00 EST,3089-06-14 12:55:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN RESP/CV","
+CCU NSG NOTE: ALT IN RESP/CV
+S: ""Please take me home"".
+O: For complete VS see CCU flow sheet
+ID: Pt afebrile. Oxacillin changed to dicloxacillin.
+CV: Pt HR slowly decreasing from 120s to 105-110 ST. Tachycardia presumed to be from pt being dry. She received captopril 12.5 at 8am and BP dropped to 80s. Nipride was shut off and remains off. Milrinone conts at .375mic/kilo. With nipride off CO has dropped with increase in SVR. Last numbers were 3.1/1.99 with SVT 2013. PAP seems to be functioning again with PAP ranging 40s/18-22 and CVP 5-10. Her K+ was 3.5 this am and she was replaced with 40meq iv. 
+RESP: Resp status continues to improve. Her last gas on 5L NP was 7.48/ 86 / 47/ 36. She is now down to 3L NP (her home dose) with sats 94-97%. She has decreased bs.
+RENAL: Lasix drip was shut off at 7am. Pt putting out smaller amts but remains ~200cc neg for the day and ~8000 liters neg LOS.
+GI: Pt taking pills and drinking orange crush without problem. She will take only 1 or 2 bites of food and refuses more.
+ENDO: Blood sugars in 90s at 8 and 9am and insulin drip shut off. Sugars are now increasing. At 11am she received 4u reg insuin for blood sugar of 154. At 2pm it was 137. 
+MS/SEDATION: Pt much more alert. Versed decreased to .5mg iV. She is taking all her psych meds. She is oriented X 1. She wants very much to go home. SHe has not been very aggitated and seems to be coping better. Her family is in to visit and help to keep her calm. She is up in the chair and much more comfortable.
+A: Off lasix, insulin, nipride and on decreased versed.
+P: Monitor for change. Follow CO and SVR as captopril kicks in. Increase as tolerated. REorient pt as necessary. Use family as support.
+
+",,
+13078,5042,16297,1,3089-06-14 21:55:00 EST,3089-06-14 22:08:00 EST,488,"Y",1,"Nursing/Other","CCU NPN 1500-1900","
+CCU NPN 1500-1900
+ENDO: BS 101-140'S WITH SMALL PO INTAKE OFF INSULIN GTT.
+",,
+13078,5042,16297,0,3089-06-14 21:55:00 EST,3089-06-14 22:07:00 EST,488,"N",1,"Nursing/Other","CCU NPN 1500-1900","
+CCU NPN 1500-1900
+S/O:
+
+CV: MILRINONE CONT. CAPTOPRIL GIVEN AT 1900 ONCE PT BACK TO BED. SBP ALMOST IMMEDIATELY FELL TO 60'S. 250CC NS BOLUS GIVEN WITH SOME EFFECT BUT NEO STARTED AND TITRATED UP, STARTING TO WEAN NOW AS CAPTOPRIL WEARS OFF. C/O ON NEO UNCHANGED. PAD'S AND CVP'S ARE IN TEENS BUT PT CERTAINLY SEEMS DRY WITH DRY MUC MEMBRANES. I/O'S EVEN FOR TODAY. NO LASIX GIVEN. LYTES WNL. NO CP/SOB. PT ABLE TO SIT UP IN CHAIR FOR MOST OF THE DAY.
+
+RESP: POS VERY PRODUCTIVE COUGH BUT PT SWALLOWING SPUTUM. LUNGS WITH COURSE BS. NO RALES HEARD. ON 3LNP WITH SATS IN HIGH 90'S. RR IN 20'S, NON-LABORED.
+
+ID: AFEB. CONT IN DICLOX AND LEVO.
+
+GI: DIET ADVANCED TO SOFT SOLIDS, PT ATE SOME MASHED POTATOES AND SOUP. POOR APPETITE. SMALL HARD STOOL X2 TODAY. PT NEEDS SUPPOSITORY BUT PT SOUND ASLEEP AFTER SHE WENT BACK TO BED. DIFFICULT FOR PT TO TAKE PILLS AT 2200 ALTHOUGH DID WELL WHEN SHE WAS SITTING IN THE CHAIR. WILL ATTEMPT IN AM. ABD SOFT WITH POS BS.
+
+GU: URINE SCANT BUT INCREASED AFTER FLUID BOLUS. CREAT NL. 
+
+MS: ORIENTED X1 BUT COOPERATIVE AND PLEASANT. HARD TO AROUSE AT 2200, VERSED GTT D/C'ED AND XANAX HELD. PT SEEMS EXHAUSTED AFTER DAY IN CHAIR. BROTHER [**Name (NI) **] IN FOR MOST OF THE DAY. 
+
+A/P: WEAN NEO AS TOL. FOLLOW C/O AND ADJUST MILRINONE ACCORDINGLY. SAFETY PRECAUTIONS AS PT NOT FULLY ORIENTED. ENCOURAGE TURNING AND DEEP BREATHING TO CLEAR LUNGS. CONT WITH REHAB AS TOL. PUSH PO'S IN AM. ? SUPPOSITORY VS MOM IN AM.
+",,
+13078,5042,16297,0,3089-06-15 06:40:00 EST,3089-06-15 06:47:00 EST,105,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+11 PM - 7 AM
+S "" I'M HAVING AN ANXIETY ATTACK ""
+O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA 
+CV HR 90-100'S..FREQUENT MULTI FOCAL PVCS ...SBP 90-100'S/60'S..CONTINUES ON MILRINONE AT .38..NEO WEANED OFF..PAD 18-23..CVP 6-8...C.O/INDEX PNDG THIS AM 
+RESP ON 3L NP WITH PROD COUGH OF THICK GRN SPUTUM 
+GI / GU NO ISSUES ..URINE OUTPUT PER FLOWSHEET 
+GIVEN XANAX PER PT'S REQUEST FOR C/O ANXIETY ..YET PT  NOT HYPERTENSIVE OF TACHYPNEIC ..PT OBSERVED TO BE CALM AND COOPERATIVE ..
+A RECOVERING SBP AFTER INCREASED DOSE OF CAPTOPRIL GIVEN 
+P ? D/C SWAN TO TLC ..ADVANCE DIET / ACTIVITY
+",,
+13078,5042,16297,0,3089-06-15 16:40:00 EST,3089-06-15 17:03:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 7a-7p:
+
+S:  ""I'm nervous I'm having a anxiety attack""  ""I dont' why I can't have what I want""  ""I want ativan""  ""Don't ask me why I'm nervous"".
+
+Neuro: Alert and oriented x 2.  Pt able to state she is in the hospital, year [**3088**], month April.  Pt with no memory of recent events. Pt agitated with explaination regarding illness and reason for lines etc.  Pt conts on meds from home.  Xanax increased to Q4hr await effects.  H.O. to order haldol this evening if indicated.  No attempting to get OOB or pull lines out.  Team plans to have pt undergo a psych consult prior to discharge.  
+
+CV: ST HR 103-112 with rare PVC's prior to repleting K+ of 3.3. Milrinone gtt off at 11am.  BP 96-126/55-66.  Pt rec'd decreased dose of captopril 6.25 po at 11:30am transiently dropped BP to SBP 70-80's x 15-30min then increased w/o intervention.  Plan to decrease captopril dose to BID from TID.  Swan in place PAD's 18-25 CVP 7-9. C.O/C.I/SVR 4.5/2.88/1227. MV 59.  Pm numbers pending.  Pt started on lasix 80mg po QD with minimal diuresis. Pt denies CP.  Feet cool and red.
+
+PULM: Maintaining sats on 3L NC (home o2 dependent). pm abg pending.  LS coarse throughout with occasional exp wheeze.  Pt using MDI's with assistance.  Extubated x 3 days.  Pt with +nasal congestion.  Congested productive cough for thick brown sputum.  Fair cough, needs reminding to expectorate secretions.  OOB to chair with two assist.  Pt becomes tachypnea with increased activity ie turning in bed, minimal reserve.  Sats 94-99%.  RR 20-35.
+
+GI: Abd soft +BS.  Pt denies n/v.  Pt taking minimal po's but drinking well.  Small soft brown stool on BSC.
+
+GU: Foley cath patent draining yellow urine with sediment.  Pt restarted on lasix 80mg po QD. BUN 18/Cr 0.7. -7522 LOS and -116 since mn.
+
+ID: afebrile. Conts on levo day 5 of 14 and dicloxacillin for staph in sputum.
+
+ENDO: FS 189 and 160 rec'd regular insulin ss.  ? restarting oral med now that pt taking in po's.
+
+SKIN: Heels, elbows and coccyx redened.  Pt refusing to lie on side while in bed.  Small facial abrasion on L cheek, open to air.  
+
+LINES: RIJ swan ganz.  R radial a-line and I PIV.
+
+SOCIAL: Pt's brother visiting this afternoon.
+
+A: Hemodynamically stable off milrinone.  Becomes hypotensive following captopril dose. +anxiety requiring increased xanax dose.  Poor appetite. Pulm status stable on 3L NC.
+
+P: Cont to assess pt's mental status, xanax Q4hr.  Team to add haldol prn overnight.  Await pm lab results.  Cont pulm toileting.  Encourage appetite.  FS QID.  Skin care.  Provide support.  
+
+
+",,
+13078,5042,16297,0,3089-06-16 01:25:00 EST,3089-06-16 01:32:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Notes","
+CCU Nursing Progress Notes
+S"" Can I get up in the chair?""
+O: Pt alert and  oriented X2. Follows commands, MAE. C/O feeling anxious, Requesting Xanax. Family present and effective in providing emotional support. Pt med w/Xanax w/ good effect. Pt tolerated being up in chair for 1 1/2 hr. Pt giddy,and w/ behavior as if she where intoxicated. Also drooling from right side of her mouth. Moves everything symetrically.
+",,
+13078,5042,16297,0,3089-06-16 04:52:00 EST,3089-06-16 05:17:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Note con't","
+CCU Nursing Note con't
+O:Pt moving all extremities symetrically. Pt anxious and requesting sedation. Klonopin given w/ out effect.  Haldol 5mg total given w/ min effect. Resp:Lungs this am Dim at bases, crackles >R than L. Remains tachypneic at baseline. Anxiety episode occurred w/ increase BP,HR,PA pressures and decrease in Sats. Pt dangled at edge of bed, above reported to MD, addition dose of Konopin given w/ min effect. CV: SR to ST, PVCs. Fick CO/CI >2. See flow sheet for central numbers. Rec'd Capoten for high pressures, pt then became hypotensive requiring a fluid bolus. +mur. DP weakly palp. Feet cold to touch. Nail beds dusky. GI: +bs, GU:u/o decreasing this am. ENDO: Glu 87 no cov. ID: afebrile. 
+A/P:Psych consult for better anxiety control and med regulation. Con't Pulm toileting. D/C invasive lines if pt remains hemodynamically stable. 
+",,

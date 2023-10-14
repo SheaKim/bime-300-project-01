@@ -1,0 +1,269 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13763,29015,,,3295-02-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3295-2-9**]              Discharge Date:   [**3295-2-13**]
+ 
+Date of Birth:  [**3231-2-28**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Risperidone
+ 
+Attending:[**First Name3 (LF) 5322**] 
+Chief Complaint:
+Fever and mental status change
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture in Emergency room.
+
+ 
+History of Present Illness:
+   63 y/o M w/mental retardation, schizophrenia, type 2 DM, 
+hyperlipidemia, who was brought to the ED [**3295-2-9**] from his NH 
+after he was noted to be more lethargic for 2-3 days, and 
+febrile to 103. At baseline he is not oriented, but frequently 
+yells; however over the past few days had not been as 
+interactive. Review of systems unable to be obtained as pt 
+doesn't answer questions, but per notes he was simply lethargic. 
+Had recently completed course of cephalexin for infected foot 
+ulcer.  
+*  
+   Per his family, he has had a steady decline over the past few 
+months and hasn't been walking as much, although per his PCP he 
+is able to walk when he wants to.  
+*  
+   In the ED, he was febrile to 103.4, tachycardic, but 
+hemodynamically stable. He was given 4L NS, tylenol, aspirin, 
+vancomycin, ceftriaxone, and lopressor. He was noted to have an 
+elevated CK, and because of this and fever there was concern for 
+neuroleptic malignant syndrome, so he was admitted to the 
+Medicine service.  
+
+ 
+Past Medical History:
+1.Schizophrenia  
+2. type 2 DM (intermittently hyper- and hypoglycemic)  
+3.Psychosis  
+4.dementia  
+5. recent cellulitis for which he was treated with cephalexin.
+  
+ 
+Social History:
+lives in nursing home. + tobacco use.  patient's sister is very 
+involved and speaks english to translate for patient.
+
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+Vitals: 100.8R, HR84 BP108/31 RR19 O2sat 100% on face mask.  
+GEN: elderly male lying on side of bed, non communicative, not 
+responding to name, eyes open but not following object.  
+HEENT: NC/AT, sclera anicteric.  
+NECK: rigid, no LAD  
+CV: reg rate, s1 s2  
+LUNG: CTAB  
+ABD: soft, NT/ND, +bs  
+EXT: rt heal has a stage 1 pressure ulcer of 3cm. +ankle clonus  
+
+NEURO: noninteractive, +intermittent rigor. neuro exam limited 
+due to pt's mental status.  
+. 
+ 
+Pertinent Results:
+GLUCOSE-307* UREA N-26* CREAT-1.3* SODIUM-144 POTASSIUM-4.1 
+CHLORIDE-106 TOTAL CO2-24 ALT(SGPT)-26 AST(SGOT)-34 
+CK(CPK)-1350* ALK PHOS-54 AMYLASE-47 TOT BILI-0.5   LIPASE-14
+
+WBC-20.2*# RBC-4.64 HGB-14.4 HCT-41.8 MCV-90 MCH-31.0 MCHC-34.4 
+RDW-13.0  PLT COUNT-218
+  - NEUTS-88.3* LYMPHS-6.0* MONOS-5.4 EOS-0.1 BASOS-0.1
+
+PTT-22.2 INR(PT)-1.1 LACTATE-3.3*
+LITHIUM-0.8
+
+UA negative
+
+CSF cx no growth, WBC 0 RBC 0 PROTEIN-52* GLUCOSE-183 LD(LDH)-28
+
+CK-MB-11* MB INDX-0.8 cTropnT-0.39*
+.
+.
+STUDIES:
+CXR [**3295-2-9**]: no change from prior, no effusion or infiltration 
+. 
+ABD film [**3295-2-9**]: no SBO  
+.
+ECG [**3295-2-9**]: NSR, nl axis, downsloping ST segments in I/L (new) 
+with old TWI in these leads, TWI v2-v6 (new) with [**Street Address 463**] dep in 
+v4-6 (also new) 
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 9625**] is a 63 y/o M w/type 2 DM, schizophrenia, mental 
+retardation, admitted with fever, altered mental status, found 
+to have elevated CK, dehydration and subsequent hypernatremia.  
+It was unclear whether the patient initially presented with NMS. 
+ No infectious source was found including clear urine, CXR, CSF 
+and negative stool culture. Blood cultures have been negative 
+for 4 days.  Notably, the patient returned to his basleine 
+mental status by the morning of the second hospital day. At 
+baseline the patient is able to answer questions in spanish, to 
+request things he wants, and he shouts out frequently for 
+""coffee,"" ""water,"" ""cigarettes,"" and ""amigas.""
+
+The patient was followed by both neurology and psychiatry.  It 
+was unclear whether the patient had NMS, but his antipsychotics 
+were all stopped on admission. On the third hospital day the 
+patient received 1mg risperidal twice for aggitation.  As 
+psyciatry did not believe the patient had NMS, they recommended 
+reintroducing psych meds only slowly.  We have restarted the 
+patient on Risperidone 1mg PO qAM and qhs without complication.  
+Lithium should be held indefinitely for possible DI as discussed 
+below.  Other psych meds should be reintroduced only as needed, 
+and will be followed by the patient's PCP as an outpatient.
+
+The patient was resuscitated with 4L NS in the ER and on the 
+following morning was found to have a sodium of 154 as well as 
+to be polyuric.  His urine osms were 313, which suggests either 
+osmotic diuresis secondary to large osmotic load of sodium or 
+partial DI perhaps secondary to lithium.   The patient had an 
+intact thirst mechanism and was able to drink honey thickened 
+water.  He was repleted with D5W (about 2.5L) as well as allowed 
+to drink.  The patient's sodium responded well, decreasing to 
+147 in 24 hours.  Upon further observation the patient was seen 
+to drink a tremendous amount of water (in excess of 9L per day) 
+and to put out urine in accordance with that intake (about 9L 
+per day).  The patient likely has a component of partial 
+Diabetes Insipidus, likely secondary to lithium (either central 
+or nephrogenic, as both are possible in the presence of 
+lithium).  We did not pursue or work this up further as the 
+patient proved he was able to drink as needed to return his 
+sodium to normal and maintain normal sodium.  The patient should 
+be allowed ot drink honey thickened water as an outpatient as 
+liberally as his thirst requires.  Lithium should be held 
+indefinitely.
+*  
+The patient was kept on aspiration precautions following an 
+aspiration event reported by nursing in the ER.  He failed 
+initial swallow study but follow up video study showed that he 
+could drink honey-thickened liquids and pureed foood with 1:1 
+supervision and the use of a spoon but not a straw.  This diet 
+should continue.
+
+For his elevated CK and troponin the patient was medically 
+managed with his usual home cardiac meds.  His PCP may work this 
+up further after this acute hospitalization.  Due to his 
+elevated CK his lipitor was stopped upon admission and is not 
+being restarted at this time.  The patient's PCP may restart 
+this if CKs normalize as an outpatient.
+
+The patient's diabetes control was challending while he was on 
+D5W, however he was kept on an insulin side scale and will 
+restart his oral meds on discharge.
+ 
+Medications on Admission:
+Meds - per NH records  
+ASA 81qd  
+avandia 2mg qd  
+Lithium 300qam 600qpm  
+cogentin 0.5  
+pepcid 40  
+MVI  
+risperidal 1mg qam 4mg qhs  
+depakote 375 bid  
+colace 100 bid  
+metformin 1000 bid  
+lopressor 25mg bid  
+detrol 4mg qhs  
+lipitor 10mg qd  
+bisacodyl 10mg  
+Novolin R per SS  
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+2. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).  
+3. Risperidone 1 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO qAM and qHS.  
+4. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Avandia 2 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Pepcid 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed.  
+8. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day. 
+ 
+9. Detrol 2 mg Tablet Sig: Two (2) Tablet PO at bedtime.  
+10. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed.  
+11. novolin regular
+Please give according to attached sliding scale.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 1133**] Manor
+ 
+Discharge Diagnosis:
+primary:
+mental status change
+partial diabetes insipidus
+?NMS
+dehydration
+
+secondary: 
+diabetes type II
+CAD and elevated troponin
+schizophrenia
+
+ 
+Discharge Condition:
+mental status at baseline. Sodium within normal limits.
+
+ 
+Discharge Instructions:
+PLEASE STOP THE PATIENT'S DEPAKOTE, LITHIUM, AND COGENTIN.
+
+PLEASE GIVE THE PATIENT RISPERIDONE IN HIS NEW DECREASED DOSE OF 
+1MG PO QAM AND QHS.  
+
+PLEASE STOP THE PATIENT'S LIPITOR.  This may be restarted if his 
+CPK enzymes decreases in the future.
+
+Please remove the patient's foley catheter upon arrival to ECF.
+
+Please allow the patient to drink water thickened to honey 
+consistency according to his thirst.  The patient likely has 
+partial diabetes insipidus and will drink a great deal to keep 
+up with urine output.
+
+Please give the patient pureed food and all liquids thickened to 
+honey consistency only as he aspirates otherwise.
+
+Please continue medications as directed.  The patient's primary 
+care physician will follow as an outpatient to reintroduce 
+psychiatric medications as needed safely.
+
+Please call your doctor if [**Doctor First Name **] have fever above 101.4, increased 
+confusion or lethargy, or other concerning symptoms.
+ 
+Followup Instructions:
+Please follow up with your Primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] in 
+the next week.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5325**] MD [**MD Number 4702**]
+ 
+Completed by: [**First Name4 (NamePattern1) 9626**] [**Last Name (NamePattern1) 9627**] MD [**MD Number 9628**] [**3295-2-13**] @ 1356
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1284**]
+ on: [**First Name8 (NamePattern2) 123**] [**3295-2-17**] 1:31 PM
+(End of Report)
+
+
+",,

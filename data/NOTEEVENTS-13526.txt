@@ -1,0 +1,308 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13526,8224,,,3047-01-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3047-1-9**]       Discharge Date:  [**3047-1-13**]
+
+Date of Birth:   [**2960-9-12**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is an 86 year old male with
+history of advanced hormone-refractory prostate cancer,
+elevated PSA and possible bone mets who presented with fever
+and substernal chest pain on [**3047-1-9**].  The patient was a
+poor historian on admission and the details of his history
+were not clear.  The patient had a recent bone scan due to an
+elevated PSA and since then has been complaining of increased
+fatigue.  On the day of admission, the patient had increased
+lethargy and he was found to be febrile at his assisted
+living.
+
+The patient did not note fevers, chills or chest pain but
+does not chest pain of unclear characterization.  The patient
+reports it to be right shoulder pain without elaboration.
+The patient's wife reports shaking and mild abdominal pain
+yesterday.  The patient denies dysuria, headache, shortness
+of breath, cough, nausea, vomiting, diarrhea.
+
+In the ER, the patient was found to be hypoxic.  He was given
+IV Lasix when his chest x-ray showed flash pulmonary edema.
+He was also hypertensive and had received some Nitropaste.
+He then became hypotensive and required a 500 cc normal
+saline bolus and then was transferred to the MICU.
+
+The patient was aggressively volume resuscitated prior to
+transfer with three liters as his systolic blood pressures
+were not being maintained.  He was also given 2 grams of
+Ceftriaxone IV times one.
+
+PAST MEDICAL HISTORY:
+1.  Advanced prostate cancer status post XRT and
+chemotherapy, last PSA 55.  He has been treated with Lupron,
+Casodex and Ketoconazole.
+2.  Hypercholesterolemia.
+3.  Cataracts.
+4.  Dementia.
+5.  Glaucoma.
+6.  Gout.
+7.  History of cholestasis and jaundice.
+8.  Hypertension.
+
+MEDICATIONS:  Flomax 0.4 qd, Protonix 40 po qd, Celexa 10 po
+qd, TUMS 500 po qd, Nitroglycerin prn, Cosopt 1 gtt each eye.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is married times 56 years and
+lives with his wife at assisted living called [**Location (un) 5736**].
+He does not smoke, quit 50 years ago and has approximately
+one drink per day but recently quit.
+
+FAMILY HISTORY:  His father died of stomach cancer.
+
+PHYSICAL EXAMINATION:  Vital signs show temperature of 102.9,
+pulse 83, blood pressure 119/39, breaths 19, satting 98% on
+room air.  In general he is an elderly, somewhat confused
+male, agitated, moves frequently in bed.  HEENT:  PERRL,
+EOMI.  Sclera nonicteric, mildly dry mucous membranes.  Neck
+is supple, difficult to appreciate JVP.  Cardiovascular:
+Regular rate and rhythm, no murmurs, rubs or gallops.
+Pulmonary:  Upper airway transmitted sounds with some
+wheezing, slightly tachypneic, otherwise clear.  Abdomen:
+Positive bowel sounds, soft, nontender.  Extremities:  No
+cyanosis, clubbing or edema, 1+ pedal pulses.  Neurologic:
+Oriented to hospital, self, [**5-25**] motor and lower extremities.
+
+HOSPITAL COURSE:
+1.  Sepsis:  On admission the patient's blood cultures were
+positive for gram-negative rods in 2/4 bottles which later
+grew out to be E. coli which where pansensitive.  The
+patient's urine culture also grew E. coli.  The patient was
+found to have sepsis secondary to a UTI.  The patient
+required Dopamine transiently on admission to the MICU due to
+low blood pressures but then improved and his Dopa was weaned
+on day two of his MICU stay.  The patient was treated with
+Levo and Ceftriaxone initially on [**1-12**] after his cultures
+and sensitivities as being sensitive to quinolones.  His
+Ceftriaxone was discontinued.  The patient will be treated
+with a three week course of Levaquin.
+
+On admission the patient had been complaining of chest pain
+and his troponins showed him to have an acute non Q wave MI
+though his CKs were not elevated.  His cardiac ischemia was
+thought to be secondary to demand.  He was started on a
+Heparin drip times 48 hours as per Cardiology's
+recommendations.  He was also continued on aspirin, beta
+blocker and on the day of discharge the patient was also
+started on an ACE.  The patient was noted to have ST
+elevations on day two of his MICU stay.  While he denied
+further chest pain, the patient was continued on the Heparin
+drip.  This was discontinued on [**3047-1-12**].
+
+The patient had a subsequent echocardiogram which
+demonstrated a depressed EF of 25% to 30% with severe left
+ventricular dysfunction and a marked anterior akinesis.  On
+discussing with the patient's attending, Dr. [**Last Name (STitle) **], it was
+decided that given the patient's advanced metastatic disease,
+anticoagulation would not be started on the patient such as
+Coumadin.
+
+2.  Pulmonary:  The patient was desatting on admission and
+required some oxygen due to aggressive volume repletion for
+hypotension.  On discharge, the patient's room air stats were
+96%.
+
+3.  Hypoglycemia:  The patient had some episodes of
+hypoglycemia in the MICU which was attributed to sepsis.  The
+patient has no history of diabetes so the patient was placed
+on an sliding scale of insulin.  This will be stopped as the
+patient is going to rehab and we are recommending that his
+blood sugars are checked while fasting to prevent
+hypoglycemia.
+
+4.  Prostate cancer:  The patient likely had bone mets from a
+recent bone scan.  The plan was for the patient to have
+continued hormonal therapy or chemo but this will be decided
+by his outpatient oncologist, Dr. [**Last Name (STitle) 294**].  The patient had
+some episodes of hematuria after his Foley was discontinued.
+The Foley was replaced when the patient failed a voiding
+trial and then discontinued again and the patient had no
+further hematuria but this should be followed up after the
+patient is discharged.
+
+5.  Dementia:  The patient had some episodes of sundowning
+while in the hospital however this was not worse than his
+baseline and not surprising considering his recent sepsis.
+
+6.  Code status:  The patient was DNR/DNI while in the
+hospital however the patient did accept pressors and required
+them d[**MD Number 278**] his MICU stay.
+
+DISCHARGE CONDITION:  The patient's condition is stable.
+
+DISCHARGE DIAGNOSES:  Sepsis secondary to UTI, bacteremia,
+acute MI.
+
+FOLLOW UP PLAN:  The patient is to follow up with Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 294**] on [**3047-2-23**] at 10:30 in the Heme Onc Clinic.
+
+DISCHARGE MEDICATIONS:  ASA 325 one po qd, Calcium carbonate
+500 mg one po qd, Protonix 40 mg one po qd, Metoprolol 25 mg
+po bid, Tamsulosin 0.4 one po qd, Dorzolamide - Timolol 2.5%
+one drop ophthalmic qd, Citalopram 20 mg one po qd,
+Levofloxacin 500 mg po qd continued for a total of two week
+course.
+
+
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 7876**]
+
+Dictated By:[**Last Name (NamePattern1) 9197**]
+MEDQUIST36
+
+D:  [**3047-1-13**]  12:27
+T:  [**3047-1-13**]  15:10
+JOB#:  [**Job Number 9222**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: [**Doctor First Name 123**] [**3047-1-14**] 8:08 AM
+(End of Report)
+
+
+",,
+13526,8224,16827,0,3047-01-10 16:33:00 EST,3047-01-10 17:04:00 EST,2285,"N",69,"Nursing/Other",,"
+
+Nursing Admit Note
+
+This is a an 86 yo male who came to the EW from an assisted living facility.  Pt with fever, lethargy, SS CP yesterday, hypotension.  He was treated w/IVF, U/A showed a UTI, pos EKG changes, pos troponin.  His BP cont to drift down, he was given additional fluid for a total of 3 liters.  He started to have audible wheezes, CXR showed CHF - given IV 40 mg lasix.  Pt resp status improved but BP again drifted down, he was started on dopa.
+
+PMed Hx:  advanced prostated CA s/p xrt and chemo, lelvated chol, gout, cataracts, glaucoma, s/p chole w/jaundice, dementia, , HTN
+
+Allergies:  NKDA but should not receive Tylenol per daughter due to his liver (LFTs are elevated)
+
+Systems Review
+
+Neuro:  A&O, cooperative, following commands.  Sleeping on and off through the day but easily arousible.
+
+CV:  Pt Initially required 6 mcg/kg/min of dopa, he was given 250cc of IVF over 1 1/2 hrs, dopa is now at 2.5 mcg/kg/min.  He denies SS CP, he conts on a hep gtt at 850 units/hr.  CPK 68/84, (#1/#2) troponin .5/.65, cardiology to be consulted.  K 2.9 was repleted.
+
+Resp:  LS with rales at the bases bilat, on 2 L NC with an 02 SAT of 98%, no SOB, sleeping comfortably with the bed flat.
+
+GI:  Fair appitite, no stool
+
+GU:  Good u/o, urine with echoli >100,000, blood cultures came back gram neg rods in both the arobic and anarobic bottles x1 set.  He was remained afebrile, abx cont.
+
+
+
+",,
+13526,8224,16827,,3047-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3047-1-11**] 5:06 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 689**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: see below                                                   
+     Admitting Diagnosis: FEVER
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with prostate cancer and focal wheezes, please assess for pulm 
+      disease or progression of ca.
+     REASON FOR THIS EXAMINATION:
+      see below                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Wheezing and prostate cancer.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung apices through
+     the pubic symphysis after the administration of intravenous and oral contrast.
+     Precontrast and portal venous phase imaging through the liver were also
+     obtained.
+     
+     150 cc of Optiray was administered and used secondary to patient's debility.
+     
+     COMPARISONS: [**3046-9-8**] abdomen and pelvis only.
+     
+     CT CHEST WITH CONTRAST:  The heart is mildly enlarged. There are coronary
+     artery calcifications. The pericardium and great vessels are unremarkable.
+     There is no mediastinal, hilar, or axillary lymphadenopathy. There are small
+     to moderate bilateral pleural effusions with associated atelectatic changes at
+     the lung bases.  The lungs are otherwise clear. The airways are patent through
+     the segmental levels bilaterally.  There is gynecomastia.
+     
+     CT ABDOMEN WITH CONTRAST:  The liver, gallbladder, spleen, atrophic pancreas,
+     adrenals, left kidney, ureters and small bowel loops are unremarkable.  There
+     is a stable approximately 3 cm simple cyst in the mid right kidney which is
+     otherwise unremarkable.  The colon is normal.  There is a trace amount of
+     fluid along the paracolic gutter on the right as well as tracking anterior to
+     the lower left psoas muscle.  Calcifications are noted in the region of the
+     takeoff of the celiac artery and SMA and calcifications are noted in the
+     splenic artery. Calcified lymph nodes are again noted in the mesentery on the
+     right.  There is no mesenteric or retroperitoneal lymphadenopathy.
+     
+     CT PELVIS WITH CONTRAST:  A few diverticulae are noted in the sigmoid colon.
+     Rectum is unremarkable.  The urinary bladder is notable for small bladder
+     diverticulae anteriorly. The prostate gland is again noted to be enlarged and
+     heterogeneous with a lobular low attenuation protrusion along the left
+     posterolateral aspect.  Small iliac chain lymph nodes are again noted and
+     unchanged since the prior study.
+     
+     BONE WINDOWS:  There are asymmetric foci of sclerosis involving the T6
+     pedicle, the left aspect of the manubrium and the anterolateral left 5th rib
+     which correspond to foci of increased tracer activity on the recent bone scan
+                                                                 (Over)
+
+     DATE: [**3047-1-11**] 5:06 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 689**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: see below                                                   
+     Admitting Diagnosis: FEVER
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     of [**3047-1-7**] and are consistent with osseous metastases.  There are fractures
+     of the right posterior 6th, 7th and 8th ribs which were in part seen on the
+     previous CT scan dating back to [**3046-8-4**].  These fractures correspond to foci
+     of increased tracer uptake on the bone scan.  No foci suspicious for
+     metastatic disease are noted in the acromioclavicular region or in the lumbar
+     spine.
+     
+     IMPRESSION:
+     
+     1) Bilateral pleural effusions with associated atelectasis.
+     2) Stable appearance of enlarged heterogeneous prostate gland with a lobular
+     component extending from the left posterolateral aspect.  No associated
+     lymphadenopathy.  There are findings consistent with osseous metastases
+     involving the left aspect of the manubrium, T6 vertebral body, and
+     anterolateral aspect of the left 5th rib (these correspond with findings on
+     recent bone scan).
+     3) Right rib fractures which date back to [**3046-7-21**].
+     4) Vasculopathy.
+     5) Gynecomastia.
+     6) Cardiomegaly and coronary artery disease.
+     
+
+",,
+13526,8224,16827,0,3047-01-11 05:40:00 EST,3047-01-11 05:55:00 EST,2751,"N",69,"Nursing/Other","MICU-B NPN 1900-0700","
+MICU-B NPN 1900-0700
+PLEASE SEE FHP AND ADMIT NOTE FOR FURTHER DETAIL AND HX.
+PLEASE NOTE NKDA, BUT PER DAUGHTER NO TYLENOL SECONDARY TO ELEVATED LFTS. 
+
+NEURO - PT. AXOX3; WITH OCCAS. CONFUSION THIS EVE; REORIENTS VERY EASILY. PT. @ 0500 FOUND ATTEMPTING TO CLIMB OOB; IN BETWEEN SIDE RAILS. POSEY PLACED FOR PT. SAFTEY. PT. AWARE AND IN AGREEMENT THAT SAFETY IS A PRIORITY. DENIES PAIN. +MAE; MOVING INDEPENDENTLY IN BED.
+
+RESP - ON 2L NC WITH O2SATS 97-99%. RR 20'S. LS CLEAR UPPER WITH CRACKLES NOTED TO BILAT. BASES. DENIES SOB OR DYSPNEA. AUDIBLE WHEEZING NOTED THIS AM. TO RECEIVE PRN NEB TX. 
+
+C/V - HR 60'S-90'S, NSR WITH OCCAS. PVCS NOTED. AM LABS WITH K+, MG., PHOS, AND CA. IN NEED OF REPLETION. TEAM NOTIFIED. PT. RECEIVED ON DOPA. GTT. @ 2.0MCG/KG/MIN. WEANED TO OFF @ 0000. NBP STABLE OVER/NOC. 80'S-ONE-TEENS/30'S-50'S WITH MAP 60'S-70'S OFF DOPA.  PT. WITH +EKG CHANGES ON ADMIT AND ELEVATED TROP.  ON HEP. GTT. RUNNING @ 850U/HR MOST OF SHIFT UNTIL 0500. PTT 48.8; PER HEP. GTT SLIDING SCALE ORDER; RATE INC. TO 1000U/HR. SHOULD REPEAT PTT LEVEL IN 6HOURS. PERIPHERAL PULSES PALPABLE. NO EDEMA NOTED TO EXTREM.
+
+ID - AFEBRILE. PT. WITH +UTI (E.COLI) AND +BLD. CX. WITH GRAM NEG. RODS. BEING TX. WITH LEVOFLOX. AND CEFTRIAXONE.
+
+GI/GU - PT TOL. HOUSE DIET WELL. ABD. SOFT, NTND WITH +BS NOTED. X3 INCONTINENT SOFT, BROWN STOOL, HEME NEG.  INDWELLING FOLEY IN PLACE; ADEQUATE AMTS. AMBER, URINE WITH SEDIMENT OVER/NOC.
+
+ACCESS - PT. SELF REMOVED 2 PIVS LAST EVE. TWO NEW 20 GAUGE PIVS PLACED TO (R)WRIST AND LAC(WHICH DRAWS WELL); BOTH PATENT, SECURED WITH KERLEX; SITES WNL.
+
+SOCIAL - PT. DAUGHTER CALLED OVER/NOC. UPDATED ON PT. STATUS AND CONT. PLAN OF CARE. 
+",,

@@ -1,0 +1,101 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13964,21498,,,2911-08-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2911-8-9**]       Discharge Date:  [**2911-8-12**]
+
+Date of Birth:   [**2823-7-18**]       Sex:  F
+
+Service:
+HISTORY OF PRESENT ILLNESS:  The patient is an 88 year-old
+woman who was hit in the head four weeks prior to admission
+in the bathtub with no loss of consciousness, no headache and
+no nausea or vomiting.  After a week of headache on the left
+side, no vomiting, but it did wax and wane and she did have
+had a CT, which showed minuscule bleed.  She did not get any
+improvement with Tylenol.  She was getting dinner and could
+not pick up anything with her right hand and having
+clumsiness for a week and now having shaking in the right
+hand and unable to cut things and went to the Emergency
+Department.
+
+noninsulin dependent diabetes, congestive heart failure.
+
+MEDICATIONS:  Prevacid, atenolol 12.5 po q day, K-Ciel 10
+milliequivalents po q day, Lasix 20 mg po b.i.d., ASA q.o.d.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Mental status, awake and alert,
+oriented times three.  She is able to speak fluently and
+appropriately.  Repetition intact.  Attentive.  Spelled world
+forward and backward.  Fund of knowledge intact.  Cranial
+nerves II through XII intact.  Extraocular muscles are
+intact.  Positive nystagmus.  Cataracts.  Visual fields full.
+Face symmetric.  Palette rises symmetrically.  Tongue
+midline.  Motor strength, trace pronator drift in the right
+upper extremity, right grasp 4 - out of 5, interossea 5- out
+of 5 otherwise all muscle groups are 5 out of 5.  Sensory
+decreased in the palm to temperature, question increase to
+pin prick otherwise intact.  Coordination finger to nose
+slower on the right then on the left.  Reflexes bilaterally
+up going toes, otherwise intact.  No clonus.  Reflexes
+symmetric.
+
+LABORATORIES ON ADMISSION:  White blood cell count 8.5,
+hematocrit 31.6, platelet count 278, sodium 132, K 4.5,
+chloride 94, CO2 26, BUN 21, creatinine 1.8, glucose 114.
+Head CT shows subacute left subdural hematoma with no
+increasing in the interval.
+
+The patient was monitored in the Surgical Intensive Care Unit
+for close observation.  Her neurological status was awake,
+alert and oriented times three with no drift.  Moving all
+extremities symmetrically.  The patient was discharged to the
+floor on [**2911-8-10**].  On the evening of [**2911-8-10**] the patient
+became extremely confused and combative.  The patient was
+given Haldol and was  provied with sitters.  The patient's mental
+status was clear by the morning of 9/25.  She was without
+sitters.  Her vital signs were stable and she was cognesent
+of the events of the previous evening and apologetic.  The
+patient's mental status continued and remained clear after
+that one episode of confusion.  Her vital signs remained
+stable and she was afebrile throughout her hospital stay.
+
+MEDICATIONS ON DISCHARGE:  Lopressor 12.5 mg po b.i.d.,
+Tylenol 650 po q 4 hours prn, Dilantin 100 mg po t.i.d.,
+Colace 100 mg po b.i.d.
+
+CONDITION ON DISCHARGE:  Stable.
+
+The patient was seen by physical therapy and occupational
+therapy and found to require a short rehab stay prior to
+discharge home.  The patient will follow up with Dr. [**First Name (STitle) **] in
+two weeks time with follow up head CT.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) 421**] [**Last Name (NamePattern4) 422**], M.D.  [**MD Number 423**]
+
+Dictated By:[**Last Name (NamePattern1) 805**]
+MEDQUIST36
+
+D:  [**2911-8-12**]  13:52
+T:  [**2911-8-12**]  14:06
+JOB#:  [**Job Number 9904**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 421**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 123**] [**2911-8-13**] 4:27 PM
+(End of Report)
+
+
+",,
+13964,21498,17368,0,2911-08-10 02:17:00 EST,2911-08-10 02:24:00 EST,3799,"N",54,"Nursing/Other",,"
+
+88 Y.O. female admitted for subdural bleed. Pt. fell 4 weeks ago, in her bathtub, and hit her head. She c/o headache one week later and then presented to [**Hospital1 **]-[**Location (un) **] where a small bleed was noted on CT scan. She now presents with RUE weakness and shaking. States that she can't use utensils or noted a change when she tried to cut with scissors. Repeat scan unchanged; chronic subdural bleed. She was loaded with Dilantin 1 Gram and started on po therapy. Transferred to [**Hospital1 10**] for eval. ? drainage or not. Pt. is totally intact with very minor RUE weakness noted (slight drifting of hand and weaker grasp than left). vss stable. labs stable. NS @100/hr x2 liters. Monitor in unit for the night and transfer out in a.m. if stable.
+",,
+13964,21498,17368,0,2911-08-10 11:22:00 EST,2911-08-10 11:36:00 EST,3420,"N",54,"Nursing/Other","transfer note","
+transfer note
+see icu assessment sheet for past/present medical hx., vs range in icu = t 99.1-97.7, p 66-72, bp 97/30-131/54, r 16-22, cv: nsr, no ectopy, no cardiac gtts, respiratory: breath sounds audible all lobes and course, on room air, sats 95-98, no resp distress, gi: dat tol well, no nausea or stool, gu: foley cath in and patent, uo >/= 30 cc/hr, urine clear, neuro: intact, moving all extremities, perl, alert and oriented, following commands, c/o slight headache "" off and on"", other: iv fluids dc'd, left anticub sl in, 0600 labs = hct 26.9, k 3.9, bun 16, cr 1.3, bs 101
+",,

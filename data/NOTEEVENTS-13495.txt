@@ -1,0 +1,1907 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13495,,,,2906-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-3**] 12:00 PM
+     CHEST CTA WITH CONTRAST                                         Clip # [**Clip Number (Radiology) 342**]
+     Reason: r/o PE
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with ESRD on HD, known pericardial effusion presenting with
+      chest pain, hypoxia, new AF
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain and hypoxia.  New A. fib.  Known pericardial effusion.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the lung bases
+     to the apices with IV contrast.  Multiplanar reformatted images were created.
+     
+     CONTRAST:  150 cc of Optiray was given due to the fast bolus rate of
+     injection.
+     
+     CHEST CT WITH IV CONTRAST:  There are no filling defects seen within the
+     pulmonary artery to suggest the presence of pulmonary embolus.  The heart is
+     markedly enlarged.  There is a large pericardial effusion.  There are no
+     pleural effusions.  Several small subcentimeter lymph nodes are seen in the
+     region of the AP window.  The thyroid gland is slightly prominent.  Several
+     small rounded low attenuation lesions are seen within both lobes of the
+     thyroid gland.
+     
+     Moderate to severe emphysematous changes are seen throughout the lungs, with
+     multiple small blebs.  There are areas of atelectasis noted in the right
+     middle lobe and lingula.  Some dependent atelectasis is also seen at the lung
+     bases.
+     
+     In imaged portions of the upper abdomen, the visualized portions of the liver
+     and spleen are unremarkable.
+     
+     Degenerative changes are seen on bone windows.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reformatted images show no evidence for
+     pulmonary embolus.
+     
+     IMPRESSION:  No evidence of pulmonary embolus.  Large pericardial effusion.
+     Moderate to severe emphysematous changes.
+     
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2906-3-9**]     Discharge Date:  [**2906-3-15**]
+
+Date of Birth:   [**2824-1-25**]     Sex:  F
+
+Service:  ICU
+
+CHIEF COMPLAINT:  An 82-year-old female with hypotension.
+
+HISTORY OF PRESENT ILLNESS:  The patient was admitted on
+[**2906-3-9**] with a complaint of chest pain that woke her
+from [**Doctor Last Name 292**].
+
+The patient went to dialysis where she experienced chest pain
+again.  It was thought at this time that it might be
+secondary to a pericarditis.  The patient also had an episode
+of bradycardia while on dialysis and was noted to have a left
+fistula clotted.
+
+The patient was previously admitted with atrial fibrillation
+and treated with diltiazem and propafenone.  The patient had
+a CT angiogram which was negative for aortic dissection and
+significant for a stable pericardial effusion.  The patient
+also ruled out for a myocardial infarction with negative
+creatine kinases and troponins.
+
+The patient had thrombolysis of her fistula on [**3-10**].  The
+patient was also evaluated by Endocrinology for a low
+thyroid-stimulating hormone, low free T4, and low T3.  It was
+thought at this time the patient was suffering from Secu
+thyroid syndrome.
+
+On [**2906-3-13**], dialysis was stopped for hypotension.  An
+echocardiogram on [**3-15**] showed an ejection fraction of
+greater than 55%, moderate-to-large pericardial effusion.  No
+tamponade.  Medical Intensive Care Unit was called to
+evaluate the patient with systolic blood pressure in the low
+70s.  Blood pressure had been trending downward since
+[**2906-3-12**]; and at baseline, the patient had a systolic
+blood pressure range of greater than 130.
+
+The patient currently denied abdominal pain or chest pain.
+The patient did note some shortness of breath.  No nausea or
+vomiting, and reportedly was lightheaded when attempting to
+sit up.  The patient did not have any evidence of bleeding
+from the gastrointestinal tract, and currently was not making
+any urine.  The patient was started on vancomycin and
+levofloxacin empirically and a bolus of 750 cc of normal
+saline.  The patient was then admitted to the [**Hospital Ward Name 1600**]
+Intensive Care Unit.
+
+PAST MEDICAL HISTORY:
+1.  End-stage renal disease.
+2.  Chronic obstructive pulmonary disease with an FEV1
+of 0.55, FEV1:FVC ratio of 75% or predicted.
+3.  Gastroesophageal reflux disease.
+4.  Hypertension.
+5.  Known pericardial effusion.
+6.  Status post cholecystectomy.
+7.  Atrial fibrillation.
+
+ALLERGIES:  PENICILLIN and SULFA (which cause a rash).
+
+MEDICATIONS ON ADMISSION:  Medications in the hospital were
+heparin subcutaneous, Zantac 150 mg intravenously q.d.,
+Nephrocaps one tablet p.o. q.d., Sevelamer 2400 mg p.o.
+t.i.d., aspirin 81 mg p.o. q.d., lisinopril 5 mg p.o. q.d.,
+salmeterol 1 to 2 puffs p.o. b.i.d., propafenone 150 mg p.o.
+t.i.d., ipratropium 2 puffs q.i.d., APAP 325/150 mg p.o.
+q.d., albuterol and Atrovent nebulizers as needed.
+
+FAMILY HISTORY:  Father with [**Name2 (NI) 2256**] cancer.  Family history of
+renal disease.
+
+SOCIAL HISTORY:  She lives with her husband.  A 65-pack-year
+history.  Occasional ethanol.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   Vital signs revealed
+temperature was 97, heart rate was 87, blood pressure
+was 74/palp, respiratory rate was 16, 95% on 1 liters.  In
+general, the patient was a pleasant/elderly female in no
+apparent distress.  Head, eyes, ears, nose, and throat
+revealed mucous membranes were dry.  Neck revealed no jugular
+venous distention appreciated.  Cardiovascular with an
+irregularly irregular heart rate.  No murmurs, rubs or
+gallops.  Pulmonary revealed diffuse wheezes bilaterally at
+the bases.  The abdomen was soft, nontender, and
+nondistended.  Extremities revealed no clubbing, cyanosis or
+edema.  Neurologically, alert and oriented times three.
+Cranial nerves II through XII were intact.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:  Data revealed
+white blood cell count was 13.3 (increased from 9.2),
+hematocrit was 31.2, platelets were 364.  PT was 59.6.
+Chemistry-7 was remarkable for creatinine of 4.3, blood urea
+nitrogen was 28, sodium was 144, bicarbonate was 25.  Calcium
+was 10.1, magnesium was 5.2, phosphate was 2.1.  Arterial
+blood gas revealed 7.32/47/82, lactate of 1.4.  Blood
+cultures were pending times two.
+
+RADIOLOGY/IMAGING:   Electrocardiogram revealed atrial
+fibrillation at 91 beats per minute, left axis deviation.  No
+ST-T wave changes.
+
+ASSESSMENT AND PLAN:  In summary, this was an 82-year-old
+female with a history of end-stage renal disease, pericardial
+effusion (without tamponade physiology), and chronic
+obstructive pulmonary disease, who presented with
+hypotension.
+
+HOSPITAL COURSE:  It was thought at this time the etiology
+was most likely multifactorial; however, given an increase in
+white blood cell count, concern for sepsis was high, and the
+patient was given empiric antibiotic coverage.  It was also
+thought that the patient should have a repeat echocardiogram
+to assess for tamponade; however, it was less likely that
+tamponade was causing hypotension secondary to lack of
+tamponade physiology.
+
+The patient was maintained with aggressive fluid hydration
+and multiple intravenous fluid boluses.  On the morning of
+[**3-15**], the patient was found unresponsive, and there was a
+question if initial neurologic examination showed a left
+hemineglect.  A heparin drip had been started the day
+previous for atrial fibrillation.  The patient was emergently
+intubated and was minimally responsive.  The patient appeared
+to be in a junctional rhythm at 60 beats per minute on
+telemetry.  After dopamine and bicarbonate were given, the
+patient reverted back to a normal sinus rhythm at 60 beats
+per minute.  On examination, it was noted that the patient's
+extremities were cold and clammy.
+
+The patient had an arterial blood gas which showed worsening
+acidemia with a pH of 7.2, PCO2 of 242, and PO2 of 415 on
+100%, lactate had increased to 3.9.  The patient also had a
+blood urea nitrogen of 36 and a creatinine which had
+increased to 5.1.
+
+It was thought at this time that the patient's heart rhythm
+was most likely secondary to a major metabolic insult.  It
+was still debated as to whether tamponade was contributing to
+hypotension.  There was also concern that the patient was on
+a heparin drip and demonstrated possible left hemineglect.
+The heparin was discontinued, and the patient was scheduled
+to have a CT scan of her head to rule out bleed.  However,
+the patient was never hemodynamically stable enough to be
+sent to the CT scanner.  The patient was continued on a
+dopamine drip and propafenone was also continued at this
+time.
+
+On [**2906-3-15**] (at 9:45 p.m.), the patient became
+bradycardic and hypotensive again.  She was noted to have a
+blood pressure of 39/palp, and a heart rate of 45.  The
+patient was given 1 mg of atropine, and 1 mg of epinephrine,
+and intravenous fluids.  The patient's rhythm then changed to
+asystolic cardiac arrest.
+
+Chest compressions were initiated. The patient was given 2 mg
+more of atropine and epinephrine and 1 ampule of bicarbonate.
+The chest compressions continued, and rhythm changed to
+coarse ventricular fibrillation.  The patient was shocked in
+succession times three without rhythm.  Cardiopulmonary
+resuscitation was then re-initiated.  Examination revealed
+bilateral breath sounds.  The patient was given another
+milligram of atropine.  Epinephrine, bicarbonate, dopamine,
+and Levophed were wide opened; and intravenous fluids were
+placed wide open.
+
+The patient was thought to be hyperkalemic and given calcium
+carbonate, D-50 saline; repeat potassium was 4.4.  The
+patient returned from a normal sinus rhythm to ventricular
+tachycardia for approximately 15 minutes, and blood pressure
+increased.  Pressors were weaned.  An emergent Cardiology
+consultation for a repeat echocardiogram was called.
+
+The patient's rhythm changed again asystole, and pressors
+were restarted, and atropine was given.  Emergent
+pericardiocentesis with 50 cc to 60 cc of venous blood,
+not clotted, returned without hemodynamic response.  The
+patient remainder in asystole, and the patient was pronounced
+dead at 9:25 p.m.
+
+CONDITION AT DISCHARGE:  Expired.
+
+DISCHARGE DIAGNOSES:
+1.  End-stage renal failure.
+2.  Possible sepsis complicated by profound hypotension.
+3.  Pericardial effusion.
+4.  Lactic acidosis.
+5.  Hyperkalemia.
+6.  Atrial fibrillation.
+7.  Asystolic cardiac arrest.
+8.  Respiratory failure.
+9.  Mental status changes.
+
+
+
+
+
+                          [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **], M.D.  [**MD Number 763**]
+
+Dictated By:[**Last Name (NamePattern1) 2957**]
+
+MEDQUIST36
+
+D:  [**2906-7-19**]  17:09
+T:  [**2906-7-26**]  02:01
+JOB#:  [**Job Number 9170**]
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **] [**Doctor Last Name **]
+ on: MON [**2906-7-26**] 11:54 AM
+(End of Report)
+
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-9**] 3:39 PM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 345**]
+     Reason: S/P L ARM AVF PLACEMENT 2 YEARS AGO, ON HD, NOW WITH CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 35
+     ********************************* CPT Codes ********************************
+     * 36145 INTRO DIALYSIS FISTULA         75790 ART VENEOUS SHUNT             *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      s/p L arm AVF placement 2 yrs ago, on HD, now with clotted AVF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  82 year old female status post left arm AV fistula placement two
+     years ago. Patient's last dialysis was three days ago and was performed
+     without difficulty. The patient now presents with no thrill and suspicion of
+     clotted AV fistula.
+     
+     RADIOLOGIST: Drs. [**First Name (STitle) 262**] [**Name (STitle) 263**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 147**] [**Last Name (NamePattern1) 346**]. Dr [**Last Name (STitle) 263**]
+     [**Name (STitle) 264**], the staff radiologist, was present for the whole procedure.
+     
+     CONTRAST/MEDICATIONS: 35 ml of non-ionic contrast IV (Optiray 320 at 60%). No
+     conscious sedation.
+     
+     PROCEDURE/TECHNIQUE: The procedure was described to the patient and informed
+     consent was obtained. The fistula was initially palpated and no thrill was
+     demonstrated. Duplex and color flow sonography was then used to further assess
+     the AV fistula, and it was demonstrated that there was extensive hypoechoic
+     material, which was noncompressible, throughout the proximal anastomosis to
+     the upper third of the arm. At the level of the proximal humerus, the draining
+     vein was anechoic and easily compressible. A 18-gauge angiocath was then used
+     to access the vein at this level under sonographic guidance. Sequential left
+     upper extremity and central venograms were then performed. Following this, a
+     tourniquet was applied over the left upper arm to reflux contrast material
+     back into the proximal draining vein and possibly arterial system. The
+     Angiocath was then removed and compression was applied over the left arm
+     puncture site until hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: At the needle entry site of the draining vein (cephalic vein), the
+     flow is normal without evidence for filling defects or stenoses. The cephalic
+     vein is large in appearance and empties into the axillary/subclavian vein.
+     There is free flow of contrast material from the subclavian vein into the SVC.
+     Reflux of contrast material is demonstrated in the brachial-axillary venous
+     junction.
+     
+     With a tourniquet then applied over the upper left extremity, contrast
+     material was refluxed back towards the venous anastomosis. Extensive filling
+     defect was then demonstrated involving a segment of 5 cm in length consistent
+     with thrombus material. Tiny collateral veins are visualized along the vein at
+                                                                 (Over)
+
+     DATE: [**2906-3-9**] 3:39 PM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 345**]
+     Reason: S/P L ARM AVF PLACEMENT 2 YEARS AGO, ON HD, NOW WITH CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 35
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the level of the distal humerus, that anastomosed with the cephalic and
+     brachial veins more proximally. Reflux of contrast material into the arterial
+     system was not demonstrated due to the extensive thrombus in the draining
+     vein.
+     
+     IMPRESSION: No evidence for central stenoses or filling defects. Extensive
+     thrombus material is demonstrated throughout the proximal vein anastomosis.
+     The patient will return to the Interventional Radiology Suite on [**2906-3-10**], and
+     declotting/thrombolysis will be performed at that time.
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-9**] 3:39 PM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 345**]
+     Reason: S/P L ARM AVF PLACEMENT 2 YEARS AGO, ON HD, NOW WITH CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 35
+     ********************************* CPT Codes ********************************
+     * 36145 INTRO DIALYSIS FISTULA         75790 ART VENEOUS SHUNT             *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      s/p L arm AVF placement 2 yrs ago, on HD, now with clotted AVF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  82 year old female status post left arm AV fistula placement two
+     years ago. Patient's last dialysis was three days ago and was performed
+     without difficulty. The patient now presents with no thrill and suspicion of
+     clotted AV fistula.
+     
+     RADIOLOGIST: Drs. [**First Name (STitle) 262**] [**Name (STitle) 263**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 147**] [**Last Name (NamePattern1) 346**]. Dr [**Last Name (STitle) 263**]
+     [**Name (STitle) 264**], the staff radiologist, was present for the whole procedure.
+     
+     CONTRAST/MEDICATIONS: 35 ml of non-ionic contrast IV (Optiray 320 at 60%). No
+     conscious sedation.
+     
+     PROCEDURE/TECHNIQUE: The procedure was described to the patient and informed
+     consent was obtained. The fistula was initially palpated and no thrill was
+     demonstrated. Duplex and color flow sonography was then used to further assess
+     the AV fistula, and it was demonstrated that there was extensive hypoechoic
+     material, which was noncompressible, throughout the proximal anastomosis to
+     the upper third of the arm. At the level of the proximal humerus, the draining
+     vein was anechoic and easily compressible. A 18-gauge angiocath was then used
+     to access the vein at this level under sonographic guidance. Sequential left
+     upper extremity and central venograms were then performed. Following this, a
+     tourniquet was applied over the left upper arm to reflux contrast material
+     back into the proximal draining vein and possibly arterial system. The
+     Angiocath was then removed and compression was applied over the left arm
+     puncture site until hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: At the needle entry site of the draining vein (cephalic vein), the
+     flow is normal without evidence for filling defects or stenoses. The cephalic
+     vein is large in appearance and empties into the axillary/subclavian vein.
+     There is free flow of contrast material from the subclavian vein into the SVC.
+     Reflux of contrast material is demonstrated in the brachial-axillary venous
+     junction.
+     
+     With a tourniquet then applied over the upper left extremity, contrast
+     material was refluxed back towards the venous anastomosis. Extensive filling
+     defect was then demonstrated involving a segment of 5 cm in length consistent
+     with thrombus material. Tiny collateral veins are visualized along the vein at
+                                                                 (Over)
+
+     DATE: [**2906-3-9**] 3:39 PM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 345**]
+     Reason: S/P L ARM AVF PLACEMENT 2 YEARS AGO, ON HD, NOW WITH CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 35
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the level of the distal humerus, that anastomosed with the cephalic and
+     brachial veins more proximally. Reflux of contrast material into the arterial
+     system was not demonstrated due to the extensive thrombus in the draining
+     vein.
+     
+     IMPRESSION: No evidence for central stenoses or filling defects. Extensive
+     thrombus material is demonstrated throughout the proximal vein anastomosis.
+     The patient will return to the Interventional Radiology Suite on [**2906-3-10**], and
+     declotting/thrombolysis will be performed at that time.
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-9**] 6:25 AM
+     CT CHEST W&W/O C ; CT ABD W&W/O C                               Clip # [**Clip Number (Radiology) 343**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o aortic dissection
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with ESRD on HD, known pericardial effusion presenting with
+      chest pain radiating to the back that woke her up from [**Doctor Last Name 344**] and elevated BP
+      180/80
+     REASON FOR THIS EXAMINATION:
+      r/o aortic dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Chest pain radiating to the back. Assess for aortic dissection.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     thoracic inlet to the aortic bifurcation without and with IV contrast.
+     Nonionic IV contrast was administered secondary to the rapid rate of bolus
+     injection required for this study.
+     
+     COMPARISON: CT chest [**2906-3-3**].
+     
+     CT CHEST W/O&W IV CONTRAST: There is diffuse calcification of the thoracic
+     aorta, but no evidence of dissection or aneurysmal dilatation.  The main
+     pulmonary arteries are also well opacified, without evidence of intraarterial
+     filling defects.  There is a persistent large pericardial effusion.  There are
+     no pathologically enlarged mediastinal, hilar or axillary lymph nodes.  There
+     are tiny bilateral pleural effusions with adjacent atelectasis.  Lung windows
+     again show multiple blebs within both lungs.  There are no focal
+     consolidations or pneumothoraces.
+     
+     CT ABDOMEN W/O&W IV CONTRAST: No dissection or aneurysmal dilatation is seen
+     within the abdominal aorta.  The liver, spleen, pancreas and adrenal glands
+     are unremarkable.  The kidneys are bilaterally atrophic.  There are multiple
+     prominent mesenteric and retroperitoneal lymph nodes, none of which meet CT
+     criteria for pathologic enlargement.  There is no free air or free fluid
+     within the abdomen.
+     
+     Bone windows demonstrate no lytic or blastic lesions.
+     
+     Multiplanar reconstruction images confirm the above findings.
+     
+     IMPRESSION:
+     1) No evidence of aortic dissection.
+     2) Diffuse emphysema.
+     3) Large pericardial effusion, unchanged since [**2906-3-3**].
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-9**] 6:25 AM
+     CT CHEST W&W/O C ; CT ABD W&W/O C                               Clip # [**Clip Number (Radiology) 343**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o aortic dissection
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with ESRD on HD, known pericardial effusion presenting with
+      chest pain radiating to the back that woke her up from [**Doctor Last Name 344**] and elevated BP
+      180/80
+     REASON FOR THIS EXAMINATION:
+      r/o aortic dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Chest pain radiating to the back. Assess for aortic dissection.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     thoracic inlet to the aortic bifurcation without and with IV contrast.
+     Nonionic IV contrast was administered secondary to the rapid rate of bolus
+     injection required for this study.
+     
+     COMPARISON: CT chest [**2906-3-3**].
+     
+     CT CHEST W/O&W IV CONTRAST: There is diffuse calcification of the thoracic
+     aorta, but no evidence of dissection or aneurysmal dilatation.  The main
+     pulmonary arteries are also well opacified, without evidence of intraarterial
+     filling defects.  There is a persistent large pericardial effusion.  There are
+     no pathologically enlarged mediastinal, hilar or axillary lymph nodes.  There
+     are tiny bilateral pleural effusions with adjacent atelectasis.  Lung windows
+     again show multiple blebs within both lungs.  There are no focal
+     consolidations or pneumothoraces.
+     
+     CT ABDOMEN W/O&W IV CONTRAST: No dissection or aneurysmal dilatation is seen
+     within the abdominal aorta.  The liver, spleen, pancreas and adrenal glands
+     are unremarkable.  The kidneys are bilaterally atrophic.  There are multiple
+     prominent mesenteric and retroperitoneal lymph nodes, none of which meet CT
+     criteria for pathologic enlargement.  There is no free air or free fluid
+     within the abdomen.
+     
+     Bone windows demonstrate no lytic or blastic lesions.
+     
+     Multiplanar reconstruction images confirm the above findings.
+     
+     IMPRESSION:
+     1) No evidence of aortic dissection.
+     2) Diffuse emphysema.
+     3) Large pericardial effusion, unchanged since [**2906-3-3**].
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-9**] 6:25 AM
+     CT CHEST W&W/O C ; CT ABD W&W/O C                               Clip # [**Clip Number (Radiology) 343**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o aortic dissection
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with ESRD on HD, known pericardial effusion presenting with
+      chest pain radiating to the back that woke her up from [**Doctor Last Name 344**] and elevated BP
+      180/80
+     REASON FOR THIS EXAMINATION:
+      r/o aortic dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Chest pain radiating to the back. Assess for aortic dissection.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     thoracic inlet to the aortic bifurcation without and with IV contrast.
+     Nonionic IV contrast was administered secondary to the rapid rate of bolus
+     injection required for this study.
+     
+     COMPARISON: CT chest [**2906-3-3**].
+     
+     CT CHEST W/O&W IV CONTRAST: There is diffuse calcification of the thoracic
+     aorta, but no evidence of dissection or aneurysmal dilatation.  The main
+     pulmonary arteries are also well opacified, without evidence of intraarterial
+     filling defects.  There is a persistent large pericardial effusion.  There are
+     no pathologically enlarged mediastinal, hilar or axillary lymph nodes.  There
+     are tiny bilateral pleural effusions with adjacent atelectasis.  Lung windows
+     again show multiple blebs within both lungs.  There are no focal
+     consolidations or pneumothoraces.
+     
+     CT ABDOMEN W/O&W IV CONTRAST: No dissection or aneurysmal dilatation is seen
+     within the abdominal aorta.  The liver, spleen, pancreas and adrenal glands
+     are unremarkable.  The kidneys are bilaterally atrophic.  There are multiple
+     prominent mesenteric and retroperitoneal lymph nodes, none of which meet CT
+     criteria for pathologic enlargement.  There is no free air or free fluid
+     within the abdomen.
+     
+     Bone windows demonstrate no lytic or blastic lesions.
+     
+     Multiplanar reconstruction images confirm the above findings.
+     
+     IMPRESSION:
+     1) No evidence of aortic dissection.
+     2) Diffuse emphysema.
+     3) Large pericardial effusion, unchanged since [**2906-3-3**].
+
+",,
+13495,29221,,,2906-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-9**] 3:39 PM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 345**]
+     Reason: S/P L ARM AVF PLACEMENT 2 YEARS AGO, ON HD, NOW WITH CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 35
+     ********************************* CPT Codes ********************************
+     * 36145 INTRO DIALYSIS FISTULA         75790 ART VENEOUS SHUNT             *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      s/p L arm AVF placement 2 yrs ago, on HD, now with clotted AVF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  82 year old female status post left arm AV fistula placement two
+     years ago. Patient's last dialysis was three days ago and was performed
+     without difficulty. The patient now presents with no thrill and suspicion of
+     clotted AV fistula.
+     
+     RADIOLOGIST: Drs. [**First Name (STitle) 262**] [**Name (STitle) 263**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 147**] [**Last Name (NamePattern1) 346**]. Dr [**Last Name (STitle) 263**]
+     [**Name (STitle) 264**], the staff radiologist, was present for the whole procedure.
+     
+     CONTRAST/MEDICATIONS: 35 ml of non-ionic contrast IV (Optiray 320 at 60%). No
+     conscious sedation.
+     
+     PROCEDURE/TECHNIQUE: The procedure was described to the patient and informed
+     consent was obtained. The fistula was initially palpated and no thrill was
+     demonstrated. Duplex and color flow sonography was then used to further assess
+     the AV fistula, and it was demonstrated that there was extensive hypoechoic
+     material, which was noncompressible, throughout the proximal anastomosis to
+     the upper third of the arm. At the level of the proximal humerus, the draining
+     vein was anechoic and easily compressible. A 18-gauge angiocath was then used
+     to access the vein at this level under sonographic guidance. Sequential left
+     upper extremity and central venograms were then performed. Following this, a
+     tourniquet was applied over the left upper arm to reflux contrast material
+     back into the proximal draining vein and possibly arterial system. The
+     Angiocath was then removed and compression was applied over the left arm
+     puncture site until hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     FINDINGS: At the needle entry site of the draining vein (cephalic vein), the
+     flow is normal without evidence for filling defects or stenoses. The cephalic
+     vein is large in appearance and empties into the axillary/subclavian vein.
+     There is free flow of contrast material from the subclavian vein into the SVC.
+     Reflux of contrast material is demonstrated in the brachial-axillary venous
+     junction.
+     
+     With a tourniquet then applied over the upper left extremity, contrast
+     material was refluxed back towards the venous anastomosis. Extensive filling
+     defect was then demonstrated involving a segment of 5 cm in length consistent
+     with thrombus material. Tiny collateral veins are visualized along the vein at
+                                                                 (Over)
+
+     DATE: [**2906-3-9**] 3:39 PM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 345**]
+     Reason: S/P L ARM AVF PLACEMENT 2 YEARS AGO, ON HD, NOW WITH CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 35
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the level of the distal humerus, that anastomosed with the cephalic and
+     brachial veins more proximally. Reflux of contrast material into the arterial
+     system was not demonstrated due to the extensive thrombus in the draining
+     vein.
+     
+     IMPRESSION: No evidence for central stenoses or filling defects. Extensive
+     thrombus material is demonstrated throughout the proximal vein anastomosis.
+     The patient will return to the Interventional Radiology Suite on [**2906-3-10**], and
+     declotting/thrombolysis will be performed at that time.
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ********************************* CPT Codes ********************************
+     * 36870 THROMBOCTMY, PERC AVF          -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     INDICATION:  Three hours post TPA follow-up.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 85 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  A venogram obtained through the midportion of
+     the draining vein documents significantly improved flow, with no residual
+     thrombus in this region.  There was, however, no thrill palpated at this
+     point.
+     
+     For this reason, we accessed the draining vein at the level of the
+     proximal/mid-humerus, with an 18 gauge angio cath pointed toward the hand. The
+     angio catheter was exchanged over a wire for a 4 French sheath.  1000 units of
+     heparin were then given intravenously.  An angled glidewire was then advanced
+     through the sheath, and manipulated into the arterial system.  This was
+     followed by placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 349**] balloon catheter, which was inflated and
+     pulled back from the arterial plug at the anastomosis.  Following removal of
+     the [**Doctor Last Name 349**] catheter, a 6 mm balloon was advanced in the previously placed 4
+     French catheter pointing toward the heart, inflated, and the balloon was
+     advanced centrally.  A 4 French Cobra 2 glide cath was then advanced in the
+     sheath pointing toward the hand, over the wire and into the arterial tree.  At
+     this time, reflux into the brachial artery was demonstrated, and real-time of
+     the contrast in the artery suggested reduced cardiac output.
+     
+     With residual thrombus in the proximal draining vein and at the anastomosis, a
+     10 cm infusion catheter was subsequently placed, with the radiopaque marker
+     placed in the area of presumed thrombus and just beyond the arterial
+     anastomosis. 1 mg of TPA was then pulse-sprayed through the infusion catheter
+     five times, for a total of 5mg. TPA will be infused overnight at a rate of 0.5
+     mg/hour, with close monitoring of the PT/PTT/INR and fibrinogen levels. 100
+     units of heparin will be infused through both the 4 French side arm sheathes
+     for patency.
+     
+     COMPLICATIONS:  None.
+                                                                 (Over)
+
+     DATE: [**2906-3-10**] 2:46 PM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 348**]
+     Reason: 3HR TPA F/U LT AVR CLOT, ESRD
+      Contrast: OPTIRAY Amt: 80CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Status post three hours TPA infusion, with satisfactory
+     declotting in the location of the infusion catheter.  Infusion catheter
+     advanced into the proximal portion of the draining vein and at the
+     anastomosis, and TPA will continue to be infused at the above rate.  The
+     patient will return to the interventional radiology suite on [**2906-3-11**] for
+     further evaluation.
+     
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-10**] 7:54 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 347**]
+     Reason: CLOTTED AVF, ESRD
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATHETER INFUSION FOR LYS -51 MULTI-PROCEDURE SAME DAY        *
+     * 36145 INTRO DIALYSIS FISTULA         -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75790 ART VENEOUS SHUNT             *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO  NON-IONIC 50 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Clotted left AV fistula as seen on AV fistulogram dated [**2906-3-9**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  50 ml of Optiray 320 at 60%; .5 mg Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE:  The procedure was described to the patient and informed
+     consent was obtained.  Using ultrasound guidance, access was gained into the
+     proximal portion of the fistula, with an 18 gauge angio cath pointing toward
+     the heart. A glidewire was then advanced through the vein, followed by
+     placement of a 4 French sheath.  A 4 French straight catheter was then
+     advanced over the wire to the distal left cephalic vein.  A venogram was
+     subsequently performed that showed no central obstruction.  There is extensive
+     thrombus formation in the draining vein at the level of the proximal/mid-
+     humerus however.
+     
+     Following the venogram, a 10 French infusion catheter was placed in the
+     documented area of thrombus, and TPA was infused at a rate of 0.5 mg/hour. The
+     patient will return to the interventional radiology suite in 3-4 hours for
+     further assessment.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Left arm AV fistulogram documenting extensive thrombus in the
+     draining vein.  10 cm infusion catheter with TPA infused at a rate of 0.5
+     mg/hour.
+     
+
+",,
+13495,29221,,,2906-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     75978 PTA VENOUS                    *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Status post 20 hour TPA infusion.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  85 ml of Optiray 320 at 60%; .5 Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     NOTE:  Images obtained from this study were combined with the study from
+     [**2906-3-10**] in which there are 36 images on the PACS system.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Palpation of the fistula now demonstrates a
+     thrill at the anastomosis and into the draining vein.  An initial venogram
+     obtained through the infusion catheter demonstrates wide patency of the AV
+     fistula, with some eccentric filling defect at the region of the anastomosis.
+     There is also a focal mild stenosis of the draining vein present, just distal
+     of which there is a hypertrophied vein draining laterally.
+     
+     Venograms obtained over the proximal humerus and centrally show no filling
+     defect in the draining cephalic vein, the subclavian or brachiocephalic vein.
+     The catheter was then exchanged over a wire, with the wire placed in a forearm
+     artery.  Injection through the sheath pointed toward the hand was then
+     performed, initially without and then following blood pressure cuff inflation.
+     These images document patency at the arterial anastomosis, without stenosis
+     present.  A focal stenosis is seen approximately 5-6 cm distal to the
+     anastomosis.  This area was subsequently angioplastied using a 6 mm x 3 cm
+     balloon.  Even at maximum inflation, no waist was visualized on the balloon,
+     confirming a nonhemodynamically significant stenosis.
+     
+     Both sheathes were then removed in the recovery room, and compression was
+     applied until hemostasis achieved.  Subsequently, the patient had hemodialysis
+     through her fistula later in the day without difficulty.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful declotting of a left AV fistula following 20 hour
+     infusion of tissue plasminogen activator.  Satisfactory angiographic and
+     clinical result.
+                                                                 (Over)
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13495,29221,,,2906-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     75978 PTA VENOUS                    *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Status post 20 hour TPA infusion.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  85 ml of Optiray 320 at 60%; .5 Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     NOTE:  Images obtained from this study were combined with the study from
+     [**2906-3-10**] in which there are 36 images on the PACS system.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Palpation of the fistula now demonstrates a
+     thrill at the anastomosis and into the draining vein.  An initial venogram
+     obtained through the infusion catheter demonstrates wide patency of the AV
+     fistula, with some eccentric filling defect at the region of the anastomosis.
+     There is also a focal mild stenosis of the draining vein present, just distal
+     of which there is a hypertrophied vein draining laterally.
+     
+     Venograms obtained over the proximal humerus and centrally show no filling
+     defect in the draining cephalic vein, the subclavian or brachiocephalic vein.
+     The catheter was then exchanged over a wire, with the wire placed in a forearm
+     artery.  Injection through the sheath pointed toward the hand was then
+     performed, initially without and then following blood pressure cuff inflation.
+     These images document patency at the arterial anastomosis, without stenosis
+     present.  A focal stenosis is seen approximately 5-6 cm distal to the
+     anastomosis.  This area was subsequently angioplastied using a 6 mm x 3 cm
+     balloon.  Even at maximum inflation, no waist was visualized on the balloon,
+     confirming a nonhemodynamically significant stenosis.
+     
+     Both sheathes were then removed in the recovery room, and compression was
+     applied until hemostasis achieved.  Subsequently, the patient had hemodialysis
+     through her fistula later in the day without difficulty.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful declotting of a left AV fistula following 20 hour
+     infusion of tissue plasminogen activator.  Satisfactory angiographic and
+     clinical result.
+                                                                 (Over)
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13495,29221,,,2906-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     75978 PTA VENOUS                    *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Status post 20 hour TPA infusion.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  85 ml of Optiray 320 at 60%; .5 Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     NOTE:  Images obtained from this study were combined with the study from
+     [**2906-3-10**] in which there are 36 images on the PACS system.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Palpation of the fistula now demonstrates a
+     thrill at the anastomosis and into the draining vein.  An initial venogram
+     obtained through the infusion catheter demonstrates wide patency of the AV
+     fistula, with some eccentric filling defect at the region of the anastomosis.
+     There is also a focal mild stenosis of the draining vein present, just distal
+     of which there is a hypertrophied vein draining laterally.
+     
+     Venograms obtained over the proximal humerus and centrally show no filling
+     defect in the draining cephalic vein, the subclavian or brachiocephalic vein.
+     The catheter was then exchanged over a wire, with the wire placed in a forearm
+     artery.  Injection through the sheath pointed toward the hand was then
+     performed, initially without and then following blood pressure cuff inflation.
+     These images document patency at the arterial anastomosis, without stenosis
+     present.  A focal stenosis is seen approximately 5-6 cm distal to the
+     anastomosis.  This area was subsequently angioplastied using a 6 mm x 3 cm
+     balloon.  Even at maximum inflation, no waist was visualized on the balloon,
+     confirming a nonhemodynamically significant stenosis.
+     
+     Both sheathes were then removed in the recovery room, and compression was
+     applied until hemostasis achieved.  Subsequently, the patient had hemodialysis
+     through her fistula later in the day without difficulty.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful declotting of a left AV fistula following 20 hour
+     infusion of tissue plasminogen activator.  Satisfactory angiographic and
+     clinical result.
+                                                                 (Over)
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13495,29221,,,2906-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     75978 PTA VENOUS                    *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Status post 20 hour TPA infusion.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  85 ml of Optiray 320 at 60%; .5 Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     NOTE:  Images obtained from this study were combined with the study from
+     [**2906-3-10**] in which there are 36 images on the PACS system.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Palpation of the fistula now demonstrates a
+     thrill at the anastomosis and into the draining vein.  An initial venogram
+     obtained through the infusion catheter demonstrates wide patency of the AV
+     fistula, with some eccentric filling defect at the region of the anastomosis.
+     There is also a focal mild stenosis of the draining vein present, just distal
+     of which there is a hypertrophied vein draining laterally.
+     
+     Venograms obtained over the proximal humerus and centrally show no filling
+     defect in the draining cephalic vein, the subclavian or brachiocephalic vein.
+     The catheter was then exchanged over a wire, with the wire placed in a forearm
+     artery.  Injection through the sheath pointed toward the hand was then
+     performed, initially without and then following blood pressure cuff inflation.
+     These images document patency at the arterial anastomosis, without stenosis
+     present.  A focal stenosis is seen approximately 5-6 cm distal to the
+     anastomosis.  This area was subsequently angioplastied using a 6 mm x 3 cm
+     balloon.  Even at maximum inflation, no waist was visualized on the balloon,
+     confirming a nonhemodynamically significant stenosis.
+     
+     Both sheathes were then removed in the recovery room, and compression was
+     applied until hemostasis achieved.  Subsequently, the patient had hemodialysis
+     through her fistula later in the day without difficulty.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful declotting of a left AV fistula following 20 hour
+     infusion of tissue plasminogen activator.  Satisfactory angiographic and
+     clinical result.
+                                                                 (Over)
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13495,29221,,,2906-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     75978 PTA VENOUS                    *
+     * 75898 F/U STATUS INFUSION/EMBO       99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 50 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  Status post 20 hour TPA infusion.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 23**] and [**Name5 (PTitle) 346**].  Dr. [**Last Name (STitle) 23**], staff radiologist,
+     was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  85 ml of Optiray 320 at 60%; .5 Versed and 25
+     micrograms fentanyl in divided doses under continued hemodynamic monitoring
+     for conscious sedation.
+     
+     NOTE:  Images obtained from this study were combined with the study from
+     [**2906-3-10**] in which there are 36 images on the PACS system.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Palpation of the fistula now demonstrates a
+     thrill at the anastomosis and into the draining vein.  An initial venogram
+     obtained through the infusion catheter demonstrates wide patency of the AV
+     fistula, with some eccentric filling defect at the region of the anastomosis.
+     There is also a focal mild stenosis of the draining vein present, just distal
+     of which there is a hypertrophied vein draining laterally.
+     
+     Venograms obtained over the proximal humerus and centrally show no filling
+     defect in the draining cephalic vein, the subclavian or brachiocephalic vein.
+     The catheter was then exchanged over a wire, with the wire placed in a forearm
+     artery.  Injection through the sheath pointed toward the hand was then
+     performed, initially without and then following blood pressure cuff inflation.
+     These images document patency at the arterial anastomosis, without stenosis
+     present.  A focal stenosis is seen approximately 5-6 cm distal to the
+     anastomosis.  This area was subsequently angioplastied using a 6 mm x 3 cm
+     balloon.  Even at maximum inflation, no waist was visualized on the balloon,
+     confirming a nonhemodynamically significant stenosis.
+     
+     Both sheathes were then removed in the recovery room, and compression was
+     applied until hemostasis achieved.  Subsequently, the patient had hemodialysis
+     through her fistula later in the day without difficulty.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful declotting of a left AV fistula following 20 hour
+     infusion of tissue plasminogen activator.  Satisfactory angiographic and
+     clinical result.
+                                                                 (Over)
+
+     DATE: [**2906-3-11**] 7:53 AM
+     UK CATH CHECK                                                   Clip # [**Clip Number (Radiology) 350**]
+     Reason: CLOTTED LT AV FISTULA..ON TPA OVERNIGHT
+      Contrast: OPTIRAY Amt: 85
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13495,29221,16792,0,2906-03-14 17:12:00 EST,2906-03-14 17:28:00 EST,511,"N",69,"Nursing/Other",,"
+
+ADMIT NOTE:
+PT IS AN 82 YR OLD WOMAN WITH AN ADMITTING DX OF HYPOTENSION FROM THE WEST. CAMPUS. SHE HAS A HX OF ESRD ON HEMO. LEFT FISTULA IN PLACE AND PATENT. FOR THE LAST 3 DAYS PT. HAS UNDERGONE DIALYSIS WITH 5KG REMOVED. ON ADMISSION TO THE HOSPITAL ON [**3-9**] IT WAS NOTICED THAT HER FISTULA WASN'T PATENT. SHE WAS TAKEN TO ANGIO ON [**3-10**] AND TPA WAS GIVEN AND FISTULA WAS AGAIN PATENT. SHE WAS THEN DIALYSED FOR 3 CONSEC. DAYS. TOOK OFF 5KG. 
+LAST NIGHT NOTED TO HAVE A FEVER AND WAS PAN CX'ED. GIVEN 1X DOSE OF VANCO THIS AM AND LEVOFLOXCIN. THIS AM WAS HYPOTENSIVE TO THE 70'S. GIVEN 2X FLUID BOLUSES AND TRANSF. HERE FOR FURTHER MANAGEMENT. 
+RESP: BS'S ARE DIMINISHED THROUGHOUT. PT. HAS COPD FROM SMOKING. GIVEN NEBS X1 THIS AFTERNOON. O2 SATS 100% ON 3L NP. 
+GI: NPO-NOW CLEAR LIQUIDS. BS'S PRESENT. DOES NEED BOWEL REGIME. DOESN'T REMEMBER WHEN HER LAST BM WAS. USES MOM.
+RENAL: PT. HAS A LEFT FISTULA WITH A +_ BRUIT. VOIDS ONLY 1X DAY. IF SHE VOIDS SEND URINE FOR A. RECEIVED A TOTAL OF 1L NS ON MY SHIFT AND IS PRESENTLY RECEIVING NS AT 75CC/HR. SLOW HYDRATION. 
+CV: PT. HAS BEEN IN AF FOR THE LAST FEW WEEKS. PT'S HYPOTENSION NOT FOUND TO BE THAT MUCH DIFFERENT FROM HER USUAL BP AFTER DIALYSIS. PRESSURE PRESENTLY IN 80'S. HER NORMAL BP IS IN THE 90'S.  THERE WAS A? OF FLOATING A SWAN, BUT I BELIEVE THAT HAS BEEN D/C'ED. TTE ECHO DONE SHOWING A PERICARDIAL EFFUSION MOD-LARGE-? LOCULATED. EF NL. 
+PT. DOES FEEL EXHAUSTED. NO C/O CP. THERE WAS ? OF TAMPONADE, BUT HAS BEEN R/O'D. 
+NEURO: ALERT AND ORIENTATED. MAE. JUST FEELS WEAK AND TIRED. UNHAPPY ABOUT HAVING TO COME HERE FROM THE WEST. 
+PT. TO BE NPO AFTER MN. FOR A CARDIOVERSION IN THE AM. ? OF TRANSFER TO THE WEST CATH LAB FOR PROCEDURE. 
+SOCIAL: PT'S HUSBAND WAS HERE VISITING HER. HAS ALSO 2 SONS. 
+",,
+13495,29221,16792,0,2906-03-15 04:20:00 EST,2906-03-15 04:28:00 EST,22,"N",69,"Nursing/Other",,"
+
+Micu Nursing Progress Note:
+
+Resp: c/o several times over course of night of SOB. albuterol nebs given prn with excellent relief for approx 1-2hrs only. MD's made aware. IVF d/c'd. CXR done-no change. LS with little air movement, and exp wheezes.
+
+CV: hemodynamically stable overnight. afebrile. hr 90-100's afib. May be cardio-verted this morning. re started on heparin gtt. next ptt due at 10am this morning.
+
+Neuro: alert and cooperative. son called last evening -updated by nurse.
+
+gi/gu: did not void and was npo after midnight for possible cardioversion this am.
+
+",,
+13495,29221,16792,0,2906-03-15 14:48:00 EST,2906-03-15 14:53:00 EST,547,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt required intubation this morning for metabolic/resp. acidosis and change in mental status. Pt intubated with 7.5 ETT secured at 19cm lip. BS bilat. although decreased to L base. Current vent settings AC 600x 18x 100% peep 5. multiple vent changes made, see flowsheet for details. Pt currently getting dialysis, plan is for CT scan later today. Albuterol/ Atrovent MDI given. 
+",,
+13495,29221,16792,0,2906-03-15 17:13:00 EST,2906-03-15 17:39:00 EST,379,"N",69,"Nursing/Other","MICU/SICU NPN 0700-1900","
+MICU/SICU NPN 0700-1900
+     **see careview for details** 
+
+ Arrived in room in am and pt noted to be staring with blank look on her face. Initially minimally responsive but eventually was able to move all extremitiies and occ nod head sl. HR 50s JR. BP 95/34. Hep gtt shut off and plan was for head ct. ABG w/Ph 7.14. AM CO2 was 15 (down from 23 at 0230). +BC from [**3-14**]. Pt intub given 2amps bicarb and gtt started. ~ 1hr post intub she required Dopa for hypotention. Fem art line and TL placed. K 6.8. Renal changed fem TL to quinton cath for HD. Required 20ucgs Dopa and multi IVBs during HD with transient improvement and eventually Levo added with assoc tachycardia to 160s but improved BP. Multi attempts to titrate Levo and Dopa. Extremly pressor dependent but pressors having min effect despite now normal ph. Currently she is receiving her 3rd L NS IVB with some improvement in BP. Levo is at 3ucgs, Dopa is being weaned, currently @ 13ucgs/kg/min, Pitressin added (.04ucgs) without improvement and IVFs are now wide open on pressure pack. BP ~90-103/63 w/MAP 70 but drop quickly when fluids off. MDs placing quad lumen. Plan to cont fluids and titrate pressors. Last ABG on 100% x18 x600 5 PEEP 7.29 32 286 (bicarb gt had been off for a few hours but is now infusing again at 100cc/hr. Min secretions. Plan for head CT when stable. PA cath on hold for now as fluids seem to be helping more. Cont Levo and IVFs. Wean Dopa as tol. ?dc Pitressin.
+",,
+13495,29221,16792,0,2906-03-15 20:57:00 EST,2906-03-15 21:06:00 EST,585,"N",69,"Nursing/Other","micu/sicu event note","
+micu/sicu event note
+patient w/labile bp at 1900, 120/ sys to 60/'s up and down w/o apparent rhyme or reason. hr stable 1teen-100 a fib. pt's hr dropping as bp feel to 50's. dopa/levo up to max doses. cont w/ wide open ivf at 2+ l/hr. pt went into asystole, cpr was begun, pt received mult amps bicarb, epi and atropine. epi gtt started. shocked x3, meds contd'labs were drawn. pt given cacl, 10 u insulin and d50 amp for ?hyperkalemia. pt came out of arrest w/ bp 200/100, having a lot of vent ectopy, amio gtt started, pressors off while bp up, eventually bp fell again w/pressors back on, pt lost her rate again, cardiology here for echo.?tamponading , nothing seen. pt asystolic, cpr and more emergency drugs given w/o effect. dr. [**Last Name (STitle) 4868**] called the code at 9:30pm. please see carevue flowsheet and arrest record for more details. 
+",,

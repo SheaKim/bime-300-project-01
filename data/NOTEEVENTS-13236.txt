@@ -1,0 +1,1323 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3020-2-1**]        Discharge Date: [**3020-2-7**]
+
+Date of Birth:                    Sex:  M
+
+Service:
+
+
+CHIEF COMPLAINT:  Status post assault.
+
+HISTORY OF PRESENT ILLNESS:  Patient is an 83-year-old
+gentleman involved in an altercation with another patient in
+an Alzheimer's Unit.  Patient had questionable loss of
+consciousness.  The patient had been acting more confused
+than his baseline following the altercation.  Apparently, the
+patient was pushed up against a fish tank and then thrown to
+ground during the altercation.  The patient was originally
+taken to the [**Hospital 276**] Hospital, where films revealed a
+subarachnoid hemorrhage and a subdural hemorrhage.  There is
+also question of a right hip fracture.
+
+PAST MEDICAL HISTORY:  Alzheimer's.
+
+Diabetes mellitus.
+
+Hypertension.
+
+Hypothyroidism.
+
+Hyperlipidemia.
+
+Peripheral vascular disease.
+
+GERD.
+
+Anemia.
+
+Chronic renal insufficiency.
+
+Atrial fibrillation.
+
+PAST SURGICAL HISTORY:  Coronary artery bypass grafts x3.
+
+MEDICATIONS:
+1. Combivent.
+2. Zocor 10 mg p.o. q.d.
+3. Paxil 20 mg p.o. q.d.
+4. Lisinopril 5 mg q.d.
+5. Protonix 40 mg p.o. q.d.
+6. Carafate.
+7. Glyburide 2.5 mg b.i.d.
+8. Tylenol 650 p.o. t.i.d. prn.
+9. Diltiazem XR 120 mg p.o. q.d.
+10.      Metformin 500 mg p.o. b.i.d.
+11.      Levoxyl 0.1 mg p.o. q.d.
+12.      Iron 5 mg b.i.d.
+
+
+INITIAL PHYSICAL:  T current 100, blood pressure 118/palp,
+heart rate 100, respiratory rate 18, and O2 saturation is 100
+percent on nonrebreather.  His white cell count 17,
+hematocrit 31, platelets 281, creatinine 1.9.  GCS 14.
+HEENT:  Pupils were equal and reactive.  Extraocular muscles
+are intact.  Tympanic membranes are clear.  Oropharynx was
+clear.  Cardiovascular:  Atrial fibrillation, irregular.
+Respiratory:  Clear to auscultation bilaterally.  Chest:  No
+deformities.  Abdomen is soft, nontender, nondistended,
+positive bowel sounds.  Pelvis is stable.  Back:  C spine and
+TLS no deformities or step-offs.  Rectal:  Guaiac negative,
+good rectal tone.  Upper extremities:  No deformities.  Lower
+extremities:  No deformities and decreased movement of the
+right lower extremity.
+
+RADIOLOGY:  Chest x-ray:  Cardiomegaly.
+
+Pelvis:  Questionable right femur fracture.
+
+C spine:  C1 and C2 subluxation.
+
+CT of the head showing a left temporal subarachnoid and
+subdural hemorrhage, a right frontal contusion, right
+temporal contusion.
+
+TLS:  Questionable L1 fracture.
+
+Right hip:  Questionable right femur fracture.
+
+HOSPITAL COURSE:  The patient was admitted to the Trauma
+Intensive Care Service.  A Neurosurgery consult was called.
+Their recommendations included starting Dilantin, continuing
+with blood pressures less than 140, and repeat CT scan of the
+head in the morning.  Orthopedics was also consulted due to
+the patient's right femur fracture.  Their recommendations
+included an ORIF when the patient was stable.
+
+During the patient's hospitalization stay, CT scan and MRI
+showed blossoming of the intracerebral injuries.  The
+patient's mental status deteriorated.  Neurosurgery's
+recommendations were that time would be needed to clarify his
+prognosis.  They also stated that his prognosis was poor.
+The patient's neurologic status during that time also
+deteriorated to the point, where he was unable to move his
+lower extremities and had slight motor in his right upper
+extremity.
+
+Multiple family discussions were held during the
+hospitalization, and it was decided on the [**4-8**]
+after an extensive conversation with the patient's son and
+family, that he would be made CMO.  Following the withdraw of
+care, the patient initially went into a respiratory arrest
+followed by a cardiac arrest.  The family was informed and
+the medical examiner was called and accepted the case.
+
+PRIMARY DISCHARGE DIAGNOSES:  Status post altercation.
+
+Subarachnoid and subdural hematomas.
+
+Right frontal and right temporal lobe contusions.
+
+Right femur fracture.
+
+SECONDARY DIAGNOSES:  Alzheimer's disease.
+
+Diabetes.
+
+Hypertension.
+
+Hypothyroidism.
+
+Hyperlipidemia.
+
+Peripheral vascular disease.
+
+Gastroesophageal reflux disease.
+
+Anemia.
+
+Chronic renal insufficiency.
+
+Atrial fibrillation.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 2888**]
+
+Dictated By:[**Last Name (NamePattern1) 8749**]
+MEDQUIST36
+D:  [**3020-4-18**] 03:49:35
+T:  [**3020-4-18**] 09:05:01
+Job#:  [**Job Number 8750**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3020-4-18**] 7:24 PM
+(End of Report)
+
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 4:01 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 14007**]
+     Reason: assess extent of bleed                                      
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with altercation in nursing home                               
+       
+     REASON FOR THIS EXAMINATION:
+      assess extent of bleed                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Altercation at nursing home.  Cerebral hemorrhage.  Assess
+     progression.
+     
+     COMPARISON:  [**3020-2-1**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is slight increase in the intraventricular component of
+     hemorrhage with larger hematocrit levels noted in the posterior horns of the
+     lateral ventricles.  There is more than expected density along the tentorium,
+     left greater than right, raising the possibility of small subdural hemorrhages
+     at this location.  Small subdural hemorrhage in the left occipitoparietal
+     region is unchanged, and extraaxial subarachnoid hemorrhage over the left
+     convexity and, to a lesser extent, right convexity may have increased slightly
+     in the interval.  Contusions in the temporal lobe on the left and frontal lobe
+     on the right, in addition to inferior temporal lobes, are roughly unchanged. A
+     small amount of blood is present in the interpeduncular cistern again. There
+     is hypodensity in the periventricular and subcortical white matter, which is
+     unchanged and probably represents chronic microvascular infarction. There is
+     no shift of normally midline structures or significant mass effect related to
+     the aforementioned hemorrhages, and the patient's ventricular size is
+     unchanged.  There is prominent CSF space anteriorly over the frontal lobes,
+     which is approximately equivalent since the prior study and may reflect
+     underlying brain atrophy or could represent small bilateral subdural hygromas.
+     
+     The appearance of the bones is unchanged.
+     
+     IMPRESSION:  Slight progression of intracranial hemorrhage with subdural
+     hematoma along the tentorium becoming evident, and with slightly increased
+     amounts of intraventricular and subarachnoid blood.
+     
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 3:01 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14004**]
+     Reason: ? subdural                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with altercation in nursing home                                
+     REASON FOR THIS EXAMINATION:
+      ? subdural                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: FKh TUE [**3020-2-1**] 4:53 AM
+      Multiple intraparenchimal contusions. Subarachnoid hemorrhage. Tiny Left
+      subdural hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.  History of Alzheimer's.
+     
+     COMPARISONS:  There are no comparisons available.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS: There are high density areas probably representing hemorrhagic
+     contusion in the right  frontal lobe, right parietal lobe and right temporal
+     lobe. There is subarachnoid blood in the left parietal region and possibly in
+     the interpeduncular fossa. There is also a tiny subdural hematoma
+     in the left occipital and parietal region best seen on series 2 image 15.
+     There is mild prominence of the sulci and ventricles consistent with mild
+     atrophy.  There is no shift of midline structures, hydrocephalus, or major
+     vascular territorial infarct.  The cisterns are well visualized and there is
+     no evidence of herniation.  [**Doctor Last Name **]-white matter differentiation is preserved.
+     The bones and visualized paranasal sinuses are unremarkable.  There is normal
+     aeration of the mastoid air cells.
+     
+     IMPRESSION:
+     
+     Multiple parenchymal contusions, subarachnoid hemorrhage and tiny subdural
+     hemorrhage as described above.
+     
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 2:50 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 14002**]
+     Reason: ? fracture                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man who was attacked                                                
+     REASON FOR THIS EXAMINATION:
+      ? fracture                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 year old male who is status post trauma.  Rule out fracture.
+     
+     COMPARISON:  No comparisons are available.
+     
+     TECHNIQUE:  Axial images of the cervical spine were obtained.  Sagittal and
+     coronal reconstructions were performed.
+     
+     FINDINGS:  There is mild rotary subluxation of C1 over C2 which may be
+     positional. There are multilevel degenerative changes of the cervical spine
+     which are more prominent at the level of C5/C6 and C6/C7.  However the
+     vertical alignment of the component vertebrae appears unremarkable.  There are
+     no other subluxations. There is no prevertebral soft tissue swelling.  There
+     is disc narrowing and osteophytic changes in the cervical spine.  There is no
+     definite evidence of fracture.  CT does not provide intrathecal detail.  The
+     thyroid is unusually hypodense which could be seen in thyroiditis.  However
+     there are no discrete nodules.
+     
+     IMPRESSION:
+     
+     1.  There is no definite evidence of fractures.
+     
+     2. Mild retary subluxation of C1 over C2.  This is of unknown clinical
+     significance and could be due to rotation, but could be due to injury.
+     
+     3.  The thyroid is hypodense (iodine depleted), a finding that can be seen in
+     thyroiditis.
+     
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 2:50 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 14002**]
+     Reason: ? fracture                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man who was attacked                                                
+     REASON FOR THIS EXAMINATION:
+      ? fracture                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 year old male who is status post trauma.  Rule out fracture.
+     
+     COMPARISON:  No comparisons are available.
+     
+     TECHNIQUE:  Axial images of the cervical spine were obtained.  Sagittal and
+     coronal reconstructions were performed.
+     
+     FINDINGS:  There is mild rotary subluxation of C1 over C2 which may be
+     positional. There are multilevel degenerative changes of the cervical spine
+     which are more prominent at the level of C5/C6 and C6/C7.  However the
+     vertical alignment of the component vertebrae appears unremarkable.  There are
+     no other subluxations. There is no prevertebral soft tissue swelling.  There
+     is disc narrowing and osteophytic changes in the cervical spine.  There is no
+     definite evidence of fracture.  CT does not provide intrathecal detail.  The
+     thyroid is unusually hypodense which could be seen in thyroiditis.  However
+     there are no discrete nodules.
+     
+     IMPRESSION:
+     
+     1.  There is no definite evidence of fractures.
+     
+     2. Mild retary subluxation of C1 over C2.  This is of unknown clinical
+     significance and could be due to rotation, but could be due to injury.
+     
+     3.  The thyroid is hypodense (iodine depleted), a finding that can be seen in
+     thyroiditis.
+     
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 8:02 PM
+     MR CERVICAL SPINE; MR L SPINE SCAN                              Clip # [**Clip Number (Radiology) 14008**]
+     Reason: C1-2 SUBLUXATION, TRAUMA DUE TO AN ALTERCATION,L1 FRACTURE
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man s/p altercation with multiple head injuries and question of 
+      C1/C2 subluxation on CT of his c-spine.
+     REASON FOR THIS EXAMINATION:
+      Please assess C1 & C@ for question of rotational subluxation.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple head injuries with possible subluxation of C1-C2.
+     Radiographs also demonstrated a compression fracture of L1.  The patient is
+     status post assault.
+     
+     The following dictation includes dictations for both the cervical and lumbar
+     spine.
+     
+     TECHNIQUE:  Noncontrast MRI of the cervical spine.
+     
+     FINDINGS:  Please refer to the dictation of a recent CT of the brain for
+     description of intracranial hemorrhage.
+     
+     There is no spinal cord signal abnormality.  At C2-3 and C3-4, the spinal
+     canal and neural foramina are widely patent.
+     
+     At C4-5, there is a small posterior disc protrusion with mild spinal stenosis.
+     The neural foramina are widely patent.
+     
+     At C5-6, there is a mild posterior disc protrusion with mild spinal stenosis,
+     but no neural foraminal narrowing.
+     
+     At C6-7, there is a broad based disc osteophyte complex with mild spinal canal
+     stenosis and mild narrowing of the left neural foramen.  At C7-T1, the spinal
+     canal and neural foramina are widely patent.
+     
+     IMPRESSION:  Mild multilevel cervical spondylosis.
+     
+     TECHNIQUE:  Noncontrast multiplanar MRI of the lumbar spine.
+     
+     FINDINGS:  As demonstrated on radiographs of [**3020-2-1**], there is a severe
+     compression deformity of the L1 vertebral body.  There is minimal retropulsion
+     of L1 with minimal narrowing of the spinal canal.  The distal spinal cord
+     appears normal and the conus is in normal position, terminating at
+     approximately the L1-2 level.  The remainder of the lumbar spine is within
+     normal limits.  There is a 4.5 cm simple right renal cyst.
+     
+     IMPRESSION:  1.  Severe compression deformity of the L1 vertebral body with
+     minimal retropulsion and minimal narrowing of the spinal canal.
+     2.  4.5 cm simple right renal cyst.
+     
+                                                                 (Over)
+
+     DATE: [**3020-2-1**] 8:02 PM
+     MR CERVICAL SPINE; MR L SPINE SCAN                              Clip # [**Clip Number (Radiology) 14008**]
+     Reason: C1-2 SUBLUXATION, TRAUMA DUE TO AN ALTERCATION,L1 FRACTURE
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 4:01 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 14007**]
+     Reason: assess extent of bleed                                      
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with altercation in nursing home                               
+       
+     REASON FOR THIS EXAMINATION:
+      assess extent of bleed                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Altercation at nursing home.  Cerebral hemorrhage.  Assess
+     progression.
+     
+     COMPARISON:  [**3020-2-1**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is slight increase in the intraventricular component of
+     hemorrhage with larger hematocrit levels noted in the posterior horns of the
+     lateral ventricles.  There is more than expected density along the tentorium,
+     left greater than right, raising the possibility of small subdural hemorrhages
+     at this location.  Small subdural hemorrhage in the left occipitoparietal
+     region is unchanged, and extraaxial subarachnoid hemorrhage over the left
+     convexity and, to a lesser extent, right convexity may have increased slightly
+     in the interval.  Contusions in the temporal lobe on the left and frontal lobe
+     on the right, in addition to inferior temporal lobes, are roughly unchanged. A
+     small amount of blood is present in the interpeduncular cistern again. There
+     is hypodensity in the periventricular and subcortical white matter, which is
+     unchanged and probably represents chronic microvascular infarction. There is
+     no shift of normally midline structures or significant mass effect related to
+     the aforementioned hemorrhages, and the patient's ventricular size is
+     unchanged.  There is prominent CSF space anteriorly over the frontal lobes,
+     which is approximately equivalent since the prior study and may reflect
+     underlying brain atrophy or could represent small bilateral subdural hygromas.
+     
+     The appearance of the bones is unchanged.
+     
+     IMPRESSION:  Slight progression of intracranial hemorrhage with subdural
+     hematoma along the tentorium becoming evident, and with slightly increased
+     amounts of intraventricular and subarachnoid blood.
+     
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 3:29 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 14006**]
+     Reason: s/p altercation with head bleed, evaluate for dislocation, f
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with 
+      alzheimer and trauma s/p assualt
+     REASON FOR THIS EXAMINATION:
+      s/p altercation with head bleed, evaluate for dislocation, fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     COMPARISON:  No comparisons are available.
+     
+     THORACIC SPINE, TWO VIEWS/LUMBAR SPINE, TWO VIEWS:  There is a compression
+     fracture of L1 of indeterminate age.  Clinical correlation is recommended if
+     possible.  The overall alignment of the thoracic and lumbar spine is normal.
+     There is no evidence of subluxation.
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 3:29 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 14006**]
+     Reason: s/p altercation with head bleed, evaluate for dislocation, f
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with 
+      alzheimer and trauma s/p assualt
+     REASON FOR THIS EXAMINATION:
+      s/p altercation with head bleed, evaluate for dislocation, fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     COMPARISON:  No comparisons are available.
+     
+     THORACIC SPINE, TWO VIEWS/LUMBAR SPINE, TWO VIEWS:  There is a compression
+     fracture of L1 of indeterminate age.  Clinical correlation is recommended if
+     possible.  The overall alignment of the thoracic and lumbar spine is normal.
+     There is no evidence of subluxation.
+     
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 3:23 AM
+     FEMUR (AP & LAT) RIGHT; HIP UNILAT MIN 2 VIEWS                  Clip # [**Clip Number (Radiology) 14005**]
+     Reason: trauma                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abnormal lucency in the proximal femur in X-ray of the pelvis.
+     
+     RIGHT FEMUR, FOUR VIEWS:  There is an oblique lucency in the proximal right
+     femur seen only in the lateral views that is suspicious for a fracture.  If it
+     is clinically indicated, I recommend CT of the right proximal right femur to
+     rule out fracture.  The rest of the femur is unremarkable.
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 8:03 PM
+     MR HIP W/O CONRAST                                              Clip # [**Clip Number (Radiology) 14009**]
+     Reason: ASSESS FOR OCCULT FX                                        
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man S/P ? r femur fx                                                
+     REASON FOR THIS EXAMINATION:
+      ASSESS FOR OCCULT FX                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right hip pain.
+     
+     TECHNIQUE:  MR examination of the hips was performed utilizing the following
+     sequences:  Axial and coronal T1 weighted images, axial T2 weighted inversion
+     recovery images, and sagittal T2 weighted images with fat saturation.
+     
+     Comparison is made to radiographs of the right femur obtained earlier the same
+     day.
+     
+      MR OF THE HIPS WITHOUT CONTRAST:  There is linear intermediate signal on T1
+     weighted images traversing the intertrochanteric region and extending distally
+     and out through the right lateral metadiaphyseal cortex of the proximal right
+     femur, representing an intertrochanteric fracture with infratrochanteric
+     extension.  The fracture line does not seem to involve the femoral neck.
+     
+     The fracture is nondisplaced.  Both femoral heads maintain a normal smooth
+     contour without evidence of collapse.
+     
+     A small region of intermediate signal is seen in the subcapital left femoral
+     neck -- this is of uncertain etiology, but is not typical for fracture.
+     
+     There is abnormal high signal on T2 weighted sequences involving the muscle
+     groups and fascial planes about the proximal right femur, circumferentially,
+     thought to represent edema secondary to fracture.
+     
+     A small amount of increased signal adjacent and surrounding the proximal left
+     common femoral vessels is of uncertain clinical significance.
+     
+     There is a Foley catheter present within the urinary bladder.  Bladder wall
+     thickening, trabeculation, and several bladder diverticula are noted.
+     
+     IMPRESSION:
+     
+     Nondisplaced intertrochanteric fracture of the right femur with inferior
+     lateral sutrochanteric extension.
+     
+     Small focus in the left subcapital femur and Tiny amount of edema adjacent to
+     the left common femoral vessels, of uncertain clinical significance.
+     
+     These findings were reported to Dr. [**First Name8 (NamePattern2) 14010**] [**Name (STitle) 2430**] on [**3020-2-2**] at 11 o'clock A.M.
+     
+                                                                 (Over)
+
+     DATE: [**3020-2-1**] 8:03 PM
+     MR HIP W/O CONRAST                                              Clip # [**Clip Number (Radiology) 14009**]
+     Reason: ASSESS FOR OCCULT FX                                        
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 8:02 PM
+     MR CERVICAL SPINE; MR L SPINE SCAN                              Clip # [**Clip Number (Radiology) 14008**]
+     Reason: C1-2 SUBLUXATION, TRAUMA DUE TO AN ALTERCATION,L1 FRACTURE
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man s/p altercation with multiple head injuries and question of 
+      C1/C2 subluxation on CT of his c-spine.
+     REASON FOR THIS EXAMINATION:
+      Please assess C1 & C@ for question of rotational subluxation.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple head injuries with possible subluxation of C1-C2.
+     Radiographs also demonstrated a compression fracture of L1.  The patient is
+     status post assault.
+     
+     The following dictation includes dictations for both the cervical and lumbar
+     spine.
+     
+     TECHNIQUE:  Noncontrast MRI of the cervical spine.
+     
+     FINDINGS:  Please refer to the dictation of a recent CT of the brain for
+     description of intracranial hemorrhage.
+     
+     There is no spinal cord signal abnormality.  At C2-3 and C3-4, the spinal
+     canal and neural foramina are widely patent.
+     
+     At C4-5, there is a small posterior disc protrusion with mild spinal stenosis.
+     The neural foramina are widely patent.
+     
+     At C5-6, there is a mild posterior disc protrusion with mild spinal stenosis,
+     but no neural foraminal narrowing.
+     
+     At C6-7, there is a broad based disc osteophyte complex with mild spinal canal
+     stenosis and mild narrowing of the left neural foramen.  At C7-T1, the spinal
+     canal and neural foramina are widely patent.
+     
+     IMPRESSION:  Mild multilevel cervical spondylosis.
+     
+     TECHNIQUE:  Noncontrast multiplanar MRI of the lumbar spine.
+     
+     FINDINGS:  As demonstrated on radiographs of [**3020-2-1**], there is a severe
+     compression deformity of the L1 vertebral body.  There is minimal retropulsion
+     of L1 with minimal narrowing of the spinal canal.  The distal spinal cord
+     appears normal and the conus is in normal position, terminating at
+     approximately the L1-2 level.  The remainder of the lumbar spine is within
+     normal limits.  There is a 4.5 cm simple right renal cyst.
+     
+     IMPRESSION:  1.  Severe compression deformity of the L1 vertebral body with
+     minimal retropulsion and minimal narrowing of the spinal canal.
+     2.  4.5 cm simple right renal cyst.
+     
+                                                                 (Over)
+
+     DATE: [**3020-2-1**] 8:02 PM
+     MR CERVICAL SPINE; MR L SPINE SCAN                              Clip # [**Clip Number (Radiology) 14008**]
+     Reason: C1-2 SUBLUXATION, TRAUMA DUE TO AN ALTERCATION,L1 FRACTURE
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 3:23 AM
+     FEMUR (AP & LAT) RIGHT; HIP UNILAT MIN 2 VIEWS                  Clip # [**Clip Number (Radiology) 14005**]
+     Reason: trauma                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abnormal lucency in the proximal femur in X-ray of the pelvis.
+     
+     RIGHT FEMUR, FOUR VIEWS:  There is an oblique lucency in the proximal right
+     femur seen only in the lateral views that is suspicious for a fracture.  If it
+     is clinically indicated, I recommend CT of the right proximal right femur to
+     rule out fracture.  The rest of the femur is unremarkable.
+
+",,
+13236,578,,,3020-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-1**] 2:51 AM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 14003**]
+     Reason: S/P ALTERCATION IN NURSING HOME
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     COMPARISON:  No comparisons are available.
+     
+     AP SINGLE VIEW OF THE CHEST:  There is pneumothorax, abnormal widening of
+     the mediastinum, pleural effusions, or focal consolidations, obvious rib
+     fractures.
+     
+     AP SINGLE VIEW OF THE PELVIS:  There is a lucency in the sub-trochanteric
+     region of the right femur which is of unknown clinical significance. Recommend
+     obtaining other views of the femur if the patient has pain in this area.
+     
+
+",,
+13236,578,16482,0,3020-02-01 14:36:00 EST,3020-02-01 14:44:00 EST,3479,"N",53,"Nursing/Other","TRAUMA ICU NURSING PROGRESS NOTE","
+TRAUMA ICU NURSING PROGRESS NOTE
+
+PT IS AN 83 YR OLD RESIDENT OF [**Location 4563**] UNIT WHO HAD A
+FIGHT WITH ANOTHER RESIDENT.  FELL HITTING AQUARIUM AND
+THEN HEAD.   ? R HIP FX AND CLOSED HEAD INJURY.
+
+TO [**Hospital **] HOSPITAL AND TRANSFER TO [**Hospital1 10**].
+
+REVIEW OF SYSTEMS:
+
+NEURO: AROUSABLE THIS AM BUT NOT AT BASELINE PER FAMILY.
+       KNOWS NAME/HEIGHT/ONLY.  MAE.  BECAME AGITATED WITH
+       NEED TO LAY FLAT/COLLAR/HAND RESTRAINTS.  UNABLE TO
+       VERBALLY CALM.  ATTEMPTING TO GET UP AND TAKE
+       IV'S OUT.  HALDOL 2 MG IV WITH GOOD EFFECT.
+       AT PRESENT. AROUSABLE. KNOWS NAME ONLY.  ASKING
+       APPROP QUESTIONS..WHAT HAPPENED, WHAT TIME IS IT?
+       SPEECH AT TIMES SLURRED/GARBLED SINCE ADMIT..AT
+       OTHER TIMES, ESP WHEN ANGRY..NORMAL.   BUT ALWAYS
+       ABLE TO UNDERSTAND PT.    C COLLAR ON.    IV 
+       DILANTIN.
+       AWAITING MRI OF SPINE/LEG  AND REPEAT HEAD CT.
+
+CV:    HR AFIB.  BP STABLE.
+
+RESP:  ROOM AIR/2LNC WITH GOOD SATS.  [**Name8 (MD) **] NP COUGH.
+       UNABLE TO USE INCENTIVE SPIROMETER.
+
+RENAL: LABS WNL.  GOOD UO.
+
+GI:    NPO.  NOT ABLE TO TAKE PILLS.
+
+HEME:  HCT STABLE. COAGS WNL.  BOOTS ON.
+
+ENDO:  LABILE BS  400'S TO 44    INSULIN DRIP UP/DOWN.
+
+ID:    AFEBRILE.  NO ANTIBXS.
+
+SKIN:  NO ISSUES.
+
+SOCIAL: NEICE [**Name (NI) 4564**] IS HCP...VISITED WITH OTHER
+        FAMILY.
+
+A: DECLINE IN MENTAL STATUS FROM BASELINE.
+P: FOLLOW NEURO EXAM.  MRI/CT TO FURTHER WORKUP
+   INJURIES.
+",,
+13236,578,16482,0,3020-02-01 23:43:00 EST,3020-02-01 23:57:00 EST,3246,"N",53,"Nursing/Other","T/SICU NPN","
+T/SICU NPN
+Brief ROS-
+Neuro: Pt. continues with unchanged neuro assessment. He wakes to voice or spontaneously. He speaks but his speech is so garbled that it is incomprehensible. He follows commands inconsistantly, he is intermittantly agitated and has recieved haldol 5 mg over the shift, gd effect. [**Location (un) 14**] J collar in place. MAE. CT head, MRI of neck, L spine and rt hip.
+
+CV: VSS. Rhythm cont in A Fib. Skin warm and dry. Periph pulses palpable. 
+
+Resp: 2l NC with adequate sats. Bilat BS are reletively clear with intermittant rhonchi. Coughs non-prod.
+
+GI: Abd soft. No BM's. NPO. 
+
+GU: Adequate u/o via foley. 
+
+Endo: Insulin gtt restarted, see care vue for details. 
+
+Skin: Intact.
+
+
+",,
+13236,578,16482,,3020-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-2**] 1:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14011**]
+     Reason: followup                                                    
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with                                                           
+       
+     REASON FOR THIS EXAMINATION:
+      followup                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  Trauma.
+     
+     S/P CABG.  NG tube is in fundus of stomach.  There is cardiomegaly with LV
+     predominance and tortuosity of the thoracic aorta.  No definite chf.  No
+     pneumothorax.  Band-like density overlies extreme right apex, possibly
+     artifact.  Minimal blunting of left CP angle.
+     
+     IMPRESSION: Cardiomegaly.  No chf.  No pneumothorax.  Pleural thickening or
+     small effusion left CP angle.  Probable artifact overlying right lung apex.
+     
+     
+
+",,
+13236,578,16482,,3020-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-2**] 2:05 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14012**]
+     Reason: follow-up SDH & SAH                                         
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         83 year old man with altercation in nursing home                             
+           
+     REASON FOR THIS EXAMINATION:
+      follow-up SDH & SAH                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow up subdural/subarachnoid hemorrhage S/P trauma.
+     
+     COMPARISON:  [**3020-2-1**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS: Again noted are multiple foci of subarachnoid hemorrhage involving
+     both frontal, parietal, and temporal lobes.  There is a small amount of
+     intraventicular hemorrhage within the atria of both lateral ventricles,
+     unchanged.  There is also a small amount of hemorrhage within the
+     interpeduncular cistern.  A small acute subdural hemorrhage is also unchanged
+     with hemorrhage tracking along the superior aspect of the tentorium.  Small
+     chronic bifrontal subdural collections are unchanged.  No new focus of
+     intracranial hemorrhage is detected.  The ventricles, sulci, and cisterns are
+     stable, without effacement.  There is no evidence of major vascular
+     territorial infarct.
+     
+     There is no evidence of fracture.  Incidentally noted is thinning of both
+     parietal bones, a normal anatomic variant.
+     
+     IMPRESSION:  Stable appearance of subarachnoid, intraventricular, and subdural
+     hemorrhage.
+
+",,
+13236,578,16482,0,3020-02-02 05:40:00 EST,3020-02-02 05:47:00 EST,3510,"N",53,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- alert, oriented to name and birthdate only, becomes angry with furthur questioning, wants to get up and go. arms restrained to prevent pt from getting up and dc'ing iv's. followc commands inconsistently, perrla 4mm, yelling out names most of the night, requesting help to get out. settles down if left alone.
+
+resp-rr 20's, coarse bs, strong productive cough, sao2 97-100 on 2lnc.
+
+cvs- hr 110-130's afib occ pvc, sbp 112-130's, tm 98.6po, see carevu for all details.
+
+gi- npo, bs+, abd soft/nondistended
+
+gu- foley patent for clear, yellow urine in adeq amts.
+
+skin-intact
+
+endo- bs up and down on and off insulin gtt d10 infusing @10cc/hr per protocol.
+
+a: confused, restless
+
+p: monitor nvs/cvs per routine, reorient freq, haldol as needed.
+",,
+13236,578,16482,0,3020-02-02 17:12:00 EST,3020-02-02 17:21:00 EST,3479,"N",53,"Nursing/Other","TRAUMA ICU NURSING PROGRESS NOTE","
+TRAUMA ICU NURSING PROGRESS NOTE
+
+REVIEW OF SYSTEMS:
+
+NEURO: LETHARGIC...BUT EASILY AROUSABLE.  KNOWS NAME
+       AND CAN FOLLOW SOME COMMMANDS..BUT THEN GETS
+       ""CRANKY"".  NO CHANGE IN STATUS FROM ADMIT...BUT
+       REMAINS CHANGED FROM BASELINE..(CONVERSANT AND
+       ONLY MILD CONFUSION PER FAMILY.)
+       HALDOL 2MG IV X1 FOR AGITATION.
+       REMAINS ON LOGROLL.  C COLLAR ON.
+
+CV:    AFIB WITH RATE BETTER CONTROLLED WITH IV
+       LOPRESSOR BEGUN.  BP STABLE.
+
+RESP:  4LNC WITH GOOD SATS.  COUGH NOW JUNKY WITH
+        THICK SECRETIONS SUCTIONED OUT OF BACK OF
+        THROAT.   
+
+RENAL: LABS WNL.  GOOD UO.
+
+GI:    NGT PLACED AND TF BEGUN.  NO BM.
+
+HEME:  STABLE. SC HEPARIN BEGUN.  BOOTS ON.
+
+ENDO:  INSULIN/D10 DRIP D/C'D.  SLIDING SCALE TIGHTENED.
+
+ID:    AFEBRILE.
+
+SKIN:  NO ISSUES.
+
+ORTHO: PER ORTHO DOES HAVE R HIP FRACTURE THAT WILL
+       REQUIRE OR.
+
+SOCIAL: NEICE CALLED THIS AM FOR UPDATE.
+
+A: REMAINS WITH DECREASED NEUROSTATUS. 
+   REMAINS ON LOGROLL WITH WORSENING ABILITY TO CLEAR
+   SECRETIONS.
+P: FOLLOW MENTAL STATUS.  ORTHO TO GIVEN FOLLOW UP
+   ORDERS FOR C SPINE/ TLS SPINE/ AND R HIP.
+   
+",,
+13236,578,16482,,3020-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-3**] 9:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14013**]
+     Reason: assess for aspiration                                       
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old man with s/p SAH starting TF                                      
+                          
+     REASON FOR THIS EXAMINATION:
+      assess for aspiration                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST, 9:47 A.M. ON [**2-3**]:
+     
+     INDICATION:  S/P subarachnoid hemorrhage.  Assess for aspiration pneumonia on
+     tube feeds.
+     
+     FINDINGS:  Compared with [**3020-2-2**], there is now increased patchy
+     infiltrate present at the left base and also involving more of the superior
+     portions of the left lower lobe.  The remainder of the lung fields are grossly
+     clear.
+     
+     The tip of the NGT is in the proximal stomach.  Its most proximal side-hole is
+     difficult to precisely localize on this exposure, but appears near the level
+     of the GE junction as previously, and could be advanced.
+
+",,
+13236,578,16482,0,3020-02-03 04:56:00 EST,3020-02-03 05:32:00 EST,4226,"N",53,"Nursing/Other",,"
+
+TSICU NPN:
+
+EVENTS:
+STABLE OVERNIGHT. LUNG SOUNDS REMAIN COARSE, VERY POOR COUGH EFFORT AND UNABLE TO RAISE SECRETIONS. NT SUCTIONED X1 WITH MINIMAL EFFECT. RESTLESS AT TIMES, MEDICATED WITH HALDOL 2MG IV AND PT SETTLED. 
+
+NEURO: OPENS EYES TO COMMAND AND WILL FOLLOW SIMPLE COMMANDS. MAE WELL, RLE WEAK AND PAINFUL WITH MOVEMENT. ORIENTED TO SELF ONLY. SPEECH IS GARBLED, BUT UNDERSTANDABLE.
+
+CV: AFIB 80S-90S WITH OCCASIONAL BURSTS UP TO 120S. BP 90S TO LOW 100S. PALP DP AND PT PULSES BILAT.
+
+RESP: LS COARSE THROUGHOUT, DIMINISHED IN BASES. WEAK COUGH WITH ENCOURAGEMENT. NOT RAISING SECRETIONS. 
+
+GI: ABDOMEN SOFT, FLAT, NONTENDER. + BOWEL SOUNDS. DENIES NAUSEA. NO VOMITING. NGT WITH TUBE FEEDS. INCREASING AS TOLERATED TO GOAL.
+
+GU: FOLEY WITH CLEAR YELLOW URINE. LYTES WNL.
+
+ENDO: COVERAGE WITH RISS
+
+HEME: HCT 26.5. SQ HEPARIN AND PNEUMO BOOTS.
+
+ID: LOW GRADE TEMP. WBC 15.9. 
+
+SKIN: INTACT.
+
+SOCIAL: NO CONTACT OVERNIGHT.
+
+PLAN: CONTINUE WITH AGGRESSIVE PULM TOILET. TFS OFF AT 8AM FOR OR TO FIX FEMUR FX. ONGOIND NEURO ASSESSMENTS.
+",,
+13236,578,16482,0,3020-02-03 17:12:00 EST,3020-02-03 17:36:00 EST,3826,"N",53,"Nursing/Other",,"
+
+NPN
+EVENTS: OR CANCELLED TODAY PER NEUROSURG. WORSENING RESP STATUS D/T INABILITY TO RAISE SECRETIONS. FAMILY MTG TODAY WITH THIS RN AND DR [**Last Name (STitle) 1500**] AND DECISION MADE TO MAKE PT DNR/DNI.
+
+N: NEURO STATUS ESSENTIALLY UNCHANGED. PT LETHARGIC AT TIMES. AROUSES TO VOICE AND AND ANSWERS IN VERY GARBLED VOICE. ABLE TO STATE NAME INCONSISTENTLY. UNABLE TO APPRECIATE WORDS AS PT VERY GARBLED. PERRL ~3MM/BRISK. MAE'S. NORMAL STRENGTH WITH BUE'S. MOVING LE'S ON BED. RESTRAINED FOR SAFETY. SPINE CLEARED. ABLE TO HAVE HEAD OF BED ELEVATED AS TOL. C-COLLAR ON.
+
+CV: AFIB 70'S-130'S. RATE CONTROLLED WITH LOPRESSOR Q6HRS. STABLE BP.
+
+R: LUNGS COURSE/DIM AT BASES. SATS THIS AM 80'S->PUT ON HIGH FLOW NEB/NC 4.0L WITH IMPROVING SATS. CURRENTLY >96%. PT HAS WEAK TO NO COUGH AND NTS NOT ALWAYS PRODUCTIVE. NTS FOR MOD AMT THICK TAN SEC. ABG STABLE.
+
+GI: TF INC TO GOAL 70CC/HR. TOL WELL WITH MIN RESIDUAL. NO STOOL.
+
+GU: U/O WNL
+
+ID: AFEBRILE.
+
+ENDO: GLUCOSE ELEVATED >200. TREATED WITH 21U REG INSULIN X2. RECHECKED AT 4PM AND 147. IF CONT TO BE ELEVATED WILL BE PLACED ON INSULIN GTT.
+
+SOC: PT'S FAMILY MET WITH THIS RN AND DR [**Last Name (STitle) 1500**] AND FAMILY ABLE TO COME TO CONSENSUS THAT DNR/DNI WOULD BE IN PT'S BEST WISHES. VERBALIZED UNDERSTANDING OF WHAT THIS CODE STATUS MEANS AND ALL IN AGREEMENT. SEE ATTENDING NOTE IN CHART.
+
+A/P: CONT PULM TOILET. DNR/DNI.
+",,
+13236,578,16482,,3020-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-4**] 1:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14014**]
+     Reason: eval NGT                                                    
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         83 year old man with s/p SAH starting TF                                     
+                            
+     REASON FOR THIS EXAMINATION:
+      eval NGT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Subarachnoid hemorrhage, status post NG tube placement. 
+     
+     PORTABLE AP CHEST: Comparison is made to the study from [**3020-2-3**].
+     
+     FINDINGS: The patient is status post median sternotomy and CABG. There has
+     been interval placement of a nasogastric tube with the side port superior to
+     the gastroesophageal junction, and should be advanced approximately 5 cm.
+     There is stable cardiomegaly. There is interval improvement in the bilateral
+     perihilar haziness and vascular engorgement consistent with interval
+     improvement in mild congestive heart failure. Patchy opacities are present at
+     both lung bases which may represent atelectasis versus aspiration.  No
+     pneumothorax is identified.
+     
+     IMPRESSION:
+     
+     1.  Nasogastric tube in suboptimal position with side port above the
+     gastroesophageal junction. The nasogastric tube should be advanced
+     approximately 5 cm.
+     2.  Interval improvement of mild CHF.
+     3.  Patchy opacities within both bases may represent atelectasis versus
+     aspiration pneumonia.
+
+",,
+13236,578,16482,,3020-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-4**] 5:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14015**]
+     Reason: ? aspiration                                                
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          83 year old man with s/p SAH starting TF                                    
+                              
+     REASON FOR THIS EXAMINATION:
+      ? aspiration                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Starting tube feeds.  Aspiration.
+     
+     COMPARISON: [**3020-2-4**] at 1:05 AM.
+     
+     AP SEMI-UPRIGHT VIEW OF CHEST:  The patient is status post median sternotomy
+     and CABG.  The nasogastric tube remains just below the left hemidiaphragm, and
+     it should be advanced.  There is a retrocardiac opacity, which may represent
+     aspiration pneumonitis.  There is diffuse haziness over the right lung base,
+     representing a right pleural effusion.
+     
+     IMPRESSION: Left lower lobe opacity, likely aspiration.
+
+",,
+13236,578,16482,0,3020-02-04 05:44:00 EST,3020-02-04 06:12:00 EST,4226,"N",53,"Nursing/Other",,"
+
+TSICU NPN 7P-7A: 
+
+EVENTS: NA ELEVATED AND FREE WATER STARTED. PT DESATURATED TO 85-88%. NT SUCTIONED FOR COPIUS AMTS THICK TAN SECRETIONS. POOR SPONT. COUGH EFFORT. CHEST PT. REPOSITIONED IN HIGH FOWLERS POSITION. CXR DONE. PT IMPROVED., O2 KCHANGED TO FACE MASK FROM FACE TENT. NEURO STATUS IS VERY POOR. INTERMITTENTLY FOLLOWS SIMPLE COMMANDS. THIS AM, MINIMALLY RESPONSIVE AND DR. [**First Name (STitle) **] AWARE.
+
+NEURO: VERY LETHARGIC. INTERMIT. FOLLOWS SIMPLE COMMANDS. PERL. INTACT GAG AND COUGH AND CORNEALS. MAE IN WD TO NOXIOUS STIMULI.
+
+CV: AFIB RATE POORLY CONTROLLED. STARTED ON DILTIAZEM WHICH IS CURRENTLY AT 15MG/HOUR. BP LABILE 80S-LOW100S SYSTOLIC. HR BETTER CONTROLLED FOR SEVERAL HOURS, THEN STARTING TO INCREASE AGAIN THIS AM. HAVING BURSTS UP TO 140S. LOPRESSOR ON HOLD WHILE ON DILT PER DR. [**First Name (STitle) **]. 
+
+RESP: 4L NC AND 95% FIO2 VIA VACE MASK. LUNG SOUNDS COARSE. THICK TAN SECRETIONS--REQUIRES NT SUCTIONING.
+
+GI: TOLERATING TUBE FEEDS. NGT ADVANCED 2CM. CXR CONFIRMED PLACEMENT. + BOWEL SOUNDS.
+
+GU: URINE WITH CLEAR YELLOW URINE. REPLETED KCL.
+
+ENDO: COVERAGE WITH RISS AS NEEDED.
+
+HEME: HCT 27.1. SQ HEPARIN. PNEUMO BOOTS.
+
+ID: LOW GRADE TEMPS. WBC 15.9.
+
+SKIN: INTACT.
+
+SOCIAL: ? MAY NEED ADDITIONAL FAMILY MTG TODAY.
+
+PLAN: CONTINUE WITH FREE WATER BOLUSES. MONITOR HR AND CONTROL RATE AS NEEDED. REASSESS HIGH DILANTIN LEVEL. HELD DOSE OVERNIGHT PER DR. [**First Name (STitle) **]. TUBE FEEDS. O2 SUPPORT. MONITOR NEURO STATUS. ? IS FAMILY MEETING AGAIN NEEDED FOR DISCUSSION OF FUTURE PLANS. PT CONTINUES TO DETERIORATE HEMODYNAMICALLY AND RESP STATUS DECLINING. ONGOING EMOTIONAL SUPPORT FOR PT AND FAMILY/
+",,
+13236,578,16482,0,3020-02-04 14:40:00 EST,3020-02-04 14:42:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+SW contacted pts niece [**Doctor First Name **] by phone to introduce role of SW and for support.  Niece reports that she is planning to come in later today and would like to talk then.  SW provided contact info to family and will attempt to meet with them today.  Consulted with RN, who is aware.  Pls pg prn:[**Pager number 117**].
+",,
+13236,578,16482,0,3020-02-04 17:43:00 EST,3020-02-04 18:10:00 EST,4297,"N",53,"Nursing/Other",,"
+
+npn 7a-7p
+
+neuro:only withdrew to nailbed pressure this am w/ occ moaning.began to follow commands,open eyes,and answer y/n questions.mentation decreases as bp and sao2 decrease.dilatin held r/t high level.repeat level pending.
+
+cv:bp 90/40s,occ systolic in upper 80s.given 250ml LR bolus x 1 for sbp upper 70s w/ good response.a-fib,115-135.amiodarone gtt w/ bolus given and cardizem gtt d/c'd.second amio bolus given w/ minimal and short-termed effect.am lopressor dose held r/t low bp.5mg lopressor given at 1600 for elev hr w/ no effect on hr and bp.
+
+resp:labored,tachypneic breathing.rr,25-40+.ntsx for lg amt thick tan, foul-smelling sputum.sao2 88-100%.dropped to 76% once during sx. weaned from hi flow mask at 15L w/ 4L nc to 100% mask.ls coarse throughout.
+
+gi:hypo bs,-bm.tf at 70ml/hr,promote w/ fiber.no residuals.given 250ml free water boluses for elev Na.
+
+gu:u/o adequate.
+
+skin:intact.
+
+endo:insulin gtt started this am for bs 324.titrating to bs<120.
+
+id:tmax 100.1 ax.levaquin 750mg iv qd waiting ID approval.
+
+social:family mtg w/ sicu team and trauma team and sw re:worsening condition. explained that pt would eventually pass away.cmo explained. family to make decision w/ other family.
+
+plan:freq pulm toilet w/ chest pt and nt sx.continue amiodarone gtt and lopressor?monitor bs and titrate insulin gtt.provide comfort to pt and support family.
+",,
+13236,578,16482,,3020-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-5**] 9:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14017**]
+     Reason: NGT placement                                               
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      NGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE ABDOMEN ON [**3020-2-5**]
+     
+     INDICATION:  NGT placement.
+     
+     FINDINGS:  Anatomic localizations optimized for detection of NGT placement.
+     
+     The tip of the NGT is below the diaphragm but in the fundus of the stomach.
+     Left basilar atelectatic changes are incidentally seen.  A right CVL is noted
+     with the tip in the SVC.
+
+",,
+13236,578,16482,,3020-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-5**] 5:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14016**]
+     Reason: s/p line placement                                          
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           83 year old man with s/p SAH starting TF                                   
+                                
+     REASON FOR THIS EXAMINATION:
+      s/p line placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST ON [**3020-2-5**] AT 17:47:
+     
+     INDICATION:  Line placement.
+     
+     COMPARISON:  [**3020-2-4**] at 18:16.
+     
+     FINDINGS:  A left CVL is seen with the tip at the juncture of the SVC and
+     right atrium - no pneumothorax.  Prominent density projects over the right
+     apex which is quite different compared to the prior study.  This could be a
+     developing pneumonia but with some motion artifact the possibility that this
+     is not real exists.  Otherwise the heart, lungs and mediastinum are not
+     significantly changed.  There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     Right CVL placement with no PTX.
+     
+     Increased opacity over right apex - possible pneumonia.  Was this a difficult
+     line to establish?  If so, the possibility of hematoma should be considered.
+     
+     
+
+",,
+13236,578,16482,0,3020-02-05 06:33:00 EST,3020-02-05 06:51:00 EST,4450,"N",53,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Patient continues to be in respiratory distress. Breathing very labored throughout night, RR 30s-high 50s. Using accessory muscles continuously. O2 weaned to 40% humid mask, O2 sats manage to stay 93-96% for shift. Copious amts thick, tan, blood tinged secretions sx nasotracheally at least q hour. Nasal trumpet placed to spare pt trauma to nasal airway. Intermittently lucid, note with increased temps and worsening resp status, pt less responsive. Tmax tonight 101.5, Tylenol given x2, per tube with good effect. Levaquin 750mg given as ordered. Remains in uncontrolled a fib rhythm, note also occasional PVCs, rate consistently 120s, often as high as 150s. Team aware, parameters of intervention clarified. BP 90s-115 systolic. Amiodarone ongoing at 0.5mg/min as ordered.  TF continue per orders, note drastic change in BG this am per flowsheet. BG to 402 serum, insulin drip restarted, titrated currently to 10u/h, bolused twice after rechecks q1h with little improvement. Will closely monitor. Denies pain for shift, turned prn for comfort. UO adequate. Tol TF well, belly soft. No residuals, ?tube post-pyloric. 
+
+A/P: Family meeting again today indicated, secondary to pt's worsening respiratory status and LOC. Monitor hemodynamics, provide comfort measures prn, manage secretions as well as possible. Follow BG levels closely.
+",,
+13236,578,16482,0,3020-02-05 19:30:00 EST,3020-02-05 19:53:00 EST,3751,"N",53,"Nursing/Other","Nursing NOte:","
+Nursing NOte:
+REVIEW OF SYSTEMS:
+
+CV:  Continues in a.fib., rate=118-136, rate decreases sl. with infusion of lopressor.  bp=87/50-104/62.  Amiodarone infusing at .5 mg/min. Febrile to 102, blood cult. x 2 sets, sputum, urine.  
+
+RESP:  Coarse BS bil, frequent suctioning with little relief of congestion.  Difficult to stimulate cough with NT suctioning.  
+Resp. rate=33-40. 
+
+GI:  Abd. soft, hypoactive BS, continues with promote with fiber as ordered.  Minimal asp.  
+
+GU:  Foley to gravity, u/o=60-90cc/hr
+
+SKIN:  Intact
+
+ENDO:  Labile BS ranging from 73-361, insulin drip as per order, insulin drip d/c with decreased BS to 73.  Tube feeding continues as ordered.
+
+MENTATION: PERL, 3mm, opens eyes to name, inconsistently squeezes hand to command, feet withdraws to painful stimuli, weak cough, + corneals, no sedation given.
+
+SOCIAL:  Family in to visit.  Agree that status unchanged from 24  hours ago.
+
+PLAN:  Continue with pul. toilet, continue with dilantin as ordered, amiodarone as ordered, monitor BS, nutritional support as ordered, check placement of ng on x-ray.  Arrange family meeting to up-date and clarification of goals.   
+   
+
+",,
+13236,578,16482,,3020-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-6**] 12:02 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14018**]
+     Reason: eval head bleed                                             
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          83 year old man with altercation in nursing home                            
+             
+     REASON FOR THIS EXAMINATION:
+      eval head bleed                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Altercation in nursing home.  Intracranial hemorrhage.  Assess for
+     progression.
+     
+     COMPARISON:  [**3020-2-2**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no significant change in the degree and distribution of
+     the intracranial hemorrhage as previously described.  Please refer to the most
+     recent prior report for a detailed description of the pertinent findings.
+     There are no new major abnormalities.
+     
+     IMPRESSION:  No change in degree and distribution of intracranial hemorrhage.
+     
+     
+
+",,
+13236,578,16482,,3020-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-2-6**] 12:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14019**]
+     Reason: eval ngt position                                           
+     Admitting Diagnosis: S/P CEREBRAL CONTUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST DATED [**3020-2-6**] at 12:50.
+     
+     INDICATION:  NGT position.
+     
+     COMPARISON:  [**3020-2-5**].
+     
+     FINDINGS:  The tip of the nasogastric tube is below the diaphragm in the
+     region of the proximal body of the stomach.  Compared to the prior study there
+     is increased patchy density at the right base with obscuration of the right
+     heart border suggesting middle lobe infiltrate, possibly pneumonia.  Pulmonary
+     vascular markings appear stable.  The opacity at the right apex is unchanged.
+     There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     1)  NGT in both of stomach.
+     2)  Interval appearance of patchy density in right lower lung field involving
+     the middle lobe. Follow clinically for pneumonia.
+
+",,
+13236,578,16482,0,3020-02-06 06:35:00 EST,3020-02-06 06:49:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7p-7a","
+t/sicu nursing note 7p-7a
+review of systems
+
+neuro: pt remains extremely lethargic with minimal response to to stimuli. attempts to open eyes to voice. not following commands. withdraws lower extremeties only to stimuli. pearl. weak cough and gag. +corneals. conts on dilantin. c collar intact. morphine x2 d/t pt appeared uncomfortable.
+
+cv: hr 110-130's afib. sbp 90-150. conts on lopressor q6. amniodarone gtt conts. +pp with skin warm and dry. 
+
+resp: l/s with rhonchi throughout. rr 32-48. 100% facemask on with sats 94-98%. nts q1-2hrs for copious amts of thick tan sputum. nasal trumpet placed d/t frequency of sx and difficulty passing catheter this am. 
+
+gi: abd softly distended with +bs. ? placement of ngt. ngt sounds as though its in the correct place but nts thick tan secretions that look like tf. pt coughed quite a bit after free h2o bolus given and was sx for copious diluted tan secretios. cxr done but unable to see placement. kub done with no definate results of placement per sicu ho so tubefeeds remained off over night until confirmation of tube placement. ivf 1/2ns at 50cc/hr started. no stool or flatus noted. 
+
+gu: u/o adequate. na remains elevated. 250cc free h2o bolus via iv given. 
+
+heme: hct 26. 1uffp given to keep inr<1.3 with repeat 1.2. 
+
+endo: bs remains fairly labile. insulin gtt restarted to keep bs 100-120. bs q1-2. 
+
+id: tmax 102.6 rectally. conts on levoquin. 
+
+skin: no issues.
+
+social: no contact with family this shift.
+
+plan: cont aggressive pulm toilet. 
+",,
+13236,578,16482,0,3020-02-06 20:07:00 EST,3020-02-06 20:22:00 EST,3751,"N",53,"Nursing/Other","NURSING NOTE:","
+NURSING NOTE:
+REVIEW OF SYSTEMS:
+
+CV:  Continues in a. fib, rate=110-135, bp=75/34-110/51, bolus 500cc ns with sl. improvement in bp. Amiodarone continues at .5mg/min.  
+
+RESP:  Continues to have copious secretions, although sl. decreased from 24 hours, frequent suctioning for thick tan secretions.  Nutrition unable to provide food coloring for tube feeding.  Resp. rate 35-42. Sat=97-98%.
+
+GI:  Tube feeding resume at 20cc/hr [**12-21**] st. promote with fiber, abd. soft, hypoactive BS.  
+
+GU:  Foley to gravity, u/o=30-80cc/hr
+
+NEURO:  PERL, 3mm bil, inconsistently opens eyes to name and squeezes hand to command, no verbalization. Withdraws ext. of painful stimuli, r>l.  + cough, + corneals.  No sedation given.  Head cat scan done.
+
+SKIN:  Back intact, erythematous area med. aspect of lower left hand, hands edematous.  
+
+ID:  Continues on levofloxin as ordered, to start vanco.
+
+ENDO:  Sl. scale insulin resumed
+
+SOCIAL:  Dr. [**First Name (STitle) 2843**] met with family, health care proxy to re-address and to clarify health status of Mr. [**Known patient lastname 4565**].  Family requesting full treatment.  Plan meeting with SW and attending in 24-48 hours to reasess status.  
+
+PLAN:  Continue with pul. toilet, replete labs as ordered, re-check hct, increase tube feeding as tol.  Await results of cult.  Provide support to family.  Plan family meeting.
+",,
+13236,,16482,0,3020-02-07 04:58:00 EST,3020-02-07 05:13:00 EST,3136,"N",53,"Nursing/Other","Nursing Note","
+Nursing Note
+S/O- pt dropping sats to 90's and became hypotensive, fluid bolus given, and pt suctioned, without improvement another 250cc fluid bolus, pt then started on neo gtt which was titrated up to 5mcg /kg/min with pt still remaining hypotensive, CVP 19-20.HR 130 in AF.  Levo gtt started and has been titrated up to .3mcg/kg/min, with hypotension continuing, cvp down to 9-10 and another bolus of 500cc RL given. Pt cont to drop Sats to low 80's while on 100% FM and resp rate of 40-45, cpap mask placed on pt, with 5 peep and 10 of PSV, rate remains in the 40's, pt Blood sugars elevated to 375, insulin gtt started and q1 BS done, BS now 111. and gtt decreased to 5u hr. Tube feeds were stopped when cpap masked applied. Pt is unresponsive , does not open eyes to painful stimuli, pt has no movement i  extremities to painful stimuli, PERL prior to cpap mask being applied. Pt had been suctioned earlier in the noc for mod amts of thin tan secretions. Urine ouput has diminished to 5cc hr.Pt neice was called when pt became hypotensive with low Sats and she asked that pt be given pressors and she would be in today for a family meeting. 
+A/P- pt remains unstable despite fluid and pressors, pt now requiring cpap ventilation for adequate oxygenation. Family to come in this Am for meeting. Cont to resusitate with pressors and fluid.  
+",,
+13236,,16482,0,3020-02-07 10:06:00 EST,3020-02-07 10:09:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7a-830p","
+t/sicu nursing note 7a-830p
+pt remains extremely unstable. hypotensive despite large doses of pressors and hypoxic despite cpap ventilation. pt only taking vt 90-110cc with bipap. pt made cpr not indicated at 750am by sicu attending dr. [**Last Name (STitle) **]. no changes in gtts made and pt became asystolic at approx 810am. pronounce by trauma team. ME accepted case and family aware. 
+",,

@@ -1,0 +1,95 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13188,25825,,,3205-04-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+13188,25825,,,3205-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3205-4-27**] 5:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13679**]
+     Reason: eval for pna, abscess, lung cancer
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with nsclc, hx of lung abscess
+     REASON FOR THIS EXAMINATION:
+      eval for pna, abscess, lung cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Evaluate for pneumonia or abscess in patient with lung cancer.
+     
+     No prior studies are available for comparison.
+     
+     AP CHEST:  A portacath is positioned in the right chest and the tip is at the
+     junction of the SVC/RA.   There is a somewhat hazy opacification overlying the
+     right upper lumg which is consistent with right upper lobe consolidation.  In
+     addition, there is slight shift of upper mediastinal structures to the right
+     which suggests partial collapse of the right upper lobe.  No pleural effusions
+     are identified and no pulmonary nodules or masses are seen.  The pulmonary
+     vasculature is within normal limits.  The heart size and  aortic silhouettes
+     are unremarkable.
+     
+     IMPRESSION:  Right upper lobe collapse and consolidation may represent
+     pneumonia and atelectasis.  Comparison to prior studies from outside facility
+     would be useful in evaluating for change.
+     
+
+",,
+13188,25825,16426,0,3205-04-27 04:31:00 EST,3205-04-27 04:55:00 EST,-1,"N",69,"Nursing/Other","MICU ADMIT NOTE","
+MICU ADMIT NOTE
+Pt. admitted this am from [**Hospital3 3077**] due to no ICU beds at that hospital, with hypotension, lung ca, r upper lobe pneumonia. Pt is also receiving chemo for lung ca with last dose mon [**4-25**], presented to [**Hospital3 3077**] with dizziness and hypotension, was put on a levo gtt @ 2mcg/min bp responded well, upon arrival to us bp was normal 118/76 levo decreased to 1mcg/min then shut off bp has been stable ever since no furhter need for levo see carevue for numbers. PMH  includes r upper lobe adenocarcinoma,mets to the adrenals, aspergillus infection,anemia( crit 24.5 @ prensent time )pneumonia. Pt had a fever in the er @ [**Hospital1 72**] but has been afrebrible here, received 1 unit of prbc's @ [**Hospital1 72**] and and to receive 2 more units here is receiving a unit now and then another to follow. 500CC ns fluid bolus given x1 now ns with 40meq @ 100cc/hr is running u/o is low > 20-30 cc/hr. In o2 @ 6-8 l face mask, sats 100%. Pt's wife died 5 weeks ago ? from what I  was told this in report. Blood cultures x2 drwn this am piv and from port a cath.   
+",,
+13188,25825,16426,1,3205-04-27 11:31:00 EST,3205-04-27 17:48:00 EST,-1,"Y",69,"Nursing/Other",,"
+
+REPEAT HCT 28 AND PLAN TO TRANSFUSE AN ADDITIONAL UNIT PRBC. CLOT SENT TO BB PER BB REQUEST AND AWAITING BLOOD PRODUCTS.
+",,
+13188,25825,16426,0,3205-04-27 11:31:00 EST,3205-04-27 11:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO:  A+OX3.  SPONTANEOUS MOVEMENT OF EXTREMITES X4 WITH EQUAL STRENGTHS NOTED.  
+CV:  MONITOR SHOWS NSR WITH RARE PVC NOTED.  HD STABLE.  OFF PRESSORS SINCE 0200.  
+RESP:  LS COARSE THROUGHOUT.  FIO2 WENED FROM 6L SIMPLE FACE MASK TO 2L NP.  NO SOB OR RES DISTRESS NOTED.  
+GI:  ABD SOFT AND NONTENDER.  +BS NOTED.  APPETITE FAIR AND ENC PO INTAKE.  NO STOOLS.
+GU:  FOLEY INTACT AND PATENT DRAINING YELLOW URINE WITH SM AMT SEDIMENTATION NOTED.  UA C+S SENT AND PLAN TO D/C FOLEY.
+SKIN:  D+I WITH NO OPEN AREAS NOTED.
+I-D:  AFEBRILE.  REMAISN ON CEFTAZIDIME AND VANCO.
+HEME:  WILL REPEAT HCT 4 HR AFTER 2ND UPRBS FINISHES.  K REPLETED IN IVF.
+PSY-SOC:  PT UPDATED ON PLAN OF CARE ADN EMOTIONAL SUPPORT GIVEN.  NIECE CALLED AND UPDATED ON STATUS AND PLAN TO TRRANSFER BACK TO NEB ONCE BED BECOMES AVAILABLE.    
+",,
+13188,,16426,0,3205-04-28 02:53:00 EST,3205-04-28 03:05:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+Neuro: Alert and orientated x3, moves all extremies well, slept all noc.
+
+Resp: ? of a right upper lobe pneumonia lungs are essentially clear pt is not coughing, had a cxr yesterday has not been read yet by radiaologist. In o2 n/c @ 2l sats are 100% no sob noted.
+
+CV: Intially hypotensive on admission with pressors of since 0200 [**4-27**], bp stable 130-140's/70-80's. Pt. states feels mich better than yestersday.
+
+GI: States appetite is improving, no n/v or diarrhea.
+
+GU: Foley in place u/o > 50m/hr see carevue for details.
+
+Heme: Received 1 unit of prbc's tonight crit to be repeated this am. 
+
+Social: Wife died 5 weeks ago, has been staying with a niece who visited him last noc, he is to be transferred back to [**Hospital3 3077**] but there were no medical beds as of yesterday.
+",,
+13188,,16426,0,3205-04-28 04:56:00 EST,3205-04-28 04:58:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Addendum: This am pt. states that he has a non productuctive cough, lungs sounds are diminished on the right.
+",,
+13188,,16426,0,3205-04-28 08:14:00 EST,3205-04-28 08:22:00 EST,-1,"N",69,"Nursing/Other","Nursing Discharge Note","
+Nursing Discharge Note
+Neuro:  Pt A&OX3, calm and cooperative.  MAE's.
+
+CV:  HR 80's NSR, occasional PVC.  K+ this am =3.5.  To receive 20mEq PO prior to d/c.  BP: 130's/70's.  No edema.  Port-a-cath to rt chest.  Dsg intact.  Flushed and patent. Also has #20 in left hand, flushed and patent.  HCT this am 30.5.
+
+RESP:  LS's CTA throughout.  O2 sat 99% on RA.  RR 16-20, non-labored, denies SOB.  + productive cough. 
+
+GI:  Abd soft/+ bs's.  Tolerating regular diet.  Denies n/v.  
+
+GU:  Foley to gravity draining qs clear yellow urine.
+
+Skin:  No breakdown noted to backside.
+
+ID:  Afebrile.  Rec'd doses of ceftazidine and vanco this am.
+
+Plan:  Report given to RN at [**Hospital6 **] this am. D/C'd there via ambulance at 9:30 am with page 1, 2 and copy of chart.
+",,

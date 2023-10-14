@@ -1,0 +1,665 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13136,9974,,,2568-10-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2568-10-24**]              Discharge Date:   [**2568-10-27**]
+ 
+Date of Birth:  [**2489-4-14**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamides)
+ 
+Attending:[**First Name3 (LF) 1173**] 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+ 
+History of Present Illness:
+Patient is a 79 yo female with PMH significant for HTN, COPD who 
+presented to OSH with acute onset of SOB on [**2568-10-20**]. She was 
+C/o of mild discomfort on the sides of her upper abd after which 
+the SOB started suddenly. Initially she thought that she was 
+having a panic attack but then she became diaphoretic and cold. 
+Daughters called 911 and she was taken to [**Hospital3 5467**] 
+hospital. Her initial O2 sat were 88% on 4L O2 and was afebrile. 
+CXR showed extensive B/l alveolar infiltrates more on the rt 
+side. A prelim diagnosis of CHF with COPD exacerbation was made 
+and she was started on morphine, lasix and solumedrol levaquin, 
+ceftriaxone and nebulizers. She was put on BiPaP for her resp 
+distress and subsequently was intubated. CTA was negative for 
+PE. An echo performed revealed MVP with severe MR. At the 
+request of the family the pt is transferred to [**Hospital3 **].  
+ 
+ROS: Generalized fatigue for the past few months. Cough with 
+blood for about 2 months. Abd gas pain. No h/o CP, palpitaions, 
+dizziness, syncope, orthopnea, PND or pedal edema. Daughters say 
+that the pt has lost significant weight in the last few months.  
+
+
+ 
+Past Medical History:
+1)COPD predominant emphysema  
+2)Hypertension  
+3)Glaucoma  
+4)Cataract  
+5)Osteoporosis  
+6)Seasonal Allergies  
+7)Anxiety  
+8)Arthritis  
+ 
+Social History:
+Lives alone. Daughter lives nearby. Very active and current 
+smoker with 1ppd since age 16. 
+ 
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+vitals Temp 100 HR 93 RR 24 BP 96/56 O2 sat 94% 
+(Vent with 50%FiO2 and 7 PEEP)  
+Gen-Intubated and sedated. Responds to commands  
+HEENT - PERRL, neck supple, JVD not appreciated  
+Lungs - CTA b/l  
+CVS - S1 soft, S2 normal, regular, palpable systolic thrill in 
+apex which is displaced laterally. Grade [**3-17**] holosystolic murmur 
+at apex  
+Abd - soft, nontender, BS+  
+Neuro - Sedated but arousable (unable to perform further neuro 
+exam)  
+Ext - B/l pedal edema, pulse++  
+ 
+Pertinent Results:
+[**2568-10-24**] 06:50PM BLOOD WBC-8.3 RBC-3.25* Hgb-10.7* Hct-30.0* 
+MCV-92 MCH-33.0* MCHC-35.8* RDW-13.1 Plt Ct-183
+[**2568-10-24**] 06:50PM BLOOD PT-12.8 PTT-21.8* INR(PT)-1.1
+[**2568-10-24**] 06:50PM BLOOD Glucose-139* UreaN-29* Creat-0.6 Na-143 
+K-4.1 Cl-108 HCO3-30 AnGap-9
+[**2568-10-24**] 06:50PM BLOOD CK(CPK)-295*
+[**2568-10-24**] 06:50PM BLOOD Mg-2.5
+[**2568-10-25**] 02:55AM BLOOD Triglyc-111 HDL-50 CHOL/HD-2.8 LDLcalc-67
+[**2568-10-24**] 07:01PM BLOOD Type-ART Temp-37.8 pO2-87 pCO2-55* 
+pH-7.35 calTCO2-32* Base XS-2
+.
+ECHO [**2568-10-25**]
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. Left ventricular systolic function is hyperdynamic (EF 
+80%). There is no ventricular septal defect. Right ventricular 
+chamber size and free wall motion are normal. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. Mild (1+) aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is severe mitral 
+valve prolapse. There is partial mitral leaflet flail. Severe 
+(4+) mitral regurgitation is seen. The mitral regurgitation jet 
+is eccentric. The tricuspid valve leaflets are mildly thickened. 
+Tricuspid valve prolapse is present. Severe [4+] tricuspid 
+regurgitation is seen. There is severe pulmonary artery systolic 
+hypertension. There is a small to moderate sized pericardial 
+effusion. The effusion appears loculated. There is brief right 
+atrial diastolic collapse. There is significant, accentuated 
+respiratory variation in mitral/tricuspid valve inflows, 
+consistent with impaired ventricular filling. 
+
+Impression: mitral and tricuspid valve prolapse with flail 
+mitral leaflets; severe mitral and tricuspid regurgitation with 
+hyperdynamic left ventricular contractile function 
+.
+
+ 
+Brief Hospital Course:
+This is 79 y/o f with wide open MR, CHF and pnumonia. She was 
+admitted to the CCU. 
+.
+1) Cardiac:
+Patient was admitted to the coronary care unit for management. 
+Her fentanyl drip was increased to provide sedation for the 
+insertion of an arterial line. After the procedure the patient 
+developed hypotension which was subsequently reversed by 
+naloxone. She was later started on nipride drip for persistent 
+hypotension. 
+Pt had cardiac cath which showed normal coronaries with elevated 
+pressures. A decision to take the patient for mitral valve 
+replacement surgery was made after discussion with the family 
+and therefore B/l chest tubes were placed to drain the pleural 
+effusion post cath. Hct dropped from 26.4 to 24.6 after chest 
+tube insertion and the pt received 1 unit of PRBC. Later the 
+family reconsidered their decison and the patient's daughter who 
+is also the health care proxy refused surgery. With the wishes 
+of the family the patient was then extubated and she maintained 
+spontaneous ventilation. We were able to communicate with her 
+and she expressed that she did not want any kind of intervention 
+to prolong her life including ET tube, chest tube or any 
+surgery. Subsequently after discussion with the family the pt's 
+status was changed to comfort measures only and she was started 
+on morphine drip.
+.
+2) Pulmonary:
+She was also started on antibiotics (Ceftriaxone and 
+Azithromycin for pneumonia) and maintained on the ventilator. 
+She was oxygenating adequately. As noted previously she was 
+extubated and code status changed to CMO.
+.
+The patient expired on comfort measures only on Thursday evening 
+([**2568-10-27**]).
+
+ 
+Medications on Admission:
+Zyrtec 10mg daily  
+Lorazepam 0.5mg 1 daily  
+Timolol gel 1 drop each eye  
+Alphagan eye drops  
+Mavik 4mg daily  
+Fosamax 1 weekly  
+Rhinocort nasal spray  
+Tylenol  
+Vit E and C  
+Calcium + Vit D  
+Aspirin 81 mg daily  
+Mucinex  
+ 
+Discharge Medications:
+(Expired)
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Severe Mitral Regurgitation with congestive heart failure
+Pneumonia
+Chronic Pulmomary Obstructive disease
+ 
+Discharge Condition:
+Expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1180**] MD [**MD Number 1181**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6392**] MD [**MD Number 6393**] [**2568-10-31**] @ 0809
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: MON [**2568-11-14**] 2:03 PM
+(End of Report)
+
+
+",,
+13136,9974,,,2568-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-24**] 5:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13181**]
+     Reason: Eval for appropriate placement of ET tube                   
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with CHF s/p intubation, transferred from OSH                 
+     REASON FOR THIS EXAMINATION:
+      Eval for appropriate placement of ET tube                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman with CHF, status post intubation.
+     
+     No comparison.
+     
+     FINDINGS:  The study is somewhat limited due to positioning, and right
+     costophrenic angle is not fully included.  The patient is status post
+     intubation, with endotracheal tube terminating approximately 1.5 cm above the
+     carina.  Thoracic aorta is tortuous.  The heart is top normal in size.  Note
+     is made of increased interstitial markings and perihilar opacity especially on
+     the right, with bilateral effusion.  There are bilateral lower lobe opacities,
+     more prominent on the right.
+     
+     IMPRESSION:  Somewhat limited study.  Endotracheal tube terminating 1.5 cm
+     above the carina.  Congestive heart failure with interstitial edema and
+     effusion.  Bilateral lower lobe opacities, more prominent on the right,
+     worrisome for multifpcal pneumonia in this patient with fever.
+     
+     Dr. [**Last Name (STitle) 6923**] was informed by telephone immediately after the completion of the
+     study.
+
+",,
+13136,9974,,,2568-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-24**] 7:30 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13182**]
+     Reason: check ET tube placement                                     
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with CHF s/p intubation, transferred from OSH                
+       
+     REASON FOR THIS EXAMINATION:
+      check ET tube placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman with CHF, status post intubation.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Comparison was made to a prior chest radiograph
+     dated approximately 2 hours earlier on the same day.  Endotracheal tube is
+     pulled back, terminating approximately 4 cm above the carina.  No
+     pneumothorax.  Nasogastric tube is coursing down below the left hemidiaphragm,
+     and the sidehole is seen probably in the fundus.  Again note is made of
+     tortuous aorta.  Cardiac silhouette is unchanged compared to the prior study. 
+     Note is made of diffuse and extensive interstitial edema, worsened especially
+     on the left compared to the prior study.  Bilateral pleural effusion and
+     bilateral lower lobe opacity is again seen.
+     
+     IMPRESSION:  Tubes and lines as described above.  Increased bilateral edema,
+     persistent pleural effusion and consolidations in the lower lobes, suggestive
+     of CHF and pneumonia in this patient with fever.
+                                                                           
+
+",,
+13136,9974,,,2568-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-24**] 7:30 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13182**]
+     Reason: check ET tube placement                                     
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with CHF s/p intubation, transferred from OSH                
+       
+     REASON FOR THIS EXAMINATION:
+      check ET tube placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman with CHF, status post intubation.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Comparison was made to a prior chest radiograph
+     dated approximately 2 hours earlier on the same day.  Endotracheal tube is
+     pulled back, terminating approximately 4 cm above the carina.  No
+     pneumothorax.  Nasogastric tube is coursing down below the left hemidiaphragm,
+     and the sidehole is seen probably in the fundus.  Again note is made of
+     tortuous aorta.  Cardiac silhouette is unchanged compared to the prior study. 
+     Note is made of diffuse and extensive interstitial edema, worsened especially
+     on the left compared to the prior study.  Bilateral pleural effusion and
+     bilateral lower lobe opacity is again seen.
+     
+     IMPRESSION:  Tubes and lines as described above.  Increased bilateral edema,
+     persistent pleural effusion and consolidations in the lower lobes, suggestive
+     of CHF and pneumonia in this patient with fever.
+                                                                           
+
+",,
+13136,9974,39302,0,2568-10-24 18:16:00 EST,2568-10-24 18:20:00 EST,2450,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt recieved from [**Hospital **] hospital intubated with 7.0 taped at 20 at lip. Tube retaped cxr indicates tube needs to be withdrawn 1 cm. Pt placed on a/c settings from outside hospital, needs sedation md [**First Name (Titles) 85**] [**Last Name (Titles) **] for vent changes. Suctioning mod amts of thick frank blood.
+",,
+13136,9974,39302,0,2568-10-24 18:47:00 EST,2568-10-24 19:01:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Admit Note 1700-1900","
+CCU Nursing Admit Note 1700-1900
+S:  Orally intubated and sedated
+
+O:  79yof admitted from osh at 1700.  PMH COPD, anxiety, smoker, glaucoma, cataract, HTN.
+Pt admitted from home to osh on [**10-20**] with chief c/o sudden onset of sob.  Pt dx with bilat infiltrates and COPD exacerbation, and was rx with steriods, slntg, Morphine, Levaquin.  CT of chest was (-) for PE. Course at osh was complicated by elevated troponin, labile bp 70-130/s requiring levophed.  Pt was managed on 100%nrb x2days as well as BIPAP, but on [**10-22**] she required intubation.  On [**10-24**] and echo was done and showed ""MV flap/significant MR"" (by nursing report).  PT was tx to [**Hospital1 10**] for further management.
+
+T max 100 po.  Pt had been on Ceftriaxone at osh, but was dc/d d/t (-) cultures.  WBC at osh [**10-16**]
+
+CV - HR 80-120 snr with occ pvc's.  BP via aline 87-110/60's.  dp/pt pulses d/d.  
+
+Resp - ls are coarse throughout and pt was sx via ett for thick bloody secretions (also reported bloody secretions from osh).  Vent settings AC 50%/450/16br/5peep with sats 93-98%.  Pt overbreathing vent by 12.
+
+Sedation - Pt tx on Propofol gtt 10mcgs/kg/min.  Started on Fentanyl 100mcgs/ and Versed 2mg gtt with good effect.
+
+GU - foley cath to clear amber urine.
+
+GI - ogt patent and is in good placement.  Abd is soft with +bs.
+
+Skin - Intact.  Bilat heels reddened and elevated on pillow. 
+
+Social - pt is widowed and lives alone.  Has 2 daughters per report.
+
+A:  79yof tx to [**Hospital1 10**] for management of flail mv.  
+
+P:  monitor hemodynamics and resp status, check pnd labs, cont sedation until poc is finalized, keep family informed of poc per multidisiciplinary rounds.
+",,
+13136,9974,39302,,2568-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-25**] 5:10 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13184**]
+     Reason: proper placement of chest tubes                             
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman intubated with PNA, COPD, CHF s/p bilateral chest tube 
+      placement                              
+     REASON FOR THIS EXAMINATION:
+      proper placement of chest tubes                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient intubated with pneumonia, COPD and CHF with bilateral
+     chest tube placement.  Evaluate chest tube.
+     
+     COMPARISON:  [**2568-10-25**] at 15:07.
+     
+     SUPINE AP CHEST:  An endotracheal tube is in place with the tip approximately
+     4.3 cm from the carina.  A nasogastric tube is in place, with the tip
+     terminating beyond the radiograph.  There is an inferior approach Swan-Ganz
+     catheter in place, with the tip overlying the distal portion of the right
+     pulmonary artery.  Bilateral chest tubes are noted, with the tip oriented
+     inferiorly.  The cardiac and mediastinal contours are unchanged, with a
+     calcified aorta.  A right pleural effusion layering posteriorly may be
+     decreased in the interim.
+     
+     IMPRESSION:  No definite pneumothorax.
+                                                                           
+
+",,
+13136,9974,39302,,2568-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-25**] 9:43 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 13185**]
+     Reason: pre-op evaluation, effusions/infiltrate, COPD severity, pulm
+     Admitting Diagnosis: PULMONARY EDEMA
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with COPD, ?RLL infiltrate, presenting with mitral valve 
+      prolapse
+     REASON FOR THIS EXAMINATION:
+      pre-op evaluation, effusions/infiltrate, COPD severity, pulmonary edema         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of COPD, possible right lower lobe infiltrate, and
+     presented with mitral valve prolapse.
+     
+     COMPARISON:  Chest radiograph obtained on the same day.
+     
+     TECHNIQUE:  Non-contrast images of the chest were obtained.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  There is an endotracheal tube that
+     terminates above the carina.  There is a nasogastric tube that terminates in
+     the stomach.  Swan-Ganz catheter enters from below and terminates in the
+     distal portions of the right main pulmonary artery.  Bilateral chest tubes are
+     in place, with the chest tube on the right with distal tip in the posterior
+     costophrenic sulcus.  The left chest tube distal tip projects in the region of
+     the more anterior lower thorax with images of the stomach nearly superimposed,
+     probably due to volume averaging.  There is a right-sided pleural effusion and
+     possibly a small left-sided pleural effusion.  There is bilateral lower lobe
+     dense consolidation, right worse than left.  There are emphysematous changes
+     of the lungs.  There are scattered patchy areas of ground-glass opacity, right
+     worse than left.
+     
+     Limited images of the upper abdomen demonstrate atherosclerosis of the aorta.
+     Contrast is seen within the collecting systems of the kidneys, probably from
+     the patient's recent cardiac catheterization.  There may be a malrotated right
+     kidney.
+     
+     Bone windows reveal degenerative changes with no suspicious lytic or sclerotic
+     lesions.
+     
+     IMPRESSION:
+     
+     1.  Bilateral lower lobe consolidation.
+     2.  Small right-sided pleural effusion and patchy bilateral areas of ground-
+     glass opacity and interlobular septal thickening, right worse than left may
+     represent a component of mild pulmonary edema.
+     3.  Lines and tubes as described above.
+                                                                 (Over)
+
+     DATE: [**2568-10-25**] 9:43 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 13185**]
+     Reason: pre-op evaluation, effusions/infiltrate, COPD severity, pulm
+     Admitting Diagnosis: PULMONARY EDEMA
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13136,9974,39302,,2568-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-25**] 2:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13183**]
+     Reason: eval ETT placement, infiltrates                             
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman intubated with PNA, COPD, CHF                                 
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement, infiltrates                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest, AP portable, single view.
+     
+     INDICATION:  Intubated, pneumonia, COPD and CHF.  Evaluate ETT placement.
+     
+     FINDINGS:  AP single view of the chest has been obtained with the patient in
+     supine position and comparison is made with the next previous similar
+     examination obtained during the evening of the preceding day ([**2568-10-24**]).  The patient remains intubated, the ETT and NG tube remaining in
+     unchanged position.  A Swan-Ganz catheter has been approached from below and
+     reaches the central portion of the right PA.  The previously described diffuse
+     pulmonary densities most marked in the central portions remain and indicate
+     persistent pulmonary edema.  Pleural effusion may have increased as judged
+     from the degree of blunting of the left lateral pleural sinus.  The heart is
+     only moderately enlarged.  Noteworthy is the presence of rather advanced
+     calcifications in the mitral ring.  Water-soluble contrast media collection in
+     the left kidney is noted and indicates moments of contrast CT during the
+     latest interval.
+     
+     IMPRESSION:  Persistent pulmonary edema, successful advancement of Swan-Ganz
+     from below.
+                                                                           
+
+",,
+13136,9974,39302,,2568-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-25**] 5:10 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13184**]
+     Reason: proper placement of chest tubes                             
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman intubated with PNA, COPD, CHF s/p bilateral chest tube 
+      placement                              
+     REASON FOR THIS EXAMINATION:
+      proper placement of chest tubes                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient intubated with pneumonia, COPD and CHF with bilateral
+     chest tube placement.  Evaluate chest tube.
+     
+     COMPARISON:  [**2568-10-25**] at 15:07.
+     
+     SUPINE AP CHEST:  An endotracheal tube is in place with the tip approximately
+     4.3 cm from the carina.  A nasogastric tube is in place, with the tip
+     terminating beyond the radiograph.  There is an inferior approach Swan-Ganz
+     catheter in place, with the tip overlying the distal portion of the right
+     pulmonary artery.  Bilateral chest tubes are noted, with the tip oriented
+     inferiorly.  The cardiac and mediastinal contours are unchanged, with a
+     calcified aorta.  A right pleural effusion layering posteriorly may be
+     decreased in the interim.
+     
+     IMPRESSION:  No definite pneumothorax.
+                                                                           
+
+",,
+13136,9974,39302,0,2568-10-25 03:12:00 EST,2568-10-25 03:22:00 EST,2161,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated on mechanical support. ETT pulled back to 19cm @ lip. Bs equal/clear and decreased bilaterally. CXR repeated with ETT 4cm above the carina. CXR suggestive of CHF/PNA. PaO2 decreasing to 70. Peep increased to 7cm. BP initially low but better after sedation lightened. Sx'd for sm amounts of thick/thin bloody secretions. Combivent MDI started and given via vent checks. No auto peep. Repeat ABG's improving with PaCO2 WNL. No further changes made. See Carevue for further details. 
+Plan: Continue with mechanical support and increase Peep as needed. 
+",,
+13136,9974,39302,0,2568-10-25 06:23:00 EST,2568-10-25 06:32:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:sedated-versed gtt @ 3mg/hr. responds to noxious stim, but does note follow commands. soft restraints to upper extrem. intubated/vented w present settings-ac/450x16/65%/+7 w abg-7.37/59/92/35/6. breath sounds=deminished/course throughout. sx-initially thick bl tinged secretions-subsequently deminished in vol. needs adeq sedation or significantly over breathes vent. initially hypotensive-narcan x2 w improvement in bp (extrem sensitive to fentanyl). nipride added to improve forward flow-presently @ 1.22mcg/kg/min. npo. adeq uo to intake. low grade t-cultured & abx started. am hct 27.9 down from 30.0.
+
+a:sever mr [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3448**] mitral valve leaflets.
+
+p:maint adeq sedation. titrate nipride to map of 60. cardiac cath-?x. echo. abx as ordered. reck hct. support pt/family as indicated. 
+",,
+13136,9974,39302,0,2568-10-25 16:58:00 EST,2568-10-25 17:01:00 EST,5241,"N",1,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains intubated and currently vented on full support with changes made accordingly. BS slightly course sxing for small amts of thick blood tinged secretions. Pt placed on heated wire circuit for adequate humidification. Transported to and from Cath Lab without any incident. Bilateral chest tubes in place due to effusions. Will cont with vent support and wean Fio2 as tol. 
+",,
+13136,9974,39302,0,2568-10-25 18:32:00 EST,2568-10-25 19:00:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress NOTE 7am-7pm","
+CCU Nursing Progress NOTE 7am-7pm
+S:  Orally intubated and sedated.
+
+O:  CV - HR 80-90's nsr with rare single pvc's.  BP cont labile 80-130/50-60's.  Nipride titrated from 3mcgs/kg/ to 0.3mcgs/kg/min per bp.  
+To cath lab to evaluate CA prior to surgery. CA are clean.  Rec'd pt with r fem venous and art sheaths in place.  RA in cath lab 14, PA 50/26, PCWP 31.  co/ci 5.39/3.06 in cath lab.  RA 15>>8.  PAD 30>>25.  
+
+Resp - ls are coarse throughout.  Sx via ett for small amt thick bloody, brown secretions.  Spec sent for c/s.  Vent 65%/500/16br/7peep with abg 7.43/48/178.  Oral secretions are copious and clear.
+4pm-5pm  Bilat chest tubes placed by CT [**Doctor First Name **] connected to 20cm sx.  L chest tube draining 150cc bloody drainage.  R ct drained 900cc straw colored drainage.  DSGS are clean, dry and intact post.  CXR done post placement.
+
+GI - OGT in place with no aspirates.  Abd is soft with +bs, no stool
+
+GU - Foley cath intact clear yellow urine, draining 35-50cc/hr.  Rec'd lasix x1 this am for 300cc urine out.  
+
+Neuro - Pt moves upper extremities to noxious stimuli.  Cont on Versed 3.5mg/hr with good sedative effect.  
+
+Social - 2 daughters [**Name (NI) 506**] and have spoken with MD's and understand the ramifications of surgery.  After much thought, the daughters are leaning toward DNR.  They have spoken with this nurse at length.  Their mother's wishes are to not have any kind of surgery. They are currently discussing this with their husbands and will call back later tonight with their decision.  I have relayed this information to Dr. [**Last Name (STitle) 1032**] as well as Dr. [**Last Name (STitle) 4475**].  
+
+A:  79yof with flail MV leaflet, awaiting possible surgery.  
+
+P:  Cont maintain sedation for comfort, cont titrate Nipride for BP control, check co/ci, dc r groin art sheaths when able, CT of chest when able, maintain chest tubes as ordered, cont keep family informed and supported through this hospitalization.
+
+
+",,
+13136,9974,39302,,2568-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-26**] 7:35 AM
+     CAROTID SERIES COMPLETE PORT                                    Clip # [**Clip Number (Radiology) 13186**]
+     Reason: pre-op for possible MVR, please do both L & R               
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with MVP and severe MR                                        
+     REASON FOR THIS EXAMINATION:
+      pre-op for possible MVR, please do both L & R                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Carotid series complete.
+     
+     REASON:  Preop mitral valve repair.
+     
+     FINDINGS:  Duplex evaluation was performed of bilateral carotid arteries. 
+     There is no significant plaque seen bilaterally.
+     
+     On the right, peak velocities are 62, 51, and 55 cm/sec in the ICA, CCA, and
+     ECA respectively.  This is consistent with no stenosis.
+     
+     On the left, peak velocities are 57, 57, and 60 cm/sec in the ICA, CCA, and
+     ECA respectively.  This is consistent with no stenosis.
+     
+     There is antegrade vertebral flow bilaterally.
+     
+     IMPRESSION:  Normal carotid study.
+                                                                           
+
+",,
+13136,9974,39302,,2568-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2568-10-26**] 1:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13187**]
+     Reason: Please assess placement of chest tubes                      
+     Admitting Diagnosis: PULMONARY EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old woman intubated with PNA, COPD, CHF s/p bilateral chest tube  
+      placement                              
+     REASON FOR THIS EXAMINATION:
+      Please assess placement of chest tubes                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST AT 1:41 P.M. ON [**10-26**]
+     
+     INDICATION:  Multiple medical problems as above.  Assess placement of
+     bilateral chest tubes.
+     
+     FINDINGS:  Compared with 11/14 at 5:24 p.m., the positions of both chest tubes
+     at the bases bilaterally are unchanged.  The Swan-Ganz catheter has been
+     withdrawn to the level of the right atrium.  No pneumothorax.
+     
+     No significant interval changes in the patchy right lung densities.
+                                                                           
+
+",,
+13136,9974,39302,0,2568-10-26 02:48:00 EST,2568-10-26 03:22:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S:Pt sedated.
+
+O:please see careview.
+
+CV:HR 80-90's. NSR with occa pvc's. BP 82/48-111/62.Nipride currently .2mcgs/kg/min.Right art sheath removed with minimal oozing at the cath insertion site. Pa line out of place in RA will be removed in [**Name8 (MD) 4476**] M.D. Last #'s at 1900 co 7.1/ci 4.01/svr 674/ pap s/d 37/25 at 2300. current cvp 8.
+
+RESP: vent settings 50%/500/16/7peep. abg on those settings 7.46/48/116/35.Bilat chest tubes in place right chest tube restitched with good results no more bleeding from that chest tube. Left chest tube with a small amount of blood at the insertion site. LS coarse.
+
+Neuro:sedated on midaz with good effect. pt will respond to noxious stimuli.cont on versed 3.5mg/hr.
+
+GI:OGT in place. BS + BM -.
+
+GU: draining 30-40cc/hr. foley in place.
+
+Social: surgeons call daughter and spoke with her aboutwhether or not the pt will have the [**Doctor First Name **]. in the a.m family declined. pt will not be going to [**Doctor First Name **].
+
+A: MV LEAFLET FAILURE.
+
+P:NIPRIDE FOR BP CONTROL. CONTINUE TO WATCH CHEST TUBES AND RIGHT GROIN FOR BLEEEDING. CONTINUE TO FOLLOW HCT. KEEP FAMILY INVOLVED.
+",,
+13136,9974,39302,0,2568-10-26 05:27:00 EST,2568-10-26 05:36:00 EST,2161,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient sedated/intubated on mechanical support. Fio2 weaned to 50% with good Abg's. PaO2 116. Pt. hypotensive. Further weaning held at this time. Current vent settings Vt 500, A/c rate 16, Fio2 50% and Peep 7cm. ETT retaped 19Cm/lip and rotated to L side. BS clear/equal bilaterally. Sx'd for sm amounts of blood tinged secretions. Bilateral CT's in place secondary to effusions. No air leaks noted. Pt. transported to CT. Tolerated well. Chest CT revealed bilateral lower lobe consolidations, sm R effusion, ? pulmonary edema. No further changes made. 
+Plan: Continue with mechanical support and wean Fio2 as tolerated. 
+",,
+13136,9974,39302,0,2568-10-26 06:38:00 EST,2568-10-26 06:42:00 EST,7641,"N",1,"Nursing/Other",,"
+
+addendum:Skin: pt's heals and toes of feet are red. legs have been elevated and heals are not touching surface.
+Hct was low 23.6 from 27.7. pt is currently receiving 1st unit of PRBC. consent was obtained over the phone by daughter.
+",,
+13136,9974,39302,0,2568-10-26 17:55:00 EST,2568-10-26 18:11:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""Just shut the machines off.""
+
+O: Please see careview for VS and additional data.
+
+Events: Pt with wide open MR, pt family declined surgery, pt medicall managed with IV nipride, attempted to wean vent with subsequent poor ABGs, decision made to extubate pt per pt wishes per daughter (health care proxy). Pt DNR/DNI, CMO this evening after MD conversation with pt and pt daughters.
+
+CV: HR 80's to 104 NSR/ST with rare to occ PVC's, nipride gtt weaned for goal MAPS 50-65 [**Name8 (MD) 17**] MD's, please see careview. Nipride gtt dc'd at 1745 as pt refused gtt and made CMO. 
+
+Resp/Neuro: Please see careview for vent settings/ ABGS. Pt extubated at approx 1545, pt placed on face tent 100% for comfort, RR 20's, O2 sats 94-99%.  Pt started on morphine gtt for pt comfort with effect. Pt appropriate, able to verbalize wishes, MAE.
+
+GI/GU: ABd soft, +BS x 4, no stool. Foley cath draining amber u/o see flowsheet.
+
+ID: T max 99.8, tylenol given for pt comfort. Abx dc'd as pt CMO.  
+
+A/P: 79 y/o female with wide open MR, refused surgery/medical management, pt CMO. Continue to provide comfort to pt, pain control. Continue to provide emotional support to pt and family.
+
+
+",,
+13136,,39302,0,2568-10-27 03:29:00 EST,2568-10-27 03:44:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+S: ""Forget it!"" (in response to turning/mouth care)
+
+O: Please see flowsheet for complete objective data. 
+
+Pt conts to be CMO. Morphine gtt @ 1mg/hr. Arousable to painful stimuli. Early in shift-pt did not want to be turned or have mouth care done. As pt became less alert, able to perform care without objection, closes mouth and suck on swabs. 
+
+BP 67-99/44-55, NSR, HR-90's. RR 10-20's, Sats 92-100. Left CT draining serosang drainage, R no drainage. UO decreasing <20cc/hr. No stool. 
+
+P: cont present management, titrate MSO4 gtt for comfort. ?poss call out to floor. Emotionally support family members.
+",,
+13136,,39302,1,2568-10-27 17:04:00 EST,2568-10-27 17:21:00 EST,2499,"Y",1,"Nursing/Other","CCU NPN","
+CCU NPN
+spelling correction: to contact funeral director
+",,
+13136,,39302,0,2568-10-27 17:04:00 EST,2568-10-27 17:09:00 EST,2499,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+Pt CMO, pt expired at 1540. Family present at bedside and spoke with RN, pallative care [**First Name8 (NamePattern2) 12**] [**Last Name (NamePattern1) 875**], MD's. Family instructed to contact funer director for further arrangements. No valuables were on/left at pt bedside-no valuables present confirmed with family. Post mortem care done.
+",,

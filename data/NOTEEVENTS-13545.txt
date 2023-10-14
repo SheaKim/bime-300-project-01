@@ -1,0 +1,229 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13545,,,,3153-11-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3153-11-24**] 7:52 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 960**]
+     Reason: pre op AVR                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with critical AS pre op                                         
+     REASON FOR THIS EXAMINATION:
+      pre op AVR                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pre-op for aortic stenosis repair.
+     
+     COMPARISON: None.
+     
+     FINDINGS: The heart is not enlarged.  There is slight tortuosity of the aorta.
+     No pulmonary vascular congestion.  The extreme left lung base has been
+     excluded from these views.  The visualized lungs are clear.  No right pleural
+     effusion.  No pneumothorax.  Small calcifications are seen overlying the
+     heart, likely in the coronary arteries.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION: No acute cardiopulmonary process.
+
+",,
+13545,4495,,,3153-12-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3153-12-7**]       Discharge Date:  [**3153-12-11**]
+
+Date of Birth:   [**3078-3-26**]       Sex:  M
+
+Service:  CARDIOTHORACIC
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 75 year-old
+patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 9250**] with known AS referred for
+an outpatient catheterization.  The patient has not seen a
+physician in the past twelve years.  Admitted to [**Hospital3 1241**] in late November with complaints of shortness of
+breath, diagnosed with pneumonia, but on examination was
+found to have a murmur.  Also reports being receiving Lasix
+during this admission.  An echocardiogram on [**11-6**]
+showed an ejection fraction of 35% with moderate concentric
+left ventricular hypertrophy, moderate to severe
+posterolateral hypokinesis, moderate to severe to inferior
+posterior hypokinesis, biatrial enlargement.  An aortic valve
+with several thickened leaflets, maximum gradient of 110
+mmHg, mean gradient of 70 mmHg and an estimated valve area of
+0.6 cm square, 2+ aortic regurgitation.  There was 3+ mitral
+regurgitation and tricuspid regurgitation along with an right
+ventricle systolic pressure of 65 mmHg.
+
+PAST MEDICAL HISTORY:  Denies any significant past medical
+history.  His height is 6'2"".  His weight is 161 pounds.
+
+SOCIAL HISTORY:  He lives at home with his wife.  He smokes
+one pack per day times sixty three years.  Quit two weeks
+ago.  He works as a salesman at Sears.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS PRIOR TO ADMISSION:  Triamterene one tab q.d.
+
+LABORATORY DATA PRIOR TO ADMISSION:  White blood cell count
+5.1, hematocrit 40.3, platelets 125, INR 0.93, sodium 138,
+potassium 4.1, BUN 18, creatinine 1.1.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Alert and oriented times
+three.  Lungs clear to auscultation bilaterally.  Heart
+regular rate and rhythm.  Abdomen is soft.  Extremities
+positive varicosities more prominent on the left lower
+extremity.
+
+HOSPITAL COURSE:  On the [**11-7**] the patient was
+brought to the Operating Room where he underwent an aortic
+valve replacement with a #25 [**Last Name (un) 1531**] [**Doctor Last Name 1532**] prosthetic
+valve and coronary artery bypass grafting with saphenous vein
+graft to the posterior descending coronary artery.  He
+tolerated the operation well and was transferred to the
+Operating Room to the Cardiothoracic Intensive Care Unit.
+The patient did well in the immediate postoperative period.
+he was weaned from all cardioactive drugs.  His anesthesia
+was reversed.  He was weaned from the ventilator and
+successfully extubated on postoperative day one.  The patient
+continued to do well.  His chest tubes were removed and he
+was transferred from the Cardiothoracic Intensive Care Unit
+to Far Two for continuing postoperative care and cardiac
+rehabilitation.  Over the next several days the patient
+continued to do well on the floor.  He was assisted with his
+physical activity by physical therapy and the nursing staff.
+He gradually improved to the point where on postoperative day
+four it was deemed that he was stable and ready for discharge
+to home.
+
+PHYSICAL EXAMINATION ON DISCHARGE:  Vital signs temperature
+99.  Heart rate 60 sinus rhythm.  Blood pressure 120/40.
+Respiratory rate 18.  O2 sat 95% on room air.  Weight
+preoperatively 75 kilograms, at discharge 76 kilograms.
+Alert and oriented times three, moves all extremities,
+follows commands.  Cardiovascular regular rate and rhythm.
+S1 and S2.  Sternum is stable.  Incision clean and dry open
+to air.  Respirations clear to auscultation bilaterally.
+Abdomen soft, nontender, nondistended.  Normoactive bowel
+sounds.  Extremities well perfuse with no clubbing, cyanosis
+or edema.
+
+LABORATORY DATA ON DISCHARGE:  Sodium 140, potassium 3.9,
+chloride 104, CO2 23, BUN 15, creatinine 0.8, glucose 91,
+white blood cell count 5.3, hematocrit 26.8, platelets 142.
+
+DISCHARGE MEDICATIONS:  Aspirin 325 mg po q day, Lasix 20 mg
+po q day times two weeks, potassium chloride 20
+milliequivalents q.d. times two weeks, Captopril 12.5 mg
+t.i.d., Colace 100 mg b.i.d. and Percocet 5/325 one to two
+tabs q 4 hours prn.
+
+CONDITION ON DISCHARGE:  Stable.  He is to be discharged to
+home.  Follow up with wound clinic in two weeks.  Follow up
+with his primary care physician in three to four weeks and
+follow up with Dr. [**Last Name (STitle) 1142**] in four to six weeks.
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) 34**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1144**]
+
+Dictated By:[**Name8 (MD) 1242**]
+MEDQUIST36
+
+D:  [**3153-12-11**]  11:06
+T:  [**3153-12-11**]  11:17
+JOB#:  [**Job Number 9251**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) **]
+ on: MON [**3153-12-28**] 8:33 AM
+(End of Report)
+
+
+",,
+13545,4495,16859,0,3153-12-07 23:08:00 EST,3153-12-07 23:20:00 EST,3202,"N",54,"Nursing/Other","S/P CABG/AVR","
+S/P CABG/AVR
+NSR. HR DOWN TO 55 (SINUS) TONIGHT. A PACING INITIATED @ 80. NTG GTT TITRATED TO KEEP MBP <90. DIFFICULTY GETTING V WIRE TO SENSE APPROPRIATELY. H/O PROLONGED QT INTERVAL. SEEN BY EPS LAB HERE AT [**Hospital1 10**]. PLAN TO CHECK K/ION CA/ Q/4HRS TONIGHT PER DR. [**Last Name (STitle) 4090**]. CI GOOD. 2 LITERS LR GIVEN EARLIER. HCT DOWN TO ~22 BUT IMMEDIATE REPEAT ^25. PRBC ORDERED BY DR. [**Last Name (STitle) 4090**]. 
+
+BREATHSOUNDS CLEAR. WEANED FROM VENTILATOR AND EXTUBATED @ 2100. ETT SUCTIONED FOR SOME THICK SECRETIONS ~ 1HR PRIOR TO EXTUBATION. 63 PKG/YR SMOKING HISTORY NOTED IN CHART. METABOLIC ACIDOSIS NOTED AND TREATED WITH IV VOLUME.
+
+OGT DRAINING GREEN BILIOUS PRIOR TO REMOVAL. NO NAUSEA TONIGHT.
+
+FOLEY DRAINING CLEAR YELLOW. 
+
+PT DENIES PAIN BUT ADMITS TO A SENSATION OF HEAVINESS IN HIS INCISIONAL AREA. 
+
+ORIENTED X 3. MAE. NAPPING MOST OF SHIFT. 
+
+WIFE [**Doctor First Name **] IN TO VISIT. SHE REPORTED THAT SHE WILL NOT BE IN TO VISIT [**12-8**] BECAUSE SHE DOES NOT DRIVE IN THE CITY. SHE WILL CHECK IN BY PHONE. 
+
+GLASSES AND UPPER PLATE AND BRIDGE  LEFT AT BEDSIDE. 
+
+PLAN TO RECHECK PRBC AND ELECTROLYTES. PLAN TO MONITOR QT INTERVAL. 
+",,
+13545,4495,16859,,3153-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3153-12-8**] 8:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 961**]
+     Reason: s/p CABG and now has crepitus over left chest despite presen
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with s/p CABG/AVR                                               
+     REASON FOR THIS EXAMINATION:
+      s/p CABG and now has crepitus over left chest despite presence of CT, please 
+      evaluate adequacy of chest tube and ? of residual pnuemothorax.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Crepitus over left chest, evaluate for residual pneumothorax.
+     
+     Comparison is made to the prior study from [**3153-11-24**].
+     
+     SEMI-UPRIGHT AP CHEST RADIOGRAPH:  A right internal jugular Swan-Ganz catheter
+     is present with the tip in the main pulmonary artery.  A chest tube and
+     mediastinal drain are present.  Sternal wires are present.  There is no
+     pneumothorax.  There is increased cardiomegaly, along with increased lung
+     opacity indicating worsening congestive heart failure.  There is a
+     retrocardiac opacity which likely represents atelectasis.  The osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1)  No pneumothorax.
+     2)  Moderate congestive heart failure, increased since the prior study.
+
+",,
+13545,4495,16859,0,3153-12-08 05:55:00 EST,3153-12-08 06:01:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO  ALERT ORIENTED NO DEFECITS NOTED 
+
+C/V  APACED WITH FREQ PVCS A NOT ALWAYS SENSING CORRECTLY SENSITIVITY DECREASE TO .8 WITH LITTLE EFFECT CONTINUES TO NOT SENSE AT TIMES 4AM INCREASE DIFFICULTY WITH SENSING NOT SENSING CORRECTLY FREQ POLARITY CHANGED WITH NO EFFECT PACER DECREASE TO BACKUP RATE OF 50 WITH LOWEST MA SETTING TO USE AS NEEDED MP NSR SB HR 55-66 OCC PVC MAG REPLACED B/P STABLE ON NITRO 2MCGS B/P INREASE TO MAP 88 5AM WITH NO B/P CHANGE WITH HR CHANGE NTG INCREASE TO 2.2MCG MS GIVEN WITH GOOD EFFECT 
+
+RESP  NC 4L SATS 98% NONPRODUCTIVE LUNGS CLEAR CHEST TUBES PATENT 10-20CC SEROSANG 
+
+ACTIVITY  TURNING IN BED WITH ONE ASSIST TOL WELL 
+
+PLAN  CONTINUE TO MONITOR FOR HEMODYNAMIC STABLITY ? OOB TO CHAIR TODAY    
+",,
+13545,4495,,,3153-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3153-12-9**] 10:54 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 962**]
+     Reason: s/p chest tubes out                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with critical AS pre op                                        
+       
+     REASON FOR THIS EXAMINATION:
+      s/p chest tubes out                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P chest tube removal.
+     
+     CHEST, PA AND LATERAL:  The patient is s/p aortic valve replacement.
+     There is blunting of both costophrenic angles posteriorly and laterally
+     suggesting small pleural effusions.  No pneumothorax is seen.  There is a
+     small amount of subcutaneous emphysema on the left.  The heart and vascularity
+     are normal.
+     
+     IMPRESSION:  Small bilateral pleural effusions.  Minimal left subcutaneous
+     emphysema.  S/P aortic valve replacement.
+
+",,

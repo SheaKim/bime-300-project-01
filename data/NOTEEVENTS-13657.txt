@@ -1,0 +1,1709 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13657,10495,,,3149-01-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3149-1-19**]              Discharge Date:   [**3149-1-28**]
+ 
+Date of Birth:  [**3076-3-8**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Morphine
+ 
+Attending:[**First Name3 (LF) 9478**] 
+Chief Complaint:
+change in mental status x several days
+ 
+Major Surgical or Invasive Procedure:
+Stereotactic brain biopsy of left frontopariental mass
+ 
+History of Present Illness:
+72 yo woman with history of cervical cancer s/p resection, 
+radiation,
+complications from radiation 2005 and resulting R nephrectomy,
+cystectomy and ileostomy, chronic renal insufficiency, anemia, 
+recurrent UTIs with MRSA, who presents as transfer from [**Known patient firstname 276**] 
+Hospital with brain mass,
+discovered after 2nd presentation for change in mental status. 
+Per notes from [**Known patient firstname 276**] Hospital, she had been admitted there 
+from elderly housing with altered mental status and had 
+apparently said ""I haven't felt like myself"" - no further 
+details are provided about mental status, but it appears that 
+urinalysis was positive, and she was discharged the following 
+day on Levaquin.  (Incidentally, Urine culture shows Pseudomonas 
+resistant to Levaquin.)  She returned home and
+was sent back to [**Known patient firstname 276**] emergency room with continued altered 
+mental
+status. Head CT was performed, and showed large L 
+fronto-parietal brain mass with shift of midline structures.  
+She was transferred to [**Hospital1 19**] ER.  Her son, [**Doctor First Name 4137**], is her health 
+care proxy, per paperwork. 
+.
+She denies all other neurologic problems, including weakness, 
+numbness, confusion, dysarthria, dysphagia, diplopia or visual 
+problems, headache or any pain anywhere. 
+ 
+Past Medical History:
+* Cervical cancer s/p TAH-BSO with radiation, complicated by 
+radiation
+* proctitis and R kidney failure 2005, s/p L ureteral stent and
+cystectomy/R nephrectomy, ileal conduit, ileostomy
+* Chronic renal insufficiency
+* Renal Tubular Acidosis
+* Recurrent UTIs (with MRSA)
+* GERD
+* Anemia (chronic of unknown etiology)
+* Osteoporosis
+* History of deep venous thrombosis (on coumadin)
+ 
+Social History:
+Ms. [**Known patient lastname 9479**] is a widow and lives in elderly housing. Her son, 
+[**Doctor First Name 4137**], is her health care proxy.
+ 
+Family History:
+Unknown
+ 
+Physical Exam:
+General: Lying in bed in no acte distress
+HEENT: neck supple
+CV: Regular, rate, rhythm
+Pulm: Clear to ascultation bilaterally
+Abd: Soft, non-tender, non-distended
+Ext: No edema
+.
+NEURO
+* Mental Status: Awake and alert, responsive to voice from 
+either side of
+space. Follows simple commands. Oriented to person, place (when 
+given multiple choice) but not the year or month. 
+Perseverateswhen asked to recite days of week forwards, then is 
+able to do so, but not backwards. Unable to count 20->1 
+backwards as well. Requires prompting to cooperate. No apraxia 
+or signs of neglect. Speech is fluent with intact naming to 
+high/low frequency items, no errors. Repetition intact.
+.
+* Cranial Nerves: Visual fields full to confrontation. R pupil 
+surgical, L reacts to light
+3->2. Extraocular movements intact with no nystagmus. Face with 
+R nasolabial fold. Tongue midline and palate rises 
+symmetrically. No dysarthria. 
+.
+* Motor: R pronator drift. No asterixis. Inconsistent 
+cooperation with power testing. Holds all limbs antigravity but 
+right side seems weaker.
+.
+* Sensory: Intact to light touch, pinprick. Unable to assess 
+joint position sense due to inattention. Vibration reduced at 
+toes, ankles bilaterally. 
+.
+* Coordination: Finger-to-nose intact
+.
+* Gait: deferred
+ 
+Pertinent Results:
+[**3149-1-21**] 12:50PM BLOOD WBC-11.8*# RBC-3.03* Hgb-9.6* Hct-28.8* 
+MCV-95 MCH-31.8 MCHC-33.5 RDW-15.7* Plt Ct-255#
+[**3149-1-20**] 03:13AM BLOOD Albumin-2.9* Calcium-7.9* Phos-4.6* 
+Mg-1.7
+[**3149-1-19**] 07:50PM URINE RBC-21-50* WBC-[**6-12**]* Bacteri-FEW 
+Yeast-NONE Epi-0-2
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname 9479**] was admitted to the neurology intensive care unit 
+and started on Decadron 4mg q6hr to reduce vasoigenic edema 
+surrounding the left front-parietal mass. Zosyn was started for 
+positive urinalysis for urinary tract infection; it should 
+continue for a 10 day course until after [**1-29**]. 
+
+Brain biopsy was preliminarily positive for glioblastoma. She 
+will follow with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 737**] of neuro-oncology for treatment 
+determination.
+
+Her mental status improved after initiation of steroids. She 
+returned to her baseline, with only mild anomia and right-sided 
+hemiparesis on exam. She is not demented at baseline and her 
+change in behavior on admission was instead related to her tumor 
+and possible seizures. She should continue on keppra 1000/1000 
+for seizure prophylaxis.
+
+The patient's son is involved in her care. He will discuss with 
+Dr. [**Last Name (STitle) 737**] what treatment she will undertake (likely cyberknife).
+
+She should be intermittently monitored for UTI, with urine 
+culture, as she is colonized with pseudomonas.
+ 
+Medications on Admission:
+Coumadin 1mg daily
+fosamax 70 qwk
+levaquin 500 daily
+oscal 1000
+remeron 50mg qhs
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q4-6H (every 4 to 6 hours) as needed.  
+2. Insulin Lispro (Human) 100 unit/mL Cartridge Sig: sliding 
+scale  Subcutaneous four times a day.  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): hold for diarrhea.  
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed: hold for diarrhea.  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+9. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+10. Piperacillin-Tazobactam 2.25 g Recon Soln Sig: One (1) Recon 
+Soln Intravenous Q6H (every 6 hours) for 1 days: discontinue 
+after [**1-29**] dose.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+change in mental status secondary to glioblastoma
+Brain tumor (final pathology pending)
+
+ 
+Discharge Condition:
+patient is at her neurological baseline.
+Improved
+
+ 
+Discharge Instructions:
+Please continue to take all medications as prescribed
+ 
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3880**], MD [**MD Number 224**]:[**Telephone/Fax (1) 2110**] Date/Time:[**3149-2-7**] 
+11:30
+[**Hospital Ward Name **] Clinical Center, 8th floor
+
+ 
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 9480**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2886**] MD [**MD Number 2887**] [**3149-1-28**] @ 1544
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**First Name8 (NamePattern2) 1125**] [**3149-2-1**] 10:59 AM
+(End of Report)
+
+
+",,
+13657,10495,,,3149-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-19**] 10:08 PM
+     ORBITS PRE-MRI (WATERS LOOK UP&DOWN)                            Clip # [**Clip Number (Radiology) 2328**]
+     Reason: MRI orbits                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with brain lesion                                             
+     REASON FOR THIS EXAMINATION:
+      MRI orbits                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with brain lesion.  MRI orbits.  Assess for
+     metal objects.
+     
+     Two views of the orbits demonstrate metal objects around the upper row of the
+     teeth consistent with braces.  No other metallic objects are identified.
+
+",,
+13657,10495,,,3149-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-19**] 6:35 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2327**]
+     Reason: eval for worsening shift                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with mass on CT and AMS                                       
+     REASON FOR THIS EXAMINATION:
+      eval for worsening shift                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MJGe WED [**3149-1-19**] 7:15 PM
+      17 x 11 mm left frontal lobe mass with surrounding edema and 6 mm midline
+      shift. mild subfalcine herniation without transtentorial herniation or mass
+      effect on the lateral ventricles or brainstem. no hemorrhage. the right
+      cerebrum is normal.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with altered mental status and history of mass
+     seen on outside head CT.  Please evaluate for midline shift.
+     
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     COMPARISONS:  None.
+     
+     FINDINGS:  Centered in the left frontal lobe is a 17 mm x 11 mm rounded soft
+     tissue focus that is surrounded by a large amount of vasogenic edema.  There
+     is 6- mm of rightward midline shift with a mild degree of subfalcine
+     herniation anteriorly.  There is effacement of the left frontal lobe sulci,
+     however, the ventricles and basal cisterns are normal in shape and patent. The
+     right cerebral hemisphere, brainstem, and pons are normal in appearance. There
+     is no evidence of hemorrhage.  The surrounding osseous and soft tissue
+     structures are unremarkable.  The imaged portion of the paranasal sinuses are
+     well aerated.
+     
+     IMPRESSION:  Left frontal lobe 17 x 11 mm mass surrounded by vasogenic edema
+     causing 6-mm of rightward midline shift and a mild degree of subfalcine
+     herniation.  No evidence of hemorrhage.
+     
+     
+     
+
+",,
+13657,10495,,,3149-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-19**] 10:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2329**]
+     Reason: 72 year old woman with brain mass, r/o concurrent infection 
+     Admitting Diagnosis: CEREBRAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with brain mass, r/o concurrent infection                     
+     REASON FOR THIS EXAMINATION:
+      72 year old woman with brain mass, r/o concurrent infection                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Fever.
+     
+     Portable AP chest radiograph was reviewed.  There is no previous film
+     available for comparison.
+     
+     The heart size is normal.  The aorta is tortuous and partially calcified.  The
+     right upper mediastinum is slightly widened with smooth border most likely due
+     to dilated vessels.  The lungs are essentially clear.  The left retrocardiac
+     linear opacities may represent either fibrosis or scarring.  There is no
+     sizable pleural effusion.
+     
+     Old fracture of the left femoris is noted as well as bilateral severe
+     degenerative changes of the glenohumeral joint.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary process.
+                                                                           
+
+",,
+13657,10495,17002,,3149-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-20**] 9:22 AM
+     SKULL AP&LAT/C-SP/CXR/ABD SLG VIEWS MR [**First Name (Titles) 2330**] [**Last Name (Titles) **]           Clip # [**Clip Number (Radiology) 2331**]
+     Reason: metal?                                                      
+     Admitting Diagnosis: CEREBRAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman needing MRI, poor hx                                          
+     REASON FOR THIS EXAMINATION:
+      metal?                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Pre-MRI screening.
+     
+     AP and lateral views of the skull show metallic densities associated with an
+     oral prosthesis.  There is no evidence of intraorbital metallic foreign body.
+     
+     AP view of the cervical spine show scoliosis of upper thoracic spine.  There
+     is no evidence of metallic density to suggest the presence of a vagal nerve
+     stimulator.
+     
+     A supine view of the chest shows the upper thoracic scoliosis.  There is
+     patchy infiltrate and effusion at the left lung base.  A subsequent chest CT
+     also demonstrated effusion on the right side, which is not as apparent from
+     this film.
+     
+     A supine film of the abdomen shows metallic clips associated with right upper
+     quadrant attributable to cholecystectomy.  There are multiple additional
+     metallic clips in the abdomen associated with a history of prior renal surgery
+     and ileal conduit formation.  Prosthesis associated with both hips.  There is
+     no evidence of abnormal metallic density overlying the spinal canal.  There
+     are compression fractures of the lumbar spine.
+     
+     IMPRESSION:  No evidence of metallic foreign body to preclude MRI.  Left lower
+     lobe pneumonia.  Hip prostheses.  Metallic densities attributable to abdominal
+     surgery.
+                                                                           
+
+",,
+13657,10495,17002,,3149-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-20**] 8:51 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 2332**]
+     Reason: eval mass                                                   
+     Admitting Diagnosis: CEREBRAL MASS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     INDICATION:  72-year-old woman with a mass.
+     
+     TECHNIQUE:  MRA.
+     
+     3D TIME-OF-FLIGHT MRA OF THE CIRCLE OF [**Location (un) 4**].
+     
+     FINDINGS:  There is mass effect from the left frontal lobe intra-axial
+     enhancing lesion.  The circle of [**Location (un) **] appears normal with no evidence of
+     stenoses or aneurysms.  There are no dominant feeding vessels noted to the
+     mass.
+     
+     IMPRESSION:  Normal circle of [**Location (un) **] MRA.  There is slight mass effect upon
+     the anterior cerebral arteries consistent with a large amount of vasogenic
+     edema demonstrated on the routine brain MRI.
+                                                                           
+
+
+     DATE: [**3149-1-20**] 8:51 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 2332**]
+     Reason: eval mass                                                   
+     Admitting Diagnosis: CEREBRAL MASS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with mass with shift now with MS                              
+     REASON FOR THIS EXAMINATION:
+      eval mass                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Brain mass.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted sequences were obtained through
+     the brain followed with multiplanar post-gadolinium T1 imaging.
+     
+     FINDINGS:  There is no slow diffusion to indicate an acute infarct.  There is
+     a 1.3 x 1.8 cm intensely enhancing intra-axial mass in the white matter of the
+     left frontal lobe.  There is a large amount of adjacent vasogenic edema. There
+     is mild associated mass effect with 5 mm of subfalcine herniation. There is no
+     uncal herniation.  No additional enhancing foci are identified. There are no
+     areas of abnormal magnetic susceptibility.  This study is somewhat limited due
+     to patient motion artifact.  There are several scattered foci of increased T2
+     signal on the FLAIR sequence within the periventricular and subcortical white
+     matter of both cerebral hemispheres, most consistent with chronic
+     microvascular ischemic change.  These findings are also noted within the pons.
+     No associated enhancing abnormalities are noted within these areas.
+     
+     The previously mentioned densely enhancing left frontal lobe mass has a tiny
+     focus of magnetic susceptibility within it which could indicate a small focus
+     of intratumoral hemorrhage or calcium.
+     
+     The differential diagnosis of this mass includes a primary brain neoplasm or
+     a metastasis.  However, cerebral metastases from cervical cancer are
+     considered rare.  The degree of vasogenic edema, however, would favor a
+     metastatic process.
+     
+     IMPRESSION:  Medium-sized densely enhancing intra-axial mass in the white
+     matter of the left frontal lobe.  A large amount of associated vasogenic edema
+     is present.  Differential diagnosis includes primary brain neoplasm or a
+     metastatic lesion, although cerebral metastases from cervical cancer are
+     considered unusual.  The large amount of vasogenic edema would favor a
+     metastatic diagnosis, although this is not considered a specific finding.
+     
+     
+
+",,
+13657,10495,17002,,3149-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-20**] 8:51 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 2332**]
+     Reason: eval mass                                                   
+     Admitting Diagnosis: CEREBRAL MASS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     INDICATION:  72-year-old woman with a mass.
+     
+     TECHNIQUE:  MRA.
+     
+     3D TIME-OF-FLIGHT MRA OF THE CIRCLE OF [**Location (un) 4**].
+     
+     FINDINGS:  There is mass effect from the left frontal lobe intra-axial
+     enhancing lesion.  The circle of [**Location (un) **] appears normal with no evidence of
+     stenoses or aneurysms.  There are no dominant feeding vessels noted to the
+     mass.
+     
+     IMPRESSION:  Normal circle of [**Location (un) **] MRA.  There is slight mass effect upon
+     the anterior cerebral arteries consistent with a large amount of vasogenic
+     edema demonstrated on the routine brain MRI.
+                                                                           
+
+
+     DATE: [**3149-1-20**] 8:51 PM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 2332**]
+     Reason: eval mass                                                   
+     Admitting Diagnosis: CEREBRAL MASS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with mass with shift now with MS                              
+     REASON FOR THIS EXAMINATION:
+      eval mass                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Brain mass.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted sequences were obtained through
+     the brain followed with multiplanar post-gadolinium T1 imaging.
+     
+     FINDINGS:  There is no slow diffusion to indicate an acute infarct.  There is
+     a 1.3 x 1.8 cm intensely enhancing intra-axial mass in the white matter of the
+     left frontal lobe.  There is a large amount of adjacent vasogenic edema. There
+     is mild associated mass effect with 5 mm of subfalcine herniation. There is no
+     uncal herniation.  No additional enhancing foci are identified. There are no
+     areas of abnormal magnetic susceptibility.  This study is somewhat limited due
+     to patient motion artifact.  There are several scattered foci of increased T2
+     signal on the FLAIR sequence within the periventricular and subcortical white
+     matter of both cerebral hemispheres, most consistent with chronic
+     microvascular ischemic change.  These findings are also noted within the pons.
+     No associated enhancing abnormalities are noted within these areas.
+     
+     The previously mentioned densely enhancing left frontal lobe mass has a tiny
+     focus of magnetic susceptibility within it which could indicate a small focus
+     of intratumoral hemorrhage or calcium.
+     
+     The differential diagnosis of this mass includes a primary brain neoplasm or
+     a metastasis.  However, cerebral metastases from cervical cancer are
+     considered rare.  The degree of vasogenic edema, however, would favor a
+     metastatic process.
+     
+     IMPRESSION:  Medium-sized densely enhancing intra-axial mass in the white
+     matter of the left frontal lobe.  A large amount of associated vasogenic edema
+     is present.  Differential diagnosis includes primary brain neoplasm or a
+     metastatic lesion, although cerebral metastases from cervical cancer are
+     considered unusual.  The large amount of vasogenic edema would favor a
+     metastatic diagnosis, although this is not considered a specific finding.
+     
+     
+
+",,
+13657,10495,17002,0,3149-01-20 03:30:00 EST,3149-01-20 03:59:00 EST,6570,"N",53,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+See carevue for specifics:
+Briefly 72yr old women with extensive PMH including cervical CA s/p resection & radiation (see chart for complete hx), presented to OSH with changes of MS, initially thought to be r/t (+)UTI was treated & sent home, was sent back to [**Known patient firstname 150**] ER ? by whom for continued altered mental status head CT showed large L fronto-parietal mass trans to [**Hospital1 10**] for further eval.  Unable to obtain MRI at this time d/t PT unable to consent & no next of [**Doctor First Name **] noted in chart from [**Known patient firstname 150**] hospital, needs CT torso prior to MRI. PERRLA at 2-3mm with brisk reaction.  A&Ox2(name & year), ? expressive aphasia appears to know what she wants to say and gets quite frustrated, when ""words come out"", answers correctly when given choices, example: are [**Doctor First Name **] at home ""no"", are [**Doctor First Name **] at the supermarket, ""no"", are [**Doctor First Name **] in the hospital ""YES"". strong equal strength x4, denies HA, pain or discomfort,  no obvious sz activity noted. AFEB, HR SB mid 30s-50s, [**Name6 (MD) 17**] ER RN verbal report baseline while in ER all day, SBP high 80s-low 100s, decreases when asleep, easily arousable & SBP increases, atropine at BS. HX DVTs on coumadin being held d/t tx ? bx.  Labs drawn results pending. SPo2 100% on RA, LS clear, RR even, non-labored. NPO ABD softly distended, (+)BS denies N&V. Ostomy/Ileoconduit(result of complications from radiation 05' s/p cervical Ca), stoma pink draining adequate amts 
+of clear yellow urine. Skin intact. BS qid with SC coverage. Skin intact. 
+A/P-Stable, q1hr neuro checks, plain films of torso prior to MRI to r/o metal(pt unable to consent), MRI brain, decadron q6hr, dilantin q8hr (level pending) unclear via notes from [**Known patient firstname 150**] hospital if pt received loading dose, tight ISS, hold coumadin pending possible bx, NPO, continue IVFs, Abx for uti, social service consult need assistance in finding next of [**Doctor First Name **], provide emotional support. 
+",,
+13657,10495,,,3149-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-21**] 7:47 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 2333**]
+     CT PELVIS W/O CONTRAST
+     Reason: assess for occult primary                                   
+     Admitting Diagnosis: CEREBRAL MASS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old woman with new brain mass, look for primary - HOWEVER, PLEASE DO  
+      NOT GIVE CONTRAST, as her creat is 1.9
+     REASON FOR THIS EXAMINATION:
+      assess for occult primary                                                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      creatinine
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name9 (NamePattern2) **] [**3149-1-21**] 10:36 PM
+      VERY LIMITED STUDY TO ASSESS FOR PRIMARY CANCER (NO IV CONTRAST). SPICULATED
+      NODULE IN RIGHT UPPER LOBE MAY WARRANT HIGH RES CHEST CT. BILATERAL MODERATE
+      PLEURAL EFFUSIONS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with new brain mass, assess for possible
+     primary.
+     
+     TECHNIQUE:  MDCT acquired axial images from the thoracic inlet to the pubic
+     symphysis were acquired without the use of intravenous contrast material due
+     to the patient's renal failure.  Images were displayed with 5 mm slice
+     thickness and multiplanar reformatted images were performed.
+     
+     No prior studies are available for comparison purposes.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST.  Assessment for primary malignancy is
+     limited due to the absence of contrast.  There are bilateral moderately-sized
+     pleural effusions loculated on the right.  Several areas of nodular thickening
+     with somewhat spiculated appearance are seen in the right upper lobe (2:25 and
+     2:30).  Small ground-glass opacities adjacent to the major fissure is seen
+     (2:27).  There is compressive atelectasis at both lung bases.  No pneumonia is
+     apparent.  There is a trace pericardial effusion.  The heart is normal in
+     size.  There are atherosclerotic calcifications of the coronary arteries.  No
+     mediastinal or hilar lymphadenopathy is apparent although difficult to assess
+     without contrast.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  Liver and spleen and pancreas
+     appear unremarkable.  The gallbladder is distended without CT evidence of
+     stones or wall thickening.  The patient is status post right-sided
+     nephrectomy.  There is hydronephrosis on the left likely related to the
+     patient's ileal conduit status post bladder resection.  The acuity of this
+     cannot be assessed.  Thorough examination with ultrasound may be indicated. 
+     No apparent abnormality within stomach, large or small bowel is seen.  There
+     are no apparent masses or lymphadenopathy.  There is no ascites.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  Patient is status post
+     hysterectomy and bilateral salpingo-oophorectomy for cervical cancer.  The
+                                                                 (Over)
+
+     DATE: [**3149-1-21**] 7:47 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 2333**]
+     CT PELVIS W/O CONTRAST
+     Reason: assess for occult primary                                   
+     Admitting Diagnosis: CEREBRAL MASS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     patient is status post cystectomy and ileal conduit.  Assessment of the pelvis
+     is additionally limited due to streak artifacts arising from hip
+     endoprosthesis.  No large masses are seen.  Rectal mucosa appears prominent
+     distally.
+     
+     BONE WINDOWS:  There is severe generalized osteopenia and degenerative changes
+     throughout the skeleton.  Prosthetic material is seen in the hips.
+     
+     IMPRESSION:
+     1.  Very limited study for search for primary cancer due to the absence of
+     intravenous contrast material.
+     2.  Bilateral moderately-sized pleural effusions.
+     3.  Multiple right upper lobe nodular densities which could be infectious in
+     nature but neoplasm cannot be excluded.
+     4.  Post-surgical changes due to right-sided nephrectomy, cystectomy with
+     ileal conduit as well as abdominal hysterectomy and salpingo-oophorectomy for
+     cervical cancer.
+     5.  Hydronephrosis on the left, the acuity of this cannot be determined and
+     may be chronic due to the ileal conduit.  Follow up with an ultrasound
+     examination could be performed.
+     6.  Distended gallbladder without evidence of cholecystitis.
+     7.  No abdominal or pelvic masses or apparent lymphadenopathy, within the
+     limitations of the study.
+     8.  Severe diffuse demineralization and degenerative skeletal changes.
+                                                                           
+
+",,
+13657,10495,,,3149-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-21**] 7:47 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 2333**]
+     CT PELVIS W/O CONTRAST
+     Reason: assess for occult primary                                   
+     Admitting Diagnosis: CEREBRAL MASS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old woman with new brain mass, look for primary - HOWEVER, PLEASE DO  
+      NOT GIVE CONTRAST, as her creat is 1.9
+     REASON FOR THIS EXAMINATION:
+      assess for occult primary                                                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      creatinine
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name9 (NamePattern2) **] [**3149-1-21**] 10:36 PM
+      VERY LIMITED STUDY TO ASSESS FOR PRIMARY CANCER (NO IV CONTRAST). SPICULATED
+      NODULE IN RIGHT UPPER LOBE MAY WARRANT HIGH RES CHEST CT. BILATERAL MODERATE
+      PLEURAL EFFUSIONS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with new brain mass, assess for possible
+     primary.
+     
+     TECHNIQUE:  MDCT acquired axial images from the thoracic inlet to the pubic
+     symphysis were acquired without the use of intravenous contrast material due
+     to the patient's renal failure.  Images were displayed with 5 mm slice
+     thickness and multiplanar reformatted images were performed.
+     
+     No prior studies are available for comparison purposes.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST.  Assessment for primary malignancy is
+     limited due to the absence of contrast.  There are bilateral moderately-sized
+     pleural effusions loculated on the right.  Several areas of nodular thickening
+     with somewhat spiculated appearance are seen in the right upper lobe (2:25 and
+     2:30).  Small ground-glass opacities adjacent to the major fissure is seen
+     (2:27).  There is compressive atelectasis at both lung bases.  No pneumonia is
+     apparent.  There is a trace pericardial effusion.  The heart is normal in
+     size.  There are atherosclerotic calcifications of the coronary arteries.  No
+     mediastinal or hilar lymphadenopathy is apparent although difficult to assess
+     without contrast.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  Liver and spleen and pancreas
+     appear unremarkable.  The gallbladder is distended without CT evidence of
+     stones or wall thickening.  The patient is status post right-sided
+     nephrectomy.  There is hydronephrosis on the left likely related to the
+     patient's ileal conduit status post bladder resection.  The acuity of this
+     cannot be assessed.  Thorough examination with ultrasound may be indicated. 
+     No apparent abnormality within stomach, large or small bowel is seen.  There
+     are no apparent masses or lymphadenopathy.  There is no ascites.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  Patient is status post
+     hysterectomy and bilateral salpingo-oophorectomy for cervical cancer.  The
+                                                                 (Over)
+
+     DATE: [**3149-1-21**] 7:47 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 2333**]
+     CT PELVIS W/O CONTRAST
+     Reason: assess for occult primary                                   
+     Admitting Diagnosis: CEREBRAL MASS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     patient is status post cystectomy and ileal conduit.  Assessment of the pelvis
+     is additionally limited due to streak artifacts arising from hip
+     endoprosthesis.  No large masses are seen.  Rectal mucosa appears prominent
+     distally.
+     
+     BONE WINDOWS:  There is severe generalized osteopenia and degenerative changes
+     throughout the skeleton.  Prosthetic material is seen in the hips.
+     
+     IMPRESSION:
+     1.  Very limited study for search for primary cancer due to the absence of
+     intravenous contrast material.
+     2.  Bilateral moderately-sized pleural effusions.
+     3.  Multiple right upper lobe nodular densities which could be infectious in
+     nature but neoplasm cannot be excluded.
+     4.  Post-surgical changes due to right-sided nephrectomy, cystectomy with
+     ileal conduit as well as abdominal hysterectomy and salpingo-oophorectomy for
+     cervical cancer.
+     5.  Hydronephrosis on the left, the acuity of this cannot be determined and
+     may be chronic due to the ileal conduit.  Follow up with an ultrasound
+     examination could be performed.
+     6.  Distended gallbladder without evidence of cholecystitis.
+     7.  No abdominal or pelvic masses or apparent lymphadenopathy, within the
+     limitations of the study.
+     8.  Severe diffuse demineralization and degenerative skeletal changes.
+                                                                           
+
+",,
+13657,10495,,,3149-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-21**] 7:47 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 2333**]
+     CT PELVIS W/O CONTRAST
+     Reason: assess for occult primary                                   
+     Admitting Diagnosis: CEREBRAL MASS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old woman with new brain mass, look for primary - HOWEVER, PLEASE DO  
+      NOT GIVE CONTRAST, as her creat is 1.9
+     REASON FOR THIS EXAMINATION:
+      assess for occult primary                                                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      creatinine
+     ______________________________________________________________________________
+     WET READ: KMcd [**First Name9 (NamePattern2) **] [**3149-1-21**] 10:36 PM
+      VERY LIMITED STUDY TO ASSESS FOR PRIMARY CANCER (NO IV CONTRAST). SPICULATED
+      NODULE IN RIGHT UPPER LOBE MAY WARRANT HIGH RES CHEST CT. BILATERAL MODERATE
+      PLEURAL EFFUSIONS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with new brain mass, assess for possible
+     primary.
+     
+     TECHNIQUE:  MDCT acquired axial images from the thoracic inlet to the pubic
+     symphysis were acquired without the use of intravenous contrast material due
+     to the patient's renal failure.  Images were displayed with 5 mm slice
+     thickness and multiplanar reformatted images were performed.
+     
+     No prior studies are available for comparison purposes.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST.  Assessment for primary malignancy is
+     limited due to the absence of contrast.  There are bilateral moderately-sized
+     pleural effusions loculated on the right.  Several areas of nodular thickening
+     with somewhat spiculated appearance are seen in the right upper lobe (2:25 and
+     2:30).  Small ground-glass opacities adjacent to the major fissure is seen
+     (2:27).  There is compressive atelectasis at both lung bases.  No pneumonia is
+     apparent.  There is a trace pericardial effusion.  The heart is normal in
+     size.  There are atherosclerotic calcifications of the coronary arteries.  No
+     mediastinal or hilar lymphadenopathy is apparent although difficult to assess
+     without contrast.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  Liver and spleen and pancreas
+     appear unremarkable.  The gallbladder is distended without CT evidence of
+     stones or wall thickening.  The patient is status post right-sided
+     nephrectomy.  There is hydronephrosis on the left likely related to the
+     patient's ileal conduit status post bladder resection.  The acuity of this
+     cannot be assessed.  Thorough examination with ultrasound may be indicated. 
+     No apparent abnormality within stomach, large or small bowel is seen.  There
+     are no apparent masses or lymphadenopathy.  There is no ascites.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  Patient is status post
+     hysterectomy and bilateral salpingo-oophorectomy for cervical cancer.  The
+                                                                 (Over)
+
+     DATE: [**3149-1-21**] 7:47 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 2333**]
+     CT PELVIS W/O CONTRAST
+     Reason: assess for occult primary                                   
+     Admitting Diagnosis: CEREBRAL MASS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     patient is status post cystectomy and ileal conduit.  Assessment of the pelvis
+     is additionally limited due to streak artifacts arising from hip
+     endoprosthesis.  No large masses are seen.  Rectal mucosa appears prominent
+     distally.
+     
+     BONE WINDOWS:  There is severe generalized osteopenia and degenerative changes
+     throughout the skeleton.  Prosthetic material is seen in the hips.
+     
+     IMPRESSION:
+     1.  Very limited study for search for primary cancer due to the absence of
+     intravenous contrast material.
+     2.  Bilateral moderately-sized pleural effusions.
+     3.  Multiple right upper lobe nodular densities which could be infectious in
+     nature but neoplasm cannot be excluded.
+     4.  Post-surgical changes due to right-sided nephrectomy, cystectomy with
+     ileal conduit as well as abdominal hysterectomy and salpingo-oophorectomy for
+     cervical cancer.
+     5.  Hydronephrosis on the left, the acuity of this cannot be determined and
+     may be chronic due to the ileal conduit.  Follow up with an ultrasound
+     examination could be performed.
+     6.  Distended gallbladder without evidence of cholecystitis.
+     7.  No abdominal or pelvic masses or apparent lymphadenopathy, within the
+     limitations of the study.
+     8.  Severe diffuse demineralization and degenerative skeletal changes.
+                                                                           
+
+",,
+13657,10495,,,3149-01-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-24**] 6:34 PM
+     CT STEREOTAXIS W/ CONTRAST                                      Clip # [**Clip Number (Radiology) 2334**]
+     Reason: pre-op for steriotactic biopsy***Please do with frame on*** 
+     Admitting Diagnosis: CEREBRAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with left frontal brain mass                                  
+     REASON FOR THIS EXAMINATION:
+      pre-op for steriotactic biopsy***Please do with frame on***                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with left frontal brain mass.  Pre-op for
+     stereotactic biopsy.
+     
+     Comparison is made to MRI of [**3149-1-20**] and head CT of [**3149-1-19**].
+     
+     CT HEAD WITHOUT CONTRAST IN STEREOTAXIC FRAME:  No significant interval change
+     is seen in the appearance of a soft tissue focus in the left frontal lobe,
+     surrounded by a large amount of vasogenic edema.  There is stable 6-mm
+     rightward midline shift with a mild degree of subfalcine herniation.
+     Ventricles and basal cisterns remain normal in shape and patent.  There is no
+     evidence of hemorrhage.  Surrounding osseous and soft tissue structures remain
+     unremarkable.  There is fluid in multiple mastoid air cells bilaterally.  The
+     visualized portions of the paranasal sinuses are clear.
+     
+     IMPRESSION:  Stable appearance of left frontal lobe mass surrounded by
+     vasogenic edema with stable rightward midline shift.
+
+",,
+13657,10495,,,3149-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-1-25**] 2:36 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2335**]
+     Reason: evaluate post-op changes, rule out hemorrhage               
+     Admitting Diagnosis: CEREBRAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman s/p left frontal mass biopsy                                  
+     REASON FOR THIS EXAMINATION:
+      evaluate post-op changes, rule out hemorrhage                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     -INDICATION:  72-year-old female status post left frontal mass biopsy.
+     
+     COMPARISON:  [**3149-1-24**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS: The study is somewhat degraded by patient motion.  The patient is
+     status post biopsy of a left frontal lobe lesion via a left frontal burr hole
+     approach. Hyperdensity within the lesion itself is consistent with blood, with
+     gas within the central of the lesion. This and mainly  left frontal
+     pneumocephalus are consistent with recent biopsy. A large amount of stable
+     vasogenic edema in the left frontal region is unchanged.  Left to right shift
+     of normally midline structures is not increased.  There is no extra- axial
+     hemorrhage, or new mass effect.
+     
+     IMPRESSION:  Left mainly frontal pneumocephalus and blood and gas within the
+     patient's known left frontal mass as expected status post biopsy.  No interval
+     increase in mass effect or rightward subfalcine herniation.
+     
+     NOTE: A small amount of left sided frontal scalp soft tissue swelling is
+     noted, presumably postoperative in nature, and which lies slightly caudal to
+     the left frontal burr hole.
+     
+     
+
+",,
+13657,,,,3149-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 2336**]
+     Reason: 72 Y/O WOMAN W/ H/O CERVICAL CA AND RECENT DIAG OF L.FRONTO -PARIETAL MASS FOUND TO BE LARGE B-CELL LYMPHOMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        22.0 mCi F-18 FDG ([**3149-2-3**]);
+     INDICATION: 72 Y/O WOMAN W/ H/O CERVICAL CA AND RECENT DIAG OF L.FRONTO  
+     -PARIETAL MASS FOUND TO BE LARGE B-CELL LYMPHOMA  
+       
+     METHODS: Approximately 1 hour after intravenous administration of F-18 
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 132mg/dl. The area
+     imaged spanned the region from the skull to the upper thighs.  
+        
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake.   
+       
+     INTERPRETATION:  
+       
+     There is a 1.5 cm mass in the left frontal lobe with increased FDG avidity (SUV
+     4.5), surrounded by extensive vasogenic edema.  
+       
+     There is a focal 1.3 cm faint opacity in the right middle lobe without abnormal
+     uptake of FDG. There is mild emphysema.   
+     The patient is post right nephrectomy, cystectomy and ileal conduit. There is
+     left hydronephrosis. The bowel is dilated with fluid, overall unchanged since
+     the prior CT torso study. There is no FDG avid node in the abdomen or pelvis.  
+       
+     There is diffuse osteoporosis with multiple compression fractures and
+     degenerative changes as seen on the prior CT.  
+        
+     Physiologic uptake is seen in the myocardium and GI tract and [**Hospital Unit Name **] tract.  
+        
+     IMPRESSION:  1.1.5 cm mass in the left frontal lobe with increased FDG avidity
+     (SUV 4.5), surrounded by extensive vasogenic edema.  2.Post right nephrectomy,
+     cystectomy and ileal conduit, and left hydronephrosis. 3.Diffuse osteoporosis
+     with multiple compression fractures and degenerative  changes as seen on the
+     prior CT.  4.1.3 cm faint focal opacity in the right middle lobe without
+     abnormal FDG uptake, overall unchanged since [**3149-1-21**]. Despite the negative FDG
+     avidity, the possibility of neoplasm such as BAC cannot be excluded. Clinical
+     correlation and close follow up by dedicated chest CT is recommended.   
+       
+       
+       
+                                                                           
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 2336**]
+     Reason: 72 Y/O WOMAN W/ H/O CERVICAL CA AND RECENT DIAG OF L.FRONTO -PARIETAL MASS FOUND TO BE LARGE B-CELL LYMPHOMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+             [**Name6 (MD) 2337**] [**Name8 (MD) 1687**], M.D.
+             [**First Name8 (NamePattern2) 129**] [**Last Name (NamePattern1) 130**], M.D.         Approved: FRI [**3149-2-4**] 3:57 PM
+
+
+             Date Mailed: [**3149-2-7**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13657,,,,3149-02-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-2-7**] 10:13 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 2338**]
+     Reason: please eval for placement of PICC for chemotherapy.  Failed 
+     Admitting Diagnosis: LYMPHOMA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with brain cancer, needs chemo                                
+     REASON FOR THIS EXAMINATION:
+      please eval for placement of PICC for chemotherapy.  Failed bedside attempt.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old female with brain cancer, needs chemotherapy.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 2339**] and Dr. [**Last Name (STitle) 2340**] performed the procedure.  Dr. [**First Name (STitle) 2339**],
+     the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE AND FINDINGS:  A preprocedure timeout was performed to confirm the
+     patient's identity and type of procedure to be performed.  The left upper
+     extremity was prepped and draped in the usual sterile fashion.  Ultrasound was
+     used to identify the left brachial vein, which was patent and compressible.
+     After injection of 5 cc of 1% lidocaine, a 21-gauge needle was advanced under
+     ultrasonic guidance into the left brachial vein.  Hard copy ultrasound images
+     were obtained before and after venous access documenting patency.  A 0.018
+     guide wire was then advanced through the needle to the distal SVC.  The needle
+     was then exchanged for a 4.5 French micropuncture sheath.  A 4-French single
+     lumen PICC catheter was then advanced through the sheath under fluoroscopic
+     guidance into the distal SVC.  The peel-away sheath and wire were then
+     removed.  A final fluoroscopic image of the chest demonstrates the tip of the
+     catheter to be located in the distal SVC.  The patient tolerated the procedure
+     well, and there were no immediate post-procedure complications.  The catheter
+     was flushed and StatLocked in appropriate position.
+     
+     IMPRESSION:  Successful placement of 4 French single lumen PICC catheter
+     measuring 42 cm.  The tip is in the distal SVC.  The catheter is ready for
+     use.
+     
+     
+
+",,
+13657,,,,3149-02-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-2-7**] 10:13 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 2338**]
+     Reason: please eval for placement of PICC for chemotherapy.  Failed 
+     Admitting Diagnosis: LYMPHOMA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with brain cancer, needs chemo                                
+     REASON FOR THIS EXAMINATION:
+      please eval for placement of PICC for chemotherapy.  Failed bedside attempt.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old female with brain cancer, needs chemotherapy.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 2339**] and Dr. [**Last Name (STitle) 2340**] performed the procedure.  Dr. [**First Name (STitle) 2339**],
+     the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE AND FINDINGS:  A preprocedure timeout was performed to confirm the
+     patient's identity and type of procedure to be performed.  The left upper
+     extremity was prepped and draped in the usual sterile fashion.  Ultrasound was
+     used to identify the left brachial vein, which was patent and compressible.
+     After injection of 5 cc of 1% lidocaine, a 21-gauge needle was advanced under
+     ultrasonic guidance into the left brachial vein.  Hard copy ultrasound images
+     were obtained before and after venous access documenting patency.  A 0.018
+     guide wire was then advanced through the needle to the distal SVC.  The needle
+     was then exchanged for a 4.5 French micropuncture sheath.  A 4-French single
+     lumen PICC catheter was then advanced through the sheath under fluoroscopic
+     guidance into the distal SVC.  The peel-away sheath and wire were then
+     removed.  A final fluoroscopic image of the chest demonstrates the tip of the
+     catheter to be located in the distal SVC.  The patient tolerated the procedure
+     well, and there were no immediate post-procedure complications.  The catheter
+     was flushed and StatLocked in appropriate position.
+     
+     IMPRESSION:  Successful placement of 4 French single lumen PICC catheter
+     measuring 42 cm.  The tip is in the distal SVC.  The catheter is ready for
+     use.
+     
+     
+
+",,
+13657,,,,3149-02-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-2-7**] 10:13 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 2338**]
+     Reason: please eval for placement of PICC for chemotherapy.  Failed 
+     Admitting Diagnosis: LYMPHOMA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with brain cancer, needs chemo                                
+     REASON FOR THIS EXAMINATION:
+      please eval for placement of PICC for chemotherapy.  Failed bedside attempt.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old female with brain cancer, needs chemotherapy.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 2339**] and Dr. [**Last Name (STitle) 2340**] performed the procedure.  Dr. [**First Name (STitle) 2339**],
+     the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE AND FINDINGS:  A preprocedure timeout was performed to confirm the
+     patient's identity and type of procedure to be performed.  The left upper
+     extremity was prepped and draped in the usual sterile fashion.  Ultrasound was
+     used to identify the left brachial vein, which was patent and compressible.
+     After injection of 5 cc of 1% lidocaine, a 21-gauge needle was advanced under
+     ultrasonic guidance into the left brachial vein.  Hard copy ultrasound images
+     were obtained before and after venous access documenting patency.  A 0.018
+     guide wire was then advanced through the needle to the distal SVC.  The needle
+     was then exchanged for a 4.5 French micropuncture sheath.  A 4-French single
+     lumen PICC catheter was then advanced through the sheath under fluoroscopic
+     guidance into the distal SVC.  The peel-away sheath and wire were then
+     removed.  A final fluoroscopic image of the chest demonstrates the tip of the
+     catheter to be located in the distal SVC.  The patient tolerated the procedure
+     well, and there were no immediate post-procedure complications.  The catheter
+     was flushed and StatLocked in appropriate position.
+     
+     IMPRESSION:  Successful placement of 4 French single lumen PICC catheter
+     measuring 42 cm.  The tip is in the distal SVC.  The catheter is ready for
+     use.
+     
+     
+
+",,
+13657,,,,3149-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13657,,,,3149-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-3-3**] 8:54 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 2341**]
+     Reason: primary CNS lymphoma                                        
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with primary CNS lymphoma                                     
+     REASON FOR THIS EXAMINATION:
+      primary CNS lymphoma                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Followup CNS lymphoma.
+     
+     MRI OF THE BRAIN WITH GADOLINIUM.
+     
+     Exam compared to prior study of [**3149-1-20**].
+     
+     FINDINGS:  There has been dramatic reduction in the size of the contrast
+     enhancing area in the left frontal lobe compared to the previous examination
+     which now measures 14 mm in greatest dimension.  There is however, new small
+     enhancing area just supra-adjacent to the left lateral ventricle when compared
+     to the previous examination.  There is substantial reduction in mass effect
+     compared to the previous examination.  On the FLAIR sequence, there is some
+     limitation by patient motion, but there is dramatic reduction in the amount of
+     abnormal signal in the left frontal lobe compared to the previous examination.
+     
+     IMPRESSION:  Reduction in mass effect and the degree of contrast enhancement
+     associated with the previously demonstrated lesion in the left frontal lobe.
+     New focus of contrast enhancement just supra-adjacent to the left lateral
+     ventricle in the vicinity of the previous lesion.
+     
+
+",,
+13657,26638,,,3149-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-30**] 10:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2348**]
+     Reason: failed attempt at right subclavian--?pneumothorax           
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with CNS lymphoma admitted with altered mental status and  
+      probable UTI; left-greater-than-right-sided crackles on exam
+     REASON FOR THIS EXAMINATION:
+      failed attempt at right subclavian--?pneumothorax                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Altered mental status in a patient with known CNS
+     lymphoma.
+     
+     Portable AP chest radiograph compared to [**3149-5-30**].
+     
+     No change in normal heart size, tortuous aorta, significant thoracic
+     kyphoscoliosis is noted.  The right lung and the upper portion of the left
+     lung are unremarkable.  New left retrocardiac opacity is noted with
+     indistinction of the left hemidiaphragm and possible small amount of left
+     pleural effusion . Giving  this rapid onset of the finding compared to chest
+     radiograph obtained the same day at 11:17 a.m. they are  are most likely due
+     to atelectasis or aspiration.
+
+",,
+13657,26638,,,3149-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-30**] 8:21 PM
+     CT HEAD W/O CONTRAST; -76 BY SAME PHYSICIAN                     [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2346**]
+     Reason: ? herniation                                                
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73yo female with CNS lymphoma with ACUTE deterioration over 30 minutes; R 
+      dilated pupil
+     REASON FOR THIS EXAMINATION:
+      ? herniation                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DSsd MON [**3149-5-30**] 9:53 PM
+      No significant change since [**53**]:58.  Vasogenic edema in left frontal lobe
+      causing subfalcine herniation with rightward shift of  normally midline
+      structures.  No uncal herniation.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2347**] 21:50, [**3149-5-30**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old female with CNS lymphoma with acute deterioration
+     over the last 30 minutes.  Right dilated pupil.  Question herniation.
+     
+     COMPARISONS:  11:58 a.m. on [**3149-5-30**].
+     
+     CT WITHOUT CONTRAST:  There essentially is no significant interval change
+     since [**53**]:58 a.m. today.  Vasogenic edema in the frontal lobes bilaterally is
+     stable.  There is stable subfalcine herniation with rightward midline shift of
+     6 mm.  There is no evidence of transtentorial herniation.  There is no
+     evidence of acute intracranial hemorrhage.  Size of ventricles and cisterns
+     are stable.
+     
+     Paranasal sinuses and mastoid air cells remain clear.
+     
+     IMPRESSION:  No significant interval change since [**53**]:58 a.m. today.  Stable
+     vasogenic edema and subfalcine herniation with rightward midline shift.
+
+",,
+13657,26638,,,3149-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-30**] 8:04 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2342**]
+     Reason: evaluate for infiltrate                                     
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with CNS lymphoma admitted with altered mental status and 
+      probable UTI; left-greater-than-right-sided crackles on exam
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP AND LATERAL CHEST ON [**5-30**].
+     
+     HISTORY:  CNS lymphoma.  Crackles in the lungs.
+     
+     IMPRESSION:  AP and lateral chest compared to [**2-3**]:
+     
+     Lungs clear.  Heart size normal.  Thoracic aorta generally large and tortuous,
+     but not focally dilated.  Thoracic scoliosis noted.
+                                                                           
+
+",,
+13657,26638,,,3149-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-30**] 8:21 PM
+     CT HEAD W/O CONTRAST; -76 BY SAME PHYSICIAN                     [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2346**]
+     Reason: ? herniation                                                
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73yo female with CNS lymphoma with ACUTE deterioration over 30 minutes; R 
+      dilated pupil
+     REASON FOR THIS EXAMINATION:
+      ? herniation                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DSsd MON [**3149-5-30**] 9:53 PM
+      No significant change since [**53**]:58.  Vasogenic edema in left frontal lobe
+      causing subfalcine herniation with rightward shift of  normally midline
+      structures.  No uncal herniation.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2347**] 21:50, [**3149-5-30**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old female with CNS lymphoma with acute deterioration
+     over the last 30 minutes.  Right dilated pupil.  Question herniation.
+     
+     COMPARISONS:  11:58 a.m. on [**3149-5-30**].
+     
+     CT WITHOUT CONTRAST:  There essentially is no significant interval change
+     since [**53**]:58 a.m. today.  Vasogenic edema in the frontal lobes bilaterally is
+     stable.  There is stable subfalcine herniation with rightward midline shift of
+     6 mm.  There is no evidence of transtentorial herniation.  There is no
+     evidence of acute intracranial hemorrhage.  Size of ventricles and cisterns
+     are stable.
+     
+     Paranasal sinuses and mastoid air cells remain clear.
+     
+     IMPRESSION:  No significant interval change since [**53**]:58 a.m. today.  Stable
+     vasogenic edema and subfalcine herniation with rightward midline shift.
+
+",,
+13657,26638,,,3149-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-30**] 11:54 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2343**]
+     Reason: midline shift, edema?                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with known cns lymphoma, AMS in last 24 hours, now minimally 
+      responsive, no imaging here, OSH imaging read overnight in ED reportedly not 
+      significantly changed, now with lateral gaze deviation OU
+     REASON FOR THIS EXAMINATION:
+      midline shift, edema?                                                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal insufficiency
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old woman with known CNS lymphoma, change in mental
+     status in the last 24 hours, now minimally responsive.  New lateral gaze
+     deviation.  Assess for midline shift and edema.
+     
+     TECHNIQUE:  CT head without contrast.
+     
+     COMPARISONS:  MR head dated [**3149-3-3**] and CT head of [**3149-1-25**].
+     
+     FINDINGS:  In comparison to the prior studies of March and [**3149-1-3**], there
+     is increased amount of edema in the left frontal lobe with new areas of
+     hypodensities in the right frontal subcortical white matter.  There is
+     progressive subfalcine herniation to the right with a midline shift of maximum
+     of 6 mm (previously 4 mm, [**3149-3-3**]).  The ventricular system remains
+     stable in size without evidence of hydrocephalus.  The basilar cisterns are
+     patent.  There is no evidence of acute intracranial hemorrhage.  Visualized
+     portions of the paranasal sinuses and mastoid air cells are clear.  There is a
+     biopsy defect in the left frontal skull.  Surrounding soft tissue structures
+     appear unremarkable.
+     
+     IMPRESSION:
+     1.  Increase in vasogenic edema in left but increasingly also involving the
+     right frontal lobe.
+     
+     2.  Increased subfalcine herniation with midline shift to the right.
+     
+     3.  These findings have been discussed with Dr. [**First Name4 (NamePattern1) 2344**] [**Last Name (NamePattern1) 2345**] at approximately
+     2:00 p.m. on [**3149-5-30**].
+                                                                           
+
+",,
+13657,26638,17003,,3149-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-31**] 5:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2349**]
+     Reason: presence of right pneumothorax?, pna                        
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman with CNS lymphoma admitted with altered mental status and   
+      probable UTI; left-greater-than-right-sided crackles on exam. The patient had 
+      repeated attempts at placment of a right subclavian line on [**5-30**]. 
+     REASON FOR THIS EXAMINATION:
+      presence of right pneumothorax?, pna                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of a patient after attempt to insert right
+     subclavian line.
+     
+     Portable AP chest radiograph compared to [**3149-5-30**] obtained at 10:17 p.m.
+     
+     No change in the mediastinal contours is present.  There is also again
+     demonstrated left retrocardiac atelectasis with old slightly improved
+     appreciation of left hemidiaphragm suggesting partial resolution.  No pleural
+     effusion or pneumothorax is demonstrated.
+                                                                           
+
+",,
+13657,26638,17003,,3149-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-5-31**] 11:24 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 2350**]
+     Reason: please assess for tumer extension or leptomeningeal spread  
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with CNS lymphoma with acute AMS                              
+     REASON FOR THIS EXAMINATION:
+      please assess for tumer extension or leptomeningeal spread                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old woman with CNS lymphoma and acute mental status
+     change.
+     
+     COMPARISON:  Non-contrast head CT from one day prior as well as MR of the
+     brain from [**3149-3-3**].
+     
+     TECHNIQUE:  Sagittal and axial T1, axial T2, FLAIR, gradient-echo, and
+     diffusion-weighted images were obtained pre-contrast and coronal T1 post-
+     contrast images were obtained.
+     
+     MRI OF THE BRAIN:  There has been marked progression in the FLAIR and T2
+     signal abnormality involving white matter in predominantly both frontal lobes,
+     left worse than right.  The number of enhancing lesions has also increased
+     dramatically, and involve areas of both frontal regions, the right parietal
+     region, the left corpus callosum, the left basal ganglia, and the left greater
+     than right cerebral peduncles.  In the left and right frontal regions, there
+     is possible leptomeningeal involvement as well.  Several of the enhancing
+     lesions now are peripherally enhancing with central lower signal, suggestive
+     of central necrosis.  
+     
+     As on the recent CT, there is mild subfalcine herniation, roughly 4 mm.
+     
+     In the left frontal region, there is a small region of gradient-echo
+     abnormality suggesting blood or mineralization.  The paranasal sinuses appear
+     clear.
+     
+     IMPRESSION:  Increase in the number and extent of enhancing lesions involving
+     multiple areas of the brain as described above as well as an increase in the
+     surrounding white matter edema.
+     
+     
+
+",,
+13657,26638,17003,0,3149-05-31 01:51:00 EST,3149-05-31 02:03:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 21:30-07:00
+
+dx: ms change; hypotension
+
+73F, recently dx'd w/ CNS lymphoma ([**1-9**]), now s/p 4 cycles chemo; admitted from NH [**5-30**] for 1 day decrease in MS; head CT negative for acute change; pt w/ hx VRE urine, also pseudomonas in urine; 
+   admitted to [**Hospital Ward Name **] 7, had continued decrease in MS, admitted to [**Wardname **]4 [**5-31**] at approx 21:30, d/t hypotension, increased lactate, on Dopamine, IVF resuscitation;
+   was able to wean off Dopamine over a few hours, after IVF's which included IV Abx giving pt fluid boluses; 
+   hourly urine output good via ileostomy, yellow w/ sediment;
+   pt admitted w/ stage I decub on coccyx;
+
+Received IV Abx as ordered, decadron, dilantin--for ? though doubtful sz activiy (EEG did not support dx of sz activity);
+
+Also received K+ supplementaion during the night, and will receive 1 unit PRBC's during this time;
+
+Pt's son present at admission to [**Wardname **]4, will return tomorrow to visit;
+
+PLAN:
+1) finish K+ supplementation
+2) IV Abx as ordered
+3) 1 unit PRBC's during this shift
+4) update pt's son
+5) empty pt's ileostomy bag q 1-2 hrs
+6) finish litre of D51/2 w/ bicarb
+7) good peri-care
+",,
+13657,26638,17003,0,3149-05-31 15:30:00 EST,3149-05-31 15:55:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name **] 4 ICU NPN 0700-1900
+SBP 90'S TO low 100'S. HR 39-62 SB, SR. No VEA noted.
+Arousable to voice. Follows simple commands- wiggles toes, squeezes hand (grasp weak). Head MRI done. Results pnd. Cont on dilantin & decedron.
+NPO. Abd soft. Mod loose, OB negative, brown stool. Maint IVF D5 1/2 NS at 100 cc hr.
+Sats high 90's on RA. BS clear, diminished at bases. 
+Afeb. On ceftazadime, vanco, linezolid.
+GU UO 30-50 cc hr via ilio-conduit.
+Spoke with son this morning. Updated on pt's condition. 
+Has single lumen PICC. PIV infiltrated. IV RN to look for PIV.
+Remains DNR.
+A/P: Stable. MS improved but not to basline PTA. Cont dilantin & decedron.
+Cont antibiotics. Follow ciltures. 
+
+
+
+",,
+13657,26638,17003,0,3149-06-01 03:46:00 EST,3149-06-01 03:50:00 EST,6438,"N",69,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+pt start on chemotherapy Rituximab 465mg IV, checked with 2 nurses, start at 50mg/hr,infusion increased 30-60min in 50mg/hr per protocol.
+closely monitoring for side effects, most common hypotension.pt's BP stable at  100/50's, with MAP>60. 
+",,
+13657,26638,17003,0,3149-06-01 03:50:00 EST,3149-06-01 04:04:00 EST,6438,"N",69,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+neuro: pt remains lethargic, arousable to voice, response to pain, unable to assess orientation, pt does not talk, but follows simple commands,MAE.head MRI shown no changes form head CT that was neg.cont dilantin iv and keppra iv.
+
+resp:RA,sat 96-97%, LS clear, dim at bases. 
+
+cv: HR 42-50, SB, BP 97-111/50's, MAP>60. pt statr on chemotherapy Rituxan as says above, tollerates good. befor start chemotherapy given benadryl 25mg IV and tylenol 650mg PR per protocol.morning labs pending.
+
+gu/gi: pt with ileoconduit drainged yellow clear urine, adequete amount. pt NPO, no meds PO given d/t mental status.ABD soft, BS +.
+
+id: afebrile, vanco d/ced, cont linezolide and ceftazidime.
+
+access: PICC line with 1lumen, IV nurse unable to put PIV.
+
+social: DNR/DNI, no  contact from family.
+
+plan: cont monitoring neuro/resp/cardio status
+     advance chemo as tolerate
+     ?c/o to floor.
+
+
+",,
+13657,26638,17003,0,3149-06-01 17:12:00 EST,3149-06-01 17:34:00 EST,1520,"N",69,"Nursing/Other",,"
+
+MICU Nursing progress note 
+
+Neuro:  lethargic, but arousable to tactile stimuli and voice. pupils remain unequal and sluggish. Denies pain verbally throughout the day. EEG done today due to new onset left facial twitching and found to have focal and generalized tonic-to-clonic sz.  No gag reflex. 
+
+Resp: RA  99-100%.  Lungs CTA.  RR regular and shallow. No cough.  
+
+CV:  SB 40-50's. BP stable. + ppp x 4. No edema 
+
+GI/GU:  + bs noted. Abd is soft/nt/nd. NPO due to mental status/lack of gag reflex. ileoconduit draining clear yellow urine in adequate amts. Incont. of stool. (c. diff). 
+
+Access: SL PICC 
+
+SKIN:  Coccyx w/ stage I pressure ulcer (reddened unbroken skin).
+
+Plan:  Cont. to monitor per protocol. Repleting lytes as needed. Monitor for further sz activity. Given bolus depakote and chemo [**Doctor Last Name 50**] to be given by 7F RN.
+",,
+13657,26638,17003,0,3149-06-02 00:33:00 EST,3149-06-02 00:41:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+THIS IS A 73YO FEMALE WHO WAS TRANSFERRED HERE TO MICU FROM 7F WITH SEIZURES / HYPOTENSION (+ UTI) PLEASE SEE CAREVIEW FOR ADDITIONAL OBJECTIVE DATA
+
+EVENTS: PT. WAS CALLED OUT TO FLOOR YESTERDAY, HOWEVER, HAD GENERALIZED FOCAL SEIZURE. EEG DONE CONFIRMING. DECISION WAS MADE TO KEEP PT. IN ICU OVER NIGHT. GIVEN VALPROATE SODIUM BOLUS OF 1000MG AND ATC DOSE INCREASED TO 500MG Q8H. ALSO REMAINS ON DILANTIN. NO SEIZURES NOTED THIS SHIFT. 7F RN DOWN AND GAVE PT. CHEMO AT 2000. PREMEDICATED WITH ZOFRAN. TOLERATED WELL. 
+
+NEURO: PT. LETHARGIC. DOES OPEN EYES SPONTANEOUSLY. FOLLOWS SIMPLE COMMANDS BUT APHASIC AT THIS TIME. PUPILS REMAIN UNEQUAL BUT REACTIVE. MAE. 
+
+RESP: PT. ON R/A WITH SATS >95%. BREATH SOUNDS CTA. NO SOB. NO COUGH NOTED.
+
+CV: PT. HAS REMAINED SB WITH RATE 40'S TO 60'S (BASELINE) NO ECTOPY NOTED. BP WNL. SBP HIGH 90'S TO LOW 120'S. + PULSES. NO FEVER. NO EDEMA. AM LABS PENDING.
+
+GI: PT. NPO AS GAG REFLEX ABSENT. ABD. SOFT. BS+. PT. INCONTINENT OF 2 LOOSE BMS.
+
+GU: ILEOCONDUIT DRAINING CLEAR YELLOW URINE. GOOD OUTPUT.
+
+SKIN: COCCYX RED. BARRIER CREAM APPLIED AND PT. TURNED FROM RIGHT TO LEFT Q2H. 
+
+ACCESS: R BRACHIAL SL PICC IN PLACE. 
+
+PLAN: CONTINUE WITH ANTISEIZURE MEDICATIONS. MONITOR FOR SEIZURE ACTIVITY. REPLETE LYTES AS NEEDED WHEN AM LABS RETURN. PT. RESTARTED ON CHEMO YESTERDAY. TO BE GIVEN BY 7F RN. NO CONTACT WITH FAMILY MEMBERS THIS SHIFT. ? C/O TO FLOOR IF PT. STABLE
+",,
+13657,26638,17003,0,3149-06-02 16:17:00 EST,3149-06-02 16:28:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: CONTINUES TO BE LETHARGIC, NODS HEAD YES/NO.  NO SEIZURE ACTIVITY NOTED, PT. IS BOOKED FOR ANOTHER EEG. CONTINUES ON VALPORATE AND DILANTIN.
+
+RESP: SATS FINE ON ROOM AIR.
+
+CV: BP AND HR STABLE SEE CAREVUE FOR DETAILS.
+
+GI: NUTRITION CONSULT ORDERED TODAY, PT. IS UNABLE TO TAKE ANYTHING IN PO. LARGE BM.
+
+GU: URINE CULTURE FROM OUTSIDE HOSPITAL +, CONTINUES ON IV ABX. FOR THIS. ILIEO-CONDUIT DRAINING CLEAR YELLOW URINE.
+
+SOCIAL: FAMILY MEETING TODAY WITH PT'S SON IT WAS DECIDED TO CONTINUE CHEMO FOR THE REST OF THE DOSES AND PT'S SON DOES NOT WANT RADIATION, SHE WILL STAY THE NIGHT IN THE MICU TO BE MONITORED AND THEN ? TRANSFER IN AM. 
+
+PLAN: AS ABOVE IN SOCIAL NOTE.
+",,
+13657,26638,17003,,3149-06-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-6-3**] 12:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2351**]
+     Reason: eval for dobhoff placement.                                 
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old woman s/p nasal dobhoff placement.                               
+     REASON FOR THIS EXAMINATION:
+      eval for dobhoff placement.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post Dobbhoff tube placed, check position.
+     
+     The Dobhoff tube lies curled up within the stomach with the tip in the cardia
+     region of the stomach.
+     
+     The lung fields remain clear.  Marked tortuosity of the aorta is again seen. 
+     No evidence of failure is present.
+     
+     IMPRESSION:  Tip of Dobbhoff tube curled up within the stomach.
+                                                                           
+
+",,
+13657,26638,17003,0,3149-06-03 00:36:00 EST,3149-06-03 00:40:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT.'S STATUS REMAINS UNCHANGED. NO SEIZURE ACTIVITY NOTED THIS SHIFT. RECEIVED LAST DOSE OF CHEMO LAST EVENING AT 1900. PROBABLE CALL OUT THIS AM.
+
+NEURO: REMAINS LETHARGIC. APHASIC. NODS HEAD YES AND NO TO QUESTIONS ASKED. PUPILS REMAIN UNEQUAL AND SLUGGISH. EEG SCHEDULED FOR TODAY.
+
+RESP: PT. ON R/A WITH SATS >95%. BREATH SOUNDS CTA. NO COUGH NOTED.
+
+CV: SB WITH RATE 40'S TO 50'S. NO ECTOPY NOTED. BP WNL. + PULSES. NO EDEMA. AFEBRILE
+
+GI: PT. NPO AS GAG REFLEX ABSENT. ABD. SOFT. BS+. PT. HAD MED. SIZE BM THIS SHIFT.
+
+GU: ILEOCONDUIT WITH CLEAR YELLOW URINE DRAINING. GOOD OUTPUT.
+
+SKIN: COCCYZ RED. TURNED FROM SIDE TO SIDE. BARRIER CREAM APPLIED.
+
+ACCESS: L AC PICC
+
+PLAN: ? C/O TO FLOOR TODAY. MONITOR FOR SEIZURE ACTIVITY. AM LABS PENDING. NO CONTACT WITH FAMILY THIS SHIFT. PT. DNR
+
+",,
+13657,26638,17003,0,3149-06-03 15:13:00 EST,3149-06-03 15:19:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: NO CHANGE CONTINUES TO BE LETHARGIC, NODDING YES/NO TO ANSWERS. NO SEIZURE ACTIVITY NOTED.
+
+RESP: NO O2, SATS ARE FINE.
+
+CV: HR IN THE 50'S SB NO ECTOPY, BP STABLE. 
+
+GI: DOBHOFF PEDI TUBE PLACED TODAY PT. TO START TUBEFEEDS TONIGHT AFTER MID. CXR DONE TO CONFIRM PLACEMENT.  INC. OF LARGE AMTS. OF STOOL X2, RECTAL BAG IN PLACE. RECTAL AREA IS VERY EXCORIATED, ALOE VEST CREAM APPLIED.
+
+GU: URINE DRAINING WELL VIA ILIEO CONDUIT.
+
+SOCIAL: NO VISIORS TODAY, RECIVED DAY #[**3-5**] OF CHEMO THIS AFTERNOON.
+
+PLAN: PT. IS CALLED OUT TO 7F THEY WILL BE ABLE TO TAKE PT. SAT. AM
+",,
+13657,26638,17003,0,3149-06-03 17:02:00 EST,3149-06-03 17:03:00 EST,977,"N",69,"Nursing/Other","MICU ADDENDUM","
+MICU ADDENDUM
+PT. PULLED OUT DOBHOFF TUBE WHILE RESTRAINED, TEAM IS AWARE, TUBE FEEDINGS HAD NOT BEEN STARTED.
+",,
+13657,26638,17003,,3149-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-6-4**] 7:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2352**]
+     Reason: ASSESS DOPHOFF
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 2:55 P.M., [**6-4**]
+     
+     HISTORY:  Dobhoff  tube placement.
+     
+     IMPRESSION:  AP chest compared to [**3149-6-3**]:
+     
+     Feeding tube with a wire stylet in place ends in the upper stomach.  Lungs
+     clear.  Heart size normal.  No pleural abnormality.  Moderately severe
+     thoracic scoliosis and chronic fracture deformity left humerus noted.  Tip of
+     a left subclavian line projects over the mid SVC.  No pneumothorax.
+
+",,
+13657,26638,17003,0,3149-06-04 00:30:00 EST,3149-06-04 00:35:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+73YO FEMALE WITH PRIMARY CNS LYMPHOMA TRANSFERRED FROM EW [**5-30**] WITH DECREASED MS [**First Name (Titles) **] [**Last Name (Titles) 5108**]. PT. ALSO + VRE IN URINE. SINCE ADMISSION HERE, PT.'S LAST SEIZURE [**5-31**]. FAMILY MEETING HELD. PT. NOT TO RECEIVE RADIATION. LAST DOSE CHEMO [**6-3**]. PT. DNR/DNI. TO BE TRANSFERRED TO 7F WHEN BED AVAILABLE TODAY
+
+NEURO: PT. APHASIC. MOANS AT TIMES. MOVEMENT OF UPPER EXTREMITIES. PUPILS UNEQUAL AND REACTIVE. SLUGGISH. DOES NOT APPEAR TO BE IN ANY PAIN OR DISCOMFORT. 
+
+RESP: PT. ON R/A WITH SATS >95%. BREATH SOUNDS CTA. NO COUGH / SOB
+
+CV: PT. SB/NSR WITH RATE 40'S TO 70'S (BASELINE 40'S TO 60'S) BP WNL. + PULSES. NO EDEMA. AFEBRILE
+
+GI: ABD. SOFT. BS+. PT. NPO AS GAG REFLEX ABSENT. PT. DID HAVE DOBHOFF TUBE PLACED YESTERDAY BUT SHE PULLED IT OUT. NOW ON D5 1/2 NS AT 50CC/HR. FECAL INCONTINENCE BAD REMAINS IN PLACE
+
+GU: ILEOCONDUIT DRAINING CLEAR YELLOW URINE.
+
+SKIN: COCCYX RED. TURNED RIGHT TO LEFT. BARRIER CREAM APPLIED
+
+ACCESS: L AC SL PICC
+
+PLAN: CALLED OUT. TO BE TRANSFERRED TO 7F WHEN BED AVAILABLE.  AM LABS PENDING. NO CONTACT WITH FAMILY THIS SHIFT. PT. DNR/DNI 
+",,
+13657,26638,,,3149-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-6-5**] 8:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2353**]
+     Reason: evaluate proper placement of dobhoff tube                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with CNS lymphoma                                             
+     REASON FOR THIS EXAMINATION:
+      evaluate proper placement of dobhoff tube                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Lymphoma.
+     
+     Single portable radiograph of the chest demonstrates a nasogastric tube in the
+     stomach.  The tip of the tube projects off the inferior aspect of the imaged
+     field of view.  A left-sided PICC line is unchanged.  Surgical staples project
+     over the epigastrium.  Remote left humeral surgical neck fracture is again
+     seen.  Moderate-to-severe degenerative change of the right glenohumeral joint
+     is again noted.  No consolidation.
+     
+     IMPRESSION:
+     
+     Support lines in place.  No acute cardiopulmonary disease.
+                                                                           
+
+",,
+13657,26638,,,3149-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13657,26638,,,3149-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-6-8**] 9:07 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 2354**]
+     Reason: Please evaluate for response to chemo.                      
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 F with CNS lymphoma status post rituximab and demozolamide, here with 
+      altered mental status.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for response to chemo.                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  73-year-old female with probable large B-cell dominant CNS lymphoma
+     status post chemotherapy with worsening mental status.
+     
+     Comparison is made to prior MRI examinations dated [**3149-1-20**] and [**5-31**], 2007.
+     
+     HEAD MRI:
+     
+     TECHNIQUE:  Multiplanar T1, T2, diffusion-weighted, and post-gadolinium
+     sequences were obtained.
+     
+     FINDINGS:
+     
+     Since most recent examination, there are now multiple small foci of
+     precontrast increased T1 intensity lesions along the subcortical and deep
+     white matter, predominantly within the prefrontal region bilaterally adjacent
+     to the primary motor cortex and within the anterior superior right frontal
+     lobe. These areas display evidence of restricted diffusion, with some
+     displaying low signal on the ADC map.  Minimal FLAIR abnormality is noted
+     within these lesions.  Post- contrast images display diffuse enhancing lesions
+     most prominent within the superior frontal lobes bilaterally with probable
+     leptomeningeal involvement. When compared to most recent examination, the
+     size, ring enhancement, and total number of enhancing lesions is decreased.  A
+     minimal amount of rightward subfalcine herniation persists; otherwise, there
+     is no other evidence of significant mass effect or hydrocephalus.  Small
+     punctate region of susceptibility artifact within the right frontal lobe,
+     likely from prior biopsy is stable, with no new areas of susceptibility
+     artifact are identified. Diffuse vasogenic edema within the cerebral peduncles
+     and frontal lobes persists and does not appear significantly changed.
+     
+     IMPRESSION:
+     
+     1.  Decreased total number enhancing lesions within the brain parenchyma
+     suggestive of chemotherapy steroid response.  Unchanged vasgogenic edema
+     
+     2.  New hyperintense T1 lesions displaying restricted diffusion predominantly
+     within the prefrontal subcortical white matter. Differential diagnosis
+     includes new small hemorrhagic metastatic lesions or hemorrhagic small vessel
+     infarcts from an etiology such as vasculitis.  No new susceptability artifact
+                                                                 (Over)
+
+     DATE: [**3149-6-8**] 9:07 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 2354**]
+     Reason: Please evaluate for response to chemo.                      
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     currently.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 2355**] on date of exam at approximately 3:30
+     p.m.
+     
+
+",,

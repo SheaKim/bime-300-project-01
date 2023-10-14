@@ -1,0 +1,759 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13843,4636,,,2828-05-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2828-5-22**]       Discharge Date:  [**2828-6-2**]
+
+Date of Birth:   [**2742-9-1**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 85 year old
+male with the chief complaint of left lower extremity
+ischemia, who presented with worsening pain times three days
+in the distal left foot, which has been persistent.  The
+patient had some intermittent pain the day prior.  The
+patient had positive tingling and numbness and decreased
+ability to move the foot and toes.  The foot was also cool
+and discolored.  The patient denies any coronary artery
+disease, congestive heart failure, arrhythmias, diabetes
+mellitus.  The patient had no known peripheral vascular
+disease.  He gives some history of claudication times one
+year with left lower extremity pain after walking
+approximately one quarter of a mile which resolved with rest.
+
+PAST MEDICAL HISTORY:
+1.  Rheumatoid arthritis.
+2.  Hypertension.
+
+PAST SURGICAL HISTORY:
+1.  Bowel resection of unknown dates.
+2.  Back surgery during World War II.
+
+MEDICATIONS ON ADMISSION:
+1.  Aspirin 325 mg p.o. q. day.
+2.  Atenolol of unknown dose.
+
+ALLERGIES:   The patient had no known drug allergies.
+
+SOCIAL HISTORY:  The patient had a social history significant
+for a 55 year smoking history.
+
+PHYSICAL EXAMINATION:  On physical examination, the patient
+was afebrile; vital signs are stable.  He was complaining of
+pain in the left foot; in no apparent distress.  Alert and
+oriented times three.  Lungs were clear to auscultation
+bilaterally.  Heart was regular rate and rhythm.  Abdomen was
+soft, nontender, nondistended.  Extremity examination was
+significant for a cool and discolored left foot, bilateral
+ankle edema, left greater than right.  Left lower extremity
+had intact sensation but decreased motor strength, decreased
+plantar and dorsiflexion of the foot and decreased to flexion
+and extension.  Pulse examination was significant for
+palpable carotids bilaterally with no bruits, palpable
+femorals bilaterally.  Doppler-able popliteals bilaterally
+with biphasic signals.  Biphasic signal on the right dorsalis
+pedis and no signal on the left dorsalis pedis.  Monophasic
+posterior tibial on the left and a biphasic posterior tibial
+on the right.  Rectal examination was heme negative; no
+masses noted.
+
+LABORATORY:  On admission, white blood cell count 9.4,
+hematocrit 31.6, platelets 302.  Sodium 145, potassium 4.4,
+chloride 105, bicarbonate 26.5, BUN 28, creatinine 0.9,
+glucose 82, INR of 1.1.
+
+SUMMARY OF HOSPITAL COURSE:  The patient was admitted to the
+Vascular Service with Dr. [**Last Name (STitle) 1642**] attending.  Emergent
+angiogram was arranged which revealed on [**2828-5-22**], marked
+aortoiliac disease with severe stenosis of the proximal left
+common iliac artery, occluded left superficial femoral
+artery, which reconstituted above the knee and the popliteal
+artery on the left which occluded just below the knee joint.
+No run off vessels were present proximally, however, there
+was reconstitution of a very distal left posterior tibial
+artery which supplied the patent but diffusely diseased
+plantar branches.  Dorsalis pedis artery was occluded.
+
+A chest x-ray on [**2828-5-22**], revealed bilateral predominantly
+lower zone interstitial changes, possibly due to chronic
+interstitial fibrosis but no acute cardiopulmonary
+abnormalities identified.
+
+The patient was taken to the Operating Room on [**2828-5-23**],
+for femoral to femoral Dacron bypass graft and endarterectomy
+of the right common femoral artery.  For a more detailed
+account, please see operative report.  In addition,
+preoperative Urology consultation was obtained which revealed
+a distal urethral stricture.  A Foley catheter was placed and
+antibiotics were started as prophylaxis.  Directly
+postoperatively, the patient was noted to have no dorsalis
+pedis signal in the PACU.  The patient was examined and had
+an open fem-fem graft but poor flow to the foot.  The
+decision at that time was made to observe.  The left foot
+remained cool and mottled with blue toes and a monophasic
+posterior tibial signal.
+
+Postoperatively, the patient went to the Vascular Intensive
+Care Unit where he was on a Nitroglycerin drip for blood
+pressure control.
+
+The patient was transferred to the Floor on [**2828-5-26**].  A
+chest x-ray on [**2828-5-29**], was noted to have an opacity in
+the retrocardiac region suggestive of pneumonia with a
+persistent bilateral interstitial pattern likely due to
+congestive heart failure.
+
+On [**2828-5-31**], the patient was taken to the Operating Room
+again for a thrombectomy and revision of fem-fem D[**MD Number 9010**]
+bypass graft and exploration of the left posterior tibial
+artery.  Intraoperatively, the patient was unstable and was
+on pressors and it was decided not to persist with the
+original plan for distal arterial reconstruction.  The
+patient went postoperatively to the Neurological SICU where
+he remained intubated and sedated.
+
+Postoperatively, the patient was made ""DO NOT RESUSCITATE""
+per family discussion with Dr. [**Last Name (STitle) 1642**].  Postoperatively, the
+patient required multiple fluid boluses for unstable
+hemodynamics.  The patient continued to be hemodynamically
+unstable.  On [**2828-6-1**], the patient, after discussion with
+Dr. [**Last Name (STitle) 1642**] and family, was made COMFORT MEASURES ONLY.
+
+On [**2828-6-2**], the patient was pronounced.  The time of death
+was 01:20 a.m.
+
+Cause of death:  Progressively worse hypoxia, resulting in a
+bradycardic arrest.
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2542**], M.D.  [**MD Number 2543**]
+
+Dictated By:[**Name8 (MD) 4597**]
+MEDQUIST36
+
+D:  [**2829-3-2**]  14:24
+T:  [**2829-3-2**]  14:56
+JOB#:  [**Job Number 9715**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2829-3-27**] 2:54 PM
+(End of Report)
+
+
+",,
+13843,4636,,,2828-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-22**] 11:59
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3964**]
+     Reason: s/p R IJ triple lumen placement.  please eval position and r
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with                                                           
+       
+     REASON FOR THIS EXAMINATION:
+      s/p R IJ triple lumen placement.  please eval position and r/o PTX.  thanks.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post right IJ line placement.  Evaluate position and rule
+     out pneumothorax.
+     
+     FINDINGS:  A new right IJ central line has been inserted and its tip is well
+     positioned in the mid SVC.  There is no evidence of any complicating
+     pneumothorax.  Bibasilar interstitial changes are again noted.  Slight
+     prominence of the upper zone pulmonary vasculature is again demonstrated and
+     minimal LV failure cannot be excluded.  No pleural effusions are identified.
+     A small triangular calcific density is noted in the left mid zone laterally.
+     This could be a pleural or parenchymal lung scar.
+     
+     IMPRESSION:  Satisfactory placement of right IJ line.  Appearances otherwise
+     unchanged.  Bibasilar interstitial infiltrates again noted.  A small
+     triangular calcific density is present in the left mid zone, possibly an old
+     granulomatous scar.
+
+",,
+13843,4636,,,2828-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-22**] 8:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3963**]
+     Reason: pre opischemic lt foot                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      pre opischemic lt foot                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: Ischemic left foot. Preoperative evaluation.
+     
+     FINDINGS: A single AP semi-upright view. No prior comparison study. There is
+     evidence of bilateral lower zone interstitial infiltrates. The mid zones also
+     appear involved to a lesser degree. There is no evidence of any associated
+     pleural effusion. The heart shows slight left ventricular enlargement. The
+     aorta is unfolded. The pulmonary vessels show possible slight upper zone
+     redistribution and some left heart failure cannot be excluded. The skeletal
+     structures are unremarkable.
+     
+     IMPRESSION: Bilateral predominantly lower zone interstitial changes. These
+     could be due to chronic interstitial fibrosis but clinical and possibly prior
+     radiologic correlation would be helpful. No acute cardiopulmonary
+     abnormalities are identified.
+
+",,
+13843,4636,,,2828-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-22**] 3:03 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 3962**]
+     Reason: Ischemic lt foot.                                           
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      Ischemic lt foot.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ischemic cold left foot.
+     
+     RADIOLOGISTS:  Procedure performed by Drs. [**Last Name (STitle) 997**], [**Name5 (PTitle) **] and [**Name5 (PTitle) 250**], Staff
+     Radiologist who was present and supervised procedure.
+     
+     MEDICATION AND CONTRAST:  180 cc non-ionic contrast administered due to
+     patient's generalized debilitation.  25 mcg intravenous fentanyl administered
+     in divided doses under constant hemodynamic monitoring.  8 cc 1% subcutaneous
+     lidocaine.  3000 units intravenous heparin.
+     
+     TECHNIQUE/PROCEDURE:  Patient was informed of the details and associated risks
+     of the procedure and written consent was obtained.  Patient was placed supine
+     on angiographic table and the right common femoral artery was accessed under
+     fluoroscopic guidance with a 19-gauge Potts-Cournand double-wall puncture
+     needle.  A 0.035-inch [**Last Name (un) 528**] guide wire was advanced and positioned with tip
+     in the abdominal aorta and the puncture needle exchanged for a 4-French sheath
+     with heparinized saline side-arm flush.  An Omni Flush catheter was then
+     advanced over the 0.035-inch wire and positioned with tip at the superior
+     abdominal aorta.  Abdominal aortogram was obtained.  The catheter tip was then
+     repositioned at the aortic bifurcation and bilateral pelvic arteriograms were
+     obtained.  A 0.035-inch angled Glidewire was cautiously advanced into the left
+     common iliac artery and then advanced into the left common femoral artery and
+     the Omni Flush catheter was advanced over this guide wire.  Serial left lower
+     extremity arteriograms were obtained.  Arterial pressure was then measured
+     within the left external iliac artery, common iliac artery and aorta with
+     pressures measuring 114/73 with mean of 90 mm Hg in the left external iliac
+     artery, 114/72 with mean of 90 in the left common iliac artery, and 190/77
+     with mean of 119 in the aorta, demonstrating significant pressure gradient.
+     Catheter and sheath were then withdrawn and hemostasis obtained.  There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     FINDINGS:  There is moderate diffuse irregularity, atherosclerotic changes, of
+     the infrarenal abdominal aorta.  Bilateral renal arteries appear to be patent
+     without significant stenosis.  There is very severe stenosis and
+     atherosclerotic disease just beyond the take-off of the left common iliac
+     artery.  The right common iliac artery is diffusely diseased.  The left
+     internal iliac artery is occluded.  The right internal iliac artery is patent.
+      There is diffuse disease of the bilateral external iliac arteries with mild
+                                                                 (Over)
+
+     DATE: [**2828-5-22**] 3:03 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 3962**]
+     Reason: Ischemic lt foot.                                           
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     diffuse disease of the left common femoral artery.  The left profunda femoral
+     artery is patent.  The left superficial femoral artery is occluded, and
+     reconstitutes a diffusely diseased distal superficial femoral artery at the
+     adductor canal.  The above-knee popliteal artery is patent but diffusely
+     diseased and popliteal artery occludes just below the knee.  The tibioperoneal
+     trunk is occluded and no named proximal runoff vessels are demonstrated. There
+     is reconstitution of a very distal posterior tibial artery supplying patent
+     but diffusely diseased plantar branches.  There is no opacification of the
+     left dorsalis pedis artery.
+     
+     IMPRESSION:  Marked, severe, aortoiliac disease with severe stenosis of the
+     proximal left common iliac artery.  Occluded left superficial femoral artery.
+     Reconstituted above-knee left popliteal artery which occludes just below the
+     knee joint.  No named runoff [**Name2 (NI) 491**] are present proximally, however, there is
+     reconstitution of a very distal left posterior tibial artery which supplies
+     patent but diffusely diseased plantar branches.  The dorsalis pedis artery is
+     occluded.
+     
+     
+
+",,
+13843,4636,,,2828-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-22**] 3:03 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 3962**]
+     Reason: Ischemic lt foot.                                           
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      Ischemic lt foot.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ischemic cold left foot.
+     
+     RADIOLOGISTS:  Procedure performed by Drs. [**Last Name (STitle) 997**], [**Name5 (PTitle) **] and [**Name5 (PTitle) 250**], Staff
+     Radiologist who was present and supervised procedure.
+     
+     MEDICATION AND CONTRAST:  180 cc non-ionic contrast administered due to
+     patient's generalized debilitation.  25 mcg intravenous fentanyl administered
+     in divided doses under constant hemodynamic monitoring.  8 cc 1% subcutaneous
+     lidocaine.  3000 units intravenous heparin.
+     
+     TECHNIQUE/PROCEDURE:  Patient was informed of the details and associated risks
+     of the procedure and written consent was obtained.  Patient was placed supine
+     on angiographic table and the right common femoral artery was accessed under
+     fluoroscopic guidance with a 19-gauge Potts-Cournand double-wall puncture
+     needle.  A 0.035-inch [**Last Name (un) 528**] guide wire was advanced and positioned with tip
+     in the abdominal aorta and the puncture needle exchanged for a 4-French sheath
+     with heparinized saline side-arm flush.  An Omni Flush catheter was then
+     advanced over the 0.035-inch wire and positioned with tip at the superior
+     abdominal aorta.  Abdominal aortogram was obtained.  The catheter tip was then
+     repositioned at the aortic bifurcation and bilateral pelvic arteriograms were
+     obtained.  A 0.035-inch angled Glidewire was cautiously advanced into the left
+     common iliac artery and then advanced into the left common femoral artery and
+     the Omni Flush catheter was advanced over this guide wire.  Serial left lower
+     extremity arteriograms were obtained.  Arterial pressure was then measured
+     within the left external iliac artery, common iliac artery and aorta with
+     pressures measuring 114/73 with mean of 90 mm Hg in the left external iliac
+     artery, 114/72 with mean of 90 in the left common iliac artery, and 190/77
+     with mean of 119 in the aorta, demonstrating significant pressure gradient.
+     Catheter and sheath were then withdrawn and hemostasis obtained.  There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     FINDINGS:  There is moderate diffuse irregularity, atherosclerotic changes, of
+     the infrarenal abdominal aorta.  Bilateral renal arteries appear to be patent
+     without significant stenosis.  There is very severe stenosis and
+     atherosclerotic disease just beyond the take-off of the left common iliac
+     artery.  The right common iliac artery is diffusely diseased.  The left
+     internal iliac artery is occluded.  The right internal iliac artery is patent.
+      There is diffuse disease of the bilateral external iliac arteries with mild
+                                                                 (Over)
+
+     DATE: [**2828-5-22**] 3:03 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 3962**]
+     Reason: Ischemic lt foot.                                           
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     diffuse disease of the left common femoral artery.  The left profunda femoral
+     artery is patent.  The left superficial femoral artery is occluded, and
+     reconstitutes a diffusely diseased distal superficial femoral artery at the
+     adductor canal.  The above-knee popliteal artery is patent but diffusely
+     diseased and popliteal artery occludes just below the knee.  The tibioperoneal
+     trunk is occluded and no named proximal runoff vessels are demonstrated. There
+     is reconstitution of a very distal posterior tibial artery supplying patent
+     but diffusely diseased plantar branches.  There is no opacification of the
+     left dorsalis pedis artery.
+     
+     IMPRESSION:  Marked, severe, aortoiliac disease with severe stenosis of the
+     proximal left common iliac artery.  Occluded left superficial femoral artery.
+     Reconstituted above-knee left popliteal artery which occludes just below the
+     knee joint.  No named runoff [**Name2 (NI) 491**] are present proximally, however, there is
+     reconstitution of a very distal left posterior tibial artery which supplies
+     patent but diffusely diseased plantar branches.  The dorsalis pedis artery is
+     occluded.
+     
+     
+
+",,
+13843,4636,,,2828-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-22**] 3:03 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 3962**]
+     Reason: Ischemic lt foot.                                           
+      Contrast: OPTIRAY Amt: 180
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      Ischemic lt foot.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ischemic cold left foot.
+     
+     RADIOLOGISTS:  Procedure performed by Drs. [**Last Name (STitle) 997**], [**Name5 (PTitle) **] and [**Name5 (PTitle) 250**], Staff
+     Radiologist who was present and supervised procedure.
+     
+     MEDICATION AND CONTRAST:  180 cc non-ionic contrast administered due to
+     patient's generalized debilitation.  25 mcg intravenous fentanyl administered
+     in divided doses under constant hemodynamic monitoring.  8 cc 1% subcutaneous
+     lidocaine.  3000 units intravenous heparin.
+     
+     TECHNIQUE/PROCEDURE:  Patient was informed of the details and associated risks
+     of the procedure and written consent was obtained.  Patient was placed supine
+     on angiographic table and the right common femoral artery was accessed under
+     fluoroscopic guidance with a 19-gauge Potts-Cournand double-wall puncture
+     needle.  A 0.035-inch [**Last Name (un) 528**] guide wire was advanced and positioned with tip
+     in the abdominal aorta and the puncture needle exchanged for a 4-French sheath
+     with heparinized saline side-arm flush.  An Omni Flush catheter was then
+     advanced over the 0.035-inch wire and positioned with tip at the superior
+     abdominal aorta.  Abdominal aortogram was obtained.  The catheter tip was then
+     repositioned at the aortic bifurcation and bilateral pelvic arteriograms were
+     obtained.  A 0.035-inch angled Glidewire was cautiously advanced into the left
+     common iliac artery and then advanced into the left common femoral artery and
+     the Omni Flush catheter was advanced over this guide wire.  Serial left lower
+     extremity arteriograms were obtained.  Arterial pressure was then measured
+     within the left external iliac artery, common iliac artery and aorta with
+     pressures measuring 114/73 with mean of 90 mm Hg in the left external iliac
+     artery, 114/72 with mean of 90 in the left common iliac artery, and 190/77
+     with mean of 119 in the aorta, demonstrating significant pressure gradient.
+     Catheter and sheath were then withdrawn and hemostasis obtained.  There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     FINDINGS:  There is moderate diffuse irregularity, atherosclerotic changes, of
+     the infrarenal abdominal aorta.  Bilateral renal arteries appear to be patent
+     without significant stenosis.  There is very severe stenosis and
+     atherosclerotic disease just beyond the take-off of the left common iliac
+     artery.  The right common iliac artery is diffusely diseased.  The left
+     internal iliac artery is occluded.  The right internal iliac artery is patent.
+      There is diffuse disease of the bilateral external iliac arteries with mild
+                                                                 (Over)
+
+     DATE: [**2828-5-22**] 3:03 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 3962**]
+     Reason: Ischemic lt foot.                                           
+      Contrast: OPTIRAY Amt: 180
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     diffuse disease of the left common femoral artery.  The left profunda femoral
+     artery is patent.  The left superficial femoral artery is occluded, and
+     reconstitutes a diffusely diseased distal superficial femoral artery at the
+     adductor canal.  The above-knee popliteal artery is patent but diffusely
+     diseased and popliteal artery occludes just below the knee.  The tibioperoneal
+     trunk is occluded and no named proximal runoff vessels are demonstrated. There
+     is reconstitution of a very distal posterior tibial artery supplying patent
+     but diffusely diseased plantar branches.  There is no opacification of the
+     left dorsalis pedis artery.
+     
+     IMPRESSION:  Marked, severe, aortoiliac disease with severe stenosis of the
+     proximal left common iliac artery.  Occluded left superficial femoral artery.
+     Reconstituted above-knee left popliteal artery which occludes just below the
+     knee joint.  No named runoff [**Name2 (NI) 491**] are present proximally, however, there is
+     reconstitution of a very distal left posterior tibial artery which supplies
+     patent but diffusely diseased plantar branches.  The dorsalis pedis artery is
+     occluded.
+     
+     
+
+",,
+13843,4636,,,2828-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-25**] 9:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3965**]
+     Reason: elevated WBC s/p fem-fem bpg, please eval for infiltrate    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      elevated WBC s/p fem-fem bpg, please eval for infiltrate                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85 year old man with elevated white count, s/p fem-fem bypass
+     graft.
+     
+     PORTABLE AP ERECT VIEW OF THE CHEST:
+     
+     COMPARISON:  [**2828-5-23**].
+     
+     A right-sided central venous line is present with its tip in the mid to lower
+     SVC, unchanged.  Multiple wires overlie the patient.  The heart size and
+     mediastinal contour are within normal limits.  There has been interval
+     improvement in the bilateral mid and lower lung zone interstitial infiltrates,
+     right greater than left.  A nodular opacity is again noted within the left
+     upper to mid lung zone likely representing a calcified granuloma and/or
+     scarring.
+     
+     IMPRESSION:  Slight improvement in the bilateral interstitial infiltrate.
+     Nodular opacity within the left mid to upper lung zone likely represents a
+     small calcified granuloma.  Comparison with the prior radiographs is
+     recommended to demonstrate interval stability.
+
+",,
+13843,4636,,,2828-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-29**] 1:02 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3966**]
+     Reason: Eval for worsening infiltrate                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with rising WBC                                                
+             
+     REASON FOR THIS EXAMINATION:
+      Eval for worsening infiltrate                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Leukocytosis.
+     
+     PA AND LATERAL CHEST: Comparison to the prior study of [**2828-5-25**], there
+     is increasing density within the bilateral retrocardiac region, particularly
+     on the right. In the interval since the prior study, a right IJ line has been
+     removed. There is a nodular density at the peripheral left upper lung field,
+     consistent with a granuloma. Small bilateral pleural effusions are present.
+     The heart size is within normal limits. The mediastinal and hilar contours are
+     also normal. Diffuse interstitial prominence persists. There is no upper lung
+     zone redistribution.
+     
+     IMPRESSION:
+     1. Increasing opacity in retrocardiac region, suggestive of pneumonia.
+     2. Persistent bilateral interstitial pattern, likely due to CHF. There may be
+     an underlying component of chronic interstitial disease, and follow-up CXR
+     after diuresis would be helpful to evaluate for this possibility.
+
+",,
+13843,4636,,,2828-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-31**] 10:01 AM
+     VENOUS DUP EXT UNI (MAP/DVT) LEFT; [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT) Clip # [**Clip Number (Radiology) 3967**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: Please map L GSV/LSV and bilateral upper ext.               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with ischemic toes.                                             
+     REASON FOR THIS EXAMINATION:
+      Please map L GSV/LSV and bilateral upper ext.                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**2828-5-31**]
+     
+     HISTORY:  Vein mapping prior to bypass surgery.
+     
+     FINDINGS:  The cephalic and basilic veins are patent bilaterally.  The right
+     cephalic vein is .19 cm at the antecubital fossa and maintains this size as it
+     courses to its insertion into the subclavian vein.  It somewhat varies on the
+     left to .26 and .24 cm.  The right basilic vein is .3 cm at the antecubital
+     fossa and .26 cm at its transition to the axillary vein.  Similarly  varies on
+     the left to .33 and .44 cm.
+     
+     The left greater and lesser saphenous veins are patent.  The lesser saphaneous
+     vein is .27 cm at the ankle and declines to .13 cm at its insertion to the
+     popliteal vein.  The greater saphenous vein is .31 cm at the ankle and
+     maintains this size as it courses to the insertion to the common femoral vein.
+     
+     IMPRESSION:
+     1.  Patent bilateral cephalic and basilic veins and left greater and lesser
+     saphenous veins, dimensions as described above. 
+
+",,
+13843,4636,,,2828-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-31**] 10:01 AM
+     VENOUS DUP EXT UNI (MAP/DVT) LEFT; [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT) Clip # [**Clip Number (Radiology) 3967**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: Please map L GSV/LSV and bilateral upper ext.               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with ischemic toes.                                             
+     REASON FOR THIS EXAMINATION:
+      Please map L GSV/LSV and bilateral upper ext.                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**2828-5-31**]
+     
+     HISTORY:  Vein mapping prior to bypass surgery.
+     
+     FINDINGS:  The cephalic and basilic veins are patent bilaterally.  The right
+     cephalic vein is .19 cm at the antecubital fossa and maintains this size as it
+     courses to its insertion into the subclavian vein.  It somewhat varies on the
+     left to .26 and .24 cm.  The right basilic vein is .3 cm at the antecubital
+     fossa and .26 cm at its transition to the axillary vein.  Similarly  varies on
+     the left to .33 and .44 cm.
+     
+     The left greater and lesser saphenous veins are patent.  The lesser saphaneous
+     vein is .27 cm at the ankle and declines to .13 cm at its insertion to the
+     popliteal vein.  The greater saphenous vein is .31 cm at the ankle and
+     maintains this size as it courses to the insertion to the common femoral vein.
+     
+     IMPRESSION:
+     1.  Patent bilateral cephalic and basilic veins and left greater and lesser
+     saphenous veins, dimensions as described above. 
+
+",,
+13843,4636,,,2828-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-31**] 10:01 AM
+     VENOUS DUP EXT UNI (MAP/DVT) LEFT; [**Last Name (un) 516**] DUP EXTEXT BIL (MAP/DVT) Clip # [**Clip Number (Radiology) 3967**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: Please map L GSV/LSV and bilateral upper ext.               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with ischemic toes.                                             
+     REASON FOR THIS EXAMINATION:
+      Please map L GSV/LSV and bilateral upper ext.                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**2828-5-31**]
+     
+     HISTORY:  Vein mapping prior to bypass surgery.
+     
+     FINDINGS:  The cephalic and basilic veins are patent bilaterally.  The right
+     cephalic vein is .19 cm at the antecubital fossa and maintains this size as it
+     courses to its insertion into the subclavian vein.  It somewhat varies on the
+     left to .26 and .24 cm.  The right basilic vein is .3 cm at the antecubital
+     fossa and .26 cm at its transition to the axillary vein.  Similarly  varies on
+     the left to .33 and .44 cm.
+     
+     The left greater and lesser saphenous veins are patent.  The lesser saphaneous
+     vein is .27 cm at the ankle and declines to .13 cm at its insertion to the
+     popliteal vein.  The greater saphenous vein is .31 cm at the ankle and
+     maintains this size as it courses to the insertion to the common femoral vein.
+     
+     IMPRESSION:
+     1.  Patent bilateral cephalic and basilic veins and left greater and lesser
+     saphenous veins, dimensions as described above. 
+
+",,
+13843,4636,,,2828-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-31**] 5:13 PM
+     LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST RIGHT                Clip # [**Clip Number (Radiology) 3968**]
+     Reason: RT LEG ANGIO
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     A lower extremity fluoro was performed without the radiologist present. One
+     minute of fluorotime was used.  No films submitted.
+
+",,
+13843,4636,,,2828-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-5-31**] 6:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3969**]
+     Reason: check line placememnt                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with rising WBC                                               
+               
+     REASON FOR THIS EXAMINATION:
+      check line placememnt                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Elevated white count. Assess central line placement.
+     
+     COMPARISON:  [**2828-5-29**]
+     
+     FINDINGS:  There is a new ET tube with tip 6-8 cm above the carina, at the
+     thoracic inlet.  An NG tube is seen which points in the direction of the
+     stomach.  There is a right internal jugular central venous line containing a
+     Swan-Ganz catheter whose tip is in the pulmonary out flow tract.  In
+     comparison to the previous study, the cardiac and mediastinal contours are
+     stable.  Diffuse interstitial prominence persists bilaterally.  There is
+     continued consolidation in the retrocardiac region, worse in the interval.
+     Nodular density at the left upper peripheral lung zone is unchanged.  Nodular
+     opacities are seen at the right apex as well.
+     
+     IMPRESSION:  Satisfactory placement of tubes and lines.  Slight interval
+     worsening of retrocardiac consolidation.  Persistent bilateral interstitial
+     pattern which is likely chronic.
+
+",,
+13843,4636,17224,0,2828-05-31 23:46:00 EST,2828-05-31 23:47:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+FIO2 increased to 70% due to decreased SPO2 (90%).  Some improvement (SPO2 = 96%) after changes made.
+",,
+13843,4636,17224,,2828-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-6-1**] 12:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3970**]
+     Reason: patient with decreased saturations need to assess for cause 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with                                                          
+         
+     REASON FOR THIS EXAMINATION:
+      patient with decreased saturations need to assess for cause                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   Decreased oxygen saturation. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from  [**2828-5-31**].
+     
+     An endotracheal tube has been repositioned in the interval, now terminating
+     approximately 8-1/2 cm above the carina.  The cuff is also slightly over
+     distended. The Swan-Ganz catheter in the right ventricular outflow tract and a
+     nasogastric tube terminates in the upper abdomen with a side port near the GE
+     junction level. The heart remains enlarged and there is persistent vascular
+     engorgement and perihilar haziness.  A bilateral interstitial pattern is seen,
+     likely superimposed upon chronic underlying changes of emphysema.  A more
+     focal oval shaped dense opacity is seen at the level of the left third
+     anterior rib and is likely calcified. There is increased opacity in the left
+     retrocardiac region which appears unchanged.
+     
+     IMPRESSION:
+     
+     1.  Proximal location of endotracheal tube, terminating over 8 cm above the
+     carina. Additionally, the cuff is slightly overdistended.
+     
+     2.  Congestive heart failure superimposed upon underlying chronic lung
+     disease.
+     
+     3.  Persisent left retrocardiac opacity which may be due to atelectasis or
+     pneumonia.
+
+",,
+13843,4636,17224,0,2828-06-01 04:01:00 EST,2828-06-01 04:21:00 EST,3409,"N",54,"Nursing/Other","NSG NOTE","
+NSG NOTE
+SEE FLOWSHEET FOR SPECIFICS.
+
+PT IS A 85 Y/O MALE ADMITTED FROM PACU S/P FEM-FEM BPG REVISION. PT INTO AFIB INTRA OP, AND REQUIRED PRESSORS AND INOTROPES. PT ARRIVED TO UNIT INTUBATED AND SEDATED, AND ON AMIO, EPI, PROPOFOL AND HEPARIN GTTS. PE AS FOLLOWS:
+
+NEURO-SEDATED ON PROPOFOL. PUPILS REACTIVE. GRIMACES AND LOCALIZES TO PAIN. APPEARS COMFORTABLE. 
+
+CV-AFEBRILE. HR 40-50'S, SINUS. SBP 100. DOPA GTT STARTED AND EPI WEANED TO OFF. AMIO CURRENTLY OFF D/T BRADYCARDIA. PT REMAINS IN SINUS. CO/CI LOW. TEAM AWARE. WILL NOT INCREASE INOTROPE AT THIS TIME. FILLING PRESSURES LOW. IVF BOLUS X 2 WITH SOME EFFECT. CON'T ON HEPARIN GTT, TITRATED ACCORDING TO PTT. PULSE CHECK Q1 HR. PUBIC GRAFT PALPABLE. LEFT THIGH SITE PULSE + VIA DOPPLER. LEFT FOOT PURPLE/BLACK AND WORSENING. TEAM AWARE AND IN TO EVAL. + PT PULSE ON RIGHT VIA DOPPLER. FEET COOL BILAT. CPK CYCLED. TROPONIN 3.9. TEAM AWARE. 
+
+RESP-PT ON SIMV+PS. PT ACIDOTIC AND O2 SAT DOWN TO 89. TEAM AWARE. FIO2 INCREASED TO 70%, PEEP UP TO 8, IPS 5, RATE INCREASED TO 14, TV REMAINS 700. ABG/O2 SAT IMPROVED. PT WITH COPIOUS AMTS THICK GREEN/YELLOW SECRETIONS VIA MOUTH LAST NOC. SECRETIONS NOW DECREASING. LS CTA. 
+
+GI-ABD SOFT, NT/ND. NO BS. OGT TO LWS WITH BILIOUS DRG. 
+
+GU-VOIDING VIA FOLEY AMBER URINE. U/O LOW. BOLUSED X 2 WITH + EFFECT.
+
+ENDO-SSRI. 
+
+[**Doctor First Name **]-AS NOTED ABOVE. DSG C/D/I.
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR CLOSELY. FOLLOW LABS. CYCLE CK'[**Name8 (MD) **] MD, DNR. 
+
+",,
+13843,4636,17224,0,2828-06-01 14:43:00 EST,2828-06-01 14:46:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+After much discussion with family, Vascular [**Doctor First Name 146**], and attending MD decision was made to change status to comfort measures only. Vasopressors withdrawn at 1540. Pt given MS 4mg for pain. Remains intubated at this time.
+",,
+13843,4636,17224,0,2828-06-01 17:30:00 EST,2828-06-01 17:34:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Conts intubated with vent support and CMO. Dislodged ETT despite restraints.  ETT reinserted by Dr. [**Last Name (STitle) **]. Given MS 4mg for pain. Continue to support with comfort measures.
+",,
+13843,,17224,0,2828-06-02 00:43:00 EST,2828-06-02 00:51:00 EST,3409,"N",54,"Nursing/Other","nsg note","
+nsg note
+PT CMO. PT APPEARED UNCOMFORTABLE BY GRIMACING AND MOVING. MSO4 GTT STARTED. DISCUSSION HAD WITH SON WHO IS HEALTH CARE PROXY. DECISION MADE TO EXTUBATE. PROPOFOL GTT STOPPED PRIOR TO EXTUBATION. AFTER EXTUBATION PT GROANING AND GRIMACING, MOVING IN BED. MSO4 GTT TITRATED TO PT'S COMFORT. SON AT BEDSIDE ALL NOC. PT EXPIRED. HO IN TO PRONOUNCE. PT TO MORGUE.
+",,

@@ -1,0 +1,1013 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13610,,,,3229-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-11-14**] 2:56 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1791**]
+     Reason: delta MS                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      delta MS                                                                        
+     [**Name13 (STitle) **] contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: BTCa WED [**3229-11-14**] 4:18 PM
+      No evidence of acute intracranial hemorrhage, mass effect or fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HEAD CT WITHOUT CONTRAST
+     
+     INDICATION:  Confusion and change in mental status.
+     
+     Multiple axial images are obtained from base to vertex without intravenous
+     contrast administration.  The exam is partially degraded by motion artifact.
+     
+     There is a focal area of low density and attenuation involving the right
+     middle cerebellar peduncle along the anterior aspect of the right inferior
+     cerebellar hemisphere suspicious for a small infarct.  This could be confirmed
+     by obtaining an MRI of the brain.  A second area of low density is seen more
+     posteriorly also within the right cerebellar hemisphere.  Scattered low
+     attenuation is noted along the periventricular white matter suggestive of
+     chronic microvascular ischemic or gliotic changes.  There is generalized
+     sulcal dilatation consistent with cortical atrophy.  Few scattered lacunar
+     infarcts are seen within the right basal ganglia.  There is no midline shift
+     or mass effect.  The calvarium is intact.  No fractures or subdural hemorrhage
+     is noted.
+     
+     IMPRESSION:  Suspicion for two small low densities involving the right
+     anterior and inferior aspect of the right cerebellar hemisphere suggestive of
+     small infarct.  Correlation with MRI and diffusion images could be helpful. No
+     acute intraparenchymal hemorrhage is noted.
+     
+
+",,
+13610,,,,3229-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-11-14**] 3:10 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1792**]
+     Reason: delta Ms   r/o pna                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      delta Ms   r/o pna                                                              
+     ______________________________________________________________________________
+     WET READ: CCqc WED [**3229-11-14**] 4:10 PM
+      RLL opacity concerning for early pna
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status.
+     
+     PA AND LATERAL CHEST:  Comparison is made to study dated [**3229-5-12**]. Heart
+     size is normal.  The aorta is tortuous.  The pulmonary vasculature is not
+     engorged.  In the interval, there has been resolution of previously evident
+     confluent and nodular areas of airspace opacity throughout both lungs.
+     However, persistent patchy opacity at the right lung base as well as more
+     linear opacity at the left lung base is consistent with atelectasis.  Osseous
+     structures are notable for multiple compression deformities of the distal
+     thoracic spine, some of which were present at prior study and others which
+     were not included.  A lumbar scoliosis convex to the right.
+     
+     IMPRESSION:  Patchy right basilar airspace opacity concerning for early
+     pneumonia.
+
+",,
+13610,19904,,,3229-12-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3229-12-3**]              Discharge Date:   [**3229-12-13**]
+ 
+Date of Birth:  [**3147-3-23**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol
+ 
+Attending:[**First Name3 (LF) 1765**] 
+Chief Complaint:
+hip fracture
+ 
+Major Surgical or Invasive Procedure:
+ORIF of R. hip.
+PEG placement
+
+ 
+History of Present Illness:
+82 yo woman with Alzheimer's dementia, h/o PE in [**3228**] on 
+coumadin(but INR 1.1 on admission), osteoporosis, h/o chronic 
+back pain with T10/T12/L1 comp fx and L5/S1 disc herniation, 
+chronic pain with multiple recent admissions for somnolence [**2-28**] 
+narcotics, and hx asp pna, who was admitted from NH s/p fall. 
+Per reports, the patient was watching TV and then was found on 
+hands and knees on the floor, but had no witnessed fall. She was 
+c/o R LE pain.  
+.
+In ED, VS 96.6 88 134/86 18 96%RA. Right hip showed minimally 
+displaced fracture of the femoral neck. CXR showed LLL opacity 
+concerning for early pna vs atelectasis. She received a total of 
+12 mg of Morphine, Levofloxacin 500 mg IV (given ? of asp pna), 
+Phenergan, Anzemet given for episode of emesis.  At this point 
+the pt became somewhat somnolent, and the APG attg noted a new ? 
+facial droop.  It was determined that she needed a head CT prior 
+to the OR.  Her oxygen saturation (baseline 93-96% on RA) was 
+93-94% on RA, but reportedly dropped to the 80s although there 
+is a ? of whether this was a poor tracing.  She received 
+naloxone for her mental status which resulted in a transient 
+improvement.  She was then intubated for her head CT (which was 
+neg) and transferred to the MICU for further management.  Upon 
+intubation there was some question of whether gastric contents 
+vs. sputum were sxned from her ETT. 
+ 
+Past Medical History:
+1. Alzheimer's Dementia  
+2. Severe back pain: MRI [**3229-4-27**] showing T10, T12, L1 
+compression  
+fractures, L5-S1 discherniation, mild spinal stenosis, and mod  
+foramenal narrowing.  On fentanyl patch at baseline, with 
+multiple admissions for altered mental status in setting of 
+narcotics.
+3. pulmonary embolism [**3228-10-27**] at OSH.  
+4. Moderate aspiration on video swallow study on [**3229-4-12**]  
+5. GERD  
+6. Hypothyroidism  
+7. Anemia  
+8. HTN  
+9. Aspiration PNA last admit to [**Hospital1 19**] [**10-31**]  
+
+ 
+Social History:
+Lives alone in assisted living. No kids. HCP is [**First Name8 (NamePattern2) 9380**] [**Last Name (NamePattern1) 9381**], 
+phone numbers below. Her 2 brothers and one sister live in 
+[**Country 9382**]. Smoking: none ETOH: rare (heavy in the past to treat her 
+pain per notes) Illicit drugs: none  
+ 
+Family History:
+Family history negative for stroke. Sister has questionable 
+event 
+but was diagnosed as not-stroke. 
+
+ 
+Physical Exam:
+Vitals: T: 99.7, BP: 115/64, HR: 87
+Vent: AC 450x14 (breathing 17), fio2 100%, peep 5
+Gen: thin chronically ill appearing woman, intubated and 
+sedated, not responding to voice/painful stimuli
+HEENT: NC, AT, perrl, no clear facial droop although difficult 
+to see as ETT/tape in the way
+Neck: JVD approx 6 cm
+CHEST: coarse upper airway sounds bilaterally anteriorly
+CV: regular, nl S1S2, [**3-4**] HSM at LSB  
+Abd: + BS, soft NT, NT, no organomegaly  
+EXT: no LE edema, bilateral erythema from ankles to upper calves 
+ 
+Neuro: intubated/sedated, unarousable to stimuli (on propofol) 
+
+ 
+Pertinent Results:
+Admission Labs:
+[**3229-12-3**] 12:45PM   PT-12.9 PTT-28.0 INR(PT)-1.1
+[**3229-12-3**] 11:20AM   GLUCOSE-109* UREA N-34* CREAT-1.2* SODIUM-140 
+POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-25 ANION GAP-18
+[**3229-12-3**] 11:20AM   CALCIUM-9.2 PHOSPHATE-3.0 MAGNESIUM-1.7
+[**3229-12-3**] 11:20AM   WBC-14.5* RBC-3.41* HGB-9.3* HCT-27.7* 
+MCV-81* MCH-27.2 MCHC-33.5 RDW-16.9*
+[**3229-12-3**] 11:20AM   NEUTS-91* BANDS-0 LYMPHS-3* MONOS-1* EOS-1 
+BASOS-0 ATYPS-4* METAS-0 MYELOS-0
+[**3229-12-3**] 11:20AM   HYPOCHROM-OCCASIONAL ANISOCYT-NORMAL 
+POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL SCHISTOCY-OCCASIONAL
+Pertinent Labs/Studies:
+Microbiology:
+Urine : 
+[**3229-12-3**]: >100K yeast
+[**3229-12-3**]: < 10K org/ml
+Blood:
+[**3229-12-3**]: NGTD
+[**3229-12-5**]: NGTD
+Sputum:
+[**3229-12-3**]: Gram: 2+ GPC, 1+ GNR. Cx-sparse OP flora
+[**3229-12-5**]: Gram: >25 PMN, no microorgansimas cx: NGTD
+.
+Radiology:
+[**3229-12-3**]: CHest Pa/Lat - The heart size is normal, and there is 
+no mediastinal or hilar lymphadenopathy.  Previously reported 
+patchy opacity at the right lung base has cleared in the 
+interval with only minimal residual linear opacity remaining in 
+this area.  However, there is a questionable new area of patchy 
+opacification peripherally in the left lower lobe as compared to 
+previous study. The bones are diffusely demineralized.  There 
+are stable compression 
+deformities in the lower thoracic spine. 
+.
+[**3229-12-3**]: Portable Chest - There has been interval placement of 
+an 
+endotracheal tube with the tip at the level of the clavicles.  
+The cardiac silhouette, mediastinal, and hilar contours are 
+normal.  The pulmonary vasculature is normal.  Both lungs are 
+clear without consolidations or effusions.  The surrounding soft 
+tissue and osseous structures reveal severe osteopenia and 
+degenerative changes along the thoracic spine.  There is no free 
+air under bilateral hemidiaphragms. 
+.
+[**3229-12-5**]: Right Hip: FINDINGS:  A single intraoperative AP 
+radiograph of the pelvis was obtained demonstrating interval 
+bipolar hemiarthroplasty of the right hip with good alignment.  
+Skin staples are noted overlying the lateral pelvis.  Diffuse 
+osteopenia is noted.  There is a left femoral axis venous 
+catheter.  The left hip joint is unremarkable.   
+IMPRESSION:  Status post right bipolar hemiarthroplasty, in good 
+alignment. 
+Discharge Labs:
+[**3229-12-13**] 06:00AM BLOOD WBC-10.3 RBC-3.73* Hgb-10.4* Hct-30.8* 
+MCV-83 MCH-28.0 MCHC-33.8 RDW-16.2* Plt Ct-521*
+[**3229-12-6**] 05:14AM BLOOD Neuts-75.8* Lymphs-19.7 Monos-1.4* 
+Eos-2.8 Baso-0.4
+[**3229-12-13**] 06:00AM BLOOD Plt Ct-521*
+[**3229-12-13**] 06:00AM BLOOD Glucose-99 UreaN-16 Creat-0.7 Na-138 
+K-4.5 Cl-102 HCO3-28 AnGap-13
+[**3229-12-8**] 08:10AM BLOOD CK(CPK)-66
+[**3229-12-10**] 06:15AM BLOOD proBNP-3335*
+[**3229-12-13**] 06:00AM BLOOD Calcium-8.5 Phos-3.0 Mg-2.1
+ 
+Brief Hospital Course:
+#. Right hip fracture: Patient was admitted to MICU after 
+intubation in the ED awaiting repair for right hip fracture. The 
+patient was on anticoagulation therapy with coumadin on 
+admission with an INR of 1.5 at it's peak. The patient was given 
+IV vitamin K and FFP for reversal of anticoagulation. The 
+patient was noted after admission to have small Hct drop form 
+27.7 to 23.5 for which she was given PO 1U PRBCs with 
+appropriate bump. Upon successful reversal of anticoagulation, 
+the patient was taken to the OR two days after admission to the 
+MICU with successful right hemiarthroplasty of the right hip. 
+Intraoperatively and perioperatively the patient received 400mg 
+Fentanyl and did not require any transfusions per report from 
+operating team. The patient was trasnferred back to the MICU for 
+ongoing care and was started on lovenox 40mg SC qd as 
+recommended by ortho (alternatively could use SC Hep tid as 
+well).
+   On the floor, the Lovenox was increased to 40 mg SC BID, a 
+therapeutic dose, due to concern over prior PE in [**3228**]. This was 
+continued without incident, although she was briefly changed to 
+IV Heparin before and after her PEG was placed. She will be 
+discharged with plan to continue Lovenox until she is 
+therapeutic on Coumadin (i.e. 2 days after her INR is >2.0). PT 
+was started and proceeded smoothly. 
+.  
+#. ID - The patient was admitted to the MICU intubated for 
+airway protection in setting of mental status changes after 
+receiving morphine, but with additional concern towards 
+aspiration given some vomiting. The patient's chest film on 
+admission did not demonstrate any definite infiltrates or 
+consolidations. Additionally the patient did not develop any 
+leukocytosis. However, on the evening of admission the patient 
+did have a fever with additional temp spike to 102 the am of her 
+operation. The patient had a UA which was significant for small 
+leuk esterase, many bacteria and > 50WBC. Therefore, the night 
+prior to her operation the patient was started on levofloxacin 
+25mg IV q12, which was increased to 50mg the following day. 
+Urine cultures were remarkable for only yeast however without 
+any appreciable growth. The patient addiitonally had blood 
+cultures none of which demonstrated any growth. Sputum cultures 
+x 2 were sent with gram stain remarkable for 2+ GPC and 1+ GNR, 
+however with only sparse oropharyngela flora growing in 
+cultures. 
+   Blood Cx drawn [**12-3**], however, grew out GNR which eventually 
+were determined to be Clostridia. Patient was started on 
+Cefipime and Flagyl IV. She remained afebrile and without 
+elevated WBC throughout her stay once the antibiotics were 
+started. Further blood cxs were all negative. It is unclear 
+whether the GNR was ""real"" or a contaminant. She will be D/C'd 
+on a 14 day course of po Cipro/Flagyl (D/C day [**8-9**]). 
+.
+#. CV: Patient was mildly hypertensive, but on transfer from 
+MICU to floor she became persistently hypotensive, with SBP 
+80-90. The hypotension was of unclear etiology. Most likely 
+hypovolemia, as FeNa < 1%, Uop responded to fluids. Heart 
+failure unlikely given nl CXR, lack of elevated JVP or LE edema, 
+but BNP>3000. She had some EKG changes (apparently new Q waves 
+in the precordial leads) but was ruled out for MI. Concern for 
+sepsis but no new O2 requirement, not tachycardic, no fevers. 
+[**Last Name (un) 472**] stim test wnl. ABG was normal. Echo done showed some 
+diastolic dysfunction, but EF 65 and no other abnormality. Over 
+the course of 48 hours she received several liters of NS, both 
+in bolus and continuous form, and finally her blood pressure 
+stabilized and urine output improved. For the remained of her 
+hospital stay, she was normotensive with adequate urine output. 
+Toprol and HCTZ were held.
+.
+#. Heme: On the floor, the patient was persistently anemic. She 
+stayed just above her transfusion goal of 28, however after 
+receiving several liters of fluid her HCT dropped to 25 and then 
+was stable. On [**12-10**] she was transfused 1 Unit of pRBC's [**12-10**], 
+and she remained with a HCT>30 for the duration of her stay.
+.
+#. Nephrology: Patient had approximately 48 hours of low urine 
+output in setting of above mentioned hypotension. Probably 
+pre-renal, w/ FeNA .37%. Urine sediment shows no evidence of 
+ATN. After receiving fluids, her urine output improved 
+dramatically and remained [**Doctor First Name **].
+.
+#. FEN: There was significant concern for aspiration PNA, and 
+she was fed via NG tube. In the course of a speech and swallow 
+consult, Ms. [**Known patient lastname 9383**] [**Last Name (Titles) 9384**] aspirated Custard, became hypoxic 
+and developed an additional O2 requirement (2L to 4L). Gi was 
+consulted, and in discussions with her health care proxy it was 
+determined that she needed a PEG. This was done without 
+complication on [**12-12**]. She tolerated the procedure and 
+subsequent tube feeds well before discharge. 
+.
+#. Alzheimer's Dementia. The patient was continued on her 
+outpatient dose of Aricept.  
+.    
+#. Hypothyroidism. Patient was continued on her outpatient dose 
+of Levoxyl 75 mcg po daily. Repeat TSH testing was considered 
+but deferred given inability to interpet the findings well in an 
+acutely ill patient.
+ 
+Medications on Admission:
+1. Levothyroxine 75 mcg daily (recently increased after TSH 8.7 
+on [**3229-11-20**])  
+2. Fentanyl patch 150 mcg q 72 hr  
+3. Miacalcin Nasal  
+4. Calcium/Vit D bid  
+5. Senna 1 tab bid  
+6. Aricept 10 mg po daily  
+7. Coumadin 2 mg about q 4th day based on INR  
+8. Vitamin C  
+9. tylenol 1000 mg po q 6 hr  
+10. Lidoderm 5% patches on 12hrs/off 12 hrs 
+11. Toprol 50 mg daily  
+12. Prevacid 30 mg po daily  
+13. HCTZ 25 mg po daily  
+14. MVI  
+15. FeSO4 325 mg po daily  
+PRN: Trazodone, Maalox, Guaifenesin, Dulcolax  
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 75 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+2. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+3. Fentanyl 100 mcg/hr Patch 72HR Sig: One (1)  Transdermal 
+every seventy-two (72) hours.  
+4. Fentanyl 75 mcg/hr Patch 72HR Sig: One (1)  Transdermal every 
+seventy-two (72) hours.  
+5. Miacalcin 200 unit/Actuation Aerosol, Spray Sig: One (1)  
+Nasal once a day.  
+6. CALCIUM 500+D 500-125 mg-unit Tablet Sig: One (1) Tablet PO 
+once a day.  
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+8. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). 
+ 
+9. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO QHS (once a day 
+(at bedtime)): Please adjust dose to INR 2-2.5.  
+10. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 
+hours).  
+11. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR 
+Sig: One (1) Tablet Sustained Release 24HR PO once a day: Please 
+hold if SBP<120, HR<60.  
+12. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One 
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+13. Iron 325 (65) mg Tablet Sig: One (1) Tablet PO once a day.  
+14. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID:PRN 
+as needed for constipation.  
+15. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H:PRN as needed for shortness of breath or wheezing.  
+16. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+17. Enoxaparin 40 mg/0.4mL Syringe Sig: One (1)  Subcutaneous 
+Q12H (every 12 hours): Please give until INR>2.0, then give for 
+2 more days and discontinue.  
+18. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 7 days.  
+19. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 7 days.  
+20. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1)  
+Intravenous  Q8H:PRN as needed for nausea.  
+21. Trazodone 50 mg Tablet Sig: One (1) Tablet PO QHS:PRN as 
+needed for insomnia.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1446**] & Rehab Center - [**Hospital1 370**]
+ 
+Discharge Diagnosis:
+Aspiration pneumonia. Right hip fracture. Gram negative rod 
+bacteremia. Hypotension. Alzheimer's Dementia. Anemia. 
+Hypothroidism.
+ 
+Discharge Condition:
+Aspiration pneumonia resolving. Right hip fracture healing. Gram 
+negative rod bacteremia improved. Hypotension resolved. Anemia 
+improving. Hypothyroidism stable. Alzheimer's Dementia stable.
+
+ 
+Discharge Instructions:
+Please take all medications as directed. Please finish your 7 
+day course of Ciprofloxacin and Flagyl.
+
+Please continue physical therapy on your right hip.
+
+Please call your primary care doctor or return to the emergency 
+room for shortness of breath, chest pain, bleeding, feeling like 
+[**Doctor First Name **] may pass out, fevers, severe abdominal pain or hip pain, 
+signs of redness or infection from your hip or gastric tube, or 
+any other concerns.
+
+Patient is being discharged currently on tube feeds of 
+Probalance at 25 cc/hr. Please increase at a rate of 10 cc Q6H 
+as tolerated to goal of 55 cc/hr. Please flush PEG with 50 ml of 
+water Q6H, and check for residual Q4H. Hold feeds for residual 
+of >150 cc.
+
+Please continue daily sub-cutaneous injections of Lovenox until 
+your INR is 2.0. At that point, continue Lovenox for 2 more 
+days, and then [**Doctor First Name **] may stop it and just take Coumadin, 2.5 mg 
+QHS. Please adjust Coumadin dose as needed to goal INR of 
+2.0-2.5.
+
+Please do daily cleansing around the PEG site with Hydrogen 
+Peroxide followed by 1 layer of gauze under the bumper.
+ 
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 3833**], M.D. [**MD Number 224**]:[**Telephone/Fax (1) 3062**] 
+Date/Time:[**3230-1-1**] 2:30
+
+[**Doctor First Name 54**] have an appointment with your orthopedist, Dr. [**Last Name (STitle) **], on 
+Tuesday, [**12-25**] at 11:40am on the 4th floor of the [**Hospital Ward Name **] 
+Building, East Campus. Please call [**Telephone/Fax (1) 177**] if [**Doctor First Name **] need to 
+change this appointment. 
+
+ 
+                             [**Name6 (MD) 296**] [**Name8 (MD) 297**] MD [**MD Number 1775**]
+ 
+Completed by: [**Name6 (MD) 9385**] [**Name8 (MD) **] MD [**MD Number 9386**] [**3229-12-13**] @ 1347
+Signed electronically by: DR. [**First Name (STitle) 296**] [**Name (STitle) 297**]
+ on: [**Doctor First Name 123**] [**3229-12-13**] 5:29 PM
+(End of Report)
+
+
+",,
+13610,19904,,,3229-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-3**] 9:41 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1799**]
+     Reason: OGT placement                                               
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 y/o F w/vertebral compression fx, adm w/hip fx now s/p intubation for ? 
+      aspiration
+     REASON FOR THIS EXAMINATION:
+      OGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 10:00 P.M. ON [**12-3**]. Clip  [**Clip Number (Radiology) 1800**]
+     
+     HISTORY:  Vertebral compression.  Intubated.  Question aspiration and old 
+     G-tube placement.
+     
+     IMPRESSION:  AP chest compared to earlier on [**12-3**].
+     
+     ET tube and nasogastric tube in standard placements respectively.
+     
+     No pulmonary edema or indication of pneumonia.  Heart size normal.  Emphysema
+     and pulmonary fibrosis noted.
+                                                                           
+
+",,
+13610,19904,,,3229-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-3**] 4:32 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 1798**]
+     Reason: eval for post intubation placement                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old woman with h/o osteoporosis, chronic LBP c compression fx T10, 
+      T12,  L1, L5-S1 disc herniation, Alzhemier's, anemia, HTN, hypothyroidism Asp 
+      PNA  presenting s/p likely mechanical fall at nursing home with R hip pain.
+     REASON FOR THIS EXAMINATION:
+      eval for post intubation placement                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old female with history of osteoporosis status post fall.
+     Evaluate status post intubation.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**3229-12-3**] at 10:37 a.m.
+     
+     AP SUPINE PORTABLE CHEST X-RAY:  There has been interval placement of an
+     endotracheal tube with the tip at the level of the clavicles.  The cardiac
+     silhouette, mediastinal, and hilar contours are normal.  The pulmonary
+     vasculature is normal.  Both lungs are clear without consolidations or
+     effusions.  The surrounding soft tissue and osseous structures reveal severe
+     osteopenia and degenerative changes along the thoracic spine.  There is no
+     free air under bilateral hemidiaphragms.
+     
+     IMPRESSION:  Endotracheal tube with tip at level of the clavicles.
+                                                                           
+
+",,
+13610,19904,,,3229-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-3**] 10:28 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1796**]
+     Reason: Evaluate for infiltrate                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with h/o osteoporosis, chronic LBP c compression fx T10, T12, 
+      L1, L5-S1 disc herniation, Alzhemier's, anemia, HTN, hypothyroidism Asp PNA 
+      presenting s/p likely mechanical fall at nursing home with R hip pain.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST, [**3229-12-3**]
+     
+     COMPARISON.  [**3229-11-14**].
+     
+     INDICATION:  Right hip pain following fall at nursing home.  Question
+     pneumonia.  History of aspiration pneumonia.
+     
+     The heart size is normal, and there is no mediastinal or hilar
+     lymphadenopathy.  Previously reported patchy opacity at the right lung base
+     has cleared in the interval with only minimal residual linear opacity
+     remaining in this area.  However, there is a questionable new area of patchy
+     opacification peripherally in the left lower lobe as compared to previous
+     study.
+     
+     The bones are diffusely demineralized.  There are stable compression
+     deformities in the lower thoracic spine.
+     
+     IMPRESSION:  New patchy opacity in periphery of left lung base, which may be
+     due to focal atelectasis or early pneumonia.  Followup radiographs may be
+     helpful.
+                                                                           
+
+",,
+13610,19904,,,3229-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-3**] 10:27 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 1793**]
+     Reason: Please evaluate for fracture.                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with h/o osteoporosis, chronic LBP c compression fx T10, T12, 
+      L1, L5-S1 disc herniation, Alzhemier's, anemia, HTN, hypothyroidism Asp PNA 
+      presenting s/p likely mechanical fall at nursing home with R hip pain.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for fracture.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman status post fall with right hip pain.
+     
+     TECHNIQUE:  AP pelvis and unilateral right and left hip radiographs were
+     obtained, compared with [**3229-5-13**].
+     
+     FINDINGS:  There is a complete, minimally displaced fracture through the right
+     femoral neck, with associated varus angulation about the fracture site.  Also
+     noted are chronic degenerative changes of the lumbosacral spine and pubic
+     symphysis.
+     
+     IMPRESSION:  Complete, minimally displaced fracture of the right femoral neck
+     with associated varus angulation.
+     
+     The results of this study were discussed with the ER physician, [**Last Name (NamePattern4) 527**]. [**First Name4 (NamePattern1) 1794**]
+     [**Last Name (NamePattern1) 1795**].
+     
+     
+     
+     
+
+",,
+13610,19904,,,3229-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-3**] 3:25 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1797**]
+     Reason: Please evaluate for ICH or CVA.                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman on coumadin with R facial droop on smile presenting with R 
+      hip fracture s/p likely mechanical fall at nursing home.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for ICH or CVA.                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MMBn MON [**3229-12-3**] 11:20 PM
+      Limited study secondary to motion. No intra or extraaxial hemorrhage. No major
+      vascular territorial infarction. (Cerebellum is poorly evaluated).
+     WET READ AUDIT #1 MMBn MON [**3229-12-3**] 5:39 PM
+      Limited study secondary to motion. No intra or extraaxial hemorrhage. No major
+      vascular territorial infarction. (Cerebellum is porly evaluated).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old female on Coumadin with right facial droop status
+     post mechanical fall.  Evaluate for intracranial hemorrhage or CVA.
+     
+     COMPARISON:  Non-contrast head CT dated [**3229-11-14**].
+     
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage, mass effect, or shift
+     of normal midline structures.  There is no major vascular territorial
+     infarction.  The [**Doctor Last Name 63**]-white matter differentiation is preserved.  Imaging of
+     the cerebellum is limited secondary to motion.  The previously noted areas of
+     low attenuation within the right cerebellum are not appreciated on today's
+     study.  The surrounding soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Limited study secondary to patient motion.
+     2.  No intra- or extra-axial hemorrhage.
+     3.  Imaging of the cerebellum is limited, and the previously noted areas of
+     low attenuation within the right cerebellar hemisphere are not fully
+     appreciated.  Recommend followup with MRI and diffusion-weighted imaging once
+     patient stabilizes.
+                                                                           
+
+",,
+13610,19904,16939,0,3229-12-04 04:29:00 EST,3229-12-04 04:59:00 EST,1853,"N",1,"Nursing/Other","CCU NPN admit 1900-0700","
+CCU NPN admit 1900-0700
+O:  82yo female with hx chronic back pain, past admits with somulence , hx pnemonia, presented to EW s/p fall at NH.  (+) right hip fracture 
+IN EW she was given 12mg morphine for pain resulting in somulence which was rx with narcan.  she vomited, ? aspirated and was intubated.  Head CT was neg. for bleed.  
+OR postponed until AM and was transferred to CCU under MICU service.
+
+Allergy : Demerol
+see FHPA for PMH
+
+Arrived to CCU ~ 2040. pt. with eyes open, propofol at 20mcq/k/min.  responing to voice - nodding head to simple questions.  however, does not follow commands.  moving upper extrem.  occas. mild straining against wrist restraints.  
+pt. nodding yes when asked for pain- back/hip.grimacing with any movement, turning...  propofol gtt and also fent. prn.  25mcq q1-3hours.  pt. will appear more comfortable following fent.  
+
+CV:on admit  HR 110-120 ST initially with BP 140-160/90. pt. awake, appearing uncomf.  prop. titrated to max 40mcq, fent boluses with good effect.  HR coming down to 72-90SR, BP 90-110/50's.  
+
+Resp:  LS course, arrived on vent AC 450x14/5peep/.50.  sats 98-100%.  no aline, no ABG drawn.  RR 14-19.  suctioned for thick white to pale yellow secretions, small amts.  ETT 23cm at lip- retaped.  
+
+ID:  TM 101.6R on admit.  WBC 14.5 in EW.  BC x1 from fem. line, urine and sputum sent.  recv'd dose of levoflox in EW.  
+
+heme:  hx of anemia (? baseline HCT). HCT in EW 27.7.  no stool to guiac.  NPO.  OGT placed with confirmed placement by CXR.  clear green bile in stomach.  PT 12.9 on admit. on coumadin. 
+
+pain:  pt. with hx chronic back pain with mult. compound fractures and L5/S1 disk herniation.  also now with new minimally displaced fracture of femoral neck.  currently on propofol 30mcq and fent. prn.  with fair to good effect.  
+pulses 2+/2+.  extrem. warm.  no bruising/hematoma
+
+access:  left fem. TLC placed in EW.  
+
+A/P:  plan to take to OR today.  contin. propofol gtt and fent. prn.  contin. to assess MS for change.  follow AM labs: HCT, lytes.  
+
+prophylactic:  SC heparin, pneumo boots.
+social:  no calls.  widowed, has siblings in [**Country **].  proxy lives local (not sure of relation).  numbers in chart.  
+
+
+",,
+13610,19904,16939,0,3229-12-04 05:46:00 EST,3229-12-04 05:49:00 EST,6508,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent, intubated with 7.5 ett @ 23 lip. Suctioned small amt of thick yellow secretions. No changes made. No abgs. Pt goning to surgery in morning. Will contiue to monitor.
+",,
+13610,19904,16939,0,3229-12-04 17:38:00 EST,3229-12-04 17:44:00 EST,2235,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ A 7.5 ORAL ETT IN PLACE.
+REMAINS ON AC MODE AS PER CV. SPO2 99 %. SX FOR 
+TAN SPUTUM. WILL PROBABLY GO TO OR IN AM. DID NOT 
+GO TODAY BECAUSE HER INR WAS OVER 1.1. WILL C/W 
+AC MODE UNTIL GOES TO OR.
+",,
+13610,19904,16939,1,3229-12-04 17:43:00 EST,3229-12-04 18:22:00 EST,7436,"Y",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Addendum:  small OB negatibe soft brown stool.  OGT-->ph3-4, clearish liquid asps.
+",,
+13610,19904,16939,0,3229-12-04 17:43:00 EST,3229-12-04 18:10:00 EST,7436,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S:  nodding head ""yes"" when asked if in pain, and ""yes"" when asked if the pain was in her hip.
+
+O:  see CCU flow sheet for complete objective data
+
+Right hip Fracture:  Given 1 U FFP and IV vitamin K to correct PT/INR prior to surgery.  Repeat PT 14, INR 1.3.  Surgery postponed until tomorrow in attempt to get INR <1.1. Received 1U PRBC over 4 hours, with adverse reaction.  Repeat Hct 26.1. Turned from back to right side, with pillow between legs.  Given 25-50 mcg of Fentanyl IV prior to position changes.  HR increases to 80-90 with position change, but then quickly returns to patient's baseline 70-80.  Remains on propofol 35 mcg/kg/min.
+
+Neuro:  shaking head yes, when asked if she can hear me.  Also shaking head in regards to pain.  Moving arms.  Moves hands towards hip during position changes. Does not attempt to pull at any IV's or ETT.  Wrist restraints removed, have remained off during this shift.  Spoke with health care proxy today.  [**Name2 (NI) **] states that at baseline, Ms. [**Known patient lastname 5034**] can ""carry on a conversation"" and ""exercises good judgement, but memory is very poor and would get lost if left on her own."" 
+
+Resp:  remains intubated, 50% AC X14- 450cc, 5 PEEP.  PP 19-21.  Breathing in phase with the vent.  Rare spontaneous resp effort.  O2 sats remain 98-100.  Lungs with coarse BS, ETS-->small amount of tan secretions.
+
+CV:  remains in NSR, 70-80's transiently up to 90 with position changes.  Rare APC.  BP 92-162/48- 83 MAP's 62-109, with higher numbers occurring with position change.
+
+ID:  T max 101.8 rectally.  Has been cultured in past 24 hours.  Given tylenol via OGT q 4 hours-->T 99.6 rectally.  WBC 11.6 (9.4)  Started on Levofloxacin IV.
+
+GU:  foley in place, U/O 60-80 cc/hour.  Receiving NS @ 100 cc/hour.  BUN/Cr  22/1.1
+
+Access:  TLC in place, dressing changed, only old blood at site.  Transparent dsg on, site, clean.  
+
+Skin:  Decube on left glute.  1cmX 1.5 cm, 2 mm deep.  Cleansed with wound cleanser, duoderm applied.
+
+A:  s/p Right hip Fracture, surgery on hold until tomorrow until INR improved.  Pain controlled with Fentanyl IV q 1 1/2-3 hours.  T controlled with tylenol.  Old decube. O2 sats within good range, breathing in phase with vent.
+
+P:  FFP and Vitamin K as per team in prep for OR in AM.  Continue position changes, pre-med with fentanyl.  Assess response to fentanyl  Monitor HCt. Follow temp, cultures PND.  Monitor lungs, follow O2 sats.
+
+",,
+13610,19904,16939,,3229-12-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-5**] 12:14 PM
+     PELVIS (AP ONLY) IN O.R.                                        Clip # [**Clip Number (Radiology) 1801**]
+     Reason: PELVIS FRACTURE
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  82-year-old woman status post hemiarthroplasty for right hip
+     fracture.
+     
+     FINDINGS:  A single AP radiograph of the pelvis was obtained demonstrating
+     interval bipolar hemiarthroplasty of the right hip with good alignment.  Skin
+     staples are noted overlying the lateral pelvis.  Diffuse osteopenia is noted.
+     There is a left femoral venous catheter.  The left hip joint is unremarkable.
+     
+     IMPRESSION:  Status post right bipolar hemiarthroplasty, in good alignment.
+     
+     
+     
+
+",,
+13610,19904,16939,0,3229-12-05 04:48:00 EST,3229-12-05 05:22:00 EST,7591,"N",1,"Nursing/Other",,"
+
+CCU: Nursing Progress Note 
+
+S: Pt. Intubated on Vent, but nods head yes or no to questions.
+
+O: See CCU flow sheet for complete objective data. 82 year old female, s/p fall and fracture to right hip. Intubate in EW secondary to aspirating vomit. Given 1 U FFP and SC Vitamin K to correct PT/INR for surgery today. Hct. 26.1 Small pressure ulcer noted on upper back, duoderm intact. HR and BP increasing with position change. Pt. agitated when awake. 
+
+
+Neuro: Pt. sedated, when awake patient is agitated with increase in HR and BP.  Propofol increased to 50 mcg/kg/min to calm patient.  Fentanyl also given.  Pt. is moving all extremities purposefully.  Patient is able to localize pain when asked. Wrist restraints on throughout the night. 
+
+CV: Patient in NSR, with occasional PAC's.  BP 100-140s/40-70s with MAP 60-90. HR 70-110 increasing when awake and with position change. K 3.6, 40 meq of K given. 
+
+Resp: remains intubated, 450/14/5/.50.  Lung sounds coarse bs. 02 Sats 99-100%. ETS small amounts of tan secretions. 
+
+GI: Abdomen soft, non-tender, non-distended.  +BS, + small soft BM. OG in place with minimal clear secretions. 
+
+GU: Foley in place, U/O 60-120 cc/hr.  KVO 20 cc/hr. 
+
+Access: TLC in place, dressing c/d/intact. 
+
+Skin: Decube on left glute. Dudoerm intact. Small skin breakdown noted on upper back 1cm/1cm cleaned with wound cleanser and duoderm placed.
+
+ID: T max 102.5 rectally. PAN Cultures pnd.  Given tylenol 650mg PO.  WBC 11.6
+
+A: patient s/p right hip fracture secondary to fall.  Surgery planned for today. Pain well controlled with fentanyl IV.  Temp. controlled with tylenol. Agiatated upon awake with increasing in HR and BP. 
+
+P: Monitor Temp and VS. Pre-medicate with fentanyl.  Monitor HCT, INR and PT. cultures pnd. Question surgery secondary to temperature.
+
+
+
+
+
+",,
+13610,19904,16939,0,3229-12-05 05:42:00 EST,3229-12-05 05:44:00 EST,1819,"N",1,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with a/c, no vent changes overnoc maintaining spo2 98%; bs coarse, sxn thick tan secretions, rsbi 72, awaiting or, will hold wean til or.
+",,
+13610,19904,16939,0,3229-12-05 16:05:00 EST,3229-12-05 16:07:00 EST,6828,"N",1,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt continues to be orally intubated/ventilated.  BS:  clear bilaterally.  To Or today to fix R hip fx, s/p fall.  Pt changed from A/C to PSV post OR.  Currently on PSV 5/5 .50.  Tidal volumes 450-550ccs and Resp rate 15-25.  Pt c/o pain and appears aggitated at this time.  Hope for extubation in the am.  Will closely monitor.
+",,
+13610,19904,16939,0,3229-12-05 17:43:00 EST,3229-12-05 18:25:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900 MICU border","
+CCU NPN 0700-1900 MICU border
+S: Pt remains orally intubated and mechanically ventilated, pt nodding head yes or no appropriately to questions.
+
+O: Please see careview for VS and additional data.
+
+CV: Pt HR 59-99 NSR, rare PAC's noted, NBP 118-167/49-80 this am.  Pt to OR at approx 0930, pt returned at approx 1225 with [**Name8 (MD) **] RN to recover pt, a-line placed in OR-ABP 99-180/44-84, NBP 98-159/42-87.  Pt BP increasing correlates with pt nodding head yes to pain-HO  aware, pain meds given with some response noted in BP. Bilateral pedal pulses palp, L femoral TLC CDI.  K 3.5, repleted with 40 meQ KCl via NGT, 20 mEQ KCL in 1 L presently infusing.  Ionized calcium 1.09->repleted with 2 grams calcium gluconate. 
+
+Resp: Received pt on AC 50% 450 x 14 5 peep, pt O2 sats 100%, pt overbreathing vent 1-4 bpm.  Pt switched to CPAP +5 PS 5 peep 50%-> RR 17-21, TV 500's, ABG 7.41/39/227/26/0/99.  Pt sxn'd for sm amts thick white sputum. ? possible extubation this afternoon, awaiting PIV placement and CVL removal prior to extubation- Dr. [**Last Name (STitle) **] aware PIV access obtained, awaiting decision from MD. Anticipate pt extubation tomorrow am. LS coarse to diminshed at RLL.
+
+Neuro: Received pt on propofol gtt 50 mcg/kg/min-> pt found sitting up in bed, pulling against restraints, pt reoriented, pt nodding head yes to pain, 25 mcg fentanyl x 2 given-> pt calming down, more cooperative. Pt returned from OR, sedated on 50 mcg/kg/min propofol-> gtt weaned down [**Name8 (MD) 17**] MD request for ? possible extubation this afternoon, propofol 20 mcg/kg/min-> pt alert, following commands consistently and MAE-Dr. [**Last Name (STitle) **] aware. Pt nodding head yes to pain, increase in BP noted, see above, 1 mg morphine sulfate given, 25 mcg fentanyl x 2 given, fentanyl patch applied this eve-Dr. [**Last Name (STitle) **] aware.
+
+ID: Pt T max 100 oral, 650 mg tylenol given, started on IV cefazolin for 24 hours, cont on IV levofloxacin. Bld and sputum cx's from overnoc shift pending.
+
+GI/GU: Pt abd soft, + BS x 4, 1 sm smear of brown stool this shift. Pt with OGT in place with scant amts of bilious aspirates.  Foley cath draining clr yellow u/o, approx 50-190 cc/hr after pt return from OR.
+
+Skin/access: Received pt from OR with R hemiarthroplasty, elastoplast dsg intact, no drainage noted from dsg, site not visualized.  pt able to bend knee on R leg, wiggle toes upon command.  Pt with 2 areas of skin impairment on glute and shoulder, duoderms intact, sites not visulaized. Pt with L femoral TLC, PIV placed by IV RN-plan is to dc TLC to allow pt to sit upright without restriction to extubate pt. DR. [**Last Name (STitle) **] aware PIV placed. 
+
+A/P: 82 y/o female s/p R hip replacement, pt nodding head to increasing pain-> IV fentanyl, IV morphine and fentanyl patch placed with some effect-correlating increasing BP with pain.  As discussed per MICU rounds, continue to monitor pt pain-> admin IV fentanyl/morphine as pt tol, awaiting effects of fentanyl patch.  Continue to monitor pt hemodynamics/HTN-update HO ? anti-HTN if BP remains elevated.  Cont to monitor resp status, anticipate extubatio
+",,
+13610,19904,16939,0,3229-12-05 17:44:00 EST,3229-12-05 18:25:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900 MICU border","
+CCU NPN 0700-1900 MICU border
+(Continued)
+n in am, cont to monitor lytes, u/o.  Cotinue to provide emotional support to pt.
+
+",,
+13610,19904,16939,,3229-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-6**] 1:42 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1803**]
+     Reason: Please evaluate for NGT position                            
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         82 y/o F w/vertebral compression fx, adm w/hip fx now s/p NGT placement      
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for NGT position                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post vertebral compression fracture and with hip fracture,
+     now status post nasogastric tube placement.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison is made to prior study of 5 hours
+     earlier.  There has been interval placement of a nasogastric tube.  The tip of
+     the tube is located at the gastroesophageal junction.  The cardiomediastinal
+     silhouette and appearance of lungs is unchanged.
+     
+     IMPRESSION:  Nasogastric tube is positioned with tip at the gastroesophageal
+     junction.  Recommend further advancement for optimal positioning within the
+     stomach.
+     
+     These results were communicated to Dr. [**Last Name (STitle) 1804**] at 5:30 p.m. on [**3229-12-6**].
+                                                                           
+
+",,
+13610,19904,16939,,3229-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-6**] 7:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1802**]
+     Reason: eval please for infiltrates or consolidation                
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 y/o F w/vertebral compression fx, adm w/hip fx now s/p intubation for ?  
+      aspiration
+     REASON FOR THIS EXAMINATION:
+      eval please for infiltrates or consolidation                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 8:05 A.M November10, clip is 387-2473.
+     
+     HISTORY:  Vertebral compression fracture.  Now intubated.
+     
+     IMPRESSION:  AP chest compared to [**12-3**]:
+     
+     Lung volumes are slightly lower than on [**12-3**] and may be a new small left
+     pleural effusion.  Pulmonary fibrosis is a chronic feature in the lower lung
+     zones.  There is no evidence of pneumonia.  Heart size top normal.  No
+     pneumothorax.
+                                                                           
+
+",,
+13610,19904,16939,,3229-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-6**] 7:35 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1805**]
+     Reason: PLease check for NGT placement after it was advanced.  Thank
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 y/o F w/vertebral compression fx, adm w/hip fx now s/p NGT revision          
+     REASON FOR THIS EXAMINATION:
+      PLease check for NGT placement after it was advanced.  Thank [**Doctor First Name 1041**].               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Nasogastric tube revision.
+     
+     COMPARISON:  [**3229-12-6**] at 13:45.
+     
+     SUPINE AP VIEW OF THE CHEST:  There has been interval advancement of the
+     nasogastric tube with tip now lying in the fundus of the stomach.  Appearance
+     of the lungs is unchanged since the prior examination with continued small
+     left pleural effusion and bibasilar linear opacities, likely representing
+     fibrosis, unchanged in the interval.  Osseous structures are unchanged.
+     
+     IMPRESSION:  Satisfactory advancement of nasogastric tube with tip in the
+     fundus of the stomach.  Unchanged appearance of the lung bases.
+                                                                           
+
+",,
+13610,19904,16939,0,3229-12-06 06:14:00 EST,3229-12-06 06:45:00 EST,1865,"N",1,"Nursing/Other",,"
+
+82 YR. OLD WOMAN ADMITTED [**12-3**] S/P FALL @ NH->FX R. HIP. HEAD CT (-) BLEED. IN ED, GIVEN TOTAL MSO4 12MG VP FOR PAIN->SOMULENT->NARCAN->
+VOMITTED->ASPIRATION REQUIRING INTUBATION. TRANSIENT HYPOTENSION->SBP
+80. RESPONDED TO FLUID BOLUS->SBP 120. STARTED LEVOFLOX. TRANSFERRED TO CCU FOR MONITORING. [**12-5**]->OR FOR REPAIR FX R. HIP. EBL 400CC->2U
+PRBC IN OR. RECOVERED IN CCU BY [**Month/Day (4) **] NURSE. 
+
+NEURO: AWAKE & ALERT. NO SHORT-TERM MEMORY. HX DEMENTIA/ALZHEIMERS.
+FOLLOWS COMMANDS & COOPERATIVE WITH CARE.
+
+RESP: AFTER TRIAL OF CPAP WITH 5IPS->EXTUBATED @ 2000 TO 4L NP. C&R
+MOD. AMTS. THICK WHITE SPUTUM. USING YANKEUR TO CLEAR SECRETIONS. RR
+15-18. O2 SAT 100%. BS CLEAR BUT DIMINISHED AT BASES.
+
+CARDIAC: HR 84-116 SR/ST WITH OCC. PVC'S. BP 143-184/54-79. METOPROLOL
+5MG VP X1 FOR HR 116 & SBP180'S WITH GOOD EFFECT. D51/2NS +KCL 20MEQ/L
+INFUSING AT 85CC/HR. INCREASED BP WITH C/O R. LEG PAIN. MED. X1 WITH FENTANYL 25MCG VP WITH LITTLE EFFECT. GIVEN ADDITIONAL FENTANYL 25MCG
+FOLLOWED BY MSO2 1MG VP WITH BETTER EFFECT. SUBSEQUENTLY, GIVEN FENTANYL 50MCG VP WITH BETTER EFFECT FOR PAIN MANAGEMENT.
+
+GI: NPO. ABD. SOFT. BS+. NO STOOL. SWALLOWING STUDY ORDERED FOR TODAY BEFORE DIET TO BE ADVANCED.
+
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 30-310CC/HR.
+
+ID: T(MAX)99.7(PO). CONT. ON IV LEVOFLOX, & CEFAZOLIN IV ADDED X24HRS
+S/P R. HIP REPAIR.
+
+AM LABS: WBC 11.7, HCT 32.5, PLAT CT 210K, K 4.2, BUN/CREAT 8/0.8, BS
+129, CA 8.5, MG 1.3, PO4 2.0. MG & PO4 TO BE REPLACED.
+
+PLAN: PT CONSULT TO BEGIN REHAB.
+      SWALLOWING STUDY TO EVALUATE SWALLOWING.    
+",,
+13610,19904,,,3229-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-7**] 2:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1806**]
+     Reason: evaluate volume status and infiltrate                       
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old woman with R. hip fracture, Alzheimer's, PNA now with hypotension. 
+     REASON FOR THIS EXAMINATION:
+      evaluate volume status and infiltrate                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 2:45 P.M. [**12-7**]
+     
+     HISTORY:  Right hip fracture.
+     
+     IMPRESSION:  AP chest compared to 7:51 p.m., [**12-7**]:
+     
+     No pneumonia or pulmonary edema.  Interstitial edema at the right lung base
+     has been present since at least [**3229-5-12**] consistent with pulmonary
+     fibrosis.  Mild cardiomegaly is more severe.  There is no appreciable pleural
+     effusion or pneumothorax.  Nasogastric tube ends in the stomach.
+                                                                           
+
+",,
+13610,19904,,,3229-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-8**] 4:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1807**]
+     Reason: evaluate for volume status                                  
+     Admitting Diagnosis: HIP FRACTURE;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old woman with R. hip fracture, Alzheimer's, PNA now with 
+      hypotension. 
+     REASON FOR THIS EXAMINATION:
+      evaluate for volume status                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of right hip fracture with hypertension.
+     
+     Allowing for technique, heart size is within normal limits.  There is
+     tortuosity of the thoracic aorta.  No evidence for CHF.  Linear and discoid
+     atelectases are present in the left mid and left lower zones and in addition,
+     there is discoid atelectasis at the right lung base.  No definite pulmonary
+     consolidation and no pneumothorax.  NG tube is in body of stomach.  Overall
+     findings are essentially unchanged since the previous film of [**3229-12-7**].
+                                                                           
+
+",,
+13610,,,,3229-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3229-12-25**] 12:50 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 1808**]
+     Reason: right hip ORIF/ eval for healing                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old woman with h/o osteoporosis, chronic LBP c compression fx T10, 
+      T12,  L1, L5-S1 disc herniation, Alzhemier's, anemia, HTN, hypothyroidism Asp 
+      PNA  presenting s/p likely mechanical fall at nursing home with R hip pain.
+     REASON FOR THIS EXAMINATION:
+      right hip ORIF/ eval for healing                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old post fall with right hip pain.
+     
+     COMPARISON:  [**3229-12-3**].  One AP view of the pelvis and two views of the right
+     hip.
+     
+     Since the prior examination, the patient has undergone arthroplasty of the
+     right hip with a unipolar prosthesis present.  There is no new acute fracture
+     or dislocation.  Degenerative changes are seen with joint space narrowing in
+     the left hip.  Degenerative changes are also seen in the lower lumbar spine.
+     SI joints and pubic symphysis are unremarkable.  The hip prosthesis is intact.
+     
+     IMPRESSION:
+     
+     No new acute fracture or dislocation. Intact right hip unipolar prosthesis.
+     Degenerative changes in lower lumbar spine and osteoarthritis in the left hip.
+
+",,

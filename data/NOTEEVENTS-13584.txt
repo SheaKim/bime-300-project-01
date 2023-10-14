@@ -1,0 +1,2191 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13584,24286,,,2806-06-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2806-6-26**]              Discharge Date:   [**2806-8-3**]
+ 
+Date of Birth:  [**2768-10-10**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins / Bactrim / Compazine / Augmentin
+ 
+Attending:[**First Name3 (LF) 5688**] 
+Chief Complaint:
+""my legs are swollen"" x 2 weeks.  
+ 
+Major Surgical or Invasive Procedure:
+Open Splenectomy [**2806-7-25**]
+ 
+History of Present Illness:
+37M with h/o HIV/AIDS (last CD4 12, VL 7000) with chronic 
+medical issues related to AIDS including diarrhea, sinusitis, 
+pancyotpenia, chronic fevers that are unchanged. Essentially, Mr 
+[**Known patient lastname 9326**] has experienced (chronic) BLE edema that has progressed 
+to a point where he was referred for inpatient management.  
+Recent w/u in May included Echo and LENIs that were 
+unremarkable; he was discharged on lasix to control anasarca. He 
+states that lasix is not as  effective as it used to be (160  
+Qam and 80 Qpm).  Pt relates that his ankles and area behind the 
+knees are sore and making ambulation difficult; this is related 
+only to this acute event.  He states that when he stands, he can 
+almost feel the fluid rush to his feet.  He has no orthopnea, 
+new SOB, CP, PND.  Last echo in 5/05 with EF >55%, no diastolic 
+dysfxn.  Received 120 IV lasix on arrival to floor with prompt 
+diuresis > 700 cc.workup demonstrated no evidence of CHF or 
+venous occlusion.  He was finally d/c to home w/ lasix to 
+control his anasarca.
+ 
+Past Medical History:
+1. HIV/AIDS:  dx 1993, last CD4 12, viral load 7000
+2. H/O multiple OIs:  PCP 1995, zoster, [**Female First Name (un) 929**] esophagitis, 
+oral leukoplakia, perioral condylomata 
+3. Chronic sinusitis treated w/ Ketec 60 day course, pt self d/c 
+abx recently
+4. Polyneuropathy
+5. Lipodystrophy
+6. Pancytopenia:  presumably [**1-18**] HIV marrow suppression, BM 
+biopsy [**2806-6-6**] w/ hypocellularity but no evidence of 
+microorganisms
+7. H/O pneumococcal bacteremia [**5-19**]
+8. Chronic LE edema x 3 months:  ECHO [**4-20**] w/ EF>55%, no 
+diastolic dysfxn
+9. Chronic diarrhea
+10. C diff colitis dx [**4-20**], treated w/ flagyl
+ 
+Social History:
+Smokes, 10 pack-years, now [**2-17**] cigs/wk; no alcohol or 
+recreational drug use.
+ 
+Family History:
+NC
+ 
+Physical Exam:
+VS  T 99.9, BP 128/66, HR 97, RR 16, O2 sat 97% RA
+
+Gen:  chronically ill appearing man, lying flat in bed in NAD
+HEENT: anicteric, EOMI, PERRL, OP clear w/ MMM and no thrush, 
+evident lipodystrophy, no JVD, no LAD, neck supple
+CV: reg s1/s2, no s3/s4/m/r
+Pulm: CTA B, no wheezes or crackles
+Abd: scaphoid, +BS, soft, NT, ND
+Ext: warm, palpable DP B, 1+ pitting edema to knees B, venous 
+stasis changes over ankles B w/ no tenderness, no calf 
+tenderness
+Neuro: a/o x 3, CN [**1-28**] intact, strength 5/5 throughout UE/LE B
+ 
+Pertinent Results:
+[**2806-6-25**] 10:30PM   WBC-1.8* RBC-2.52* HGB-9.2* HCT-25.9* 
+MCV-103*# MCH-36.3* MCHC-35.4* RDW-21.5*
+[**2806-6-25**] 10:30PM   PLT COUNT-25*
+[**2806-6-25**] 10:30PM   [**Last Name (un) 1056**] CT-1400*
+
+[**2806-6-25**] 10:30PM   GLUCOSE-98 UREA N-20 CREAT-0.4* SODIUM-138 
+POTASSIUM-2.7* CHLORIDE-103 TOTAL CO2-25 ANION GAP-13
+[**2806-6-25**] 10:30PM   ALT(SGPT)-10 AST(SGOT)-53* ALK PHOS-296* TOT 
+BILI-1.4
+[**2806-6-25**] 10:30PM   ALBUMIN-3.1* CALCIUM-8.4 PHOSPHATE-3.2 
+MAGNESIUM-1.8
+
+[**2806-6-25**] 10:30PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 302**]-1.027
+[**2806-6-25**] 10:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-1 PH-6.5 LEUK-NEG
+[**2806-6-25**] 10:30PM URINE  RBC-0-2 WBC-0-2 BACTERIA-NONE YEAST-NONE 
+EPI-0
+[**2806-6-25**] 10:30PM URINE  HYALINE-[**2-18**]*
+
+CXR:  prominent interstitial markings B, stable from prior 
+films; no focal opacities, no pleural effusions, no PTX
+
+EKG:  NSR @ 93 bpm, nl axis, nl intervals, no ST changes
+
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 9326**] is a gentleman who expired on the surgical service 
+on [**2806-8-4**] of respiratory failure secondary to acute renal 
+failure and complications from advanced AIDS status-post open 
+splenectomy on [**2806-7-25**]. He was initially on the medical service 
+prior to his surgery. A brief summary of his hospital course is 
+follows: 
+
+Mr [**Known patient lastname 9326**] was admitted on [**2806-6-26**] for inpatient management of 
+his anasarca, chronic diarrhea, and chronic pancytopenia.  
+
+With regards to his HIV, his last CD4 12, viral load 7000.  
+Treated w/ HAART, home meds continued (abacavir, lamivudine, 
+zidovudine, enfuvirtide, ritonavir, dapsone for pcp [**Name9 (PRE) 1885**], 
+famciclovir, fluconazole).  
+
+With regards to his anasarca, this was postulated to be 
+secondary to low oncotic pressure secondary to chronic 
+pancytopenia as well as lymphatic insufficiency. Albumin level 
+was checked several times, however, and was > 3, leading us to 
+consider a multi-factorial etiology for the edema. CT abdomen 
+was done to assess for retroperitoneal lymphadenopathy as a 
+source of venous occlusion, but it was negative.  Echo on this 
+hospitalization revealed no significant change from the previous 
+study in 5/05, with EF >55%.  Edema was managed initially with 
+high-dose lasix, and then with metolazone.  Diuretics caused 
+only marginal improvement in LE edema, and caused the patient to 
+be hypovolemic and hyponatremic.  Diuretics were discontinued 
+and patient was placed in compression stockings.
+
+With regards to his diarrhea, the patient was found to have C. 
+diff positive stools and was started on a course of Flagyl for 
+treatment. 
+
+From an infectious disease standpoint, intermittent and chronic 
+low-grade fevers gave way to frank fever spikes on day 3 of 
+hospitalization, along with development of R ear pain and a 
+coincidentally positive sputum for AFB that was taken as an 
+outpatient. Cultures of nose and ear revealed GPC in pairs from 
+the sinus and pseudomonas from the ear. MRI ordered to assess 
+extent of pseudomonal infection (see below) indicated diffuse 
+(R>L) meningeal enhancement c/w menigitis. He was maintained on 
+several courses of empiric antibiotics, as well as IV acyclovir 
+possible HSV lesion in his ear.  IV acyclovir course completed 
+prior to viral culture results. He developed acute R ear pain 
+with serosanguinous drainage early in this hospitalization, and 
+ENT was promptly consulted for input. ENT input regarding 
+mastoiditis indicates that no surgical intervention required 
+even if pt were appropriate candidate.  He had one sputum 
+positive for AFB on [**2806-6-20**]. He was placed on resppiratory 
+precautions until 3 sets of negative sputums were obtained (no 
+sputum samples from this hospitalization have been positive).  
+He was treated empiracally for presumed MAC.
+
+With regards this his pancytpoenia , this was postulated to be 
+initially to be secondary to his  HIV marrow suppression. Recent 
+BM biopsy from [**5-21**] showed hypocellularity w/ no marrow 
+infection, though cultures had never been sent.  Patient 
+experienced steady decline in cellular counts which prompted 
+reevaluation of initial hypothesis and data. Marrow showed viral 
+inclusion bodies (though there was no evidence of viral 
+organsims), and therefore, serologies for CMV and Parvovirus B19 
+were sent.  He was treated with IVIG 1g/kg/day to treat possible 
+parvovirus and intiated on Procrit, 40,000 u/week.  Surgery was 
+consulted and due to his severe thrombocytopenia, the decision 
+was made to procede with salvage splenectomy. 
+
+He underwent splenectomy via open technique on [**2806-7-25**] (please 
+see the operative note of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for full details). 
+Post-operatively, he initially did well and was extubated and 
+transferred out of the ICU by post-op day 3 and started on a 
+clear liquid diet. However, he began to have oliguric renal 
+failure and was transferred back to the ICU for close 
+monitoring. Within a day his renal failure became anuric and he 
+presented with an encephalopathic picture. Renal consultation 
+assessed the patient's renal failure as multifactorial in 
+nature, including HIV nephropathy, renal failure secondary to 
+amicar treatment for his MAC, and perioperative fluid changes. 
+He was emergently intubated for mental status changes 
+comprimising respiration. He was dialyzed for 4 consecutive days 
+starting on [**2806-7-30**], however there was marginal improvement in 
+his renal function. While is platelet counts did not drop 
+post-splenectomy, he continued to present with clinical bleeding 
+from his incision sites and it was presumed that his platelets 
+were poorly functional secondary to uremia. Hematology 
+recommended DDAVP and FFP which were given, as well as platelet 
+transfusions. On [**2806-8-4**] a family meeting was held and the 
+decision was made by the patient's health care proxy to make him 
+comfort measures only. He was extubated and expired shortly 
+afterwards. His family members were present at his bedside.
+ 
+Medications on Admission:
+1. Dapsone 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Gabapentin 300 mg Capsule Sig: Three (3) Capsule PO HS (at 
+bedtime).  
+3. Famciclovir 250mg BID (2 times a day).  
+
+5. Abacavir-Lamivudine-Zidovudine 300-150-300 mg Tablet Sig: One 
+
+(1) Tablet PO BID (2 times a day).  
+6. Enfuvirtide 90 mg Kit Sig: One (1) Kit Subcutaneous BID (2 
+times a day).  
+7. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO BID (2 times 
+
+a day).  
+9. Fluconazole 100 mg Tablet Sig: One (1) Tablet PO once a day 
+for 14 days.
+Disp:*14 Tablet(s)* Refills:*0*
+10. Furosemide 160mg PO QAM, 80mg PO QPM
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+AIDS-related pancytopenia
+Anuric Renal Failure
+MAC
+Sinusitis
+Respiratory Failure
+Mental Status Changes
+ 
+Discharge Condition:
+Expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 5689**]
+ 
+Completed by: [**Name6 (MD) 3213**] [**Name8 (MD) 3214**] MD [**MD Number 3215**] [**2806-8-5**] @ 0046
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SUN [**2806-8-6**] 7:20 PM
+(End of Report)
+
+
+",,
+13584,24286,,,2806-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-28**] 12:41 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 1377**]
+     Reason: r/o dvt                                                     
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with swollen and painful calves B                               
+     REASON FOR THIS EXAMINATION:
+      r/o dvt                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old with swollen painful calves.  Assess for DVT.
+     
+     FINDINGS:  Grayscale and pulse Doppler imaging of both right and left common
+     femoral, greater saphenous, superficial femoral, and popliteal veins was
+     performed.  There is normal compressibility, color flow, waveforms, and
+     augmentation.
+     
+     IMPRESSION:  No DVT in either of the right or left leg.
+                                                                           
+
+",,
+13584,24286,,,2806-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-29**] 11:19 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 1378**]
+     Reason: please eval for pulmonary processes                         
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS and new fevers                                        
+     REASON FOR THIS EXAMINATION:
+      please eval for pulmonary processes                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old male with AIDS and new fevers.
+     
+     COMPARISONS:  Comparison is made to [**2806-4-16**].
+     
+     TECHNIQUE:  Multidetector axial CT images of the chest were obtained and
+     reconstucted according to the high-resolution/interstitial protocol during
+     inspiration supplemented by stationary expiratory images.
+     
+     FINDINGS:  There are no significantly enlarged axillary lymph nodes.  Small,
+     stable mediastinal lymph nodes do not meet CT size criteria for
+     lymphadenopathy. A small pericardial effusion and coronary artery
+     calcifications are stable. The heart and great vessels are otherwise
+     unremarkable.
+     
+     The airway is patent to the level of the subsegmental bronchi. In the left
+     lower lobe is a new area of bronchial thickening with parenchymal reaction
+     around it consistent with purulent bronchitis. In the right lower lobe is a
+     tubular density that could represent atelectasis or impacted bronchiectasis.
+     
+     A homogenous, oval-shaped opacity adjacent to the eighth rib posteriorly
+     (Image 5,35) is stable since [**2806-4-16**] . The density of this lesion, 5 [**Doctor Last Name **],
+     could represent either a fluid filled cyst or myelinated nerve- sheath tumor.
+     
+     Images of the upper abdomen demonstrate splenomegaly. The skeletal structures
+     are unremarkable.
+     
+     IMPRESSION:
+     1. Purulent bronchitis, left lower lobe.
+     2. Splenomegaly.
+     3. Small extrapleural cyst or neural sheath tumor, stable for 3 months. Follow
+     up advised.
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2806-6-29**] 11:19 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 1378**]
+     Reason: please eval for pulmonary processes                         
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-29**] 11:19 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 1378**]
+     Reason: please eval for pulmonary processes                         
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS and new fevers                                        
+     REASON FOR THIS EXAMINATION:
+      please eval for pulmonary processes                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old male with AIDS and new fevers.
+     
+     COMPARISONS:  Comparison is made to [**2806-4-16**].
+     
+     TECHNIQUE:  Multidetector axial CT images of the chest were obtained and
+     reconstucted according to the high-resolution/interstitial protocol during
+     inspiration supplemented by stationary expiratory images.
+     
+     FINDINGS:  There are no significantly enlarged axillary lymph nodes.  Small,
+     stable mediastinal lymph nodes do not meet CT size criteria for
+     lymphadenopathy. A small pericardial effusion and coronary artery
+     calcifications are stable. The heart and great vessels are otherwise
+     unremarkable.
+     
+     The airway is patent to the level of the subsegmental bronchi. In the left
+     lower lobe is a new area of bronchial thickening with parenchymal reaction
+     around it consistent with purulent bronchitis. In the right lower lobe is a
+     tubular density that could represent atelectasis or impacted bronchiectasis.
+     
+     A homogenous, oval-shaped opacity adjacent to the eighth rib posteriorly
+     (Image 5,35) is stable since [**2806-4-16**] . The density of this lesion, 5 [**Doctor Last Name **],
+     could represent either a fluid filled cyst or myelinated nerve- sheath tumor.
+     
+     Images of the upper abdomen demonstrate splenomegaly. The skeletal structures
+     are unremarkable.
+     
+     IMPRESSION:
+     1. Purulent bronchitis, left lower lobe.
+     2. Splenomegaly.
+     3. Small extrapleural cyst or neural sheath tumor, stable for 3 months. Follow
+     up advised.
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2806-6-29**] 11:19 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 1378**]
+     Reason: please eval for pulmonary processes                         
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-30**] 2:17 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST; CT RECONSTRUCTION Clip # [**Clip Number (Radiology) 1379**]
+     Reason: EAR/HEADACHE BLOOD AND PUSS FROM RIGHT EAR, EVAL FOR MASTOIDITIS
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      R/O mastoiditis of R side                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JTRe FRI [**2806-6-30**] 4:37 PM
+      Right mastoid air cell opacification.  Small defect visualized in the tegmun
+      tympani.  Sinus plate, scutum, and ossicles are intact.
+      Pansinusitis as before (with minimal improvement in aeration).
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  37-year-old man with headache and earache.  Blood and pus from the
+     right ear.  Evaluate for mastoiditis.
+     
+     TECHNIQUE:  Noncontrast CT thin slice axial images through the temporal bone
+     with sagittal and coronal reformats.
+     
+     FINDINGS:  As on the prior examination of [**2806-4-15**], there is
+     pansinusitis.  There has been minimal improvement in the aeration of the
+     ethmoid, sphenoid, and maxillary sinuses.  However, significant residual sinus
+     changes remain.  Since prior examination, the left mastoid air cells have
+     improved with no residual fluid; however, the right mastoid air cells are not
+     completely opacified.  The right-sided ossicles appear normal.  However, there
+     appears to be a small defect visualized in the tegmen tympani on the coronal
+     reconstructions.  Sinus plate and scutum are intact.  There is no erosion of
+     the petrous apex.  There is opacification of the middle ear cavity.
+     
+     IMPRESSION:  Opacification of the right mastoid air cells.  There appears to
+     be a small defect visualized in the tegmen tympani on the coronal
+     reconstructions.  No additional areas of bony erosion are seen.  Opacification
+     of the middle ear also identified.
+                                                                           
+
+",,
+13584,24286,,,2806-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-30**] 2:17 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST; CT RECONSTRUCTION Clip # [**Clip Number (Radiology) 1379**]
+     Reason: EAR/HEADACHE BLOOD AND PUSS FROM RIGHT EAR, EVAL FOR MASTOIDITIS
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      R/O mastoiditis of R side                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JTRe FRI [**2806-6-30**] 4:37 PM
+      Right mastoid air cell opacification.  Small defect visualized in the tegmun
+      tympani.  Sinus plate, scutum, and ossicles are intact.
+      Pansinusitis as before (with minimal improvement in aeration).
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  37-year-old man with headache and earache.  Blood and pus from the
+     right ear.  Evaluate for mastoiditis.
+     
+     TECHNIQUE:  Noncontrast CT thin slice axial images through the temporal bone
+     with sagittal and coronal reformats.
+     
+     FINDINGS:  As on the prior examination of [**2806-4-15**], there is
+     pansinusitis.  There has been minimal improvement in the aeration of the
+     ethmoid, sphenoid, and maxillary sinuses.  However, significant residual sinus
+     changes remain.  Since prior examination, the left mastoid air cells have
+     improved with no residual fluid; however, the right mastoid air cells are not
+     completely opacified.  The right-sided ossicles appear normal.  However, there
+     appears to be a small defect visualized in the tegmen tympani on the coronal
+     reconstructions.  Sinus plate and scutum are intact.  There is no erosion of
+     the petrous apex.  There is opacification of the middle ear cavity.
+     
+     IMPRESSION:  Opacification of the right mastoid air cells.  There appears to
+     be a small defect visualized in the tegmen tympani on the coronal
+     reconstructions.  No additional areas of bony erosion are seen.  Opacification
+     of the middle ear also identified.
+                                                                           
+
+",,
+13584,24286,,,2806-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-30**] 2:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1380**]
+     Reason: EVAL FOR CAVAL OBSTRUCTION / LYMPHADENOPATHY
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      R/O Caval obstruction. Look for Lymphadenopathy                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate for IVC obstruction and lymphadenopathy.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administration of oral contrast and 150 cc of Optiray.
+     
+     Comparison was made to a prior study of [**2806-4-16**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  Images through the lung bases demonstrate
+     bibasilar atelectasis, left greater than right.  There is a nodular opacity at
+     the periphery of the right lower lobe seen on series 3, image 5, unchanged
+     from the prior study, measuring approximately 1 cm in diameter, likely the
+     insertion of the diaphragm.
+     
+     The gallbladder, adrenal glands, and liver are unremarkable.  There is no
+     ascites.  The pancreas is unremarkable.  No hydronephrosis or hydroureter on
+     either side.  Within the mid pole of the left kidney, there is a 5-mm focus of
+     low attenuation that is too small to fully characterize.
+     
+     There is splenomegaly.
+     
+     Again seen scattered throughout the mesentry are numerous mesenteric lymph
+     nodes.  The largest of these again is near the root of the mesentry, measuring
+     approximately 1 cm in size.
+     
+     There is no bowel obstruction.  No dilated loops of bowel are seen.  No
+     thickened loops of bowel are identified.
+     
+     There is no free air or free fluid in the abdomen.
+     
+     No IVC obstruction is identified.  The iliac veins and inferior vena cava are
+     patent throughout the course.
+     
+     CT PELVIS WITH IV CONTRAST:  The distal ureters, bladder, prostate, rectum,
+     and sigmoid colon are unremarkable.  There is no free air or free fluid in the
+     pelvis.  As seen on the prior study, there is subcutaneous edema in the
+     anterior abdominal wall.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2806-6-30**] 2:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1380**]
+     Reason: EVAL FOR CAVAL OBSTRUCTION / LYMPHADENOPATHY
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Splenomegaly.
+     2.  Numerous small mesenteric lymph nodes, not significantly changed from the
+     prior study.
+     3.  No IVC or iliac vein obstruction.
+
+",,
+13584,24286,,,2806-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-6-30**] 2:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1380**]
+     Reason: EVAL FOR CAVAL OBSTRUCTION / LYMPHADENOPATHY
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      R/O Caval obstruction. Look for Lymphadenopathy                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate for IVC obstruction and lymphadenopathy.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administration of oral contrast and 150 cc of Optiray.
+     
+     Comparison was made to a prior study of [**2806-4-16**].
+     
+     CT ABDOMEN WITH IV CONTRAST:  Images through the lung bases demonstrate
+     bibasilar atelectasis, left greater than right.  There is a nodular opacity at
+     the periphery of the right lower lobe seen on series 3, image 5, unchanged
+     from the prior study, measuring approximately 1 cm in diameter, likely the
+     insertion of the diaphragm.
+     
+     The gallbladder, adrenal glands, and liver are unremarkable.  There is no
+     ascites.  The pancreas is unremarkable.  No hydronephrosis or hydroureter on
+     either side.  Within the mid pole of the left kidney, there is a 5-mm focus of
+     low attenuation that is too small to fully characterize.
+     
+     There is splenomegaly.
+     
+     Again seen scattered throughout the mesentry are numerous mesenteric lymph
+     nodes.  The largest of these again is near the root of the mesentry, measuring
+     approximately 1 cm in size.
+     
+     There is no bowel obstruction.  No dilated loops of bowel are seen.  No
+     thickened loops of bowel are identified.
+     
+     There is no free air or free fluid in the abdomen.
+     
+     No IVC obstruction is identified.  The iliac veins and inferior vena cava are
+     patent throughout the course.
+     
+     CT PELVIS WITH IV CONTRAST:  The distal ureters, bladder, prostate, rectum,
+     and sigmoid colon are unremarkable.  There is no free air or free fluid in the
+     pelvis.  As seen on the prior study, there is subcutaneous edema in the
+     anterior abdominal wall.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2806-6-30**] 2:17 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1380**]
+     Reason: EVAL FOR CAVAL OBSTRUCTION / LYMPHADENOPATHY
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Splenomegaly.
+     2.  Numerous small mesenteric lymph nodes, not significantly changed from the
+     prior study.
+     3.  No IVC or iliac vein obstruction.
+
+",,
+13584,24286,,,2806-07-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-1**] 5:24 PM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 1381**]
+     CT RECONSTRUCTION
+     Reason: Please perform dedicated temporal CT to evaluate for bony in
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS, Otititis Media with purulent drainage and possible 
+      bone involvement by CT sinus. He has low CD4 count.
+     REASON FOR THIS EXAMINATION:
+      Please perform dedicated temporal CT to evaluate for bony involvement. Temporal 
+      bone dedicated per [**Hospital Unit Name **].
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ORBITS, SELLA AND IAC WITH CONTRAST
+     
+     INDICATION:  37-year-old male with AIDS, low CD4 count, purulent discharge
+     from the right ear.
+     
+     TECHNIQUE:  Axial CT imaging of the temporal bones performed after the
+     intravenous administration of 150 cc of Optiray.  Non-ionic contrast was used
+     due to patient debility.  Additional reformatted imaging in the coronal plane
+     was also performed.  Reference made to a prior non-contrast study from the
+     previous day.
+     
+     CT OF THE TEMPORAL BONES WITH CONTRAST:  There is again seen complete
+     opacification of the right middle ear as well as the majority of the right
+     mastoid air cells.  The tegmen tympani and the roof of the mastoid air cells
+     within the right temporal bone are indistinct and not well identified on this
+     examination.  No other areas of definite bone destruction are identified.  The
+     ossicles are symmetric in appearance.  The structures of the inner ear are
+     also symmetric in appearance.  No areas of abnormal enhancement are identified
+     in the soft tissues surrounding the right temporal bone or in limited
+     assessment of intracranial structures adjacent to the right temporal bone.
+     
+     IMPRESSION:
+     1.  Opacification of the right middle ear and mastoid air cells that is
+     consistent with the patient's clinical history of right-sided otomastoiditis.
+     The tegmen tympani and the roof of the mastoid air cells on the right are not
+     well seen.  Given the technical limitations of this contrast-enhanced CT, if
+     there is clinical suspicion for intracranial extension of infection in the
+     patient with a right-sided otomastoiditis, a dedicated MRI with gadolinium is
+     recommended.
+     2.  No evidence of a drainable fluid collection within limited assessment of
+     the soft tissues adjacent to the right temporal bone.
+     
+                                                                 (Over)
+
+     DATE: [**2806-7-1**] 5:24 PM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 1381**]
+     CT RECONSTRUCTION
+     Reason: Please perform dedicated temporal CT to evaluate for bony in
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-07-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-1**] 5:24 PM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 1381**]
+     CT RECONSTRUCTION
+     Reason: Please perform dedicated temporal CT to evaluate for bony in
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS, Otititis Media with purulent drainage and possible 
+      bone involvement by CT sinus. He has low CD4 count.
+     REASON FOR THIS EXAMINATION:
+      Please perform dedicated temporal CT to evaluate for bony involvement. Temporal 
+      bone dedicated per [**Hospital Unit Name **].
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ORBITS, SELLA AND IAC WITH CONTRAST
+     
+     INDICATION:  37-year-old male with AIDS, low CD4 count, purulent discharge
+     from the right ear.
+     
+     TECHNIQUE:  Axial CT imaging of the temporal bones performed after the
+     intravenous administration of 150 cc of Optiray.  Non-ionic contrast was used
+     due to patient debility.  Additional reformatted imaging in the coronal plane
+     was also performed.  Reference made to a prior non-contrast study from the
+     previous day.
+     
+     CT OF THE TEMPORAL BONES WITH CONTRAST:  There is again seen complete
+     opacification of the right middle ear as well as the majority of the right
+     mastoid air cells.  The tegmen tympani and the roof of the mastoid air cells
+     within the right temporal bone are indistinct and not well identified on this
+     examination.  No other areas of definite bone destruction are identified.  The
+     ossicles are symmetric in appearance.  The structures of the inner ear are
+     also symmetric in appearance.  No areas of abnormal enhancement are identified
+     in the soft tissues surrounding the right temporal bone or in limited
+     assessment of intracranial structures adjacent to the right temporal bone.
+     
+     IMPRESSION:
+     1.  Opacification of the right middle ear and mastoid air cells that is
+     consistent with the patient's clinical history of right-sided otomastoiditis.
+     The tegmen tympani and the roof of the mastoid air cells on the right are not
+     well seen.  Given the technical limitations of this contrast-enhanced CT, if
+     there is clinical suspicion for intracranial extension of infection in the
+     patient with a right-sided otomastoiditis, a dedicated MRI with gadolinium is
+     recommended.
+     2.  No evidence of a drainable fluid collection within limited assessment of
+     the soft tissues adjacent to the right temporal bone.
+     
+                                                                 (Over)
+
+     DATE: [**2806-7-1**] 5:24 PM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 1381**]
+     CT RECONSTRUCTION
+     Reason: Please perform dedicated temporal CT to evaluate for bony in
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-07-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-1**] 5:24 PM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 1381**]
+     CT RECONSTRUCTION
+     Reason: Please perform dedicated temporal CT to evaluate for bony in
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS, Otititis Media with purulent drainage and possible 
+      bone involvement by CT sinus. He has low CD4 count.
+     REASON FOR THIS EXAMINATION:
+      Please perform dedicated temporal CT to evaluate for bony involvement. Temporal 
+      bone dedicated per [**Hospital Unit Name **].
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ORBITS, SELLA AND IAC WITH CONTRAST
+     
+     INDICATION:  37-year-old male with AIDS, low CD4 count, purulent discharge
+     from the right ear.
+     
+     TECHNIQUE:  Axial CT imaging of the temporal bones performed after the
+     intravenous administration of 150 cc of Optiray.  Non-ionic contrast was used
+     due to patient debility.  Additional reformatted imaging in the coronal plane
+     was also performed.  Reference made to a prior non-contrast study from the
+     previous day.
+     
+     CT OF THE TEMPORAL BONES WITH CONTRAST:  There is again seen complete
+     opacification of the right middle ear as well as the majority of the right
+     mastoid air cells.  The tegmen tympani and the roof of the mastoid air cells
+     within the right temporal bone are indistinct and not well identified on this
+     examination.  No other areas of definite bone destruction are identified.  The
+     ossicles are symmetric in appearance.  The structures of the inner ear are
+     also symmetric in appearance.  No areas of abnormal enhancement are identified
+     in the soft tissues surrounding the right temporal bone or in limited
+     assessment of intracranial structures adjacent to the right temporal bone.
+     
+     IMPRESSION:
+     1.  Opacification of the right middle ear and mastoid air cells that is
+     consistent with the patient's clinical history of right-sided otomastoiditis.
+     The tegmen tympani and the roof of the mastoid air cells on the right are not
+     well seen.  Given the technical limitations of this contrast-enhanced CT, if
+     there is clinical suspicion for intracranial extension of infection in the
+     patient with a right-sided otomastoiditis, a dedicated MRI with gadolinium is
+     recommended.
+     2.  No evidence of a drainable fluid collection within limited assessment of
+     the soft tissues adjacent to the right temporal bone.
+     
+                                                                 (Over)
+
+     DATE: [**2806-7-1**] 5:24 PM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 1381**]
+     CT RECONSTRUCTION
+     Reason: Please perform dedicated temporal CT to evaluate for bony in
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-2**] 3:13 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1382**]
+     MR [**Last Name (Titles) **] W &W/O CONTRAST
+     Reason: clarify extent of middle ear/tegmen involvement             
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with HIV and  R tegmen involvement of pseudomonas otitis media  
+     REASON FOR THIS EXAMINATION:
+      clarify extent of middle ear/tegmen involvement                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Multiplanar MRI of the brain using T1 and T2 sequences and
+     diffusion-weighted imaging.  Multiplanar imaging of the IAC'S with pre- and
+     post-gadolinium imaging.  Axial 3D-FIESTA images were corrupt and
+     nondiagnostic.
+     
+     FINDINGS:
+     
+     HISTORY:  37-year-old with HIV and sinusitis and mastoiditis.  The integrity
+     of the right tegmen tympani was questioned on prior CT'S.  Evaluate IAC'S.
+     
+     FINDINGS:  On today's examination, there is pansinusitis.  There is T2 signal
+     abnormality within all of the sinuses.  Minimal residual fluid remains within
+     the left mastoid air cells.  However, the right mastoid air cells are filled
+     with fluid.  These findings are consistent with a prior CT.  There is no
+     evidence of significant intracranial collection.  However, on the
+     post-gadolinium imaging, demonstrates asymmetric enhancement, pachymeningeal
+     enhancement, right greater than left.  This is the enhancement and thickness,
+     and the enhancement is most significant over the right tegmen tympani.  These
+     findings likely represent meningitis.  Dr. [**Last Name (STitle) **] [**Name (STitle) 1383**] was contacted with these
+     findings on [**2806-7-2**] at 5:30 p.m.
+     
+     The expected vascular flow Voids are present.  Specifically, the right sigmoid
+     sinus appears normal on this study.  The [**Doctor Last Name 63**]-white matter differentiation is
+     preserved.  There is no intracranial T2 signal abnormality.  The lateral
+     ventricles are normal in size and configuration.  There are no enhancing
+     intracranial masses.
+     
+     No areas of slow diffusion are identified.
+     
+     IMPRESSION:  Right sided pachymeningeal enhancement most prominent at the area
+     of the tegmen tympani.  Findings are consistent with meningitis.  No drainable
+     collections are noted.
+     
+     Pan sinusitis with right mastoiditis.
+                                                                           
+
+",,
+13584,24286,,,2806-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-2**] 3:13 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1382**]
+     MR [**Last Name (Titles) **] W &W/O CONTRAST
+     Reason: clarify extent of middle ear/tegmen involvement             
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with HIV and  R tegmen involvement of pseudomonas otitis media  
+     REASON FOR THIS EXAMINATION:
+      clarify extent of middle ear/tegmen involvement                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Multiplanar MRI of the brain using T1 and T2 sequences and
+     diffusion-weighted imaging.  Multiplanar imaging of the IAC'S with pre- and
+     post-gadolinium imaging.  Axial 3D-FIESTA images were corrupt and
+     nondiagnostic.
+     
+     FINDINGS:
+     
+     HISTORY:  37-year-old with HIV and sinusitis and mastoiditis.  The integrity
+     of the right tegmen tympani was questioned on prior CT'S.  Evaluate IAC'S.
+     
+     FINDINGS:  On today's examination, there is pansinusitis.  There is T2 signal
+     abnormality within all of the sinuses.  Minimal residual fluid remains within
+     the left mastoid air cells.  However, the right mastoid air cells are filled
+     with fluid.  These findings are consistent with a prior CT.  There is no
+     evidence of significant intracranial collection.  However, on the
+     post-gadolinium imaging, demonstrates asymmetric enhancement, pachymeningeal
+     enhancement, right greater than left.  This is the enhancement and thickness,
+     and the enhancement is most significant over the right tegmen tympani.  These
+     findings likely represent meningitis.  Dr. [**Last Name (STitle) **] [**Name (STitle) 1383**] was contacted with these
+     findings on [**2806-7-2**] at 5:30 p.m.
+     
+     The expected vascular flow Voids are present.  Specifically, the right sigmoid
+     sinus appears normal on this study.  The [**Doctor Last Name 63**]-white matter differentiation is
+     preserved.  There is no intracranial T2 signal abnormality.  The lateral
+     ventricles are normal in size and configuration.  There are no enhancing
+     intracranial masses.
+     
+     No areas of slow diffusion are identified.
+     
+     IMPRESSION:  Right sided pachymeningeal enhancement most prominent at the area
+     of the tegmen tympani.  Findings are consistent with meningitis.  No drainable
+     collections are noted.
+     
+     Pan sinusitis with right mastoiditis.
+                                                                           
+
+",,
+13584,24286,,,2806-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-2**] 3:13 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1382**]
+     MR [**Last Name (Titles) **] W &W/O CONTRAST
+     Reason: clarify extent of middle ear/tegmen involvement             
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with HIV and  R tegmen involvement of pseudomonas otitis media  
+     REASON FOR THIS EXAMINATION:
+      clarify extent of middle ear/tegmen involvement                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Multiplanar MRI of the brain using T1 and T2 sequences and
+     diffusion-weighted imaging.  Multiplanar imaging of the IAC'S with pre- and
+     post-gadolinium imaging.  Axial 3D-FIESTA images were corrupt and
+     nondiagnostic.
+     
+     FINDINGS:
+     
+     HISTORY:  37-year-old with HIV and sinusitis and mastoiditis.  The integrity
+     of the right tegmen tympani was questioned on prior CT'S.  Evaluate IAC'S.
+     
+     FINDINGS:  On today's examination, there is pansinusitis.  There is T2 signal
+     abnormality within all of the sinuses.  Minimal residual fluid remains within
+     the left mastoid air cells.  However, the right mastoid air cells are filled
+     with fluid.  These findings are consistent with a prior CT.  There is no
+     evidence of significant intracranial collection.  However, on the
+     post-gadolinium imaging, demonstrates asymmetric enhancement, pachymeningeal
+     enhancement, right greater than left.  This is the enhancement and thickness,
+     and the enhancement is most significant over the right tegmen tympani.  These
+     findings likely represent meningitis.  Dr. [**Last Name (STitle) **] [**Name (STitle) 1383**] was contacted with these
+     findings on [**2806-7-2**] at 5:30 p.m.
+     
+     The expected vascular flow Voids are present.  Specifically, the right sigmoid
+     sinus appears normal on this study.  The [**Doctor Last Name 63**]-white matter differentiation is
+     preserved.  There is no intracranial T2 signal abnormality.  The lateral
+     ventricles are normal in size and configuration.  There are no enhancing
+     intracranial masses.
+     
+     No areas of slow diffusion are identified.
+     
+     IMPRESSION:  Right sided pachymeningeal enhancement most prominent at the area
+     of the tegmen tympani.  Findings are consistent with meningitis.  No drainable
+     collections are noted.
+     
+     Pan sinusitis with right mastoiditis.
+                                                                           
+
+",,
+13584,24286,,,2806-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-12**] 8:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1384**]
+     Reason: Pneumonia                                                   
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with HIV/AIDS, c/b pancytopenia and fever 102.6                 
+     REASON FOR THIS EXAMINATION:
+      Pneumonia                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old man with HIV with pancytopenia and fever, to rule out
+     pneumonia.
+     
+     X-RAY CHEST, PORTABLE AP VIEW:
+     
+     COMPARISON:  [**2806-6-25**].
+     
+     FINDINGS:  The heart size is normal.  The mediastinal and hilar contours are
+     normal.  There is a small right-sided pleural effusion.  Patchy opacities are
+     seen in the left lower lobe.
+     
+     IMPRESSION:
+     1.  Patchy opacities in the left lower lobe which may represent early
+     pneumonia.  A followup chest x-ray is recommended.
+     2.  Small left-sided pleural effusion.
+                                                                           
+
+",,
+13584,24286,,,2806-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-14**] 12:15 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1385**]
+     Reason: eval: loculated infxn (note: contrasted head MRI ordered for
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37-year-old male with AIDS and persistent fevers                                
+     REASON FOR THIS EXAMINATION:
+      eval: loculated infxn (note: contrasted head MRI ordered for today, too)        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  AIDS and persistent fevers.
+     
+     TECHNIQUE:  Volumetric CT imaging of the chest was performed with 100 cc of
+     Optiray IV contrast.  Images were reconstructed at 5-mm intervals in standard
+     and high-spatial frequency algorithm, and at 1.25 mm in standard algorithm.
+     
+     COMPARISON:  Chest CT scan from [**2806-6-29**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is no new pathological axillary,
+     hilar, or mediastinal lymphadenopathy.  There is a stable small pericardial
+     effusion with low Hounsfield units.  There are new tiny bilateral
+     nonhemorrhagic posteriorly layering pleural effusions.  This is associated
+     with likely bibasilar atelectasis.  Atelectasis is slightly more extensive in
+     the left lower lobe posteriorly.  Areas of previously seen anterior right
+     middle lobe atelectasis or scarring have increased slightly in extent.  Small
+     (less than 3 mm) pulmonary nodules are again seen in the right upper lobe
+     (image 24), and in the left apex (image 11), which are stable.  There is a
+     linear band of opacity along the major fissure which is likely additional
+     atelectasis.  No ground-glass opacity or new opacity on the bronchovascular
+     bundles.  The bronchial wall thickening is unchanged.  Limited assessment of
+     the upper abdomen again shows dramatic splenomegaly.  No osseous lesions
+     suspicious for malignancy.
+     
+     IMPRESSION:
+     1.  New small bilateral posteriorly layering nonhemorrhagic pleural effusions.
+     Stable pericardial effusion.
+     2.  Increasing opacity in the left posterior lower lobe and in the anterior
+     right middle lobe laterally.  These have imaging findings consistent with
+     atelectasis.  Given the patient's HIV status and continued fever, pneumonia is
+     also of concern.  If the symptoms of fever persist despite appropriate
+     antibiotic treatment, COP is also on the differential diagnosis.
+     3.  Stable splenomegaly.
+                                                                           
+
+",,
+13584,24286,,,2806-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-14**] 8:12 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1388**]
+     Reason: ? SEEN ON MRI
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with subdural fluid collection noted on MRI                     
+     REASON FOR THIS EXAMINATION:
+      eval: subdural fluid collection                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV, meningeal enhancement on prior MRI, abnormality seen in
+     subdural space.
+     
+     COMPARISONS:  MR head done the same day.
+     
+     TECHNIQUE:  Axial non-contrast MDCT images were obtained through the head.
+     
+     CT HEAD WITHOUT IV CONTRAST:  There is an extraaxial, subdural collection
+     which corresponds to the abnormality seen on the previous MR overlying the
+     convexities of the right frontal and posterior parietal lobes.  They are of
+     isoattenuation to the surrounding parenchyma.  There is no significant mass
+     effect on the adjacent brain, and there is no shift of normally midline
+     structures.  Otherwise, there is no evidence of intracranial hemorrhage,
+     hydrocephalus, or edema.  The [**Doctor Last Name 63**]-white matter differentiation appears intact
+     throughout.  The complete opacification of the right-sided mastoid air cells
+     consistent with mastoiditis is again identified.  There is also pansinus
+     mucosal thickening.
+     
+     IMPRESSION:  Extraaxial, subdural collections overlying the right frontal and
+     posterior parietal lobes, which are isoattenuating to the adjacent brain. With
+     this patient's pansinusitis and mastoiditis, this is concerning for a subdural
+     empyema.  No significant mass effect on the adjacent brain parenchyma is seen.
+     
+     These findings were discussed with Dr. [**First Name8 (NamePattern2) 628**] [**Last Name (NamePattern1) 1389**] at the time of the study.
+
+",,
+13584,24286,,,2806-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-14**] 3:22 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1386**]
+     Reason: eval: meningeal enhancement (note: contrasted chest CT order
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37-year-old with HIV and sinusitis and mastoiditis, ? bilateral meningeal 
+      enhancement on prior study, with persistent fevers.
+     REASON FOR THIS EXAMINATION:
+      eval: meningeal enhancement (note: contrasted chest CT ordered for today, too)  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Meningeal enhancement on prior study, persistent fevers.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images pre- and post-gadolinium
+     contrast.  Comparison with MRI of the brain and internal auditory canal, [**7-2**], 2005.
+     
+     FINDINGS:  There is diffuse meningeal enhancement overlying the right cerebral
+     hemisphere.  Superiorly, there appears to be increased fluid in the subdural
+     space overlying the right frontal and right parietal regions. It is difficult
+     to characterize the subdural collection, but it has increased T1 and T2 signal
+     components, as well as internal susceptibility which suggests hemorrhage. In
+     part, however, this may be a proteiaceous collection, and therefore could be a
+     subdural empyema. The region also diffusely enhances. Right mastoid air cells
+     remain filled with fluid; there are scattered fluid- filled mastoid air cells
+     on the left, and the frontal sinuses.  Bilateral maxillary sinus, ethmoid
+     sinus, and sphenoid sinus mucosal thickening has improved.
+     
+     No abnormal signal intensity is seen within the brain parenchyma. The brain
+     appears structurally normal. Major arterial and venous flow voids are grossly
+     normal.
+     
+     IMPRESSION:
+     1.  Increased appearance of meningeal enhancement in the meninges overlying
+     the right cerebral hemisphere, consistent with meningitis.  Additionally,
+     an enlarged subdural fluid collection, particularly in the right frontal and
+     right parietal regions, has developed.  This may be a subdural empyema and
+     also have blood products within it.  A head CT would be helpful to identify
+     any recent hemorrhage.
+     2.  Unremarkable MRI appearance of the brain.
+     3.  Sinusitis in maxillary sinuses, ethmoid air cells, frontal sinuses, and
+     bilateral mastoid air cells (right greater than left).
+     
+     Preliminary findings were discussed with Dr [**Last Name (STitle) 1387**] by telephone at
+     approximately 5 o'clock p.m., [**2806-7-14**], who stated that the patient was
+     not acutely ill.
+                                                                 (Over)
+
+     DATE: [**2806-7-14**] 3:22 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1386**]
+     Reason: eval: meningeal enhancement (note: contrasted chest CT order
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-14**] 3:22 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1386**]
+     Reason: eval: meningeal enhancement (note: contrasted chest CT order
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37-year-old with HIV and sinusitis and mastoiditis, ? bilateral meningeal 
+      enhancement on prior study, with persistent fevers.
+     REASON FOR THIS EXAMINATION:
+      eval: meningeal enhancement (note: contrasted chest CT ordered for today, too)  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Meningeal enhancement on prior study, persistent fevers.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images pre- and post-gadolinium
+     contrast.  Comparison with MRI of the brain and internal auditory canal, [**7-2**], 2005.
+     
+     FINDINGS:  There is diffuse meningeal enhancement overlying the right cerebral
+     hemisphere.  Superiorly, there appears to be increased fluid in the subdural
+     space overlying the right frontal and right parietal regions. It is difficult
+     to characterize the subdural collection, but it has increased T1 and T2 signal
+     components, as well as internal susceptibility which suggests hemorrhage. In
+     part, however, this may be a proteiaceous collection, and therefore could be a
+     subdural empyema. The region also diffusely enhances. Right mastoid air cells
+     remain filled with fluid; there are scattered fluid- filled mastoid air cells
+     on the left, and the frontal sinuses.  Bilateral maxillary sinus, ethmoid
+     sinus, and sphenoid sinus mucosal thickening has improved.
+     
+     No abnormal signal intensity is seen within the brain parenchyma. The brain
+     appears structurally normal. Major arterial and venous flow voids are grossly
+     normal.
+     
+     IMPRESSION:
+     1.  Increased appearance of meningeal enhancement in the meninges overlying
+     the right cerebral hemisphere, consistent with meningitis.  Additionally,
+     an enlarged subdural fluid collection, particularly in the right frontal and
+     right parietal regions, has developed.  This may be a subdural empyema and
+     also have blood products within it.  A head CT would be helpful to identify
+     any recent hemorrhage.
+     2.  Unremarkable MRI appearance of the brain.
+     3.  Sinusitis in maxillary sinuses, ethmoid air cells, frontal sinuses, and
+     bilateral mastoid air cells (right greater than left).
+     
+     Preliminary findings were discussed with Dr [**Last Name (STitle) 1387**] by telephone at
+     approximately 5 o'clock p.m., [**2806-7-14**], who stated that the patient was
+     not acutely ill.
+                                                                 (Over)
+
+     DATE: [**2806-7-14**] 3:22 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 1386**]
+     Reason: eval: meningeal enhancement (note: contrasted chest CT order
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13584,24286,,,2806-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-14**] 12:15 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1385**]
+     Reason: eval: loculated infxn (note: contrasted head MRI ordered for
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37-year-old male with AIDS and persistent fevers                                
+     REASON FOR THIS EXAMINATION:
+      eval: loculated infxn (note: contrasted head MRI ordered for today, too)        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  AIDS and persistent fevers.
+     
+     TECHNIQUE:  Volumetric CT imaging of the chest was performed with 100 cc of
+     Optiray IV contrast.  Images were reconstructed at 5-mm intervals in standard
+     and high-spatial frequency algorithm, and at 1.25 mm in standard algorithm.
+     
+     COMPARISON:  Chest CT scan from [**2806-6-29**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is no new pathological axillary,
+     hilar, or mediastinal lymphadenopathy.  There is a stable small pericardial
+     effusion with low Hounsfield units.  There are new tiny bilateral
+     nonhemorrhagic posteriorly layering pleural effusions.  This is associated
+     with likely bibasilar atelectasis.  Atelectasis is slightly more extensive in
+     the left lower lobe posteriorly.  Areas of previously seen anterior right
+     middle lobe atelectasis or scarring have increased slightly in extent.  Small
+     (less than 3 mm) pulmonary nodules are again seen in the right upper lobe
+     (image 24), and in the left apex (image 11), which are stable.  There is a
+     linear band of opacity along the major fissure which is likely additional
+     atelectasis.  No ground-glass opacity or new opacity on the bronchovascular
+     bundles.  The bronchial wall thickening is unchanged.  Limited assessment of
+     the upper abdomen again shows dramatic splenomegaly.  No osseous lesions
+     suspicious for malignancy.
+     
+     IMPRESSION:
+     1.  New small bilateral posteriorly layering nonhemorrhagic pleural effusions.
+     Stable pericardial effusion.
+     2.  Increasing opacity in the left posterior lower lobe and in the anterior
+     right middle lobe laterally.  These have imaging findings consistent with
+     atelectasis.  Given the patient's HIV status and continued fever, pneumonia is
+     also of concern.  If the symptoms of fever persist despite appropriate
+     antibiotic treatment, COP is also on the differential diagnosis.
+     3.  Stable splenomegaly.
+                                                                           
+
+",,
+13584,24286,,,2806-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-20**] 11:41 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1390**]
+     Reason: eval: interval change                                       
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS, subdural fluid collections                           
+     REASON FOR THIS EXAMINATION:
+      eval: interval change                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old man with AIDS, subdural fluid collections.
+     
+     TECHNIQUE:  Head CT without intravenous contrast [**Doctor Last Name 116**].
+     
+     COMPARISON:  Head CT dated [**2806-7-14**].
+     
+     FINDINGS:  Again note is made of right frontal subdural fluid collection,
+     measuring 20 Hounsfield units, not significantly changed compared to the prior
+     study.  No evidence of new intracranial hemorrhage is seen.  No mass effect is
+     seen.  No shift of normally midline structure is noted.
+     
+     Right mastoid air cells are only partially pneumatized.
+     
+     IMPRESSION: 1)  Unchanged appearance of right subdural fluid collection,
+     measuring 20 Hounsfield units.
+                                                                           
+
+",,
+13584,24286,,,2806-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-23**] 1:36 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 1391**]
+     Reason: ELEVATED LFTS EVAL GB OR DUCTAL DZ
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with AIDS, dissem MAC, [**Hospital Unit Name **] infxns, now with rising Alk Phos 
+      (among other, more expected, elevated LFTs)
+     REASON FOR THIS EXAMINATION:
+      eval: GB or ductual dz                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old with HIV, disseminated MAC infection, and rising
+     alkaline  phosphatase as well as mild transaminitis.  Assess for biliary
+     pathology.
+     
+     COMPARISON:  [**2805-11-21**].
+     
+     FINDINGS:  The liver is normal in echogenicity without focal mass.  The
+     gallbladder is partially contracted, and there is a thickened gallbladder wall
+     measuring up to 5 mm.  No gallbladder wall edema or pericholecystic fluid is
+     seen.  There are no stones or sludge.  The common bile duct measures 3 mm.
+     There is no intrahepatic ductal dilation.  No free fluid is present in the
+     right upper quadrant.  Limited views of the right kidney are normal.  Views of
+     the head and body of the pancreas are normal.
+     
+     Color imaging demonstrates normal hepatopetal flow within the main portal
+     vein.  There was no sonographic [**Doctor Last Name 1392**] sign.
+     
+     IMPRESSION:
+     Thickened gallbladder wall, likely due to the patient's history of
+     hypoproteinemia and transaminitis.  No evidence of cholecystitis.
+     
+     
+     
+
+",,
+13584,24286,,,2806-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-25**] 9:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1393**]
+     Reason: ? effusion                                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       37 year old man with HIV/AIDS, s/p splenectomy                                 
+     REASON FOR THIS EXAMINATION:
+      ? effusion                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     379INDICATION:  37-year-old male with HIV, status post splenectomy, question
+     of pleural effusion.
+     
+     TECHNIQUE:  AP semi erect chest radiograph from [**2806-7-25**] is compared
+     with AP upright chest radiograph from [**2806-7-12**].
+     
+     The nasogastric tube and endotracheal tube are in satisfactory position. There
+     is increased mild-to-moderate bilateral pulmonary edema.  There is stable
+     moderate cardiomegaly.  There are no pleural effusions.  There is no
+     pneumothorax.  The mediastinal and hilar contours are unremarkable.
+     
+     IMPRESSION:
+     1.  Increased mild-to-moderate pulmonary edema with moderate cardiomegaly.
+     2.  No pleural effusions.
+
+",,
+13584,24286,16905,0,2806-07-26 17:49:00 EST,2806-07-26 17:57:00 EST,4226,"N",54,"Nursing/Other",,"
+
+TSICU BRIEF ADMIT NOTE:
+
+PT ADMITTED FROM PACU S/P SPLENECTOMY WITH APPROX 1 LITER EBL. HISTORY SIGNIFICANT FOR HIV, HERPES ZOSTER (CHIN) AS WELL AS PANCYTOPENIA REQUIRING FREQ. TRANSFUSIONS. ADMITTED TO HOSPITAL [**6-26**]. 
+
+HEMODYNAMICALLY STABLE UPON ARRIVAL. PLACED IN SICU BED AND ON MONITORING EQUPMENT. FAMILY IN AND UPDATED. PT'S PAIN WELL-CONTROLLED WITH DILAUDID PCA. REMAINS ON AMICAR UNTIL 8PM.
+
+NEURO: ALERT AND ORIENTED. MOVES WEAKLY.
+
+CV: SR WITH NO ECTOPY. BP BY A LINE, 90S-LOW100S SYSTOLIC.
+
+RESP: ON 4L VIA NC. LSC. ENCOURAGING COUGHING AND DEEP BREATHING.
+
+GI: ABD. ROUND, SOFTLY DISTENDED. NPO. NGT TO LCS WITH BILIOUS OUTPUT. MIDLINE INC. WITH DSD IN PLACE--SMALL AMOUNT SEROSANG OOZE STAINING. JP TO BULB SUCTION WITH SMALL AMOUNT SEROUS FLUID NOTED.
+
+GU: FOLEY WITH CLEAR YELLOW URINE.
+
+ENDO: NO CURRENT ISSUES.
+
+HEME: HCT AND PLATELETS STABLE. P-BOOTS. 
+
+SOCIAL: PARENTS IN AND UPDATED.
+
+PLAN: AMICAR UNTIL 8PM. PAIN CONTROL. MONITOR HCT LEVELS. EMOTIONAL SUPPORT AS NEEDED
+",,
+13584,24286,16905,,2806-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-27**] 10:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1394**]
+     Reason: ? pneumonia ? atelectassis                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        37 year old man with HIV/AIDS, s/p splenectomy        fever 101.6 post-op     
+                          
+     REASON FOR THIS EXAMINATION:
+      ? pneumonia ? atelectassis                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  37-year-old man with HIV, status post splenectomy and fever. Rule
+     out pneumonia, atelectasis.
+     
+     CHEST X-RAY, AP PORTABLE VIEW:
+     
+     COMPARISON:  [**2806-7-25**].
+     
+     FINDINGS:  The heart size is borderline normal.  There is decreasing pulmonary
+     edema.  Patchy opacities are seen in the right lower lobe suggestive of patchy
+     atelectasis/consolidation.  Left basilar atelectasis is seen.  There are no
+     pleural effusions.
+     
+     IMPRESSION:
+     
+     1.  Improving primary edema.
+     
+     2.  Patchy atelectasis/consolidation in the right lower lobe.
+     
+     3.  Persistent left basilar atelectasis.
+     
+     4.  Post-surgical clips noted in the left upper abdomen.
+
+",,
+13584,24286,16905,0,2806-07-27 03:33:00 EST,2806-07-27 03:54:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+
+ROS:
+
+neruo: Alert oriented x's 3. MAE x's 4. PCA dilaudid for pain control. Denies numbness/tingling in extremites. Dosing b/t assessments.
+
+CV: RSR w/o ectopy. VSS. Has left radial ABP line. Pitting edema in LE. Peripheral pulses palpable w/ease.  P boots on for dvt prophylaxis.
+
+Resp: O2 on at 4 l/[**Name6 (MD) 141**] [**Name8 (MD) 17**] np. Sats 95% or >. Lung sounds clear. Enc to cough and deep breath, does so fairly. No resp distress noted, = rise and fall of chest.
+
+GI: [**Hospital1 **] sump clamped post medicaton administration. Otherwise to lcws draining bile colored fluid. Abd soft and distended. Surgical dressing intact w/shadow drainage, no ^ in amt.Protonix for GI prophylaxis.
+
+GU: Foley patent drainig clear ambur urine in QS.
+
+Skin: Large scabbed area on chin. A+D oint applied per patient's request.
+
+Labs: None ordered at this time.
+
+Social: Parents here at beginning of shift.
+
+Plan: Mobilize, Pain management. Monitor, support. Transfer to floor bed.
+",,
+13584,24286,16905,0,2806-07-27 15:44:00 EST,2806-07-27 15:46:00 EST,4226,"N",54,"Nursing/Other",,"
+
+TSICU 7A-5P:
+
+SEE TRANSFER NOTE. PT TO TRANSFER TO CC7. NO CHANGE IN ASSESSMENTS. NGT DISCONTINUED. BETTER PAIN CONTROL--PCA DOSE DECREASED FOR EXCESSIVE SOMNOLENCE. PARENTS IN AND UPDATED. VITALS STABLE.
+",,
+13584,24286,16906,,2806-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-29**] 9:55 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1399**]
+     Reason: assess for interval change, new bleed                       
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37 year old man with hiv, right subdural fluid collection, coagulopathy, 
+      decreasing alertness
+     REASON FOR THIS EXAMINATION:
+      assess for interval change, new bleed                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV, right subdural fluid collection, coagulopathy, decreased
+     alertness.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     Comparison is made to the prior CT scans dated [**2805-7-20**] and [**2806-7-14**].
+     
+     FINDINGS:  There is again demonstrated small right frontal and parietal
+     subdural fluid collections, unchanged in size or density compared to the prior
+     study. There is no evidence of new intracranial hemorrhage.  The appearance of
+     the brain is unchanged compared to the recent prior study. There is no shift
+     of normally midline structures, mass effect or hydrocephalus.  The visualized
+     paranasal sinuses and osseous structures are unchanged with redemonstration of
+     multiple opacified right mastoid air cells as well as a few opacified left
+     mastoid air cells.  Pansinus mucosal disease is also demonstrated as described
+     previously.
+     
+     IMPRESSION:  Stable appearance of the brain including right frontal and right
+     parietal subdural collections.
+     Sinus and mastoid opacification as previously seen.
+
+",,
+13584,24286,16906,,2806-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-29**] 1:07 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 1396**]
+     Reason: line placement                                              
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         37 year old man with HIV/AIDS, s/p splenectomy        fever 101.6 post-op    
+                            
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 0115 HOURS.  
+     
+     HISTORY:  HIV AIDS, splenectomy, fever, line placement.
+     
+     IMPRESSION:  AP chest compared to [**7-27**] at 2249 hours:
+     
+     Interval increase in heart size and vascular congestion indicates diffuse
+     interstitial abnormalities most likely edema.  Small right pleural effusion is
+     stable.  Left subclavian line projects over the expected course to the SVC. 
+     No pneumothorax or evidence of mediastinal bleeding.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 1397**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1398**]
+",,
+13584,24286,16906,,2806-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-29**] 9:58 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1400**]
+     CT RECONSTRUCTION
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       37 year old man with  s/p splenectomy w/ arf, worsening mental status, abd 
+      pain                                                  
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      acute renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post splenectomy with acute renal failure, worsening
+     mental status, abdominal pain.
+     
+     Comparison is made to the prior CT scan dated [**2806-6-30**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.  Intravenous contrast was
+     withheld secondary to patient's history of acute renal failure.  Coronal and
+     sagittal reformations were also obtained.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The visualized lung bases
+     demonstrate interval development of bibasilar dependent atelectasis and small
+     bilateral pleural effusions.  A small amount of pericardial fluid is also
+     noted.  The patient is status post splenectomy with multiple surgical clips
+     seen in the splenectomy bed.  A JP drainage catheter is also noted in the left
+     upper quadrant.  Overlying skin staples are also noted.  High-density material
+     consistent with hemorrhage is demonstrated within the splenectomy bed.  This
+     measures up to 13.9 x 7.1 cm extending along the left flank to the level of
+     the mid pole of the left kidney.  A trace amount of free fluid is seen
+     extending to the pelvis.  There is no free intraperitoneal air.  There is
+     layering high-density material in the gallbladder, which could be consistent
+     with vicarious excretion of contrast or sludge.  The liver, pancreas,
+     adrenals, right kidney and unopacified loops of large and small bowel are
+     unremarkable on this noncontrast study.  A tiny calcification consistent with
+     a nonobstructing stone is demonstrated in the inferior pole of the left
+     kidney.  There is no hydronephrosis or perirenal stranding.  There are diffuse
+     changes in the subcutaneous tissues consistent with anasarca.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  A Foley is present within the
+     bladder.  The rectum, sigmoid are within normal limits.  There is no pelvic or
+     inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Interval splenectomy with high-density material seen in the splenectomy
+     bed consistent with hemorrhage.  Only a trace amount of free fluid is seen
+                                                                 (Over)
+
+     DATE: [**2806-7-29**] 9:58 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1400**]
+     CT RECONSTRUCTION
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     extending into the pelvis.
+     2.  Interval development of bibasilar atelectasis and effusions.
+     3.  Diffuse anasarca.
+
+",,
+13584,24286,16906,,2806-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-29**] 9:58 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1400**]
+     CT RECONSTRUCTION
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       37 year old man with  s/p splenectomy w/ arf, worsening mental status, abd 
+      pain                                                  
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      acute renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post splenectomy with acute renal failure, worsening
+     mental status, abdominal pain.
+     
+     Comparison is made to the prior CT scan dated [**2806-6-30**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.  Intravenous contrast was
+     withheld secondary to patient's history of acute renal failure.  Coronal and
+     sagittal reformations were also obtained.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The visualized lung bases
+     demonstrate interval development of bibasilar dependent atelectasis and small
+     bilateral pleural effusions.  A small amount of pericardial fluid is also
+     noted.  The patient is status post splenectomy with multiple surgical clips
+     seen in the splenectomy bed.  A JP drainage catheter is also noted in the left
+     upper quadrant.  Overlying skin staples are also noted.  High-density material
+     consistent with hemorrhage is demonstrated within the splenectomy bed.  This
+     measures up to 13.9 x 7.1 cm extending along the left flank to the level of
+     the mid pole of the left kidney.  A trace amount of free fluid is seen
+     extending to the pelvis.  There is no free intraperitoneal air.  There is
+     layering high-density material in the gallbladder, which could be consistent
+     with vicarious excretion of contrast or sludge.  The liver, pancreas,
+     adrenals, right kidney and unopacified loops of large and small bowel are
+     unremarkable on this noncontrast study.  A tiny calcification consistent with
+     a nonobstructing stone is demonstrated in the inferior pole of the left
+     kidney.  There is no hydronephrosis or perirenal stranding.  There are diffuse
+     changes in the subcutaneous tissues consistent with anasarca.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  A Foley is present within the
+     bladder.  The rectum, sigmoid are within normal limits.  There is no pelvic or
+     inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Interval splenectomy with high-density material seen in the splenectomy
+     bed consistent with hemorrhage.  Only a trace amount of free fluid is seen
+                                                                 (Over)
+
+     DATE: [**2806-7-29**] 9:58 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1400**]
+     CT RECONSTRUCTION
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     extending into the pelvis.
+     2.  Interval development of bibasilar atelectasis and effusions.
+     3.  Diffuse anasarca.
+
+",,
+13584,24286,16906,,2806-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-29**] 9:58 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1400**]
+     CT RECONSTRUCTION
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       37 year old man with  s/p splenectomy w/ arf, worsening mental status, abd 
+      pain                                                  
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      acute renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post splenectomy with acute renal failure, worsening
+     mental status, abdominal pain.
+     
+     Comparison is made to the prior CT scan dated [**2806-6-30**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed
+     without administration of intravenous contrast.  Intravenous contrast was
+     withheld secondary to patient's history of acute renal failure.  Coronal and
+     sagittal reformations were also obtained.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The visualized lung bases
+     demonstrate interval development of bibasilar dependent atelectasis and small
+     bilateral pleural effusions.  A small amount of pericardial fluid is also
+     noted.  The patient is status post splenectomy with multiple surgical clips
+     seen in the splenectomy bed.  A JP drainage catheter is also noted in the left
+     upper quadrant.  Overlying skin staples are also noted.  High-density material
+     consistent with hemorrhage is demonstrated within the splenectomy bed.  This
+     measures up to 13.9 x 7.1 cm extending along the left flank to the level of
+     the mid pole of the left kidney.  A trace amount of free fluid is seen
+     extending to the pelvis.  There is no free intraperitoneal air.  There is
+     layering high-density material in the gallbladder, which could be consistent
+     with vicarious excretion of contrast or sludge.  The liver, pancreas,
+     adrenals, right kidney and unopacified loops of large and small bowel are
+     unremarkable on this noncontrast study.  A tiny calcification consistent with
+     a nonobstructing stone is demonstrated in the inferior pole of the left
+     kidney.  There is no hydronephrosis or perirenal stranding.  There are diffuse
+     changes in the subcutaneous tissues consistent with anasarca.
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  A Foley is present within the
+     bladder.  The rectum, sigmoid are within normal limits.  There is no pelvic or
+     inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Interval splenectomy with high-density material seen in the splenectomy
+     bed consistent with hemorrhage.  Only a trace amount of free fluid is seen
+                                                                 (Over)
+
+     DATE: [**2806-7-29**] 9:58 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1400**]
+     CT RECONSTRUCTION
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     extending into the pelvis.
+     2.  Interval development of bibasilar atelectasis and effusions.
+     3.  Diffuse anasarca.
+
+",,
+13584,24286,16906,,2806-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-29**] 12:41 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 1395**]
+     Reason: Rule out portal and/or splenic vein thrombosis              
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      37M with AIDS/pancytopenia, s/p splenectomy [**7-25**]                                 
+     REASON FOR THIS EXAMINATION:
+      Rule out portal and/or splenic vein thrombosis                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  37-year-old with AIDS, pancytopenia, post splenectomy on [**7-25**]
+     with increasing drainage from the JP drain.
+     
+     COMPARISON:  [**2806-7-23**].
+     
+     FINDINGS:  The liver appears normal in echogenicity, though slightly coarse in
+     echotexture.  No focal hepatic mass is identified.  The gallbladder wall is
+     slightly thickened, but there are no stones or sludge.  The common bile duct
+     measures 4 mm.  There is no intrahepatic ductal dilation.  There is no
+     pericholecystic fluid or gallbladder wall edema.  Limited views of the head of
+     the pancreas and body of the pancreas appear normal.  The right kidney
+     measures 13.6 cm, and left kidney measures 14.8 cm.  There is no
+     hydronephrosis, stone, or mass in either kidney.  Both kidneys demonstrate
+     slightly increased cortical echogenicity.  No significant free fluid is seen
+     within the abdomen.  There is a right pleural effusion.
+     
+     Pulsed color Doppler examination of the hepatic vasculature demonstrates
+     normal color-flow with normal waveforms within the right, left, and middle
+     hepatic veins as well as the left, right, and main portal veins.  Flow within
+     the portal vein is hepatopetal.  The splenic vein demonstrates normal color-
+     flow at the confluence with the portal vein.  The more distal splenic vein was
+     difficult to visualize.
+     
+     IMPRESSION:
+     
+     1.  Increased echogenicity of both kidneys consistent with the patient's
+     history of renal failure and underlying renal parenchymal disease.
+     
+     2.  No evidence of portal, hepatic, or splenic vein thrombosis.
+     
+     3.  No significant ascites within the abdomen.
+     
+     These findings were discussed with the surgical housestaff caring for the
+     patient at the completion of the examination.
+
+",,
+13584,24286,16906,0,2806-07-29 04:12:00 EST,2806-07-29 04:25:00 EST,6232,"N",54,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Pt transferred to TSICU from CC7 at ~0015.  Central line placed for monitoring of fluid status.  Pt traveled for ultrasound without complication.
+
+Neuro - Pt AAO x3, somewhat anxious.  Pt given 1 mg Ativan prior to central line placement and slept most of the night.
+
+CV - SR to ST without ectopy.  Peripheral pulses strong.  Large amount of LE edema.  SBP 110s to 120s by cuff.  CVP >10.
+
+Resp - Lungs clear, diminished in bases.  O2 sat >95% on 4L NC.  
+
+GI - NPO x meds.  Abdomen soft, tender.  Incision with staples intact.  JP to self suction with copious amounts thin red fluid.
+
+GU - Oliguric (~15cc/8 hours).  UA sent.
+
+Endo - No sliding scale insulin coverage needed.
+
+A - Adequate fluid status.  Acute renal failure, essentially anuric.
+
+P - Continue to monitor fluid status and vital signs.  Consider correcting PTT.  Monitor electrolytes in setting of renal failure.
+",,
+13584,24286,16906,0,2806-07-29 16:38:00 EST,2806-07-29 16:49:00 EST,4370,"N",54,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+NEURO: Pt A+Ox3, however mentation noted to decline throughout shift. By mid afternoon, noted that pt needed things to be repeated frequently and parents feel as though he is ""looking through them."" Pt does track to speaker, however is slow to respond when questions asked. MAE, follows commands. Pt noted to have coarse parkinsonian-like tremoring with upper extremities and very little dexterity.  Family states this is not baseline, and pt was not doing this last night. Dilaudid PCA 0.25/6/1.5 with effect. 
+
+RESP: LS clear and slightly diminished. Sats 94-98% on 4LNC.
+
+CV: HR 90s NSR, no ectopy noted. BP 110s-130s/50s-70s.
+
+HEME: 1u PRBC's transfused this AM d/t Hct of 27 and low u/o.  Post transfusion Hct 31, pt remains oliguric. PTT 50s-60s. Pt has many lesion sites which are scabbed over, however bleed with any irritation. Pt noted to have spontaneous nosebleed x 1 today...resolved with mild pressure. 
+
+GI: Abd distended, tender to touch. JP to wall suction d/t high output. Adv to house diet today, however pt does not wish to eat. Tol sips of clears, occasionally c/o ""waves of nausea."" Loose BM x 2.
+
+GU: U/O [**4-25**], despite 1L fluid bolus, 40mg lasix, and bld transfusion. IVF kvo'd. BUN/creat increasing. K+ WNL at this time. Renal team in to eval, all meds changed to renal dosing. ?Dialysis tomorrow if no improvement per Renal Fellow.
+
+ID: Afebrile this shift. Pt with h/o pancytopenia. See med sheet for anti-retroviral and abx meds.
+
+ENDO: No coverage needed per RISS.
+
+SKIN: Pt has many lesions to face and mouth, all of which he c/o ""hurts"" when care applied. Buttocks with beginning red nonblanchable erythema. Trace edema to BLE.
+
+SOCIAL: Family at bedside and updated on POC.  Aware of potential need for dialysis.
+
+ASMT: Pt s/p splenectomy complicated by oliguria and alteration in fluid and electrolyte balance.
+
+PLAN: Cont to monitor vs and neuros, pain mgmt, skin care, monitor labs and monitor for s/s bleeding, address need for nutrition with team if poor intake continues, monitor I/O's and ?anticipate dialysis if no improvement in renal functioning.
+",,
+13584,24286,16906,,2806-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-30**] 2:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1401**]
+     Reason: assess interval change, L lung coarse breath sounds         
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          37 year old man with HIV/AIDS, s/p splenectomy        fever 101.6 post-op   
+                              
+     REASON FOR THIS EXAMINATION:
+      assess interval change, L lung coarse breath sounds                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST ON [**7-30**] AT 14:29 HOURS.
+     
+     HISTORY:  37-year-old man with AIDS following splenectomy, fever.
+     
+     IMPRESSION:  AP chest compared to [**2806-7-29**]:
+     
+     Pulmonary edema has improved dramatically and mediastinal vascular engorgement
+     has decreased accordingly.  Left lower lobe consolidation persists and could
+     represent either atelectasis or pneumonia.  Nasogastric tube passes into the
+     stomach.  Left subclavian line tip projects over the left brachiocephalic
+     vein.  No pneumothorax.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 1397**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1398**]
+",,
+13584,24286,16906,0,2806-07-30 04:46:00 EST,2806-07-30 05:07:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+Significant events: CT of head unchanged, CT ABD sm amt of blood in spleenectomy bed.
+
+ROS: 
+
+Neuro: Grossly exagerated movements of UE. Does not answer questions when asked, has blank stare.  Is able to tell name, but not answering any other questions. MAE x's 4. Dilaudid pca for pain mngt.
+
+CV: RSR->ST w/o ectopy. VSS. Peripheral pulses palpable. Gross pitting edema in extremities. Has left subclavian MML w/distal port transduced for cvp 4-8. Bleeding at insertion site, dressing reinforced as not to disturb clot. P boots for DVT prophylaxis.
+
+Resp: O2 at 4 l/min, sats 94% or >.  No resp distress noted, = rise and fall of chest. Lung sounds clear. Productive cough, bringing up thick blood streeked sputum.  
+
+GI: Abd round soft and very tender to touch. Active bowelsounds. Nausea post medication administration. No stool or flatus.
+
+GU: Foley patent draining scant amt of dark ambur urine. BUN/Creat trending ^.
+
+Lytes: stable
+
+Labs: Hct 29, wbc 29, plts 64.
+
+Social: No contact from family/friends
+
+Plan: Further renal evaluaton/planning. Comfort. Mobilize. Pulmonary toileting.
+
+",,
+13584,24286,16906,0,2806-07-30 18:45:00 EST,2806-07-30 19:01:00 EST,4370,"N",54,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+NEURO: Pt alert, focuses on speaker but does not answer questions.  Pt with worsening mental status over the course of the day. By late afternoon, pt had violent, spastic cough and continued to grunt and yell out incomplete sounds. Frequently sitting up in bed and face visibly red from agitation. Status did not resolve with dilaudid IV. NH4 level elevated, renal attending states possible asterixis. 
+
+RESP: Stable over course of day on 4LNC. Violent spastic cough producing thick yellow/blood tinged secretions. Family states this has been pt's baseline for approx 8months. Pt electively intubated for airway protection/worsening mental status at 1815. Intubation procedure without incidence. Awaiting for HO to place art line to obtain ABG. Sats 94-98%. LS clear.
+
+CV: HR 100s-130s ST no ectopy noted. BP 110s-130s/70s.  
+
+HEME: Hct slowly declined. Pt with increased nose bleeds, bleeding from oral ulcers, IV sites, and surgical incision. Labs drawn prior to intubation returned with PTT 119 and INR 1.6. HO Dr. [**Last Name (STitle) 1308**] in to eval. Plt level pending. 
+
+GI: Abd distended. NGT placed this AM by Dr. [**Last Name (STitle) 1308**] for meds. NGT placed to LCS and had large amt of coffee ground output. Pt had very large loose BM post intubation. Unable to place rectal bag d/t amt and pt did not retain mushroom cath. TPN to start tonight. 
+
+GU: Pt oliguric/anuric for entire shift. Dialyzed today and 500cc fluid removed. Post dialysis labs pending. 
+
+ID: AFebrile. All HIV meds d/c'd d/t ?possible source of ARF.
+
+ENDO: No coverage needed per RISS.
+
+SKIN: Bleeding from sites as noted above. Small stage II noted to buttocks. 
+
+SOCIAL: Parents at bedside. Spoke with Dr. [**First Name (STitle) **] at length regarding pt's wishes and possible need for intubation. Family updated on pt's progress and potential prognosis. States that pt ""would want to be able to get better and go back to work."" Decided to electively intubate for comfort and then re evaluate status after [**12-18**] more days of dialysis. ?CMO if pt not improved. 
+
+ASMT: Pt s/p splenectomy complicated by alteration in renal functioning requiring dialysis. Electively intubated for comfort/airway protection. 
+
+PLAN: Cont to monitor, maintain comfort/sedation, monitor labs and correct coags, dialyze as needed, re-address code status with family if no improvement or poor outcome predicted.
+",,
+13584,24286,16906,,2806-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2806-7-31**] 5:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1402**]
+     Reason: s/p ETT placement                                           
+     Admitting Diagnosis: PEDAL EDEMA,HYPOKALEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           37 year old man with HIV/AIDS, s/p splenectomy        fever 101.6 post-op  
+                                
+     REASON FOR THIS EXAMINATION:
+      s/p ETT placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  AIDS, splenectomy, fever.  Check ET tube placement.
+     
+     IMPRESSION:  AP chest compared to chest films since [**7-25**], most recently
+     [**7-30**] at 1429 hours:
+     
+     Mild pulmonary edema persists.  Left lower lobe consolidation present since
+     [**7-27**] could be pneumonia or atelectasis.  Small bilateral pleural
+     effusions are residual from congestive heart failure.  The heart is normal in
+     size.  ET tube and left subclavian lines are in standard placements. 
+     Nasogastric tube should be advanced several centimeters to move all the side
+     ports into the stomach.  Clips denote prior surgery in the left upper
+     abdominal quadrant where a drain has also been placed.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 1397**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1398**]
+",,
+13584,24286,16906,0,2806-07-31 04:10:00 EST,2806-07-31 04:37:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+ROS:
+
+Neuro: Sedated on propofol. PEARRLA. Fentanyl gtt at 25 mcg/hr for pain mngt. 
+
+CV: RSR w/o ectopy. SBP low of 75 unresponsive to blood administration, neo started and titrated to keep SBP > 100 and MAP > 60. Peripheral pulses palpable. ABP line started in left radial art by Dr [**Last Name (STitle) 1308**], HO. Has left subclavian MML w/cvp port transduced for cvp 8-15. Extremities edematous. P boots for dvt prophylaxis.
+
+Resp: Intubated and on vent AC 12x500, peep 8, 40%. Over breathing vent at times. Lung sounds diminished throughout. Sx clear w/blood streeked. Sats 95-100%. No resp distress noted, = rise and fall of chest.
+
+GI: [**Hospital1 **] sump to LCS when not clamped post medication administration, draining dark blood to coffee grounds. Abd soft and distended. Midline abd incision w/staples, mid section now w/hard firm area, HO, Dr [**Last Name (STitle) 1308**] aware. Bloody drainage stopped. Protonix for GI prophylaxis. Abd JP w/dark bloody drainage.
+
+GU: Foley patent draining brown urine in scant amt, even less so then last noc. BUN/Creat down slightly from yesterday. Received hemodialysis yesterday.
+
+Endo: FSG not requiring coverage from RSSI.
+
+Heme: Hct 27, transfused w/1 UPRBC, hct down to 26.9. Transfused w/2nd unit PRBCs. Plts stable.
+
+Coag: PTT down to 75 from 114. INR 1.5. SFP pending. D dimer over 4,000.
+
+Social: Parents in at beginning of shift.
+
+Plan: Continue to monitor and support. Comfort/reassurance. Wean vent as abgs support. ? dialysis today. 
+
+
+
+
+",,
+13584,24286,16906,0,2806-07-31 06:08:00 EST,2806-07-31 06:10:00 EST,3928,"N",54,"Nursing/Other",,"
+
+pt remained on A/C through PM. FiO2 was weaned via ABG analysis. pt was sx'd for minimal secretions. No RSBI done this AM due to pt being very ill and unlikely to wean.
+",,
+13584,24286,16906,0,2806-07-31 16:29:00 EST,2806-07-31 16:44:00 EST,5251,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on PSV.  Pt noted to be extremely dysynchronous on A/C although ABG acceptable, and was tried on PSV which pt tolerate better.  Currently on +10PSV/+8PEEP w/ Vt ~700 RR ~10 maintaining Ve ~7L.  BLBS slightly coarse, suctioned for scant amounts of blood tinged secretions.  SpO2 remained 90s.  See resp flowsheet for specific vent settings/data/changes.
+
+Plan: maintain support
+",,
+13584,24286,16906,0,2806-07-31 16:34:00 EST,2806-07-31 16:53:00 EST,4370,"N",54,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+NEURO: Pt sedated on propofol/fentanyl gtt. Grimaces to facial/mouth care. Weakly withdraws extremities. No spontaneous movement noted.\
+
+RESP: Pt discoordinate with vent on assist control in AM. Changed to CPAP+PS; pt appears to be breathing more comfortably. ABG essentially unchanged from previous mode; reflects compensated combined acidosis. Sats 97-100%. LS diminished. Suctioned for thick secretions, however not suctioned frequently d/t bleeding (pt is coagulopathic) and amt of blood noted in secretions. 
+
+CV: HR 80s-90s NSR no ectopy noted. Neo gtt at 1-1.3mcg/kg/min to keep MAP > or equal to 60. Renal teams states would rather support BP with pressors as opposed to fluid if needed during dialysis.
+
+HEME: Hct decreased to 26 from 28. Serial hct's q6. Next draw due at 2000.  PTT decreased from 72 to 38 after 1u FFP. INR slowly trending down. Plts pending. 
+
+GI: Abd less distended when compared to yesterday's exam by this RN. Firm area under staples noted to middle of incision. Pt started on trophic TF: Vivonex full str at 10cc/hr. No BM this shift. 
+
+GU: Anuric all shift. Dialyzed today (not completed as of yet...see carevue for amount of fluid removal). 
+
+ID: Afebrile. All HIV meds dc'd. 
+
+ENDO: [**Last Name (un) **] stim test done today. Results pending. No coverage per RISS.
+
+SKIN: Stage II pressure sore to coccyx; duoderm applied. Bleeding from all incision and access sites. 
+
+SOCIAL: Family spoke collectively with this RN ICU, Renal, and Gen [**Doctor First Name 146**] team today at length about POC and pt's wishes.  Family states they do not want support to ""go on forever."" Pt made DNR today (no CPR) and family wants to wait until the middle of the week. If no improvement in mental status after a few more dialysis sessions, family states they would like to re-address CMO/withdrawal of care options with teams. 
+
+ASMT: Pt with advanced HIV, s/p splenectomy complicated by alteration in renal functioning requiring hemodialysis. Alteration in clotting factors. Decompensating mental status yesterday required intubation for comfort/airway protection. 
+
+PLAN: Cont to monitor vs, maintain sedation/comfort, monitor labs, dialysis, skin care, ?CMO/withdrawal of care if family feels there is no improvement by mid week. 
+
+",,
+13584,24286,16906,0,2806-08-01 06:32:00 EST,2806-08-01 06:43:00 EST,3660,"N",54,"Nursing/Other",,"
+
+nsg note: 1900 [**7-31**] to 0700 [**8-1**]
+  
+pt sedated on propofol and fentanyl gtts. lightened this am for check .Opened eyes to voice, grasped on command very calm but would not communicate by nodding head yes and no. occasional andom slight movement of limbs noted. but usually flaccid. both legs very heavy with pitting edema. 
+
+on neosynephrine titration. at present on .5mcgs/min to maintain map >60. hr 80's sinus rythym no ectopy. cvp 15 this am higher during night but base line fluctuatiing.
+
+tol tube feeds at 10ccs per hr no stool abd softly distended active bowel sounds. remains on tpn, no insulin requirements.
+
+on vent cpap with rate 11 to 12 and tv's 500's to 600's lungs clear to deminished, scant sputum. sats adequate. abg showed adequate ventilation.
+
+abd incision c and d. pt oozing bloody drainage around line sites, jp, lt sc triple lumen and rt fem dialysis cath.
+
+jp draining lg amts of ser/sang drainage.
+
+parents left for night no communiction with them this am.
+
+a stable on neo titration. continues to ooze from sites but not face
+
+p dialyse today, support on vent, keep sedated
+",,
+13584,24286,16906,0,2806-08-01 15:13:00 EST,2806-08-01 15:15:00 EST,4435,"N",54,"Nursing/Other",,"
+
+Resp Care
+
+
+Pt remains on PSV with adequate abg's.  BS are diminished to coarse when suctioning is required.
+",,
+13584,24286,16906,0,2806-08-01 16:28:00 EST,2806-08-01 16:36:00 EST,7348,"N",54,"Nursing/Other",,"
+
+Neuro: Sedated this am. Propofol/Fentanyl gtt. 1400 Decreased sedation and off propofol. Pt able to squeeze hands bilat to command. Unable to wiggle toes. Family to visit and talking to him. Pt opened eyes and nodded head when spoken too. After turning pt, pt started coughing and then oozing SS drainage. Pt resedated for comfort. Propofol at 30mcg/kg/min.
+CV: Neo decreased as tolerated. See flow sheet.
+Resp: Pt continues on CPAP. tolerated well. ABG's checked. Pt suctioned after turning and coughing at 1400. thick white sputum. Mouth suctioned. bloody drainage.
+GU: Hemodialysis done today. Recieved 2 units of PRBC's. Pt tolerated well. 
+Skin: Pt still cont to ooze blood from JP site, abd incision and HD catheter. Dr. [**First Name (STitle) **] aware. Checking plts and PTT, PT. Will cont to monitor.
+",,
+13584,24286,16906,0,2806-08-01 17:47:00 EST,2806-08-01 17:49:00 EST,7348,"N",54,"Nursing/Other",,"
+
+Pt now oozing more blood from abd incision and JP drain. PTT/PLTs checked. Dr. [**Last Name (STitle) 4985**] aware and into examine pt.
+",,
+13584,24286,16906,0,2806-08-01 17:58:00 EST,2806-08-01 17:59:00 EST,7348,"N",54,"Nursing/Other",,"
+
+Addition to note below: PT oozing despite surgicell applied to incisins. 2 unit FFP ordered.
+",,
+13584,24286,16906,0,2806-08-02 05:34:00 EST,2806-08-02 05:50:00 EST,3570,"N",54,"Nursing/Other","TSICU NPN 11p-7a","
+TSICU NPN 11p-7a
+S/O
+
+Neuro - pt opens eyes spontaneously and to voice over night, con't to be sedated on propofol 20-30mcgs/kg/min and fentanyl 25-50mcgs/hr over night.  When lighter pt very weakly follows commands w/ upper extremities, no real movement of lower exts to command. PERL. 
+
+CV- pt in sinus, slightly tachy when light up to 100-115, at rest 90-100, no ectopy, BP stable, Neo weaned off and MAP remains greater than 60.  Hct decreased this AM to 26, down from post transfusion hct of 29 yesterday PM.  DDAVP 30mcgs given at 11:45pm yet no change in bleeding over night.  Pt con't to ooz large amt sanguinous fluid via left JP to wall suction as well as via midline incision and around line sites.
+
+Resp- no vent changes over night, pt on CPAP of 8 w/ 8 of PEEP and 50%, RR 14-20 nonlabored w/ TV's of 700-825cc's.  BS's clear in upper lobes bilaterally yet decreased at bases, suctioned for scant amt secretions.
+
+GI- pt getting TF's of vivonex at 20-30cc's hr, aspirates increased slightly this AM at 70cc.  Abd soft except for area of oozing on midline incision, this area is firm for about 4cm in diameter.  No stool this shift.  Pt con't on TPN
+
+GU- minimal brown urine, creat 4.7 this AM.
+
+Endo- no coverage required.
+
+ID- t max 99.5
+
+Skin- impaired around mouth and chin w/ scabbed over ulcers, duoderm intact on back side, otherwise back intact.
+
+A/P- pt unchanged over night, tolerating having neo off, creat still elevated despite dialysis times two.  Following some commands.
+",,
+13584,24286,16906,0,2806-08-02 14:46:00 EST,2806-08-02 14:47:00 EST,3492,"N",54,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, no vent changes made at this time.
+",,
+13584,24286,16906,0,2806-08-02 15:28:00 EST,2806-08-02 15:41:00 EST,3952,"N",54,"Nursing/Other",,"
+
+See carevue for objective data.
+
+Sedated on proprofol/fentanyl. Follows commands majority of the time when lightened. Grimaces with dressing changes to abdomen-fentanyl increased.
+NSR/ST with non-labile BP off of neo. Tolerated HD today. Lytes drawn 3 hours after HD pending. Received (1)U PRBC's and (2)6 packs of platelets. Repeat plts one hour after tx 161. DDAVP given as well-oozing from abd slightly improved after above measures. JP drain to suction with approximately 500cc's of serosangious fluid in 12 hours. HCT 27 after unit of RBC's. 
+TF changed to nepro at 20cc's an hour. Minimal residuals. Abd distended with hypoactive BS. No BM.
+No changes on vent. Minimal blood tinged secretions.
+Abd requiring Q2-3H dressing changes due to blood soaked dressing-oozing from one area between staples. JP drain also oozing.
+Edema remains. Frequent turning and skin care. Duoderm intact on coccyx.
+Parents in most of day and updated on POC. Aware of grim prognosis and supported.
+
+
+
+",,
+13584,24286,16906,0,2806-08-03 04:51:00 EST,2806-08-03 05:10:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+ROS: 
+
+Neuro: Sedated on propofol. Fentanyl gtt on for pain mngt. Facial grimicing w/cares. Withdraws to pain and eyes open slightly to painful stim. PEARRLA. Nothing to command or spontanious movements.
+
+CV: Sinus tach w/o ectopy. VSS. Has left radial ABP line, left subclavian MML w/old dry blood soaked dressing under occlusive dressing, left intact as to not disturb clot. CVP 10's.  Has right femoral dialysis cath w/constant bleeding from site, unable to keep occlusive dressing in place. Soaking washcloth q 2-3 hours. Peripheral pulses in LE difficult to feel d/t edema. Pulses palpable w/ease in UE.  P boots on for dvt prophylaxis.
+
+Resp: Remains orally intubated and on vent. Lung sounds clear. No resp distress noted, = rise and fall of chest. PCO2 trending ^, 51 this AM. Sats 97-98%. Sx thick blood streeked phlegm from ETT.
+
+GI: Abd firm/dist w/active BS throughout. Midline abd incision intact w/staple. Very firm in middle section of incision w/small area draining large amt of bloody fluids. Area covered w/drainage collection bag to body fluid mngt. Drainage decreased once bag applied. Has JP to LCWS.  Large amt of drainage from around JP insertion site at beginning of shift, decreased in amt significantly after 0100. [**Hospital1 **] sump via left nare w/TF infusing at 40cc/hr, w/minimal residuals. No GI prophylaxis.
+
+GU: Foley patent drained 25 cc of dark icturic urine. BUN/Creat remain ^.
+
+Endo: FSG not requiring coverage from RSSI.
+
+Heme: Hct down to 22.9
+
+Lytes: WNL
+
+Social: Parents here at beginning of shift. Will return around noon today.  Please call them at # on board if meeting scheduled before noon. Tenitively scheduled at noon today.
+
+Plan: ? Dialysis, Transfusions, Dose w/DDAVP x's 1 this AM. Awaiting premarin from pharmacy for platelet stimulation. Parents expecting team meeting today. to discuss CMO.  
+",,
+13584,24286,16906,0,2806-08-03 05:07:00 EST,2806-08-03 05:09:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on IPS8 overnoc. VT 800-1L, RR 12. RSBI 22 this am. Maintain current vent settings.
+",,
+13584,24286,16906,0,2806-08-03 17:29:00 EST,2806-08-03 17:46:00 EST,5248,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Please refer to CareVue for details.
+
+EVENTS TODAY:
+Family meeting attended.  Pt is now for comfort measures only.
+
+Please see flowsheet for review of systems.
+
+RESP:
+Extubated at 1700hrs.  Having some labored resps, morphine infusion prn.  Slight oral secretions, unable to suction from mouth.  Now having shallow resps.  
+
+HEMODYNAMICALLY:
+Continues to bleed from femoral line site, towels reinforcing.  Team aware of HCT, no transfusions today due to plan of care.
+
+NEURO:
+Woken today for neuro exam, pt intermittantly obeying commands and moving arms with severe weakness.  Anxious and grimacing, so changed to morphine infusion, and pt more comfortable with this.  
+
+FLUIDS: 
+TPN discontinued and LR at KVO rate.
+
+GI:
+Abd distended and tender on palpation.  Was taking tube feeds, not advanced due to plan, and now NGT has been removed.  JP drain has drained 400mls bloody output today with slight oozing from midline abd incision.
+
+ID:
+Nursed with contact precautions.
+
+RENAL:
+Minimal urine output, urine is brown and has sediment.  Seen by renal, not for HD today due to plan of care.
+
+SKIN:
+Please see CareVue for details.
+
+SOCIAL:
+Mother and father here, met with team and social work, and have informed other family members of plan of care.  Many friends visiting.  Declining pastoral care visit.
+
+PLAN:
+Continue to titrate morphine to comfort, continue support for family and friends. 
+
+",,
+13584,24286,16906,0,2806-08-03 19:43:00 EST,2806-08-03 19:46:00 EST,4330,"N",54,"Nursing/Other",,"
+
+At 1928 monitor shows asystole and no palpable pulse or respirations noted. Family/friends at side. Pronouced dead by [**First Name4 (NamePattern1) 205**] [**Last Name (NamePattern1) 1639**] MD. Support to family/friends. Postmort cares provided. Body to morgue. Personal belongings home w/family.
+",,

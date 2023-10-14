@@ -1,0 +1,1379 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13745,2786,,,3069-12-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3069-12-10**]       Discharge Date:  [**3069-12-21**]
+
+Date of Birth:   [**3004-3-4**]       Sex:  F
+
+Service:  HEPATOBILIARY SURGERY SERVICE
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 65 year-old
+female who underwent right colectomy on [**3069-5-4**] for a
+moderately differentiated adenocarcinoma that extended
+focally to the serosa.  The patient had a follow up CT scan
+on [**3069-10-22**] and a PET scan on [**10-30**], which
+demonstrated focal FDG activity on the right lobe of the
+liver suspicious for metastatic disease.  On review of the
+PET scan lesion appeared to be ______ segment of the right
+lobe.  MRI on [**11-19**] demonstrated 2.5 cm focus of
+increased signal of the right lobe predominantly ______
+abutting superior margin of segment six, suspicious for
+metastatic disease.  Also an additional subcentimeter
+intrahepatic lesion within segment three difficult to
+characterize, because of the size.  No adrenal mass was seen.
+She was presenting for an elective hepatic resection.
+
+ALLERGIES:  Codeine, Percocet, Percodan, Cipro, intravenous
+contrast and Keflex.
+
+CURRENT MEDICATIONS:
+1.  Hydrochlorothiazide 12.5 mg po q day.
+2.  Lopressor 75 mg po b.i.d.
+3.  Propulsid 20 mg po q.i.d.
+4.  Prilosec 20 mg po b.i.d.
+
+SOCIAL HISTORY:  The patient denies a history of alcohol use
+and admitted to a sixty pack year smoking history.  Denies
+the use of other drugs.
+
+PAST MEDICAL HISTORY:
+1.  Colon cancer.
+2.  Hypertension.
+
+PAST SURGICAL HISTORY:  Cholecystectomy in [**3028**], bladder
+suspension 1993, two breast nodule excised in [**3060**] and a
+history of spinal fusion.  The patient also has a right
+hemicolectomy as noted above.
+
+PHYSICAL EXAMINATION:  The patient was afebrile.  Vital signs
+were stable.  Her abdomen had normal bowel sounds, well
+healed midline abdominal incision.  No hepatosplenomegaly,
+masses or tenderness.
+
+HOSPITAL COURSE:  The patient underwent a segment seven and
+segment three resection with an intraoperative ultrasound on
+[**3069-12-10**].  She tolerated the procedure well.  The patient had
+a postoperative course, which was complicated by respiratory
+distress, which occurred on [**3069-12-15**].  The patient was
+transferred to the Intensive Care Unit, aggressively diuresed
+and ruled out for myocardial infarction and continued to
+improve returning back to baseline tolerating a regular diet,
+ambulating well with good O2 saturations.  She was
+transferred back out to the floor on postoperative day number
+eight and was felt to be ready for discharge on postoperative
+number eleven with O2 saturations back up to 96% on room air.
+ The patient is afebrile with vital signs stable.  Abdomen
+soft, nontender, nondistended with one JP in place with
+serosanguinous drainage to be discontinued at an office
+follow up with Dr. [**First Name (STitle) 339**].  The patient was discharged to
+home.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIAGNOSES:
+1.  Status post segment three and seven liver resection
+secondary to metastatic colon cancer.
+2.  Hypertension.
+3.  Chronic obstructive pulmonary disease.
+4.  Aortoiliac occlusive disease.
+5.  Bilateral foot drop.
+6.  Colon cancer.
+
+DISCHARGE MEDICATIONS:
+1.  Hydrochlorothiazide 12.5 mg po q day.
+2.  Lopressor 50 mg po b.i.d.
+3.  Colace 100 mg po b.i.d.
+4.  Dilaudid one to two tablets po q 4 hours prn pain.
+5.  Prilosec 20 mg po b.i.d.
+6.  Levaquin 500 mg po q day times ten days.
+
+FOLLOW UP:  The patient will follow up with Dr. [**First Name (STitle) 339**] on
+[**3069-12-23**] two days after discharge for possible removal of JP
+and also for evaluation of wound and progression and also
+with primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] in one to two weeks.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2126**], M.D.  [**MD Number **]
+
+Dictated By:[**Name8 (MD) 1643**]
+MEDQUIST36
+
+D:  [**3069-12-23**]  10:10
+T:  [**3069-12-23**]  10:34
+JOB#:  [**Job Number 9596**]
+
+cc:[**1-1**]
+
+",,
+13745,2786,,,3069-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-10**] 7:54 AM
+     US INTR-OP 60 MINS                                              Clip # [**Clip Number (Radiology) 3279**]
+     Reason: segment 7 resection
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with  pmh colon cancer, liver lesion
+     REASON FOR THIS EXAMINATION:
+      segment 7 resection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: History of colon cancer with liver mass, presumed
+     metastases for resection.
+     
+     Scans of the liver demonstrate a 2.6 cm solid isoechoic mass centrally in the
+     right lobe of the liver with a small focus of calcification centrally. The
+     remainder of the right lobe is clear with no other nodules seen. In the left
+     lobe, there is a 1.6 cm hypoechoic nodule in segment 3 which shows a rim-like
+     area of increased echogenicity and posterior acoustic shadowing. This has a
+     different appearance from the right lobe lesion and represents a discrete
+     solid nodule. No other lesions are identified in the left lobe and caudate
+     lobe is also clear.
+     
+     CONCLUSION: Two liver lesions, the right lobe measuring 2.6 cm and having
+     appearance typical for colon metastases. The left lobe lesion has a different
+     appearance and could represent a second metastases but other possibilities
+     such as calcified hemorrhagic cyst, old hematoma or other possibilities should
+     be considered.
+     
+
+",,
+13745,2786,,,3069-12-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-14**] 10:57 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3280**]
+     Reason: r/o volume overload vs. chronic lung dz                     
+     Admitting Diagnosis: LIVER LESION/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with h/o COPD s/p liver resection now with decreased O2 sat   
+     REASON FOR THIS EXAMINATION:
+      r/o volume overload vs. chronic lung dz                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     HISTORY:  COPD, decreased O2 sat.
+     
+     COMPARISON:  None available.
+     
+     There are bilateral pleural effusions.  There is increased interstitial
+     markings with cephalad redistribution consistent with CHF.  The heart is
+     borderline in size.
+     
+     A surgical drain is noted in the right side of the abdomen.
+     
+     IMPRESSION:  Bilateral pleural effusions with moderate pulmonary vascular
+     redistribution, consistent with moderate CHF.
+
+",,
+13745,2786,,,3069-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-15**] 9:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3281**]
+     Reason: r/o CHF                                                     
+     Admitting Diagnosis: LIVER LESION/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: 65 y/o woman with CHF. 
+     
+     PORTABLE AP CHEST:  A portable AP view of the chest was reviewed, and compared
+     with the study of yesterday.
+     
+     There is increased moderate to severe congestive heart failure with
+     cardiomegaly and small right pleural effusion.  There is continued patchy
+     atelectasis in both lower lobes.
+     
+     IMPRESSION:   Worsening moderate to severe heart failure with cardiomegaly and
+     small pleural effusion. Bibasilar patchy atelectasis.
+
+",,
+13745,2786,17111,0,3069-12-15 18:29:00 EST,3069-12-15 18:37:00 EST,3659,"N",54,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient admitted to NSicu with low O2 sats high 70's. Pt. put on HFN @ 70% and gradually weaned down to 50%. O2 sats improving 90%. Frequent bronchodilator rx's given with Albuterol/Atrovent. Tolerated well. Bs crackles [**2-4**] way up on R, crackles L base with faint expiratory wheezes R lung. Improved with Rx's. Wheezes clearing with increased aeration. Strong productive cough of thick white/brown spect sputum. CXR revealed worsening moderate-severe heart failure, sm pleural effusions, bibasilar patchy atelectasis. CPT given via RN/Physical Therapy.  No further changes made. Plan: Continue with Nebs Q4, CPT as tolerated. 
+",,
+13745,2786,17111,0,3069-12-15 18:36:00 EST,3069-12-15 18:51:00 EST,3825,"N",54,"Nursing/Other","FOCUS: ADM TO SICU","
+FOCUS: ADM TO SICU
+DATA:
+VERY PLEASANT 65YO WOMAN ADMITTED  W/H/O COLON CA W/METS WHO UNDERWENT EX LAP AND PARTIAL LIVER RESECTION ON [**12-10**], WAS TRANSFERRED TO SICU THIS AM D/T DEVELOPING RESPIRATORY DISTRESS ON THE FLOOR. SHE DESAT TO 70'S AND 80'S W/POOR ABG'S. CXR CONSISTENT W/CHF(BILAT PLEURAL EFFUSION). SHE WAS GIVEN LASIX AND TRANSFERRED TO SICU FOR FURTHER AND CLOSER MONITORING.
+
+DESATING TO 50'S ON ARRIVAL TO FLOOR. POOR ABG'S--PO2 39/PCO2 74. LUNGS WHEEZY AND W/CRACKLES BILAT. HI FLOW VENTI MASK AT 50% W/IMPROVED OXYGENATION AND ABG'S. LASIX GIVEN X3. CXR UNCHANGED. AGGRESSIVE PULMONARY TOILET BY NURSING AND PT STAFF. FREQUENT ABG MONITORING THROUGHOUT THE DAY. CONTINUES TO SEVERELY DESAT W/O O2 TO 70'S. FREQUENT NEB TREATMENTS PER RESP THERAPY. COUGHING AND RAISING THICK BROWNISH SPUTUM. LUNG SOUNDS IMPROVED THIS PM. DNI STATUS DISCUSSED WITH PT AND DAUGHTERS PER DR. [**First Name (STitle) 97**]. THEY ALL AGREE SHE MAY BE INTUBATED IF THE NEED ARISES AS LONG AS IT IS A SHORT TERM TREATMENT.
+
+PLAN:
+AGGRESSIVE PULMONARY TOILET. CLOSE MONITORING OF RESP STATUS INCLUDING Q2HR. ABG UNTIL STABLE. DIURESE AS ORDERED.
+",,
+13745,2786,17111,,3069-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-16**] 7:48 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 3284**]
+     Reason: please assess portal, hepatic artery and hepatic venous circ
+     Admitting Diagnosis: LIVER LESION/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with s/p segment 7 resection, now w/ question of aterial 
+      perfusion defect, r/o thrombosis
+     REASON FOR THIS EXAMINATION:
+      please assess portal, hepatic artery and hepatic venous circulation for 
+      patency, thrombosis and/or stenosis, portable study (Pt w/ resp distress in 
+      ICU)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 65 year old woman status post segment seven resection, evaluate for
+     thrombosis.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND STUDY:  Diffusely echogenic liver consistent
+     with fatty infiltration.  The main portal vein is patent and its flow is
+     hepatopetal.  The anterior right portal vein and anterior left portal vein are
+     normal.  The left  hepatic vein, and main hepatic vein are normal.  The right
+     hepatic vein could not be assessed.  The main hepatic artery is normal in
+     appearance, with normal waveforms.  The branches of the hepatic artery could
+     not be assessed.  The splenic vein is normal in appearance.  There is a small
+     adjacent fluid collection.
+     
+     IMPRESSION: Main hepatic artery, and main portal vein, and main hepatic vein
+     are normal in appearance.  The right hepatic vein and posterior branches of
+     the portal vein, and branches of the hepatic artery could not be assessed.
+
+",,
+13745,2786,17111,,3069-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-16**] 3:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3283**]
+     Reason: Please assess for fluid collection or abscess.  Please drain
+     Admitting Diagnosis: LIVER LESION/SDA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p recent hepatic resection with abdominal wall erythema.    
+     REASON FOR THIS EXAMINATION:
+      Please assess for fluid collection or abscess.  Please drain if present.        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY: Recent hepatic resection, abdominal wall erythema.
+     
+     COMPARISONS: None.
+     
+     TECHNIQUE: Helically acquired axial images were obtained from the lung bases
+     to the pubic symphysis without IV contrast. IV contrast was not administered
+     due to anaphylatic reaction per patient's family.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST: There are bilateral pleural effusions,
+     with the right greater than left. There is bilateral interstitial infiltrates
+     consistent with pulmonary edema. This evaluation is somewhat limited of the
+     abdomen due to no contrast being administered. However there is an area of low
+     density within the right lobe of the liver. Surrounding the resected lesion. A
+     cervical clip is seen. Without contrast it is difficult to adequately
+     delineate this hypodensity. There is also air within the center of this
+     region. This could represent a vascular insult since this is in a vascular
+     distribution. If surgical packing used this could also represent an area of
+     infection. The gallbladder is not visualized. There are bilateral
+     hyperdensities within both kidneys which could represent small stones or they
+     could be vascular calcifications. The ureters are normal. The spleen and
+     pancreas are unremarkable. The adrenals are unremarkable. The opacified large
+     and small bowel are unremarkable. No pathologically enlarged mesenteric or
+     retroperitoneal lymphadenopathy. Multiple drains are seen within the abdomen.
+     There is fluid within the subcutaneous tissue consistent with anasarca. There
+     is calcification of the abdominal aorta and iliac arteries. No fluid
+     collection within the abdomen. No free air. Incidental note is made of an
+     intra-atrial septal lipoma. 
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST: The bladder is normal with the presence
+     of a Foley catheter. The sigmoid colon contains diverticula without evidence
+     of diverticulosis. There is a small amount of free fluid within the pelvis. No
+     inguinal or pelvic pathological lymph nodes.
+     
+     BONE WINDOWS: No suspicious osteolytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1. Pulmonary edema with bilateral pleural effusions, right greater than left.
+     2. Anasarca.
+     3. Low density lesion within the right lobe of the liver surrouding the
+                                                                 (Over)
+
+     DATE: [**3069-12-16**] 3:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3283**]
+     Reason: Please assess for fluid collection or abscess.  Please drain
+     Admitting Diagnosis: LIVER LESION/SDA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     resection site. This could represent a vascular insult versus infection. An MR
+     study would help to differentiate this. These findings were discussed with the
+     surgical team caring for this patient. They are in the process of determining
+     if packing was used at the resction site and will contact the radiology
+     department to further discuss this finding.
+
+",,
+13745,2786,17111,,3069-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-16**] 3:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3283**]
+     Reason: Please assess for fluid collection or abscess.  Please drain
+     Admitting Diagnosis: LIVER LESION/SDA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman s/p recent hepatic resection with abdominal wall erythema.    
+     REASON FOR THIS EXAMINATION:
+      Please assess for fluid collection or abscess.  Please drain if present.        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY: Recent hepatic resection, abdominal wall erythema.
+     
+     COMPARISONS: None.
+     
+     TECHNIQUE: Helically acquired axial images were obtained from the lung bases
+     to the pubic symphysis without IV contrast. IV contrast was not administered
+     due to anaphylatic reaction per patient's family.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST: There are bilateral pleural effusions,
+     with the right greater than left. There is bilateral interstitial infiltrates
+     consistent with pulmonary edema. This evaluation is somewhat limited of the
+     abdomen due to no contrast being administered. However there is an area of low
+     density within the right lobe of the liver. Surrounding the resected lesion. A
+     cervical clip is seen. Without contrast it is difficult to adequately
+     delineate this hypodensity. There is also air within the center of this
+     region. This could represent a vascular insult since this is in a vascular
+     distribution. If surgical packing used this could also represent an area of
+     infection. The gallbladder is not visualized. There are bilateral
+     hyperdensities within both kidneys which could represent small stones or they
+     could be vascular calcifications. The ureters are normal. The spleen and
+     pancreas are unremarkable. The adrenals are unremarkable. The opacified large
+     and small bowel are unremarkable. No pathologically enlarged mesenteric or
+     retroperitoneal lymphadenopathy. Multiple drains are seen within the abdomen.
+     There is fluid within the subcutaneous tissue consistent with anasarca. There
+     is calcification of the abdominal aorta and iliac arteries. No fluid
+     collection within the abdomen. No free air. Incidental note is made of an
+     intra-atrial septal lipoma. 
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST: The bladder is normal with the presence
+     of a Foley catheter. The sigmoid colon contains diverticula without evidence
+     of diverticulosis. There is a small amount of free fluid within the pelvis. No
+     inguinal or pelvic pathological lymph nodes.
+     
+     BONE WINDOWS: No suspicious osteolytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1. Pulmonary edema with bilateral pleural effusions, right greater than left.
+     2. Anasarca.
+     3. Low density lesion within the right lobe of the liver surrouding the
+                                                                 (Over)
+
+     DATE: [**3069-12-16**] 3:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3283**]
+     Reason: Please assess for fluid collection or abscess.  Please drain
+     Admitting Diagnosis: LIVER LESION/SDA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     resection site. This could represent a vascular insult versus infection. An MR
+     study would help to differentiate this. These findings were discussed with the
+     surgical team caring for this patient. They are in the process of determining
+     if packing was used at the resction site and will contact the radiology
+     department to further discuss this finding.
+
+",,
+13745,2786,17111,,3069-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-16**] 9:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3282**]
+     Reason: Please assess degree of CHF.                                
+     Admitting Diagnosis: LIVER LESION/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with h/o COPD s/p liver resection now with decreased O2 sat  
+       
+     REASON FOR THIS EXAMINATION:
+      Please assess degree of CHF.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Congestive heart failure.
+     
+     COMMENTS:  Portable semi-erect AP radiograph of the chest is reviewed, and
+     compared with the previous study of yesterday.
+     
+     The previously identified congestive heart failure has been slightly
+     improving.  There is continued cardiomegaly and small bilateral pleural
+     effusion with bibasilar patchy atelectasis.  No pneumothorax is identified.
+     Again note is made of a drain overlying the right upper quadrant.
+     
+     
+     IMPRESSION:
+     
+     Improving mild congestive heart failure.
+
+",,
+13745,2786,17111,0,3069-12-16 03:48:00 EST,3069-12-16 03:57:00 EST,4295,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+NEURO-  DOZING ON/OFF OVERNIGHT, ORIENTED X3. NO NEURO DEFICITS.
+CV/GU-  HR 90'S NSR WITHOUT ECTOPY.  ABP RANGING 100-140 SYSTOLIC.  SKIN WARM & PINK.  RECEIVED MULT DOSES LASIX [**12-15**], -3500 FOR 24HRS.  POTASSIUM & CALCIUM REPLETED AS NECESSARY.
+RESP-  LS WITH CRACKLES BILAT @ BASES, UPPER AIRWAYS COARSE BUT EASILY CLEARED WITH CPT & COUGHING.  RR 20-30 BUT PT DENIES FEELING SOB.  ABGS IMPROVING WITH INCREASE IN PA02 (NOW ~80) AND DECREASE IN PAC02 (NOW ~40).  RECEIVING ALB/ATR NEBS BY RT; CPT DONE Q3-4.  SPUTUM SPEC SENT.
+GI-  ABDOMEN SOFTLY DISTENDED.  + SMALL LIQUID STOOL X3 OVERNIGHT, SENT FOR C-DIF.  PT C/O GAS CRAMPS.  CURRENTLY NPO, TAKING MEDS WITH SIPS H20 AND TOLERATING WITHOUT DIFFICULTY.  INCISION WITH STAPLES INTACT, NO DRAINAGE, OTA.  JP SITE WITH SMALL AMT SEROUS FLUID @ INSERTION SITE.  RLQ PINK, ? RELATED TO JP, DR. [**First Name (STitle) 5228**] AWARE.  JP WITH SCANT OLD BLOOD/RUST COLOR DRAINAGE.
+PLAN: 
+CONTINUE WITH PULMONARY HYGEINE.  Q4H ABGS.  ? FURTHER DIURESE TODAY. 
+",,
+13745,2786,17111,0,3069-12-16 05:18:00 EST,3069-12-16 05:22:00 EST,4312,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Received pt on 50% FiO2. Due to improvement of ABG, FiO2 weaned down to 30%. MD would like to keep SaO2 between 85-90% because of her CO2 retention. Albuterol and Atrovent nebulizers given x2. 
+
+                             [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+13745,2786,17111,0,3069-12-16 15:07:00 EST,3069-12-16 15:24:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT ALERT AND ORIENTED X3. 
+
+LUNGS CONTINUE W/CRACKLES LL. AGRESSIVE PULMONARY TOILET Q2-3HRS. INCLUDING CPT. COUGHING AND RAISING THICK TAN SPUTUM. SATS MAINTAINED 89-93 WITH HIGH FLOW VENTI MASK AT 40%. PT HAS LOW TOLERANCE FOR INCREASED ACTIVITY AND GETS SOB AND DUSKY COLORED. ABG'S IMPROVED W/PO2 OF 102 AND PCO2 OF 59. CXR CONT W/CONGESTION BUT IMPROVED.
+
+ABD SOFT AND SLIGHTLY TENDER. POS BS. RED AREA AROUND JP SITE NOT DIMINISHED OR INCREASED SINCE SHOWN TO PRIMARY TEAM YESTERDAY. NPO EXCEPT CLEAR LIQS WITH MEDICATIONS AND REDICAT CONTRAST X1 BOTTLE FOR ABD/PELVIC CT SCAN SCHEDULED THIS PM. 
+
+U/O ADEQUATE WITH AUTO DIURESING. K  REPLETED X1. 
+
+PLAN:
+CONTINUE PULMONARY TOILET. ABD CT. ASSESS NEED FOR FURTHER DIURETIC THERAPY.
+ 
+
+ 
+",,
+13745,2786,17111,,3069-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-17**] 2:39 PM
+     DUPLEX DOPP ABD/PEL                                             Clip # [**Clip Number (Radiology) 3285**]
+     Reason: please perform formal liver study today and evaluate all ves
+     Admitting Diagnosis: LIVER LESION/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with s/p segment 7 resection, now w/ question of aterial  
+      perfusion defect, r/o thrombosis
+     REASON FOR THIS EXAMINATION:
+      please perform formal liver study today and evaluate all vessels for patency    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LIVER DOPPLER ULTRASOUND.
+     
+     CLINICAL HISTORY:  Status post segment VII resection.  Question of arterial
+     perfusion defect and thrombus.
+     
+     FINDINGS:  The main portal vein is patent with normal hepatopetal flow,
+     without evidence for thrombus. Both the right and left portal veins
+     demonstrate normal waveforms, specifically the right posterior portal vein is
+     patent. The right hepatic vein demonstrates normal triphasic flow.  Left
+     hepatic vein was not able to be dopplered, probably technical. The right and
+     left hepatic arteries demonstrate normal arterial flow. Echogenic shadows,
+     probably gas, is noted at the recent surgery site.
+     
+     IMPRESSION:  Normal Doppler ultrasound of the liver.
+
+",,
+13745,2786,17111,,3069-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13745,2786,17111,0,3069-12-17 07:32:00 EST,3069-12-17 07:44:00 EST,3214,"N",54,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+   VITAL SIGNS STABLE, SLIGHTLY HYPERTENSIVE TO 160'S THIS AM, RESOLVING WITH DIURESIS. LYTES REPLETED. ABG'S CONSISTENT WITH COPD STATUS ON 40% FIO2 VIA FACE TENT. DEEP BREATHING AND COUGHING Q1 EXPECTORATING MOD-LARGE AMOUNTS OF THISCK YELLOW SPUTUM.  
+   ABDOMINAL DOPPLER US NEGATIVE, ADEQUATE BLOOD FLOW SEEN.  CELLULITIS @ RUQ EXTENDING SLIGHTLY. STARTED ZOSYN AND VANCO. BROWN/BLOODY JP DRAINAGE SENT FOR CX. 
+",,
+13745,2786,17111,0,3069-12-17 17:00:00 EST,3069-12-17 17:13:00 EST,3950,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: ALERT AND ORIENTED. MAEW. DENIES PAIN. DOZING OCCASIONALLY, BUT EASILY ARROUSABLE. 
+RESP: LS OCCASIONALLY COARSE. PT EXPECTORATING MOD AMTS SPUTUM WITH COUGHING AND DEEP BREATHING. O2 SATS MAINTAINED AT >93% WITH 40% O2  HI-FLOW NEB VIA FACE TENT. ABG'S STABLE, PAO2 UP TO 80S, PCO2 REMAINS 50S. NEBS PER RT. TACHYPNEIC ON EXERTION.
+CV: TMAX 99.5 THIS SHIFT, CURRENTLY AFEBRILE. HYPERTENSIVE TO 170S SYS THIS AM, BUT SBP BACK TO BASELINE AFTER STANDING PO MEDS. A-LINE POSITIONAL. K REPLETED AS INDICATED. 
+GI: ABD SOFT. TOL SM AMT REG DIET THIS AM. NO N/V. WITNESSED FLATUS. SM AMT FECAL SMEAR, BUT NO BM. LIVER U/S THIS AFTERNOON, ALL VESSELS PATENT PER DR [**First Name (STitle) 5229**].
+GU: ADEQUATE U/O VIA FOLEY. 
+ENDO: FSBG COVERED PER RISS.
+SKIN: ABD INC OTA WITH STAPLES INTACT. PINK CELLULITIS CONTINUES PER PREVIOUS OUTLINE, NO GROWTH. JP SITE WNL, DSD. JP WITH SM AMT BROWN DRG.
+PLAN: CONT TO MONITOR. CONT PULM TOILET. AWAIT FORMAL U/S REPORT. TRANSFER TO FLOOR WHEN BED AVAILABLE.
+
+",,
+13745,2786,17111,0,3069-12-18 05:29:00 EST,3069-12-18 05:35:00 EST,3659,"N",54,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient given Albuterol/Atrovent nebs Q6hr. Tolerated well. RR 18-24. HR 80's. Bs crackles at L base otherwise lungs clear bilaterally. Productive cough of sm amount of thick white sputum. Strong cough effort. Improved PaO2 151. Fio2 weaned to 35% cool mist with face tent. Resp status improving, increased aeration post rx's. 
+Plan: Will continue with nebs Q6hr and wean fio2 as tolerated. 
+",,
+13745,2786,,,3069-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3069-12-19**] 11:05 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3286**]
+     Reason: r/o CHF                                                     
+     Admitting Diagnosis: LIVER LESION/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with h/o COPD s/p liver resection POD#9 out of ICU            
+     REASON FOR THIS EXAMINATION:
+      r/o CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  65 y/o woman with history of COPD and liver resection now 9 days
+     post-op out of ICU, rule out CHF.
+     
+     PA AND LATERAL CHEST:  Comparison is made to prior chest x-ray dated [**3069-12-16**].
+      There has been marked improvement.  The heart is normal in size.  The lung
+     fields are clear.  There is a small pleural effusion (? which side).
+     
+     IMPRESSION:  Markedly improved chest x-ray.  No acute cardiopulmonary disease.
+      Small effusion.
+     
+
+",,
+13745,,,,3070-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 3287**]
+     Reason: COLORECTAL CANCER.  RESTAGING.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Indication:  Sixty-six year old female with metastatic colon cancer to the   
+     liver.  Colorectal cancer restaging.
+     
+     FINDINGS:  Approximately 1 hour after intravenous administration of F-18 
+     fluorodeoxyglucose (FDG), CT images were obtained for attenuation correction and
+     for fusion with emission PET images. (The CT images are not used to diagnose
+     disease independently of the PET images).  A series of overlapping emission PET
+     images was then obtained. The patient's fasting blood glucose level, measured by
+     glucometer before injection of FDG, was 106 mg/dL. The area imaged spanned the
+     region from the skull base to the proximal thighs.
+     
+     Physiologic uptake is seen within the myocardium and liver.  There is a focal
+     area of decreased uptake within the right posterior liver, consistent with an
+     area of infarction in the locale of the patient's prior partial hepatectomy. 
+     This corresponds with an area of low attenuation on the CT scan.  A second focal
+     area of decreased attenuation is noted within the anterior left lobe of the
+     liver.  No abnormal FDG uptake is seen within this locale and this may relate to
+     prior surgery.  There is an area of stranding within the peri-hepatic fat
+     anterior to the left lobe of the liver in the midline adjacent to the area of
+     anterior low attenuation.  This area of stranding extends into the deep
+     subcutaneous fat. This area of fatty stranding demonstrates increased FDG
+     activity and likely relates to prior surgery.
+     
+     The tiny nodule within the anterior left lung does not demonstrate focally
+     increased FDG uptake, however this lesion is below the level of sensitivity for
+     this study.         
+     
+     A small focal area of increased uptake is noted within the distal sigmoid colon
+     anterior to the rectum.
+     
+     There are extensive dense vascular calcifications.  The distal abdominal aorta
+     is prominent and heavily calcified with a tubular area of calcification located
+     along the internal posterior margin of the aorta.  This is unchanged when
+     compared to prior CT performed [**3069-12-16**] and may represent sequela of prior old
+     dissection.
+     
+     IMPRESSION:   1) Focal uptake within the distal sigmoid colon may represent 
+     normal bowel activity vs tumor.   2) Cold defect within the posterior right lobe
+     of the liver is consistent with infarct/surgical change.  A second area of low
+     attenuation within the anterior left lobe does not appear FDG avid and may
+     relate to prior surgery.  3) FDG-avid fat stranding within the anterior
+     abdominal wall, likely relates to prior surgery.
+     
+     /nkg
+                                                                           
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 3287**]
+     Reason: COLORECTAL CANCER.  RESTAGING.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1017**], M.D.
+             [**Last Name (NamePattern5) 145**], M.D.          Approved: [**Doctor First Name 151**] [**3070-3-24**] 2:54 PM
+
+
+             Date Mailed: [**3070-3-25**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13745,,,,3070-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-3-22**] 11:45 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 3288**]
+     MR CONTRAST GADOLIN
+     Reason: Pt is s/p colectomy [**5-7**], s/p segmental liver resection 11/0
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca to liver
+     REASON FOR THIS EXAMINATION:
+      Pt is s/p colectomy [**5-7**], s/p segmental liver resection [**12-7**] for metastatic
+      colon
+      cancer. Recent CT done at OSH showed question of reoccurence in liver. Please
+      do MRI of abd, chest and pelvis with gadolinium to assess for new lesions.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Question of recurrent metastatic disease in the liver by CT done
+     at outside hospital.  The patient has a history of colon cancer metastases
+     resected from segments 3 and 7 of the liver.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted and gadolinium-enhanced MR imaging
+     of the abdomen.  Reconstructions were also performed and evaluated.
+     
+     MRI ABDOMEN WITH CONTRAST:  There are several small lesions in the liver which
+     are of low signal density on pre-contrast T1-weighted images and which show
+     circumferential nodular enhancement, concerning for metastases.  These measure
+     from 3 to 10 mm in diameter and are seen in segments 4, 5, 7 and 8.
+     
+     There is a large resection cavity in segment 7.  The contents of the cavity
+     are predominantly high signal intensity on T2-weighted images, with slight
+     heterogeneity on T1-weighted images, and a nodular contour along the inferior
+     portion.  This is of uncertain significance.  The resection cavity in segment
+     3 is unremarkable.
+     
+     The spleen, pancreas, adrenal glands and kidneys are unremarkable.  The
+     infrarenal aorta is ectatic, measuring up to 2.8 cm in diameter, and has
+     extensive mural thrombus.
+     
+     There is no prior MRI available for comparison.
+     
+     IMPRESSION:  Multiple small enhancing lesions in the liver consistent with
+     metastases.
+
+",,
+13745,,,,3070-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-3-22**] 11:45 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 3288**]
+     MR CONTRAST GADOLIN
+     Reason: Pt is s/p colectomy [**5-7**], s/p segmental liver resection 11/0
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca to liver
+     REASON FOR THIS EXAMINATION:
+      Pt is s/p colectomy [**5-7**], s/p segmental liver resection [**12-7**] for metastatic
+      colon
+      cancer. Recent CT done at OSH showed question of reoccurence in liver. Please
+      do MRI of abd, chest and pelvis with gadolinium to assess for new lesions.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Question of recurrent metastatic disease in the liver by CT done
+     at outside hospital.  The patient has a history of colon cancer metastases
+     resected from segments 3 and 7 of the liver.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted and gadolinium-enhanced MR imaging
+     of the abdomen.  Reconstructions were also performed and evaluated.
+     
+     MRI ABDOMEN WITH CONTRAST:  There are several small lesions in the liver which
+     are of low signal density on pre-contrast T1-weighted images and which show
+     circumferential nodular enhancement, concerning for metastases.  These measure
+     from 3 to 10 mm in diameter and are seen in segments 4, 5, 7 and 8.
+     
+     There is a large resection cavity in segment 7.  The contents of the cavity
+     are predominantly high signal intensity on T2-weighted images, with slight
+     heterogeneity on T1-weighted images, and a nodular contour along the inferior
+     portion.  This is of uncertain significance.  The resection cavity in segment
+     3 is unremarkable.
+     
+     The spleen, pancreas, adrenal glands and kidneys are unremarkable.  The
+     infrarenal aorta is ectatic, measuring up to 2.8 cm in diameter, and has
+     extensive mural thrombus.
+     
+     There is no prior MRI available for comparison.
+     
+     IMPRESSION:  Multiple small enhancing lesions in the liver consistent with
+     metastases.
+
+",,
+13745,,,,3070-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-3-22**] 11:45 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 3288**]
+     MR CONTRAST GADOLIN
+     Reason: Pt is s/p colectomy [**5-7**], s/p segmental liver resection 11/0
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca to liver
+     REASON FOR THIS EXAMINATION:
+      Pt is s/p colectomy [**5-7**], s/p segmental liver resection [**12-7**] for metastatic
+      colon
+      cancer. Recent CT done at OSH showed question of reoccurence in liver. Please
+      do MRI of abd, chest and pelvis with gadolinium to assess for new lesions.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Question of recurrent metastatic disease in the liver by CT done
+     at outside hospital.  The patient has a history of colon cancer metastases
+     resected from segments 3 and 7 of the liver.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted and gadolinium-enhanced MR imaging
+     of the abdomen.  Reconstructions were also performed and evaluated.
+     
+     MRI ABDOMEN WITH CONTRAST:  There are several small lesions in the liver which
+     are of low signal density on pre-contrast T1-weighted images and which show
+     circumferential nodular enhancement, concerning for metastases.  These measure
+     from 3 to 10 mm in diameter and are seen in segments 4, 5, 7 and 8.
+     
+     There is a large resection cavity in segment 7.  The contents of the cavity
+     are predominantly high signal intensity on T2-weighted images, with slight
+     heterogeneity on T1-weighted images, and a nodular contour along the inferior
+     portion.  This is of uncertain significance.  The resection cavity in segment
+     3 is unremarkable.
+     
+     The spleen, pancreas, adrenal glands and kidneys are unremarkable.  The
+     infrarenal aorta is ectatic, measuring up to 2.8 cm in diameter, and has
+     extensive mural thrombus.
+     
+     There is no prior MRI available for comparison.
+     
+     IMPRESSION:  Multiple small enhancing lesions in the liver consistent with
+     metastases.
+
+",,
+13745,,,,3070-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-3-30**] 12:12 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3289**]
+     Reason: 66 year old s/p liver resection for metastatic colon ca. CT 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca
+     REASON FOR THIS EXAMINATION:
+      66 year old s/p liver resection for metastatic colon ca. CT of chest done at
+      OSH shows a question of nodule on left lung, with lymph node. Please do CT of
+      chest without contrast to assess. Pt allergic to IV contrast.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 66 y/o woman with status post liver resection for metastatic colon
+     cancer.
+     
+     TECHNIQUE: Multiple helically acquired axial images were obtained from the
+     chest without intravenous contrast.
+     
+     COMPARISONS: PET CT [**3070-3-22**] and CT abdomen [**3069-12-16**].
+     
+     CT CHEST W/O CONTRAST: There is mild emphysema and [**Hospital1 **]-apical parenchymal
+     scarring. There are multiple peripheral noncalcified nodules which are less
+     than 5 mm in size. There are also bilateral ground glass opacities associated
+     with a prominent vasculature. There are no dominant masses or consolidations.
+     
+     There are small mediastinal and axillary lymph nodes, however, these lymph
+     nodes measures less than 1 cm in short axis diameter.  The heart is normal in
+     size. The pericardium and great vessels are unremarkable except for extensive
+     aortic calcification.  There are coronary artery calcifications. There are no
+     pleural or pericardial effusions.
+     
+     For evaluation of the abdomen please refer to the abdominal CT of [**3069-12-16**] or
+     the MRI of [**3070-3-22**].  On bone windows there are no suspicious lesions.
+     
+     IMPRESSION:
+     
+     1) Multiple peripheral noncalcified nodules measuring less than 5 mm. These
+     nodules are too small to be detected by a PET scan. They could represent
+     noncalcified granulomas or early metastasis. Follow up in 3 months with a
+     chest CT is recommended.
+     2) Mild emphysema with [**Hospital1 **]-apical scarring.
+
+",,
+13745,,,,3070-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-5-3**] 10:31 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3290**]
+     Reason: 66 year old with metastatic colon ca to the liver. s/p colec
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca
+     REASON FOR THIS EXAMINATION:
+      66 year old with metastatic colon ca to the liver. s/p colectomy in 4/03, s/p
+      segmental liver resection in 11/03.  Last CT of chest in 2/04 showed non
+      calcified nodules within the lungs. 6 week follow up CT to assess for
+      growth, changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic colon CA to the liver.  Follow up of noncalcified
+     nodules on prior CT.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through the chest without IV
+     contrast.
+     
+     COMPARISON:  [**3070-3-30**].
+     
+     CT CHEST W/O CONTRAST:  The heart size is normal.  There are dense aortic and
+     coronary artery calcifications.  There are scattered mildly prominent lymph
+     nodes in the mediastinum, including a 10 mm precarinal lymph node.  There are
+     no pericardial or pleural effusions.
+     
+     The patient is status post hepatic resection, and there are low-attenuation
+     regions in both right and left hepatic lobes.  The liver is not fully
+     evaluated on this study.
+     
+     Lung windows again demonstrate multiple peripheral noncalcified nodules, which
+     measure less than 5 mm in size. These are not changed from the prior exam.
+     Also noted is mild emphysema. The airways are patent to the level of the
+     segmental bronchi bilaterally.
+     
+     Bone windows demonstrate no suspicious lytic or sclerotic abnormalities.
+     
+     IMPRESSION:
+     
+     1. No change in multiple small pulmonary nodules in both lungs.
+     2. Mild emphysema.    
+
+",,
+13745,,,,3070-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-5-3**] 10:32 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3291**]
+     Reason: 65 year old with metastatic colon ca to the liver. s/p colon
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca to liver
+     REASON FOR THIS EXAMINATION:
+      65 year old with metastatic colon ca to the liver. s/p colon resection. s/p
+      liver resection in 11/03.  MR from [**3-9**] demonstated multiple small enhancing
+      lesions w/in the liver. Please do f/u MR abd with gadolin and compare to
+      previous MR [**First Name (Titles) **] [**Last Name (Titles) 3292**] these lesions for increase in size.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Metastatic colon cancer.  Followup MR.
+     
+     TECHNIQUE:  MRI of the abdomen was obtained with multiplanar and multisequence
+     imaging without and after administration of gadolinium.
+     
+     COMPARISON:  MR [**3070-3-22**].
+     
+     FINDINGS:  Multiple small hepatic nodules with central hypointensity on pre-
+     contrast T1-weighted images with circumferential nodular enhancement have
+     increased in size and number since the previous examination, consistent
+     metastases.  The sizes now range from 8 mm to 14 mm in diameter. New lesions
+     are now identified in segments 3 and 7.
+     
+     The large resection cavity in segment 7 is unchanged in configuration.  The
+     nodular contour around the inferior margin has slightly decreased,
+     representing postsurgical changes.  The resection cavity in segment 3 is
+     unremarkable.
+     
+     No periportal or mesenteric lymph nodes identified.  The adrenal glands,
+     pancreas, spleen and visualized portions of the kidneys are unremarkable.  The
+     infrarenal abdominal aorta is ectatic with extensive mural thrombus.
+     
+     IMPRESSION:
+     1.  All hepatic metastases have increased in size. At least two new lesions
+     are identified.
+     2.  Postsurgical cavity in segment 3 is stable. Nodular enhancing component in
+     segment 7 cavity has decreased.
+     
+     
+     
+
+",,
+13745,,,,3070-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-5-3**] 10:32 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3291**]
+     Reason: 65 year old with metastatic colon ca to the liver. s/p colon
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic colon ca to liver
+     REASON FOR THIS EXAMINATION:
+      65 year old with metastatic colon ca to the liver. s/p colon resection. s/p
+      liver resection in 11/03.  MR from [**3-9**] demonstated multiple small enhancing
+      lesions w/in the liver. Please do f/u MR abd with gadolin and compare to
+      previous MR [**First Name (Titles) **] [**Last Name (Titles) 3292**] these lesions for increase in size.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Metastatic colon cancer.  Followup MR.
+     
+     TECHNIQUE:  MRI of the abdomen was obtained with multiplanar and multisequence
+     imaging without and after administration of gadolinium.
+     
+     COMPARISON:  MR [**3070-3-22**].
+     
+     FINDINGS:  Multiple small hepatic nodules with central hypointensity on pre-
+     contrast T1-weighted images with circumferential nodular enhancement have
+     increased in size and number since the previous examination, consistent
+     metastases.  The sizes now range from 8 mm to 14 mm in diameter. New lesions
+     are now identified in segments 3 and 7.
+     
+     The large resection cavity in segment 7 is unchanged in configuration.  The
+     nodular contour around the inferior margin has slightly decreased,
+     representing postsurgical changes.  The resection cavity in segment 3 is
+     unremarkable.
+     
+     No periportal or mesenteric lymph nodes identified.  The adrenal glands,
+     pancreas, spleen and visualized portions of the kidneys are unremarkable.  The
+     infrarenal abdominal aorta is ectatic with extensive mural thrombus.
+     
+     IMPRESSION:
+     1.  All hepatic metastases have increased in size. At least two new lesions
+     are identified.
+     2.  Postsurgical cavity in segment 3 is stable. Nodular enhancing component in
+     segment 7 cavity has decreased.
+     
+     
+     
+
+",,
+13745,,,,3070-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-8-9**] 10:22 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3293**]
+     MR RECONSTRUCTION IMAGING
+     Reason: COLON CA
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      COLON CA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Colon cancer. History of liver mets.
+     
+     COMPARISON:  [**3070-5-3**].
+     
+     TECHNIQUE: Axial T1W in and out phase, 2D time of flight, coronal haste and 3D
+     dynamic images without and with IV gadolinium contrast.  3D images were
+     generated on a work station for further evaluation.
+     
+     FINDINGS: Post resection sites in segments 3 and 7 are unchanged with no
+     abnormal enhancement.  Within the soft tissues anterior to the resection site
+     within segment 3 there is slight enhancement, but this is decreased over time
+     and probably related to surgical history.  Multiple previously visualized
+     metastases, predominantly within the dome of the liver are much less
+     conspicuous on today's study with slight residua and residual enhancement. No
+     new lesion is detected.
+     
+     The 2.9 x 2.5 cm infrarenal abdominal aortic aneurysm is unchanged. Both
+     adrenal glands, and visualized portions of the pancreas, spleen, and kidneys
+     are unremarkable.
+     
+     IMPRESSION:
+     1.  Unchanged post surgical changes within segments 3 and 7 of the liver.
+     2.  Markedly improved appearance of multiple hepatic metastases.
+     3.  Stable infrarenal abdominal aortic aneurysm.
+
+",,
+13745,,,,3070-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-8-9**] 10:22 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3293**]
+     MR RECONSTRUCTION IMAGING
+     Reason: COLON CA
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      COLON CA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Colon cancer. History of liver mets.
+     
+     COMPARISON:  [**3070-5-3**].
+     
+     TECHNIQUE: Axial T1W in and out phase, 2D time of flight, coronal haste and 3D
+     dynamic images without and with IV gadolinium contrast.  3D images were
+     generated on a work station for further evaluation.
+     
+     FINDINGS: Post resection sites in segments 3 and 7 are unchanged with no
+     abnormal enhancement.  Within the soft tissues anterior to the resection site
+     within segment 3 there is slight enhancement, but this is decreased over time
+     and probably related to surgical history.  Multiple previously visualized
+     metastases, predominantly within the dome of the liver are much less
+     conspicuous on today's study with slight residua and residual enhancement. No
+     new lesion is detected.
+     
+     The 2.9 x 2.5 cm infrarenal abdominal aortic aneurysm is unchanged. Both
+     adrenal glands, and visualized portions of the pancreas, spleen, and kidneys
+     are unremarkable.
+     
+     IMPRESSION:
+     1.  Unchanged post surgical changes within segments 3 and 7 of the liver.
+     2.  Markedly improved appearance of multiple hepatic metastases.
+     3.  Stable infrarenal abdominal aortic aneurysm.
+
+",,
+13745,,,,3070-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-8-9**] 11:40 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3294**]
+     Reason: FOLLOW UP 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: 66 year old woman with status post liver resection for metastatic
+     colon cancer.
+     
+     TECHNIQUE: Contiguous 5 mm axial images were obtained through the chest
+     without the administration of IV contrast. Comparison is made to the previous
+     CT study dated [**3070-3-6**].
+     
+     COMMENTS: There is peripheral and centrilobular emphysema with apical
+     scarring, which hasn't been changed since the previous study. There are small
+     nodules which is less than 5 mm in bilateral lungs, which have not increased
+     in size since the previous study. There are diffuse ground glass opacities
+     with air trapping which has not changed since the last exam. The etiology is
+     uncertain but can be edema or due to chemoembolization. There are no
+     pathological enlargement of mediastinal or axillary lymph nodes. In the upper
+     abdomen noted are the multiple lucent areas with surgical clips.
+     
+     IMPRESSION: 1. Multiple lung nodules which are less than 5 mm in diameter have
+     not changed since the previous study. 2. There are diffuse ground glass
+     opacities with air trapping of which etiology is uncertain, which can be due
+     to edema or previous chemoembolization.
+
+",,
+13745,,,,3070-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-8-9**] 10:22 AM
+     MRI ABDOMEN W/O & W/CONTRAST; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3293**]
+     MR RECONSTRUCTION IMAGING
+     Reason: COLON CA
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      COLON CA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Colon cancer. History of liver mets.
+     
+     COMPARISON:  [**3070-5-3**].
+     
+     TECHNIQUE: Axial T1W in and out phase, 2D time of flight, coronal haste and 3D
+     dynamic images without and with IV gadolinium contrast.  3D images were
+     generated on a work station for further evaluation.
+     
+     FINDINGS: Post resection sites in segments 3 and 7 are unchanged with no
+     abnormal enhancement.  Within the soft tissues anterior to the resection site
+     within segment 3 there is slight enhancement, but this is decreased over time
+     and probably related to surgical history.  Multiple previously visualized
+     metastases, predominantly within the dome of the liver are much less
+     conspicuous on today's study with slight residua and residual enhancement. No
+     new lesion is detected.
+     
+     The 2.9 x 2.5 cm infrarenal abdominal aortic aneurysm is unchanged. Both
+     adrenal glands, and visualized portions of the pancreas, spleen, and kidneys
+     are unremarkable.
+     
+     IMPRESSION:
+     1.  Unchanged post surgical changes within segments 3 and 7 of the liver.
+     2.  Markedly improved appearance of multiple hepatic metastases.
+     3.  Stable infrarenal abdominal aortic aneurysm.
+
+",,
+13745,,,,3070-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-10-27**] 3:15 PM
+     MRI ABDOMEN W/O & W/CONTRAST; MR RECONSTRUCTION IMAGING         Clip # [**Clip Number (Radiology) 3295**]
+     MR CONTRAST GADOLIN
+     Reason: 66 yo s/p segment 3,7 hepatic resection in 11/03 for metasta
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with metastatic colon ca
+     REASON FOR THIS EXAMINATION:
+      66 yo s/p segment 3,7 hepatic resection in 11/03 for metastatic colon ca to
+      liver, s/p chemotherapy in past 6mos for question of recurrence in liver. Last
+      MR abd in 7/04 showed decrease in size of multiple hepatic lesion. Please do 3
+      month f/u MR abd to assess for any changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon cancer, follow up liver metastases.
+     
+     COMPARISONS:  [**3070-8-9**], [**3070-5-3**], and [**3070-3-22**].
+     
+     TECHNIQUE:  Multiplanar MRI of the liver including T1W in- and out-of-phase,
+     HASTE, and 3D dynamic T1W fat sat imaging sequences without and with IV
+     gadolinium contrast.  Subtracted images and multiplanar reformatted images
+     were generated for further evaluation.
+     
+     FINDINGS:  Post-surgical resection sites within segments III and VII of the
+     liver are unchanged, with no abnormal enhancement.  Multiple previously
+     visualized metastases, predominantly within the dome of the liver, continue to
+     be much less conspicuous on today's study and are barely discernible.  No new
+     lesion is detected.  Within the inferior aspect of segment VI, there is an
+     unusual 2.2-cm hypoenhancing region which demonstrates slight signal decrease
+     on T1W out-of-phase images, with no significant change compared to the prior
+     studies.
+      There is a small calcification within the head of the pancreas.  There is
+     slight incremental increase in size of the infrarenal abdominal aortic
+     aneurysm which now measures 28 x 31 mm.
+     
+     Both adrenal glands, the spleen, and both kidneys are within normal limits.
+     There are two tiny cysts within the mid right kidney.  The patient is status
+     post cholecystectomy.
+     
+     IMPRESSIONS:
+     
+     1) Continued improved appearance of multiple previously imaged hepatic
+     metastases.  These lesions are barely discernible on today's study.
+     
+     2) Unchanged postsurgical changes within segments III and VII of the liver.
+     
+     3) Unusual hypoenhancing lesion within the inferior aspect of segment VI of
+     the liver, possibly representing focal fatty infiltration.
+     
+     4) Slight incremental increase in size of the infrarenal abdominal aortic
+     aneurysm.
+     
+                                                                 (Over)
+
+     DATE: [**3070-10-27**] 3:15 PM
+     MRI ABDOMEN W/O & W/CONTRAST; MR RECONSTRUCTION IMAGING         Clip # [**Clip Number (Radiology) 3295**]
+     MR CONTRAST GADOLIN
+     Reason: 66 yo s/p segment 3,7 hepatic resection in 11/03 for metasta
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+13745,,,,3070-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-10-27**] 3:15 PM
+     MRI ABDOMEN W/O & W/CONTRAST; MR RECONSTRUCTION IMAGING         Clip # [**Clip Number (Radiology) 3295**]
+     MR CONTRAST GADOLIN
+     Reason: 66 yo s/p segment 3,7 hepatic resection in 11/03 for metasta
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with metastatic colon ca
+     REASON FOR THIS EXAMINATION:
+      66 yo s/p segment 3,7 hepatic resection in 11/03 for metastatic colon ca to
+      liver, s/p chemotherapy in past 6mos for question of recurrence in liver. Last
+      MR abd in 7/04 showed decrease in size of multiple hepatic lesion. Please do 3
+      month f/u MR abd to assess for any changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon cancer, follow up liver metastases.
+     
+     COMPARISONS:  [**3070-8-9**], [**3070-5-3**], and [**3070-3-22**].
+     
+     TECHNIQUE:  Multiplanar MRI of the liver including T1W in- and out-of-phase,
+     HASTE, and 3D dynamic T1W fat sat imaging sequences without and with IV
+     gadolinium contrast.  Subtracted images and multiplanar reformatted images
+     were generated for further evaluation.
+     
+     FINDINGS:  Post-surgical resection sites within segments III and VII of the
+     liver are unchanged, with no abnormal enhancement.  Multiple previously
+     visualized metastases, predominantly within the dome of the liver, continue to
+     be much less conspicuous on today's study and are barely discernible.  No new
+     lesion is detected.  Within the inferior aspect of segment VI, there is an
+     unusual 2.2-cm hypoenhancing region which demonstrates slight signal decrease
+     on T1W out-of-phase images, with no significant change compared to the prior
+     studies.
+      There is a small calcification within the head of the pancreas.  There is
+     slight incremental increase in size of the infrarenal abdominal aortic
+     aneurysm which now measures 28 x 31 mm.
+     
+     Both adrenal glands, the spleen, and both kidneys are within normal limits.
+     There are two tiny cysts within the mid right kidney.  The patient is status
+     post cholecystectomy.
+     
+     IMPRESSIONS:
+     
+     1) Continued improved appearance of multiple previously imaged hepatic
+     metastases.  These lesions are barely discernible on today's study.
+     
+     2) Unchanged postsurgical changes within segments III and VII of the liver.
+     
+     3) Unusual hypoenhancing lesion within the inferior aspect of segment VI of
+     the liver, possibly representing focal fatty infiltration.
+     
+     4) Slight incremental increase in size of the infrarenal abdominal aortic
+     aneurysm.
+     
+                                                                 (Over)
+
+     DATE: [**3070-10-27**] 3:15 PM
+     MRI ABDOMEN W/O & W/CONTRAST; MR RECONSTRUCTION IMAGING         Clip # [**Clip Number (Radiology) 3295**]
+     MR CONTRAST GADOLIN
+     Reason: 66 yo s/p segment 3,7 hepatic resection in 11/03 for metasta
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+13745,,,,3070-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-10-27**] 3:16 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3296**]
+     Reason: 66 yo s/p segment 3 and 7 hepatic resection [**12-7**] for metast
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with metastatic colon ca
+     REASON FOR THIS EXAMINATION:
+      66 yo s/p segment 3 and 7 hepatic resection [**12-7**] for metastatic colon ca, with
+      nodules in both lungs. Last chest CT in 7/04 was unchanged. Please do 3 month
+      f/u ct of chest without contrast to assess these nodules and compare with
+      previous scan. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic colon cancer with hepatic resection and known pulmonary
+     nodules, presenting for followup of nodules.
+     
+     TECHNIQUE: Multidetector CT images of the chest were obtained without
+     intravenous contrast. Thin-slice reformatted images were obtained.
+     
+     COMPARISON: [**3070-8-9**], chest CT and [**3070-3-30**], chest CT.
+     
+     CHEST CT WITHOUT IV CONTRAST: There are no pathologically enlarged mediastinal
+     or axillary lymph nodes. Aortic calcifications are present and there are
+     scattered coronary artery calcifications. The heart is not enlarged. There is
+     a left chest wall port with catheter entering the left subclavian vein and
+     terminating with tip in the superior vena cava. Mild paraseptal emphysema is
+     present. There is stable biapical pleural scarring. Multiple bilateral tiny
+     pulmonary nodules are present. These are all less than 5 mm and are unchanged
+     dating back to [**3070-3-30**]. No new nodules are present. There are patchy
+     ground glass opacities, primarily at the bases. The appearance is not
+     significantly changed from [**3070-8-9**], or from [**3070-5-3**].
+     
+     The osseous structures reveal no suspicious lytic or sclerotic lesions. There
+     is residual gadolinium contrast within the kidneys from prior abdomen MRI.
+     Low-attenuation changes with surgical clips are present in the right lobe of
+     the liver. The overall low-attenuation area appears smaller than on the prior
+     study. The visualized upper abdominal organs are otherwise unremarkable.
+     
+     IMPRESSION:
+     
+     1. Bilateral pulmonary nodules, stable from [**3070-3-30**]. Given their
+     seven-month stability, a six-month followup may be obtained. If there are
+     clinical indications of worsening disease, a three-month followup may also be
+     obtained.
+     
+     2. Patchy ground glass opacities with air trapping, stable over multiple prior
+     studies. These have a nonspecific appearance and may be due to patient's
+     underlying COPD or edema.
+     
+     3. Low-attenuation liver lesion status post resection. Please refer to abdomen
+     MRI performed on same day for better evaluation.
+     
+                                                                 (Over)
+
+     DATE: [**3070-10-27**] 3:16 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3296**]
+     Reason: 66 yo s/p segment 3 and 7 hepatic resection [**12-7**] for metast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13745,,,,3070-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3070-10-27**] 3:15 PM
+     MRI ABDOMEN W/O & W/CONTRAST; MR RECONSTRUCTION IMAGING         Clip # [**Clip Number (Radiology) 3295**]
+     MR CONTRAST GADOLIN
+     Reason: 66 yo s/p segment 3,7 hepatic resection in 11/03 for metasta
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with metastatic colon ca
+     REASON FOR THIS EXAMINATION:
+      66 yo s/p segment 3,7 hepatic resection in 11/03 for metastatic colon ca to
+      liver, s/p chemotherapy in past 6mos for question of recurrence in liver. Last
+      MR abd in 7/04 showed decrease in size of multiple hepatic lesion. Please do 3
+      month f/u MR abd to assess for any changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon cancer, follow up liver metastases.
+     
+     COMPARISONS:  [**3070-8-9**], [**3070-5-3**], and [**3070-3-22**].
+     
+     TECHNIQUE:  Multiplanar MRI of the liver including T1W in- and out-of-phase,
+     HASTE, and 3D dynamic T1W fat sat imaging sequences without and with IV
+     gadolinium contrast.  Subtracted images and multiplanar reformatted images
+     were generated for further evaluation.
+     
+     FINDINGS:  Post-surgical resection sites within segments III and VII of the
+     liver are unchanged, with no abnormal enhancement.  Multiple previously
+     visualized metastases, predominantly within the dome of the liver, continue to
+     be much less conspicuous on today's study and are barely discernible.  No new
+     lesion is detected.  Within the inferior aspect of segment VI, there is an
+     unusual 2.2-cm hypoenhancing region which demonstrates slight signal decrease
+     on T1W out-of-phase images, with no significant change compared to the prior
+     studies.
+      There is a small calcification within the head of the pancreas.  There is
+     slight incremental increase in size of the infrarenal abdominal aortic
+     aneurysm which now measures 28 x 31 mm.
+     
+     Both adrenal glands, the spleen, and both kidneys are within normal limits.
+     There are two tiny cysts within the mid right kidney.  The patient is status
+     post cholecystectomy.
+     
+     IMPRESSIONS:
+     
+     1) Continued improved appearance of multiple previously imaged hepatic
+     metastases.  These lesions are barely discernible on today's study.
+     
+     2) Unchanged postsurgical changes within segments III and VII of the liver.
+     
+     3) Unusual hypoenhancing lesion within the inferior aspect of segment VI of
+     the liver, possibly representing focal fatty infiltration.
+     
+     4) Slight incremental increase in size of the infrarenal abdominal aortic
+     aneurysm.
+     
+                                                                 (Over)
+
+     DATE: [**3070-10-27**] 3:15 PM
+     MRI ABDOMEN W/O & W/CONTRAST; MR RECONSTRUCTION IMAGING         Clip # [**Clip Number (Radiology) 3295**]
+     MR CONTRAST GADOLIN
+     Reason: 66 yo s/p segment 3,7 hepatic resection in 11/03 for metasta
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,

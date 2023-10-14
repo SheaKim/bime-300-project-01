@@ -1,0 +1,462 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13921,,,,2617-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-2**] 7:43 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4669**]
+     Reason: bleed?                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with acute mental status change, now very lethargic, cannot 
+      arouse, report of pna, looks dehydrated, no report of trauma, but very limited 
+      history
+     REASON FOR THIS EXAMINATION:
+      bleed?                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 179**] [**Doctor First Name 151**] [**2617-1-2**] 8:24 PM
+      Limited by head motion; no definite intracranial hemorrhage or mass effect.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Acute change in mental status, now lethargic.  Please evaluate
+     for intracranial hemorrhage.
+     
+     COMPARISON:  [**2616-7-10**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT OF THE HEAD WITHOUT INTRAVENOUS CONTRAST:  The examination is markedly
+     limited by patient head motion during image acquisition.  Allowing for this,
+     no definite acute intracranial hemorrhage is identified.  There is no definite
+     mass effect or shift of normally midline structures.  The lateral ventricles
+     are symmetric and non-dilated.  In comparison to the previous examination of
+     [**2616-7-10**], the ventricles are unchanged in size.  The basilar cisterns
+     are patent.  Stable periventricular white matter hypodensity consistent with
+     small vessel ischemic change.
+     
+     Evaluation of the surrounding osseous structures is limited by patient head
+     motion.  Allowing for this, no definite fracture is identified.  The
+     visualized portions of the mastoid air cells and paranasal sinuses are
+     normally pneumatized.  There is marked degenerative change at the atlanto-
+     axial joint visualized on the lowest images, unchanged from the previous
+     examination.
+     
+     IMPRESSION:  Examination is markedly limited by patient head motion.  Allowing
+     for this, no definite acute intracranial hemorrhage or mass effect is
+     identified.
+     
+     
+     NOTE ADDED AT ATTENDING REVIEW: The anterior subluxation of C3 on C4, seen
+     only on the scout view, is unchanged since [**1-3**], and thus not a consequence of
+     an acute fracture. However, stability at this level cannot be assessed on the
+     scout view, and there is a question of an articular process fracture at this
+     level. Corellation with a spine CT is recommened.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 4670**] at 9:55 am on [**1-3**]. I also
+     reviewed the findings with Dr. [**Last Name (STitle) 3771**] of the surgical service, who will
+     notify anesthesia of the need for spine precautions until the stability of
+                                                                 (Over)
+
+     DATE: [**2617-1-2**] 7:43 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4669**]
+     Reason: bleed?                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     the spine can be assured.
+
+",,
+13921,,,,2617-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-2**] 9:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4671**]
+     Reason: pna                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with acute MS change, lethargy, report of PNA                
+       
+     REASON FOR THIS EXAMINATION:
+      pna                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status change, lethargy.
+     
+     TECHNIQUE:  Single AP supine and upright views of the abdomen without
+     comparisons.
+     
+     FINDINGS: Cardiac silhouette is difficult to assess given patient rotation.
+     There is retrocardiac opacity.  Left basilar atelectasis is also seen. Free
+     air is seen under the diaphragm.  Multiple surgical staples are seen at the
+     right axilla.  There is severe degenerative changes of the shoulder, and
+     marked osteopenia.
+     
+     IMPRESSION:
+     1)  Free air under the diaphragm.
+     2)  Retrocardiac/consolidation.
+     3)  Left lower lobe atelectasis.
+     
+     Findings discussed with Dr. [**Last Name (STitle) 4672**] [**2617-1-3**] at 1:00 am.
+
+",,
+13921,30906,,,2617-01-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2617-1-2**]        Discharge Date: [**2617-1-3**]
+
+Date of Birth:  [**2521-11-3**]        Sex:  F
+
+Service:  [**Last Name (un) **]
+
+
+HISTORY OF PRESENT ILLNESS:  This is a [**Age over 90 **]-year-old woman who
+is a nursing home resident with a history of hypertension who
+presented with dehydration.  On [**2616-12-10**] the patient
+had complained of shoulder pain.  The patient had been on
+prednisone for arthritis, and her prednisone dose was
+subsequently increased.  She was also being treated for
+pneumonia with levofloxacin.  At that time, she had a BUN and
+creatinine of 49 and 1.7.  The patient continued to do
+poorly, requiring intravenous fluid boluses at the nursing
+home and was treated there with antibiotics and
+prednisone dose.  They additionally started nonsteroidal
+antiinflammatory drugs for this arthritis, and on [**2616-12-31**] she began worsening with episodes of emesis.  The
+patient was also noted to have tarry guaiac positive stool
+with temperatures to 100 and subsequent increases in her BUN
+and creatinine to 76 and 2.
+
+She was transferred to [**Hospital1 10**]
+Emergency Department lethargic for evaluation.  In part also
+due to loss of IV access at the nursing home.  A Foley
+catheter was placed in the Emergency Room, and levofloxacin
+and intravenous fluids were given.
+
+PAST MEDICAL HISTORY:  Hypertension, anxiety, lower back
+pain, failure to thrive, atrial fibrillation with a history
+of syncope, and breast cancer.
+
+PAST SURGICAL HISTORY:  Right mastectomy and pacemaker
+placement.
+
+ALLERGIES:  Unknown.
+
+MEDICATIONS:  Prednisone 20 mg p.o. once daily, Colace 100 mg
+p.o. twice daily, Senokot one twice daily, Tylenol 650 mg
+q.6h. as needed, Flonase, Elavil 25 mg p.o. once daily,
+Ativan 0.25 mg once daily as needed, Remeron 15 mg once
+daily, Lasix 20 mg p.o. once daily, and Prozac 30 mg p.o.
+once daily.
+
+SOCIAL HISTORY:  The patient has only a niece and a grand
+niece as her living relatives.  She resides in a nursing
+home.
+
+INITIAL PHYSICAL EXAMINATION:  The temperature was 99.8, the
+heart rate was 89, the blood pressure was 102/63, the
+respiratory rate was 17, and her oxygen saturation was 94
+percent on 2 liters.  She was lethargic/elderly appearing
+female moaning with stimulation, not following commands.  The
+mucous membranes were dry.  The lungs were clear to
+auscultation bilaterally.  A regular rate and rhythm.  The
+abdomen was slightly distended, firm through, tender with
+rebound tenderness.  Rectal examination was guaiac positive.
+No masses on rectal examination.  The extremities were warm
+without edema and multiple ecchymoses in bilateral legs.
+
+LABORATORY DATA:  White blood cell count was 3.1, the
+hematocrit was 42, and the platelets were 65.  INR was 1.1.
+Potassium was 5.8.  BUN was 119.  Creatinine was 2.9.  CK was
+23.  Troponin was 0.13.  Lactate was 9.2.
+
+RADIOLOGIC STUDIES:  A chest x-ray showed free air underneath
+the right diaphragm.
+
+BRIEF SUMMARY OF HOSPITAL COURSE:  Ms. [**Known patient lastname 9834**] was seen and
+evaluated in the Emergency Department with again the
+aforementioned history of lethargy and dehydration.  A chest
+x-ray performed in the Emergency Room demonstrated a large
+amount of free air underneath the right hemidiaphragm.
+
+Given the patient's status of abdominal pain, and urgent
+General Surgery consultation was obtained.  Because of her
+worsening renal function and relative neutropenia, it was
+unclear as to when this perforation occurred.  However, it
+may have occurred sometime within the last three weeks.  The
+serious nature of the patient's condition was explained to
+her family; including the high likelihood of her death both
+with an operation and also the very high risk of death with
+an operation.  The patient had previously been DNR/DNI;
+however, the family decided to reverse this status and pursue
+aggressive treatment of what was an apparent perforated
+viscus.  She was transferred to the Intensive Care Unit for
+aggressive resuscitation with several liters of crystalloid.
+A central venous catheter, a Foley catheter,  and a
+nasogastric tube were placed.
+
+Several hours later, on the morning of [**1-3**], she became
+progressively more profoundly acidotic and obtunded despite
+IVFs.  The plan was determined to
+take the patient urgently to the Operating Room for an
+exploratory laparotomy at that time.  She was electively
+intubated in the Surgical Intensive Care Unit for airway
+protection secondary to respiratory distress.  She was then
+to the Operating Room after having received 5 liters of
+crystalloid from the time of admission, making only marginal
+amounts of urine of approximately 5 cc to 10 cc per hour.
+
+Please see the Operative Note dated [**2617-1-3**] for full
+details of the procedure.  Briefly, upon entering the abdomen
+there was 500 cc of succus.
+We copiously irrigated the abdomen with six liters of
+saline and then proceeded to perform an exploration.  We
+found a perforation in the distal sigmoid colon, and, since
+the patient was unstable, this was
+oversewn.  We then proceeded with
+diverting colostomy. A stoma was then matured in the
+standard fashion. The bowel was too edematous to close the
+abdominal incision andthe abdominal
+wound was covered with a sterile plastic bag and and
+then ioban.
+
+She was then transferred to the Recovery Room in a critical
+condition.  Of note, several occasions during the case her
+systolic blood pressure dipped to the 70s and then slowly
+rebounded.  In the Intensive Care Unit, she continued to be
+profoundly acidotic, and her pH remained consistently under
+7.2.  She had been started on Levophed, and this was
+continued postoperatively.  She received an additional 8
+liters of fluid and several units of blood, fresh frozen
+plasma, and platelets.
+
+She continued to do poorly.  A discussion was held with
+family regarding the gravity of the situation and the
+patient's unlikelihood for a meaningful recovery.  Per the
+patient's previously stated desire, the decision was made to
+make her comfort measures only.  Her pressor support was
+stopped, and she expired the evening of [**2617-1-4**]
+after additional discussion and meeting with the family;
+including the Intensive Care Unit team as well.  A postmortem
+examination was declined by the family.
+
+DISCHARGE DIAGNOSIS:  Perforated sigmoid colon.
+
+DISCHARGE DISPOSITION:  Death.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1618**], [**MD Number 1619**]
+
+Dictated By:[**Last Name (NamePattern1) 7887**]
+MEDQUIST36
+D:  [**2617-1-4**] 10:39:03
+T:  [**2617-1-4**] 14:36:54
+Job#:  [**Job Number 9835**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SUN [**2617-1-5**] 7:31 PM
+(End of Report)
+
+
+",,
+13921,30906,,,2617-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-3**] 11:44 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4675**]
+     Reason: eval position tubes/lines                                   
+     Admitting Diagnosis: DEHYDRATION-PNEUMONIA-CHANGE IN MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman s/p ex lap for sigmoid colon perforation, swan placed.    
+                   
+     REASON FOR THIS EXAMINATION:
+      eval position tubes/lines                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of Swan-Ganz catheter placement and intubation.
+     
+     The Swan-Ganz catheter is in the lower right atrium.  Right subclavian CV line
+     is in region of cavoatrial junction.  Endotracheal tube is 3 cm above carina.
+     NG tube, single-lead left-sided pacemaker with distal electrode overlying
+     region RV apex.  No pneumothorax.  Small scattered ill-defined opacities in
+     both upper and mid zones as well as atelectasis/consolidation in the left
+     lower lobe with associated blunting of the left costophrenic angle.
+     
+     IMPRSSION:
+     
+     Swan-Ganz catheter in right atrium and NG tube in mid -esophagus.( called by
+     telephone to clinician). Atelectasis/consolidation left lower lobe as
+     previously demonstrated. Few scattered patchy ill-defined bilateral opacities
+     consistent with pulmonary edema.
+
+",,
+13921,30906,,,2617-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-3**] 11:44 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4675**]
+     Reason: eval position tubes/lines                                   
+     Admitting Diagnosis: DEHYDRATION-PNEUMONIA-CHANGE IN MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman s/p ex lap for sigmoid colon perforation, swan placed.    
+                   
+     REASON FOR THIS EXAMINATION:
+      eval position tubes/lines                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of Swan-Ganz catheter placement and intubation.
+     
+     The Swan-Ganz catheter is in the lower right atrium.  Right subclavian CV line
+     is in region of cavoatrial junction.  Endotracheal tube is 3 cm above carina.
+     NG tube, single-lead left-sided pacemaker with distal electrode overlying
+     region RV apex.  No pneumothorax.  Small scattered ill-defined opacities in
+     both upper and mid zones as well as atelectasis/consolidation in the left
+     lower lobe with associated blunting of the left costophrenic angle.
+     
+     IMPRSSION:
+     
+     Swan-Ganz catheter in right atrium and NG tube in mid -esophagus.( called by
+     telephone to clinician). Atelectasis/consolidation left lower lobe as
+     previously demonstrated. Few scattered patchy ill-defined bilateral opacities
+     consistent with pulmonary edema.
+
+",,
+13921,30906,,,2617-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-3**] 6:05 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4674**]
+     Reason: ett position                                                
+     Admitting Diagnosis: DEHYDRATION-PNEUMONIA-CHANGE IN MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with acute MS change, lethargy, report of PNA              
+           
+     REASON FOR THIS EXAMINATION:
+      ett position                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubation.  Assess endotracheal tube position.
+     
+     COMPARISON:  [**2617-1-3**] at 03:40 a.m.
+     
+     SUPINE AP CHEST AT 06:13 A.M.:  There is an interval placement of an
+     endotracheal tube, with the tip approximately 4 cm from the carina.  A
+     nasogastric tube has also been placed, the tip of which is beyond the
+     radiograph.  The right subclavian catheter tip is seen at the junction of the
+     superior vena cava and right atrium.  The heart, mediastinum, and lung fields
+     are unchanged from three hours ago.
+     
+     IMPRESSION:
+     
+     Satisfactory placement of endotracheal and nasogastric tubes.
+                                                                           
+
+",,
+13921,30906,,,2617-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-3**] 6:05 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4674**]
+     Reason: ett position                                                
+     Admitting Diagnosis: DEHYDRATION-PNEUMONIA-CHANGE IN MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with acute MS change, lethargy, report of PNA              
+           
+     REASON FOR THIS EXAMINATION:
+      ett position                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubation.  Assess endotracheal tube position.
+     
+     COMPARISON:  [**2617-1-3**] at 03:40 a.m.
+     
+     SUPINE AP CHEST AT 06:13 A.M.:  There is an interval placement of an
+     endotracheal tube, with the tip approximately 4 cm from the carina.  A
+     nasogastric tube has also been placed, the tip of which is beyond the
+     radiograph.  The right subclavian catheter tip is seen at the junction of the
+     superior vena cava and right atrium.  The heart, mediastinum, and lung fields
+     are unchanged from three hours ago.
+     
+     IMPRESSION:
+     
+     Satisfactory placement of endotracheal and nasogastric tubes.
+                                                                           
+
+",,
+13921,30906,,,2617-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2617-1-3**] 3:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4673**]
+     Reason: confirm CL placement                                        
+     Admitting Diagnosis: DEHYDRATION-PNEUMONIA-CHANGE IN MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with acute MS change, lethargy, report of PNA               
+         
+     REASON FOR THIS EXAMINATION:
+      confirm CL placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute mental status change, lethargy, and pneumonia.  Confirm
+     central line placement.
+     
+     COMPARISON:  [**2617-1-2**].
+     
+     PRELIMINARY REPORT:  Surgery is aware of free air from first chest x-ray.  J.
+     [**Doctor Last Name 615**].
+     
+     UPRIGHT AP CHEST:  A right subclavian venous catheter has been placed with the
+     tip of the catheter overlying the region of the right atrium.  Free air is
+     again seen under the diaphragms.  The cardiac silhouette is probably enlarged
+     and retrocardiac opacity is again seen, unchanged.  Left basilar atelectasis
+     persists.
+     
+     IMPRESSION:
+     
+     1)  Right subclavian line placed with the tip overlying the region of the
+     right atrium.  Please note that on a study later this morning, the tip of the
+     catheter is more satisfactorily positioned at the junction of the SVC/right
+     atrium.
+     
+     2)  Free air under the diaphragm.
+     
+     3)  Retrocardiac consolidation and left lower lobe atelectasis.
+                                                                           
+
+",,
+13921,,17316,0,2617-01-03 06:23:00 EST,2617-01-03 06:24:00 EST,3971,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient electively intubated with 7.5 ett, 22 at the lip.  Settings in CareVue.
+",,
+13921,,17316,0,2617-01-03 06:39:00 EST,2617-01-03 07:01:00 EST,3399,"N",53,"Nursing/Other","admission","
+admission
+admitted from ER  at 0400.  
+Neuro: pupils equal, sluggish reaction to light. moaning to most stimuli.  does not follow commands, does not speak words.
+ 
+cv: hypothermic, bear hugger applied. bp borderline low, cvp=3, ns boluses given, cvp up to 16. see flow sheet for details. 
+
+pulm: o2 at 3 l/min, sats mid 90's. resp rate 20-24. breath sounds audibly congested, coarse upper, diminished lower lung fields. abg's ph=7.13, intubated with # 7.5 ett, cxr done. sx for thick blood tinged sputum.  metabolic  acidosis.  abg's pending post intubation
+
+gi: ng tube placed with bile returns and good air sounds in abd. gastrographin solution 500 cc , placed to suction for intubation with full return of 500cc. 
+
+gu: foley to gravity, urine amber.
+
+lytes repleted. propofol started for vent compliance.  bp 70's, 500cc bolus ns given, levophed started.
+prep for OR. 
+",,
+13921,,17316,0,2617-01-03 17:22:00 EST,2617-01-03 17:29:00 EST,3950,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+PT RETURNED FROM OR THIS AM AFTER EXP LAP IN WHICH SIGMOID PERFORATION WAS REPAIRED AND DESCENDING COLOSTOMY PLACED, 2JPS. PA PLACED IN OR, BUT AT CVP ON ARRIVAL TO UNIT. SICU AND [**Doctor First Name **] TEAMS INFORMED. PT INTUBATED AND ON PPF, LEVO, AMIO. 
+JPS WITH COPIOUS O/P AND #2 PLACED TO WALL SUCTION PER DISCUSSION WITH MD [**Last Name (Titles) **]. IVF BOLUSES GIVEN AS ORDERED. PT REMAINED PROFOUNDLY ACIDOTIC DESPITE FLUID RESUSCITATION AND PRESSOR SUPPORT. NIECE AND GREAT-NIECE IN FROM OUT OF STATE. FAMILY MEETING HELD WITH RN, MD [**Last Name (Titles) **], AND MD [**Last Name (Titles) **]. PER DISCUSSION PT MADE COMFORT MEASURES ONLY. LEVO GTT WEANED TO OFF. IVF STOPPED. PPF CONTS. AND MSO4 GTT UP. FAMILY PRESENT AT BEDSIDE. PT ANNOINTED BY PRIEST.
+",,
+13921,,17316,0,2617-01-03 19:05:00 EST,2617-01-03 19:06:00 EST,3950,"N",53,"Nursing/Other","ADDENDUM","
+ADDENDUM
+PT EXPIRED WITH FAMILY AT BEDSIDE. MD [**Doctor Last Name 28**] IN TO PRONOUNCE.
+",,

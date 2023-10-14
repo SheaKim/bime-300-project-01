@@ -1,0 +1,1288 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2820-6-21**]              Discharge Date:   [**2820-6-30**]
+ 
+Date of Birth:  [**2745-11-8**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2037**] 
+Chief Complaint:
+Altered mental status and CT scan at outside hospital with 
+colonic abcess, right renal artery embolus
+ 
+Major Surgical or Invasive Procedure:
+[**2820-6-22**] PICC line placed RUE
+
+ 
+History of Present Illness:
+74 y/o F with a h/o HTN, RA, hypercholesterolemia who presents 
+from OSH for further w/u of R renal artery embolus and sigmoid 
+diverticulosis with intramural abscess, and slurred speech. Pt. 
+is delirious and is unable to relay a history; history is 
+obtained from her daughter and EMS reports.  
+.  
+Per report she fell at home 3 days PTA. She does not remember 
+the fall. She says that her friend found her beside the bed 
+yesterday morning and called EMS. She reports L lower back pain 
+since the fall. She reports that she has felt ""generally down 
+and punk"" for several days, and that her speech has been ""heavy, 
+thick and boozy"" for about 2 weeks. She denies numbness 
+anywhere, has noticed generalized weakness but no focal 
+weakness, denies dysphagia, word finding difficulties, bowel or 
+bladder incontinence. She denies fevers, chills, N/V, abd pain, 
+or dysuria at home.  
+.  
+Per EMS records they were called to pt's house on [**6-20**] at 18:00. 
+Pt. was complaining of lower back pain and LUQ abd pain. Family 
+reported to them that pt. fell 3 days ago, that she has been 
+increasingly confused over the past few days, that her speech 
+has been ""slightly slurred,"" and that she has had generalized 
+weakness for several days.  
+.  
+Pt. was brought to an OSH, where head CT showed age-related 
+atrophy but no infarcts. CT abd performed and showed R renal 
+artery embolus and diverticulosis with chronic-appearing 
+intramural abscess. CEs negative x 1, WBC Ct 18. Pt. received 
+Clindamycin, transferred here for further w/u.  
+.  
+In the ED she underwent evaluation by the neurology, vascular 
+surgery, and general surgery teams. CXR showed a hilar mass. 
+Vascular surgery recommended medical management of renal embolus 
+due to new finding of hilar [**Hospital3 **] surgery recommended 
+antibiotics and NPO status to manage diverticular abscess. She 
+received 1 mg of ativan in the ED, mucomyst, ASA, and 
+levo/flagyl.  
+.
+ROS (per family): Pt is s/p fall 6 mos ago and experienced a 
+vertebral fracture. Denies fever or chills. 10 pound weight loss 
+over past 6 months. Denied headache, cough, chest pain. Denied 
+nausea, vomiting, diarrhea, or abdominal pain. No dysuria. No 
+rash. 
+ 
+Past Medical History:
+HTN  
+Hypercholesterolemia  
+Rheumatoid arthritis
+Vertebral fracture  
+Multiple falls per pt., etiology unclear  
+spont pneumothorax - 1959  
+
+ 
+Social History:
+lives alone in [**Location (un) **] with home health asst several times a 
+week. Tobacco: 1.5 PPD since age 16. No EtOH, no illicits. 
+ 
+Family History:
+emphysema - mother  
+glomerulonephritis - son  
+
+ 
+Physical Exam:
+Vitals: T: 97.8 ax P: 86 BP: 120/60 RR: 18 SaO2: 95% on 2L O2  
+General: Awake, alert, NAD.  
+HEENT: NC/AT, PERRL, EOMI, sclera anicteric. MMM, OP without 
+lesions  
+Neck: supple, no JVD or carotid bruits appreciated  
+Pulm: Lungs CTA bilaterally without R/R/W  
+Cardiac: RRR, nl. S1S2, no M/R/G appreciated  
+Abdomen: soft, NT/ND, + BS, no masses or organomegaly noted.  
+Ext: No clubbing cyanosis or edema.  
+Skin: no rashes or lesions noted.  
+Neurologic:  
+-mental status: Alert & Oriented x [**11-25**] (occaisionally correctly 
+identifies this as a hospital).  
+-cranial nerves: intact except unable to protrude tongue.  
+-motor: reduced bulk. Able to hold limbs against gravity but 
+would not resist. So [**1-26**] throughout. Possibly confounded by 
+effort.  
+-sensory: No deficits to light touch detected.  
+-cerebellar: dysarthric.  
+-DTRs: 2+ biceps, triceps.  
+
+ 
+Pertinent Results:
+CBC: 
+[**2820-6-21**] 02:00AM   WBC-15.1* RBC-4.35 HGB-10.9* HCT-32.3* 
+MCV-74* MCH-25.0* MCHC-33.7 RDW-16.3*
+[**2820-6-21**] 02:00AM   PLT COUNT-364
+[**2820-6-21**] 02:00AM   NEUTS-87.9* LYMPHS-9.5* MONOS-2.0 EOS-0.5 
+BASOS-0.1
+.
+Chemistries:
+[**2820-6-21**] 02:00AM   GLUCOSE-112* UREA N-10 CREAT-0.8 SODIUM-142 
+POTASSIUM-3.0* CHLORIDE-103 TOTAL CO2-29 ANION GAP-13
+[**2820-6-21**] 02:00AM   ALT(SGPT)-25 AST(SGOT)-21 ALK PHOS-107 
+AMYLASE-17
+[**2820-6-21**] 02:00AM   LD(LDH)-767*
+[**2820-6-21**] 02:00AM   ALBUMIN-2.4* CALCIUM-11.1* PHOSPHATE-2.2* 
+MAGNESIUM-2.4
+[**2820-6-21**] 02:00AM   TSH-2.3
+[**2820-6-21**] 09:00PM   PTH-13*
+[**2820-6-21**] 09:00PM   calTIBC-203* FERRITIN-252* TRF-156*
+.
+Serum Tox:
+[**2820-6-21**] 02:00AM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG 
+barbitrt-NEG tricyclic-NEG
+.
+Coags:
+[**2820-6-21**] 04:25AM   PT-13.9* PTT-20.7* INR(PT)-1.2*
+.
+Urine studies:
+[**2820-6-21**] 04:40AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 302**]-1.021
+[**2820-6-21**] 04:40AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+.  
+CXR [**6-21**]: Right hilar mass, with associated airspace opacity 
+within the right upper lobe. These findings are concerning for 
+malignancy within the right hilum, and secondary 
+post-obstructive pneumonia or consolidation. Further evaluation 
+with a CT scan is recommended.  
+.  
+CT Pelvic [**6-21**]: 1. Tubular filling defect measuring 1.2 cm in 
+proximal right renal artery with hypoperfusion of right kidney, 
+most likely representing right renal artery emboli. Persistent 
+non-perfusion areas seen in the right kidney on delayed images.  
+
+2. Inflammatory changes in sigmoid colon with fat stranding, and 
+1.3 cm fluid collection versus small abscess.  
+3. Compression fracture of lower thoracic vertebra.  
+4. Right hilar mass noted on chest x-ray was not imaged on this 
+abdominal CTA.  
+.  
+Renal US [**6-21**]: 1. No hydronephrosis.  
+2. The renal vein was difficult to assess.  
+3. The resistive indices are slightly less within the right 
+kidney compared to the left. Further evaluation with a CTA study 
+is recommended.  
+.
+CAROTID U/S [**6-23**]: No plaque or wall thickening of either carotid 
+artery. Diffuse low velocity seen b/l suggesting low cardiac 
+output.  
+.  
+CHEST CT [**6-22**]: 1. A very large heterogeneous right hilar mass 
+measuring 7 cm with multiple areas of central necrosis extending 
+to the level of the thyroid with associated mediastinal 
+adenopathy. The mass extends into the SVC as well as the right 
+mainstem bronchus with a short segment demonstrating 50% 
+occlusion. 2. Lack of perfusion of right kidney secondary to 
+previously identified thrombus. 3. Multiple hypodensities in the 
+liver, the largest representing a simple cyst, the smallest too 
+small to characterize, but may also represent cysts. 4. 
+Compression deformity of T9 of indeterminate age.  
+.
+Echo [**6-23**]: The left atrium is normal in size. No atrial septal 
+defect or patent foramen ovale is seen by 2D, color Doppler or 
+saline contrast with maneuvers. Left ventricular wall thickness, 
+cavity size, and systolic function are normal (LVEF>55%). Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Right ventricular chamber size and 
+free wall motion are normal. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion and no 
+aortic regurgitation. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There a moderate-sized 
+(1.2 cm-thick) echogenic anterior space which most likely 
+represents an epicardial fat pad, though a loculated, organized 
+anterior pericardial effusion cannot be excluded.  
+.
+L-spine film [**6-25**]: 1. Chronic-appearing L1 vertebral body 
+compression fracture.  2. Likely small fusiform abdominal aortic 
+aneurysm which was seen on the prior CTA abdomen of [**2820-6-21**].
+.
+FNA, Right supraclavicular lymph node [**6-25**]:  POSITIVE FOR 
+MALIGNANT CELLS 
+  consistent with non-small cell carcinoma. 
+.
+CT Head with Contrast [**6-27**]: Single focus of low density within 
+the white matter of the right frontal lobe likely representing 
+chronic microvascular infarct. No evidence of enhancing lesions 
+to suggest metastatic disease.
+.
+CXR [**6-29**]: 1. Worsening right upper lobe post-obstructive 
+pneumonia secondary to right hilar mass. Increased right lung 
+volume loss.
+2. Bilateral pleural effusions
+.
+RUQ US [**6-29**]: No evidence of acute cholecystitis.
+
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname 9826**] is a 74 year old female with a history of HTN, RA, 
+hypercholesterolemia, who presents from OSH for work up of R 
+renal artery embolus and sigmoid diverticulosis with intramural 
+abscess, delirum and slurred speech, now with hypercalcemia and 
+likely nephrogenic DI.  Hospital course outlined by problem 
+below:
+.  
+1. Right hilar mass - This was concerning for malignancy given 
+history of tobacco and appearance on imaging.  The CT scan found 
+a 7cm mass in the right lung which invades into the SVC and 
+right mainstem bronchus.  Intervential pulmonology was consulted 
+for possible stenting of right mainstem bronchus.  They did not 
+feel it was necessary at the time.  Thoracic surgery was 
+consulted for a fine needle aspiration of the supraclavicular 
+node for diagnosis and to see if she was a surgical candidate.  
+The FNA preliminarily showed malignant cells consistent with 
+non-small cell carcinoma.  Hematology/oncology and radiation 
+oncology were consulted and treatment options were discussed the 
+with the patient and the family.  Outpatient appointments were 
+established.  A bone scan was to be performed to look for bony 
+mets on day of discharge, but this was discontinued secondary to 
+a change in the patient's treatment goals (see below). On the 
+last night of admission, the patient had an acute increased need 
+for oxygen therapy (she was on room air prior).  A chest x-ray 
+showed pulmonary effusions and a RUL infiltrate suggestive of 
+post-obstructive pneumonia vs lobe collapse.  The patient 
+remains afebrile but her WBC was elevated to 20K on discharge 
+from 16K and 18K a fews days prior.  She was already receiving 
+levofloxacin and metronidazole for the diverticular abscess, and 
+she was given furosemide to help with the pleural effusions.  In 
+a family discussion with the medical team, the patient and her 
+daughter decided that no further aggressive treatment was 
+wanted.  Hospice consult was placed per Ms. [**Known patient lastname 9826**]' request.  
+Extensive conversations had been held with the patient and the 
+daughter throughout her stay regarding her code status and 
+wishes towards treatment and this decision is consistent with 
+those prior conversations.
+.
+2. Hypercalcemia - The patient presented with delirium and 
+slurred speech.  She was found to have hypercalcemia and 
+hypernatremia which was thought to be a paraneoplastic syndrome. 
+ Her PTHrp was found to be elevated at 8.6.  Her hypercalcemia 
+was causatively linked to nephrogenic diabetes insipidus.  Renal 
+consult was placed and she was agressively treated with IVF, 
+furosemide, calcitonin, and pamidronate to decrease her calcium 
+levels.  She spent one night in the ICU mostly for nursing 
+issues regarding her frequent lab checks and electrolyte 
+monitoring.  Once they were within normal limits, her sodium 
+levels dropped to normal range and she was no longer delirious.  
+
+.  
+3. Hypernatremia - secondary to nephrogenic diabetes insipidus. 
+See above.
+.
+4. Diverticulitis with localized abscess - surgery consult was 
+obtained and they recommened conservative treatment given her 
+comorbidities.  She was placed on levofloxacin and 
+metronidazole.  She was initially NPO, but as her delirium 
+resolved, surgery recommended normal diet.  She was cleared by a 
+speech and swallow evaluation and placed on soft foods and thin 
+liquids along with Boost supplementation per nutrition 
+recommendations.
+.
+5. Right renal emboli - Normal renal function on admission but 
+large renal artery emboli noted.  At first this was thought to 
+be likely due to cholesterol emboli per the renal team given h/o 
+hypercholesterolemia and did not require anticoagulation.  At 
+discharge it was unclear whether this thrombus is secondary to 
+cholesterol emboli or to her hypercoagulable state secondary to 
+malignancy.  Her renal function is still within normal limits. 
+.  
+6. Leukocytosis - The patient's WBC was stable around 16K on 
+levofloxacin and metronidazole for her diverticular abscess.  A 
+few days prior to admission, her WBC rose to 18K, but she 
+remained afebrile.  Work up showed no urinary tract infection 
+(patient had foley cath in place for close monitoring of 
+ins/outs for DI treatment) and a RUQ ultrasound showed no 
+cholecystitis (patient had RUQ pain on exam on the day prior to 
+discharge.  The chest x-ray the night prior to admission showed 
+possible post-obstructive pneumonia which may account for her 
+increased WBC.  She was discharged on oral antibiotics.  
+.
+7. Anemia - iron studies are consistent with anemia of chronic 
+disease.  Her Hct remained stable throughout admission.  No 
+transfusion was required.  
+.  
+8. Rheumatoid arthritis - The patient was not taking medications 
+at admission and treatment was defered.  She was given 
+acetaminophen for pain.  During admission, the patient 
+complained of lower back pain and a lumbar spine x-ray showed 
+only an old compression fracture of L1.  No new fractures.  A 
+bone scan was to be performed to look for bony mets on day of 
+discharge, but this was discontinued secondary to a change in 
+the patient's treatment goals.  
+.  
+*FEN: eating soft foods and thin liquids with boost after 
+cleared by speech and swallow. 
+*Comm: daughter [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 9827**] [**Telephone/Fax (1) 9828**] cell [**Telephone/Fax (1) 9829**] 
+home  
+*Code Status: DNR/DNI per HCP (daughter)  and per patient 
+ 
+Medications on Admission:
+(not taking any of these medications)
+atenolol  
+prednisone  
+folic acid  
+fosamax  
+methotraxate  
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+2. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed.  
+3. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours).  
+4. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).  
+5. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily) for 6 weeks.  
+6. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation 
+Q2-3H (every 2-3 hours).  
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed for fever or pain.  
+8. Morphine 10 mg/5 mL Solution Sig: One (1)  PO Q4-6H (every 4 
+to 6 hours) as needed for dyspnea/pain.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Lung cancer- cytology consistent with NSCLC
+Hypercalcemia causing nephrogenic diabetes insipidus
+Right renal artery embolus
+Intramural sigmoid abscess
+.
+Secondary diagnosis:
+Anemia
+Rheumatoid arthritis
+
+ 
+Discharge Condition:
+stable, on 5L oxygen via nasal canual
+
+ 
+Discharge Instructions:
+[**Doctor First Name 54**] have been diagnosed with lung cancer and are being 
+discharged to a hospice facility to make [**Doctor First Name **] comfortable.
+.
+[**Doctor First Name 54**] have been prescribed antibiotics for a pneumonia.  [**Doctor First Name 54**] have 
+also been given morphine and lorazepam to help with the back 
+pain and shortness of breath.  
+ 
+Followup Instructions:
+none
+
+ 
+                             [**First Name11 (Name Pattern1) 732**] [**Last Name (NamePattern4) 2042**] MD [**MD Number 2043**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9830**] MD [**MD Number 9831**] [**2820-6-30**] @ 1227
+Signed electronically by: DR. [**First Name8 (NamePattern2) 732**] [**Last Name (NamePattern1) **]
+ on: TUE [**2820-6-30**] 5:36 PM
+(End of Report)
+
+
+",,
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-21**] 6:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4653**]
+     Reason: ? PNA                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman                                                               
+     REASON FOR THIS EXAMINATION:
+      ? PNA                                                                           
+     ______________________________________________________________________________
+     WET READ: MAlb SUN [**2820-6-21**] 7:15 AM
+      Right hilar mass, with associated RUL airspace opacity - concerning for
+      malignancy, and further evaluation with a CT scan is recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with pneumonia.
+     
+     COMPARISON:  None.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is a right hilar mass.  Additionally,
+     there is airspace opacity within the right upper lobe, with elevation of the
+     right minor fissure.  The remainder of the lungs are clear.  There is minimal
+     atelectasis at the left lung base.  The heart size is normal.  No pleural
+     effusions are seen.  The soft tissue and osseous structures are within normal
+     limits.
+     
+     IMPRESSION:  Right hilar mass, with associated airspace opacity within the
+     right upper lobe.  These findings are concerning for malignancy within the
+     right hilum, and secondary post-obstructive pneumonia or consolidation. 
+     Further evaluation with a CT scan is recommended.
+                                                                           
+
+",,
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-21**] 4:44 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4654**]
+     Reason: Assess for ischemic changes.                                
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman who presents with slurred speech, lung mass, right renal 
+      artery emboli and sigmoid colon abcess.
+     REASON FOR THIS EXAMINATION:
+      Assess for ischemic changes.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI EXAM OF THE BRAIN WITH MRA OF THE CIRCLE OF [**Location (un) 4**].
+     
+     CLINICAL INDICATION:  Slurred speech and history of renal artery emboli.
+     
+     BRAIN MRI:  Multiplanar T1- and T2-weighted images of the brain were obtained
+     without intravenous contrast administration.  There are several foci of
+     restricted diffusion involving the cerebellar hemispheres and the inferior
+     aspect of the cerebellar vermis consistent with multiple embolic subacute
+     infarcts, which measures less than 1 cm each.  No abnormalities were seen
+     within the brainstem.  Corresponding FLAIR T2 hyperintensities are present
+     within the cerebellar hemispheres.  These correspond to posterior circulation
+     embolic small subacute infarcts.
+     
+     Scattered other nonspecific T2 hyperintensities are present along the
+     periventricular white matter suggestive of chronic microvascular ischemic or
+     gliotic changes.  There is no midline shift, mass effect, or hemorrhage.
+     Signal flow voids are present along the intracranial portions of the carotid
+     and basilar arteries.  There is no subdural hemorrhage.
+     
+     IMPRESSION:  Multiple foci of restricted diffusion involving the cerebellar
+     hemispheres and the cerebellar vermis consistent with small embolic subacute
+     infarcts along the posterior circulation as noted above.
+     
+     MRA OF THE CIRCLE OF [**Location (un) 4**]:  3D time-of-flight MRA of the circle of [**Location (un) **]
+     was performed.  The distal vertebral arteries are not well visualized and
+     appear to be hypoplastic and probably terminate in the posterior inferior
+     cerebellar arteries.  The basilar artery is diminished in caliber and is
+     hypoplastic.  This is developmental in nature and probably related to
+     bilateral fetal origin of the posterior cerebral arteries.  The exam is
+     partially degraded by motion artifact.  No significant abnormalities are seen
+     involving the anterior or middle cerebral arteries.  The left A1 segment of
+     the ACA is congenitally absent.  No intracranial aneurysms could be seen.  The
+     study is insensitive to detect tiny aneurysms less than 3 mm in diameter.
+     
+     IMPRESSION:  Hypoplastic distal vertebral and basilar circulation.  Fetal
+     origin to the PCA.  Congenitally absent A1 segment of the left ACA.  The
+     middle cerebral artery circulation is otherwise patent.
+     
+                                                                 (Over)
+
+     DATE: [**2820-6-21**] 4:44 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4654**]
+     Reason: Assess for ischemic changes.                                
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-21**] 4:44 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4654**]
+     Reason: Assess for ischemic changes.                                
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman who presents with slurred speech, lung mass, right renal 
+      artery emboli and sigmoid colon abcess.
+     REASON FOR THIS EXAMINATION:
+      Assess for ischemic changes.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI EXAM OF THE BRAIN WITH MRA OF THE CIRCLE OF [**Location (un) 4**].
+     
+     CLINICAL INDICATION:  Slurred speech and history of renal artery emboli.
+     
+     BRAIN MRI:  Multiplanar T1- and T2-weighted images of the brain were obtained
+     without intravenous contrast administration.  There are several foci of
+     restricted diffusion involving the cerebellar hemispheres and the inferior
+     aspect of the cerebellar vermis consistent with multiple embolic subacute
+     infarcts, which measures less than 1 cm each.  No abnormalities were seen
+     within the brainstem.  Corresponding FLAIR T2 hyperintensities are present
+     within the cerebellar hemispheres.  These correspond to posterior circulation
+     embolic small subacute infarcts.
+     
+     Scattered other nonspecific T2 hyperintensities are present along the
+     periventricular white matter suggestive of chronic microvascular ischemic or
+     gliotic changes.  There is no midline shift, mass effect, or hemorrhage.
+     Signal flow voids are present along the intracranial portions of the carotid
+     and basilar arteries.  There is no subdural hemorrhage.
+     
+     IMPRESSION:  Multiple foci of restricted diffusion involving the cerebellar
+     hemispheres and the cerebellar vermis consistent with small embolic subacute
+     infarcts along the posterior circulation as noted above.
+     
+     MRA OF THE CIRCLE OF [**Location (un) 4**]:  3D time-of-flight MRA of the circle of [**Location (un) **]
+     was performed.  The distal vertebral arteries are not well visualized and
+     appear to be hypoplastic and probably terminate in the posterior inferior
+     cerebellar arteries.  The basilar artery is diminished in caliber and is
+     hypoplastic.  This is developmental in nature and probably related to
+     bilateral fetal origin of the posterior cerebral arteries.  The exam is
+     partially degraded by motion artifact.  No significant abnormalities are seen
+     involving the anterior or middle cerebral arteries.  The left A1 segment of
+     the ACA is congenitally absent.  No intracranial aneurysms could be seen.  The
+     study is insensitive to detect tiny aneurysms less than 3 mm in diameter.
+     
+     IMPRESSION:  Hypoplastic distal vertebral and basilar circulation.  Fetal
+     origin to the PCA.  Congenitally absent A1 segment of the left ACA.  The
+     middle cerebral artery circulation is otherwise patent.
+     
+                                                                 (Over)
+
+     DATE: [**2820-6-21**] 4:44 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4654**]
+     Reason: Assess for ischemic changes.                                
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-21**] 4:07 AM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 4650**]
+     Reason: eval for embolus                                            
+     Field of view: 34 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with R ?renal artery embolus at OSH; eval sigmoid intrawall 
+      abscess 
+     REASON FOR THIS EXAMINATION:
+      eval for embolus                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MNIa SUN [**2820-6-21**] 10:45 AM
+      1. 1.2 cm filling defect in the proximal rt renal artery with hypoperfusion of
+      entire right kidney, worrisome for renal artery emboli.
+      2. Inflammation of the sigmoid colon with possible small (1-1.5cm) fluid
+      collection/abscess.
+      3. Multiple low density lesions in the liver, cannot be further characterized.
+      4. Compression fracture of lower T spine.
+     WET READ AUDIT #1 MNIa SUN [**2820-6-21**] 10:44 AM
+      1. 1.2 cm filling defect in the proximal rt renal artery with hypoperfusion of
+      entire right kidney, worrisome for renal artery emboli.
+      2. Inflammation of the sigmoid colon with possible small (1-1.5cm) fluid
+      collection/abscess.
+      3. Multiple low density lesions in the liver, cannot be further characterized.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with right renal artery embolus at OSH,
+     evaluate sigmoid abscess.
+     
+     TECHNIQUE:  Contiguous axial CT images of the upper abdomen were obtained with
+     and without the administration of intravenous contrast [**Doctor Last Name 116**], 130 cc of
+     Optiray with multiphasic technique.  Delayed images of the abdomen and pelvis
+     were obtained  Multiplanar reformation images were reconstructed.
+     
+     No comparison.
+     
+     FINDINGS:  Residual contrast in the left kidney is seen on precontrast scan,
+     which may be due to reduced renal function. There is a 1.2- cm tubular filling
+     defect in proximal portion of right renal artery, with hypoperfusion of the
+     entire right kidney, worrisome for renal artery embolism as mentioned in the
+     history. Renal artery distal to the clot is opacified. On delayed images, some
+     portions of the right kidney showed enhancement, however, there are several
+     patchy areas of no enhancement, particularly posteriorly.  Capsular
+     enhancement is preserved, as expected for renal infarct. There is no
+     hydronephrosis. The left kidney is unremarkable with homogeneous enhancement
+     without hydronephrosis or mass. Extensive atherosclerotic disease of the aorta
+     is noted.
+     
+     There are multiple hypodense lesions in the liver in bilateral lobes, the
+     largest one in the left lobe measuring 2 cm, most likely representing cyst,
+     however, some of the smaller lesions are too small to characterize.  There is
+     no intrahepatic ductal dilatation.  Gallbladder is unremarkable without
+                                                                 (Over)
+
+     DATE: [**2820-6-21**] 4:07 AM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 4650**]
+     Reason: eval for embolus                                            
+     Field of view: 34 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     evidence of calcification.  Spleen, adrenal glands, pancreas, and the
+     visualized portion of large and small intestines are within normal limits.
+     Note is made of surgical suture in the right colon.  The appendix is normal.
+     No evidence of significant lymphadenopathy or ascites is noted.
+     
+     PELVIS:  There is no evidence of ascites or free air.  Note is made of fat
+     stranding and inflammatory changes of the sigmoid colon in left lower
+     quadrant, associated with area of low-density, which may represent small
+     abscess versus fluid collection measuring 1.3 cm.  In the visualized portion
+     of the lung bases, note is made of atelectasis.  Right hilar mass and right
+     upper lobe opacity noted on prior chest x-ray was not imaged on this abdominal
+     CT.
+     
+     There is compression fracture of L1.  No other suspicious lytic or blastic
+     lesion is noted.
+     
+     IMPRESSION:
+     1.  Tubular filling defect measuring 1.2 cm in proximal right renal artery
+     with hypoperfusion of right kidney, most likely representing right renal
+     artery emboli.  Persistent non-perfusion areas with capsular enhancement seen
+     in the right kidney on delayed images, worrisome for renal infarcts.
+     2.  Inflammatory changes in sigmoid colon with fat stranding and a 1.3 cm
+     adjacent extralumenal loculated fluid collection.
+     3.  Compression fracture of L1 vertebra with minimal retropulsion near the
+     superior endplate.  This is chronic in appearance.
+     4.  Right hilar mass noted on chest x-ray was not imaged on this abdominal
+     CTA.
+     
+     The finding was discussed with the referring physician, [**First Name4 (NamePattern1) 4651**] [**Last Name (NamePattern1) 4652**], at
+     10:30 a.m. on the day of the exam.  Multiplanar reformation images confirm the
+     above finding.
+     
+
+",,
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-21**] 4:07 AM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 4650**]
+     Reason: eval for embolus                                            
+     Field of view: 34 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with R ?renal artery embolus at OSH; eval sigmoid intrawall 
+      abscess 
+     REASON FOR THIS EXAMINATION:
+      eval for embolus                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MNIa SUN [**2820-6-21**] 10:45 AM
+      1. 1.2 cm filling defect in the proximal rt renal artery with hypoperfusion of
+      entire right kidney, worrisome for renal artery emboli.
+      2. Inflammation of the sigmoid colon with possible small (1-1.5cm) fluid
+      collection/abscess.
+      3. Multiple low density lesions in the liver, cannot be further characterized.
+      4. Compression fracture of lower T spine.
+     WET READ AUDIT #1 MNIa SUN [**2820-6-21**] 10:44 AM
+      1. 1.2 cm filling defect in the proximal rt renal artery with hypoperfusion of
+      entire right kidney, worrisome for renal artery emboli.
+      2. Inflammation of the sigmoid colon with possible small (1-1.5cm) fluid
+      collection/abscess.
+      3. Multiple low density lesions in the liver, cannot be further characterized.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with right renal artery embolus at OSH,
+     evaluate sigmoid abscess.
+     
+     TECHNIQUE:  Contiguous axial CT images of the upper abdomen were obtained with
+     and without the administration of intravenous contrast [**Doctor Last Name 116**], 130 cc of
+     Optiray with multiphasic technique.  Delayed images of the abdomen and pelvis
+     were obtained  Multiplanar reformation images were reconstructed.
+     
+     No comparison.
+     
+     FINDINGS:  Residual contrast in the left kidney is seen on precontrast scan,
+     which may be due to reduced renal function. There is a 1.2- cm tubular filling
+     defect in proximal portion of right renal artery, with hypoperfusion of the
+     entire right kidney, worrisome for renal artery embolism as mentioned in the
+     history. Renal artery distal to the clot is opacified. On delayed images, some
+     portions of the right kidney showed enhancement, however, there are several
+     patchy areas of no enhancement, particularly posteriorly.  Capsular
+     enhancement is preserved, as expected for renal infarct. There is no
+     hydronephrosis. The left kidney is unremarkable with homogeneous enhancement
+     without hydronephrosis or mass. Extensive atherosclerotic disease of the aorta
+     is noted.
+     
+     There are multiple hypodense lesions in the liver in bilateral lobes, the
+     largest one in the left lobe measuring 2 cm, most likely representing cyst,
+     however, some of the smaller lesions are too small to characterize.  There is
+     no intrahepatic ductal dilatation.  Gallbladder is unremarkable without
+                                                                 (Over)
+
+     DATE: [**2820-6-21**] 4:07 AM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 4650**]
+     Reason: eval for embolus                                            
+     Field of view: 34 Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     evidence of calcification.  Spleen, adrenal glands, pancreas, and the
+     visualized portion of large and small intestines are within normal limits.
+     Note is made of surgical suture in the right colon.  The appendix is normal.
+     No evidence of significant lymphadenopathy or ascites is noted.
+     
+     PELVIS:  There is no evidence of ascites or free air.  Note is made of fat
+     stranding and inflammatory changes of the sigmoid colon in left lower
+     quadrant, associated with area of low-density, which may represent small
+     abscess versus fluid collection measuring 1.3 cm.  In the visualized portion
+     of the lung bases, note is made of atelectasis.  Right hilar mass and right
+     upper lobe opacity noted on prior chest x-ray was not imaged on this abdominal
+     CT.
+     
+     There is compression fracture of L1.  No other suspicious lytic or blastic
+     lesion is noted.
+     
+     IMPRESSION:
+     1.  Tubular filling defect measuring 1.2 cm in proximal right renal artery
+     with hypoperfusion of right kidney, most likely representing right renal
+     artery emboli.  Persistent non-perfusion areas with capsular enhancement seen
+     in the right kidney on delayed images, worrisome for renal infarcts.
+     2.  Inflammatory changes in sigmoid colon with fat stranding and a 1.3 cm
+     adjacent extralumenal loculated fluid collection.
+     3.  Compression fracture of L1 vertebra with minimal retropulsion near the
+     superior endplate.  This is chronic in appearance.
+     4.  Right hilar mass noted on chest x-ray was not imaged on this abdominal
+     CTA.
+     
+     The finding was discussed with the referring physician, [**First Name4 (NamePattern1) 4651**] [**Last Name (NamePattern1) 4652**], at
+     10:30 a.m. on the day of the exam.  Multiplanar reformation images confirm the
+     above finding.
+     
+
+",,
+13919,9046,,,2820-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-21**] 2:21 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 4649**]
+     Reason: ? hydro                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with ? renal artery embolus on CT at OSH                      
+     REASON FOR THIS EXAMINATION:
+      ? hydro                                                                         
+     ______________________________________________________________________________
+     WET READ: MAlb SUN [**2820-6-21**] 3:11 AM
+      Main right renal artery appears patent with a normal waveform.  The right
+      renal vein was not well-visualized.  Consider repeat CT for further
+      evaluation.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old woman with question of renal artery embolus on CT at
+     an outside hospital.
+     
+     COMPARISON:  None.
+     
+     RENAL ULTRASOUND:  The right kidney measures 8.1 cm.  The left kidney measures
+     9.0 cm.  There is no evidence of hydronephrosis or renal stones.  The renal
+     cortex of the right kidney demonstrates no definite mass lesion.  The left
+     kidney is normal in appearance.  No perinephric fluid is identified.
+     
+     Doppler evaluation of the renal arteries was limited secondary to patient
+     motion and limitations with breath-holding. The left renal arterial RIs were
+     0.73-0.79 compared to lower RIs on the right which measured 0.48-0.55. The
+     right renal vein was difficult to assess.
+     
+     IMPRESSION:
+     1.  No hydronephrosis.
+     2.  The renal vein was difficult to assess.
+     3.  The resistive indices are slightly less within the right kidney compared
+     to the left. Further evaluation with a CTA study is recommended.
+
+",,
+13919,9046,,,2820-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-22**] 9:57 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4655**]
+     Reason: place PICC please                                           
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with hypercalcemia, MS changes, hypernatremia, needs access 
+      for electrolyte management.
+     REASON FOR THIS EXAMINATION:
+      place PICC please                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypercalcemia and poor IV access.
+     
+     PHYSICIANS:  Doctors [**Name5 (PTitle) **] and [**Name5 (PTitle) 609**] performed this procedure, with Dr.
+     [**Last Name (STitle) 609**], the attending physician, [**Name10 (NameIs) 1827**] and supervising throughout.
+     
+     PROCEDURE:  The patient was brought to the angiography suite and placed supine
+     on the table.  The right upper arm was prepped and draped in the usual sterile
+     fashion.  No suitable veins were visible, therefore, ultrasound was used to
+     identify the right brachial vein, which was patent and compressible.  Using
+     real time ultrasound guidance, a 21-gauge needle was used to access the vein.
+     Hard copy of the ultrasound images were obtained before and after
+     venipuncture documenting vessel patency.  A 0.018 guide wire was threaded
+     through the needle and into the SVC under fluoroscopic guidance.  The needle
+     was exchanged for a 4- French micropuncture sheath.  Based on the markers on
+     the wire, the PICC was trimmed to 30 cm.  It was then advanced over the wire
+     and into the SVC under fluoroscopic guidance.  The peel-away sheath and wire
+     were removed, the catheter flushed and heplocked, and then StatLocked.  A
+     final fluoroscopic image demonstrates the tip of the PICC in the distal SVC.
+     
+     There were no immediate complications.
+     
+     1% lidocaine, approximately 3 mL, were administered subcutaneously for local
+     anesthesia.
+     
+     IMPRESSION:  30 cm double lumen PICC in right brachial vein with tip in SVC,
+     ready for use.
+
+",,
+13919,9046,,,2820-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-22**] 9:57 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4655**]
+     Reason: place PICC please                                           
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with hypercalcemia, MS changes, hypernatremia, needs access 
+      for electrolyte management.
+     REASON FOR THIS EXAMINATION:
+      place PICC please                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypercalcemia and poor IV access.
+     
+     PHYSICIANS:  Doctors [**Name5 (PTitle) **] and [**Name5 (PTitle) 609**] performed this procedure, with Dr.
+     [**Last Name (STitle) 609**], the attending physician, [**Name10 (NameIs) 1827**] and supervising throughout.
+     
+     PROCEDURE:  The patient was brought to the angiography suite and placed supine
+     on the table.  The right upper arm was prepped and draped in the usual sterile
+     fashion.  No suitable veins were visible, therefore, ultrasound was used to
+     identify the right brachial vein, which was patent and compressible.  Using
+     real time ultrasound guidance, a 21-gauge needle was used to access the vein.
+     Hard copy of the ultrasound images were obtained before and after
+     venipuncture documenting vessel patency.  A 0.018 guide wire was threaded
+     through the needle and into the SVC under fluoroscopic guidance.  The needle
+     was exchanged for a 4- French micropuncture sheath.  Based on the markers on
+     the wire, the PICC was trimmed to 30 cm.  It was then advanced over the wire
+     and into the SVC under fluoroscopic guidance.  The peel-away sheath and wire
+     were removed, the catheter flushed and heplocked, and then StatLocked.  A
+     final fluoroscopic image demonstrates the tip of the PICC in the distal SVC.
+     
+     There were no immediate complications.
+     
+     1% lidocaine, approximately 3 mL, were administered subcutaneously for local
+     anesthesia.
+     
+     IMPRESSION:  30 cm double lumen PICC in right brachial vein with tip in SVC,
+     ready for use.
+
+",,
+13919,9046,,,2820-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-22**] 9:57 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4655**]
+     Reason: place PICC please                                           
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with hypercalcemia, MS changes, hypernatremia, needs access 
+      for electrolyte management.
+     REASON FOR THIS EXAMINATION:
+      place PICC please                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypercalcemia and poor IV access.
+     
+     PHYSICIANS:  Doctors [**Name5 (PTitle) **] and [**Name5 (PTitle) 609**] performed this procedure, with Dr.
+     [**Last Name (STitle) 609**], the attending physician, [**Name10 (NameIs) 1827**] and supervising throughout.
+     
+     PROCEDURE:  The patient was brought to the angiography suite and placed supine
+     on the table.  The right upper arm was prepped and draped in the usual sterile
+     fashion.  No suitable veins were visible, therefore, ultrasound was used to
+     identify the right brachial vein, which was patent and compressible.  Using
+     real time ultrasound guidance, a 21-gauge needle was used to access the vein.
+     Hard copy of the ultrasound images were obtained before and after
+     venipuncture documenting vessel patency.  A 0.018 guide wire was threaded
+     through the needle and into the SVC under fluoroscopic guidance.  The needle
+     was exchanged for a 4- French micropuncture sheath.  Based on the markers on
+     the wire, the PICC was trimmed to 30 cm.  It was then advanced over the wire
+     and into the SVC under fluoroscopic guidance.  The peel-away sheath and wire
+     were removed, the catheter flushed and heplocked, and then StatLocked.  A
+     final fluoroscopic image demonstrates the tip of the PICC in the distal SVC.
+     
+     There were no immediate complications.
+     
+     1% lidocaine, approximately 3 mL, were administered subcutaneously for local
+     anesthesia.
+     
+     IMPRESSION:  30 cm double lumen PICC in right brachial vein with tip in SVC,
+     ready for use.
+
+",,
+13919,9046,,,2820-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-22**] 9:57 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4655**]
+     Reason: place PICC please                                           
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with hypercalcemia, MS changes, hypernatremia, needs access 
+      for electrolyte management.
+     REASON FOR THIS EXAMINATION:
+      place PICC please                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypercalcemia and poor IV access.
+     
+     PHYSICIANS:  Doctors [**Name5 (PTitle) **] and [**Name5 (PTitle) 609**] performed this procedure, with Dr.
+     [**Last Name (STitle) 609**], the attending physician, [**Name10 (NameIs) 1827**] and supervising throughout.
+     
+     PROCEDURE:  The patient was brought to the angiography suite and placed supine
+     on the table.  The right upper arm was prepped and draped in the usual sterile
+     fashion.  No suitable veins were visible, therefore, ultrasound was used to
+     identify the right brachial vein, which was patent and compressible.  Using
+     real time ultrasound guidance, a 21-gauge needle was used to access the vein.
+     Hard copy of the ultrasound images were obtained before and after
+     venipuncture documenting vessel patency.  A 0.018 guide wire was threaded
+     through the needle and into the SVC under fluoroscopic guidance.  The needle
+     was exchanged for a 4- French micropuncture sheath.  Based on the markers on
+     the wire, the PICC was trimmed to 30 cm.  It was then advanced over the wire
+     and into the SVC under fluoroscopic guidance.  The peel-away sheath and wire
+     were removed, the catheter flushed and heplocked, and then StatLocked.  A
+     final fluoroscopic image demonstrates the tip of the PICC in the distal SVC.
+     
+     There were no immediate complications.
+     
+     1% lidocaine, approximately 3 mL, were administered subcutaneously for local
+     anesthesia.
+     
+     IMPRESSION:  30 cm double lumen PICC in right brachial vein with tip in SVC,
+     ready for use.
+
+",,
+13919,9046,,,2820-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-22**] 5:00 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 4656**]
+     Reason: further eval of right hilar mass                            
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old woman with slurred speech, CXR shows right upper load mass, renal  
+      artery emboli, and colonic abcess.  
+     REASON FOR THIS EXAMINATION:
+      further eval of right hilar mass                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Slurred speech.  Right upper lobe mass, please evaluate.
+     
+     COMPARISON:  Abdomen CT, [**2820-6-21**].
+     
+     TECHNIQUE:  Contrast-enhanced axial CT imaging of the chest was reviewed.
+     Coronal reformats were obtained and reviewed.
+     
+     CT CHEST WITH CONTRAST:  There is a very large heterogeneous right hilar mass
+     with multiple areas of central necrosis, centered in the right superior
+     mediastinum and measuring 7.1 x 5.1 cm in axial diameters and 10 cm in
+     longitudinal diameter, extending up to the level of the thyroid.  This mass is
+     conglomerate with multiple enlarged necrotic.  mediastinal lymph nodes, such
+     as enlarged subcarinal node measuring 3.8 x 2.4 cm.  There is extension of
+     mass into the right main bronchus with a 1.5 cm segment that is occluded.
+     There is also tumor extension into the SVC.  There is interstitial thickening
+     and fibrosis with honeycombing in the right upper lobe, secondary to a large
+     hilar mass with elevation of the minor fissure and other areas of denser
+     consolidation. No pathologic axillary adenopathy is identified.  The right
+     lower lobe and left lung are clear.  A central line is present terminating at
+     the cavoatrial junction.  The heart and great vessels of the mediastinum are
+     only remarkable for atherosclerotic disease.  The pulmonary arteries opacify
+     without evidence for filling defects.
+     
+     Multiple hypodense lesions are present in the liver, the largest in the left
+     lobe measuring 2 cm and consistent with simple cyst.  The others are too small
+     to characterize.  Again noted is significant decrease in perfusion of the
+     right kidney secondary to thrombus.  For further detail, please see the CTA
+     abdomen from [**2820-6-21**].  Tiny calcifications are present in the pancreas.
+     Contrast is present in the gallbladder from a previous contrast study.
+     
+     BONE WINDOWS:  There is a compression deformity of T9 of indeterminate age. No
+     sclerotic or lytic lesions are identified.
+     
+     IMPRESSION:  
+     
+     1.  A very large heterogeneous right hilar mass measuring 7 cm with multiple
+     areas of central necrosis extending to the level of the thyroid.  There is
+     associated mediastinal adenopathy as well as interstitial thickening, volume
+     loss, and areas of denser consolidation in the right upper lobe.  The mass
+                                                                 (Over)
+
+     DATE: [**2820-6-22**] 5:00 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 4656**]
+     Reason: further eval of right hilar mass                            
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     extends into the SVC as well as the right mainstem bronchus with a short
+     segment demonstrating 50% occlusion.
+     
+     2.  Lack of perfusion of right kidney secondary to previously identified
+     thrombus.
+     
+     3. Multiple hypodensities in the liver, the largest representing a simple
+     cyst, the smallest too small to characterize, but may also represent cysts. If
+     necessary, a MR would provide further clarification.
+     
+     4.  Compression deformity of T9 of indeterminate age.
+
+",,
+13919,9046,17313,0,2820-06-22 14:51:00 EST,2820-06-22 15:25:00 EST,2396,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- "" Leave me alone!""
+
+O- see flowsheet for all objective data.
+
+neuro- confused- oriented to person- knows she's in a hospital, but doesn't know which one- moving all extremities- follows command- agitated @ times- pulling @ lines & telemetry wires- hand restraints applied for safety.
+
+gu- foley draining large amts of light yellow colored urine- last urine osmo pending- @ 1400, urine osmo 250- Na level trending down- @ 1300, Na 154- @ 1600, Na 148- IV flds D5 1/2NS @ 300cc/hr now changed to 1/2NS @ 300cc/hr.
+
+cv- Tele: ST no ectopy- HR 107-114- NIBP 145-173/70-96- Hct 39.4 this am- last K 3.6- Mg 2.2
+
+resp- lung sounds diminished @ bases, otherwise clear- resp non-labored- SpO2 96-98% on room air- Hx of smoking 2pks/day for years- nicotine patch ordered- CT scan of chest ordered & scheduled @ 1700.
+
+gi- NPO except for meds- abd soft (+) bowel sounds- no BM- glucose range 150-168- reported to HO- insulin sliding scale to be ordered.
+
+dispo- Pt made DNR/DNI per family.
+
+A- hypernatremia/hypercalcimia secondary to nephrogenic DI ?mets
+
+P- CT scan of chest @ 1700- repeat labs @ 1900- apply nicotine patch when available- follow glucose- insulin as per sliding scale- follow lytes & urinary output closely.
+
+",,
+13919,9046,17313,,2820-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-23**] 2:59 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 4657**]
+     Reason: Please assess for carotid disease                           
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with MS changes                                               
+     REASON FOR THIS EXAMINATION:
+      Please assess for carotid disease                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CAROTID STUDY DATED [**6-23**].
+     
+     HISTORY:  Mental status changes.
+     
+     FINDINGS:  There is no appreciable plaque or wall thickening involving either
+     carotid system.  The peak systolic velocities fall within the lower arrange. 
+     There is antegrade flow involving both vertebral arteries.
+     
+     IMPRESSION:  No appreciable plaque or wall thickening, diffuse low velocities
+     throughout suggesting cardiac dysfunction.
+                                                                           
+
+",,
+13919,9046,17313,0,2820-06-23 03:38:00 EST,2820-06-23 03:56:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: ""I can't get any [**Doctor Last Name 8**].""
+O: please see carevue for complete assessment data
+NEURO: Pt. easily roused to verbal stim, oriented to person only, denies pain. MAE, assists w/ turning. PERRL 2-3mm/brisk. At times lucid but mostly confused, pleasant and cooperative w/ nursing care. Cont SWR to maintain line integrity.  
+
+CV: Remains hemodynamically stable, HR 80s-100s NSR/ST w/ occasional VEA, repleted K, Mg and Phos as indicated, Ca+ improving after pamidronate and IVF admin. Hct pending. Hypernatremia stable/improved (147-148-150) cont 1/2 NS @ 300cc/hr. Denies CP/palpitations, skin warm/dry, distal pulses easily palp. 
+
+RESP: SpO2 97-100% on RA, LSCTA, mildly diminished @ bases bilaterally. Denies dyspnea. Weak cough productive of thick tan sputum. 
+
+GI: Abd soft, nontender, nondistended. +BS/-BM. Remains NPO (medical management of diverticulitis and ? extramural abcess on CT). Denies N/V/C.  
+
+GU: cont polyuric, foley draining 150-300cc/hr clear urine; cont 0.45% NS @ 300cc/hr. Urine osmol cont low (210-250->goal >250), recieved additional 20mg lasix IVP w/ some improvement. 
+
+ENDO: BG ^ 280s-300s, tx'd w/ RISS. 
+
+ID: remains afebrile, abx for PNA and abd abcess. 
+
+SKIN: w/d/i, multiple areas eccymosis, no breakdown noted. R double lumen PICC patent and intact
+
+SOC: dtr called, updated on POC and pt condition by RN
+
+A: 74yo w/ new hilar mass on CT (? lung CA), nephrogenic DI remains hemodynamically stable w/ improving hypercalcemia and hypernatremia. 
+P: follow up am labs, cont to monitor serum Na and urine osmol, monitor hemodynamics. Cont abx a/o. Support to pt/family as indicated. Renal and gen/vascular [**Doctor First Name **] following.  
+",,
+13919,9046,,,2820-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-25**] 5:48 PM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 4658**]
+     Reason: Please evaluate for fractures                               
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with low back pain and overlying bruising s/p fall end of 
+      July
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for fractures                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old female with low back pain status post fall in July.
+     
+     Note is made of the prior abdominal CTA of [**2820-6-21**].
+     
+     TWO VIEWS, LUMBAR SPINE:  A compression of less than 50% loss of anterior
+     vertebral body height is unchanged in appearance from the prior CT abdomen of
+     [**2820-6-21**].  No other fractures are seen.  The disc heights are maintained.
+     There is normal alignment.  There is diffuse osteopenia.  There is mild
+     scoliosis.
+     
+     Punctate calcifications in the right upper quadrant are consistent with
+     duodenal calcifications seen on the abdominal CTA.  There are vascular
+     calcifications and likely a small fusiform abdominal aortic aneurysm which was
+     seen on the prior abdominal CTA.
+     
+     IMPRESSION:
+     
+     1.  Chronic-appearing L1 vertebral body compression fracture.
+     
+     2.  Likely small fusiform abdominal aortic aneurysm which was seen on the
+     prior CTA abdomen of [**2820-6-21**].
+     
+     
+     
+     
+
+",,
+13919,9046,,,2820-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-27**] 1:25 PM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 4659**]
+     Reason: please evaluate for mets/staging                            
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with large lung lesion, nephrogenic DI from hypercalcemia     
+     REASON FOR THIS EXAMINATION:
+      please evaluate for mets/staging                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JVg SAT [**2820-6-27**] 2:23 PM
+      No bleed or mass lesion
+     WET READ AUDIT #1 JVg SAT [**2820-6-27**] 2:22 PM
+      No bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old female with large lung lesion, nephrogenic diabetes
+     insipidus from hypercalcemia.  Evaluate for metastasis for staging.
+     
+     COMPARISON:  [**2820-6-21**] MR brain.
+     
+     TECHNIQUE:  Axial images of the head were obtained without and with IV
+     contrast.
+     
+     FINDINGS:  Within the white matter of the right frontal lobe, there is a small
+     focus of hypodensity corresponding to an area of T2 hyperintensity seen on
+     prior MR, likely representing prior microvascular infarct.  There is no
+     evidence of enhancing lesions to suggest metastatic disease.  There is no
+     evidence of intracranial hemorrhage, mass effect, shift of normally midline
+     structures.  There is normal [**Doctor Last Name 63**]-white matter differentiation.  The paranasal
+     sinuses and mastoid air cells are clear.  Surrounding osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:
+     
+     Single focus of low density within the white matter of the right frontal lobe
+     likely representing chronic microvascular infarct.  No evidence of enhancing
+     lesions to suggest metastatic disease.
+                                                                           
+
+",,
+13919,9046,,,2820-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-29**] 3:00 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 4660**]
+     Reason: Please do RUQ ultrasound and evaluate for stones            
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with lung mass, diverticular abscess, now with RUQ pain       
+     REASON FOR THIS EXAMINATION:
+      Please do RUQ ultrasound and evaluate for stones                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Right upper quadrant ultrasound.
+     
+     INDICATION:  Right upper quadrant pain.  Comparison is made to CT study
+     performed on [**2820-6-21**].
+     
+     FINDINGS:  The liver is normal in echotexture.  Several small cystic
+     structures are noted throughout the parenchyma of the liver previously
+     characterized by a CT study done on [**2820-6-21**].  A small right-sided ventral
+     pleural effusion is noted.  Small nonobstructing gallstones are present. 
+     Minimal sludge is also noted within the gallbladder.  There is no evidence of
+     pericholecystic fluid or wall edema.  The common bile duct is within normal
+     limits and measures 4.2 mm.
+     
+     IMPRESSION:  No evidence of acute cholecystitis.
+                                                                           
+
+",,
+13919,9046,,,2820-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2820-6-29**] 7:42 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4661**]
+     Reason: Please evaluate for post obstructive pna, pleural effusions 
+     Admitting Diagnosis: LUNG MASS, DIVERTICULAR ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with lung mass and now SOB                                    
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for post obstructive pna, pleural effusions                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung mass and shortness of breath.
+     
+     COMPARISON:  [**2820-6-21**].
+     
+     PA AND LATERAL VIEW OF THE CHEST:  New right PICC tip terminates in the mid
+     SVC.  Right upper lobe consolidation is worse, and there is a persistent right
+     hilar mass.  There is increased volume loss within the right lung with
+     elevation of the right hemidiaphragm and mild shift of mediastinal structures.
+     The left lung is clear.  The cardiac contours are unchanged.  There is no
+     pneumothorax.  Blunting of the costophrenic angles posteriorly on the lateral
+     views suggest small bilateral pleural effusions.  There is diffuse osteopenia
+     with compression of several thoracic vertebral bodies.
+     
+     IMPRESSION:
+     1.  Worsening right upper lobe post-obstructive pneumonia secondary to right
+     hilar mass with increased volume loss in the right lung.
+     2.  Small bilateral pleural effusions.
+     3.  PICC tip projects over mid SVC.
+                                                                           DFDdp
+
+",,
+13919,9046,,,2820-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

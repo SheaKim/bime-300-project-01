@@ -1,0 +1,921 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2778-5-5**]        Discharge Date: [**2778-5-9**]
+
+Date of Birth:  [**2696-4-7**]        Sex:  M
+
+Service:  NME
+
+
+DATE OF EXPIRATION:  [**2778-5-9**]
+
+CHIEF COMPLAINT:  Acute onset right-sided weakness and
+aphasia.
+
+HISTORY OF PRESENT ILLNESS:  This is an 82-year-old male with
+recent colectomy on [**2778-5-2**] at [**Hospital6 1232**] and
+with significant cerebrovascular risk factors who is
+transferred for IA tPA and conventional angiogram for acute-
+onset aphasia and right-sided weakness.  The history is
+obtained from notes as the family is not available at this
+time.  The patient underwent colonoscopy after having occult
+blood in his stool, which led to diagnosis of likely stage-D
+colon adenocarcinoma with liver and omental metastases.  The
+patient was doing well until postoperatively today at 2:15
+p.m. when he was noted by his wife to be weak in his chair
+and not talking.  A neurologist who saw him noted right
+hemiparesis and aphasia.  He was apparently following some
+commands.  A CT scan showed early signs of infarction,
+particularly intracortex, and he is transferred here for
+further management.
+
+PAST MEDICAL HISTORY:  Recently diagnosed colon cancer,
+status post right colectomy on [**2778-5-2**] with possible liver
+and omental metastases.
+
+Coronary artery disease, status post 4-vessel CABG.
+
+Hypertension.
+
+Hypothyroidism.
+
+BPH.
+
+Status post tonsillectomy.
+
+Status post appendectomy.
+
+Status post right hip placement.
+
+Status post TURP.
+
+MEDICATIONS UPON TRANSFER:
+1. Aspirin 81 mg by mouth every day.
+2. Synthroid 0.05 mg by mouth every day.
+3. Heparin subcutaneously twice a day.
+4. Lopressor 12.5 mg by mouth twice a day.
+5. Terazosin 1 mg by mouth at bedtime.
+6. Zofran 4 mg IV/po every 6 hours as needed.
+7. Morphine PCA.
+
+
+MEDICATIONS AT HOME:
+1. Diovan.
+2. Synthroid.
+3. Zocor.
+4. Atenolol.
+5. Aspirin.
+
+
+ALLERGIES:  None.
+
+HABITS:  Unknown at this time.
+
+SOCIAL HISTORY:  He is married with 3 children.  He is a
+psychologist and was very active in his research.
+
+FAMILY HISTORY:  Showed no history of stroke in the parents.
+
+PHYSICAL EXAMINATION:  Examination upon admission,
+temperature 97.2 degrees, pulse 84 and regular, blood
+pressure 142/78, respiratory rate 14.  He is saturating 100
+percent, nonrebreather.  Generally, well-appearing elderly
+man in no acute distress.  Mucous membranes are moist.  Lungs
+are clear to auscultation anteriorly.  Heart has regular rate
+and rhythm with 2/6 systolic murmur at the base.  There is no
+carotid bruits or ocular bruits audible.  Abdomen is soft,
+nontender.  Extremities show no pedal pulses or rashes.  On
+mental status exam, the patient opens his eyes, but does not
+follow or mimic for me any midline spoke commands.  There is
+no verbal output.  Cranial nerve exam, the patient blinks
+less from the right.  He blinks well from the left.  Optic
+disc could not be visualized well due to small pupils.
+Pupils are 2.5 to 1.5 mm reactive to light bilaterally.  Eyes
+occasionally seen gazing to the left but does not get to
+midline and often has midline gaze.  Corneal reflex intact
+bilaterally.  He resists eye opening more forcefully with the
+left side of the face than the right.  Right brow and lip is
+downturned.  On motor exam, there was markedly increased tone
+in the right upper extremity.  On one occasion, there was
+tonic contraction of the right arm with tremulousness but no
+overt clonic activity.  The right leg is spastic with forced
+flexion but foot goes well to rotation.  In the left arm, he
+has a sense of gravity, but the right arm does not.  There is
+slight flexion of the right hand to pain.  The left leg is
+immobilized due to catheterization.  On coordination exam, he
+is not able to do finger-to-nose test.  Reflexes, his deep
+tendon reflexes are all present and slightly increased in the
+right upper extremity.  Plantar responses are extensor
+bilaterally.  On sensory exam, his sensation is intact to
+pain in all four extremities.  Non-contrast head CT shows
+massive cortical distinction in the left intracortex.
+
+LABORATORY DATA:  At the outside hospital, white count 16.3,
+hematocrit 34.2, platelets 304, INR 1, PTT 23.8.  Sodium 136,
+potassium 4.5, chloride 102, bicarbonate 23, glucose 141, BUN
+30, creatinine 1.3, calcium 8.5, magnesium 1.8, phosphate
+1.9, CK 329.
+
+Labs at [**Hospital1 10**] showed white
+count 11.1, hematocrit 32.2, platelets 273, AST 24, ALT 36,
+alkaline phosphatase 38, total bilirubin 0.6, albumin 2.5, CK
+346.
+
+HOSPITAL COURSE:  Given the suspicion that the patient had a
+left hemispheric stroke, he was sent for a conventional
+angiogram, which showed plaque at the bifurcation of the left
+internal carotid with poor distal flow.  IA tPA was
+administered at the site of plaque but did not result in any
+appreciable increase in flow.  Systolic blood pressure was
+around 130s to 140s, and he was not given any antiplatelet or
+anticoagulation therapy.  Given further discussion with the
+family, the family wishes to have the patient comfort
+measures only given that the prognosis is poor.  He was put
+on a sublingual morphine, sublingual Ativan, and scopolamine.
+He then passed away on [**2778-5-9**].
+
+DIAGNOSES:  Left hemispheric stroke.
+
+Metastatic colon cancer.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 9956**]
+
+Dictated By:[**Last Name (NamePattern1) 2122**]
+MEDQUIST36
+D:  [**2778-5-15**] 18:26:37
+T:  [**2778-5-16**] 09:03:31
+Job#:  [**Job Number 9957**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2778-5-22**] 12:21 PM
+(End of Report)
+
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36216 SEL CATH 2ND ORDER            *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896  TRANS CATH INFUSSION         *
+     * 75671 CAROTID/CEREBRAL BILAT         C1769 GUID WIRES INFU/PERF          *
+     * C1769 GUID WIRES INFU/PERF           C1887 CATH GUIDING INFUS/PERF       *
+     * C1887 CATH GUIDING INFUS/PERF        C1887 CATH GUIDING INFUS/PERF       *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with colon ca pod #3 s/p colectomy, who sudden onset of right 
+      hemiplegia and aphasia, sent from [**Location 5441**] for acute poss. IA TPA.
+     REASON FOR THIS EXAMINATION:
+      carotid or mca stenosis/occlusion, acute tpa candidate                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     This is an 82-year-old male patient who now presents with left-sided
+     infarction in the left MCA distribution on the MRI. Patient is here for an
+     intra-arterial thrombolysis.
+     
+     Informed consent was obtained from the patient and patient signed after
+     explaining the risks, indications and alternative management.
+     
+     TECHNIQUE:
+     Access to the right common fermoral artery was obtained using a Seldinger
+     approach. A 6 Fr catheter was placed in the right common femoral artery. 6 Fr
+     sheath was placed in the right common femoral artery. Through the sheath, a 5
+     Fr pigtail catheter was introduced and aortic arch angiogram was performed.
+     Later the catheter was withdrawn and a 4 Fr Berenstein catheter was introduced
+     into the right common carotid artery and right common carotid artery angiogram
+     was performed. Later the catheter was withdrawn and the left common carotid
+     artery was selectively catheterized and arteriogram was performed.
+     
+     FINDINGS
+     
+     AORTIC ARCH:
+     There is severe tortuosity noted in the origin of the aortic arch.
+     
+     RIGHT COMMON CAROTID ARTERY:
+     Evaluation of the right common carotid artery demonstrates a good flow in the
+     distal right internal carotid artery, and right middle and anterior cerebral
+     artery. There is cross-filling noted to the left side with almost total
+     occlusion of the left middle cerebral artery branches.
+     
+     LEFT COMMON CAROTID ARTERY:
+     Evaluation of the left common carotid artery demonstrates total occlusion of
+     the left internal carotid artery approximately 1 to 2 cm from its origin.
+                                                                 (Over)
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Delayed images demonstrate reconstitution of the left distal left internal
+     carotid artery and opacification of the left anterior cerebral artery branches
+     and left M-1 segment. There is total occlusion of the left middle cerebral
+     artery at its bifurcation.
+     
+     At this point, after extensively discussing with the referring stroke
+     attending, small amount of  TPA was administered into the stump of the left
+     internal carotid artery. (Please refer to the nursing notes for exact dosage.)
+     
+     At this point the catheter was withdrawn and pressure was held on the right
+     groin until hemostasis was obtained. The procedure was uneventful and the
+     patient tolerated the procedure well. The patient was sent to the floor with
+     orders.
+     
+     IMPRESSION:
+     1. Successful TP administration into the stump of the left internal carotid
+     artery.
+     2. Angiography demonstrates total occlusion of the left middle cerebral artery
+     at its bifurcation.
+     3. Please note that this is a redictation. The previous dication was lost
+     during the process of transcription.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36216 SEL CATH 2ND ORDER            *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896  TRANS CATH INFUSSION         *
+     * 75671 CAROTID/CEREBRAL BILAT         C1769 GUID WIRES INFU/PERF          *
+     * C1769 GUID WIRES INFU/PERF           C1887 CATH GUIDING INFUS/PERF       *
+     * C1887 CATH GUIDING INFUS/PERF        C1887 CATH GUIDING INFUS/PERF       *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with colon ca pod #3 s/p colectomy, who sudden onset of right 
+      hemiplegia and aphasia, sent from [**Location 5441**] for acute poss. IA TPA.
+     REASON FOR THIS EXAMINATION:
+      carotid or mca stenosis/occlusion, acute tpa candidate                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     This is an 82-year-old male patient who now presents with left-sided
+     infarction in the left MCA distribution on the MRI. Patient is here for an
+     intra-arterial thrombolysis.
+     
+     Informed consent was obtained from the patient and patient signed after
+     explaining the risks, indications and alternative management.
+     
+     TECHNIQUE:
+     Access to the right common fermoral artery was obtained using a Seldinger
+     approach. A 6 Fr catheter was placed in the right common femoral artery. 6 Fr
+     sheath was placed in the right common femoral artery. Through the sheath, a 5
+     Fr pigtail catheter was introduced and aortic arch angiogram was performed.
+     Later the catheter was withdrawn and a 4 Fr Berenstein catheter was introduced
+     into the right common carotid artery and right common carotid artery angiogram
+     was performed. Later the catheter was withdrawn and the left common carotid
+     artery was selectively catheterized and arteriogram was performed.
+     
+     FINDINGS
+     
+     AORTIC ARCH:
+     There is severe tortuosity noted in the origin of the aortic arch.
+     
+     RIGHT COMMON CAROTID ARTERY:
+     Evaluation of the right common carotid artery demonstrates a good flow in the
+     distal right internal carotid artery, and right middle and anterior cerebral
+     artery. There is cross-filling noted to the left side with almost total
+     occlusion of the left middle cerebral artery branches.
+     
+     LEFT COMMON CAROTID ARTERY:
+     Evaluation of the left common carotid artery demonstrates total occlusion of
+     the left internal carotid artery approximately 1 to 2 cm from its origin.
+                                                                 (Over)
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Delayed images demonstrate reconstitution of the left distal left internal
+     carotid artery and opacification of the left anterior cerebral artery branches
+     and left M-1 segment. There is total occlusion of the left middle cerebral
+     artery at its bifurcation.
+     
+     At this point, after extensively discussing with the referring stroke
+     attending, small amount of  TPA was administered into the stump of the left
+     internal carotid artery. (Please refer to the nursing notes for exact dosage.)
+     
+     At this point the catheter was withdrawn and pressure was held on the right
+     groin until hemostasis was obtained. The procedure was uneventful and the
+     patient tolerated the procedure well. The patient was sent to the floor with
+     orders.
+     
+     IMPRESSION:
+     1. Successful TP administration into the stump of the left internal carotid
+     artery.
+     2. Angiography demonstrates total occlusion of the left middle cerebral artery
+     at its bifurcation.
+     3. Please note that this is a redictation. The previous dication was lost
+     during the process of transcription.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36216 SEL CATH 2ND ORDER            *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896  TRANS CATH INFUSSION         *
+     * 75671 CAROTID/CEREBRAL BILAT         C1769 GUID WIRES INFU/PERF          *
+     * C1769 GUID WIRES INFU/PERF           C1887 CATH GUIDING INFUS/PERF       *
+     * C1887 CATH GUIDING INFUS/PERF        C1887 CATH GUIDING INFUS/PERF       *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with colon ca pod #3 s/p colectomy, who sudden onset of right 
+      hemiplegia and aphasia, sent from [**Location 5441**] for acute poss. IA TPA.
+     REASON FOR THIS EXAMINATION:
+      carotid or mca stenosis/occlusion, acute tpa candidate                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     This is an 82-year-old male patient who now presents with left-sided
+     infarction in the left MCA distribution on the MRI. Patient is here for an
+     intra-arterial thrombolysis.
+     
+     Informed consent was obtained from the patient and patient signed after
+     explaining the risks, indications and alternative management.
+     
+     TECHNIQUE:
+     Access to the right common fermoral artery was obtained using a Seldinger
+     approach. A 6 Fr catheter was placed in the right common femoral artery. 6 Fr
+     sheath was placed in the right common femoral artery. Through the sheath, a 5
+     Fr pigtail catheter was introduced and aortic arch angiogram was performed.
+     Later the catheter was withdrawn and a 4 Fr Berenstein catheter was introduced
+     into the right common carotid artery and right common carotid artery angiogram
+     was performed. Later the catheter was withdrawn and the left common carotid
+     artery was selectively catheterized and arteriogram was performed.
+     
+     FINDINGS
+     
+     AORTIC ARCH:
+     There is severe tortuosity noted in the origin of the aortic arch.
+     
+     RIGHT COMMON CAROTID ARTERY:
+     Evaluation of the right common carotid artery demonstrates a good flow in the
+     distal right internal carotid artery, and right middle and anterior cerebral
+     artery. There is cross-filling noted to the left side with almost total
+     occlusion of the left middle cerebral artery branches.
+     
+     LEFT COMMON CAROTID ARTERY:
+     Evaluation of the left common carotid artery demonstrates total occlusion of
+     the left internal carotid artery approximately 1 to 2 cm from its origin.
+                                                                 (Over)
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Delayed images demonstrate reconstitution of the left distal left internal
+     carotid artery and opacification of the left anterior cerebral artery branches
+     and left M-1 segment. There is total occlusion of the left middle cerebral
+     artery at its bifurcation.
+     
+     At this point, after extensively discussing with the referring stroke
+     attending, small amount of  TPA was administered into the stump of the left
+     internal carotid artery. (Please refer to the nursing notes for exact dosage.)
+     
+     At this point the catheter was withdrawn and pressure was held on the right
+     groin until hemostasis was obtained. The procedure was uneventful and the
+     patient tolerated the procedure well. The patient was sent to the floor with
+     orders.
+     
+     IMPRESSION:
+     1. Successful TP administration into the stump of the left internal carotid
+     artery.
+     2. Angiography demonstrates total occlusion of the left middle cerebral artery
+     at its bifurcation.
+     3. Please note that this is a redictation. The previous dication was lost
+     during the process of transcription.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36216 SEL CATH 2ND ORDER            *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896  TRANS CATH INFUSSION         *
+     * 75671 CAROTID/CEREBRAL BILAT         C1769 GUID WIRES INFU/PERF          *
+     * C1769 GUID WIRES INFU/PERF           C1887 CATH GUIDING INFUS/PERF       *
+     * C1887 CATH GUIDING INFUS/PERF        C1887 CATH GUIDING INFUS/PERF       *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with colon ca pod #3 s/p colectomy, who sudden onset of right 
+      hemiplegia and aphasia, sent from [**Location 5441**] for acute poss. IA TPA.
+     REASON FOR THIS EXAMINATION:
+      carotid or mca stenosis/occlusion, acute tpa candidate                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     This is an 82-year-old male patient who now presents with left-sided
+     infarction in the left MCA distribution on the MRI. Patient is here for an
+     intra-arterial thrombolysis.
+     
+     Informed consent was obtained from the patient and patient signed after
+     explaining the risks, indications and alternative management.
+     
+     TECHNIQUE:
+     Access to the right common fermoral artery was obtained using a Seldinger
+     approach. A 6 Fr catheter was placed in the right common femoral artery. 6 Fr
+     sheath was placed in the right common femoral artery. Through the sheath, a 5
+     Fr pigtail catheter was introduced and aortic arch angiogram was performed.
+     Later the catheter was withdrawn and a 4 Fr Berenstein catheter was introduced
+     into the right common carotid artery and right common carotid artery angiogram
+     was performed. Later the catheter was withdrawn and the left common carotid
+     artery was selectively catheterized and arteriogram was performed.
+     
+     FINDINGS
+     
+     AORTIC ARCH:
+     There is severe tortuosity noted in the origin of the aortic arch.
+     
+     RIGHT COMMON CAROTID ARTERY:
+     Evaluation of the right common carotid artery demonstrates a good flow in the
+     distal right internal carotid artery, and right middle and anterior cerebral
+     artery. There is cross-filling noted to the left side with almost total
+     occlusion of the left middle cerebral artery branches.
+     
+     LEFT COMMON CAROTID ARTERY:
+     Evaluation of the left common carotid artery demonstrates total occlusion of
+     the left internal carotid artery approximately 1 to 2 cm from its origin.
+                                                                 (Over)
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Delayed images demonstrate reconstitution of the left distal left internal
+     carotid artery and opacification of the left anterior cerebral artery branches
+     and left M-1 segment. There is total occlusion of the left middle cerebral
+     artery at its bifurcation.
+     
+     At this point, after extensively discussing with the referring stroke
+     attending, small amount of  TPA was administered into the stump of the left
+     internal carotid artery. (Please refer to the nursing notes for exact dosage.)
+     
+     At this point the catheter was withdrawn and pressure was held on the right
+     groin until hemostasis was obtained. The procedure was uneventful and the
+     patient tolerated the procedure well. The patient was sent to the floor with
+     orders.
+     
+     IMPRESSION:
+     1. Successful TP administration into the stump of the left internal carotid
+     artery.
+     2. Angiography demonstrates total occlusion of the left middle cerebral artery
+     at its bifurcation.
+     3. Please note that this is a redictation. The previous dication was lost
+     during the process of transcription.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36216 SEL CATH 2ND ORDER            *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896  TRANS CATH INFUSSION         *
+     * 75671 CAROTID/CEREBRAL BILAT         C1769 GUID WIRES INFU/PERF          *
+     * C1769 GUID WIRES INFU/PERF           C1887 CATH GUIDING INFUS/PERF       *
+     * C1887 CATH GUIDING INFUS/PERF        C1887 CATH GUIDING INFUS/PERF       *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with colon ca pod #3 s/p colectomy, who sudden onset of right 
+      hemiplegia and aphasia, sent from [**Location 5441**] for acute poss. IA TPA.
+     REASON FOR THIS EXAMINATION:
+      carotid or mca stenosis/occlusion, acute tpa candidate                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     This is an 82-year-old male patient who now presents with left-sided
+     infarction in the left MCA distribution on the MRI. Patient is here for an
+     intra-arterial thrombolysis.
+     
+     Informed consent was obtained from the patient and patient signed after
+     explaining the risks, indications and alternative management.
+     
+     TECHNIQUE:
+     Access to the right common fermoral artery was obtained using a Seldinger
+     approach. A 6 Fr catheter was placed in the right common femoral artery. 6 Fr
+     sheath was placed in the right common femoral artery. Through the sheath, a 5
+     Fr pigtail catheter was introduced and aortic arch angiogram was performed.
+     Later the catheter was withdrawn and a 4 Fr Berenstein catheter was introduced
+     into the right common carotid artery and right common carotid artery angiogram
+     was performed. Later the catheter was withdrawn and the left common carotid
+     artery was selectively catheterized and arteriogram was performed.
+     
+     FINDINGS
+     
+     AORTIC ARCH:
+     There is severe tortuosity noted in the origin of the aortic arch.
+     
+     RIGHT COMMON CAROTID ARTERY:
+     Evaluation of the right common carotid artery demonstrates a good flow in the
+     distal right internal carotid artery, and right middle and anterior cerebral
+     artery. There is cross-filling noted to the left side with almost total
+     occlusion of the left middle cerebral artery branches.
+     
+     LEFT COMMON CAROTID ARTERY:
+     Evaluation of the left common carotid artery demonstrates total occlusion of
+     the left internal carotid artery approximately 1 to 2 cm from its origin.
+                                                                 (Over)
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Delayed images demonstrate reconstitution of the left distal left internal
+     carotid artery and opacification of the left anterior cerebral artery branches
+     and left M-1 segment. There is total occlusion of the left middle cerebral
+     artery at its bifurcation.
+     
+     At this point, after extensively discussing with the referring stroke
+     attending, small amount of  TPA was administered into the stump of the left
+     internal carotid artery. (Please refer to the nursing notes for exact dosage.)
+     
+     At this point the catheter was withdrawn and pressure was held on the right
+     groin until hemostasis was obtained. The procedure was uneventful and the
+     patient tolerated the procedure well. The patient was sent to the floor with
+     orders.
+     
+     IMPRESSION:
+     1. Successful TP administration into the stump of the left internal carotid
+     artery.
+     2. Angiography demonstrates total occlusion of the left middle cerebral artery
+     at its bifurcation.
+     3. Please note that this is a redictation. The previous dication was lost
+     during the process of transcription.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ********************************* CPT Codes ********************************
+     * 37201 TRANSCATH THROMBOYSUS INFUSION 36216 SEL CATH 2ND ORDER            *
+     * -51 MULTI-PROCEDURE SAME DAY         36216 SEL CATH 2ND ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      75896  TRANS CATH INFUSSION         *
+     * 75671 CAROTID/CEREBRAL BILAT         C1769 GUID WIRES INFU/PERF          *
+     * C1769 GUID WIRES INFU/PERF           C1887 CATH GUIDING INFUS/PERF       *
+     * C1887 CATH GUIDING INFUS/PERF        C1887 CATH GUIDING INFUS/PERF       *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with colon ca pod #3 s/p colectomy, who sudden onset of right 
+      hemiplegia and aphasia, sent from [**Location 5441**] for acute poss. IA TPA.
+     REASON FOR THIS EXAMINATION:
+      carotid or mca stenosis/occlusion, acute tpa candidate                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:
+     This is an 82-year-old male patient who now presents with left-sided
+     infarction in the left MCA distribution on the MRI. Patient is here for an
+     intra-arterial thrombolysis.
+     
+     Informed consent was obtained from the patient and patient signed after
+     explaining the risks, indications and alternative management.
+     
+     TECHNIQUE:
+     Access to the right common fermoral artery was obtained using a Seldinger
+     approach. A 6 Fr catheter was placed in the right common femoral artery. 6 Fr
+     sheath was placed in the right common femoral artery. Through the sheath, a 5
+     Fr pigtail catheter was introduced and aortic arch angiogram was performed.
+     Later the catheter was withdrawn and a 4 Fr Berenstein catheter was introduced
+     into the right common carotid artery and right common carotid artery angiogram
+     was performed. Later the catheter was withdrawn and the left common carotid
+     artery was selectively catheterized and arteriogram was performed.
+     
+     FINDINGS
+     
+     AORTIC ARCH:
+     There is severe tortuosity noted in the origin of the aortic arch.
+     
+     RIGHT COMMON CAROTID ARTERY:
+     Evaluation of the right common carotid artery demonstrates a good flow in the
+     distal right internal carotid artery, and right middle and anterior cerebral
+     artery. There is cross-filling noted to the left side with almost total
+     occlusion of the left middle cerebral artery branches.
+     
+     LEFT COMMON CAROTID ARTERY:
+     Evaluation of the left common carotid artery demonstrates total occlusion of
+     the left internal carotid artery approximately 1 to 2 cm from its origin.
+                                                                 (Over)
+
+     DATE: [**2778-5-5**] 4:59 PM
+     CAROT/CEREB [**Hospital1 5**]                                                  Clip # [**Clip Number (Radiology) 5440**]
+     Reason: carotid or mca stenosis/occlusion, acute tpa candidate      
+      Contrast: OPTIRAY Amt: 165
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Delayed images demonstrate reconstitution of the left distal left internal
+     carotid artery and opacification of the left anterior cerebral artery branches
+     and left M-1 segment. There is total occlusion of the left middle cerebral
+     artery at its bifurcation.
+     
+     At this point, after extensively discussing with the referring stroke
+     attending, small amount of  TPA was administered into the stump of the left
+     internal carotid artery. (Please refer to the nursing notes for exact dosage.)
+     
+     At this point the catheter was withdrawn and pressure was held on the right
+     groin until hemostasis was obtained. The procedure was uneventful and the
+     patient tolerated the procedure well. The patient was sent to the floor with
+     orders.
+     
+     IMPRESSION:
+     1. Successful TP administration into the stump of the left internal carotid
+     artery.
+     2. Angiography demonstrates total occlusion of the left middle cerebral artery
+     at its bifurcation.
+     3. Please note that this is a redictation. The previous dication was lost
+     during the process of transcription.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 8:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5445**]
+     Reason: please eval for aspiration pneumonia, heart failure         
+     Admitting Diagnosis: CAROTID STENOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with new L MCA stroke, now gurgling, Question aspiration        
+     REASON FOR THIS EXAMINATION:
+      please eval for aspiration pneumonia, heart failure                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 82-year-old man with MCA stroke.  Now with gurgling.  Rule out
+     aspiration pneumonia or CHF.
+     
+     AP SINGLE VIEW OF THE CHEST:  No comparison available.
+     
+     FINDINGS:  Note that although the film is labeled as ""upright"", it may not be
+     an upright film given the appearance of the gastric air bubble.  The patient
+     is status post median sternotomy and CABG. The heart is of normal size for
+     technique. The aorta is tortuous and dilated. The pulmonary vascularity is
+     within normal limits. There is no definite CHF. There is haziness of the right
+     entire hemithorax which most likely represents a layering pleural effusion.
+     However, cannot exclude underlying atelectasis or consolidation.  Recommend
+     repeating this radiograph in upright position.
+     
+     IMPRESSION:
+     Complete haziness of the right hemithorax most likely represents a layering,
+     moderate-sized pleural effusion.  However, cannot exclude underlying pneumonia
+     or atelectasis.  Recommend repeating the chest radiograph in the upright
+     position.
+     
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 5:11 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5442**]
+     Reason: stroke? r/o bleed                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with cad, right hip replacement, pod s/p colectomy with sudden 
+      aphasia and right hemiplegia.
+     REASON FOR THIS EXAMINATION:
+      stroke? r/o bleed                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY: Sudden aphasia and right hemiplegia.
+     
+     COMPARISON: No prior studies.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no acute hemorrhage, mass effect or shift of normally
+     midline structures.  There are small bilateral frontal subdural hygromas.
+     Loss of [**Doctor Last Name **]-white matter differentiation in the left MCA distribution.
+      MRI with diffusion weighted imaging is recommended for further evaluation.
+     The ventricles and basal cisterns are patent and symmetric.  The visualized
+     osseous structures are grossly unremarkable.
+     
+     IMPRESSION:
+     1) No acute hemorrhage or mass effect.
+     
+     2) CT signs of early acute major territorial infarct involving the left MCA
+     distribution.
+     
+     Findings immediately discussed with Dr [**Last Name (STitle) 5443**], the physician [**Name9 (PRE) 5444**] of this
+     patient.
+
+",,
+13995,22098,,,2778-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-5**] 9:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5446**]
+     Reason: eval NGT placement                                          
+     Admitting Diagnosis: CAROTID STENOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man with new L MCA stroke, now gurgling, Question aspiration       
+       
+     REASON FOR THIS EXAMINATION:
+      eval NGT placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Nasogastric tube placement.  Evaluate for aspiration.
+     
+     A nasogastric tube is present and terminates below the diaphragm.  There is
+     diffuse haziness throughout the right hemithorax compared to the left,
+     consistent with a layering right pleural effusion.  However, there also
+     appears to be a component of air space disease within the right lung.  The
+     left lung is grossly clear, and there is no evidence of left pleural effusion.
+     
+     IMPRESSION:
+     
+     1. Nasogastric tube terminates below the diaphragm.
+     2. Layering right pleural effusion, as well as an apparent air space disease
+     within the right lung.  The latter could be due to either aspiration or
+     pneumonia.  A follow-up upright chest radiograph is recommended to better
+     differentiate the degree of pleural and parenchymal disease in this patient.
+
+",,
+13995,22098,17405,,2778-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-6**] 11:24 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5447**]
+     Reason: please assess extent of stroke                              
+     Admitting Diagnosis: CAROTID STENOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with stroke                                                     
+     REASON FOR THIS EXAMINATION:
+      please assess extent of stroke                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Stroke, please assess extent.
+     
+     TECHNIQUE:  Noncontrast axial images of the head were obtained from the
+     occiput to the vertex.
+     
+     COMPARISON:  [**2778-5-5**] head CT.
+     
+     HEAD CT:  There is diffuse low attenuation and loss of [**Doctor Last Name 63**]-white matter
+     differentiation in the left frontal lobe and part of the left parietal lobe.
+     This is consistent with an evolving left hemispheric stroke.  There is no
+     acute hemorrhage.  There is narrowing of the sulci in the left hemisphere but
+     no shift of normally midline structures.  Bilateral frontal subdural hygromas
+     are again noted.  The ventricles and cisterns are unremarkable.  The left
+     middle cerebral artery appears dense in comparison to the right.  Bony
+     structures, mastoid air cells and visualized paranasal sinuses are
+     unremarkable.
+     
+     IMPRESSION:  Findings consistent with evolving left middle cerebral artery
+     stroke.
+
+",,
+13995,22098,17405,0,2778-05-06 02:46:00 EST,2778-05-06 03:23:00 EST,3601,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PT ADMITTED TO NSICU S/P TPA INFUSION IN ANGIO SUITE.
+
+NEURO:
+DOES NOT FOLLOW COMMANDS, OPENS EYES TO VOICE BUT DEVIATES TO (L), NODS TO ALL QUESTIONS. MOVEMENT IN LEFT SEEMS TO BE RETURNING TO NORMAL WITHDRAWS ON (L) ONLY. QUESTIONABLE SX ACTIVITY NOTED IN THAT (R) ARM BECAME VERY RIGID FOR ~ 2-3 MINUTES THEN RELAXED TO BASELINE.
+
+CV:
+INFO UNAVAILABLE IN REGARDS TO EF BUT ACTIVE PRIOR TO INSULT. (SWAM A MILE PER DAY) DOES HAVE CAD AND S/P CABG. PRE ADMISSION BETA BLOCKED
+HR PER MONITOR PATTERN 50-70 NSR WITH OCC PVC'S NOTED. BP 100-140'S. TREATED WITH NS BOLUS X4 FOR INCREASE TO > 130 SURGERY AND NEURO BOTH AWARE 
+
+RESP: LUNGS CLEAR. DID VOMIT A SMALL AMT OF ""COFFEE GROUND"" GASTRIC CONTENTS WHILE TURNING ON SIDE. SAO2 98-100% REMAINS ON NON REBREATHER
+
+GI/GU: 
+NGT INSERTED VERY CAREFULLY AND WITHOUT INCIDENCE. OK'D WITH SURGERY
+POSITION CHECKED BY CXR. HCT UNCHANGED
+URINE CULTURED SENT
+
+PLAN TO KEEP SBP 130-140 WITH FLUID BOLUS RATHER THAN PRESSORS FOR NOW 
+ALINE, CENTRAL LINE, ASA AND HEPARIN DEFERRED SECONDARY TO TPA.
+AND RESCAN TODAY
+",,
+13995,22098,17405,0,2778-05-06 17:15:00 EST,2778-05-06 17:30:00 EST,3062,"N",54,"Nursing/Other",,"
+
+nuero:  At times pt does open his eyes when [**Doctor First Name **] call his name. pt does not follow any commands. pt does withdraw all four extremties to painful stimuli. spontanous movement noted from left arm and left leg. slight spontanous movement noted from right arm an right leg on bed at times.  pupils remain equal and reactive to light.  tremors noted in left arm, no other tremors noted from any other extremetes, dr. [**Last Name (STitle) **] into assess patient. dr. [**Last Name (STitle) 5543**](nueromed) resident called and aware. dilantin level sent, pt to start on dilantin. pt went for head ct today.
+
+pulm: lungs coarse. pt remained on 15l facemask, pt desated down to 80's, abg sent 7.47/30/60/22 pt put on an addtional 6lnp with 15l facemask, abg sent result pending. 02sat back up to 99-100%. lung coarse. resp. therapy into assess pt able to obtain sputum which was sent for culute.
+
+cards: pt remains in sr, occasional vea noted. pt started on neo to keep sbp 130-150, neo changed to levophed secondary to cool foot. levophed  presently at .025mcg/kg/ min. aline placed by dr. [**Last Name (STitle) **]. cardaic echo done. left footed noted to be cool to touch, pulse present by doppler in left foot dp/pt, unable to find doppler dp pulses, dr. [**First Name (STitle) **] called and aware. vasular team into assess patient, they were able to find doppler pulses in left foot, pulses marked by black marker.
+
+gu: u/o has been greater than 40cc/hr.
+
+f/e chem 7 sent result pending, glucose 167 tx'd with  2u of regular insulin per sliding scale.
+
+social: pt family meet  with dr. [**Last Name (STitle) 5543**]. 
+
+plan: conitinue to monitor nuero status, monitor tremors  pt to start on  dilantin. monitor pulm status, continue to monitor left foot for pulses. continue to monitor
+",,
+13995,22098,17405,,2778-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-7**] 3:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5448**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: CAROTID STENOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man with new L MCA stroke, now gurgling, Question aspiration      
+         
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Clinical suspicion for aspiration.
+     
+     A nasogastric tube terminates within the stomach.  Cardiac and mediastinal
+     contours are within normal limits and stable.  Diffuse opacity is again
+     demonstrated in the right hemithorax, which appears to be due to a combination
+     of pulmonary consolidation and a layering right pleural effusion.  The lung
+     volumes are slightly improved in the interval since the previous study.
+     Allowing for this factor, there is probably no significant change.
+     
+     IMPRESSION:  Persistent diffuse pulmonary opacity in the right lung as well as
+     a layering right pleural effusion.  This may be due to aspiration pnemonia
+     given the clinical suspicion for an aspiration event.
+
+",,
+13995,22098,17405,0,2778-05-07 06:42:00 EST,2778-05-07 06:46:00 EST,3601,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+AGGRESSIVE PULM TOILET DONE; SUCTIONED FOR LARGE AMOUNTS THICK TAN SECRETIONS IMPROVED O2 STATUS SEE ABG'S
+NEURO SLIGHTLY BETTER 
+BP > 130 ON .05 LEVO
+",,
+13995,22098,17405,0,2778-05-07 16:15:00 EST,2778-05-07 16:17:00 EST,3975,"N",54,"Nursing/Other",,"
+
+Respiratory Care Note:
+   Patient received 2 CPT treatments today f/w NTS for moderate amounts of med thin tannish, blood tinged secretions. BS remain coarse as he doesn't clear upper airway secretions and BS sound coarse R>L with scattered crackles.  He is on a 95% high flow neb with SpO2 >95%.
+",,
+13995,22098,17405,0,2778-05-07 17:20:00 EST,2778-05-07 17:58:00 EST,3062,"N",54,"Nursing/Other",,"
+
+nuero: pt at times does open his eyes when [**Doctor First Name **] call his name. pt not following any commands. please see flow sheet for nuero assessment. pt continues on levophed to keep sbp b/w 130-150. cards: pt remains in
+sr with frequent pvc's. discreption b/w cuff and aline  dr. [**Last Name (STitle) 1647**]
+aware, following  noninvasive cuff pressure. pulm: lungs coarse. suctioning pt for thick tannish secretions. chest pt done every 3-4hrs. gi pt made npo. gu; foley patent draining straw colored urine.  social: dr. [**Last Name (STitle) **] had family meeting, decision made for dnr,dni, comfort measure only. provided emotional support to family
+",,
+13995,22098,17405,0,2778-05-07 18:51:00 EST,2778-05-07 19:01:00 EST,3062,"N",54,"Nursing/Other",,"
+
+pt daughter in  pt room and called pt name, pt looked at daughter, pt daugther felt that "" pt is responding much better than earlier today"", 
+dr. [**Last Name (STitle) **] called and into speak to family, and assess pt. .  spoke with pt daughter  after  dr.[**Last Name (STitle) **] spoke with family and she does understand  and agree with  the dnr, dni status and does not want to change that  plan of care.
+",,
+13995,22098,17405,0,2778-05-08 03:21:00 EST,2778-05-08 03:30:00 EST,3214,"N",54,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+    FAMILY STAYED AT BEDSIDE UNTIL MIDNIGHT. DR [**Last Name (STitle) **] IN TO SEE PATIENT AND FAMILY.  COMFORT MEASURES CONTINUED, PATIENT RECEIVING O2 VIA FACE TENT.  PT OPENING EYES TO VERBAL STIMULI, APPEARS TO COMPREHEND, NODDING IN RESPONSE TO QUESTIONS AND FOLLOWING SIMPLE COMMANDS OF LEFT HAND SQEEZE AND OPENING MOUTH.  MORPHINE ELIXIR ADMINISTERED SUBLINGUALLY X2 UNTIL NEW IV PLACED, NOW RECEIVING MORPHINE IV PUSH FOR COMFORT. PT LOCALISING AREAS OF DISCOMFORT, GRIMACING AND NODDING TO AFFIRM PRESENCE OF PAIN.  
+    CARDIAC RHYTHM DISPLAYING NSR WITH RARE PVC'S, RESP RATE ELEVATED IN 30'S, BP STABLE AND O2 SATS STABLE.  BREATH SOUNDS VERY COARSE, NASOTRACHEAL SUCTIONED X3 FOR LARGE AMOUNT THICK TAN SECRETIONS.
+
+",,

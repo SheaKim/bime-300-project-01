@@ -1,0 +1,1769 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13826,1462,,,3130-03-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3130-2-13**]       Discharge Date:  [**3130-3-23**]
+
+Date of Birth:   [**3073-10-10**]       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 46 year old
+female with a history of polysubstance abuse who was
+transferred from [**Hospital 9701**] Hospital on [**3-3**] with
+hypoxemic respiratory failure.  The patient has a complicated
+recent medical history including an admission to [**Hospital 9701**]
+Hospital in [**3129-11-22**] following an overdose with
+multiple substances, subsequently developing bilateral
+question aspiration pneumonias requiring an Intensive Care
+Unit stay (it is not clear if the patient was intubated at
+this time).  The patient developed persistent hypoxemia after
+her November admission and was placed on 3 liters of nasal
+cannula oxygen upon discharge in December.  In the interim
+she had restarted using alcohol, intravenous heroin,
+intranasal cocaine and abusing other pills including PCAs.
+In this setting she presented to [**Hospital 9701**] Hospital on [**2-13**] with complaints of increasing shortness of breath.  She
+had increased her use of intravenous heroin and intranasal
+cocaine within the preceding week.  She was begun on
+Ceftazidime and Clindamycin for possible aspiration pneumonia
+and also given steroids and nebulizers for compliance of
+reactive disease and chronic obstructive pulmonary disease.
+Her initial chest x-rays at the outside hospital revealed
+diffuse bilateral infiltrates concerning for adult
+respiratory distress syndrome versus bilateral pneumonias due
+to severe aspiration.  The patient had increasing oxygen
+requirement and was eventually placed on nonrebreather on the
+medical floor.  By report, her echocardiogram revealed normal
+left ventricular function.  Antibiotics were changed to
+Levaquin on [**2-17**] and then to Azithromycin on [**2-20**].  The patient's respiratory status continued to decline
+and she was intubated on [**3130-2-22**] at [**Hospital 9701**]
+Hospital.  The patient underwent bronchial alveolar lavage on
+[**2-24**].  She had a negative lenie on [**2-16**].
+
+The patient continued to require increasing positive end
+expiratory pressure and ventilatory supports by aggressive
+antibiotic therapy and Intensive Care Unit management.  The
+patient underwent a chest computerized tomography scan on
+[**2-25**] which revealed diffuse bilateral interstitial lung
+disease with subpleural bronchiectasis with a diffuse
+reticular nodular pattern.  The patient underwent right open
+wound biopsy on [**3130-2-27**] after which a right tube was
+placed.  The patient continued to require high forced
+inspiratory oxygen levels and positive end-expiratory
+pressure.  The patient was transferred to [**Hospital6 291**] for further evaluation
+management of her bilateral pulmonary infiltrates, question
+acute and chronic pulmonary disease of unclear etiology.  She
+was transferred on [**3130-3-3**].
+
+PAST MEDICAL HISTORY:  1.  Polysubstance abuse; 2.  Question
+chronic obstructive pulmonary disease; 3.  Question untreated
+obstructive [**Doctor Last Name 292**] apnea; 4.  Obesity; 5.  Question bipolar
+disorder versus depression with psychotic features; 6.
+Question reactive airway disease.
+
+ALLERGIES:  Codeine causes gastrointestinal upset.
+
+MEDICATIONS ON TRANSFER:  Propofol drip; Versed drip; Lovenox
+subcutaneous; morphine drip; Ciprofloxacin 400 intravenously
+b.i.d.; Lopressor; Lansoprazole; Solu-Medrol 60 b.i.d.
+
+SOCIAL HISTORY:  Positive tobacco use, patient lives with
+sister and has had a long history of polysubstance abuse
+including intravenous heroin, intranasal cocaine, alcohol and
+psychiatric medications.
+
+PHYSICAL EXAMINATION:  Upon admission temperature 99,
+heartrate 66, blood pressure 107/70, respiratory rate 18,
+oxygen saturation 96%.
+
+LABORATORY DATA:  Arterial blood gases, 7.41, pACO2 46, pAO2
+72, on FIO2 of 65% with positive end-expiratory pressure of
+15.  White count 17.3, hematocrit 37, platelets 272.  Chem-7
+sodium 139, potassium 4, chloride 97, bicarbonate 28, BUN 16,
+creatinine 0.3, glucose 117, normal coagulation studies.
+
+HOSPITAL COURSE:  The patient was admitted to the Fennard
+Intensive Care Unit on [**3-3**] for further evaluation and
+management of her diffuse bilateral pulmonary infiltrate and
+persistent hypoxemia.  The patient's initial chest x-ray
+revealed left lower lobe collapse and consolidation with
+bibasilar ill-defined pulmonary infiltrate.  Given that the
+patient had received greater than 14 days of broad-spectrum
+antibiotics at the outside hospital the decision was made to
+withhold any antibiotic treatment until sputum cultures were
+revealing of an infectious etiology.  It is felt that the
+patient was in the later stages of adult respiratory distress
+syndrome.  Given that her open lung biopsy had revealed
+diffuse alveolar damage, consistent with adult respiratory
+distress syndrome and pulmonary edema, the patient was placed
+on midury protocol for treatment of late stage adult
+respiratory distress syndrome with tapering dose of
+Solu-Medrol.  The patient continued, however, to have high
+ventilatory support requirement with positive end-expiratory
+pressure no less than 12.5 and FIO2 no less than 50%.  With
+decreasing positive end-expiratory pressure and FIO2 the
+patient immediately dropped oxygen saturation to the low 80s
+with pAO2s in the 60s.  The patient continued to do well from
+all other perspectives without complications of other organ
+systems.  Her chest tube was removed on [**3130-3-5**]
+without complications.  A PICC line was placed on [**3130-3-17**] for improved intravenous access, given poor
+peripheral veins due to drug use.  Her right internal jugular
+with triple lumen catheter was discontinued at this time.  A
+repeat chest computerized tomography scan was obtained on
+[**3130-3-18**] which revealed diffuse patchy areas of
+groundglass opacification and consolidation.  There was
+abnormal opacity of all areas of both lungs.  Consolidation
+has a dependent distribution and no endobronchial lesions are
+identified.  The computerized tomography scan was felt to be
+consistent with diffuse alveolar damage/pulmonary edema in a
+patient with adult respiratory distress syndrome.  The
+possibility of acute interstitial pneumonitis, ([**Location (un) **] [**Doctor First Name **]
+syndrome) was suggested.  Radiologically, infectious etiology
+can not be excluded.
+
+Multiple discussions were held in an attempt to further
+elucidate the etiology of the patient's persistent hypoxemia.
+It appears that this hospitalization was precipitated by an
+acute injury in the setting of chronic interstitial lung
+disease.  Whether the patient has interstitial pulmonary
+fibrosis is not clear.  It is clear that the patient has a
+long history of chemical dependence and overdoses with ?
+development of chemical pneumonitis and repeat chemical
+versus infectious lung injury.  The patient had tracheostomy
+placed on [**3130-3-17**] as it became clear that she would
+require continuous ventilatory support in the rehabilitation
+setting.  Placement of tracheostomy was without
+complications.  The patient continued to do well after
+tracheostomy placement and eventually had a percutaneous
+enterogastric jejunostomy tube placed on [**3130-2-16**] for
+nutritional support.  The procedure was without complications
+and tube feeds were started through her gastrostomy tube
+without complications.  The patient was seen by physical
+therapy and did well.
+
+At the time of discharge, the patient has ventilatory
+settings of pressure support 15 with positive end-expiratory
+pressure of 12.5, FIO2 40 to 50%.  In this setting her minute
+ventilation was 10-12 liters per minute with a title volume
+of 4 to 600.  Of note, the patient desaturates rapidly with
+excessive coughing and agitation.  She has required
+persistently increasing amount of Klonopin and Risperdal for
+agitation.  It is clear that her substance abuse issues need
+to be addressed as an outpatient as well as her anxiety
+issues.
+
+Of note, the patient had increasing secretions on [**3-20**]
+with mildly increased temperatures and mild leukocytosis to
+15,000.  Given clinical scenario of increasing secretion and
+history of greater than 20 days on the ventilator, the
+patient was treated aggressively for ventilator associated
+pneumonia and responded well with double coverage of gram
+negative rods with Ceftazidime and Levofloxacin.  She is to
+complete a 14 day course which showed finish on [**3130-4-3**].  The patient's secretions decreased significantly and
+the patient has remained afebrile without leukocytosis since
+initiation of these antibiotics.
+
+The patient will need follow up with pulmonary doctor [**First Name (Titles) **]
+[**Last Name (Titles) 958**], as her diagnosis and prognosis remains unclear.
+She is improving with ventilatory support, however, her
+ultimate oxygen requirements remain unclear at this time.  It
+was recommended that she follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at
+[**Hospital6 273**].  She will be discharged
+to [**Hospital6 2766**] for ventilatory support and
+pulmonary rehabilitation as well as physical therapy.  She is
+felt to be an excellent rehabilitation candidate given her
+lack of other medical issues.
+
+DISCHARGE DIAGNOSIS:
+1.  Hypoxemic respiratory failure due to question acute and
+chronic lung disease of unclear etiology.
+2.  Polysubstance abuse with history of multiple overdoses.
+3.  Question bipolar disorder versus depression with
+psychotic features.
+4.  Question obstructive [**Doctor Last Name 292**] apnea untreated.
+5.  Obesity.
+6.  Question reactive airway disease versus chronic
+obstructive pulmonary disease.
+
+MEDICATIONS ON DISCHARGE:
+1.  Ceftazidime 1 gm intravenously q. 8 times 12 days
+2.  Levofloxacin 500 mg p.o. q. 24 hours times 12 days
+3.  Clonazepam 3 mg p.o. t.i.d.
+4.  Risperidone oral solution 1 mg p.o. q. AM
+5.  Risperdal oral solution 2 mg per gastrostomy tube q.h.s.
+6.  Regular insulin sliding scale
+7.  Heparin subcutaneously 5000 units q. 8
+8.  Fentanyl patch 75 mcg/hr, transdermal q. 72 hours
+9.  Dulcolax 10 mg p.r. q.h.s.
+10. Multivitamin 5 ml p.o. q.d.
+11. Lactulose 30 ml p.o. q. 8 hours prn constipation
+12. Albuterol 2 puffs inhaled q. 6 hours
+13. Atrovent 2 puffs inhaled q. 4 hours
+14. Lansoprazole oral solution 30 mg per percutaneous
+endoscopic gastrostomy tube q.d.
+15. Tylenol prn
+16. Miconazole powder 2% apply to affected areas t.i.d. prn
+
+DISCHARGE CONDITION:  Good
+
+
+
+
+                            [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **], M.D.  [**MD Number 763**]
+
+Dictated By:[**Name8 (MD) 9702**]
+MEDQUIST36
+
+D:  [**3130-3-22**]  19:45
+T:  [**3130-3-22**]  19:52
+JOB#:  [**Job Number 9703**]
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **] [**Doctor Last Name **]
+ on: WED [**3130-5-7**] 5:11 PM
+(End of Report)
+
+
+",,
+13826,1462,,,3130-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-3**] 9:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3833**]
+     Reason: Infiltrates                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      Infiltrates                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   56 y/o woman with respiratory failure and infiltrates.
+     
+     COMPARISONS:  No priors.
+     
+     PORTABLE AP CHEST:  There is an endotracheal tube and NG tube in satisfactory
+     position. There is a right sided chest tube whose tip is in the right lower
+     lung zone.  No pneumothorax is identified.
+     
+     There is moderate cardiomegaly, with ill defined bilateral pulmonary
+     infiltrates, left greater than right. There is left lower lobe
+     collapse/consolidation. Low lung volumes.
+     
+     IMPRESSION:   No pneumothorax.
+     
+     Left lower lobe collapse/consolidation, with bibasilar ill defined pulmonary
+     infiltrates.
+
+",,
+13826,1462,17200,,3130-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-4**] 8:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3834**]
+     Reason: Interstitial lung disease                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old woman resp failure with                                            
+                    
+     REASON FOR THIS EXAMINATION:
+      Interstitial lung disease                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure, interstitial lung disease.
+     
+     PORTABLE CHEST:  Comparison is made to [**3130-3-3**].  An ET tube appears in good
+     position.  The course of the feeding tube cannot be visualized in its
+     entirety.  The right thoracostomy tube is stable in position.  No pneumothorax
+     is identified.  The heart size is slightly enlarged, exaggerated by low lung
+     volumes.  There is diffuse interstitial opacity, unchanged since the prior
+     study.  There is a well-defined defect in the distal clavicle, suggesting
+     prior surgical resection.
+     
+     IMPRESSION:  Findings most consisent with CHF, though the appearance may be
+     confounded by interstitial lung disease.
+
+",,
+13826,1462,17200,,3130-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-4**] 1:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3835**]
+     Reason: S/p CVL                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with              resp. failure s/p CVL placement             
+                                      
+     REASON FOR THIS EXAMINATION:
+      S/p CVL                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Respiratory failure s/p central venous line placement.
+     
+     Comparison is made with the AP chest radiograph from approximately 5 hours
+     earlier.
+     
+     SUPINE AP CHEST RADIOGRAPH: A right sided internal jugular central venous line
+     is present with the tip at the junction of the superior vena cava and the
+     right atrium. There is no evidence of pneumothorax. A right chest tube is
+     present, unchanged in position. There is stable cardiomegaly with increased
+     prominence of the pulmonary vasculature, indicating congestive heart failure.
+     In the short interval since the prior study, no significant change has
+     occured. Again seen is a feeding tube with the tip in the stomach.
+     
+     IMPRESSION:
+     1) Successful right internal jugular central venous line placement. No
+     pneumothorax.
+     
+     2) Appearance of chest not significantly changed.
+     
+
+",,
+13826,1462,17200,0,3130-03-04 03:46:00 EST,3130-03-04 04:03:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Sedated on Versed 9mg/hr, MSO4 4mg/hr and Propofol 25mcg/kg/min and able to arouse by voice, nodding to questions.  Follows some commands. MAE. Denies any pain.
+CV: Afeb. HR 50s-60s SB, no ectopy noted. BP 90s-110s/40s-60s. A-line placed with good tracing. Skin warm and dry with weak but palpable pedal pulses. Pneumoboots on. Trace generalized edema. R groin TLC line. 
+RESP: Vented ETT #8 21cm at lip. PCV 25 Peep 15 FiO2 90% with O2 Sats 91-95%. Lungs coarse and diminished at bases. Episode of desaturation while on 13 Peep to 89% x2. Deep sx'd for thick tan secretions and small plug with lavage. Continued with Sat 89% and Peep increased to 15. CXR done. R anterior CT intact to H2O seal, no leak noted.  
+GI/GU: Abd. large, soft with hypoactive bowel sounds. TF Respalor at 60cc/hr via NGT. Glucose under 200. Foley draining amber urine >30cc/hr. 
+SKIN: Would benefit from air mattress. Duoderm covering stage [**1-23**] on R buttock. Gluteal folds red, raw and irritated. 
+ID: Pan cx'd on arrival with MRSA nasal and rectal swabs sent. No abx at this time. WBC 17.3. No fever. Samples of lung bx sent over from [**Hospital1 **] and taped to front of chart. 
+
+",,
+13826,1462,17200,0,3130-03-04 06:42:00 EST,3130-03-04 06:48:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient was received intubated with 8.0 et tube taped at 20cm. Bilateral breath sounds are coarse, decreased over RLL. Sats have been labile,requiring high FIO2 and Peep. Recruitment breaths done following suctioning and periods of desaturation with slight improvement. Suctioning very thick tan, sometimes bloodtinged secretions. Currently on 75%, pressure control 25/15 x 18 with sats 90-92.
+",,
+13826,1462,17200,0,3130-03-04 16:43:00 EST,3130-03-04 16:47:00 EST,102,"N",69,"Nursing/Other",,"
+
+Resp Care
+remains ett/vented in pcv mode. present settings dp 23/peep 15/60%/rate 18 with 0.9 I time. pt with abdominal assisted forced expiratory phase..bs with end expir wheezing,occ rhonchi. sxned for sm tan plugs. started on albuterol/atrovent mdi's q4h and prn. esophageal balloon placed...appears to be at proper level of peep without overdistension. again, with abdominal efforts, measurements not completely accurate. sats presently 92% on 60%. permissive hypercapnia, suggest further sedation or change to volume mode. 
+",,
+13826,1462,17200,0,3130-03-04 17:10:00 EST,3130-03-04 17:23:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Neuro:  Pt sedated on MSO4 at 5mg/hour, Versed at 9mg/hour, and propofol 60mcg/kg/min.  Sedation was increased today due to overbreating ventilator resulting in lower O2 sats.  Pt presently sedated to [**Last Name (un) **] 3 with minimal overbreathing.  Found to have fentanyl patch on back which was placed at OSH, removed and not reordered.  Nicoderm patch also removed and not reordered.
+
+CV:  HR 60's-70's, sr, no ectopy.  ABP 100's-120's/50's-60's.  Generalized 2+ edema.  IVF @ KVO.  Afebrile.
+
+Resp:  LS's coarse to upper airways and diminished to lower airways.  Remains on PCV, driving pressure decreased to 23 to keep TV 400-500.  FiO2 weaned to 60% with PaO2 71 and SpO2 91-92%.  Set RR 18, PEEP 15.  Esophageal balloon placed today.  Suctioned for minimal tan secretions. 
+
+GI:  Abd soft/distended/hypo bs's.  TF's respalor at goal rate of 60cc/hour running through OGT, no residuals.  No BM this shift.
+
+GU:  Foley draining qs clear yellow urine.
+
+Skin:  Duoderm to right buttock intact.  No other breakdown noted to backside.  Placed on Kinnair bed today to prevent further skin breakdown.  Rt IJ TLCL placed today and Rt groin TLCL d/c'd, tip cultured.  Left radial aline with dressing c/d/i.
+
+Soc:  Pt's mother called for updates this morning.  She will be into visit Thursday and will be calling daily for updates.
+
+Plan:  Cont to monitor VS's, I&O, labs, resp status.  Keep well-sedated to optimize oxygenation while on PCV.
+",,
+13826,1462,17200,,3130-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-5**] 4:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3838**]
+     Reason: Chest tibe removed. Eval for pneumo                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          56 year old woman with              resp. failure with ? ARDS               
+           
+     REASON FOR THIS EXAMINATION:
+      Chest tibe removed. Eval for pneumo                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest tube removed, evaluate for pneumothorax.
+     
+     Comparison film from one day previous.
+     
+     AP CHEST:  The right-sided chest tube has been removed.  There is no
+     pneumothorax.  Again an ET tube is present with its tip 2 cm from the carina.
+     A feeding tube is present with the tip in the stomach.  A right internal
+     jugular central venous line is unchanged in position.  There are persistent
+     bibasilar opacities, not changed from the prior study.  Bilateral small
+     pleural effusions are probably present.
+     
+     IMPRESSION:  Status post removal of chest tube without pneumothorax.  The
+     remainder of the exam is unchanged from the prior.
+     
+
+",,
+13826,1462,17200,,3130-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-5**] 3:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3837**]
+     Reason: Chest tube clamped. Eval for pneumo.                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         56 year old woman with              resp. failure with ? ARDS                
+         
+     REASON FOR THIS EXAMINATION:
+      Chest tube clamped. Eval for pneumo.                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure and possible ARDS.  Evaluate for pneumothorax
+     after clamping of chest tube.
+     
+     PORTABLE CHEST:  Comparison is made to [**3130-3-3**].  The tip of the endotracheal
+     tube is 3 cm above the carina.  The feeding tube is coiled in the stomach. The
+     right thoracostomy tube has changed position slightly.  There is no
+     penumothorax.
+     
+     The heart size is stable.  There is persistent perihilar haziness and diffuse
+     interstitial opacities, none significantly changed.  Though these findings may
+     represent cardiogenic pulmonary edema, in the appropriate clinical setting
+     other causes such as, acute interstitial pneumonia (Hamman-[**Doctor First Name **] syndrome)
+     should be considered.
+
+",,
+13826,1462,17200,,3130-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-5**] 8:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3836**]
+     Reason: Hx of OD with ? ARDS                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old woman with              resp. failure with ? ARDS                  
+     REASON FOR THIS EXAMINATION:
+      Hx of OD with ? ARDS                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56 year old female status post overdose with respiratory failure.
+     
+     COMPARISON:  [**3130-3-4**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is a right IJ line whose tip is in the
+     distal SVC.  No pneumothorax is identified.  Again seen is a right-sided chest
+     tube in the right lower lung zone, not changed in position from the prior
+     study.  There is a feeding tube whose tip extends below the level of the film.
+     The endotracheal tube is in satisfactory position.  The heart size is enlarged
+     with prominence of the pulmonary vasculature, however, the supine positioning
+     limits evaluation for cardiac failure.  There are continued lower and mid zone
+     patchy bilateral opacities, not significantly changed from the prior study.
+     
+     IMPRESSION:
+     
+     1.  Bibasilar pulmonary infiltrates not significantly changed from the prior
+     study.
+
+",,
+13826,1462,17200,0,3130-03-05 04:40:00 EST,3130-03-05 04:50:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Increased sedation for asynchrony with vent with decreased TVs and O2 Sat. Propofol at 70mcg/kg/min, versed 10mg/hr and MSO4 at 5mg/hr. Appears well sedated and more in synch with vent.
+CV: Afeb. HR 50s-60s SB, no ectopy noted. BP stable (see carevue). Skin warm, dry with 1-2+generalized edema. Palpable pedal pulses. 
+RESP: Vent ACV with driving pressure increased to 30 d/t low TVs, RR 18 Peep 15 FiO2 70% with O2 Sat 90-96% and TVs 300s-400s. Sx'd for minimal tan secretions. Lungs coarse and decreased at bases.
+GI/GU: Abd. obese, soft with hypoactive BS. No BM (no BM in 4days). TF via NGT at 60cc/hr. Continues with high blood sugars and covered with insulin as ordered. Foley draining clear yellow urine >30cc/hr. 
+SKIN: Duoderm to R buttock intact. Skin breakdown between gluteal folds with barrier cream applied. Kinair bed and repositioned side to side as tolerated. R IJ intact, L radial A-line intact.
+OTHER: No calls or visitors. 
+",,
+13826,1462,17200,0,3130-03-05 05:15:00 EST,3130-03-05 05:30:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Remains on pressure control vent. Driving pressure increased to 30 due to worsening tidal volumes. Pt. was overbreathing by a few breaths and was out of sync with the vent. Even with sedation increased and no spontaneous breaths,she had what appeared to be discoordinate breathing and sats dropped, at one point as low as 70. Several attempted recruitment breaths done but poorly tolerated. She did respond to ambuing but would again decompensate when on the vent. With driving pressure up to 30, she is breathing in synch with the vent with much improved sats and abgs. Of note, pt. tolerated turning/washing this morning without incident on a lower level of sedation than earlier. Trans pulm pressure yesterday  measued at 15 ?re check today.
+",,
+13826,1462,17200,0,3130-03-05 11:33:00 EST,3130-03-05 11:41:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 0700-1100","
+MICU NPN 0700-1100
+Neuro:  Pt remains sedated on MSO4, versed, and propofol.  IV bolused with propofol X2 for discoordination with ventilator.
+
+CV:  HR 50's, SB, no ectopy, ABP 100's-110's/50's.  CVP transduced with readings 18-20.  Diuresed with 20mg IV lasix with brisk response in u/o.
+
+resp:  Remains vented on PCV, driving pressure decreased to 25 in order to lower PIP, however, pt's TV dropped to 80-100 with desaturation to 82% and pt attempting to trigger ventilator.  Sedation increase attempted without effect.  Ambued, suctioned for no secretions.  Insp pressure increased back to 30.
+
+GI:  Tf's changed to 1/2strength promote w/fiber and promod at 40cc/hour.  BS's remain elevated, started on and insulin gtt which is presently running at 3u/hour.
+
+GU:  Foley to gravity.  U/O down from 8:00-10:00, noted to have more sedimentation in urine.  Rec'd 20mg IV lasix at 1030 with minimal response noted at 1100.  Foley irrigated, found to be resistant at first and then flushed easily.  Pt with 600cc urine out after irrigation.
+
+Plan:  Cont to monitor resp status, wean vent as tolerated.  Monitor VS's, I&O, labs. 
+",,
+13826,1462,17200,0,3130-03-05 18:01:00 EST,3130-03-05 18:14:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN 1100-1900","
+[**Wardname **] 4 ICU NPN 1100-1900
+
+   Remains intubated & sedated. Cont on propofol, midaz & morphine.
+   Presently on PCV IP 28, PEEP 12.5, rate 18, Fio2 decreased to 50%. No spont resp. Vt 500-510. Sats ~96%. Last ABG 69/47/7.47/35/8. BS coarse, decreased at bases.
+   R CT d/c'd. CT insertion site & staples at OLB site covered with DSD. 
+   HR 47-58 SB. No VEA noted. Resident aware of bradycardia. SBP 120's.
+   BS down to 56 on insulin gtt. Gtt d/c'd. Given [**1-23**] amp (12.5 gm) D50.
+   UO decreasing last two hrs. Positive fld balance 150 cc's. CVP ~15
+   AFEB.
+   Mom & sister phoned. They were updated on pt's condition. Questions answered. Mom may be in tomorrow.
+
+O: Stable on PCV. 
+   ? eti of bradycardia.
+
+P: Decrease inspiratory pressure as tol.
+   Follow UO, HR 
+   Support to family
+
+  
+
+",,
+13826,1462,17200,,3130-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-6**] 9:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3839**]
+     Reason: ARDS?                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old woman with              resp. failure with ? ARDS                 
+       
+     REASON FOR THIS EXAMINATION:
+      ARDS?                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure, ? ARDS.
+     
+     Comparison is made to the AP chest radiograph from [**3130-3-5**].
+     
+     AP CHEST RADIOGRAPH:  Again seen is a right IJ central venous line with the
+     tip in the SVC, ET tube in good position, and a feeding tube with the tip not
+     included on the study but below the diaphragm.  The heart size and pulmonary
+     vasculature are unchanged in appearance. There is complete consolidation of
+     the left lower lobe with an bronchogram.  There is a slight overall increase
+     in bilateral lung opacity, consistent with worsening pulmonary edema. The
+     osseous structures are unchanged.
+     
+     IMPRESSION:  Worsening pulmonary edema, consolidation of left lower lobe.
+
+",,
+13826,1462,17200,0,3130-03-06 04:25:00 EST,3130-03-06 04:40:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Sedated on Propofol 40mcg/kg/min, MSO4 5mg/hr, Versed 11mg/hr. Attempted to wean propofol slightly with mild hypotension but pt. became awake with eyes open with desaturation to 88%. 
+CV: Afeb. HR 48-70s SB/SR, no ectopy noted. EKG done at beginning of shift. BP 90s-100s/40s-50s. Skin warm and dry with palpable pedal pulses. CVP11-14. TLC line intact to R IJ. R a-line to L radial. 
+RESP: Vent PCV with IP 28 Peep 12.5 rate 18 FiO2 50%. O2 Sat 90-92%. Lungs coarse and diminshed at bases. Sx'd for scant tan secretions. R anterior old CT site with DSD, no drainage. Incision to R chest wall with staples, C/D/I. 
+GI/GU: Abd. obese, soft with hypoactive bowel sounds. No BM in several days- would benefit from suppository. TF continue at 40cc/hr via NGT. Foley draining clear yellow urine >30cc/hr. Fingersticks q6hr with ss insulin coverage as ordered.
+SKIN: Duoderm to R buttock intact. Skin between buttocks excoriated and red- barrier cream applied. On Kinair mattress, reposistioned side to side. 
+",,
+13826,1462,17200,0,3130-03-06 06:12:00 EST,3130-03-06 06:14:00 EST,290,"N",69,"Nursing/Other",,"
+
+RESP CARE
+Pt remains intubated and ventilated. Current settings are pcv26/rate 18/peep12.5 fio2 60%. Volumes =420-480cc. Required an inc in fio2 due to low sats. Attempted to return fio2 to 50 but sats fell quickly. Pt given alb/atr mdi as ordered. Will follow as needed.
+",,
+13826,1462,17200,0,3130-03-06 06:59:00 EST,3130-03-06 07:00:00 EST,-1,"N",69,"Nursing/Other","MICU NSG ADD:","
+MICU NSG ADD:
+FiO2 increased to 60% d/t low O2 Sat 89-92% on 50%. ABG sent.
+",,
+13826,1462,17200,0,3130-03-06 21:17:00 EST,3130-03-06 21:18:00 EST,102,"N",69,"Nursing/Other",,"
+
+Resp Care
+remains intub/vented in pcv mode. dp 26/peep 12.5/60%.rate 15. still desaturates slightly when light. admin albuterol/atrovent q4h. plan to wean fio2 further. dysynchronous when light. ?change to ac mode in am.
+",,
+13826,1462,17200,,3130-03-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-7**] 8:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3840**]
+     Reason: ards, f/u
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          56 year old woman with              resp. failure with ? ARDS              
+     REASON FOR THIS EXAMINATION:
+      ards
+      f/u
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure with suspected ARDS.
+     
+     PORTABLE CHEST:  Comparison study dated [**3130-3-6**].  The endotracheal tube is 1
+     cm above the carina with the neck slightly flexed.  The feeding tube is coiled
+     in the stomach.  The cardiac and mediastinal contours are stable. The
+     pulmonary vasculature is indistinct and there is diffuse pattern of lung
+     opacification which has not changed. There are small effusions bilaterally.
+     
+     IMPRESSION:  Low positioning of endotracheal tube. Otherwise, stable
+     appearance of the chest.
+
+",,
+13826,1462,17200,0,3130-03-07 05:19:00 EST,3130-03-07 05:35:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress","
+SMICU nsg progress
+Neuro- Remains sedated on mso4 at4mg/hr, midaz at 10mg/hr and propofol at 35mc. Pt requiring propofol bolusx2 as pt becoming agitated with suctioning -eyes open with increased rr popping off vent with sats to low 90's. Unable to respond to questioning. Moving all extremitities.
+Resp- Intubated/vented on PCV with ip 26 peep 12.5 fi02 60% rate 15 with tv 450-550. Sats stable 94-98%.  Abg 89/58/7.41. Suctioned for copious amts oral and nasal secretions. Mod amt sticky white secretions in et tube. Remains afebrile.
+Cardiac- Cont with episodes bradycardia with hr down to 48. Bp stable thoughout. Maintaining adequate uo.
+Gi- On tube feeds at 40cc/hr. Still without bowel movement despite fleets and lactolose. Cont on ss insulin.
+",,
+13826,1462,17200,0,3130-03-07 16:26:00 EST,3130-03-07 16:44:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Neuro:  Pt remains sedated on MSO4, propofol, and versed.  Pt with intermittent periods of being awake and overbreathing vent.  Nodding and following commands at one time this am.  However, when pt overbreathing, she desaturates to the 80's.  IV bolused with propofol PRN with good effect.
+
+CV:  HR 40's-60's, SB-SR, no ectopy.  ABP 90's-140's/60's-70's.  Afebrile.  
+
+Resp:  Remains vented on PCV, no vent changes made today.  TV 400's with driving pressure 26 and PEEP 12.5.  O2 sat 94% with FiO2 60%.  Suctioned for no secretions.  Cont with copious oral secretions.
+
+GI:  Abd softly distended with +BS's.  No response to bowel meds given yesterday, rec'd dulcolax suppository this afternoon with stool noted in restal cavity.
+
+GU:  Foley draining qs yellow urine with some sedimentation noted.  Diuresed with 20mg Iv lasix with good response.
+
+Skin:  Right IJ TLCL, left radial aline with dressings and sites c/d/i.  Left buttock with superficial breakdown with duoderm, changed. Breakdown also noted to coccyx, duoderm placed.  Turned and repostioned as tolerated.
+
+Plan:  Cont with slow wean of ventilator, adequate sedation in order to maintain ventillation.  Monitor VS's, I&O, labs.
+",,
+13826,1462,17200,0,3130-03-08 05:51:00 EST,3130-03-08 06:02:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro; pt awake on eves. able to squeeze both hands and push with both feet against hand on command. nodding head affirmative when asked if experiencing pain. pt reasured and bolus of morphine givne. pt givne periodic boluses of propofol and versed. propofol inc to 40mcg. versed at 10mg and morphine at 4mg pt asleep at this time.
+
+resp: pt remains on cmv ps inc to 15 to maintain sats above 93% am abg pao2 inc to 98 from 61 on previous abg. pt suctioned for thick white secretions. pt has copious oral secretions. also moderate amts of nasal secretions.
+
+cad hr 55-70's pvc's noted around 12mn   K+ done 3.9.  addtioanl K+ done with 5am labs. b/p 120-140/70-80's cvp 14-19.
+
+gu: no additional lasix given pt 1500cc negative at 12mn for 2h hours.  uo 60-160cc/hr.
+
+gi: no bm bs+ tf cont at 40cc 1/2 strength promode. 
+
+skin: douderm intact over coccyx area. drsg over [**Name5 (PTitle) **] [**Name5 (PTitle) **] chest tube sight intact ? need to replace.
+
+endo: bs at 12mg 216 requiring coverage am bs pending.
+
+plan: ? ability to attemtp any weaing today due to pt ability to [**Doctor Last Name 8**] overnight. cont to moniotr gi status ? need to follow with more rigid bowel regime continue to moniotr vs, labs. ? additional diuresing. 
+",,
+13826,1462,17200,0,3130-03-08 14:48:00 EST,3130-03-08 15:17:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN 0700-1500","
+[**Wardname **] 4 ICU NPN 0700-1500
+
+   Attemtped to transition off propofol while increasing versed gtt with poor effect. Versed 2mg  with 2-3  mg bolus a X to total 18 mg hr. Pt wide awake, following simple commands, nodding & shaking head to questions appropriately, crying. Also she popping off vent, dropping sats with SBP 150's, HR 70's. Put back on original sedation- Propofol 40 mcg/kg/min, versed 10 mg/hr, Ms04 4mg hr with good effect.
+   No vent changes. ABG's essentially unchanged once pt settled out. PCV IP 26, PEEP 12.5, 60%, rate 15. No spont resp at present. VT ~400. Sats mid to high 90's. Suctioned X3 for small to mod thick, white secretions. BS coarse. Copious clear white oral & nasel secretions
+ETT rotated & pulled  back 2cm to 19 per Dr [**Last Name (STitle) 5304**].
+  HR 49-60 SR, SB, SBP low 100's- Higher with agitation as noted above
+  Received lasix 20 mg X1. Neg fld balance ~500 cc's. K 3.7. Repleted with 40 meq Kcl
+  TF promote W/promod at goal (40 hr). Receiving free water boluses. Given lactulose. Had lge, soft, trace OB positive brown stool.
+  No calls from family today.
+
+A: Unable to wean off propofol while increasing versed.
+   Stable & comfortable back on previous sedation rates
+
+P: Plan for trach early next week.
+   No further plans to wean today.
+
+",,
+13826,1462,17200,0,3130-03-08 18:22:00 EST,3130-03-08 18:31:00 EST,854,"N",69,"Nursing/Other",,"
+
+MICU NPN 1500-1900:
+Please see previous note for detail. No changes since 1500. 
+
+Neuro: Sedated on Propofol/MSO4/Versed gtt. Intermittently responsive         to stimuli. 
+
+Resp: Maintained on PC 26/Rate 18/ 60%/Peep 15. O2 Sat 99-100% ABG            Pending. RR 18. BS: Scattered rhonchi, decrease @ bases. Sx'd          for moderate amt frothy light yellow secretions.
+ 
+CV: vss. Afebrile. HR 50-55 SB no ectopy. BP 100-110/55-60. Edematous         throughout. Pulses palpable x4. 
+
+GI/GU: TF continued @ 40 cc/her. minimal residual. FS WNL. u.o.p.             adequate.  (Lasix given earlier c good effect). 
+
+Skin: R Buttocks Duoderm Intact. 
+
+Plan: Maintain sedation and ventilator settings.  Wean and titrate             accordingly.
+
+ 
+",,
+13826,1462,17200,,3130-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-9**] 7:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3841**]
+     Reason: Assess for progression or new pulm infiltrates              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with resp. failure with ? ARDS                                
+     REASON FOR THIS EXAMINATION:
+      Assess for progression or new pulm infiltrates                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW:
+     
+     HISTORY:  Respiratory failure.  Question new infiltrates.
+     
+     REFERENCE EXAM:  [**3-7**]
+     
+     FINDINGS:  The endotracheal tube has been removed.  There is a feeding tube
+     coiled in the stomach with the tip pointed upward.  There are bilateral hazy
+     interstitial infiltrates right greater than left with indistinct pulmonary
+     vasculature.
+     
+     IMPRESSION:  Changed appearance of the pulmonary infiltrates which could be
+     due to ARDS, infection or pulmonary edema.
+
+",,
+13826,1462,17200,0,3130-03-09 06:25:00 EST,3130-03-09 06:36:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro: pt alert on eves noddgin head able to squeeze hands, follwing simple commands. also crying unable to communicate source of possible pain or anxiety. versed 10mg, morphine 4mg and propofol 40mcg. pt has rec. occassianl boluses for overbreathing and asynchronous with vent.
+
+cad hr sb with occass. pvc. K+3.7 repleted with 40 meq iv and 20 meq po. b/p systolic 90's to 130's.
+
+resp: driving pressure dec to 24 at 8pm abg following am abg 7.40/64/118/12 rr per vent 15 occass overbreathing and coughing speels relieved with sedation meds.
+
+gi: tf cont at 40cc/hr no bm bs+
+
+gu: pt rec. lasix 2- mg iv and 8pm and 1am with good output. pt negative 1 liter at 12mn and pt currently neg. 650cc.
+
+skin duoderm intact on coccyx.
+
+endo: am bs 129
+
+plan: ? attempting weaning trial. cont to monitor vs,labs. add. diuresing
+
+
+
+
+",,
+13826,1462,17200,0,3130-03-09 06:35:00 EST,3130-03-09 06:39:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with pcv, driving press down to 24x15/fio2 .6/+15 peep with i/e 1:3 with acceptable abg; BS diminished, sxn white secretions, rx with mdi albuterol/atrovent mdi as ordered, see carevue for details. 
+",,
+13826,1462,17200,0,3130-03-09 14:59:00 EST,3130-03-09 15:21:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN 0700-1500","
+[**Wardname **] 4 ICU NPN 0700-1500
+   
+   Propofol weaned & d/c'd. Versed increased to 12 mg hr. Mso4 increased to 20 mg hr. Arousable. Gets upset & cries easily. Nods & shakes head appropriately. Follows simple commands. 
+   Remains on PCV Fio2 decreased to 50%. Rate increased 18 min. Insp pressure 24, PEEP 15. VT 350-390. Lst ABG 92/67/7.40/12/43. Small amt white secretions. BS coarse. 
+   Given lasix 20 mg X1 with Kcl 40 via NGT. Negative fld balance 1.3L. Written for additional lasix 1700 & MN 
+   Tol TF at goal (40 hr). Mod. soft stool after dulcolax supp.
+   HR50-85 SR, SB. SBP 110-147. No VEA noted
+   T-max 99.3 PO.
+   Pt's father & brother in to visit. They were updated on pt's condition. They had to leave before speaking with resident.
+
+A: Although pt seems adequately sedated & comfortable at present she appeared more comf on low dose propofol.
+   Aduquate ABG's on above vent settings. Trach next week (not scheduled). 
+  ABG this eve & MN.
+  Assess need for aditioal lasix at 1700. Replete K PRN.
+   
+
+
+P: Cont to assess sedation issue. Low threshold to put pt back on propofol gtt.
+",,
+13826,1462,17200,0,3130-03-09 17:32:00 EST,3130-03-09 17:34:00 EST,547,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings as charted on resp. flowsheet. FiO2 decreased to 50% and rate Increased to 18 with stable ABG's/ MDI's q vent check
+",,
+13826,1462,17200,0,3130-03-10 06:39:00 EST,3130-03-10 06:43:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with pcv, driving press 24x18/i:e 1:2.33 with 1 sec i time/fio2 . 5/+ 15 peep with acceptable abg; BS coarse, occ crackles, sxn thick white secretions, rx with mdi albuterol/atrovent mdi as ordered, see carevue for details.
+",,
+13826,1462,17200,0,3130-03-10 06:55:00 EST,3130-03-10 07:01:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro; pt weeping at imtes. able to squeeze hands and put pressure on hand with feet on command. follows other simple commands. becomes easily agitated versed 8mg and morphine at 14mg. ativan given at 3am and gtts dec. as neded. would recommend using ativan and dec other gts and maybe starting pt previous psych meds.
+
+ca d hr 60-70 occsas.pvc systolic b/p teens to 160's when fully awake. K4.0 at 2200 repleted with 40 po K+ per prn this am K= 3.9 additional 40meq [**Last Name (un) **] given at 6am
+
+resp: no further vent chnges made see am abg pt remains on pressure cont. with pressure at 24 fio 50 peep 15. suctioned for scant amt of thick white secretions. pt continutes to have moderate amts of oral secretions.
+
+gi: tf at 40cc/hr smear of stool noted bs+ 
+
+gu: additinal 40 mg iv lasix dose givne at 12mn with good output pt 2200 negative at mn. negative 866cc at 5am.
+
+id afebrile
+
+endo: last bs<2-- no ssi needed.
+
+plan: ? adding ativan or rrestarting psych meds and then dec. current sedation meds an attempting weaning trail with pt this afternoon. pt will be scheduled for trach sometime this week. cont diuresing and moniotr K+ , vs etc. provide emotional support to pat.
+",,
+13826,1462,17200,0,3130-03-10 16:19:00 EST,3130-03-10 16:36:00 EST,-1,"N",69,"Nursing/Other",,"
+
+M/SICU NURSING PROGRESS NOTE:
+
+NEURO: PT SLIGHTLY SEDATED WITH MORPHINE AND VERSED. ABLE TO FOLLOW SIMPLE COMMANDS WELL. MAE. PERLLA. STILL BECOMES ANXIOUS/AGITATED EASILY.  VERSED AT 6MG/HR AND MORPHINE AT 12MG/HR.  HAS REC'ED AN ADDITIONAL DOSE OF ATIVAN PO (1MG) AND IV (2MG) FOR MY SHIFT.  PREVIOUS PSYCH. MEDS. RESTARTED TODAY.
+
+RESP:  NO VENT CHANGES MADE TODAY. REMAINS ON PRESSURE CONTROL WITH PS 24 FIO2 50, PEEP 15.  SUCTIONED FOR SCANT TO MOD AMOUNT OF THICK WHITE SECRETIONS BOTH ORALLY AND VIA ETT. SATS. 92-100%.  DE-SATS DURING EPISODES OF ANXIETY/AGITATION.
+
+CV: SB-SR WITH HR 50-80'S, NO ECTOPY NOTED. BP STABLE.  BP BECOMES ELEVATED WITH ANXIETY AS WELL TO  160-180/90-100'S.  GENERALIZED [**1-23**]+ PITTING EDEMA NOTED. K+ 4.2 AT NOON, GIVEN 40 [**Female First Name (un) 1341**] KCL VIA NGT [**Name8 (MD) **] MD.
+
+GI: TF AT 40CC/HR WITH A SMEAR OF STOOL NOTED. + BS PRESENT. ABD. IS LARGE, ROUND DISTENDED, BUT NON-TENDER.
+
+GU: NO LASIX GIVEN TODAY.  UO 40-100'S/HR. 
+
+ID:  REMAINS AFEBRILE.
+
+END:  NOON BS = 199.  GIVEN 2 UNIT REGULAR INSULIN PER SSI.
+
+SKIN:  DUODERM TO COCCYX IS INTACT.  NO OTHER BREAKDOWN NOTED.
+
+PLAN: KEEP REDUCING SEDATION MEDS. SLOWLY.  POSSIBLE WEANING TRIAL IN AM OR POSSIBLE TRACH NEXT WEEK. NEEDS CONSTANT REASSURANCE AND EMOTIONAL SUPPORT.  SPOKE WITH MOTHER AT [**Name2 (NI) 5305**] OVER THE PHONE AND SHE WAS GIVEN AN UPDATE.  NO FAMILY IN TO SEE HER TODAY.
+ 
+ 
+
+",,
+13826,1462,17200,0,3130-03-11 04:27:00 EST,3130-03-11 04:41:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Awake and anxious at times. Follows simple commands and mouthing words. MAE. PERL. Agitated and anxious around 8pm and given 2mg ativan with good effect. Anxious again around 12a and given 5mg haldol with good effect. No further prn meds given and no boluses of MSO4 or versed gtts given. MSO4 continues at 12mg/hr and versed at 6mg/hr. 
+CV: Afeb. HR 44-70s SB/SR, no ectopy noted. BP stable (see carevue). Generalized [**1-23**]+ generalized edema. Weak but palpable pedal pulses. Feet cool to touch. 
+RESP: No vent changes made- driving pressure 24x18 FiO2 50% Peep +15 with acceptable ABG. O2 Sat >95%. Lungs coarse and decreased both bases. Sx'd for thick white secretions. Decreased O2 Sat to 90% with agitation/anxiety. 
+GI/GU: Abd. obese, soft, with positive bowel sounds. No BM- given lactulose last pm with no results so far. TF at 65cc/hr (goal while off propofol) with minimal residuals. Foley with clear yellow urine >50cc/hr. 
+SKIN: Duoderm to R buttock intact. On air mattress and repositioned side to side. TLC line and A-line intact.
+",,
+13826,1462,17200,0,3130-03-11 16:29:00 EST,3130-03-11 16:47:00 EST,-1,"N",69,"Nursing/Other",,"
+
+M/SICU Nursing Progress Note:
+
+Neuro:
+  Remains awake and alert, but anxious at times.  Able to follow simple commands and mouthing words quite frequently.  MAE, PERLA. Agitated and anxious off and on througout the day.  Given Ativan and Haldol x 1 each with good effect. No boluses of MSO4 or Versed gtts given for my shift. Mso4 decreased to 8mg/hr and Versed to 4mg/hr. 
+CV:
+  T. max to 99.1.  HR 50-90's SR with no ectopy. BP stable (see carevue). Conts. with generalized [**1-23**]+ edema. Pulses are palpable, but weak and toes bilat. are cool to touch. Repleted with 40 meq KCL IV for K+ at 1400 of 3.4. 
+Resp:
+  Vent changes made today:  Now, on A/C rate 18, peep 12, fio2 40% (see carevue for more details).  Sats 94-100%.  Lung sounds coarse with occasional fine crackles and diminished in bases. sxn back for scant to moderate amount of thick whitish secretions both orally and ETT. 
+GI/GU:
+  Abd. obese soft, non-tender with + BS.  No BM -given Lactulose this afternoon with no results so far.  Some smearing of stool with turns noted.  TF (promote) at 65cc/hr (goal) with no residuals. Foley with clear yellow urine.  Given lasix 20mg today with good results. 
+
+  Endo:  BG 1200 195, given 2 units regular insulin.
+ 
+  Skin:  Duoderm to R buttocks intact. TLC line dressing changed today and A line with dressing Dry and intact. 
+
+   Plan:  Cont to with slow wean and if fails, possible trach next week. Did not speak with Family today and no one in to see her today. 
+",,
+13826,1462,17200,0,3130-03-12 05:13:00 EST,3130-03-12 05:26:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress note","
+SMICU nsg progress note
+S/ONeuro- Remains on midaz at 4mg/hr and mso4 at 8mg/hr. Pt awake and able to respond appropriately to questioning. Still anxious at times. Given 2mg iv ativanx1 and 1mg po ativanx1 with some improvement.
+Resp- Intub/vented on ac 450x15 10peep 40% with stable 02 sats. Suctioned for sm amts sticky white secretions. Remains afebrile.
+Cardiac- Stable bp/hr. Given additional 20mg lasix at 8pm- 450cc out. Pt 500cc neg at 12m. Still with 2+ edema.
+Gi- Cont on goal tube feeds. No stool. Denies nausea/abdominal pain.
+A: Cont to improve.
+P: Wean as able. ? additional lasix. Cont to support.
+
+",,
+13826,1462,17200,0,3130-03-12 06:36:00 EST,3130-03-12 06:38:00 EST,529,"N",69,"Nursing/Other",,"
+
+pt.appears alert, gets restless on occaision, 450-ac.15-40%-10 peep, abg.7.38,50,63,31,2,95%. mdi albuterol/atrovent given q4h, sx for white secretions, ? weans today.
+",,
+13826,1462,17200,0,3130-03-12 17:04:00 EST,3130-03-12 17:18:00 EST,-1,"N",69,"Nursing/Other",,"
+
+M/SICU Nursing Progress Note:
+
+Neuro:
+  awake and alert.  Versed gtt to off early this afternoon and morphine gtt stopped at 1700.  pt. with no voiced c/o pain.  Able to follow simple commands and communicating needs effectively.  MEA, PERL.
+
+CV:
+  HR 50-100's, SR-ST with no ectopy.  Stable BP.  Left rad. A-line in place and RIJ TLC with ivf (d512ns with 40meu kcl) infusing at 100cc/hr x 500 cc. Afebrile. 
+
+Resp:
+  Several vent changes made today (see carevue).  Currently on PS with fio2 60% ps 15. Sats 88-94% (MD is aware of low sats at times)  ABG done while having low sa02 (see flowsheet).  Lung sounds coarse throughout and diminished in bases. sxn back small amounts of thick whitish secretions.
+
+GI/GU:  + BS. Abd. large, round, slightly distended, non-tender.  Incision to right side of abd. with dressing dry and intact.  Staples in place and well approx. no signs of infections.  On and off Bedpan several times today.  Given Bisacodyl x 1, Lactulose, and fleets enema with only small BM.  Pt. still feels like she is constipated.  Foley in place with adequate UO.  Given Lasix 60mg IV this afternoon with good effect.
+
+Skin:  Duoderm in place to r buttocks. No other skin breakdown.
+
+Plan:  Possible extubation in AM. Cont. with plan of care.  
+",,
+13826,1462,17200,0,3130-03-13 05:48:00 EST,3130-03-13 06:00:00 EST,-1,"N",69,"Nursing/Other","Summery 7pm-7am","
+Summery 7pm-7am
+Neuro; Alert and follows commands. pt is agitated and requires Ativan, MS [**First Name (Titles) **] [**Last Name (Titles) 5306**] to control vent and continuous restless activity.
+
+Resp. Vent changes made throughout noc. to assist pt. in sleeping in hope to pass weaning parameters today and get extubated.Pt RR with out sedation is30+. Fio2 increased to 70% sats99% currently A/C rate 15 peep 10.Course lung sounds throughout and SX for sm amts phlem.
+
+GI; Pt at goal of promote with fiber at 65cc/hr.Had sm BM BS actiive
+
+GU;F/C draining cl yellow urine. Excellent result from lasix at 2200
+
+Cardiac; SR no ectopy CVP=11 Sequential boots on.L radial art line site healthy
+",,
+13826,1462,17200,0,3130-03-13 06:09:00 EST,3130-03-13 06:14:00 EST,529,"N",69,"Nursing/Other",,"
+
+pt.put back on ac for noc. easily agitated. sats decrease and rr increases. sedated by rn and appeared to rest a bit more comfortably on ac 15-450-70%-10 peep, abg-7.36,54,67,32,2,91%, mdi alb,atro q4h, sx for white thin secretions. will attempt cpap today and decrease fi02 as tol.
+",,
+13826,1462,17200,0,3130-03-13 17:50:00 EST,3130-03-13 18:20:00 EST,-1,"N",69,"Nursing/Other","Fin MICU Nursing Progress Note 7a-7p","
+Fin MICU Nursing Progress Note 7a-7p
+Nuero: Pt alert, cooperative and following commands. Has periods of agitation with increased RR and decreased O2 sats, requiring ativan iv push. Pt responds well to the ativan. MAE, denies pain.
+
+Pulm: On PS since 0800, peep 12.5, PSV 15, fio2 50%. RR high 20's to low 30's, increased to 40's with agitation. O2 sats as low as low 80's with peroids of anxiety, but 88-96% while at rest. Fio2 turned to 40% at 1300 for blood gas only, O2 sats down to 83-84%, Bgas showed PaO2 of 49. Sx'ed for minimal clear secretions, lung sounds are mostly clear and diminished.
+
+CVS: Hemodynamically stable, HR sr-st 80-110's, no ectopy. CVP 8-10, a-line bleeding around site but with good waveform. tmax 99.7, skin with duoderm to right buttocks, changed today. Site reddened, no broken skin. K 3.4 today, replaced with 40meq, mg 1.7, replaced with 2mg. Echo done today with bubble study, results pending.
+
+GI: +BS, +bm x2 plus a few smears today after having 2 rounds of lactulose. Tolerating TF at goal rate of 65/hr, minimal aspirates. 
+
+GU: Foley with sediment in urine, will send spec to lab. Draining adequate amts of urine/hr.
+
+Plan: Continue to wean on vent as tolerated, use ativan sparingly. Plan for trach tomorrow or monday. Goal to have pt -1L per day. 
+",,
+13826,1462,17200,,3130-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-14**] 8:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3842**]
+     Reason: Evaluate ET tube placement.                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old woman with resp. failure and ARDS                                  
+     REASON FOR THIS EXAMINATION:
+      Evaluate ET tube placement.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check tube placement.
+     
+     PORTABLE CHEST:  The tip of the ETT is 5 cm above the carina.  The cardiac and
+     mediastinal contours and diffuse pulmonary parenchymal abnormalities are
+     unchanged from [**3130-3-9**].
+     
+     IMPRESSION:  ETT tip 5 cm above the carina with the neck slightly flexed.
+
+",,
+13826,1462,17200,,3130-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-14**] 1:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3843**]
+     Reason: check feeding tube placement                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old woman with resp. failure and ARDS                                 
+       
+     REASON FOR THIS EXAMINATION:
+      check feeding tube placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check feeding tube placement.
+     
+     ABDOMEN, SINGLE VIEW:  The tip of the feeding tube is in the expected location
+     of the distal stomach.  Evaluation of the bowel gas pattern is limited due to
+     extensive motion artifact, but there is no apparent abnormality.
+     
+     IMPRESSION:  Tip of feeding tube in distal stomach.
+
+",,
+13826,1462,17200,0,3130-03-14 05:49:00 EST,3130-03-14 05:59:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress note","
+SMICU nsg progress note
+Neuro- Initially quite anxious with increased hr popping off vent. Given 4mg iv ativan and 5mg haldol and vent changed to ac. Pt still breathing against vent. Changed to imv given additional 4mg ativan and pt finally falling asleep. Sleeping most of night. Put back on psv in am.
+Resp- As mentioned above pt placed on imv 450x15 50% to rest for night. Suctioned for small amts white secretions. Placed back on ps 15 at 6am.
+Cardiac- BP/HR stable. Given additional 40mg lasix and 40meg kcl with good response. Pt 1000 neg at 12m.
+Gi- Cont on goal tube feeds with ss insulin coverage. Pt passing large amts brown form stool.
+",,
+13826,1462,17200,0,3130-03-14 17:31:00 EST,3130-03-14 17:47:00 EST,-1,"N",69,"Nursing/Other","FICU Nursing Progress Note 7a-7p","
+FICU Nursing Progress Note 7a-7p
+Neuro: Napping most of day after receiving haldol x2, when awake remains alert and oriented. Follow commands, MAEW, denies any pain. Did not require any ativan today.
+
+Pulm: On PS since am, tolerating well. Fio2 decreased to 45% around 0900, bgas showed 7.48/42/101/6/32 and O2 sats 88-98%. TV 300's-low 400's, RR low 30's. Peep 12.5, psv 15. ETT advanced 2cm by RT. 
+
+CVS: Remains hemodymanically stable, A-line d/c'd. HR SR 80-100's, no ectopy. Tmax 99.7, skin with duoderm to right buttocks, no breakdown but reddened. CVP 6-9, got 40mg iv lasix this morning, 20 meq K and 2gm cal gluc given for replacement therapy. PICC nurse in to see pt tonite, states pt will need placement in IR. TTE yesterday showed normal heart fx.
+
+GI: Feeding tube ""clogged"" in am, new tube inserted and placement confirmed. TF restarted at goal rate of 65cc/hr, +BS. No bm today, lactulose given x1. 
+
+GU: Diuresed apporox 1L after lasix given, foley changed over. Urine spec sent. 
+
+Plan: Trach on monday, possible peg placement as well. Will need PICC under IR ?monday. Cont PSV over weekend, wean by following venous bgas. 
+",,
+13826,1462,17200,0,3130-03-15 05:43:00 EST,3130-03-15 05:51:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert and appears oriented.  Appropriate, follows commands consistently and mouthing words appropriately.  Also, using pen and paper to communicate. MAE. Denies any pain.
+CV: Tmax 99.5po. HR 80s-100s SR/ST, no ectopy noted. BP stable. Skin warm and dry with palpable pedal pulses. 2+generalized edema, given lasix at 12MN with good u/o. CVP 6-9. 
+RESP: Vent overnight PS15 Peep 12.5 FiO2 45% with O2 Sats 90-99%. RR 18-30s. Frequent coughing fits early this am, sx'd for minimal thin, clear secretions. TVs 280-400s. Lungs coarse and diminished at bases. Noted to desat with agitation/anxiety.
+GI/GU: Abd. obese, soft with bowel sounds present. Five small, formed BMs overnight- heme negative. Given lactulose last pm for constipation. TF at 65cc/hr via OGT with minimal residuals. Foley draining clear yellow urine >20cc/hr.
+SKIN: Duoderm to R buttock. Gluteal fold noted to be red and excoriated with barrier cream applied. R IJ TLC line intact with all ports patent.
+PLAN: Trach and possible PEG on Mon. Also needs to go IR for PICC line placement at some point.
+",,
+13826,1462,17200,0,3130-03-15 17:35:00 EST,3130-03-15 17:53:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Neuro:  Pt is awake and appropriate, appears to be Ox3, calm and cooperative.  Rec'd 2.5mg haldol, standing order, and slept through morning after not sleeping overnight.  Pt encouraged to stay awake for the rest of the day, but dozing easily.  Pt began to c/o pain at 1600 ""all over my body"".  Medicated with tylenol which she reported did not help her, medicated with 2mg IV MSO4 at 1700.  Cont with 75mcg fentanyl patch. 
+
+CV:  HR 70's-80's, sr, no ectopy.  BP 130's/70's.  Tmax 99.5.
+
+Resp:  LS's clear, diminished at bases.  FiO2 weaned to 40% with O2 sat 90-96%.  Continues on PS 15 and PEEP 12.5.  RR 20's-30's, non-labored.  Pt had one episode of desaturation after being turned and bathed.  Sat slowly returned to low 90's after 20 minutes.  Pt reported feeling some discomfort with breathing at that time but did not appear labored.
+
+GI:  Abd soft/+ bs's.  Medium soft brown BM this am.  TF's promote with fiber at goal rate of 65cc/hour via NG feeding tube.  High residuals this am 120cc, TF's held for 2 hours and restarted with no further problems.
+
+GU:  Foley draining amber urine with sedimentation.  U/O low this am after being diuresed overnight.  BUN 18 from 13 yesterday.  IVbolused with 250cc NS with fair effect.
+
+Skin:  Right chest with staples OTA c/d/i.  Old CT site healed.  Duoderm to right buttock intact.  Rt IJ TLCL with dressing and site c/d/i, PICC to be placed on Monday.
+
+Plan:  Trach and possibly PEG to be placed on Monday as well as PICC line placement.  Rehab screening.  
+",,
+13826,1462,17200,0,3130-03-16 04:23:00 EST,3130-03-16 04:41:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Awake and appropriate. Mouthing words and writing on tablet to communicate. MAE. Complaining of ""all over body pain"" and medicated with 2mg MSO4 x2 overnight. Wearing 75mcg fentanyl patch. Sleeping on/off throughout night.
+CV: Afeb. HR 70s-90s SR, no ectopy noted. BP stable (see carevue). Skin warm and dry with palpable pedal pulses. Trace edema. 
+RESP: Vent PS 15 Peep 12.5 FiO2 40% RR 20s-30s non-labored. Minimal secretions with sx'ing. Decreased Sat to 88% x2 but quickly returned without intervention. 
+GI/GU: Abd. soft, obese, with bowel sounds present. No BM. Promote with fiber at 65cc/hr via NGT with minimal residuals. Foley with u/o >25cc/hr. 
+SKIN: R chest wound with staples, C/D/I. R buttock with duoderm intact. R IJ TLC line intact with all ports patent. 
+PLAN: Trach and PEG on Mon. Possible Picc on Mon. in IR.
+",,
+13826,1462,17200,0,3130-03-16 18:43:00 EST,3130-03-16 19:01:00 EST,-1,"N",69,"Nursing/Other","Fin MICU Nursing Progress NOte 7a-7p","
+Fin MICU Nursing Progress NOte 7a-7p
+Neuro: Awake and appropriate, using writing tablet to communicate. MAE, denies pain.
+Pulm: Remains on PSV, increased to 20 this morning as well as FiO2 increased to 60% d/t pts continuous desaturating. Peep 12.5. Not requiring sx'ing often, thin clear secretions. O2 sats initially low 80's in am while pt awake and sleeping, since Fio2 increased O2 has been consistently low 90's.
+CVS: Hemodynamically stable, SBP 110-130's, HR SR 80-90's, no ectopy. Afebrile, skin with reddened areas under both breasts and between skin folds, nystatin powder applied to area. Duoderm to right buttocks, intact. Staples intact to right chest, HO made aware that stapled need to be taken out. Site clean and dry. 
+GI: TF at goal rate of 65cc/hr, minimal aspitates. +BS, no BM today. Pt c/o pain to lower abd., thinks it's constipation. Lactulose and maalox given. BS 214 at 1800, covered with SSI.
+GU: Foley intact draining about 25cc/hr, MD made aware and 250cc NS bolus given without much improvement in U/O. 
+
+Plan: Pt to be trach'ed tomorrow in OR d/t hx of rapid desaturation, To have speech and swallow eval on Tues. Picc line to be placed in IR tomorrow as well. 
+",,
+13826,1462,17200,,3130-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-17**] 8:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 3844**]
+     Reason: ARDS, PLEASE PLACE BOTH PICC (NURSE UNABLE TO DO AT BEDSIDE) AND P
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. getting trach 
+      monday [**3130-3-17**]. willl need PEG and PICC for d/c to pulm rehab. pt w/ very poor 
+      peripheral IV access due to h/o IVDU
+     REASON FOR THIS EXAMINATION:
+      please place both PICC (nurse unable to do at bedside) and PEG                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple blood draws and IV medications, including antibiotics
+     and possibly Heparin.
+     
+     PROCEDURE:  Drs. [**Last Name (STitle) 3845**] and [**Name5 (PTitle) 250**] were present with Dr. [**Last Name (STitle) 250**] supervising.
+      Limited ultrasound revealed veins in the left arm.  The patient's left arm
+     was prepped and draped in a sterile fashion.  No superficial vein was
+     identified, so ultrasound was used to identify a patent and compressible left
+     brachial vein.  1% Lidocaine was injected into the subdermal tissues for local
+     analgesia.  Under real-time sonographic guidance, a 21-gauge needle was
+     inserted into the left brachial vein and a 0.018 guide wire was inserted under
+     fluoroscopic guidance into the axillary vein.  A 6 French Peel-Away sheath was
+     introduced and the guide wire was advanced under fluoroscopy into the IVC.
+     The distance from the skin puncture site to the SVC was measured at 40 cm.  A
+     5 French double-lumen PICC was trimmed to the appropriate length and inserted
+     under fluoroscopy into the SVC. Both lumens flushed and withdrew normally.
+     Placement was confirmed with a spot radiograph.  The puncture site was cleaned
+     adn dressed.  The patient tolerated the procedure without immediate
+     complications.
+     
+     IMPRESSION:
+     
+     1. PICC line measured at 40 cm placed by left brachial vein into the SVC.  the
+     line is ready for use.
+
+",,
+13826,1462,17200,,3130-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-17**] 8:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 3844**]
+     Reason: ARDS, PLEASE PLACE BOTH PICC (NURSE UNABLE TO DO AT BEDSIDE) AND P
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. getting trach 
+      monday [**3130-3-17**]. willl need PEG and PICC for d/c to pulm rehab. pt w/ very poor 
+      peripheral IV access due to h/o IVDU
+     REASON FOR THIS EXAMINATION:
+      please place both PICC (nurse unable to do at bedside) and PEG                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple blood draws and IV medications, including antibiotics
+     and possibly Heparin.
+     
+     PROCEDURE:  Drs. [**Last Name (STitle) 3845**] and [**Name5 (PTitle) 250**] were present with Dr. [**Last Name (STitle) 250**] supervising.
+      Limited ultrasound revealed veins in the left arm.  The patient's left arm
+     was prepped and draped in a sterile fashion.  No superficial vein was
+     identified, so ultrasound was used to identify a patent and compressible left
+     brachial vein.  1% Lidocaine was injected into the subdermal tissues for local
+     analgesia.  Under real-time sonographic guidance, a 21-gauge needle was
+     inserted into the left brachial vein and a 0.018 guide wire was inserted under
+     fluoroscopic guidance into the axillary vein.  A 6 French Peel-Away sheath was
+     introduced and the guide wire was advanced under fluoroscopy into the IVC.
+     The distance from the skin puncture site to the SVC was measured at 40 cm.  A
+     5 French double-lumen PICC was trimmed to the appropriate length and inserted
+     under fluoroscopy into the SVC. Both lumens flushed and withdrew normally.
+     Placement was confirmed with a spot radiograph.  The puncture site was cleaned
+     adn dressed.  The patient tolerated the procedure without immediate
+     complications.
+     
+     IMPRESSION:
+     
+     1. PICC line measured at 40 cm placed by left brachial vein into the SVC.  the
+     line is ready for use.
+
+",,
+13826,1462,17200,,3130-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-17**] 8:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 3844**]
+     Reason: ARDS, PLEASE PLACE BOTH PICC (NURSE UNABLE TO DO AT BEDSIDE) AND P
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. getting trach 
+      monday [**3130-3-17**]. willl need PEG and PICC for d/c to pulm rehab. pt w/ very poor 
+      peripheral IV access due to h/o IVDU
+     REASON FOR THIS EXAMINATION:
+      please place both PICC (nurse unable to do at bedside) and PEG                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple blood draws and IV medications, including antibiotics
+     and possibly Heparin.
+     
+     PROCEDURE:  Drs. [**Last Name (STitle) 3845**] and [**Name5 (PTitle) 250**] were present with Dr. [**Last Name (STitle) 250**] supervising.
+      Limited ultrasound revealed veins in the left arm.  The patient's left arm
+     was prepped and draped in a sterile fashion.  No superficial vein was
+     identified, so ultrasound was used to identify a patent and compressible left
+     brachial vein.  1% Lidocaine was injected into the subdermal tissues for local
+     analgesia.  Under real-time sonographic guidance, a 21-gauge needle was
+     inserted into the left brachial vein and a 0.018 guide wire was inserted under
+     fluoroscopic guidance into the axillary vein.  A 6 French Peel-Away sheath was
+     introduced and the guide wire was advanced under fluoroscopy into the IVC.
+     The distance from the skin puncture site to the SVC was measured at 40 cm.  A
+     5 French double-lumen PICC was trimmed to the appropriate length and inserted
+     under fluoroscopy into the SVC. Both lumens flushed and withdrew normally.
+     Placement was confirmed with a spot radiograph.  The puncture site was cleaned
+     adn dressed.  The patient tolerated the procedure without immediate
+     complications.
+     
+     IMPRESSION:
+     
+     1. PICC line measured at 40 cm placed by left brachial vein into the SVC.  the
+     line is ready for use.
+
+",,
+13826,1462,17200,0,3130-03-17 06:57:00 EST,3130-03-17 07:07:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro: aox3 requesting sleepoing and pain med before bedtime. c/o nausea this am / pt nervous about trach. requesting pain med at 7am
+
+cad hr 70'[**07**]'s nsr. b/p 100-120's. cvp 11-7
+
+resp: no vent changes made ls crackles. suctioned several times for scant amt. thick whiteish to yellowy secretions.
+
+gi: pt has had two small bm on night. c/o nausea this am. abd soft. tf have been off since 12mn
+
+gu pt rec. 40 mg iv lasix at 2030 and diamox 250 per ngt. pt is 425 negative this am. for 24 hours. K+ 3.9
+
+endo: bs 156 and 150 no insulin givne due to pt being npo.
+
+id: afebrile
+
+plan: pt is scheduled for trahc and picc line placement today.. speech and swallo study on tuesday for poss. peg placement. 
+",,
+13826,1462,17200,0,3130-03-17 17:41:00 EST,3130-03-17 17:43:00 EST,547,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt vented on settings as charted on Resp. flowsheet. Pt transported to L-2 today for PICC line placement. Pt then trached at bedside with #6 shiley. Bronch cart utilized for trache. Pt placed on vol. vent. and 100% for trache procedure, returned to previous settings. Pt awake, alert, interactive. Cont to desat at times.. MDI's Q vent check.
+",,
+13826,1462,17200,0,3130-03-17 18:32:00 EST,3130-03-17 18:48:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN","
+[**Wardname **] 4 ICU NPN
+
+   Trached today. Tolerated pocedure well. Awake. Placed back on PSV. Increased PSV to 25 for sats low to mid 80's. Sats running ~90%. VT 530-550, fio2 60%, RR 20's to low 30's. Min blody secretions.
+   UO ~20-25 cc's hr X4 hrs.  Neg fld balance 450 cc's. Dr [**Last Name (STitle) 104**] aware.
+   Awake or easily arousable. Watching TV. Able to write sentences. 
+   T-max 99.8 PO. 
+   PICC line placed. TL d/c'. tip sent for culture. Urine with lot of sediment. UA, c&s sent.
+   Pt's mother & brother in to visit. They were updated on pt's condition. Questions answered. [**Hospital1 3**] has screened pt. Pt's mom indicated [**Name2 (NI) 5307**] for rehab facilities in the [**Location (un) **] area.
+TF restarted. ? swallowing study [**3-18**].
+
+A/P Stable s/p trach with increased PSV. Titrate PS down as tol. 
+   UO poor. Will follow at present.
+   ? swallowing study [**3-18**].
+  ** OOB to chair. ? PT to cont to follow.
+",,
+13826,1462,17200,,3130-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-18**] 10:01 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3846**]
+     Reason: Evaluation in parenchyma in patient with persistant hypoxemi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with ARDS.                                                    
+     REASON FOR THIS EXAMINATION:
+      Evaluation in parenchyma in patient with persistant hypoxemia.                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Persistent hypoxemia in patient with ARDS.
+     
+     TECHNIQUE:  CT imaging of the chest without contrast enhancement.
+     
+     CT CHEST WITHOUT CONTRAST:  There is a 2.6 cm hypodense nodule in the right
+     lobe of the thyroid gland.  There is no significant mediastinal or hilar lymph
+     node enlargement.  The main pulmonary artery is normal in diameter.  The heart
+     size is at the upper limit of normal.  There are no pleural effusions.
+     
+     Lung windows demonstrate diffuse, patchy areas of ground glass opacification
+     and consolidation.  There is abnormal opacity in all areas of both lungs.  The
+     consolidation has a dependent distribution.  No endobronchial lesions are
+     identified.
+     
+     The skeletal structures are normal.  There is minimal fullness of the left
+     adrenal gland; the imaged portion of the upper abdomen is otherwise
+     unremarkable.
+     
+     IMPRESSION:  Diffuse pulmonary parenchymal disease consistent with diffuse
+     alveolar damage/pulmonary edema in a patient with ARDS.  These findings are
+     consistent with acute interstitial pneumonia (Hamman-[**Doctor First Name **] syndrome).
+     Radiologically, an infectious etiology remains in the differential diagnosis.
+
+",,
+13826,1462,17200,,3130-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-18**] 5:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3847**]
+     Reason: please eval placement of NGT                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with resp. failure and ARDS                                   
+     REASON FOR THIS EXAMINATION:
+      please eval placement of NGT                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Respiratory failure and ARDS.  Question placement of NG tube.
+     
+     TECHNIQUE:  Comparison is made to CT of earlier today, and prior film of
+     [**3130-3-14**].
+     
+     FINDINGS:  Again seen are diffuse parenchymal abnormalities bilaterally, with
+     an unchanged  appearance.  Endotracheal tube has been removed since [**3-14**], and
+     replaced by a tracheostomy tube.  Feeding tube has been replaced by an NG
+     tube, which is in suitable position.  The cardiomediastinal silhouette appears
+     unchanged.  There has been interval placement of a left-sided PICC catheter,
+     with the tip in the upper SVC.  A right-sided IJ catheter has been removed.
+     
+     IMPRESSION:  Satisfactory positioning of NG tube.
+
+",,
+13826,1462,17200,0,3130-03-18 05:52:00 EST,3130-03-18 05:58:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro: lethargic most of shift sleeping sounding on eves. when awake aox3 folliwng commands
+cad: vss no issues
+resp remains on cpap with ps 25 peep 12.5 fio2 60%, spont. tv 480-510,rr teens to 20 inc to 30's when agitated or distressed. sats mid 90's to 100% suct. for small amts of thick whiteish secretions pt not able to [**Last Name (un) **] them effectively. trach site -small amt. of drainage
+
+gi bs+ no bm this shift tf off at 4am due to pt c/o nausea. maalox given repositioned no further complaints made.
+
+gu pt uo has dec to approx 25cc/hr over last 3 hours. pt did not rec. lasix on shift. approx. 100cc negative at mn.
+
+id: afebrile
+
+plan: pt is scheduled for swallow study today and also ct of chest. cont to moniotr resp status, vs and labs
+
+
+",,
+13826,1462,17200,0,3130-03-18 17:12:00 EST,3130-03-18 17:38:00 EST,-1,"N",69,"Nursing/Other","Fin MICU Nursing Progress Note 7a-7p","
+Fin MICU Nursing Progress Note 7a-7p
+Neuro: Alert and oriented, Dozing intermittently during shift. Rec'd 2mg ativan at 1700 for anxiety and restlessness after sitting up in chair x1hr. Able to pivot into chair with maximum assist with PT and nurse, MAE but remains fairly weak in LE. 
+CVS: Hemodynamically stable with BP ranging 110-130's/50-60's, HR SR-ST 80-120's, no ectopy. Skin intact, duoderm off right buttocks, site open to air. Area reddened but improved. Staples removed from right chest biopsy site, area C/D/I. Afebrile. 
+Pulm: Initially on PSV 25 PEEP 12.5 and FiO2 60%, turned down to 50% FiO2 and PSV 20, tolerating fairly. Coughing frequently, requiring freq. sxing of thick tan-yellow secretions. Pt able to use yankaeur and sxing up secretions from oral cavity as well. O2 sats mostly in 90's but does occ. drop to 80's with movement and restlessness. Trach care done around site. Chest CT done today, showing bibasilar consolidation and interstitial lung disease. 
+GI: TF at goal rate of 65cc/hr with minimal aspirate. Feeding tube d/c'd and NG tube placed to put to LIS tonite after MN. Pt to be NPO for PEG tube placement in IR tomorrow. Unable to eval pt's speech and swallow d/t dependency on vent at this time. No BM today, +BS. 
+GU: Foley draining >50cc/hr of yellow urine with sediment, culture from yesterday pending.  
+Plan: [**Hospital3 **] was in to eval pt today, possible d/c to their facility later in week or over weekend. PEG tube placement in IR tomorrow, NPO after MN. Pt to cont working with PT while here, tolerated being up in chair x1hr today. 
+",,
+13826,1462,17200,,3130-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. trach placed 
+      [**3130-3-17**]. needs PEG for xfer to rehab. 
+     REASON FOR THIS EXAMINATION:
+      please place PEG for long term nutrition                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 46 year old female with ARDS and on ventilation needs
+     gastrojejunostomy feeding tube for long-term nutrition.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present for the
+     entire procedure.  Dr. [**First Name (STitle) 85**] reviewed the exam.
+     
+     PROCEDURE AND FINDINGS: The risks and the benefits were explained to the
+     patient's mother and consent was obtained. The patient was placed supine on
+     the angiographic table and the abdomen was prepped and draped in sterile
+     fashion. Air was injected into the stomach through a previously placed
+     nasogastric tube (NGT). A puncture site of the stomach was localized under
+     fluoroscopy in AP and lateral projections. Local anesthesia using 1% Lidocaine
+     was supplied to the left upper quadrant of the puncture site. Three T-
+     fasteners were placed through the 18 gauge needle into the stomach and secured
+     outside of the skin. The stomach was punctured again using the 18 gauge needle
+     and contrast was injected through the needle. Fluoroscopy showed good needle
+     position with opacified gastric mucosa. An 0.035 [**Last Name (un) 528**] wire was placed
+     through the needle into the stomach and the needle was exchanged for a 7 Fr
+     BriteTip sheath. A 5 Fr MPA guiding catheter was placed over the wire and
+     facilitated the wire advancement through the duodenum into the proximal
+     jejunum. The [**Last Name (un) 528**] wire was exchanged for an 0.035 SuperStiff Amplatz wire
+     over the guiding catheter and the catheter and the sheath were removed. The
+     skin entry site was dilated using increasing-size dilators. A 14 Fr peel- away
+     sheath was placed over the wire with the tip beyond the pylorus. A 14 Fr
+     [**Doctor Last Name 939**] feeding tube was placed over the wire through the peel-away sheath with
+     the tip in the proximal jejunum. The peel-away sheath was removed and the
+     retention loop of the feeding tube was formed in the second portion of the
+     duodenum. Injection of contrast through the feeding tube was done and an x-ray
+     was taken, which showed jejunal mucosal pattern and correct tube positioning.
+     The tube was secured to the skin using an O-Prolene stitch.
+     
+     COMPLICATIONS: The patient tolerated the procedure well with no complications.
+     
+     MEDICATIONS: Totally 2 mg of Versed and 1 mcg of Fentanyl was given
+     intravenously during the procedure in small divided doses under continuous
+     hemodynamic monitoring. Approximately 25 ml contrast was used during the
+                                                                 (Over)
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     procedure.
+     
+     IMPRESSION: Successful placement of a 14 Fr [**Doctor Last Name 939**] gastrojejunostomy feeding
+     tube with its tip in the proximal jejunum.
+
+",,
+13826,1462,17200,,3130-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. trach placed 
+      [**3130-3-17**]. needs PEG for xfer to rehab. 
+     REASON FOR THIS EXAMINATION:
+      please place PEG for long term nutrition                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 46 year old female with ARDS and on ventilation needs
+     gastrojejunostomy feeding tube for long-term nutrition.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present for the
+     entire procedure.  Dr. [**First Name (STitle) 85**] reviewed the exam.
+     
+     PROCEDURE AND FINDINGS: The risks and the benefits were explained to the
+     patient's mother and consent was obtained. The patient was placed supine on
+     the angiographic table and the abdomen was prepped and draped in sterile
+     fashion. Air was injected into the stomach through a previously placed
+     nasogastric tube (NGT). A puncture site of the stomach was localized under
+     fluoroscopy in AP and lateral projections. Local anesthesia using 1% Lidocaine
+     was supplied to the left upper quadrant of the puncture site. Three T-
+     fasteners were placed through the 18 gauge needle into the stomach and secured
+     outside of the skin. The stomach was punctured again using the 18 gauge needle
+     and contrast was injected through the needle. Fluoroscopy showed good needle
+     position with opacified gastric mucosa. An 0.035 [**Last Name (un) 528**] wire was placed
+     through the needle into the stomach and the needle was exchanged for a 7 Fr
+     BriteTip sheath. A 5 Fr MPA guiding catheter was placed over the wire and
+     facilitated the wire advancement through the duodenum into the proximal
+     jejunum. The [**Last Name (un) 528**] wire was exchanged for an 0.035 SuperStiff Amplatz wire
+     over the guiding catheter and the catheter and the sheath were removed. The
+     skin entry site was dilated using increasing-size dilators. A 14 Fr peel- away
+     sheath was placed over the wire with the tip beyond the pylorus. A 14 Fr
+     [**Doctor Last Name 939**] feeding tube was placed over the wire through the peel-away sheath with
+     the tip in the proximal jejunum. The peel-away sheath was removed and the
+     retention loop of the feeding tube was formed in the second portion of the
+     duodenum. Injection of contrast through the feeding tube was done and an x-ray
+     was taken, which showed jejunal mucosal pattern and correct tube positioning.
+     The tube was secured to the skin using an O-Prolene stitch.
+     
+     COMPLICATIONS: The patient tolerated the procedure well with no complications.
+     
+     MEDICATIONS: Totally 2 mg of Versed and 1 mcg of Fentanyl was given
+     intravenously during the procedure in small divided doses under continuous
+     hemodynamic monitoring. Approximately 25 ml contrast was used during the
+                                                                 (Over)
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     procedure.
+     
+     IMPRESSION: Successful placement of a 14 Fr [**Doctor Last Name 939**] gastrojejunostomy feeding
+     tube with its tip in the proximal jejunum.
+
+",,
+13826,1462,17200,,3130-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. trach placed 
+      [**3130-3-17**]. needs PEG for xfer to rehab. 
+     REASON FOR THIS EXAMINATION:
+      please place PEG for long term nutrition                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 46 year old female with ARDS and on ventilation needs
+     gastrojejunostomy feeding tube for long-term nutrition.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present for the
+     entire procedure.  Dr. [**First Name (STitle) 85**] reviewed the exam.
+     
+     PROCEDURE AND FINDINGS: The risks and the benefits were explained to the
+     patient's mother and consent was obtained. The patient was placed supine on
+     the angiographic table and the abdomen was prepped and draped in sterile
+     fashion. Air was injected into the stomach through a previously placed
+     nasogastric tube (NGT). A puncture site of the stomach was localized under
+     fluoroscopy in AP and lateral projections. Local anesthesia using 1% Lidocaine
+     was supplied to the left upper quadrant of the puncture site. Three T-
+     fasteners were placed through the 18 gauge needle into the stomach and secured
+     outside of the skin. The stomach was punctured again using the 18 gauge needle
+     and contrast was injected through the needle. Fluoroscopy showed good needle
+     position with opacified gastric mucosa. An 0.035 [**Last Name (un) 528**] wire was placed
+     through the needle into the stomach and the needle was exchanged for a 7 Fr
+     BriteTip sheath. A 5 Fr MPA guiding catheter was placed over the wire and
+     facilitated the wire advancement through the duodenum into the proximal
+     jejunum. The [**Last Name (un) 528**] wire was exchanged for an 0.035 SuperStiff Amplatz wire
+     over the guiding catheter and the catheter and the sheath were removed. The
+     skin entry site was dilated using increasing-size dilators. A 14 Fr peel- away
+     sheath was placed over the wire with the tip beyond the pylorus. A 14 Fr
+     [**Doctor Last Name 939**] feeding tube was placed over the wire through the peel-away sheath with
+     the tip in the proximal jejunum. The peel-away sheath was removed and the
+     retention loop of the feeding tube was formed in the second portion of the
+     duodenum. Injection of contrast through the feeding tube was done and an x-ray
+     was taken, which showed jejunal mucosal pattern and correct tube positioning.
+     The tube was secured to the skin using an O-Prolene stitch.
+     
+     COMPLICATIONS: The patient tolerated the procedure well with no complications.
+     
+     MEDICATIONS: Totally 2 mg of Versed and 1 mcg of Fentanyl was given
+     intravenously during the procedure in small divided doses under continuous
+     hemodynamic monitoring. Approximately 25 ml contrast was used during the
+                                                                 (Over)
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     procedure.
+     
+     IMPRESSION: Successful placement of a 14 Fr [**Doctor Last Name 939**] gastrojejunostomy feeding
+     tube with its tip in the proximal jejunum.
+
+",,
+13826,1462,17200,,3130-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       44373 PLCT GJ TUBE                  *
+     * -59 DISTINCT PROCEDURAL SERVICE      74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fibrosing ARDS s/p 3 wks on ventilator. trach placed 
+      [**3130-3-17**]. needs PEG for xfer to rehab. 
+     REASON FOR THIS EXAMINATION:
+      please place PEG for long term nutrition                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 46 year old female with ARDS and on ventilation needs
+     gastrojejunostomy feeding tube for long-term nutrition.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**First Name4 (NamePattern1) 615**] [**Last Name (NamePattern1) **] and [**Name5 (PTitle) 262**] [**Doctor Last Name 263**]
+     d'Othee with attending radiologist Dr. [**Last Name (STitle) 263**] [**Name (STitle) 264**] being present for the
+     entire procedure.  Dr. [**First Name (STitle) 85**] reviewed the exam.
+     
+     PROCEDURE AND FINDINGS: The risks and the benefits were explained to the
+     patient's mother and consent was obtained. The patient was placed supine on
+     the angiographic table and the abdomen was prepped and draped in sterile
+     fashion. Air was injected into the stomach through a previously placed
+     nasogastric tube (NGT). A puncture site of the stomach was localized under
+     fluoroscopy in AP and lateral projections. Local anesthesia using 1% Lidocaine
+     was supplied to the left upper quadrant of the puncture site. Three T-
+     fasteners were placed through the 18 gauge needle into the stomach and secured
+     outside of the skin. The stomach was punctured again using the 18 gauge needle
+     and contrast was injected through the needle. Fluoroscopy showed good needle
+     position with opacified gastric mucosa. An 0.035 [**Last Name (un) 528**] wire was placed
+     through the needle into the stomach and the needle was exchanged for a 7 Fr
+     BriteTip sheath. A 5 Fr MPA guiding catheter was placed over the wire and
+     facilitated the wire advancement through the duodenum into the proximal
+     jejunum. The [**Last Name (un) 528**] wire was exchanged for an 0.035 SuperStiff Amplatz wire
+     over the guiding catheter and the catheter and the sheath were removed. The
+     skin entry site was dilated using increasing-size dilators. A 14 Fr peel- away
+     sheath was placed over the wire with the tip beyond the pylorus. A 14 Fr
+     [**Doctor Last Name 939**] feeding tube was placed over the wire through the peel-away sheath with
+     the tip in the proximal jejunum. The peel-away sheath was removed and the
+     retention loop of the feeding tube was formed in the second portion of the
+     duodenum. Injection of contrast through the feeding tube was done and an x-ray
+     was taken, which showed jejunal mucosal pattern and correct tube positioning.
+     The tube was secured to the skin using an O-Prolene stitch.
+     
+     COMPLICATIONS: The patient tolerated the procedure well with no complications.
+     
+     MEDICATIONS: Totally 2 mg of Versed and 1 mcg of Fentanyl was given
+     intravenously during the procedure in small divided doses under continuous
+     hemodynamic monitoring. Approximately 25 ml contrast was used during the
+                                                                 (Over)
+
+     DATE: [**3130-3-19**] 8:45 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 3848**]
+     Reason: please place PEG for long term nutrition                    
+      Contrast: CONRAY Amt: 25CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     procedure.
+     
+     IMPRESSION: Successful placement of a 14 Fr [**Doctor Last Name 939**] gastrojejunostomy feeding
+     tube with its tip in the proximal jejunum.
+
+",,
+13826,1462,17200,0,3130-03-19 05:11:00 EST,3130-03-19 05:22:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Awake and appropriate. Appears slightly depressed.  Sleeping most of night. Complaining of anxiety and given ativan with good effect. Complaining of trach discomfort and repositioned with little effect, given MSO4 with good effect. 
+CV: Afeb. HR 90s-120s SR/ST, no ecotpy noted. BP stable (see carevue). Skin warm and dry with palpable pedal pulses. 
+RESP: Trach intact with small amts of drainage around stoma. On PSV 20 Peep 12.5 FiO2 50% with O2 Sat >92%. RR 20s-30s. Lungs coarse with scattered rhonchi. Sx'd for tan-yellow secretions in moderate amts. Strong productive cough. Using Yankar to sx mouth on own. 
+GI/GU: Abd. soft with bowel sounds present. TF shut off at MN and NGT put to low wall sx with small amts bilious material. Scheduled for PEG placement today in IR. Foley with minimal u/o at beginning of shift and 250ccNS bolus x1 given with u/o >30cc/hr now. 
+SKIN: Intact. Red R buttock, open to air. Old R CT site healing. Repositioned side to side. Nystatin powder to skin folds. Picc line to L AC intact.
+",,
+13826,1462,17200,0,3130-03-19 17:35:00 EST,3130-03-19 17:49:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN HD #17","
+MICU/SICU NPN HD #17
+S/O:
+
+Neuro: pt is A&Ox3, communicating by writing, requesting pain medication q4-5h for pain at PEGJ site, MAEW, following commands
+
+Resp: remains trached on PSV 15 + 10/ 0.50, LS are coarse throughout, suctioned q2-3h for small amts thick tan sputum
+
+CV: avss, please see flowsheet for data
+
+Skin: old CT site C/D/I, right buttocks reddened
+
+GI/GU: abd obese, soft, NT, BS present, PEGJ placed under fluro today, NGT to [**Last Name (un) 1295**] to LIWS overnight and then d/c, PEGJ for meds only tonight and resume TF in AM, Foley patent for concentrated and cloudy urine in adequate amts
+
+Lines: DL PICC in left AC
+
+A:
+
+impaired skin integrity r/t proceedure, prolonged immobility
+altered breathing r/t increased resp secretions
+
+P:
+
+continue to monitor hemodynamic stability, continue to screen for rehab placement, resume TF in AM, activity progression, aggressive pulmonary toilet
+",,
+13826,1462,17200,0,3130-03-20 04:57:00 EST,3130-03-20 05:17:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress note","
+SMICU nsg progress note
+Neuro- Awake and appropriate but very anxious most of night. Sleeping in short naps. C/O intermittent abdominal discomfort at peg site. Given 2mg ativan and then 4mg ativan with some improvement.
+Resp- Trached/vented on 15ps 10peep 50% with sats 94-99% Tv 400-500's rr 14-30. Suctioned for minimal secretions. Pt suctioning own mouth with yankeur.
+Gi- Tube feeds on hold post peg placement. Abdomen obese but soft. NG tube to intermittent suction- 550cc yellow drainage.
+Cardiac- VSS. Pt tacycardiac with hr 99-120. UO poor 10-20cc/hr. HO aware. No further fluid boluses at this time.
+",,
+13826,1462,17200,0,3130-03-20 16:19:00 EST,3130-03-20 16:49:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Neuro:  Pt awake and appropriate.  Becoming very anxious at times, requesting medicine for her ""nerves"" frequently throughout the day.  Medicated as needed with ativan and X1 with haldol due to extreme tachycardia, tachypnea, and desaturation.  Pt c/o pain to PEJ site and right hip.  Medicated with MSO4 2mg q4hours.  Also has 75mcg fentanyl patch in place.
+
+CV:  HR this am 120's, ST, at rest.  When pt OOB, HR up to 150's, down to 140's with 500cc IV Bolus X2.  BP 120's/60's.  Temp spike this afternoon to 101.6, rec'd tylenol.  Started on abx for gram neg rods in sputum.  
+
+Resp:  LS's clear-coarse, diminished at bases.  Suctioned frequently for copious thin light green secretions.  Vented via tracheostomy on PS 15, PEEP 10 with O2 sat 97%, desaturating to 87% with agitation and anxiety on FiO2 50%.  PS increased to 25 with persisitent tachypnea and PEEP dropped to 7.5.  Presently on PS 20, tolerating PEEP drop  with O2 sat 91-96%.  
+
+GI:  Abd soft/+bs's.  TF's promote with fiber restarted at 10cc/hour per PEJ tube, advancing as tolerated.  No residuals being checked per order, advancing TF rate based on abd assessment.  No BM today although pt requesting the bedpan several times.  NGT to LCS draining large amounts due to large intake of ice chips this am.  MD in to speak to pt and her family limiting the amount of ice chips that the pt can have.  Presently, NGT draining moderate amounts of bilious drainage.
+
+GU:  Foley draining dark amber urine with sedimentation noted.  Hourly u/o only 10-20 cc/hour prior to IV boluses.  HO aware, most likely pt is dehydrated from diuresis yesterday and the day before.
+
+Skin:  Breakdown to rt buttock well healed and OTA.  Pt placed on regular bed as she is becoming more mobile.  She was OOB to chair for 2 hours.  She was able to pivot with max assistance.  Left upper arm PICC line with dressing intact, site c&d.
+
+Soc:  Pt's family in to visit today.  Her sister inappropriate at times and falling asleep while standing up in room.  When it was apparent that pt was becoming more anxious, her sister was asked to step out for a little while and she refused.  Dr. [**Last Name (STitle) 5308**] into speak to her to attempt to set limits with some more success.
+
+Plan:  [**Hospital3 **] into screen pt today.  Questionable whether they will accept her due to drug addiction.  [**Hospital3 1574**] to screen pt tomorrow.  Started on 2 abx for coverage of GNR in sputum.  Cont to monitor VS's, I&O's, labs, mental status, pain control.
+",,
+13826,1462,17200,,3130-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-3-21**] 10:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3849**]
+     Reason: worsening infiltrate                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old woman with resp. failure and ARDS                                  
+       
+     REASON FOR THIS EXAMINATION:
+      worsening infiltrate                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of Respiratory failure.
+     
+     Tracheostomy tube is 6 cm above carina. Technical differences preclude a good
+     comparison with the prior study of [**3130-3-14**] but allowing for these
+     differences there has been no significant change in appearance of the heart
+     and lungs with persistent diffusely scattered bilateral interstitial
+     densities. No pneumothorax.
+
+",,
+13826,1462,17200,0,3130-03-21 05:27:00 EST,3130-03-21 05:40:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert, appropriate and anxious at times. MAE. Complaining of ""R hip/back pain"" c/w sciatica.  Pt. states she has had it in the past. Medicated with MSO4. 
+CV: Tmax 100.8 po. HR 110-140s ST, no ectopy noted. BP stable (see carevue). Skin warm and dry with palpable pedal pulses. 
+RESP: Trach intact. Lungs sounds coarse with scattered rhonchi and diminished at bases. On vent PS20 Peep 7.5 FiO2 50% until 1am when c/o SOB after being turned on bedpan with desaturation to 80s and RR 40s.  Sx'd for minimal blood tinged yellow-tan secretions. Peep increased to 10 with good effect. Medicated for anxiety at this time also. Currently vent settings: PS20 Peep10 FiO2 50% with O2 Sat 91-96%. TVs 300s-480 and RR 20s.
+GI/GU: Abd. obese, soft with positive bowel sounds. No BM, although on/off bedpan x4 overnight. Lactulose given x1. Promote with fiber currently at 50cc/hr and pt. tolerating well. NGT continues to ILWS with small amts bilious drainage. Foley with u/o 10-40cc/hr, dark amber urine with sediment. Given 250cc NS bolus with some effect. MD made aware of low u/o. 
+SKIN: R buttock intact but reddened. Repositioned side to side. L PICC line intact and flushed with heparin. 
+",,
+13826,1462,17200,0,3130-03-21 14:40:00 EST,3130-03-21 14:52:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Neuro:  Pt is awake and appropriate, calm and cooperative for the most part today.  Less c/o anxiety, requesting pain medicine appropriately for c/o pain at PEJ site and rt hip and back.
+
+CV:  Remains tachycardic 100's-120's, ST, no ectopy noted.  BP 110's-120's/60's.  Tmax today 99.1, continues on abx for suspected vent acquired pneumonia.  
+
+Resp:  LS's coarse throughout, suctioned frequently for moderate amounts of thin light green secretions.  Pt with O2 sat down to 87-88% this am.  PS increased to 25 and PEEP 12.5, Fio2 remains at 50%.  RR 19-28 with sat 97-100% on these settings.  Settings will remain unchanged today. 
+
+GI:  Abd soft/+bs's, TF's promote with fiber increased to goal rate of 65cc/hour today via PEJ tube.  NGT d/c'd once TF's at goal.  Rec'd lactulose this am for continued c/o discomfort due to constipation with good results.  Pt had 4 large BM's this morning.
+
+GU:  Foley draining amber urine with sedimentation.  U/O continues to be low, IVF started NS+40KCl at 125cc/hour.  IV bolused once.
+
+Skin:  remains on regular matress with no breakdown.  Pt turning frequently from side-side to get on and off the bedpan.  No OOB today. Rt PICC line intact.
+
+Plan:  Accepted by [**Hospital3 1574**] Rehab today, pt will most likely be medically ready on Monday, they will have a bed.  Pt's family is aware.
+",,
+13826,1462,17200,0,3130-03-22 04:21:00 EST,3130-03-22 04:30:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert, appropriate and cooperative.  MAE. Writing on tablet and mouthing words to communicate effectively. Complaining of pain in R hip and abd. PEJ insertion site- medicated prn with mso4 2mg. 
+CV: Tmax 99.6. HR 100s-140s ST, no ecotpy noted. BP stable (see carevue). Skin warm and dry with palpable pedal pulses. Positive 3L with 1-2+ generalized edema. 
+RESP: Trach intact.  No vent changes made- PS 25 Peep 12.5 FiO2 50% RR 16-30s. O2 Sat >95%. Lungs coarse throughout. Sx'd for thin secretions in moderate amts. 
+GI/GU: Abd. obese, soft with positive bowel sounds. No BM. TF at goal 65cc/hr via PEJ tube. Taking a few ice chips intermittently with supervision. Using Yankaur to sx away oral secretions independently. Foley with poor u/o 10-30cc/hr, given 500cc NS bolus x1 with little effect. MD aware. On abx for UTI and pyridium added d/t pt. c/o ""burning sensation.""
+SKIN: Reddened R buttock, no breakdown. Small open area between buttocks, cream applied. Repositioned side to side. R Picc line intact. 
+PLAN: Accepted to [**Hospital3 1574**] Rehab with possible transfer on Mon.
+",,
+13826,1462,17200,0,3130-03-22 17:51:00 EST,3130-03-22 18:03:00 EST,761,"N",69,"Nursing/Other","Fin 4 ICU nursing progress note:","
+[**Wardname **] 4 ICU nursing progress note:
+ Respiratory: Remains on PSV..decreased to 20 able to decrease peep to 10. Sats 90-95%..Continues with productive cough..does drop sats to 88 with coughing..Has tolerated decreased vent settings..secretions thin moderate amts..
+ Neuro: Alert/orientated asking for ""pain"" meds thru-out day. Was given haldol early am..pt slept most of day. OOB to chair at 1600..pt insisting she go back to bed at 17:30..told she needed to stay up till 1800..got very agitated..continueing to put on call bell..threw TV controller at co-worker..Pulmonary fellow in to speak with pt..did not change behavior..pulling monitor equipment off..using call bell..attempting to get out of chair. Will put pt back to bed at 1800.
+ Fluid: urine output minimal most of day..10-20cc/hr..no further fluid boluses given. Felt she was very positive past 24hrs..no c/o thirst..bun/creat wnl.
+ Dispo: Case manager by today...talked with [**Hospital3 1574**]..they will accept pt tomorrow. Team aware and agrees..
+
+",,
+13826,1462,17200,0,3130-03-23 06:17:00 EST,3130-03-23 06:25:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro; pt very lethargic on eves. more alert after 2200. c/p pain in right hip area following bathing with multiple turning. pt repositioned and given 2mg of ativan with good effect. dosed after 2am. aox3 this am.
+
+cad hr st 100's b/p 100-140's systolic
+
+resp: no vent changes made continues with periodic coupy cough. suctioned for moderate amts. of thick yellowy to whiteish secretions. moderate amts of oral secretions.
+
+gi: tf cont at 65cc/hr no bm bs+
+
+gu: 24los 1300cc +.
+
+lines; red port on picc does not flush.
+
+plan: transfer to osutside facility for cont. of care
+",,
+13826,,,,3130-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-6-26**] 10:41 AM
+     CT TRACHEA W/O C W/RECONS                                       Clip # [**Clip Number (Radiology) 3850**]
+     Reason: please eval trachea for planned intervention                
+     Admitting Diagnosis: TRACHAEL OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with prolonged intubation, now with tracheal stenosis         
+     REASON FOR THIS EXAMINATION:
+      please eval trachea for planned intervention                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TRACHEA, [**3130-6-26**]:
+     
+     CLINICAL INDICATION:  Tracheal stenosis.
+     
+     Comparison is made to CT chest of [**3130-3-18**].
+     
+     Helical CT of the central airways was performed without IV or oral contrast
+     administration.  Images were initially obtained using a standard dose
+     technique at end inspiration.  Subesquently, using a low dose technique, a
+     scan was performed during dynamic expiration.
+     
+     Multiplanar and 3D images will be obtained from the axial data and an addendum
+     will be issued to the report when they become available.
+     
+     There has been interval removal of a tracheostomy tube.  There is extrinsic
+     compression of the trachea at the level of the thoracic inlet from enlargement
+     of the right lobe of the thyroid gland which measures approximately 3.8 X 3.6
+     cm in diameter and contains a dominant low density lesion as well as
+     peripheral calcification.  At this level, the trachea is shifted towards the
+     left, and demonstrates coronal narrowing with a minimal diameter of
+     approximately 6 mm.  The high grade coronal narrowing is only over a short
+     segment.  The right thyroid mass extends inferiorly to a level just above
+     where the left brachiocephalic vein crosses the midline.  Below the level the
+     trachea has a normal coronal and AP diameter.
+     
+     Dynamic expiratory images demonstrate a component of malacia at the site of
+     high grade narrowing with near complete collapse of the trachea at this level
+     during dynamic expiration.  Below the level of the thyroid mass the trachea
+     demonstrates no evidence of malacia.  Note is made of an area of dependent
+     polypoid opacity within the distal trachea on the initial sequences. The
+     patient was subsequently asked to cough and this region was reimaged with
+     interval change in position of the dependent opacity into the proximal right
+     main stem bronchus, consistent with an area of retained secretions.
+     
+     Assessment of the lungs demonstrates interval improvement in degree of diffuse
+     ground-glass opacity and areas of previously noted consolidation have resolved
+     in the interval.  There is a residual diffuse interstitial pattern
+     characterized by reticulation and septal thickening which is superimposed upon
+     underlying changes of emphysema.
+     
+     The soft tissue structures of the imaged portion of the mediastinum
+                                                                 (Over)
+
+     DATE: [**3130-6-26**] 10:41 AM
+     CT TRACHEA W/O C W/RECONS                                       Clip # [**Clip Number (Radiology) 3850**]
+     Reason: please eval trachea for planned intervention                
+     Admitting Diagnosis: TRACHAEL OBSTRUCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     demonstrate several mediastinal lymph nodes but show decrease in size compared
+     to the previous examination.  Distention of the thoracic esophagus is noted.
+     
+     Please note that the CT trachea protocol does not involve imaging of the
+     entire lungs, but extends only to a few centimeters below the carina.
+     
+     The skeletal structures of the thorax demonstrate no suspicious lytic or
+     blastic skeletal lesions.
+     
+     IMPRESSION:
+     1)  High grade coronal narrowing of the trachea at the level of the thoracic
+     inlet, which appears to be predominantly due to extrinsic compression from an
+     adjacent right lobe of thyroid enlargement.  The trachea narrows to 6 mm in
+     coronal dimension at the site of maximal narrowing.  Additionally, there is
+     near complete collapse of this region during dynamic expiration, consistent
+     with a component of malacia.
+     
+     2)  Interval improved appearance of ground-glass opacities and resolution of
+     multifocal consolidation, with residual extensive interstitial changes
+     diffusely, superimposed upon emphysema.  The interstitial abnormalities likely
+     represent residua of the patient's history of prior ARDS.
+     
+     3)  Enlarged right lobe of thyroid gland containing a dominant low density
+     lesion and peripheral calcifications.  Although possibly due to asymmetric
+     goiter, thyroid neoplas arising within a goiter should also be considered.
+     Thyroid ultrasound may be helpful for initial further assessment of this
+     finding.
+     
+     4)  When available, multiplanar and 3D images will be reviewed and an addendum
+     will be issued to the report.
+     
+     5)  Distention of the thoracic esophagus suggesting the possibility of
+     esophageal dysmotility.
+     
+     ADDENDUM:
+     Multiplanar and 3-d images confirm focal tracheal stenosis at the level of the
+     thyroid gland, with associated component of malacia at this site during
+     dynamic expiration. These images also confirm absence of significant
+     abnormality in the central airways below this level.
+
+",,

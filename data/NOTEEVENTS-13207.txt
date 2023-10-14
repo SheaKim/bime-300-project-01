@@ -1,0 +1,1442 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13207,12939,,,3064-12-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3064-12-26**]              Discharge Date:   [**3065-1-8**]
+ 
+Date of Birth:  [**2992-4-17**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 8678**] 
+Chief Complaint:
+Diarrhea.
+ 
+Major Surgical or Invasive Procedure:
+EGD on [**3064-12-30**].
+Bronchoscopy on [**3064-12-30**].
+hemodialysis [**3065-1-8**]
+ 
+History of Present Illness:
+The pt. is a 72 year-old male with a history of alcoholic 
+cirrhosis complicated by chronic LE edema and cellulitis who 
+presented with a 4 to 5 day history of diarrhea and decreased 
+p.o. intake.  The pt. stated that he was in his USOH until 
+September of this year when he began to develop watery, 
+non-bloody diarrhea after being treated with clindamycin for 
+lower extremity cellulitis.  At that time, he was empirically 
+treated with flagyl for suspected c. difficile enterocolitis and 
+his diarrhea abated.  He subsequently experienced diarrhea again 
+in October under the same circumstances which also improved with 
+flagyl.  The pt. reported that the same sequence of events 
+occurred again beginning 4-5 days prior to admission.  The pt. 
+stated that his diarrhea is watery and brown and primarily 
+occurred after meals.  He has not noticed any blood in his 
+stools.  He had been unable to tolerate p.o. for the past [**2-16**] 
+days and stated that any time the pt. would attempt to take 
+p.o., he would experience copious diarrhea.  The pt. admitted to 
+a roughly 10 pound weight loss over this time period.  The pt. 
+denied fever or diaphoresis but did complain of chills during 
+the past four days.  He has also noticed increased redness and 
+swelling of his lower extremities, more marked on the right.  He 
+had been unable to ambulate secondary to lower extremity pain.  
+On ROS, the pt. complained of a mild headache but denied chest 
+pain, shortness of breath, nausea, dysuria.
+In the ED, the pt. was a total of 2 liters of IV fluid, 60g of 
+kayexelate for elevated serum potassium and IV oxacillin for 
+lower extremity cellulitis.  An ultrasound of the pt's. RLE was 
+performed and was negative for DVT.  He was admitted to the MICU 
+for dehydration secondary to presumed c. difficile 
+enterocolitis.  
+ 
+Past Medical History:
+-cirrhosis [**2-15**] alcohol abuse c/b grade 1 esophageal varices, 
+gastric varices and thrombocytopenia; has been abstinent since 
+[**3046**]
+-chronic LE edema and cellulitis as a result of cirrhosis
+-HTN
+-normocytic anemia, thought to be [**2-15**] CRI, on aranesp injections
+-AAA, dx. in 3/02 and measured 3.5x3 by U/S (stable as of 7/04)
+-chronic constipation
+-BPH, S/P TURP in [**3058**]
+-agoraphobia
+-chronic renal insufficiency with a baseline Cr. of 2
+-lipomas
+-ED
+
+ 
+Social History:
+The pt. lives at home with his wife and son.
+He has been abstinent from alcohol since [**3046**] after a history of 
+alcohol abuse.
+He has a distant history of tobacco use (quit 30 years ago). 
+Denied illicit drug use.
+ 
+Family History:
+Mother died of colon cancer in her 90's.
+
+ 
+Physical Exam:
+T: 98F P: 84 R: 18 BP: 110/32 SaO2: 100% RA
+General: awake, alert, NAD
+HEENT: PERRL, EOMI, MM dry, no lesions in OP
+Neck: supple, no JVD appreciated
+Pulmonary: lungs CTA bilaterally
+Cardiac: RRR, S1S2, no m/r/g appreciated
+Abdomen: soft, NT/ND, hyperactive bowel sounds, no masses or 
+organomegaly appreciated
+Extremities: 2+ pitting edema of LLE with pretibial erythema and 
+2+ DP pulse; 4+ pitting edema of RLE with marked pretibial 
+erythema and skin breakdown, 1+DP pulse
+Neurologic: Alert and oriented x 3. No asterixis noted.
+Skin: Skin changes over BLE as described above.  Otherwise, 
+hemangiomas noted over trunk.
+ 
+Pertinent Results:
+Labs on admission:
+
+[**3064-12-26**] 06:00AM   WBC-17.3*# RBC-3.67* HGB-11.9* HCT-34.8* 
+MCV-95 MCH-32.5* MCHC-34.3 RDW-16.5*
+[**3064-12-26**] 06:00AM   PLT COUNT-61*
+[**3064-12-26**] 06:00AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-2+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-2+ 
+BURR-1+
+[**3064-12-26**] 06:00AM   NEUTS-68 BANDS-24* LYMPHS-1* MONOS-5 EOS-0 
+BASOS-0 ATYPS-0 METAS-2* MYELOS-0
+[**3064-12-26**] 06:00AM   CORTISOL-56.7*
+[**3064-12-26**] 06:00AM   GLUCOSE-95 UREA N-83* CREAT-5.5*# SODIUM-127* 
+POTASSIUM-5.4* CHLORIDE-97 TOTAL CO2-14* ANION GAP-21*
+[**3064-12-26**] 06:00AM   ALBUMIN-3.3* CALCIUM-8.5 PHOSPHATE-4.9*# 
+MAGNESIUM-1.7
+[**3064-12-26**] 06:00AM   ALT(SGPT)-22 AST(SGOT)-43* LD(LDH)-239 ALK 
+PHOS-65 AMYLASE-35 TOT BILI-2.6* DIR BILI-1.1* INDIR BIL-1.5
+[**3064-12-26**] 06:00AM   LIPASE-24
+[**3064-12-26**] 06:00AM   HAPTOGLOB-36
+[**3064-12-26**] 07:40AM   FIBRINOGE-227
+[**3064-12-26**] 07:40AM   PT-20.8* PTT-41.0* INR(PT)-2.7
+[**3064-12-26**] 08:04AM   LACTATE-4.7*
+[**3064-12-26**] 09:30AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 302**]-1.013
+[**3064-12-26**] 09:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+[**3064-12-26**] 09:30AM URINE  RBC-0 WBC-0-2 BACTERIA-OCC YEAST-NONE 
+EPI-0
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was a 72 yo male with alcoholic cirrhosis, admitted 
+to the FICU with C diff colitis, RLE cellulitis, acute on 
+chronic renal failure, enterobacter bacteremia, and anion gap 
+metabolic acidosis.  He was stabalized in the FICU, called out 
+on [**1-3**], and progressively developed acute on chronic hepatic 
+insufficiency.  Hepatic failure thought to be due to chronic 
+liver disease in setting of chronic infection.  He developed a 
+hepatorenal syndrome and underwent hemodialysis but became 
+acutely hypotensive.   He was transferred to the FICU [**3065-1-8**].  
+A family meeting was held, and the patient was made DNR/DNI with 
+emphasis on confort measures.  He expired [**3065-1-8**] at 20:48 with 
+his family present.  During his hospitalization the following 
+problems were addressed:
+
+1. Acute on Chronic renal failure and Hypovolemia: The pt 
+presented with severe volume depletion secondary to the history 
+of severe diarrhea.  He was aggressively hydrated with IV fluids 
+over the course of the first two hospital days.  IV fluids were 
+discontinued once the pt. was able to tolerate p.o. fluids.  Pt 
+presented with a serum creatinine that was elevated well above 
+baseline on admission.  This rapidly improved with the 
+administration of IV fluids, suggesting a prerenal azotemia on 
+admission.  
+
+Pt's renal function worsened when he developed acute on chronic 
+hepatic insufficiency, likely due to worsening prerenal 
+azotemia.  The renal team was following.  Despite colloid (PRBC) 
+and sodium bicarbonate, pt's renal function continued to decline 
+on the floor with worsening uremia.  On [**1-7**] pt was started on 
+midodrine and octreotide.  He was transferred to the West campus 
+for hemodialysis.  During hemodialysis he became acutely 
+hypotensive.  Dialysis was discontinued and he was transferred 
+to the FICU for further care.   
+
+2. C. Difficile Colitis: The pt. was started on po metronidazole 
+on admission.  His diarrhea subsequently abated over the course 
+of the first hospital day.  Stool sent for c. difficle toxin 
+assay confirmed the diagnosis.  Pt was maintained on PO 
+metronidazole with repeat stool sample negative for C. Dif on 
+[**1-6**].  However, he continued to have diarrhea whenever he ate, 
+possibly functional or related to Abx use. 
+
+3. Lower extremity cellulitis: The pt. presented with 
+significant edema, erythema and tenderness of his right lower 
+extremity.  He was started on IV oxacillin which was continued 
+for the first two hospital days.  However, the pt's. cellulitis 
+worsened on this regimen.  Over concern for possible 
+community-acquired MRSA cellulitis, IV vancomycin was begun on 
+the third hospital day.  As there continued to be no 
+improvement, an MRI of the lower extremities was performed over 
+concern for possible abscess or osteomyelitis.  There was no 
+evidence of abscess on MR, just non-specific edema.  On the 
+floor, in the setting of his worsening renal function, pt's IV 
+vancomycin was continued and dosed daily by level. 
+
+4. Enterobacter bacteremia: The pt. was noted to have [**1-17**] 
+bottles positive for Enterobacter.  Accordingly, he was placed 
+on ceftriaxone and levofloxacin.  He remained afebrile for the 
+duration of the MICU stay and he never developed signs or 
+symptoms suggestive of sepsis or SBP.  He was maintained on IV 
+Levofloxacin and Cefepime on the floor, the latter to cover for 
+?Pseudomonas from his cellulitis.  
+
+5. Hypoxia: Pt was noted to have bilateral pleural effusions and 
+mild fluid overloaded, likely due hepatic and renal failure.  
+IVFs were stopped.  Pt remained stable on 3L of oxygen by nasal 
+canula on the floor, but desaturated on transfer to the FICU.  
+
+6. Hemoptysis: The pt. experienced an episode of hemoptysis on 
+hospital day 5. The initial concern was for variceal bleeding 
+and he was intubated for airway protection, started on 
+octreotide, and given FFP and platelets. EGD showed nonbleeding 
+varices.  Bronchoscopy showed some blood but no bleeding source 
+suggestive of aspiration. It was ultimately felt that he was 
+suffering from epistaxis secondary to oxygen therapy via nasal 
+cannula.  He was extubated after 24 hours and did not experience 
+any further episodes.
+
+7. Acute on Chronic Hepatic Insufficiency: Pt has a history of 
+alcoholic cirrhosis.  The etiology of his acutely worsening 
+liver function is unclear, but likely due to infection.  The 
+liver team followed, and advised that the pt's liver disease 
+portended a poor prognosis.  A paracentesis on [**1-5**] drained 
+500cc of fluid which had SAAG supporting portal hypertension, as 
+suspected, and ruling out SBP.  His total bili continued to rise 
+in the setting of renal insufficiency.  He was maintained on SQ 
+vitamin K. On transfer to the FICU the patient was jaundiced 
+with total bilirubin 17.  Mental status quickly deteriorated 
+over the afternoon. 
+
+8. AAA: Stable at 3.5cm.
+
+9. Swallowing: A video swallow found a small amount of 
+penetration identified with thin liquid and pill, otherwise no 
+aspiration.
+
+10.  The patient was transferred to the FICU on [**3065-1-8**] after 
+decompensating into end stage hepatic failure and renal failure 
+on the floor, intolerant of hemodialysis.  A family meeting was 
+held, and the patient was made DNR/DNI with emphasis on comfort 
+measures.  He expired [**3065-1-8**] at 20:48 with his family present. 
+ 
+
+ 
+Medications on Admission:
+-atenolol 25mg po daily
+-aranesp 50mcg sc qweek
+-lasix 40mg po daily, recently d/c'ed
+-moexipril 7.5mg po daily
+-spironolactone 100mg po daily, recently d/c'ed
+ 
+Discharge Medications:
+---
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+deceased
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+----
+ 
+Followup Instructions:
+----
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8679**] MD [**MD Number 8680**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 2499**] [**Last Name (NamePattern1) 3329**] MD [**MD Number 3330**] [**3065-1-9**] @ 0801
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3065-1-10**] 2:38 PM
+(End of Report)
+
+
+",,
+13207,12939,,,3064-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-26**] 7:59 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13776**]
+     Reason: ? free air, sbo                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with bandemia, hypotension, diarrhea                            
+     REASON FOR THIS EXAMINATION:
+      ? free air, sbo                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bandemia, hypertension, and diarrhea.
+     
+     Single view abdomen, supine:  No free intraabdominal air is identified on the
+     supine film. The diaphragms have been clipped from this film.  No dilated
+     loops of large or small bowel are seen.  Air is identified within the rectum.
+     
+     IMPRESSION:
+     No radiographic evidence of obstruction or free air.
+
+",,
+13207,12939,,,3064-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-26**] 6:26 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 13774**]
+     Reason: r/o DVT                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with RLE edema and erythema                                     
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+     WET READ: JHjc MON [**3064-12-26**] 7:00 AM
+      No DVT.  lymph nodes in right groin
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right lower extremity edema and erythema.
+     
+     There are no prior studies for comparison.
+     
+     RIGHT LOWER EXTREMITY ULTRASOUND: Grey scale and Doppler sonograms of the
+     right common femoral, superficial femoral and popliteal veins was performed.
+     Normal flow, compressibility, augmentation and wave forms are demonstrated. No
+     intraluminal thrombus identified. Note is made of several prominent lymph
+     nodes in the right groin.
+     
+     IMPRESSION: No evidence of DVT.
+
+",,
+13207,12939,,,3064-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-26**] 7:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13775**]
+     Reason: ? infiltrate, edema                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with bandemia, hypotension, diarrhea                            
+     REASON FOR THIS EXAMINATION:
+      ? infiltrate, edema                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bandemia, hypotension, diarrhea, rule out infiltrate or edema.
+     
+     AP PORTABLE SEMI-UPRIGHT CHEST:  No priors for comparison.  The left
+     costophrenic angle is not included on this film.  There is mild left
+     ventricular enlargement.  The mediastinal and hilar contours are unremarkable.
+     The visualized lungs are clear without evidence of infiltrate or effusion.
+     No evidence of congestive heart failure or pneumonia.
+     
+     IMPRESSION:  No acute cardiopulmonary disease.
+     
+
+",,
+13207,12939,16447,0,3064-12-26 17:00:00 EST,3064-12-26 17:45:00 EST,762,"N",69,"Nursing/Other",,"
+
+Nursing Admit Note
+
+This is  72 yo male with past med hx of chronic LE edema and cellulits, ETOH cirrohsis - stopped drinking '[**46**], known grade 1 varices in esophogus and stomach, HTN, AAA, anemia (HCT in the low 30s), thrombocytopenia, constipation, bilat cataracts, 30 pk yr smoker quit 20 yrs ago, CRI who came to the EW c/o cellulitis and diarrhea.  RLL more swollen than L, red and painful, pos chills, he states that he has had diarrhea on and off since [**Last Name (un) **].  He was treated with flagyl in [**Last Name (un) **] for presumed cdif - watery diarrhea after being treated with clinda for a lower extremity cellulits.  After the flagyl the diarrhea abated.  This same senario happened again in Oct and this again happened 5 days prior to this admission.  He states that he has been  has not been able to tolerate POs due to copious diarrhea.  In the EW he was intermittantly hypotensive, creat was 5.7, K 5.4, given 2 L of NS, flagyl and [**Last Name (LF) 4531**], [**First Name3 (LF) **] US of his LE was neg for a clot.  Pt was admitted to the MICU.
+
+Systems Review
+
+Neuro:  Alert and oriented, denies any pain.
+
+CV:  SBP 90s-100s, HR 70s-90s, denies any CP, his cardiac meds are on hold.
+
+Resp:  LS clear, 02 SAT 100% on RA
+
+GI:  Watery diarrhea, small specs of blood, OB pos, he is on a cardiac diet.  Flagyl conts.
+
+GU:  His creat was 5.7 on admit, he has recieved 1 liter of IVF here and then started on a NS gtt of 250cc/hr, labs will be drawn at 6 pm and MN.
+
+Soc:  His wife was in to see him.
+",,
+13207,12939,16447,,3064-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-27**] 3:12 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 13777**]
+     Reason: Evaluation of ascites; please mark for tap.                 
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o EtOH cirrhosis p/w fever, leukocytosis now with GNR in 
+      blood.
+     REASON FOR THIS EXAMINATION:
+      Evaluation of ascites; please mark for tap.                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Alcoholic cirrhosis with fever and Gram-negative rod bacterium.
+     Please evaluate ascites and mark for paracentesis.
+     
+     FINDINGS:
+     
+     Limited images of the abdomen were obtained in 4 quadrants and in the
+     suprapubic area.  There is a small amount of ascites, with small pockets in
+     the right upper quadrant and in the suprapubic area.  No pocket is large
+     enough to be marked for nonguided paracentesis.  This was discussed with Dr.
+     [**First Name4 (NamePattern1) 2994**] [**Last Name (NamePattern1) 526**] at 3:30 p.m. on [**3064-12-27**].
+     
+     IMPRESSION:
+     
+     Small amount of ascites.
+                                                                           DFDkq
+
+",,
+13207,12939,16447,0,3064-12-27 03:18:00 EST,3064-12-27 03:32:00 EST,585,"N",69,"Nursing/Other","S/MICU NPN 1900-0700","
+S/MICU NPN 1900-0700
+please see carevue flowsheet for all objective data
+
+overnight, pt dropping his bp to sys of 80's, maps 50's.. sys back up to 90-100 w/stimulation, etc. 500cc bolus x1 given. pt continued to have good u/o and mentate. dr [**Last Name (STitle) **] aware. 
+
+neuro- axox3. mae. c/o extreme pain to rle last eve. given 1 mg morphine x2 w/good effect, pt has prn order now. 
+
+cv- as above hr 70-90's nsr no ectopy. ca 7.2 repleted o/n w/3 grams, mg 1.6, repleted w/ 3 amps. k 4.4 at midnight. atenelol for known varices.
+
+resp- on ra sats 98-100%. no s/o sob. ls clear. 
+
+gi/gu- abd soft, non-tender. +bs. taking sips overnight.. ?to resume diet in the am. no stool overnight. will need stool sent for c diff and ova/parasites today. uop remains good. bun/cr slightly down w/mn labs. acute on chronic renal failure. vit k given last night, to give doses x2 more days for elevated inr
+
+fen- ivf changed to 0.45 ns @150cc/hr, na last night 129. 
+
+id- rle remains extremely swolen and warm to touch. remains on oxacillin and po flagyl for ??probable c diff.
+
+social- wife and son in overnight to see pt, updated by this rn
+
+remains in micu. cont to follow wbc, f/u culture data, electrolytes.
+",,
+13207,12939,16447,0,3064-12-27 16:48:00 EST,3064-12-27 17:06:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Alert and oriented, very talkative, not able to be very specific about the pain in his leg, he has recieved MS04 x2 today and he immediately fell asleep after the dose.
+
+CV:  BP 80s-low 100s, HR 70s-80s, he was given a 500cc NS bolus for a SBP in the 80s.  He conts on atenolol for his varices.
+
+Resp:  LS clear, 02 SAT high 90s on RA.
+
+GI:  He has not had a BM today though has had a fair amount of gas.  He still needs stool specs for various lab tests.  He has cdif and conts on PO flagyl.  He has gram neg rods in one aerobic blood clx bottle, he was started on PO levo and ceftriaxone, he also had an US of his abd to look for asites.  Heparin antibodies were sent, hep was d/ced, conts with low plts.  ABD soft, nontender.
+
+GU:  U/O ~ 60cc/hr, his fluid was changed to NS at 150cc/hr for 4 liters.  Creat was 3.5 this afternoon.
+
+Cellulitis:  R leg remains swollen, red, and painful, given MS04 1 mg with good effect.
+
+",,
+13207,12939,16447,,3064-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-28**] 12:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13778**]
+     Reason: Any evidence of failure?                                    
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with desaturations.                                            
+     REASON FOR THIS EXAMINATION:
+      Any evidence of failure?                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Oxygen desaturation.
+     
+     Allowing for technique, heart size is borderline.  There is pulmonary vascular
+     engorgement with bilateral pleural effusions adn ill-defined opacities at both
+     lung bases, likely due to a combination of atelectasis and pleural effusion,
+     but correlate clinically and after therapy to reevaluate and rule out
+     aspiration/pneumonia.  These findings are new since the prior study of
+     [**3064-12-26**].
+     
+     IMPRESSION:  New development of CHF with pleural effusions and bibasilar
+     atelectases and/or consolidations.   No pneumothorax.
+
+",,
+13207,12939,16447,0,3064-12-28 05:28:00 EST,3064-12-28 05:31:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900 -0700
+
+MR [**Known patient lastname 3398**] HAD AN UNEVENTFUL NIGHT. HE RECIEVED 2 MG MORPHINE  IV FOR R LEG PAIN W/ GOOD EFFECT. HE REMAINED AFEBRILE AND HIS VS HAVE BEEN STABLE W/ SLIGHT DROP IN BP TO 90'S SYSTOLICALLY (?ATENOLOL)
+PLAN: TO FLOOR WHEN BED AVAILABLE.
+",,
+13207,12939,16447,0,3064-12-28 16:39:00 EST,3064-12-28 16:50:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt is less talkative today than yesterday, has slept more though easily aroused and appropriate.  His MS04 was increase to 2 mg q4-6 prn for pain and he was given 2 mg at 10 am, he said that it has not decreased the pain very much but he conts to be sleepy this afternon.
+
+CV:  SBP 90s this morning, this afternon he started to drop his BP to the 80s, his UO has been decreasing to 35cc/hr from 60/hr.  HR SR in the 70s-80s but he is now having APCs frequently - an EKG was done.
+
+Resp:  LS somewhat coarse on the L, his 02 SAT dropped tothe low 90s (he had been in the upper 90s to 100%), he was given 02 40% via scoop mask and now has a SAT in the mid 90s.  A CXR showed some failure, his IVF was decreased to 75cc/hr.
+
+GI:  Better appitite today, able to eat ~ half of his food.
+
+GU:  Decreased u/o as above, his creat conts to slowly come down - he was 3.1 this morning.  His urine clx is still pending from yesterday.
+
+Cellulitis:  His RLL cellulits looks worse with increased redness though the swelling has decreased some.  His WBC has increased today to 15.8, his oxacillian was d/ced and he is now on vanco.  He had blood clx sent prior to starting the vanco.
+
+Soc:  His wife was in part of the day, concerned that his cellulitis looks worse and he now needs oxygen.
+
+",,
+13207,12939,16447,0,3064-12-29 04:27:00 EST,3064-12-29 04:42:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+
+NEURO: AXOX3 ,CAN CARRY ON APPROPRIATE CONVERSATION YET ,ADMITS TO HAVING OCC VISUAL HALLUCINATIONS.??MSO4??MEDICATED W/ 2 MG MSO4 FOR R LEG CELLULITIC PAIN W/ GOOD RELIEF.
+
+C/V: SR W/ OCC PAC' HR 80'S, BP 80-90'S SYSTOLICALLY.(HO AWARE).  
+
+RESP: REFUSING SCOOP MASK ,NOW ON 3 LITERS NC W/ SATS IN LOW 90'S. DENIES FEELINGS OF SOB. LUNGS ARE CLEAR W/ [**Hospital1 **] BASALAR RALES. NO COUGH.
+
+F/E/N: NSS @ 75 HR, 1ST LITER UP, ASKING FOR FREQUENT DRINKS OF H2O( ? INTRAVASCULARLY DRY).UO ~ 50CCHR.WILL RECIEVE SPIRALDACTONE IN AM.ADMITS TO URGE TO MOVE BOWELS BUT HAS ONLY PASSED FLATUS.CONT TO BE HYPERVOLEMIC >9 LITERS POS FOR LOS.ASCITES UNCHANGED.AM LABS PENDING.
+
+SKIN: R LEG CELLULITIS MARKED BY MD. PERSISTS IN PAIN W/ MOVEMENT, ERYTHEMA AND EDEMA.SCROTUM EDEMATOUS W/ SMALL SKIN TEARS. BARRIER [**Doctor Last Name **] APPLIED. SMALL REDDENED UNOPENED AREA ON SACRUM, TURNED AND REPOSTIONED FREQ.
+
+PLAN: MONITOR HEMODYNAMICS, MSO4 FOR PAIN, DIURETIC IN AM, CONT AB TX, SKIN CARE.
+",,
+13207,12939,16447,0,3064-12-29 17:28:00 EST,3064-12-29 17:38:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN FOR 7A-7P:      PLEASE CAREVUE FLOWSHEET FOR MORE DETAILS
+
+                 CONTACT PRECAUTIONS FOR C. DIFF
+
+NEURO:  AAOX3.  PERLA. FOLLOWS COMMANDS. ASSISTS WITH TURNING/REPOSITIONING. REFUSED ANY PAIN MEDS FOR MY TIME. 
+
+RESP: 6L NC WITH ADEQUATE SATS. LUNG SOUNDS CLEAR IN UPPER LOBES WITH CRACKLES IN BASES. NO COUGH NOTED. RR REGULAR AND UNLABORED. 
+
+CV: SR WITH PAC'S FREQUENT AT TIMES.  BP STABLE WITH GOAL TO KEEP SYST. >80.  LOW GRADE FEVER. DIFFICULT PALP. PPP'S. GENERALIZED WEEPING EDEMA TO LOWER EXTREMITIES AND THIGHS. 
+
+GI/GU: + BS NOTED. ABD IS SOFT, OBESE AND DISTENDED, NON-TENDER. NO BM FOR MY TIME. FOLEY IN PLACE WITH ADEQUATE UO.
+
+SOCIAL:  WIFE IN TO VISIT.  
+
+SKIN:  CELLULITIS TO RIGHT LOWER LEG MARKED YESTERDAY BY MD AND HAS NO CHANGED SIGN. FROM THAT TIME. 
+
+PLAN: CONT. WITH CURRENT PLAN OF CARE. MONITOR PER PROTOCOL. REPLETE ELECTROLYTES AS NEEDED. SCHEDULED TO BE TRANSFERRED TO FLOOR.
+",,
+13207,12939,16447,,3064-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13207,12939,16447,,3064-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-30**] 8:18 PM
+     FOOT 1 VIEW RIGHT                                               Clip # [**Clip Number (Radiology) 13780**]
+     Reason: rule out subcutaneous air                                   
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with unresolving cellulitis of left foot                        
+     REASON FOR THIS EXAMINATION:
+      rule out subcutaneous air                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for soft tissue air; unresolving left foot cellulitis.
+     
+     RIGHT FOOT: A single lateral view of the right lower leg and right foot is
+     provided, without prior films for comparison. There is diffuse soft tissue
+     swelling and prominence of soft tissues over the dorsum of the right foot. No
+     soft tissue air is seen.
+
+",,
+13207,12939,16447,,3064-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-30**] 5:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13779**]
+     Reason: please assess ETT placement                                 
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man with desaturations, hematemesis                              
+                  
+     REASON FOR THIS EXAMINATION:
+      please assess ETT placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Intubated.
+     
+     PORTABLE CHEST: Comparison is made to film from two days earlier. There is a
+     new ET tube, its tip in satisfactory position, 2 cm above the carina. Note
+     that the patient is markedly rotated on the current film, limiting evaluation
+     of mid-line structures as well as the lung paranchyma.
+     
+     There appears to be significant interval worsening of aeration in the upper
+     half of the left chest, where air space infiltrate is seen, possibly
+     reflecting pneumonia.
+     
+     IMPRESSION: 1) New ET tube tip in satisfactory position.
+     2) Limited rotated study, suggesting worsened aeration in the upper left
+     chest.
+
+",,
+13207,12939,16447,0,3064-12-30 05:28:00 EST,3064-12-30 05:38:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Pt cont on 6liters nc with O2 sat 93-96% BS clear upper and diminished at the bases. cough with turning and encouragement. 
+  Cardaic: HR 70-80's NSR rare APC's BP lowest tonight 81/ ranged from 90-98/ most of the night. wt 85 kg (admit wt 79) still has lower extremity edema +[**3-17**]. 
+  ID: WBC up to 22 this morning. afebrile. vanco level sent Still reddened lower extremity on the right. still at level marked on [**12-28**], having a fair amount of pain from leg. medicated with 2mg of morphine at 1am, then premedicated at 5am with 1mg pt stating feeling less pain. 
+  GU: foley in place and draining well, urine output only 40-60cc/hr. urine amber, cloudy at times.
+  Skin: as noted right leg cellulitis, a number of eccymotic areas on the arms. no other broken areas, 
+  GI: hct stable 34 this morning. stool x 1 sm amount. no signs of bleeding. 
+  plan: transfer to medical floor when bed available. 
+ 
+",,
+13207,12939,16447,0,3064-12-30 19:14:00 EST,3064-12-30 20:01:00 EST,1277,"N",69,"Nursing/Other",,"
+
+pt was stable and called out until he developed an acute episode of bleeding in mouth ( approx 30 cc ) and o2 sat dropped. at 15:20. pt was then given bld products to reverse  inr of 2.1 and intubated for endoscopy and then bronched. no significant bleeding sites found.
+ neuro: pt is currently sedated on propofol at 2 cc/hr. other wise was alert but a bit vague about history. MAE and oriented x3.
+
+card: pt had card echo today for gen eval with history of pul failure. bp 86-96 sys and hr 80's NSR no ectopy.
+
+resp: was on 6 l nc with sat 92% before intubation. with bleeding at 15:20 sat dropped to 82-85% and required NRB mask  and then intubation for procedure. suctioned brb from et tube prior to and after endoscopy. lavaged with ns per et tube and cleared ble. proceded with bronch and no bleeding sites seen. pt is now intubated on CMV 100%/ 600 cc tv/ rate 12/ 5 peep. goal is to check risb now and to extubate if tolerated. pt with co2 of 13 pre intubation prob due to met acidosis of renal failure and diarrhea.
+
+gi: on c - diff pre. stooled loose mucus x3 today which all coincided with eating or drinking. pt is now on lactose free diet and needs daily stool spec sent. with hx of esphogeal blding  pt was thought to bleeding froim gi and pt recieved plats, 2 units FFP, sandostatin, bactrim and ddavp. no further bleeding noted.
+
+gu: pt with hx renal insufficiency with creat 2.7 output 40 cc/hr dark
+amber via foley.
+
+cellulitus : foot elevated > level of heart to improve drainage top of foot is now blistered and has and area of blue colored tissue. npt vanco dose freq increased. WBC elevated today and foot thought to look worse per team.
+
+access: pt  has 3 peripheral lines with newest placed in rt anticubital. was on 60 cc/hr but recieved 500 cc in acute episode and should re-eval iv fluids.
+
+plan: follow inr, crit , plat cnt
+      poss extubate asap
+ n    keep on shovel mask for hydration of tissues
+      poss d/c  sandostatin
+      needs cxr for intubation and xrqay of foot to check for free air
+",,
+13207,12939,16447,,3064-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-31**] 11:54 AM
+     MR CALF W&W/O CONTRAST RIGHT; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 13782**]
+     Reason: abscess, osteomyelitis of calf or foot. Please assess from c
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with unresolving cellulitis, edema of calf to foot, climbing 
+      WBC on vanco, levofloxacin, ceftriaxone, flagyl
+     REASON FOR THIS EXAMINATION:
+      abscess, osteomyelitis of calf or foot. Please assess from calf to foot         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Unresolving cellulitis, edema of calf to foot with climbing white
+     cell count on antibiotics.  Evaluate for osteomyelitis of the calf or foot.
+     
+     TECHNIQUE:  Multiplanar T1 and STIR images were obtained through the calves.
+     Additional fat saturated T1-weighted images were obtained after the
+     administration of gadolinium.
+     
+     MR OF THE CALVES WITHOUT AND WITH CONTRAST:  There is diffuse, symmetric,
+     circumferential edema within the subcutaneous tissues of the calves
+     bilaterally.  No focal fluid collections are seen.  There are no areas of
+     abnormal enhancement, though the evaluation is somewhat limited as there are
+     no precontrast fat saturated T1- weighted images on this study.  There is no
+     evidence for an interosseous or soft tissue abscess.  No tibiotalar joint
+     effusions are identified.  The bone marrow signal intensity characteristics
+     are within normal limits.
+     
+     IMPRESSION:
+     
+     Non-specific soft tissue edema as described.
+     
+     No discrete abscess.
+     
+
+",,
+13207,12939,16447,,3064-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-31**] 8:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13781**]
+     Reason: evaluate for pulm edema                                     
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old man with desaturations.                                           
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate for pulm edema                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pulmonary edema follow-up.
+     
+     PORTABLE CHEST:  Comparison is made to films from the 17th and 15th.
+     
+     The current study is somewhat limited by motion artifact.
+     
+     Cardiac and mediastinal contours are without definite interval change.  The
+     area of increased density noted yesterday in the left upper chest is less
+     conspicuous, and may have been partly accentuated by marked rotation.  The
+     appearance of the chest is fairly similar to two days ago, with evidence of
+     interstitial edema and bilateral pleural effusions.  The patient has been
+     extubated.
+     
+     IMPRESSION:  Persistent CHF and bilateral pleural effusions.
+     
+
+",,
+13207,12939,16447,,3064-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3064-12-31**] 11:54 AM
+     MR CALF W&W/O CONTRAST RIGHT; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 13782**]
+     Reason: abscess, osteomyelitis of calf or foot. Please assess from c
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with unresolving cellulitis, edema of calf to foot, climbing 
+      WBC on vanco, levofloxacin, ceftriaxone, flagyl
+     REASON FOR THIS EXAMINATION:
+      abscess, osteomyelitis of calf or foot. Please assess from calf to foot         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Unresolving cellulitis, edema of calf to foot with climbing white
+     cell count on antibiotics.  Evaluate for osteomyelitis of the calf or foot.
+     
+     TECHNIQUE:  Multiplanar T1 and STIR images were obtained through the calves.
+     Additional fat saturated T1-weighted images were obtained after the
+     administration of gadolinium.
+     
+     MR OF THE CALVES WITHOUT AND WITH CONTRAST:  There is diffuse, symmetric,
+     circumferential edema within the subcutaneous tissues of the calves
+     bilaterally.  No focal fluid collections are seen.  There are no areas of
+     abnormal enhancement, though the evaluation is somewhat limited as there are
+     no precontrast fat saturated T1- weighted images on this study.  There is no
+     evidence for an interosseous or soft tissue abscess.  No tibiotalar joint
+     effusions are identified.  The bone marrow signal intensity characteristics
+     are within normal limits.
+     
+     IMPRESSION:
+     
+     Non-specific soft tissue edema as described.
+     
+     No discrete abscess.
+     
+
+",,
+13207,12939,16447,0,3064-12-31 05:12:00 EST,3064-12-31 05:29:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+Resp: Pt. extubated ar 2230, large amt. of old blood in back of throat was sx. with yankeur, wesk cough, lungs coatse throughout.  In face tent at 70% cool mist sats 95-97%.
+
+Neuro: Confused after extubation, knows what hospital he is in but mumbles, wrist restraints remove, wife at bedside all night.
+
+CV: After extubation bp dropped to 70's/20's with nbp, took bp manually bp 60/30, reported this to Dr. [**First Name (STitle) **] and pt. receved 1 liter of fluid as a bolus, bp eventually came up to 80's/20-30's which is were pt. currently lives. HR 70-90's nsr few pvc's noted.
+
+GI: No further bleeding noted has some old dried up blood in back of throat, awaiting am crit, inc. of small loose stool, kept pt npo after extubation due to lethargy and weak cough.  Was on sandostatin gtt which was discontinued.
+
+GU: U/O  5-40cc/hr very poor, urine is amber and cloudy, md made aware, creat is climbing see careview for most accurate results.
+
+SKIN: Right very red and swollen, hot to touch, elevated on pillow foot of bed elevated ? is on the right abx. for this, does not seem to be getting better.
+
+Plan: Restart po fluids when pt. can support his airway, follow crit, bun and creat.  Monitor right foot cellulitis.
+
+
+",,
+13207,12939,16447,0,3064-12-31 18:39:00 EST,3064-12-31 18:55:00 EST,1277,"N",69,"Nursing/Other",,"
+
+neuro:
+pt is MAE and is oriented x3 but is talking to self as he drifts in and out of [**Doctor Last Name 8**]. seems somulent all day, ? iiif med from procedures of yes being slowly cleared from liver disease.
+card: bp in 90-107 sys range and given bolus of 500 and bp improved. hr stable NSR inb 70's
+
+resp: humified face mask to 40-50% with sat >95 most of day. pt needs the o2 moisturized. lung snds were clear but after in mri he had a wheeze on exp which was tx with 25 mg benedryl but did not subside until got bolus of 500 cc and better hydrated
+
+bleeding: plats still low at 45 and chronically low. thought to have had epitaxis as no other source for blding was found yest. upon review pt has hx of rather lf nosebleeds at home. mouth still has some dry blood in it and needs q1 hr mouth care.
+
+gi: no stool this shift. pushing fluids as pt is dry. tolerated sm amt of fruit but very lethargic to eat . must sit totally up and be awake to drink and needs to wet mouth with swabs prior to use of straw.
+
+gu: output had dropped off in night but did respond to fld bolus and in now 60cc/hr x2hr
+
+cellulitis rt foot: pt taken to mri for scan. multipodis boot applied for c/o pressure on heel of rt ft but very loose and must monitor closely for pressure. pt has new area since [**12-30**] on rt dorsum with blister and echymotic areas. afebrile, wbc a bit down today at 18
+
+labs: sent 1800 and pending
+
+plan: force fluids and monitor for asp due to lethargy. monitor rt foot
+",,
+13207,12939,16447,0,3065-01-01 06:04:00 EST,3065-01-01 06:16:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+Neuro: Alert and orientated x3, answers questions appropriately. Slept on and off all night.
+
+Resp: Switched over to n/c at 4l per pt's request, cool mist was making him cold.  
+
+CV: BP and hr stable, no ectopy noted.
+
+GI: Taking in fluids slowly, inc. of large amt. of loose stool x1.
+
+GU: Foley in place received 500cc ns bolus x1, u/o picked up after bolus, urine output 40-80cc/hr.
+
+Skin: Right leg looks worse than prior night, very red, hot and swollen, with large blister, multipodus boot off while sleeping.
+
+Access: Unable to draw labs, this am pt's extremities very swollen, md made aware, pt. should be evaluated for a picc line.
+",,
+13207,12939,16447,0,3065-01-01 18:30:00 EST,3065-01-01 18:50:00 EST,1277,"N",69,"Nursing/Other",,"
+
+NEURO:PT ORIENTEDX3 BUT WHEN WAKING OFR FALLING TO [**Doctor Last Name **] IS NOT MAKING SENSIBLE CONVERSATION.  MAE BUT WEAKER SLEEPING ON AND OFF MOST OF SHIFT
+
+CARD: BP STALBLE IN 90-100,S SYS. NSR GOOD PEDAL PULSES WITH [**Last Name (un) **] CHECKED TO VERIFY VASCULAR FLOW. 
+
+RESP COURSE IN UPPER LOBES AND DIMINISHED LOWER LOBES . PT ON FACE MASK MOST OF DAY AS WAS MORE DRY FROM NC AND WANT TO AVOID NOSE BLEEDING FROM DRY MEMBRANES. C/O COLD MIST AND PUT O2 TO 10 L. SAT 96-99 WITH O2 AND DESAT TO 87-88 WITH EXERTION. ORAL SUCTIONED FOR WEAK COUGH AFTER TAKING PO
+
+GI: TAKING LITTLEPO SOLIDS. PT MUST HOLD CHIN TO CHEST WITH FLUID INTAKE TO AVOID ASP AS SWALLOWING IS IMPAIRED.  NUTRITION CONSULT ORDERED. ALB IS 2.5. NO STOOL ON THIS SHIFT . LACTOSE FREE DIET 
+
+GU: OUTPUT IS APPROX 60 CC/HR WITH OUT BOLUS AND NOW INCREASED DIURETIC TO REMOVE FLD. WT IS UP 13 KG FROM ADMIT AND 4= EDEMA IN LEGS ARMS AND 2= ON BACK. TOTAL 1890 IN  827 OUT. URINE SENT FOR CHEM AND IN DARK AMBER WITH SLUDGE.
+
+SKIN: ENTIRE OUTER ASPECT OF FOOT BLISTERED AND SLOUGHING OFF, PT ROLLED TO LT WITH LEG POSITION CHANGE TO AVOID BLISTER PRESSURE, COVERED FOOT WITH DRY ABD PAD AND CLING TO AVOID CONTAMINATION. DRAINING MOD SEROUS FLD.  LEG HAD EXTENTION OF CELLULITIS AND WILL GET SECOND DOSE OF VANCO TODAY. NO PAIN MED GIVEN
+
+ACCESS: IV IN AND COULD NOT DO PICC AND WILL GO TO IR TOMMORROW. STILL NEEDS LOTS OF BLOODS.
+
+PLAN: GET OOB IN AM IF POSS, PICC LINE BLOOD WORK, PUSH PO 
+",,
+13207,12939,16447,,3065-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-2**] 2:57 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 13784**]
+     Reason: Please confirm NG tube placement.                           
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          72 year old man s/p ng tube placement.                                      
+     REASON FOR THIS EXAMINATION:
+      Please confirm NG tube placement.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72 year old man after NG tube placement.
+     
+     FINDINGS:  A single AP semi-upright film is provided.  The NG tube is within
+     the stomach.  Cardiac and mediastinal contours are without definite interval
+     change.  The density in the left chest is less prominent on this study
+     compared to the prior one from [**3064-12-31**].
+     
+     IMPRESSION:  NG tube in place.  The appearance of the left chest is less
+     marked on this study but there is still evidence of CHF.
+
+",,
+13207,12939,16447,,3065-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-2**] 10:44 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13783**]
+     Reason: Please place PICC.                                          
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with LE cellulitis requiring long-term antibiotics.             
+     REASON FOR THIS EXAMINATION:
+      Please place PICC.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     72 year old man with cellulitis requiring long-term intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     
+     This procedure was performed by Dr. [**First Name8 (NamePattern2) 1292**] [**Name (STitle) 1293**] and Dr. [**First Name8 (NamePattern2) 1242**] [**Name (STitle) 1243**], with Dr.
+     [**Last Name (STitle) 1243**], Attending Radiologist, supervising the entire procedure. The patient's
+     right upper arm was prepped and draped in standard sterile fashion.  Under
+     ultrasonographic guidance, the right brachial vein was accessed after local
+     administration of 1% lidocaine with a 21-gauge micropuncture needle.  The
+     graded guide wire was advanced through the needle under fluoroscopic guidance
+     into the superior vena cava.  A skin [**Doctor Last Name 352**] with #11 blade scalpel was made
+     adjacent to the needle.  The needle was exchanged for a 4-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  It was determined
+     that a length of 35 cm would be appropriate.  The PICC line was cut to length
+     and advanced over the guide wire into the superior vena cava using
+     fluoroscopic guidance.  The guide wire and sheath were removed.  Final chest
+     x-ray demonstrates tip of the PICC line to be within the superior vena cava.
+     The catheter was flushed, capped and heplocked, and secured to the skin using
+     StatLock.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     
+     Single-lumen 35-cm right brachial PICC line with tip in SVC, ready for
+     immediate use.
+
+",,
+13207,12939,16447,,3065-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-2**] 10:44 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13783**]
+     Reason: Please place PICC.                                          
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with LE cellulitis requiring long-term antibiotics.             
+     REASON FOR THIS EXAMINATION:
+      Please place PICC.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     72 year old man with cellulitis requiring long-term intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     
+     This procedure was performed by Dr. [**First Name8 (NamePattern2) 1292**] [**Name (STitle) 1293**] and Dr. [**First Name8 (NamePattern2) 1242**] [**Name (STitle) 1243**], with Dr.
+     [**Last Name (STitle) 1243**], Attending Radiologist, supervising the entire procedure. The patient's
+     right upper arm was prepped and draped in standard sterile fashion.  Under
+     ultrasonographic guidance, the right brachial vein was accessed after local
+     administration of 1% lidocaine with a 21-gauge micropuncture needle.  The
+     graded guide wire was advanced through the needle under fluoroscopic guidance
+     into the superior vena cava.  A skin [**Doctor Last Name 352**] with #11 blade scalpel was made
+     adjacent to the needle.  The needle was exchanged for a 4-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  It was determined
+     that a length of 35 cm would be appropriate.  The PICC line was cut to length
+     and advanced over the guide wire into the superior vena cava using
+     fluoroscopic guidance.  The guide wire and sheath were removed.  Final chest
+     x-ray demonstrates tip of the PICC line to be within the superior vena cava.
+     The catheter was flushed, capped and heplocked, and secured to the skin using
+     StatLock.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     
+     Single-lumen 35-cm right brachial PICC line with tip in SVC, ready for
+     immediate use.
+
+",,
+13207,12939,16447,,3065-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-2**] 10:44 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13783**]
+     Reason: Please place PICC.                                          
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with LE cellulitis requiring long-term antibiotics.             
+     REASON FOR THIS EXAMINATION:
+      Please place PICC.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     72 year old man with cellulitis requiring long-term intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     
+     This procedure was performed by Dr. [**First Name8 (NamePattern2) 1292**] [**Name (STitle) 1293**] and Dr. [**First Name8 (NamePattern2) 1242**] [**Name (STitle) 1243**], with Dr.
+     [**Last Name (STitle) 1243**], Attending Radiologist, supervising the entire procedure. The patient's
+     right upper arm was prepped and draped in standard sterile fashion.  Under
+     ultrasonographic guidance, the right brachial vein was accessed after local
+     administration of 1% lidocaine with a 21-gauge micropuncture needle.  The
+     graded guide wire was advanced through the needle under fluoroscopic guidance
+     into the superior vena cava.  A skin [**Doctor Last Name 352**] with #11 blade scalpel was made
+     adjacent to the needle.  The needle was exchanged for a 4-French micropuncture
+     sheath with inner dilator.  The inner dilator was removed.  It was determined
+     that a length of 35 cm would be appropriate.  The PICC line was cut to length
+     and advanced over the guide wire into the superior vena cava using
+     fluoroscopic guidance.  The guide wire and sheath were removed.  Final chest
+     x-ray demonstrates tip of the PICC line to be within the superior vena cava.
+     The catheter was flushed, capped and heplocked, and secured to the skin using
+     StatLock.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     
+     Single-lumen 35-cm right brachial PICC line with tip in SVC, ready for
+     immediate use.
+
+",,
+13207,12939,16447,,3065-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-2**] 2:57 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 13784**]
+     Reason: Please confirm NG tube placement.                           
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          72 year old man s/p ng tube placement.                                      
+     REASON FOR THIS EXAMINATION:
+      Please confirm NG tube placement.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72 year old man after NG tube placement.
+     
+     FINDINGS:  A single AP semi-upright film is provided.  The NG tube is within
+     the stomach.  Cardiac and mediastinal contours are without definite interval
+     change.  The density in the left chest is less prominent on this study
+     compared to the prior one from [**3064-12-31**].
+     
+     IMPRESSION:  NG tube in place.  The appearance of the left chest is less
+     marked on this study but there is still evidence of CHF.
+
+",,
+13207,12939,16447,0,3065-01-02 05:35:00 EST,3065-01-02 05:47:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: Sleepy but orientated x3, answers questions appropriately.
+
+CV: BP stable 90-100's/40-50's.  HR stable. Continues with upper and lower body edema.
+
+Resp: Continues on face tent all night sats 95-97%.
+
+GI: Taking fluids anf soft food slowly, continues to monitor pt. when he is taking in po. ? Needs a swallow test.
+
+GU: U/O 40-100CC/HR, amber urine.  No stool all night.
+
+Skin: Right leg and foot unchanged, skin is sloughing off, draining serous fluid.
+
+Labs: Pt. has not had labs done since yesterday, no access, to have a piccplace today.
+
+Plan: Continues to monitor fluid status, ? changing abx rx since [**Last Name (un) 4532**] and foot are getting worse not better.  To have picc placed at IR today.
+
+
+",,
+13207,12939,16447,0,3065-01-02 17:30:00 EST,3065-01-02 17:44:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+please see flowsheet for further details...
+
+
+A&O x3. Follows commands. Speech garbled and difficult to understand ? r/t to severely dry mouth. Artificial saliva given with some relief. Failed bedside swallow study. NPO. Plan for video study before discharge.
+
+Open blisters on R foot cleansed w/ NS and covered w/ dsd to minimize friction to area. Foot elevated on pillow. Also noted open blister on R calf. Cellulitis unchanged. Scrotal skin oozing serous drainage. Softsord pad applied under scrotum. Denies pain except when moved. Able to lift R leg on own. Premedicated w/ Morphine prior to IR. 
+
+SL PICC placed in IR. Able to draw bloods off it. 
+
+T 95.3-96.8 po. WBCs ~22.0. Ceftriaxone dc'd. Vanco trough ~28. 
+
+1 sm loose stool. UO ~30cc/hr. Plan for lasix this eve. NGT placed. No bleeding noted post placement. Prn NS nose spray to prevent drying and increased risk for bleeding. Plan for Nepro when up from kitchen.
+
+No calls or visitors today.
+",,
+13207,12939,16447,,3065-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-3**] 11:32 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13785**]
+     MRA BRAIN W/O CONTRAST
+     Reason: stroke?                                                     
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with new dysarthria, dysaphagia and dysdiadochokinesia on R.    
+     REASON FOR THIS EXAMINATION:
+      stroke?                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  New dysarthria, dysplasia and dysdiadochokinesia.
+     
+     MRI OF THE BRAIN WITH GADOLINIUM:
+     
+     FINDINGS:  There is no evidence of mass effect or hemorrhage.  There is no
+     displacement of normally midline structures.  There is no evidence of a focal
+     extra-axial lesion or fluid collection.  Diffusion is not abnormal.  The
+     ventricles and sulci are not remarkable.  [**Doctor Last Name **] and white matter are not
+     unusual.  There is no evidence of abnormal contrast enhancement.  There is
+     some increased signal in the posterior aspect of the right maxillary sinus and
+     there is increased signal within the mastoid sinuses more on the left than the
+     right.
+     
+     IMPRESSION:  Mastoid sinus and right maxillary sinus disease.  No evidence of
+     intracranial abnormality otherwise.
+     
+     MRA of the Circle of [**Location (un) 72**] and its major tributaries.
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality.
+     
+     IMPRESSION:  Negative MRA of the Circle of [**Location (un) 72**].
+
+",,
+13207,12939,16447,,3065-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-3**] 11:32 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13785**]
+     MRA BRAIN W/O CONTRAST
+     Reason: stroke?                                                     
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with new dysarthria, dysaphagia and dysdiadochokinesia on R.    
+     REASON FOR THIS EXAMINATION:
+      stroke?                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  New dysarthria, dysplasia and dysdiadochokinesia.
+     
+     MRI OF THE BRAIN WITH GADOLINIUM:
+     
+     FINDINGS:  There is no evidence of mass effect or hemorrhage.  There is no
+     displacement of normally midline structures.  There is no evidence of a focal
+     extra-axial lesion or fluid collection.  Diffusion is not abnormal.  The
+     ventricles and sulci are not remarkable.  [**Doctor Last Name **] and white matter are not
+     unusual.  There is no evidence of abnormal contrast enhancement.  There is
+     some increased signal in the posterior aspect of the right maxillary sinus and
+     there is increased signal within the mastoid sinuses more on the left than the
+     right.
+     
+     IMPRESSION:  Mastoid sinus and right maxillary sinus disease.  No evidence of
+     intracranial abnormality otherwise.
+     
+     MRA of the Circle of [**Location (un) 72**] and its major tributaries.
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality.
+     
+     IMPRESSION:  Negative MRA of the Circle of [**Location (un) 72**].
+
+",,
+13207,12939,16447,,3065-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-3**] 11:32 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13785**]
+     MRA BRAIN W/O CONTRAST
+     Reason: stroke?                                                     
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with new dysarthria, dysaphagia and dysdiadochokinesia on R.    
+     REASON FOR THIS EXAMINATION:
+      stroke?                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  New dysarthria, dysplasia and dysdiadochokinesia.
+     
+     MRI OF THE BRAIN WITH GADOLINIUM:
+     
+     FINDINGS:  There is no evidence of mass effect or hemorrhage.  There is no
+     displacement of normally midline structures.  There is no evidence of a focal
+     extra-axial lesion or fluid collection.  Diffusion is not abnormal.  The
+     ventricles and sulci are not remarkable.  [**Doctor Last Name **] and white matter are not
+     unusual.  There is no evidence of abnormal contrast enhancement.  There is
+     some increased signal in the posterior aspect of the right maxillary sinus and
+     there is increased signal within the mastoid sinuses more on the left than the
+     right.
+     
+     IMPRESSION:  Mastoid sinus and right maxillary sinus disease.  No evidence of
+     intracranial abnormality otherwise.
+     
+     MRA of the Circle of [**Location (un) 72**] and its major tributaries.
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality.
+     
+     IMPRESSION:  Negative MRA of the Circle of [**Location (un) 72**].
+
+",,
+13207,12939,16447,0,3065-01-03 06:14:00 EST,3065-01-03 06:29:00 EST,251,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: AAOX3. DIFFICULT TO UNDERSTAND AT TIMES [**2-15**] DRY ORAL MUCOSA. SALIVA SUBSTITUTE APPLIED/SWABS. FOLLOWS COMMANDS. MAE BUT LIMITED [**2-15**] EDEMA. DENIES PAIN AT REST. 
+
+CARDIAC: HR 67-90SR WITH RARE PVC'S. BP 87-102/29-43. HCT 33, PLTS 78, INR 2.8. NO SIGNS OF BLEEDING. ON PROPANOLOL. 
+
+RESP: ON 40% FACE TENT. RR 12-25 WITH SATS 93-98%. OCC CONG NON PRODUCTIVE COUGH. LS COARSE TO CLEAR WITH CRACKLES LEFT BASE. MD AWARE. EVIDENCE OF CHF ON LAST CXR. 
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. PEDITUBE IN PLACE FOR FEEDINGS. U/O 20-65CC/HR S/P LASIX ON EVENINGS. YELLOW TO AMBER AND CLEAR. CRE 2.8 UP FROM 2.6. 
+
+FEN: IVF @KVO. -350CC @MN S/P LASIX. 14.2L+ LOS. 4+ EDEMA TO LE'S, SCROTAL EDEMA. LYTES PER CAREVUE. ON NEPRO @10CC/HR TOLERATED WELL. GOAL 45CC/HR. 
+
+ID: TMAX 96.6 AXILLARY. WBC 19.3 DOWN [**Last Name (un) 126**] 22.3. CONTINUES ON VANCO, LEVO AND FLAGYL. ON CONTACT PRECAUTIONS FOR C.DIFF. ONE SET OF BLOOD CX'S DRAWN OFF PICC THIS MORNING. OTHER BC'S PENDING. 
+
+SKIN: RIGHT LEG RED, NO SIGNS OF EXTENDING CELLULITIS. OPEN BLISTERS WEEPING LGE AMOUNTS OF SEROUS FLUID. DSD APPLIED. 
+
+ACCESS: RIGHT PICC, PIV X2.
+
+SOCIAL/DISPO: FULL CODE. C/O AWAITING BED. FAMILY IN TO VISIT LAST NOC. 
+",,
+13207,12939,16447,0,3065-01-03 17:19:00 EST,3065-01-03 17:30:00 EST,953,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+Significant events:  Pt's neuro exam by MD this am consistent with particular type of cerebellar stroke.  MRI of head done which was negative for these findings.  Pt is called out to the floor and awaiting private room for C.Diff precautions.
+
+Neuro:  Pt continues with garbled speech, a&ox3, calm and cooperative with care.  C/o feeling tired and dizzy at times.  Pt feels this is due to the fact that he has not eaten in several days.  Pt failed video swallow yesterday.  Denies pain.
+
+CV:  HR 70's-90's, SR, no ectopy noted.  BP 90's/40's.  Cont with gross BLE 4+ edema.  LLE discolored, RLE with cellulitis and blisters.  DSD to blister on Rt foot which is draining serous fluid.  Afebrile.  Cont on levaquin, vanco and flagyl.
+
+Resp:  LS's clear/diminished at bases.  O2 weaned from 40% FT to 3L NC with O2 sat 97-99%.  Denies feeling SOB.  Weak cough, productive at times, expectorated large brown mucous this afternoon.  RR 16-20.
+
+GI:  Abd softly distended with +BS's.  Nepro via dobhoff tube infusing at 30cc/hour, goal rate is 45cc/hour.  Tolerating without n/v.  Incont of med sized soft, brown stool.
+
+GU:  Foley draining qs amounts of clear amber urine.  No additional lasix given today.
+
+Skin:  No breakdown noted to backside.  Cont on bedrest with BLE elevated, turned and repositioned.
+
+Social:  Pt's wife visiting throughout the day.
+
+Plan:  Cont with present plan.  Awaiting bed on floor.
+",,
+13207,12939,,,3065-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-4**] 2:15 PM
+     ABDOMEN U.S. (COMPLETE STUDY); -59 DISTINCT PROCEDURAL SERVICE  Clip # [**Clip Number (Radiology) 13786**]
+     DUPLEX DOPP ABD/PEL
+     Reason: WOULD LIKE TO EVAL FOR CHRONIC RENAL DZ, PT WITH ETOH CIRRHOSIS, ENTEROBACTER BACTEREMIA, C DIFF COLITIS NOW W/PERSISTENT AZOTEMIA, ACUTE ON CHRONIC RENAL FAILURE AND RISING BILI-WOULD LIKE TO ASSESS FOR ASCITES AND PATENCY OF PORTAL VASCULATURE
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with etoh cirrhois, enterobacter bacteremia, cdiff colitis now 
+      w/ persistent azotemia
+     REASON FOR THIS EXAMINATION:
+      would like to eval for chronic renal dz                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alcohol cirrhosis, persistent azotemia, enterobacter bacteremia.
+     
+     Complete abdominal ultrasound:  The liver is shrunken and nodular in
+     appearance consistent with cirrhosis.  There is a 1.4 cm anechoic cyst with
+     some apparent wall calcification within the left lobe.  There is a large
+     amount of ascites.  No stones are identified within the gallbladder.  Note is
+     again made of an aortic aneurysm which measures 3.5 cm in greatest axial
+     dimension.  This is not changed from the measurements from [**3063-6-16**].  The
+     right kidney measures 10.7 cm.  The left kidney measures 10.6 cm.  There is no
+     evidence of hydronephrosis, masses, or stones.  There is splenomegaly as
+     previously identified.  The common bile duct measures 4 mm.
+     
+     Liver Doppler ultrasound:  The flow, waveforms, and direction of the hepatic
+     veins is unremarkable.  The right and left hepatic arteries are seen and are
+     normal.  The portal vein is identified and the flow is reversed and is now
+     hepatofugal.  Normal flow and direction is identified within the splenic vein.
+     
+     IMPRESSION:
+     
+     1).  Shrunken and nodular liver consistent with the patient's history of
+     cirrhosis.  Large amount of ascites.
+     
+     2).  Splenomegaly.
+     
+     3).  Hepatofugal flow within the portal vein consistent with portal
+     hypertension.
+     
+     4).  Stable appearance of abdominal aortic aneurysm.
+                                                                           
+
+",,
+13207,12939,,,3065-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-4**] 2:15 PM
+     ABDOMEN U.S. (COMPLETE STUDY); -59 DISTINCT PROCEDURAL SERVICE  Clip # [**Clip Number (Radiology) 13786**]
+     DUPLEX DOPP ABD/PEL
+     Reason: WOULD LIKE TO EVAL FOR CHRONIC RENAL DZ, PT WITH ETOH CIRRHOSIS, ENTEROBACTER BACTEREMIA, C DIFF COLITIS NOW W/PERSISTENT AZOTEMIA, ACUTE ON CHRONIC RENAL FAILURE AND RISING BILI-WOULD LIKE TO ASSESS FOR ASCITES AND PATENCY OF PORTAL VASCULATURE
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with etoh cirrhois, enterobacter bacteremia, cdiff colitis now 
+      w/ persistent azotemia
+     REASON FOR THIS EXAMINATION:
+      would like to eval for chronic renal dz                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alcohol cirrhosis, persistent azotemia, enterobacter bacteremia.
+     
+     Complete abdominal ultrasound:  The liver is shrunken and nodular in
+     appearance consistent with cirrhosis.  There is a 1.4 cm anechoic cyst with
+     some apparent wall calcification within the left lobe.  There is a large
+     amount of ascites.  No stones are identified within the gallbladder.  Note is
+     again made of an aortic aneurysm which measures 3.5 cm in greatest axial
+     dimension.  This is not changed from the measurements from [**3063-6-16**].  The
+     right kidney measures 10.7 cm.  The left kidney measures 10.6 cm.  There is no
+     evidence of hydronephrosis, masses, or stones.  There is splenomegaly as
+     previously identified.  The common bile duct measures 4 mm.
+     
+     Liver Doppler ultrasound:  The flow, waveforms, and direction of the hepatic
+     veins is unremarkable.  The right and left hepatic arteries are seen and are
+     normal.  The portal vein is identified and the flow is reversed and is now
+     hepatofugal.  Normal flow and direction is identified within the splenic vein.
+     
+     IMPRESSION:
+     
+     1).  Shrunken and nodular liver consistent with the patient's history of
+     cirrhosis.  Large amount of ascites.
+     
+     2).  Splenomegaly.
+     
+     3).  Hepatofugal flow within the portal vein consistent with portal
+     hypertension.
+     
+     4).  Stable appearance of abdominal aortic aneurysm.
+                                                                           
+
+",,
+13207,12939,,,3065-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-4**] 2:15 PM
+     ABDOMEN U.S. (COMPLETE STUDY); -59 DISTINCT PROCEDURAL SERVICE  Clip # [**Clip Number (Radiology) 13786**]
+     DUPLEX DOPP ABD/PEL
+     Reason: WOULD LIKE TO EVAL FOR CHRONIC RENAL DZ, PT WITH ETOH CIRRHOSIS, ENTEROBACTER BACTEREMIA, C DIFF COLITIS NOW W/PERSISTENT AZOTEMIA, ACUTE ON CHRONIC RENAL FAILURE AND RISING BILI-WOULD LIKE TO ASSESS FOR ASCITES AND PATENCY OF PORTAL VASCULATURE
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with etoh cirrhois, enterobacter bacteremia, cdiff colitis now 
+      w/ persistent azotemia
+     REASON FOR THIS EXAMINATION:
+      would like to eval for chronic renal dz                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alcohol cirrhosis, persistent azotemia, enterobacter bacteremia.
+     
+     Complete abdominal ultrasound:  The liver is shrunken and nodular in
+     appearance consistent with cirrhosis.  There is a 1.4 cm anechoic cyst with
+     some apparent wall calcification within the left lobe.  There is a large
+     amount of ascites.  No stones are identified within the gallbladder.  Note is
+     again made of an aortic aneurysm which measures 3.5 cm in greatest axial
+     dimension.  This is not changed from the measurements from [**3063-6-16**].  The
+     right kidney measures 10.7 cm.  The left kidney measures 10.6 cm.  There is no
+     evidence of hydronephrosis, masses, or stones.  There is splenomegaly as
+     previously identified.  The common bile duct measures 4 mm.
+     
+     Liver Doppler ultrasound:  The flow, waveforms, and direction of the hepatic
+     veins is unremarkable.  The right and left hepatic arteries are seen and are
+     normal.  The portal vein is identified and the flow is reversed and is now
+     hepatofugal.  Normal flow and direction is identified within the splenic vein.
+     
+     IMPRESSION:
+     
+     1).  Shrunken and nodular liver consistent with the patient's history of
+     cirrhosis.  Large amount of ascites.
+     
+     2).  Splenomegaly.
+     
+     3).  Hepatofugal flow within the portal vein consistent with portal
+     hypertension.
+     
+     4).  Stable appearance of abdominal aortic aneurysm.
+                                                                           
+
+",,
+13207,12939,,,3065-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-5**] 10:31 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 13787**]
+     Reason: would like to evaluate for risk for aspiration              
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with etoh cirrhosis who failed recent bedside swallow. would 
+      now like video-guided swallow study.
+     REASON FOR THIS EXAMINATION:
+      would like to evaluate for risk for aspiration                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alcoholic cirrhosis, failed recent bedside swallow study,
+     evaluate for risk for aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  An oral and pharyngeal swallowing video
+     fluoroscopy study was performed in collaboration with speech and swallow
+     therapist.  Thin liquid, nectar thick liquid, and pudding consistency barium
+     was administered.  A barium pill was also attempted.
+     
+     There was mild to moderate reduced bolus formation throughout the study. There
+     is a small amount of residual seen within the vallecula with all
+     consistencies.  There is no significant premature spillover during liquids. No
+     aspiration or significant penetration was seen.  During the pill
+     administration, a small amount of penetration was seen with thin liquids.
+     Therefore, the pill was terminated.
+     
+     IMPRESSION:
+     1)  Mild to moderate reduced bolus formation.
+     2)  Small amount of penetration identified with thin liquid and pill.
+     3)  No evidence of aspiration throughout the study.
+
+",,
+13207,12939,,,3065-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-6**] 3:08 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13788**]
+     Reason: ?Pna, CHF                                                   
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with dyspnea, cough, renal failure, bacteremia.                 
+     REASON FOR THIS EXAMINATION:
+      ?Pna, CHF                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Dyspnea, cough, renal failure, bacteremia, ? pneumonia or CHF.
+     
+     CHEST, TWO VIEWS:
+     
+     There is a small to moderate effusion seen posteriorly -- this may be a single
+     right or bilateral posterior effusions.  There is upper zone redistribution
+     and mild diffuse vascular blurring, consistent with mild fluid overload. There
+     is patchy retrocardiac opacity, consistent with left lower lobe collapse
+     and/or consolidation.  Right subclavian PICC line is present, tip over
+     proximal SVC.
+
+",,
+13207,12939,,,3065-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3065-1-8**] 12:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13789**]
+     Reason: evaluate failure, infiltrates                               
+     Admitting Diagnosis: SEPSIS;CELLULITIS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            72 year old man w/ mild CHF and retrocardiac opacity, now with worsening 
+      hypoxia and tachypnia, presently in HD unit.                                    
+     REASON FOR THIS EXAMINATION:
+      evaluate failure, infiltrates                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow up heart failure.
+     
+     Report dictated but not transcribed.  This is a redictation.
+     
+     The heart is normal in size.  There are no focal infiltrates.  A faint linear
+     opacity vertically oriented in the junction of middle and outer thirds of the
+     left hemithorax is present.  A PICC line is present terminating in the mid
+     SVC.  The right lung is clear.
+                                                                           
+
+",,
+13207,,16448,0,3065-01-08 17:31:00 EST,3065-01-08 18:16:00 EST,762,"N",69,"Nursing/Other",,"
+
+Nursing Admit Note
+
+This is a 73 yo male with a PMed Hx of ETOH cirrhosis with grade 1 esophogeal varices, gastric varices and thrombocytopenia- stopped drinking 1986, chronic LE edema and cellulitis secondary to the cirrhosis, HTN, normocytic anemia, AAA, constipation, cdif, CRI, agorophobia, lipomas, 30 pk yr smoker - quit 30 yrs ago.  He was admitted to this unit on [**12-26**] for hypotension with cdif infection and cellulitis.  He was able to leave the unit after a week.  Today he was in the dialysis unit starting dialysis, he dropped his BP to the 80s, SAT was 96% on 100%.  He was transfered here for further care.  On arrival he was alert but having difficulty breathing, his SBP was initially in the low 100s but dialysis was tried again and after 400cc was taken off he dropped his BP to the 40s, he was given 800cc back and the dialysis was stopped.  After discussion with the family he was made DNR/DNI.
+
+Systems Review
+
+Neuro:  His MS [**First Name (Titles) 586**] [**Last Name (Titles) 1929**] and waned some here, he was initially A&Ox3 though very weak, with the drop in his BP he is a little less alert.
+
+CV:  His SBP in now in the 70s, HR 50s-90s, he was initially going to be given IV lasix but this is now on hold due to his hypotension.
+
+Resp:  LS very diminished 1/2 up from the bases, coarse in the upper half, 02 SAt 93 % with a scoop mask on 100%, RR teens to 30s.  He intermittantly has difficulty breathing, this is in part because the back of his throat is very dry.  He has been given wet mouth swabs to try and ease this but he has difficulty swallowing.
+
+GI:  ABD distended, not able to take PO because he cannot swallow very well.  Poor nutrition, he has anasarca and is weeping from any open area on his skin.
+
+GU:  Foley in place as well a a quintin cath in the L groin, sm amount of amber colored urine.
+
+Comfort:  He was given 1 mg of MS04 for comfort - during his past admission 1-2 mg had been fairly effective.  The priest was in to see him.
+",,
+13207,,16448,0,3065-01-08 21:22:00 EST,3065-01-08 21:24:00 EST,5197,"N",69,"Nursing/Other",,"
+
+Pt expired at 2048. pt was comfortable with wife and daughter at bedside. Pronounced by micu team at 2048.
+",,

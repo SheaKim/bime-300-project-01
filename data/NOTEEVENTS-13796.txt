@@ -1,0 +1,687 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13796,8288,,,2569-07-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2569-7-11**]     Discharge Date:  [**2569-7-17**]
+
+Date of Birth:   [**2492-7-6**]     Sex:  M
+
+Service:  CMED
+
+CHIEF COMPLAINT:  Sent to the Emergency Department for chest
+pain during a stress test.
+
+HISTORY OF PRESENT ILLNESS:  This is a 77-year-old male with
+a history of coronary artery disease status post coronary
+artery bypass graft surgery, insulin dependent-diabetes
+mellitus, congestive heart failure, chronic atrial
+fibrillation, and chronic renal insufficiency, who is sent to
+the Emergency Department after having chest pain and
+bilateral arm weakness during his stress test.  He did not
+have any associated nausea, vomiting, or diaphoresis.  He did
+not experience any palpitations.  He describes the chest pain
+as more heaviness rather than chest pain.
+
+PAST MEDICAL HISTORY:
+1. Atrial fibrillation on Coumadin.
+2. Coronary artery disease status post coronary artery bypass
+graft surgery.
+3. Insulin dependent-diabetes mellitus.
+4. Anemia.
+5. Gout.
+6. Systolic congestive heart failure with an ejection
+fraction of less than 20%.
+7. Status post pacemaker ICD placement.
+8. Chronic renal insufficiency.
+
+ALLERGIES:  Morphine causing nausea.
+
+MEDICATIONS ON ADMISSION:
+1. Gemfibrozil 600 mg twice a day.
+2. Lasix 20 mg daily.
+3. Altace 5 mg daily.
+4. Coumadin 5 mg daily except Sundays 2.5 mg.
+5. Digoxin 0.125 mg Monday, Wednesday, [**Last Name (LF) 2869**], [**First Name3 (LF) 9674**].
+6. Allopurinol 150 mg daily.
+7. Colchicine 0.5 mg q day.
+8. Folic acid 1 mg daily.
+9. Zebeta 5 mg.
+10. Aspirin 325 mg daily.
+11. Humalog insulin-sliding scale.
+12. NPH insulin, 18 units in the morning, 5 units hs.
+
+SOCIAL HISTORY:  No tobacco, occasional alcohol [**1-2**] drinks
+per month, retired systems engineer.
+
+PHYSICAL EXAMINATION:  Temperature 98.7, heart rate 64, blood
+pressure 112/50, respiratory rate 18, and oxygen saturation
+is 99% on 2 liters.  General:  Alert and oriented in no acute
+distress.  HEENT:  Pupils are equal, round, and reactive to
+light.  Supple neck.  Jugular venous distention approximately
+10 cm above the sternal notch.  Cardiovascular examination:
+regular, rate, and rhythm, no murmurs, rubs, or gallops.
+Lungs:  Faint crackles at the bases bilaterally.  Abdomen is
+soft, nontender, nondistended.  Extremities:  No edema.
+Neurologic is alert and oriented.  Cranial nerves II through
+XII are grossly intact.  Strength are [**4-3**] bilaterally in
+upper and lower extremities.
+
+LABORATORY VALUES:  White blood cell count 5.6, hematocrit
+37.3, platelets 124, MCV 100, INR 2.4.  Sodium 135, potassium
+5.7, chloride 107, bicarb 16, BUN 97, creatinine 2.7, glucose
+224.  Digoxin 0.8.
+
+ELECTROCARDIOGRAM:  Showed bigeminy with V-paced beats
+alternating with intrinsic beats, left bundle branch block,
+no acute changes, no ST-T wave changes.
+
+CHEST X-RAY:  Showed stable cardiomegaly without evidence of
+acute cardiopulmonary disease.
+
+Stress test revealed extensive reversible ischemic changes
+with an ejection fraction of 19%.  MIBI revealed severe
+global hypokinesis with large inferior wall and moderate
+anterior apical defects, severe systolic dysfunction with
+septal hypokinesis with an ejection fraction of 19%.
+
+HOSPITAL COURSE:
+1. Chest pain/positive stress test:  The patient underwent
+cardiac catheterization which revealed severe native vessel
+coronary artery disease with one patent saphenous vein graft
+to OM graft with two focal stenoses, markedly elevated right
+and left sided filling pressures, successful stenting of the
+right coronary artery, ostial saphenous vein graft lesion,
+and distal saphenous vein graft lesion.  An intra-aortic
+balloon pump was placed prophylactically secondary to the
+patient's severe systolic dysfunction.  The patient was
+transferred to the CCU for monitoring, and was transferred to
+the floor after only a short stay.
+
+The patient was given Mucomyst and IV fluid hydration prior
+to catheterization in light of his chronic renal
+insufficiency.
+
+2. Systolic congestive heart failure:  The patient was
+admitted on daily Lasix, ACE inhibitor, digoxin, and a beta
+blocker.  His diuretics and ACE inhibitor were held initially
+secondary to his acute on chronic renal insufficiency.  On
+discharge, the patient was restarted on his ACE inhibitor,
+however, his daily Lasix will be held until his follow-up
+appointment with his cardiologist, Dr. [**Last Name (STitle) **].  The patient
+will measure his weights daily, and will notify Dr.[**Doctor Last Name 2859**]
+office if his weight increases more than five pounds.
+
+3. Acute on chronic renal insufficiency:  The patient has
+chronic renal insufficiency with a baseline creatinine of 1.5
+to 1.8, which is likely secondary to diabetic nephropathy.
+On admission, the patient's creatinine was 2.7.  The
+patient's Lasix, ACE inhibitor, Allopurinol, and colchicine
+were all held because they were felt to be major contributors
+to his acute renal failure.  The renal team was consulted.
+It was felt that the patient's acute on chronic renal failure
+was secondary to a large component of prerenal hypovolemia as
+well as renal tubular acidosis type IV.
+
+The patient was started on sodium bicarbonate 650 mg twice a
+day, and was given IV fluid hydration including normal saline
+with bicarbonate.  The patient's creatinine responded well to
+IV hydration and holding of nephrotoxic medications and on
+the day of discharge, his creatinine had returned to his
+baseline at 1.5.  The patient will continue to take sodium
+bicarbonate as an outpatient.  He will also be taking his
+daily ACE inhibitor and daily Allopurinol.  He will not take
+his colchicine unless he has an acute flare of gout.
+
+4. Diabetes mellitus:  The patient was continued on his fixed
+doses of NPH, and was placed on an insulin-sliding scale.
+
+CONDITION ON DISCHARGE:  Fair.
+
+DISCHARGE STATUS:  Home.
+
+DISCHARGE INSTRUCTIONS:  Please follow up with your primary
+care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] within 1-2 weeks.  Please follow
+up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] as previously scheduled, [**8-17**].  Please have your INR checked in 3-4 days as Coumadin
+dose may need to be adjusted.  Your goal INR should be
+between [**1-2**].  Please have the results called to your primary
+care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **].
+
+DISCHARGE DIAGNOSES:
+1. Unstable angina.
+2. Coronary artery disease.
+3. Systolic congestive heart failure.
+4. Insulin dependent diabetes.
+5. Chronic renal insufficiency.
+6. Acute renal failure.
+7. Renal tubular acidosis type IV.
+8. Hyperkalemia.
+9. Anemia.
+10. Gout.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg daily.
+2. Plavix 75 mg daily.
+3. Gemfibrozil 600 mg twice daily.
+4. Folic acid 1 mg daily.
+5. Digoxin 125 mcg Monday, Wednesday, [**Last Name (LF) 2869**], [**First Name3 (LF) 9674**].
+6. Sodium bicarbonate 650 mg twice daily.
+7. Coumadin 5 mg daily.
+8. Ramipril 5 mg daily.
+9. Allopurinol 150 mg daily.
+10. Toprol XL 50 mg daily.
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 377**]
+
+Dictated By:[**Last Name (NamePattern1) 2100**]
+
+MEDQUIST36
+
+D:  [**2569-7-17**]  15:01
+T:  [**2569-7-19**]  06:06
+JOB#:  [**Job Number 9675**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2569-8-16**] 11:40 AM
+(End of Report)
+
+
+",,
+13796,8288,,,2569-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 3655**]
+     Reason: EVALUATION OF CAD.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-seven year old male with coronary artery disease.
+     
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142  
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV.  The patient was transferred to the ED after the completion of
+     the study due to chest pain.
+     
+     INTERPRETATION: 
+     
+     Image Protocol: Gated SPECT.
+     
+     Resting perfusion images were obtained with thallium-201.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+     
+     Stress images show a moderately dilated LV cavity, which improves but does not
+     normalize with rest. The right ventricle also appears prominent.
+     
+     There is a a large area involving the entire inferior wall from base to apex
+     with moderate reduction of photon counts. At rest, there is almost complete 
+     normalization of this abnormality.
+     
+     There is a second medium size area involving the anteroapical and apical
+     regions, with 
+     moderate reduction in counts at stress. Rest SPECT images show almost complete
+     reversibility of this abnormality.
+     
+     Finally, there is a third medium size area at the basal portion of the lateral,
+     anterolateral and inferolateral walls with moderate reduction in photon counts
+     at both stress and rest, without significant reversibility.
+     
+      Gated SPECT images demonstrate severe systolic dysfunction with severe global
+     hypokinesis and septal akinesis (post CABG). The left ventricular ejection
+     fraction calculated from gated SPECT images obtained after exercise is 19%.
+     There appears to be mild right ventricular dysfunction.
+     
+     IMPRESSION:  Strongly positive pharmacologic myocardial perfusion study.
+     Transient ischemic dilatation with evidence of extensive ischemia in at least
+     two coronary vascular distributions (left anterior descending and right coronary
+     arteries), and evidence of previous infarction in the distribution of the left
+     circumflex coronary artery.  Severe left ventricular systolic dysfunction (LVEF
+     of 19%).  These findings were discussed with the ordering physician as well as
+     the ED at the time of the exam.
+     
+     /nkg
+                                                                           
+                                                                 (Over)
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 3655**]
+     Reason: EVALUATION OF CAD.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+             [**First Name8 (NamePattern2) 213**] [**Name8 (MD) 214**], M.D.
+             [**First Name11 (Name Pattern1) 143**] [**Last Name (NamePattern4) 3656**], MD, PhD    Approved: WED [**2569-7-12**] 2:58 PM
+
+
+             Date Mailed: [**2569-7-13**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13796,8288,,,2569-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2569-7-11**] 2:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3657**]
+     Reason: ro failur
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with  chest pain
+     REASON FOR THIS EXAMINATION:
+      ro failur
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain.
+     
+     Comparison; [**2568-8-8**].
+     
+     CHEST:  AP view only.  This study is limited by low lung volumes.
+     Cardiomegaly is essentially unchanged.  The patient has pacemaker lead tips
+     overlying the right atrium, right ventricle and coronary sinus, which are
+     unachanged.  Old abandoned leads overlying the right chest are unchanged.
+     Possible minimal pulmonary vascular redistribution, which may also be due to
+     vascular crowding from low lung volumes.  No focal infiltrates or effusions.
+     The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:  Stable cardiomegaly, without definite evidence of acute
+     cardiopulmonary disease.
+
+",,
+13796,8288,,,2569-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2569-7-13**] 9:23 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 3658**]
+     Reason: ACUTE CHRONIC RENAL FAILURE
+     Admitting Diagnosis: ANGINA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with diabetes and CRI here with unstable angina and acute on 
+      chronic renal failure.
+     REASON FOR THIS EXAMINATION:
+      please eval for hydronephrosis and kidney size.                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  Renal ultrasound.
+     
+     INDICATION:  77 year-old male with diabetes and chronic renal insufficiency.
+     
+     FINDINGS:  Both kidneys are normal in appearance without hydronephrosis, mass,
+     or stones.  The right kidney measures  12.5 cm, and the left kidney measures
+     10.8 cm.  The bladder is normal in appearance.  The prostate is noted to be
+     enlarged.
+     
+     IMPRESSION: Normal appearing kidneys without hydronephrosis, mass, or stones.
+     Enlargement of the prostate.
+
+",,
+13796,8288,,,2569-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2569-7-14**] 5:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3659**]
+     Reason: Check IABP placement                                        
+     Admitting Diagnosis: ANGINA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with CAD, ischemic cardiomyopathy s/p cardiac cath today, IABP 
+      placement
+     REASON FOR THIS EXAMINATION:
+      Check IABP placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Ischemic cardiomyopathy, status post cardiac catheterization today.
+     IABP placement.
+     
+     PORTABLE SUPINE AP CHEST:  Comparison [**2569-7-11**]
+     
+     Cardiac silhouette is enlarged.  The lungs are clear, without vascular
+     congestion, focal consolidation, or pleural effusion.  There is a left sided
+     pacemaker pack, unchanged.  There are leads in the region of the right atrium,
+     right ventricle and coronary sinus as well as old abandoned leads overlying
+     the right hemithorax, unchanged.  History states interval placement of IABP,
+     however radiopaque portion of IABP is not visualized.  The patient is status
+     post sternotomy.
+     
+     IMPRESSION:  No significant change from [**2569-7-11**].  By history there has been
+     interval placement of an IABP, however the radiopaque portion of the IABP is
+     not visualized.  Clinical correlation/repeat films are recommended.
+
+",,
+13796,8288,17165,0,2569-07-14 16:51:00 EST,2569-07-14 17:15:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+Admission Note:  77yo man with known CAD, s/p CABG IDDM, AICD.  Admitted to hospital after positive stress test.  Cathed [**7-14**] All 3 grafts occluded.  Vein graft to OM stented x's 2.  Native RCA stented x's 1 with good result.  IABP inserted via L fem prior to intervention.  Upon arrial to CCU pt alert and orient denies chest pain.  Integrelin at 1 mcg/kg/min. IABP at 1:2 in anticipation of removal.
+CV: V paced.  IABP 1:2 with good augmentation.  Dc'd at4pm no evidence of hematoma. L distal pulses are palpable.  R fem sheath dc'd without problem.  distal pulses by doppler. Pt encouraged to be still to prevent bleeding.
+
+Resp:  Lungs rales at bases.  O2 sat 97-98.
+
+GU/GI:  NPO at present.  Abd is soft with bowel sounds present. Given Lasix 20mg IV on arrival. IV 1/2 NS at 80/hr. Recieved 420 of dye. Creat 1.5 BUN 49 K 5.0.
+
+Social: Wife and children in to visit with pt.  Able to speak with Dr [**Last Name (STitle) 4140**] after procedure.
+
+A&P: Hemodynamically stable after intervention and IABP removal.  Continue to check groins.  IV fluid post cath as ordered with Lasix.  Check creat in am. dc Integrilin at 9am [**7-15**].
+",,
+13796,8288,17165,,2569-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2569-7-15**] 7:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3660**]
+     Reason: Check IABP placement.                                       
+     Admitting Diagnosis: ANGINA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with CAD s/p cabg, ischemic cardiomyopathy, s/p cardiac cath 
+      8/15k with IABP placement.
+     REASON FOR THIS EXAMINATION:
+      Check IABP placement.                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Ischemic cardiomyopathy.  Intraaortic balloon pump placed.
+     Check position.
+     
+     The heart remains enlarged.  No gross failure is present.  I am unable to see
+     an intraaortic balloon pump or its radiopaque tip.
+     
+     IMPRESSION:  IABP not seen.  Cardiomegaly.  No gross failure.
+     
+
+",,
+13796,8288,17165,0,2569-07-15 03:15:00 EST,2569-07-15 03:37:00 EST,526,"N",1,"Nursing/Other","ccu npn 7p-7a","
+ccu npn 7p-7a
+S:""My blood pressure is usually low.""
+
+O: Please see carevue for VS and objective data 
+
+CVS: Hemodynamically stable off IABP. HR 70-80's vpaced with freq. PVCs, runs of AIVR, NSVT. Pt. has AICD. K+ 5.0. BP ranges 85-90's/30-40's. Pt. asymtomatic, states to CCU team that his baseline SBP is 80's-90's. Had received 50mg po Lopressor at 2000,  ordered to decrease dose to 37.5mg po BID in am. IV Integrelin at 1mcg/kg/min (renal dose). PLT 129 (124). Hct 33.7. Bilateral groin sites D/I with transparent dressings, without palp. hematoma. Distal pulses dopplerable/weak. Pt. denies CP/SOB. CPK 52. 
+
+Resp; On room air with sats 98-100%, Lungs with fine bibasilar rales only. RR 16-21. 
+
+GI;GU; Taking po's, no N/V. Post cath IVF 1/2NS at 80cc/hour x 1.5L, Voiding qs initially via condom cath, fell off x2 with mod. amount of incontinence. Pt. stating wishes to avoid foley catheter if at all possible, using urinal remainder of shift without problem. I/O approx. 400cc + at MN, however unable to calculate incontinence as above. 
+
+Renal; Repeat creat post cath (420cc contrast) 1.4. (1.5)
+
+Endo: Glucose 96-136, NPH held as per orders, to restart in am. 
+
+Neuro: Pt. A/A/Ox3, very pleasant and appreciative of care. MAE. No H/A. Slept well at intervals.  
+
+A; hemodynamically stable, s/p stents OM grafts and native RCA. 
+
+P; Cont to monitor hemodynamics, decrease Lopressor dose in am. Follow up with am labs. Check with team regarding IV Heparin until restart Coumadin when IV Integrelin is dc'd in am. Monitor renal function closely. Prn diuresis. Assess resp. status. Determine NPH doses with increased appetite. Comfort and emotional support to Pt. and family
+",,
+13796,,,,2569-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2569-7-20**] 4:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3661**]
+     Reason: ?CHF                                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with CAD s/p cabg, ischemic cardiomyopathy, s/p cardiac cath  
+      8/15k with IABP placement.
+     REASON FOR THIS EXAMINATION:
+      ?CHF                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CAD, status post CABG with ischemic cardiomyopathy.  Status post
+     cardiac cath [**7-14**] with IABP placement.  ? CHF.
+     
+     COMPARISON:  [**2569-7-15**].
+     
+     AP UPRIGHT CHEST:  There is a 3-lead cardiac pacing/ICD device situated in the
+     left chest.  Its leads are unchanged in position.  There is an abandoned pacer
+     lead originating from the right chest.  The patient is status post CABG and
+     there is stable cardiomegaly.  The mediastinal contours are unchanged.  The
+     lungs are overall unchanged in appearance without pulonary vascular
+     redistribution, edema or pleural effusions.  There is linear atelectasis or
+     scarring at the left CP angle.
+     
+     IMPRESSION:  Stable cardiomegaly without CHF.
+
+",,
+13796,,,,2569-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 3662**]
+     Reason: ATYPICAL CHEST PAIN.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-seven year old male with known coronary artery disease, s/p  
+     stent.
+     
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV.
+     
+     INTERPRETATION: 
+     
+     Image Protocol: Gated SPECT.
+     
+     Resting perfusion images were obtained with thallium-201.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+     
+     Stress images show a transient ischemic dilatation of the left ventricle.  There
+     is a mild defect involving the apex.  There is also a mild defect involving the
+     base of the lateral wall.
+     
+     Resting perfusion images show the same above described defects.  There is no
+     reversibility.
+     
+     Ejection fraction calculated from gated wall motion images obtained after
+     Dipyridamole administration is 19%.  There is moderately severe global
+     hypokinesia.
+     
+     IMPRESSION:  Abnormal pharmacologic stress test.  There are mild, fixed defects
+     involving apex and base of the lateral wall.  There is moderately severe global
+     hypokinesia with an EF of 19%.  There is transient ischemic dilatation.
+     
+     /nkg
+                                                                           
+
+             [**Name6 (MD) 3011**] [**Name8 (MD) 3012**], M.D.
+             [**First Name11 (Name Pattern1) 149**] [**Last Name (NamePattern1) 150**], M.D.        Approved: MON [**2569-7-24**] 10:16 AM
+
+
+             Date Mailed: [**2569-7-25**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13796,,,,2570-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2570-1-11**] 5:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3663**]
+     Reason: patient with h/o chf, with sob, eval for infilt/effusion/chf
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with above
+     REASON FOR THIS EXAMINATION:
+      patient with h/o chf, with sob, eval for infilt/effusion/chf
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath.
+     
+     VIEWS:  Erect AP view compared with upright AP view from [**2569-7-20**].
+     
+     FINDINGS:  Again seen is an ICD device with pacing leads in stable and
+     satisfactory positions.  An abandoned pacer lead is again identified leading
+     into the right upper chest.  The patient is S/P median sternotomy and CABG.
+     There is stable cardiac enlargement. The mediastinal contour is unchanged.
+     The pulmonary vascularity is within normal limits.  The lungs appear clear
+     without evidence of focal consolidation.  No definite pleural effusions are
+     identified.  There is no pneumothorax.  The osseous and soft tissue structures
+     remain stable.
+     
+     IMPRESSION:  Stable cardiomegaly without evidence of congestive heart failure
+     or pneumonia.
+
+",,
+13796,,,,2570-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 3664**]
+     Reason: CAD EVALUATION.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-seven year old man with h/o CAD, s/p CABG, with multiple  
+     stents in 8/03, who presents with dyspnea.
+     
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV.  The patient had progressive anginal symptoms reaching in
+     intensity of 7/10 at peak.  The ECG was uninterpretable, secondary to baseline
+     abnormalities.
+     
+     INTERPRETATION: 
+     
+     Image Protocol: Gated SPECT.
+     
+     Resting perfusion images were obtained with thallium-201.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+     
+     Stress images show a moderate perfusion defect of the apex and a moderate
+     perfusion defect of the lateral wall.  Both of these defects are partially
+     reversible on resting perfusion images.  There is a decrease in counts in the
+     inferior wall that is perhaps related to ischemia, but attenuation correction
+     resolves this defect so diaphragmatic attenuation may be the cause of this
+     defect.
+     
+     In comparison to the prior study, the defects are more reversible.  
+     
+     Ejection fraction calculated from gated wall motion images obtained after
+     Dipyridamole administration is 14%, with severe global hypokinesis.  The left
+     ventricular cavity is severely dilated. 
+     
+     IMPRESSION:  1) Moderate, partially reversible apical defect.  2) Moderate,
+     partially reversible lateral wall defect.  3) Partial reversibility of the
+     inferior wall that may be related to diaphragmatic attenuation.  4) Severe
+     global hypokinesis with ejection fraction 14%.
+     
+     Findings were conveyed to Dr. [**First Name (STitle) 3665**], at the time of interpretation.
+     
+     /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) 477**] [**Name8 (MD) 478**], M.D.
+             [**First Name11 (Name Pattern1) 149**] [**Last Name (NamePattern1) 150**], M.D.        Approved: MON [**2570-1-15**] 10:20 AM
+
+
+             Date Mailed: [**2570-1-16**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13796,26551,17166,0,2571-08-03 18:53:00 EST,2571-08-03 19:06:00 EST,2413,"N",69,"Nursing/Other","P-MICU Nursing acceptance","
+P-MICU Nursing acceptance
+Briefly this is a 79yo M with multiple medical problems including ESRD, CAD, s/p CABG [**2547**], ishemic cardiomyopathy with EF ~15%, DM 2, AF --> pacer/AICD, gout, Fe deficient anemia & B12 deficiency, who was admitted to [**Hospital1 10**]-[**Location (un) **] on [**7-31**] for CC: constipation. In course of admission pt developed suspected SIRS becoming hypotensive requiring pressors and volume resuscitation, Bld Cx were + [**3-4**] GPC and further speciated MRSA. Pt has had ESRD for some time and during this admission was evaluated for HD. Pt was pressor dependent at the time of eval and it was suggested that CVVHDF may be a better option. Pt was transferred to [**Hospital1 10**] for renal evaluation and possible HD vs. CVVHDF.
+Please see admission assessment and flowsheet for full assessment.
+",,
+13796,26551,17166,0,2571-08-04 03:38:00 EST,2571-08-04 04:05:00 EST,7271,"N",69,"Nursing/Other","MICU B NPN 7p-7a","
+MICU B NPN 7p-7a
+Neruo: Pt was initially a/o x3, but now since having ambien 5mg for [**Doctor Last Name 8**], pt is pleasantly confused and picking at medical equipment. Pt is o x 2 at this time, but still calm and cooperative. Denies pain, MAE. Pt up to commode last night with 2 person assist, was unsteady and needed full assistance. 
+
+Pulm: LS CTA, pt denies SOB. On RA, O2 sats 93-99%. Pt with congested, productive cough. 
+
+CV: HR 70's AVP with occasional PVCs. SBP 90-110's with MAPs in 60's. Temp 95.6, pt is cool to touch, but refuses additional blankets. 
+
+GI/GU: Abd firm on initial assessment, now softer. +BS, + small black formed BM that was guiac +. FSBS checks ac and hs. Pt is on a humalog sliding scale. F/C intact, draining clear yellow urine about 40-75cc/hr. Pt is on a 1500cc fluid restriction. 
+
+Skin: Multiple areas of ecchymosis noted to upper extremities. Also multiple skin tears noted to UE, see assessment for full detail. No breakdown noted to backside. 
+
+Social: Pts family very involved, updated by nursing and MDs overnight.
+
+[**Last Name (un) **] stim test completed, results pending. Pt prohylactically started on steroid rx for ? of adrenal insuffiency. Blood cx x2 sent with am labs. Plan for pt is renal consult today for ? of CVVHD or HD. Also scheduled for TEE on [**8-6**]. F/U on [**Last Name (un) 562**] stim test results, am labs pending at this time. 
+",,
+13796,26551,17166,0,2571-08-04 16:03:00 EST,2571-08-04 16:10:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Review of Systems-
+
+Neuro-  A+OX3 c/o of being tired and not getting any [**Doctor Last Name 8**].  Ambien given overnoc and pt. reportedly became a little ""loopy"" and did not [**Doctor Last Name 8**].  Pt. denies pain x constipation (see GI).  Pt. refused to get OOB except to commode s/t being so tired and constipated despite edu about mobility and it's benefits.
+
+Resp-  RA sat's 99%.  LS- clear throughout x fine crackles appreciated posteriorly LLL.  Pt. with one episode of SOB while lying in bed, no change in physical exam noted, sat's 99%, appeared to be r/t anxiety and fixation of bowels.
+
+CV-  HR 70's AV paced.  BP stable.  CVP 17-23.  Skin intact x small skin tears and large areas of eccyhmosis.  
+
+GI-  Pt. obsessed and fixed on abd discomfort reportedly r/t constipation.  Fleets enema given, pt. sat on commode with some results, disimpacted for sm. amounts of formed guiac + stool, then given lactulose now awaiting results.  Tolerating [**Doctor First Name 196**] w/ NPH and humalog coverage.
+
+GU- u/o adequate 40-80cc/hr.  1500cc fluid restriction in place.
+
+ID-  Conts to have fewer bottles positive for MRSA, will cont to check QD, next tom'row am with am labs.  Conts on vanco dosed by level.  
+
+Social-  sons and wife at bedside making many demands on staff despite limit setting and clear communication from MDs and RNs... 
+",,
+13796,26551,17166,0,2571-08-05 04:33:00 EST,2571-08-05 04:43:00 EST,2037,"N",69,"Nursing/Other",,"
+
+O. Neuro a/o x3 mae, fc, trazadone 25mg po [**Doctor Last Name 8**], slept in short naps
+cvs AV paced 70's freq pvc bp 114/62 hct 30.9 plt 63, k+3.4 skin w+d pp+
+gi lg loose black stool ob +, abd snt bs+
+gu u/o > 30cc q hr neg 340 mn to 0500 BUN 122 cr 2.6
+endo tx ss insulin
+access RIJ
+a. MRSA bld cx with (hypotenion resolved), dm2 esrd, B12, Fe and anemia chronic dz, plt down, constipation
+p. contact precautions, cont to monitor BS tx per ss, epogen and B12 as ordered monitor hct and plts, monitor lytes tx [**Name8 (MD) 17**] MD, transfer to floor when bed becomes available
+",,
+13796,26551,17166,0,2571-08-05 16:16:00 EST,2571-08-05 16:27:00 EST,2056,"N",69,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Mr. [**Known patient lastname 758**] [**Last Name (Titles) 195**] to recover from his sepsis.
+CV: pt cont to be stable with BP 84-104/50's. HR 70's with freq PVC's. he denies any CP or SOB. His lungs are clr with O2 sats of >97%
+ID:pt remains afebriel, vanco level pnd. CX are growing less per team daily. 
+Heme:hct is stable at 30, plt sl up to 63 from 48, no bleeding noted though pt very bruised all over.
+GU:foley draining clr urine, u/o cont to be good at 35-40cc/hr. His NA is up to 135, still fluid restricted. His BUN/CR is sl improved to baseline of 122/2.6.
+GI:min appetite but he is eating, no stool as yet but he does not want anything more now. He refused Iron supplesment as it causes ""all the trouble"". Blod sugars are high now that he is eating, pt on increased SS and NPH.
+Neuro;pt is fully A&Ox3, MAE able to [**Last Name (un) **] OOB to chair with one person assist
+A/P:Will cont to follow VS and await cx results. 
+    Cont IV AB and follow vanco level
+    Cont to follow I&O and renal function,fluid restriction 1500cc
+    Note BS and aggressively cover
+",,
+13796,26551,17166,0,2571-08-06 05:24:00 EST,2571-08-06 05:36:00 EST,7445,"N",69,"Nursing/Other","shift note 1900-700","
+shift note 1900-700
+pt had pleasant night.  slept well and pleased, pt sts hasn't slept well in 1 week.  free of resp distress. c/o constant stiffness/pain in neck.  Advil x1 given.  heating pad on.  pt is due for call out, as per pt, waiting for private room
+
+Neuro: alert & oriented.  coorperative and able to express needs well. moves all extremites well and equally.  able to assist in bed turning.  apparently up to chair on days with one person asssist.  baseline prior to hospitalization was self-sufficient, driving, no difficulty ambulating.
+
+resp:  on RA, lungs clear.  o2 sat 100, dry at times moist unproductive cough
+
+cardiac:  AICD and pacemaker.  Paced with freq PVC and runs (for days).  SPB 90-120's.  HR 70's.  TLC in right IJ
+
+GI:  this admission admitted with constipation.  pt refused colace last night.  last bowel movement [**8-5**] nights.  appetite fair.  on fluid restriction.  FS AC&HS  2200=121
+
+GU:  foley output 25-40ml.  admitted with ARF, bun/creatinine elevated but back down to pt's baseline.  pt aware poss HD in future
+
+ID:  on vanco. dosing ordered as per vanco level. vanco yesterday 19, no dose given. afebrile.  skin relatively intact, overall bruising noted
+
+Social:  family very involved and supportive.  according to pt, suppose to talk with MDs today
+",,
+13796,26551,17166,0,2571-08-06 15:57:00 EST,2571-08-06 16:36:00 EST,5918,"N",69,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+Neuro: Pt AOx3, dozing off and on all day. c/o neck aching heat pad applied, CT to neck today to eval for ?? abcess as source of pain, awaiting results. 
+Resp: RA sats 98-100%.  LS clear upper, coarse lower. started w/ slight cough this after noon ? [**1-2**]  viscous lido & spray given for TEE, or slight fluid overload. sips of water seem to help a bit. 
+CV: Planned for TEE today, however when cards arrived decided sbp was too low to admin meds and do procedure safely despite 1000cc NS bolus. sbp 85-90's map 50's. sbp had marginal response at best to bolus.  map goal 60. PT AV paced w/ AICD, w/ occ pvc's noted. repleted 40mEq of K+ today. Platelets low our team consulting [**Name6 (MD) **] card MD to determine need for continued Plavix as stenting was years ago. Also had TTE done at osh awaiting results. EF reported 15-20%. 
+GI: NPO for procedure, ate small snack this PM. otherwise [**Doctor First Name 196**] diet. No BM today, but had one yesterday and NPO for majority of day. Received colace
+GU: foley in place, adeq. u/o 30-40cc/hr yellow, clear. 
+ENDO: RISS and SD NPH. AM NPH held [**1-2**] fs of 64 and NPO for procedure. 
+Skin: several sm. skin tears. RLE covered w/ dsd. several eccymotic areas on extrem. 
+ID: Vanco dosed by level, received one gram today. afebrile. Bld cx from osh MRSA+. bld cx [**8-4**] from here no growth so far. ESR and urine protein sent today. 
+Social: Family in today, and called, updated several times by nurse [**First Name (Titles) **] [**Last Name (Titles) **]'s. 
+A/P: c/o floor awaiting bed. MRSA bacteremia, wbc showing slight decline, on Vanco dosed by level. May consider TEE at later time able to better tolerate meds needed, ie higher sbp. cont to replete lytes prn. cont to monitor BM's and dose laxative prn. cont providing emotional support, and supportive care. 
+",,
+13796,26551,17166,0,2571-08-06 21:13:00 EST,2571-08-06 21:21:00 EST,2804,"N",69,"Nursing/Other",,"
+
+PT. REMAINS A/A/O AND DENIES ANY PAIN OR DISCOMFORT. PT. AWOKE WITH APPETITE AND HAS HAD ONE BOWL OF SOUP, [**12-4**] BOWL OF MACARONI AND CHEESE, 2 DIET CUSTARDS AND 2 GLASSES OF APPLE JUICE. PT. REMAINS AFEBRILE, NO NEURO DEFICITS. HR. UNCHANGED AND STABLE, AS WELL B/P STABLE. URINARY OUTPUT 30CC/HR. IVP INTACT AND FUNCTIONING WELL. PT. UNDERSTANDS TREANSFER AND PLAN OF CARE. FAMILY IS AT BEDSIDE AND HAS BEEN UPDATED AS WELL.
+",,

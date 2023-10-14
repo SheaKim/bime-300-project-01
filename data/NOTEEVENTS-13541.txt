@@ -1,0 +1,844 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13541,28603,,,3305-12-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3305-12-25**]     Discharge Date:  [**3306-1-2**]
+
+Date of Birth:   [**3243-7-31**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 62-year-old
+male who had developed some shortness of breath and dyspnea
+on exertion over the past week to months prior to admission
+who went into cardiac arrest.  He was found to be in
+ventricular tachycardia in the field by Emergency Medical
+Service.  He had shocks times three and 1 mg of epinephrine.
+En route to outside hospital, the patient went into
+ventricular fibrillation and had additional shocks time three
+as well as epinephrine.  The patient went into ventricular
+tachycardia.
+
+The patient was brought to the [**Hospital 114**] Hospital Emergency
+Department.  An arterial blood gas at that time showed
+7.11/31/66 with multiple rhythms on telemetry and
+electrocardiogram including ventricular tachycardia,
+ventricular fibrillation, sinus tachycardia with variable
+atrioventricular conduction.  The patient received
+procainamide 900 intravenously and was shocked multiple
+times.
+
+The patient was transferred to [**Hospital1 391**] where a temporary wire was placed at the right
+internal jugular.
+
+The patient was taken to the Catheterization Laboratory.  The
+patient had a total of greater than 20 shocks.  Pulmonary
+capillary wedge pressure was 45, right atrial pressure was
+40, and there was a 30% occlusion of the left main coronary
+artery, a 50% occlusion of the mid left anterior descending
+artery, and a total occlusion of the left circumflex, and
+total occlusion of the right carotid artery.
+
+The patient is status post coronary artery bypass graft in
+[**3302**] with a left internal mammary artery to the left anterior
+descending artery and radial to the obtuse marginal.  The
+left internal mammary artery to the left anterior descending
+artery was patent, and the radial to the obtuse marginal was
+patent.  There was a 70% left subclavian stenosis and a 70%
+to 80% first obtuse marginal stenosis.  Arterial and
+ventricular temporary pacing wires were placed.  The patient
+was placed on an intra-aortic balloon pump.  The patient
+arrived to the floor with intravenous amiodarone and
+nitroglycerin drips.
+
+On the floor, the patient became hypotensive.  Nitroglycerin
+was stopped.  Pulmonary artery diastolics were 18.  Numbers
+revealed a cardiac index of 1.4 with the intra-aortic balloon
+pump in place.  The patient was started on fluids.
+Dobutamine was started.
+
+A STAT bedside echocardiogram with an ejection fraction of
+20% and an old inferior scar.  No valvular abnormalities.
+
+The patient was seen by the Electrophysiology Service who
+changed him from ventricular pacing to atrial pacing and
+ventricularly sensed.  His blood pressure dramatically
+improved with this change.  The patient was observed in the
+Coronary Care Unit.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease; status post 2-vessel coronary
+artery bypass graft in [**3302**].
+2.  Peripheral vascular disease.
+3.  Aortic aneurysm repair in [**3303**].
+4.  Status post aortobifemoral in [**3303**].
+5.  Status post left carotid endarterectomy.
+6.  Insulin-dependent diabetes mellitus.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+
+SOCIAL HISTORY:  The patient lives with his brother and is
+fully functional at baseline.
+
+CONCISE SUMMARY OF HOSPITAL COURSE BY ISSUE/SYSTEM:
+
+1.  CARDIOVASCULAR ISSUES:  (a)  Coronary artery disease:
+The patient had patent grafts and diffuse disease.  He was
+continued on aspirin and Lipitor.  His beta blocker and ACE
+inhibitor were added back and titrated to maximal effect as
+tolerated by the patient's blood pressure.
+
+(b)  Pump:  An initial showed an ejection fraction of 20%,
+old inferior wall hypokinesis, and akinesis.  Initially, the
+patient's cardiac index was noted to be 1.4 while on the
+intra-aortic balloon pump.  The index went up to 2.1 with
+dobutamine and atrioventricular pacing.
+
+A repeat echocardiogram performed on [**3305-12-30**] showed
+left ventricular cavity moderately dilated, overall left
+ventricular function systolic function was severely
+depressed, with an ejection fraction of 30%.  Resting
+regional wall motion abnormalities including basilar inferior
+akinesis and inferolateral akinesis/hypokinesis, mild
+anteroseptal hypokinesis/akinesis, and mid to distal anterior
+hypokinesis.  Right ventricular chamber size and free wall
+motion were normal.  The aortic valve leaflets were normal.
+The mitral valve was mildly thickened.  There was trivial
+mitral regurgitation was seen.  The left ventricular systolic
+function was improved from the initial echocardiogram on
+[**3305-12-25**].
+
+(c)  Rhythm:  The patient is status post ventricular
+fibrillation and ventricular tachycardia prolonged arrest
+with prolonged resuscitation efforts, likely from old scar
+formation.  The patient had improved acidemia and was
+followed by the Electrophysiology Service throughout his
+hospital course.
+
+On [**12-26**], the patient had one episode of ventricular
+tachycardia.  He was shocked with resolution and was placed
+on amiodarone.
+
+On [**12-29**], the patient went for electrophysiology
+mapping.  They were unable to induce ventricular tachycardia
+at that time.
+
+The patient went for implantable cardioverter-defibrillator
+placement on [**12-31**] with no complications.
+
+The patient's thyroid-stimulating hormone was checked as he
+was started on amiodarone.  Thyroid-stimulating hormone was
+notable at 38.  The patient should have this followed by his
+primary care physician as an outpatient considering
+amiodarone use.
+
+His aspartate aminotransferase was 91.  His
+alanine-aminotransferase was 58.  The patient had pulmonary
+function tests performed prior to discharge for a baseline
+pulmonary status on amiodarone.  Forced vital capacity was
+1.64 (41% of predicted), FEV1 was 1.34 (48% of predicted),
+and FEV1: FVC ratio was 82 (115% of predicted).
+
+2.  ENDOCRINE ISSUES:  The patient has a history of diabetes.
+He had high fingerstick blood glucose levels with ketones.
+The patient was initially placed on an insulin drip which was
+weaned off, and he was transitioned back to his regular
+diabetes medications and insulin sliding-scale.
+
+3.  PULMONARY ISSUES:  The patient was extubated on [**12-28**] without complications.
+
+4.  RENAL ISSUES:  The patient was initially noted to be in
+acute renal failure with creatinine levels as high as 2.3 on
+[**3305-12-26**].  Over the course of his hospital stay, the
+patient's creatinine trended down to his baseline of 1.6
+prior to discharge.
+
+DISCHARGE DIAGNOSES:
+1.  Status post implantable cardioverter-defibrillator
+pacemaker placement.
+2.  Ventricular tachycardia and ventricular fibrillation
+arrest.
+3.  Status post prolonged resuscitation.
+4.  Congestive heart failure.
+5.  Insulin-dependent diabetes.
+6.  Coronary artery disease; status post coronary artery
+bypass graft with patent grafts.
+7.  Hypertension.
+8.  Status post intubation.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient was instructed to follow up in the Device
+Clinic with Electrophysiology on [**3306-1-7**].
+2.  The patient was instructed to follow up with Dr. [**Last Name (STitle) 9240**]
+and Dr. [**Last Name (STitle) **] in Cardiology on [**3-22**] at 8 a.m.
+3.  The patient was instructed to follow up with Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 396**] of Electrophysiology on [**1-20**] at 12:30.
+4.  The patient was instructed to follow up with Dr. [**Last Name (STitle) **]
+at [**Hospital6 193**] on [**1-7**] at 3:30 p.m.
+
+MAJOR SURGICAL/INVASIVE PROCEDURES PERFORMED:
+1.  Greater than 20 shocks for a prolonged arrest on [**3305-12-25**].
+2.  Cardiac catheterization on [**3305-12-25**] with
+placement of an intra-aortic balloon pump as well as coronary
+sinus and ventricular pacing wires.
+3.  Electrophysiology mapping study on [**12-29**].
+4.  Implantable cardioverter-defibrillator placement on
+[**12-31**].
+
+CONDITION AT DISCHARGE:  The patient was taking oral intake,
+ambulating, at baseline mental status, systolic blood
+pressure of 130, and a heart rate of 70.
+
+DISCHARGE STATUS:  The patient was to be discharged to home.
+
+MEDICATIONS ON DISCHARGE:
+1.  Aspirin 325 mg by mouth once per day.
+2.  Atorvastatin 20 mg by mouth once per day.
+3.  Lasix 40 mg by mouth once per day.
+4.  Amiodarone 400 mg p.o. once per day.
+5.  Lisinopril 20 mg by mouth once per day.
+6.  Metoprolol-SR 50 mg by mouth once per day.
+
+
+
+
+
+                          [**First Name8 (NamePattern2) 15**] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number 2080**]
+
+Dictated By:[**Last Name (NamePattern1) 3606**]
+
+MEDQUIST36
+
+D:  [**3306-1-5**]  14:11
+T:  [**3306-1-5**]  18:37
+JOB#:  [**Job Number 9241**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Doctor Last Name **]
+ on: MON [**3306-3-29**] 10:39 AM
+(End of Report)
+
+
+",,
+13541,28603,,,3305-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-25**] 12:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 872**]
+     Reason: eval for pulm edema, line placement, LLL infiltrate         
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        62 year old man S/P cardia arrest, central line placement, atrial and ventric 
+      pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      eval for pulm edema, line placement, LLL infiltrate                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post cardiac arrest, central line placement, evaluate for
+     pulmonary edema.
+     
+     Comparison is made to a chest x-ray obtained 7 hours prior.
+     
+     SUPINE AP CHEST:  There is again present an endotracheal tube which terminates
+     approximately 2 cm above the carina.  An intra-aortic balloon pump is present
+     in satisfactory position.  There are temporary pacing wires positioned in the
+     right ventricle originating from both the right internal jugular and from the
+     groin.  There is a right subclavian central venous catheter with the tip
+     terminating in the proximal SVC.  A Swan-Ganz catheter is present with the tip
+     terminating in the left main pulmonary artery.  There is an NG tube present
+     with the side port terminating at the level of the GE junction which could be
+     advanced further.  The heart and mediastinal contours are unchanged.  There is
+     perihilar haziness and vascular engorgement consistent with failure.  There is
+     a left-sided pleural effusion which is seen tracking to the left apex.  There
+     is persistent left lower lobe atelectasis/consolidation.  Note is also made of
+     a stent in the region of the left carotid.
+     
+     IMPRESSION:
+     1.  Endotracheal tube with tip located 2 cm above the carina.
+     2.  NG tube sideport near GE junction.
+     3.  Failure.
+     4.  Left-sided pleural effusion.
+
+",,
+13541,28603,,,3305-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13541,28603,,,3305-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-25**] 5:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 870**]
+     Reason: line placement                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man S/P cardia arrest, central line placement                       
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Line placement.
+     
+     AP SUPINE CHEST:  A right IJ venous catheter tip is within the mid SVC.  The
+     endotracheal tube is located at the carina.  There is no pneumothorax.  There
+     is patchy atelectasis of the left lower lobes, which could also represent
+     aspiration.  There is a left pleural effusion.  The heart is at the upper
+     limits of normal in size.  The hilar and mediastinal contours are within
+     normal limits.
+     
+     IMPRESSION:
+     1)  The endotracheal tube is located at the carina and should be pulled back.
+     Dr. [**Last Name (STitle) 871**] has been paged to notify him of theses findings.
+     2)  No pneumothorax and satisfactory placement of venous catheter.
+     3)  Atelectasis vs. aspiration in the left lower lobe.
+
+",,
+13541,28603,16848,0,3305-12-25 17:20:00 EST,3305-12-25 17:23:00 EST,840,"N",1,"Nursing/Other","Resp care note 7a-7p","
+Resp care note 7a-7p
+Received pt from cath lab on full mechanical ventilation. ABG's initially with metabolic acidosis, marginal oxygenation. Improving t/o shift, able to wean Fio2 and VT. BS coarse, diminished. Sx sm thick white secretions. OET patent/secure in good position.  
+",,
+13541,28603,16848,0,3305-12-25 18:08:00 EST,3305-12-25 18:45:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+see admission note
+
+S- intubated & sedated.
+
+O- see flowsheet for all objective data.
+
+cv- received Pt from cath lab V pacing HR 80- temp pacer set @ 80 with Ma 10- SBP 80's- without IABP assist, SBP 50's- PAS 27-42 PAD 18-21- 
+CO 2.8 CI 1.41- temp pacer changed to AV pacing mode- rate set @ 91- atrial Ma 4- ventricular Ma 3- threshold atrial .6 mA & ventricular 1 mA- atrial wire R groin- ventricular wire R IJ- L femoral PA line- PAS 27-30 PAD 14-15 CO 4.3 CI 2.16- Tele: A pacing/ ventricular sensing- occ ventricular paced beats noted with decrease in B/P- HR 90 with a rare PVC-  R femoral IABP 1:1 with good augmentation & systolic unloading- MAPs 84-92- amiodarone gtt @ 1mcq/kg/min- dobutamine gtt @ 5mcq/kg/min- heparin gtt @ 900u/hr- insulin gtt @ 10u/hr- Mg 2.2- last K 2.7 Kcl 60meq given- CPK 669 MB 43- Hct 37.8- feet = cool to touch- (+) PT pulses obtained by doppler - (no DP pulses)- HO aware.
+
+resp- on vent AC 550/22/50%/5- ABG 7.43-28-204- FiO2 decreased to 40%-
+lung sounds coarse anteriorly- suctioned small amt tan/bl tinged colored mucous- SpO2 99-100%- last mixed venous sat 64%
+
+gi- abd large soft hypoactive bowel sounds- no BM today- NGT R nare clamped.
+
+gu- foley draining clear pale yellow colored urine qs- U/O > 80cc/hr- (-) 1L today- Bun 32 Crea 2.2
+
+neuro- was awake- moving all extremities- following simple command- started to become restless- propofol gtt @ 25mcq/kg/min infusing with good effect.
+
+endo- BS 334-470- insulin gtt @ 10u/hr.
+
+ID- afebrile- WBC 14.7- blood cultures X2 sent- started on flagyl & levo
+
+A- S/P V tach/fib arrest- S/P cath with insertion IABP
+
+P- monitor VS, lung sounds, I&O, & labs- repeat labs @ 7pm- replete electrolytes as needed- follow temp & pan culture if Pt spikes- offer emotional support to family- keep them updated on plan of care. 
+",,
+13541,28603,16848,,3305-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-26**] 8:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 873**]
+     Reason: line placement                                              
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         62 year old man S/P cardia arrest, central line placement, atrial and 
+      ventric  pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to one day earlier.
+     
+     CLINICAL INDICATION:  Line placement.
+     
+     A right subclavian vascular catheter terminates in the superior vena cava and
+     a Swan-Ganz catheter terminates in the proximal left pulmonary artery.  An
+     endotracheal tube remains in place, with the tip terminating approximately 1.5
+     cm above the carina.  The cardiac and mediastinal contours are stable in the
+     interval.  There are increasing patchy opacities present at both lung bases,
+     and there are probable bilateral pleural effusions with the left extending to
+     the apex.  The extreme lung bases have been excluded from the radiograph,
+     limiting assessment.
+     
+     IMPRESSION:
+     1.  Right subclavian vascular catheter terminates in superior vena cava.
+     2.  Increasing opacities at the lung bases, which may relate to atelectasis or
+     aspiration.
+     3.  Bilateral pleural effusions.
+
+",,
+13541,28603,16848,,3305-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-26**] 6:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 874**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           62 year old man S/P cardia arrest, central line placement, atrial and   
+      ventric  pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE SUPINE CHEST:
+     
+     Compared to previous study of earlier the same day.
+     
+     INDICATION: Pacing wire placement.
+     
+     The patient is markedly rotated towards the right. 2 pacing leads remain in
+     place, and appear unchanged in position allowing for differences in patient
+     positioning. The right internal jugular vascular catheter is in satisfactory
+     position and an ETT remains in place, with a relatively low position about 2.5
+     cm above the carina. Intra-aortic balloon pump is in close proximity to the
+     superior aspect of the aortic knob near the expected location of the origin of
+     the left subclavian artery.
+     
+     Cardiac and mediastinal contours are stable allowing for the degree of
+     rotation of the patient. There are scattered areas of atelectasis in both
+     lungs, and there is a hazy area of increased opacity in the left mid lung zone
+     which may relate to an area of loculated pleural fluid. Additionally, pleural
+     fluid tracks to the apex of the left lung. Note is made of interval improved
+     aeration at the lung bases compared to the recent study.
+     
+     IMPRESSION: 1) Intra-aortic balloon pump in close proximity to superior aspect
+     of aortic knob and relatively low position of ETT. These findings have been
+     communicated with the clinical service caring for the patient.
+     
+     2) Improving aeration at lung bases.
+
+",,
+13541,28603,16848,0,3305-12-26 05:37:00 EST,3305-12-26 05:40:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Resp status/metabolic acidosis improving. A/c rate weaned to 14 over course of shift. Bs clear bilaterally. Sx'd for sm amount of thick white sputum. Current settings Vt 550, A/c 14, Fio2 40%, and Peep 5. Adequate Abg's. Balloon pump, pressors.  Plan: Continue with mechanical support and wean A/c rate as tolerated. 
+",,
+13541,28603,16848,0,3305-12-26 05:43:00 EST,3305-12-26 06:05:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: REMAINS IN AVPACED RHYTHM. HR 91-92 PACER ADEQUATELY SENSING AND PACING. NO VEA NOTED . CON'T ON AMIODARONE @ 1MG/MIN. DOBUTAMINE @ 5MCG. CO/CI 6.6/3.32 PAD'S 14-17. SBP STABLE WITH MAP'S > 60. CK 1061. IABP @ 1:1 WITH ADEQUATE AGUMENTATION. HEPARIN RATE ADJUSTED TO 650U/HR FOR PTT>150. HEPARIN HELD X1 HR PRIOR TO RATE CHG. NOTED WHEN PT'S POSITION IS CHG TO R SIDE HE DROPS SBP TO 90/. PLEASE SEE FLOW FOR SYSTOLIC UNLOADING AND FULL VS.
+
+RESP: SEVERAL RATE CHG  OVERNOC. PT REMAINS MECH VENT @ AC 550X14 40% PEEP 5. SUCTIONED FOR SCANT TO SM AMT'S OF TAN SECRETIONS. AM ABG'S 7.38,31,150,19,-5,98% SATS > 99% FOR SHIFT.
+
+GI: ABD SOFT BUT DISTENDED. NGT TO INTERMITTENT SUCTION DRAINED 100CC. NGT CLAMPED. HYPOACTIVE BS NOTED. PT BEGAN PASSING LG AMT'S OF GOLD LIQ STOOL. RECTAL MUSHROOM INSERTED. DRAINED 100CC GUIAC TRACE + STOOL.
+
+GU: U/O DROPPING OVERNOC TO 30CC. PT DROPPED TO 20-25 CC/HR X3 HR. DR [**Last Name (STitle) 4919**] NOTIFIED X2 AND DR [**First Name (STitle) **] ALSO AWARE. 0600 RECEIVED VERAL ORDER TO BOLUS PT WITH 250CC/NS. AWAITING AM BUN/CREAT HAS BEEN RUNNING 27/2.2 RESPECTIVELY.
+
+SKIN: R/L GROIN C&D DSG INTACT. NO S/S OF HEMATOMA. PULSES ABSENT DP'S PT'S + BILAT BY DOPPLER.
+
+NEURO: HAS PERIODS OF AGITATION, TRYING TO PULL AT LINES. PROPOFOL INCREASED TO 31MCG WITH ADEQUATE RESULTS. DURING PERIODS OF AWAKFULNESS PT WILL FOLLOW SIMPLE COMMANDS. HAND GRASP ONLY. PEARL.
+CAN MOVE ALL EXT ON BED. INTERMITTENT ATTEMPS TO RAISE R/L ARMS. PT GIVEN SUPPORT AND ORIENTED AS NEEDED.
+
+ID: TEMP MAX 99.9 WBC 13.0 CON'T ON FLAGYL AND LEVOFLOXCIN.
+
+LABS: STABLE HCT 34
+      IV INSULIN WEANED TO OFF. PLEASE SEEE FLOW REGARDING BS.
+      K+ 3.3 RECEIVED 40 MEQ KCL IV
+      LACTIC ACID DOWN TO 1.9
+      I CA 1.03 HOUSE STAFF AWARE.
+
+SOCIAL: BROTHER INTO VISIT PT AND SPOKE WITH MD'S HE IS AWARE OF STATUS. BROTHER ALSO CALLED OVERNOC FOR UPDATES. HE WILL VISIT PT TODAY
+
+A/P: 62 YR OLD S/P MI VT/VF ARREST. S/P CATH. AWAITS POSSIBLE AICD PLACEMENT. CON'T TO MONITOR U/O
+      CK CYCLE
+      CHG TO SSI COVERAGE
+      POSSIBLE ECHO
+",,
+13541,28603,16848,0,3305-12-26 16:38:00 EST,3305-12-26 16:40:00 EST,840,"N",1,"Nursing/Other","Resp care note","
+Resp care note
+Pt remains on mech. ventilation. Well oxygenated and ventilated. Able to wean to PSV. Currently on PS 15/5. RR in 20's, VT in 400's. ABG's pending. Sx sm thick tan secretions. Plan, rest over night with possible extubation tomorrow.
+",,
+13541,28603,16848,0,3305-12-26 16:56:00 EST,3305-12-26 17:37:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- intubated & sedated
+
+O- see flowsheet for all objective data.
+
+cv- Tele: AV pacing @ times- atrial pacing with ventricular sensing @ times- temp pacer set @ 92 Ma 3 threshold 1 mA- @ 10am, Pt went into Vtach rate 160- defib with 200J- converted to paced rhythm- dobutamine gtt D/C'd- CO 4.8 CI 2.41 1hr after- K 5.3- Mg 1.9- Phos low this am- phos replacement given PO & IV- repeat level 3.9- PTT > 150 this am on 650u/hr- gtt off X1 hr & restarted @ 400u/hr- repeat PTT 65.9- con't on amiodarone gtt @ 1mg/min- started on Ntg @ .6mcq/kg/min- IABP R femoral @ 1:2- tolerating weaning- adequate augmentation noted- MAPs 76- 101- R foot slightly cooler than L- (+) PT pulses bilaterally with doppler- (-) DP pulses- HO aware & no change from yesterday- L femoral PA line- PAS 32-40 PAD 17-20- Hct 33.1- ionizes Ca 1.03- Ca gluconate 1amp given.
+
+resp- on vent CPAP 15/5/40% @ present- lung sounds coarse- suctioned for small amt tan colored mucous- SpO2 97-99%- Plan is to rest Pt tonight & extubate tomorrow after IABP D/C'd.
+
+gi- abd soft (+) bowel sounds- mushroom cath draining golden/grn colored liquid in large amts- guiac (+)- stool for C diff sent- NGT clamped for meds.
+
+gu- foley draining small amts 20-30cc/hr clear amber- .9NS @ 250cc/hr X1 L infused- no change in U/O noted- however, Pt is putting out lg amts of liquid stool this shift- HO aware- BUN 27 Crea 2.3
+
+neuro- sedated on propofol @ 20mcq/kg/min- moving all extremities when awake- follows simple command- PERL
+
+endo- insulin gtt D/C'd- on insulin SS- BS 193 @ noon- 2u regular insulin given.
+
+ID- T max 101 Po- con't on flagyl, levo.
+
+A- successfully weaning off vent & IABP
+
+P- repeat labs & CO/CI- monitor vs, lung sounds, I&O, & labs- follow temp- pan culture if febrile- offer emotional support to Pt & family- keep them updated on plan of care.
+",,
+13541,28603,16848,0,3305-12-26 18:39:00 EST,3305-12-26 18:52:00 EST,979,"N",1,"Nursing/Other",,"
+
+Addendum: labs & CO/CI repeated- CO 5.3 CI 2.66- ABG on CPAP 15/5/40% 7.39-30-112- mixed venous sat 66%- K 4.8- Ca 7.0 inonized Ca 1.01- Ca gluconate 3 amps given- Phos 5.3- Mg 1.9- glucose 218 4u regular insulin given.
+
+
+
+",,
+13541,28603,16848,,3305-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-27**] 9:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 875**]
+     Reason: ETT placement? cardiopulm process?                          
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            62 year old man S/P cardia arrest, central line placement, atrial and    
+      ventric  pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      ETT placement? cardiopulm process?                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Cardiac arrest.
+     
+     An interaortic balloon pump is present, terminating approximately 2.2 cm below
+     the superior aspect of the aortic knob.  A Swan-Ganz catheter terminates in
+     the left pulmonary artery, and temporary pacing leads are again demonstrated,
+     coursing into the right ventricle.  A central venous catheter is in
+     satisfactory position.
+     
+     The heart size is within normal limits.  There is slight increase in pulmonary
+     vascularity with associated mild perhilar haziness. There is an increasing
+     patchy area of opacity in the right lung base.  A hazy area of opacity in the
+     left mid lung is unchanged, and area of increased opacity in the left
+     retrocardiac region appears improved in the interval.
+     
+     IMPRESSION:
+     
+     1. Bibasilar opacities, worse on the right and improved on the left.  This is
+     most likely due to atelectasis or aspiration.
+     
+     2. Mild congestive heart failure.
+     
+     3. Hazy opacity in left mid lung zone, possibly related to loculated pleural
+     fluid.
+
+",,
+13541,28603,16848,0,3305-12-27 03:48:00 EST,3305-12-27 04:04:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated on mechanical support. Pt. weaned to Psv yesterday. Tolerated well until 12am. Increased WOB. RR 40's. No relief with increased Psv level. Pt. changed to A/c with good results. RR decreasing to low to mid 20's. Abg revealed compensated resp alkalosis/metabolic acidosis. Vt reduced to 500. Current vent setting Vt 500, A/c 12, Fio2 40%, Peep 5. RSBI 133. Balloon pump in place. Increased temp. CXR [**12-26**] increased opacities at lung bases, bilateral pleural effusions. Plan: Continue with mechanical support and wean to Psv as tolerated. 
+",,
+13541,28603,16848,0,3305-12-27 08:01:00 EST,3305-12-27 08:26:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-Sedated and intubated
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VS
+
+O-MS:Intially repsonding to verbal commands, very appropriate on Propofol 35mcg/kg/min. Later becoming tachypenic and Propofol increased to 75mcgs/kg/min for respiratory purposes and later weaned to 50mcgkg/min, in additioin receiving total of 2mg of Atival in divideded doses. 
+CV:HR 92 AV Paced with no noted ectopy, occasionaly pacing over at 95 to 97 when febrile. Travenous paced with a setting of DDD, rate of 92, ma 1 both atrial and ventricle, pacer shut off and intrinsic rate of 87-88, CCU team aware and wanting pacer turned back on. Amiodorone continues at 1mg/min and Heparin at 400u/hr with AM PTT pending. IABP 1:2 and tolerating well with plans to wean this AM 1:3, good augmentation with fair unloading. MAPs intially in the 90s to 100s. Nitro gtt titrated 5ugs/kg/min in attempt to keep MAPs in the 70s, occasionally in the 70s but unable to sustain on Nitro dose in addition to standing IV Hydralazine. MAPs mainly in the 80s for remainder of night. PADs high teens-20s, CO/CI remain unchanged with wean and current wean 1:3. Bilateral groin CDI with dopplerable pulses distal.
+RESP: Breath sounds coarse througout, pt initally doing well on PS 15/5 until around MN when pt becoming increasingly tachypenic into the 30s and 40s, from mid 20s at time pt febrile to 101. Vent switch back to AC. ABG with acidosis with low PCO2 and HCO3, TV decreased to 500 from 550 with improved ABG. Suctioning for small amounts of yellow thick sputum to occasionally white thick.
+GU/GI:Foley draining clear yellow urine, HUO 25-45ccs/hr. Urine output slightly trending down with lower MAPs. ABd soft with +BSs, NGT clamped, continues to pass liquid seedy brown stool.
+ENDO: FS at MN 239 and treated with 8uR with AM FS 279 and treated with 10UR, if FSs continue to be elevated will need to back on Insulin gtt.
+ID:Tm 101.1 and Tc 101.1, pan cx'd with T spike last night, treated with Tylenol at 1AM and later given 1gm this AM at 7am. Continue Flagyl and Levoflox, blood cultures pending from prior. 
+SOC: Brother visiting for briefly last night, will return in AM/PM. Updated by RN. 
+A/P:s/p stent, VT arrest 
+Continue to monitor 
+",,
+13541,28603,16848,0,3305-12-27 17:33:00 EST,3305-12-27 18:17:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- intubated & sedated.
+
+O- see flowsheet for all objective data.
+
+cv- Tele: AV pacing- temp pacer set @ 82 MA 4 threshold 1mA- At times, Pt's own intrinsic rhythm noted- IABP D/C'd R groin- dsg D&I- (+) DP & PT pulses by doppler- R radial A line- B/P 90-124/49-59- L groin  PA line dsg D&I- PAS 27-40 PAD 14-21- After IABP D/C'd, CO 8.2 CI 4.12-
+heparin, ntg, & amiodarone gtts D/C'd- started on heparin SC & amiodarone Po- rare PVC noted- K 4.1 this am- KCL 20meq given- repeat K 3.9- KCL 20meq repeated- Mg 1.8 this am- Mg sulfate 2gms given- repeat Mg 2.4- Phos 4.0- Ca 7.3 Ca gluconate 2amps given- Hct this am 26.2- repeat Hct 27.8- 1u PRBC's ordered & infused without incident- Hct post transfusion 29.7.
+
+resp- vent AC 500/12/40%/5- ABG this am 7.41-31-118 with a mixed venous sat 65%- lung sounds remain coarse- suction small amt tan mucous- SpO2 99-100%- mixed venous sat post transfusion 77%.
+
+neuro- sedated on propofol- gtt up to 75mcq when IABP D/C'd- presently, propofol gtt @ 40mcq/kg/min- plan is to wean down & place Pt on CPAP after 1800 ( needed to be flat X4 hrs after IABP pulled)- Pt is moving all extremities- follows simple commands- PERL.
+
+gi- abd soft (+) bowel sounds- con't with liquid grn/brn stool- quiac (+)- NGT clamped.
+
+gu- foley draining amber colored urine qs- U/O 20-30cc before being transfused- U/O up after- BUN 27 Crea 2.3 this am- repeat 27 & 2.2-
+(+) 1200cc since 12am.
+
+id- T max 101.2 Po- pan cultured last shift- WBC 12.5- con't on flagyl & levo- vancomycin started today- CO/CI up- ? sepsis
+
+endo- blood sugars >250- restarted on insulin gtt- presently, gtt is @ 3u/hr- con't FS q 1 hr.
+
+A- IABP successfully weaned & D/C'd- Pt febrile with rising CO-
+ ? sepsis
+
+P- follow temps- monitor vs, lung sounds, I&O, & labs- repeat blood work @ 2000, including mixed venous sat to check CO- decrease propofol gtt & when awake, place on CPAP- plan is to extubate tomorrow- ? starting TF.
+
+",,
+13541,28603,16848,,3305-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-28**] 8:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 876**]
+     Reason: cardiopulm process? ETT & swan placement?                   
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             62 year old man S/P cardia arrest, central line placement, atrial and    
+       ventric  pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      cardiopulm process? ETT & swan placement?                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Central line placement.
+     
+     AP ERECT CHEST: Compared with 1 day prior, the ETT remains approximately 1
+     1/2-2 cm above the carina. A transfemoral Swan catheter tip is better seen on
+     today's study and lies within the left pulmonary artery. The transfemoral and
+     right IJ pacer electrodes are also better visualized, and in satisfactory
+     placement. The intra-aortic balloon pump is not visualized on today's study,
+     and possibly has been removed. Otherwise, the bibasilar opacities are
+     unchanged. There is again pulmonary congestion suggestive of cardiac failure.
+     
+     IMPRESSION: Lack of visualization of the intra-aortic balloon pump, which may
+     represent interval removal. Persistent cardiac failure and bibasilar
+     opacities.
+
+",,
+13541,28603,16848,0,3305-12-28 00:51:00 EST,3305-12-28 00:58:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings unchanged. Vt 500, A/c 12, Fio2 40%, and Peep 5. Low PAP/Plateau pressures. Bs slighlty coarse R Lung, clear L Lung. Sx'd for sm amounts of thick tan/blood tinged secretions. Abg reveals compensated metabolic acidosis.  Pt. sedated. Plan: Decreasing sedation. Continue with mechanical support and wean to Psv as tolerated. 
+",,
+13541,28603,16848,0,3305-12-28 06:27:00 EST,3305-12-28 06:47:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-Sedated and intubated 
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS VS
+
+O-MS:Propofol decreased to 35cc/hr. Appropriate and following commands inconsistent at times. MAEs on bed and occasionally pulling at restraints. 
+CV:HR 82-88, AVPaced with occasional intrinsic rate, upon recieval pt not A pacing, mA turned up without effect, sensitivity increased to .08 from .04 with capture. CCU team aware. No noted ectopy, lytes stable, continues PO Amio. SBPs 120s to 150s. Continues Hydralazine and Nitro remaining off. Bilateratl groin [**Last Name (un) 4920**] intact with dopplerable pulses distal.
+RESP:Breath sounds coarse and diminished at bases,remaining on AC for the night, attempting to place back over to PS but RSBI > 100. Suctioning for small amount to tan-yellow secretions, prior to a day ago clear white, sputum cx from [**12-27**] with GPC, resp culture pending. 
+GU/GI: Foley draining adequate amounts of CYU, pt autodiuresing most of night currently(+) 900ccs for LOS. BUN/Creat trending down. BS (+),continue to pass lots of liquid stool through rectal tube, cxs pending, OGT clamped.
+ID:Low grade, Tc 99.6. Continues Vanco, Levo and Flagyl
+ENDO: Insulin gtt off since 1AM, Last BS at 6AM 105.
+A/P: s/p VT/VF arrest, cardiogenic shock doing well off IABP support ,pressors, and inotropes
+Wean to extubate today
+Continue to monitor 
+",,
+13541,28603,16848,0,3305-12-28 18:45:00 EST,3305-12-28 18:55:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""Can I have something to drink?""
+O: see carevue for all objective data
+cv: r fem atrial temp pacing wire d/c today, vent wire in place via RIJ, [**Last Name (un) 1780**] 2.8m MA 10 rate set 80, pt in sr rate 85-107. bp 120-160/55-70. swan d/c from l fem. bilateral groins d/i.
+resp: ps wean this am, and extubated ~ noon w/o difficulty, now on face tent at 35% w/ sats 98%.
+neuro: propofol off this am. upon extubation pt slightly confused, thinking he was at home, improving throughout day, cooperative w/ care. 
+gi: taking sm amts ice chips w/o difficulty
+gu: foley draining cl yel urine, 40-100cc/hr, started on 40mg po lasix.
+id: low grade temp 99-100.2
+end: bs wnl
+skin: intact
+social: brother in to visit, and updated on pt's condition.
+A: sucessful extubation, sr no vea
+P: ? EP studies in am, monitor rhythm, resp status.
+",,
+13541,28603,16848,,3305-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-29**] 7:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 877**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              62 year old man S/P cardia arrest, central line placement, atrial and   
+         ventric  pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Removal of NG and ETT.
+     
+     AP SEMI-UPRIGHT CHEST: Compared with 1 day prior, there has been interval
+     removal of the ETT, NG tube, and femoral PA catheter. There has also been
+     removal of the pacer electrodes. There is improved lung aeration bilaterally
+     and clearing of the bilateral infiltrates and pleural effusions. No new
+     consolidations. The right SVC line is unchanged.
+     
+     IMPRESSION: Improved cardiac failure with decreasing bilateral infiltrates and
+     effusions. Interval removal of ETT, NGT, pacer electrodes, and femoral central
+     line.
+
+",,
+13541,28603,16848,0,3305-12-29 04:25:00 EST,3305-12-29 04:36:00 EST,1202,"N",1,"Nursing/Other",,"
+
+7P-7A
+S: ""I DON'T HEAR VERY WELL""
+O/A: PT HOH BUT A/O ABLE TO FOLLOW COMMANDS, MOVES EXTREMETIES, GET NEEDS MET. 
+RESP: PT ON 3L N/C SATS 95-99% RESPS 21-31, LUNGS CLEAR BUT DIMINSHED, HAS PRODUCTIVE COUGH AT TIMES, C/O SORE THROAT/CHEST FROM COUGHING PT GIVEN TYLENOL 650, AMBIEN 5MG AND A LOZENGE WITH GOOD EFFECT PT ABLE TO [**Doctor Last Name **] THROUGH THE NIGHT
+CV: PT SR-ST 99-102, BP 140-170/60, INCREASED CAPTOPRIL TO 12.5 PT TOLERATES WELL, HAS VENT WIRE IN PLACE HAS NOT HAD PACED BEATS RATE SET AT 80, GROINS DRY AND INTACT, PALP PULSES
+GI: PT NPO AFTER MN ABD SOFT POS BS NONTENDER, SWALLOWS WATER WITH PILLS FINE
+GU: RECTAL TUBE IN PLACE DRAINING GREENISH LIQ, FOLEY DRAINING YELLOW URINE QS PT NEG 2L LOS
+ID: PT HAS LOW GRADE TEMP, MAX 99.7 PO
+SKIN INTACT
+PLAN: PT TO POSSSIBLY GO TO EP STUDIES HAVE AICD PLACED, OTHERWISE AM LABS PENDING, MONITOR OUTPUT
+",,
+13541,28603,16848,0,3305-12-29 15:01:00 EST,3305-12-29 15:18:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- ""I'm afraid to go for my test today!""
+
+O- see flowsheet for all objective data.
+
+cv- Tele: SR-St HR 81-105- no ectopy noted- occ paced rhythm noted- temp pacer RIJ- mode VVI set @ 80 Ma 10- R radial Aline D/C'd- B/P 130-184/56-79- tolerating increase doses of captopril- started on lopressor- Hct 36.2- K 4.8- Mg 1.7 Mg sulfate 2gms IV [**Hospital **] transferred to lab for EPS & insertion of AICD @ 2pm.
+
+resp- In O2 3L via NC- lung sounds with bibasilar crackles this am- diminished @ bases this pm- resp even, non-labored- SpO2 96-99%.
+
+neuro- HOH- alert oriented X3- moving all extremities- pleasant & cooperative- follows command.
+
+gi- NPO since 12am- abd soft (+) bowel sounds- mushroom cath draining grn liquid colored stool.
+
+gu- foley draining clear yellow urine qs- (-) 1800cc since 12am- BUN 20- Crea 1.6
+
+A- To lab for EPS & insertion of AICD
+
+P- monitor vs, lung sounds, I&O, & labs- offer emotional support to Pt & family- keep them updated on plan of care- ? transfer to floor tomorrow.
+
+
+",,
+13541,28603,16848,0,3305-12-29 19:14:00 EST,3305-12-29 19:18:00 EST,979,"N",1,"Nursing/Other",,"
+
+Addendum: Pt returned from EPS @ 6pm- 2 venous sheaths in R groin- slow oozing noted- aterial sheath L groin- no oozing- ACT done 239- Fellow called & in to see Pt R groin injected with lido/epi- good effect noted- no further oozing- captopril 37.5mg po given- C/O nausea- HO called- zofran 4mg IV ordered & given with good effect.
+",,
+13541,28603,16848,0,3305-12-30 05:40:00 EST,3305-12-30 06:17:00 EST,1202,"N",1,"Nursing/Other",,"
+
+7p-7a
+s: ""can i have a sleeeping pill?""
+o/a: pt a/o very hoh, moves all extremeties, follows commands, 
+resp: pt on 2l n/c, sats high 90's, lungs had few scattered crackles otherwise stable, no c/o sob
+cv: pt 78-85 hr. pt was vent paced rate was set at 80 because his intrinsic rate was 78. at 2230 pacer checked vv1 demand pacer only, ma 10/[**Last Name (un) 1780**] 2.0 rate dropped to 70 d/t pt needs atrial component and his own rhythm is sr, ho aware and bp stable with own rhythm. sheaths out at 9p both groins c/d scant amt oozing, transparent dsgs applied, dopple pulses, pt has been npo after mn, they were unable to induce vt during ep studies yesterday, they think it was because he had been on amiodaorne po which was held now, therefore no ablation or aicd placed and plan is to try again today however pt has low grade fever and many tubes that the md was concerned about last hs who removed the sheaths, pt's sq hep held also.
+gi: abd soft nontender, pos bs, taking sips well with meds
+gu:  foley draining yellow urine in good amts, rectal tube in place and draining greenish loose, pt 3-4l- los
+skin intact
+plan: npo after mn for possible repeat of procedure
+id: pt low grade temp 99.5 max po, antibx d/ced 
+",,
+13541,28603,16848,0,3305-12-30 17:12:00 EST,3305-12-30 17:24:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""What time will I have the pacemaker tomorrow?""
+O: see carevue for all objective data
+cv: transvenous pmr remains in place via rij. set at VVI, demand at 60, MA 10, sens1. Pt in sr 74-86. bp 110-134/60.
+resp: RA SAT 94-97%, lungs cta
+gi: poor appitite, mushroom catheter removed, very sm amt liq stool today. Brief period of nausea ~ 1200, resolved w/o intervention.
+gu: foley d/c, vdg qs.
+id: tm 99.2 po, GPR in anaerobic bottle from [**12-25**]. HO aware
+skin: intact
+neuro: intact, cooperative
+end: bs 125-143
+A: hemodynamically stable in sr awaiting AICD in am
+P: NPO after MN, monitor rhythm.
+",,
+13541,28603,16848,,3305-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3305-12-31**] 8:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 878**]
+     Reason: pacer wire placement, chf                                   
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               62 year old man S/P cardia arrest, central line placement, atrial and  
+           ventric  pacer wire placement. 
+     REASON FOR THIS EXAMINATION:
+      pacer wire placement, chf                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Congestive heart failure.
+     
+     AP SEMI-ERECT CHEST:  Compared with [**3305-12-29**], the right IJ central
+     venous catheter tip is located within the distal right atrium.  There is no
+     identifiable pneumothorax.  There is a density within the mid left lung,
+     possibly representing fluid or atelectasis in the fissure.  There is a small
+     left pleural effusion.  The cardiac and mediastinal contours are stable.
+     
+     IMPRESSION:  Improving cardiac failure.  New ill-defined density in the
+     anterior segment of the upper lobe, possibly representing fluid in the fissure
+     vs. focal atelectasis/consolidation.  The right IJ catheter tip is located
+     within the distal right atrium.
+
+",,
+13541,28603,16848,0,3305-12-31 04:09:00 EST,3305-12-31 04:24:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-""I'm going for surgery in the morning.""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VS
+
+O-MS:A/O/X/3. Very pleasant and cooperative with care, given Ambien at HS and doing well. Sleeping most of night, awaken at 2AM and attempting to get OOB, stating ""have to go to the bathroom,"" easily re-oriented, pt stating, ""I was having a dream I was at home.""
+CV: HR 80s, NSR with no noted ectopy. Transvenous wire intact and set at VVI with rate of 60, has not required any use overnight. SBP 130 to 150s, tolerating Captopril and Lopressor dose well. EKG done secondary to persistant c/o nausea with no changes. Groin sites CDI and bilateral feet warm to touch. 
+RESP: LS clear and diminshed at bases, rarely with exp wheezes at bases. Given alb treatment times one with resolution. O2Sats on RA 92-96%. Denies SOB. Productive cought, light yellow and clear in appearance.
+GU/GI:Voiding in urinal with difficulty time two this shift, urine of adequate amounts and clear and yellow in appearance. C/o nausea which intially received Maalox for with some resolution, later nause re-occuring and given 4mg of Zofran with excellent result, passing loose watery stool times one in moderate to large amount, in additon to Zofran pt feeling better after passing stool. Appetite remains poor, taking POs well. 
+ID: Low grade temps, currently on No Abx. Continue to monitor.
+A/P: 62 yo male with long PMH for CAD including CABG p/w VT arrest     requiring pressors, inotropic and IABP support, much improved to go for PPM today,? AICD as well. 
+Continue to monitor 
+Possible call out to floor
+",,
+13541,28603,,,3306-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3306-1-1**] 8:54 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 879**]
+     Reason: placement of icd                                            
+     Admitting Diagnosis: CARDIAC ARREST
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        62 year old man s/p cardiac arrest        , now s/p icd placement             
+                                
+     REASON FOR THIS EXAMINATION:
+      placement of icd                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  ICD placement.
+     
+     AP AND LATERAL CHEST:  Compared with one day prior, there has been interval
+     insertion of a dual lead placemaker with the electrodes in satisfactory
+     position.  There is no pneumothorax or focal infiltrate.  There is discoid
+     atelectasis at the left lung base.  There are no pleural effusions or vascular
+     congestion.  There is no cardiomegaly.
+     
+     IMPRESSION:  Satisfactory placement of pacer electrodes.  No pneumothorax,
+     pneumonia, or cardiac failure.
+
+",,
+13541,,,,3306-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3306-6-9**] 12:21 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 880**]
+     Reason: Hx of approx 4 mon of Chest, upper back, and bilat scapular 
+     ICD9 code from order: 414.04
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with CABG '[**00**], Cardiac arrest [**12-23**], dual chamber ICD
+      implanted [**10-23**]
+     REASON FOR THIS EXAMINATION:
+      Hx of approx 4 mon of Chest, upper back, and bilat scapular pain, ? etiol
+      Hx Cardiac  arrest with resuscitation in [**12-23**], ? Fxd ribs
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: S/P cardiac arrest and resuscitation with upper back, chest and
+     scapular pain.
+     
+     COMPARISON: [**3306-1-1**].
+     
+     CHEST, PA & LATERAL RADIOGRAPH: The cardiac, mediastinal and hilar contours
+     are stable in appearance. The dual lead pacemaker tips again overlie the right
+     atrium and right ventricle. The lungs are clear. The osseous structures are
+     unremarkable. Again noted is left carotid artery metallic stent and median
+     sternotomy wires.
+     
+     IMPRESSION: No radiographic evidence of acute cardiopulmonary disease. No
+     findings that account for the patient's symptoms. Please note that standard
+     chest radiographic technique is insensitive for evaluation of the ribs. 
+
+",,

@@ -1,0 +1,1089 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13600,,,,2601-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-10**] 9:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1695**]
+     Reason: eval: PNA                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with delta MS                                                   
+     REASON FOR THIS EXAMINATION:
+      eval: PNA                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2601-12-10**] AT 21:56 HOURS
+     
+     HISTORY:  Mental status changes.
+     
+     COMPARISON:  Multiple priors, the most recent dated [**2597-7-12**].
+     
+     FINDINGS:  Lung volumes are markedly diminished.  There is hydrostatic edema
+     with engorgement of the vascular pedicle.  There is a markedly tortuous
+     atherosclerotic aorta.  The cardiac silhouette is enlarged but stable.  No
+     definite effusion is seen.  Please note the study is degraded by marked
+     rotation.  The bones are diffusely osteopenic.
+     
+     IMPRESSION:  Hydrostatic edema consistent with cardiac decompensation.  If
+     clinically feasible, consider PA and lateral views of the chest for further
+     evaluation.
+                                                                           
+
+",,
+13600,,,,2601-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-10**] 9:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1696**]
+     Reason: CHANGE IN MS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with delta MS                                                   
+     REASON FOR THIS EXAMINATION:
+      eval: bleed                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE HEAD WITHOUT CONTRAST, [**2601-12-10**], AT 22:52 HOURS
+     
+     HISTORY:  Altered mental status.
+     
+     COMPARISON:  [**2595-3-11**].  The report of a MR of the head in [**2595-3-17**] has
+     also been reviewed.  Motion degrades images through the skull base.
+     
+     Small mucous retention cysts versus polyps are again noted scattered
+     throughout the paranasal sinuses.  No significant interval change is noted. 
+     There are no air fluid levels.  Again seen is marked rightward nasal septal
+     deviation.  The mastoid air cells are clear.  The globes are intact with
+     lenses in place.
+     
+     Intracranially, the ventricles are mildly prominent but remain midline. 
+     Likewise, the cortical sulci and subarachnoid cisterns are prominent.  These
+     findings reflect an overall generalized brain parenchymal volume loss which
+     are within normal limits given patient's stated age.  The [**Doctor Last Name 63**] matter white
+     matter interface is well defined.  There is no CT evidence of acute cortical
+     stroke.  No intracranial hemorrhage is identified.
+     
+     IMPRESSION:  Limited examination secondary to motion artifact.  No gross acute
+     process identified.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 1684**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1685**]
+",,
+13600,25557,,,2601-12-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+13600,25557,,,2601-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-11**] 3:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1697**]
+     Reason: assess interval change, confirm ET tube placement           
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with delta MS                                                  
+       
+     REASON FOR THIS EXAMINATION:
+      assess interval change, confirm ET tube placement                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 3:23 A.M. ON [**12-11**].
+     
+     HISTORY:  Mental status changes.  New ET tube.
+     
+     IMPRESSION:  AP chest compared to [**12-10**]:
+     
+     Mild pulmonary edema has changed in distribution, now predominantly
+     right-sided, but not in overall severity.  Tip of the endotracheal tube is at
+     the lower margin of the clavicles in standard placement.  The cuff may be
+     mildly overinflated.  Nasogastric tube passes into the stomach and out of
+     view.  Borderline cardiomegaly and mediastinal vascular engorgement unchanged.
+     No pleural effusion or pneumothorax.
+                                                                           
+
+",,
+13600,25557,,,2601-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-11**] 7:39 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1699**]
+     Reason: assess for ischemic event                                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with AMS, Head CT negative (though limited by motion artifact), 
+      now intubated
+     REASON FOR THIS EXAMINATION:
+      assess for ischemic event                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI brain and MRA of the head.
+     
+     CLINICAL INFORMATION:  Patient with EMS and negative head CT now intubated to
+     rule out ischemic event.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR T2 susceptibility and diffusion axial images
+     of the brain were obtained.  3D time-of-flight MRA of the circle of [**Location (un) **] was
+     acquired.
+     
+     FINDINGS BRAIN MRI:
+     The diffusion images demonstrate no evidence of acute infarct.  There is
+     moderate prominence of ventricles and sulci indicating brain atrophy.  There
+     are mild changes of small vessel disease seen.  There is no midline shift or
+     hydrocephalus.  Foci of increased signal in both sylvian fissures on FLAIR
+     images are secondary to pulsation artifacts.  Retained secretions are seen in
+     the nasopharynx.  Mild mucosal thickening is seen in the sphenoid sinuses.
+     
+     IMPRESSION:  No evidence of acute infarct.
+     
+     MRA OF THE HEAD:
+     Head MRA demonstrates normal flow signal within the arteries of anterior and
+     posterior circulation.  No evidence of vascular occlusion, stenosis or an
+     aneurysm greater than 3 mm in size are seen.  The distal right vertebral
+     artery ends in posterior inferior cerebellar artery, a normal variation.
+     
+     IMPRESSION:  Normal MRA of the head.
+                                                                           
+
+",,
+13600,25557,,,2601-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-11**] 7:39 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1699**]
+     Reason: assess for ischemic event                                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with AMS, Head CT negative (though limited by motion artifact), 
+      now intubated
+     REASON FOR THIS EXAMINATION:
+      assess for ischemic event                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI brain and MRA of the head.
+     
+     CLINICAL INFORMATION:  Patient with EMS and negative head CT now intubated to
+     rule out ischemic event.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR T2 susceptibility and diffusion axial images
+     of the brain were obtained.  3D time-of-flight MRA of the circle of [**Location (un) **] was
+     acquired.
+     
+     FINDINGS BRAIN MRI:
+     The diffusion images demonstrate no evidence of acute infarct.  There is
+     moderate prominence of ventricles and sulci indicating brain atrophy.  There
+     are mild changes of small vessel disease seen.  There is no midline shift or
+     hydrocephalus.  Foci of increased signal in both sylvian fissures on FLAIR
+     images are secondary to pulsation artifacts.  Retained secretions are seen in
+     the nasopharynx.  Mild mucosal thickening is seen in the sphenoid sinuses.
+     
+     IMPRESSION:  No evidence of acute infarct.
+     
+     MRA OF THE HEAD:
+     Head MRA demonstrates normal flow signal within the arteries of anterior and
+     posterior circulation.  No evidence of vascular occlusion, stenosis or an
+     aneurysm greater than 3 mm in size are seen.  The distal right vertebral
+     artery ends in posterior inferior cerebellar artery, a normal variation.
+     
+     IMPRESSION:  Normal MRA of the head.
+                                                                           
+
+",,
+13600,25557,,,2601-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-11**] 12:54 PM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 1698**]
+     Reason: Pls eval for aortic dissection, other etiologies of widened 
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with widened mediastinum on CXR                                 
+     REASON FOR THIS EXAMINATION:
+      Pls eval for aortic dissection, other etiologies of widened mediastinum         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  83-year-old man with widened mediastinum on chest x-ray.
+     
+     TECHNIQUE:  Multidetector CTA images of the chest were obtained without and
+     with IV contrast.  80 cc Optiray.  Multiplanar reformatted images were
+     obtained.
+     
+     CTA CHEST WITHOUT AND WITH IV CONTRAST:  The aorta is calcified and there are
+     prominent atherosclerotic plaques, however there is no evidence of dissection.
+     The patient is status post coronary bypass surgery.  Although this is not a
+     gated coronary exam, no flow is observed distally in the right bypass graft. 
+     There is moderate cardiomegaly.  Significant coronary calcifications are
+     identified.  The pulmonary arteries are patent without evidence of filling
+     defects to suggest pulmonary embolism.  Prominent mediastinal lymph nodes are
+     identified.  There is no axillary adenopathy.  There is mild interstitial and
+     septal thickening.  Note is made of foci of high-density material
+     predominantly located in both lower lobes.  There is bilateral lower lobe
+     atelectasis and small bilateral pleural effusions.  No pericardial effusions
+     are identified.  Visualized portions of the upper abdomen are remarkable for
+     gallstones.  A nasogastric tube is identified.
+     
+     BONE WINDOWS:  Degenerative changes of the thoracic spine are observed.  There
+     are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1.  No evidence of aortic dissection.
+     2.  High density material predominantly in the lower lobes.  This is most
+     consistent with aspirated barium.  Bilateral lower lobe atelectasis and small
+     bilateral pleural effusions.
+     3.  Although this is not a gated coronary CTA, no definite flow is identified
+     in the right bypass graft past its proximal portion.
+     4.  Prominent mediastinal lymph nodes.
+     5.  Cholelithiasis.
+                                                                           
+
+",,
+13600,25557,,,2601-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13600,25557,16928,0,2601-12-11 04:45:00 EST,2601-12-11 04:49:00 EST,8187,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt intubated with 7.5 ETT in ED for resp failure. Pt currently on full vent support in MICU. BS clear bilaterally, suctioning for minimal clear thin secreions. pH WNL on last two ABGs. See CareVue for hx, details and specifics. 
+Plan: ? CT scan today. wean as tolerated. 
+",,
+13600,25557,16928,0,2601-12-11 05:42:00 EST,2601-12-11 06:01:00 EST,7799,"N",54,"Nursing/Other","MICU Nursing Admission Note","
+MICU Nursing Admission Note
+This is an 83 year old male who presented to the ER with decreased responsiveness. Several days prior to arrival, the pt began complaining of joint pains and decreased activity tolerance. This progressed to increased somnolence associated with slurred speech and episodes of unresponsiveness, and jerking of all extremities for several minutes at a time. He has a significant history of CHF with nml EF, CAD, type II DDM, neuropathy, hyperlipidemia, COPD on home O2, bipolar d/o, OSA, seizure in [**2596**], and superficial melanoma. He was found to have subtherapeutic anticonvulsant levels and was remarkably hypercarbic. He arrived to the MICU at 0445 in the care of [**Name6 (MD) **] ER RN, intubated and sedated with bolus midaz / ativan.
+
+Please reference the FHP for full list of meds. He is allergic to ibuprofen.
+
+Current ROS:
+Neuro: Now sedated on propofol at 10mcg/kg/min. Arrived having received midaz and ativan just prior. Not fully awakened as reportedly pt had several episodes of ventricular ectopy and hypotension. Withdraws all extremities to nailbed pressure. Opens eyes to pain. Does not follow commands. Cough / gag / corneals intact. Pupils 3mm, equal, round, briskly reactive and accomodating to light. Has episodes of non-purposeful total body shaking after stimulation, but resolves without intervention, and has been seen by the MICU team.
+
+Pain: Appears comfortable when adequately sedated. Bites on ETT, gums when undersedated.
+
+Resp: Intubated and ventilated on assist control, pls reference RRT note. Latest ABG improving. Lungs are clear in all fields. SPO2 is >98%. Suctioned for moderate amounts of thick yellow sputum. Cxrays done in ER.
+
+CV: Sinus brady rhythm with rare PVC's. Left radial arterial line placed by MD. [**First Name (Titles) **] [**Last Name (Titles) 5020**] for specific vital signs. Palpable pulses in all extremities. No episodes of hypotension in MICU. Needs p-boots. PIVx3 in place, awaiting PTT before CVL placement. Heparin gtt on hold as per Dr [**First Name (STitle) **]. Troponin 0.21 in ER; repeat pending.
+
+GI: Abd obese, non-distended, bowel sounds normoactive. OGT in place, sumping sm amts of brown liquid. Dried black stool in perirectal area. ?Hemmorhoidal bleeding in sm amts.
+
+GU: Foley to gravity with poor output initially, but responded well to IVF bolus. Amber urine. Urine lytes sent.
+
+Endo: FSBG=123
+
+Lytes: WNL, none repleted
+
+Skin: Intact
+
+Social: Pt's gf/wife (?) called in to unit when pt first arrived; asked to check back in an hour but she has not returned.
+
+Plan:
+Maintain safety
+Pain / sedation management
+MRI/MRA brain today
+Notify team of acute changes
+
+Discussed frequently with Dr [**First Name (STitle) **]
+",,
+13600,25557,16928,0,2601-12-11 15:54:00 EST,2601-12-11 15:56:00 EST,3975,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+  Patient remains on A/C with goal of keeping PaCo2 around 65. Rate and tidal volume decreased with abg pending. BS diminished bilat. MDIs albuterol and atrovent given Q4. Patient with hx of home O2 at 4lpm and steroid use. Transported today to CT scan of chest. MRI/MRA of head pending. He remains sedate, withdraws to painful stimulus. Suctioned for thick yellowish sputum. Plan to continue with supportive care and monitoring.
+",,
+13600,25557,16928,0,2601-12-11 16:52:00 EST,2601-12-11 17:32:00 EST,8753,"N",54,"Nursing/Other","7a-7p MICU Nursing Progress Note","
+7a-7p MICU Nursing Progress Note
+Events: Stat Chest CT done today to r/o aortic dissection/PE secondary to widened mediastinum on CXR (results pending). Bedside ECHO done. Left Subclavian placed.
+
+Review of Systems: 
+
+Neuro: Pt. sedated on Propofol gtt; currently running @ 20 mcg/kg/min. W/D Upper/LE to pain; however, not opening eyes or following commands. PERRL, brisk. Myoclonic jerking movements noted @ times; resolve spontaneously. Appears comfortable. Sedation was stopped this afternoon for neuro exam; pt. was not opening eyes but was w/d all extrem to touch, able to squeeze his right hand on command. Loaded w/ Dilantin in ED as pt was initially subtherapuetic. Recent level = 11.6; now on maint dose TID. Awaiting MRI/A of brain and EEG.
+
+CV: Heart rate 60's-90's, SR-Sinus Arrhythmia @ times. Frequent PVC's this afternoon. Repeat lytes revealed K of 3.5. 60 mEq KCL given via OGT. CVP 17-18. ABP 120's-150's / 40's-60's. + LE edema noted, L > R. HCT stable @ 26. Per report, stool was guaiac + in ED, though - NG lavage. No active bleeding noted. Cardiac enzymes trending down; Trop this am = .19 (from .21), CK 83 (from 124). 3rd CK, CK-MB sent this eve. Heparin gtt stopped d/t enzymes trending down.
+
+Resp: Pt. intubated on ACV. Most recent settings: 550x14/5/60% (pls refer to carevue for vent changes throughout the day). ABG (from 1800): 7.41/71/119/47. No further changes made @ this time. Goal PCo2 is ~ 65. LS clear throughout. O2 sat 98-100%. No spontaneous respirations noted. CXR c/w pulm edema.
+
+GI/GU: Abdomen obese, soft, + BS. No bm today. OGT in place; capped. Foley draining sufficient amts of clear/yellow urine. 
+
+Integ: Skin intact; multiple ecchymotic areas on upper extrem from labs/IVs.
+
+Access: Left Subclavian (4 lumen); WNL. Right Radial A-Line placed this afternoon, as left a-line infiltrated this am. #20G PIV RAC from ED; wnl.
+
+Social: Wife in to visit today and spoke w/ RN and MDs re: POC, disease process. Wife's telephone number is on board in pts room. Pt is a full code per wife.
+
+Plan: MRI/A of brain this eve, EEG tomorrow, continue antiepileptics, continue statin/ASA for NSTEMI and start B-Blocker/ACE as tolerated, Routine ICU care and monitoring. 
+
+
+",,
+13600,25557,16928,,2601-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-12**] 9:48 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1701**]
+     Reason: please evlauated for worsening infiltrate                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           83 year old man with delta MS, hypercarbic respiratory failure, intubated 
+      more hypoxic                                              
+     REASON FOR THIS EXAMINATION:
+      please evlauated for worsening infiltrate                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST.
+     
+     HISTORY:  MS, respiratory failure, hypoxia.
+     
+     One portable view.  Comparison with previous study done earlier the same day. 
+     There is evidence for interval worsening of interstitial pulmonary edema. 
+     Bilateral pleural effusions are again demonstrated.  The right pleural
+     effusion is less apparent and hazy density at the left base has increased,
+     possibly due to change in patient position.  The patient is status post median
+     sternotomy, as before.  An endotracheal tube and nasogastric tube remain in
+     place.  The tip of the nasogastric tube is off of the bottom of the film.  A
+     left subclavian catheter is in central position, as before.
+     
+     IMPRESSION:  Evidence for interval worsening of interstitial edema. 
+     Persistent bilateral pleural effusions.
+                                                                           
+
+",,
+13600,25557,16928,,2601-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-12**] 9:48 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 1701**]
+     Reason: please evlauated for worsening infiltrate                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           83 year old man with delta MS, hypercarbic respiratory failure, intubated 
+      more hypoxic                                              
+     REASON FOR THIS EXAMINATION:
+      please evlauated for worsening infiltrate                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST.
+     
+     HISTORY:  MS, respiratory failure, hypoxia.
+     
+     One portable view.  Comparison with previous study done earlier the same day. 
+     There is evidence for interval worsening of interstitial pulmonary edema. 
+     Bilateral pleural effusions are again demonstrated.  The right pleural
+     effusion is less apparent and hazy density at the left base has increased,
+     possibly due to change in patient position.  The patient is status post median
+     sternotomy, as before.  An endotracheal tube and nasogastric tube remain in
+     place.  The tip of the nasogastric tube is off of the bottom of the film.  A
+     left subclavian catheter is in central position, as before.
+     
+     IMPRESSION:  Evidence for interval worsening of interstitial edema. 
+     Persistent bilateral pleural effusions.
+                                                                           
+
+",,
+13600,25557,16928,,2601-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-12**] 3:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1700**]
+     Reason: ? interval change                                           
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old man with delta MS, hypercarbic respiratory failure, now intubated 
+                                                      
+     REASON FOR THIS EXAMINATION:
+      ? interval change                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     HISTORY:  Change in mental status, respiratory failure, intubation.
+     
+     One portable view at 4 a.m.  Comparison with [**2601-12-11**].  There is interval
+     improvement in interstitial pulmonary edema.  There is increased hazy density
+     at the lung bases consistent with pleural fluid which is more apparent and
+     presumably increased.  The heart appears large although cardiac size may be
+     exaggerated by AP technique.  An endotracheal tube and nasogastric tube remain
+     in place.
+     
+     IMPRESSION:  Interval improvement in edema.  Evidence of bilateral pleural
+     effusions which may have increased since the previous study.  An area of
+     consolidation at the lung bases cannot be excluded.
+                                                                           
+
+",,
+13600,25557,16928,0,2601-12-12 02:24:00 EST,2601-12-12 02:27:00 EST,8187,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains intubated with 7.5 ETT. Pt currently on full vent support with no vent changes made this shift. BS slightly coarse bilaterally, suctioning for small amounts of thick yellow secretions. Pt tranported to MRI and back without any incident. MRI results pending. See CareVue for specific values and details. 
+Plan: Maintain PaCO2 in 60's. Wean as tolerated. 
+",,
+13600,25557,16928,0,2601-12-12 05:13:00 EST,2601-12-12 05:29:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Neuro: Pt. is sedated on 20mcg/kg min propofol. He withdraws to pain and opens his eyes if Propofol is shut off. He MAE and has episodes of shaking involving all extremities which are provoked by stimulation and are self-limiting. TEam would like Propofol turned off prior to rounds to assess pt't neuro status. Plan is to do EEG today.
+
+CV: HR 60s-70s NSR with very rare PVCs, ABP 120s-160s/40s-60s, CVP in teens. Pt. has R radial arterial line which is patent and WNL, and L SC TLC which is also WNL.
+
+Resp: Pt. remains vented on AC 14X555/60%/5. RR in teens, lung sounds are clear to all lobes. Pt. occasionally sounds course in upper airways but has minimal secretions when suctioned.
+
+GI: BSX4, no BM on shift. NG tube is in place.
+
+GU: UO was adequate all night until am when it dropped below 10cc/ hour. Team called and pt. given 250cc NS bolus.
+
+Endo: Blood glucose covered with sliding scale.
+
+Skin: Intact
+
+Social: No contact overnight
+
+",,
+13600,25557,16928,0,2601-12-12 15:12:00 EST,2601-12-12 15:14:00 EST,3975,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+  Patient weaned to PSV of 5/5, 45% today. PaCO2>74 and patient's PSV was increased to 15 to rest. He is receiving blood this afternoon. BS are=bilat, diminished RLL. Suctioned for med amounts of light pale yellow sputum. Plan to continue with supportive care and monitoring at this time.
+",,
+13600,25557,16928,0,2601-12-12 15:42:00 EST,2601-12-12 16:34:00 EST,6922,"N",54,"Nursing/Other",,"
+
+MICU Nursing Progress Note 0700-1900
+
+Code: Full
+Allergies: Ibuprofen
+
+Events: Unsuccessful attempt to wean off ventilator/extubate, multiple vent changes made, tranfused with 1 unit PRBCs, spiked temp to 101.0, pancultured, EEG done.  
+
+Neuro: Pt's sedation weaned to 10mcg/kg/min of Propofol. Arousable to voice, MAE on bed, follows commands. Pt attempting to mouth words to staff, complained of pain in back and legs. Repositioned with some comfort. Mild shaking of hands/legs noted at beginning of shift. EEG done today, results pending. MRI/MRA results are negative for infarct. Pt will attempt to grab for ETT, remains restrained for pt safety.  
+
+CV: HR NSR 68-93, with rare PVCs. ABP 106-171/51-71. CVP 10-20's.  Edema noted to bilateral arms and legs. Crit 26.0, transfused with 1 unit PRBCs, crit due to be drawn at 2000. Metoprolol dose increased to 37.5mg TID for increasing systolic BP.  If pt continues to be hypertensive ? increasing dose to 50mg TID.  
+
+Resp: Attempted to wean from vent but was unable due to increase in CO2 levels. Placed on PSV.  Most recent ABG on PSV 5/15/45% was 7.43/65/73/45. Goal PaCO2 65-70. Lung sounds clear bilaterally. Suctioned q2-3h for small amounts of thick, yellow secretions. RR 15-24 with sats >90%.   
+
+GI: Bowel sounds present, no stool this shift. [**Name6 (MD) **] ask MD to begin TF since pt will not be extubated today. OGT patent and clamped, placement checked.  
+
+GU: Foley patent and draining clear, yellow urine. UO ranges 30-115cc/hr. TFB +100 since midnight.  
+
+ID: Tmax 101.0, given PRN tylenol, temp decreased to 100.8. Blood cultures sent x 2 since this is first time pt has spiked. ? Pt to start ABX today.  
+
+Endo: BS 147-162, fixed dose of NPH dded and sliding scale changed.  Please see med book.  
+
+Access: Left subclavian quad lumen central line, right radial a-line.  
+
+Social: Wife in to visit most of afternoon, updated by RN and MD on pt's plan of care.  
+
+Plan:
+follow up blood cultures
+monitor temp
+begin ABX therapy
+continue to wean vent as tolerated by pt. 
+
+",,
+13600,25557,16928,,2601-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-13**] 3:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1702**]
+     Reason: Please evaluate for RLL collpase                            
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          83 year old man with delta MS, hypercarbic respiratory failure,now 
+      intubated                                                  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for RLL collpase                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     HISTORY:  Hypoxia, intubation.
+     
+     One view.  The right lateral chest wall is not included.  Comparison is made
+     with the previous study of [**2601-12-12**].  There are persistent bilateral pulmonary
+     infiltrates consistent with edema.  Additional hazy density at the lung bases
+     is consistent with pleural fluid as before.  The heart and mediastinal
+     structures are unchanged.  The patient is status post median sternotomy as
+     before.  An endotracheal tube, nasogastric tube, and left subclavian central
+     venous catheter remain in place.
+     
+     IMPRESSION:  No significant interval change.
+                                                                           
+
+",,
+13600,25557,16928,0,2601-12-13 04:38:00 EST,2601-12-13 05:18:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Neuro: Pt. received on 14mcg/kg/min Propofol which was tolerated until about 2200 when pt. started grimacing and reaching for tube so rate increased to 20mcg/kg/min. Pt. has also required several boluses when being turned or for treatments. He would shake his head ""no"" when mouth care was being done. Pt. MAE, did follow commands prior to increasing sedation and continues to make purposeful movements (reaching for ETT).
+
+CV: HR 60s-70s NSR with very rare PVCs and occ. PACs, ABP 100s-140s/ 30s-50s, CVP high to mid teens. Metoprolol dose decreased to 25mg BID. All lines are functioning well. pt. was tranfused 2u PRBCs for Hct of 26.9, post- transfusion Hct drawn at 0500, results pending.
+
+Resp: Pt. recived on CPAP+PS but started dropping sats into high 80s so he was placed back on AC. ABG results after this change were 7.49/58/72/45. Other changes made after this gas- please see Carevue for further details. Pt. is having increasing thick, yellow secretions but still requires suctioning only every 2hrs. 
+
+GI: BSX4, medium formed stool on shift which was guaiac+. Team aware. Tube feeds of Ensure started at 10cc/hour, now at 30cc/hour and well tolerated.
+
+GU: UO adequate, foley flushed due to low UO and urine in bed with leakage around foley. Some clotes were seen. Foley ultimately replaced with good return. Pt. given 40mg Lasix twice with blood products. Culture for Legionella sent.
+
+Endo: Sliding scale in place, some coverage required.
+
+Skin: Intact. Ecchymosis to L hand.
+
+Social: No contact on shift.
+",,
+13600,25557,16928,0,2601-12-13 05:37:00 EST,2601-12-13 05:43:00 EST,3440,"N",54,"Nursing/Other",,"
+
+Resp Care 
+Pt remains intubated and ventilated. Required assist/control with increase in peep/FIO2 overnight due to desaturation down to 88-89 on psv. CXR last evening c/w pulm. edema.Pt was diuresed overnight.  Suctioning thick yellow sputum. Appears comfortable noew and breathing in synch with the vent. 
+",,
+13600,25557,16928,0,2601-12-13 05:44:00 EST,2601-12-13 05:45:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Addendum to Nursing Progress Note:
+
+ID: Pt. spiked a temp of 102.9, Tylenol given twice with temp now 99.7. Pt. is now on Vancomycin and Cefepime.
+",,
+13600,25557,16928,0,2601-12-13 16:51:00 EST,2601-12-13 17:16:00 EST,6922,"N",54,"Nursing/Other",,"
+
+MICU Nursing Progress Note 0700-1900
+
+Code: Full
+Allergies: Motrin
+
+Neuro: Pt intubated and lightly sedated on 15mcg/kg/min of Propofol. Weaned from 20mc/kg/min. No boluses needed for turing or other care.  Pt complained via non-verbal cues of pain in his legs while moving.  Pt MAE and follows commands.  Brief episode of shaking noted during afternoon care.  Phenytoin and valproic acid doses increased, please see med book.  
+
+CV: HR NSR 61-71 with occasional PAC, ABP 116-155/50-62, CVP 8-22.  Crit stable at 31.  Pt noted to have general body edema with ecchymosis in left hand.  
+
+Resp: Lung sounds bilaterally coarse at bases.  RR in teens, with stv in 500's.  Pt weaned to PSV, last ABG 7.45/52/85/37 on 12/8/45%.  Current vent settings 12/8/40%, ABG pending.  Suctioned via ETT for small amounts of thick, yellow secretions.  Pt also having increase in oral secretions, needing to be suctioned q1h.  
+
+GI: TF changed to Nutren Pulmonary, running at 50cc/hr with no residuals.  Goal rate 60cc/hr.  Will need nutrition consult in AM.  Bowel sounds x 4, no stool this shift. Pm CBC pending.  
+
+GU: Foley patent and draining clear, yellow urine with some sediment.  UO ranges 70-140cc/hr.  Repleted with 40mEq K this AM, 1700 labs pending.  Lasix gtt started and currently running at 6cc/hr, metolazone also added qd.  Fluid goal is a [**2-16**] to 1L negative.  
+
+ID: Tmax 100.3.  Continues on ABX therapy Vanco/Cefepime.   
+
+Endo: BS 200 this shift, coverage given.  
+
+Social: Wife in to visit today, talked with RN and MD regarding pt's condition and plan of care.  Will come back tomorrow.  
+
+Plan: 
+monitor temp
+continue to wean vent
+nutrition consult
+fluid goal
+",,
+13600,25557,16928,0,2601-12-13 17:00:00 EST,2601-12-13 17:02:00 EST,3123,"N",54,"Nursing/Other",,"
+
+resp care
+remains intubated/vented presently in psv/cpap mode. tolerating well, able to reduce fio2 back to 40%. ps at 12, comfortable on this level.did not wean further as pt is still volume overloaded. peep at 8. sxning thick yellow sputum. bs decreased right, no wheezing on exam. admin bronchodilators as ordered. rsbi this morning in 80's, assess for extubation tomorrow after further diuresis.
+",,
+13600,25557,16928,,2601-12-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-14**] 2:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1703**]
+     Reason: evaluate response to diuretics                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            83 year old man with delta MS, hypercarbic respiratory failure, and CHF 
+      being diuresed
+     REASON FOR THIS EXAMINATION:
+      evaluate response to diuretics                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 3:24 A.M., [**12-14**].
+     
+     HISTORY:  Change in mental status and hypercarbic respiratory failure.  CHF.
+     
+     IMPRESSION:  AP chest compared to [**12-10**] through 29:
+     
+     Mild pulmonary edema unchanged.  Small left pleural effusion decreased. 
+     Stable moderate cardiomegaly and mediastinal vascular engorgement.  No
+     pneumothorax.  ET tube in standard placement, nasogastric tube passes below
+     the diaphragm and out of view and tip of the left subclavian line projects
+     over the junction of the brachiocephalic veins.  No pneumothorax.
+                                                                           
+
+",,
+13600,25557,16928,0,2601-12-14 04:23:00 EST,2601-12-14 05:00:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Neuro: Pt. initially on 14mcg/kg/min Propofol, following commands,  nodding head ""no"" when asked if he had pain. As evening went on pt. became increasingly restless and started indicating that he did have pain but did not incicate where. He started grimacing and appearing incomfortable with any care so Propofol raised back to 20mcg/kg/min with boluses given periodically. Pt. repetitively asked what time it was and where his wife was and seemed upset. Comfort  given.
+
+CV: HR 60s-70s NSR with rare PACs, ABP 100s-130s/40s-50s, CVP 11-18. Hct is 31.3. Team would like q 12 hr Hcts. All lines are fuctioning well. K is 3.6.
+
+Resp: Pt. recieved on CPAP+PS and did well until 0200 when he started dropping his sats into mid-80s so he was placed back on AC 550X18/50%/8. RR teens, 02 sats in low 90s. Pt. suctioned for moderate to copious thick, yellow secretions. Lungs sounds vary from clear to course throughout. Pt. also has copious oral secretions.
+
+GI: BSX4, tube feeds at goal of 60cc/hour which is well tolerated. Nutrition consult today. No BM on shift.
+
+GU: Pt. remains on Lasix gtt w hich was increased to 10mg/hour to try to reach goal of being 500cc to 1 L negative for the day. MD did not want to give more Metolazone but may increase AM dose. UO at 6mg/hour Lasix was 60cc/hour which went up to 100cc/hour at 10mg/hour. Pt. remains 200cc+ at this point.
+
+Endo: Blood glucose still running oer 200, covered with sliding scale.
+
+ID: Pt. spiked temp of 101.1, blood and urine cx sent. First set of blood cultures still pending.
+
+
+",,
+13600,25557,16928,0,2601-12-14 05:42:00 EST,2601-12-14 05:44:00 EST,3975,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+   Patient desaturated during the night despite suctioning and bronchodilators. He was switched back to A/C mode and FIO2 was subsequently increased to 50%. Suctioned for large amounts of thick yellow mucous. BS coarse bilat, decreased bases. RSBI held due to increased O2 requirements at that time.
+",,
+13600,25557,16928,0,2601-12-14 11:45:00 EST,2601-12-14 11:47:00 EST,3447,"N",54,"Nursing/Other","respiratory care","
+respiratory care
+pt on the vent changes made.  pt weaning trial attemted tol poorly pt BP and RR increased after 15 min. weaned stopped.  see respiratory page of carevue for more information.
+",,
+13600,25557,16928,0,2601-12-14 16:20:00 EST,2601-12-14 16:34:00 EST,3239,"N",54,"Nursing/Other","MICU NSG 7A-7PM","
+MICU NSG 7A-7PM
+RESP--PT REMAINS ORALLY INTUB, PLACED BACK ON PS 12 PEEP 8 50% THIS AM, PLEASE SEE CAREVIEW FOR ABG. SBT ATTEMPTTED, PT LASTED 20 MIN ON PS 5 PEEP 0 50%, DEVELOPED INC HR, BP WITH FALLING SATS AND COPIOUS FROTHY WHITE SECRETIONS, PT PLACED BACK ON PSV. PT ALSO WITH EPISODE OF DESATTING TO 87% AFTER BEING TURNED TO LEFT SIDE. SATS IMPROVED WITH BEING PLACED SUPINE. BRONCHOSCOPY DONE THIS AFTERNOON, FOR BAL SPEC. PT PLACED BACK ON AC FOR PROCEDURE AND THEN RETURNED TO PS WHEN MORE AWAKE AFTER PROCEDURE. 
+
+CV--REMAINS IN SR WITH OCCAS PAC'S. BP VIA RIGHT RAD ALINE REMAINS STABLE. ACE INHIBITOR D/C AND ISORDIL AND HYDRALIZINE ADDED FOR BP CONTROL. PT CONTS ON LASIX GTT TITRATED FROM 5-10MG/HR FOR GOAL U/O ~120CC/HR. TEAM WOULD LIKE PT 500-1L NET NEG FOR TODAY. METOLAZONE DOSE INC TO 5MG/DAY. PT CONTS WITH ANASARKA, NO CHANGE IN ECCHYMOSIS IN LEFT HAND. K REPLETED THIS AM, PM LYTES TO BE CHECKED. 
+
+NEURO--PT CONTS ON PROPAFOL GTT 20MC/KG/MIN. PT RECEIVED TOTAL OF 6CC IN BOLUS AND VERSED 2MG IV FOR BRONCH. GTT OFF X2, ONCE FOR DAILY WAKE UP IN AM, AND AGAIN FOR SBT. PT BECOMES ALERT, MOUTHING WORDS, AND THEN BECOMES RESTLESS, AGITATED AND ATTEMPTING TO PULL AT LINES. ABLE TO MAE, GRIMACES WHEN LEGS ARE MOVED. 
+
+GI--CONTS ON NUTREN PULMONARY FORMULA AT GOAL RATE 60CC/HR AND TOL WELL. TF OFF FROM 11AM-3PM FOR BRONCHOSCOPY. NO BM THIS SHIFT. FS RUNNING IN 200'S, NPH 70/30 INSULIN DOSE INC. 
+
+RENAL--LASIX GTT AS ABOVE. CREAT INC TO 1.3 THIS AM. 
+
+SOCIAL--WIFE IN AT BEDSIDE MOST OF DAY, UPDATED BY THIS RN ADN MEDICLA TEAM REGARDING PT CONDITION. DAUGHTER [**Name (NI) **] CALLED AND IS PLANNING ON VISITING TOMORROW. 
+
+PLAN--DIURESE TO GOAL 500-1L NEG TODAY
+--PSV AS TOL
+--PM LYTES
+--ADD HYDRAL AND ISORDIL 
+
+
+",,
+13600,25557,16928,0,2601-12-14 21:43:00 EST,2601-12-14 21:46:00 EST,3746,"N",54,"Nursing/Other",,"
+
+Respiratory Care: Pt bronched earlier today. Placed back to PSV when sedation worn off. Remains on current settings, no other vent changes today.
+",,
+13600,25557,16928,,2601-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-15**] 4:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1704**]
+     Reason: please eval for infiltrates, pulmonary edema                
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with delta MS, hypercarbic respiratory failure, and CHF, being 
+      diuresed
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrates, pulmonary edema                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, 4:38 A.M., [**12-15**].
+     
+     INDICATION:  Pulmonary edema with diuresis.  Evaluate for infiltrates,
+     pulmonary edema.
+     
+     FINDINGS:  Compared with 10/30 at 3:24 a.m., no obvious interval change is
+     appreciated allowing for a kyphotic projection and rotation to the right.
+     
+     Left lower lobe atelectasis/infiltrate/effusion persist.
+     
+     The prominence of the hilar shadows and central pulmonary vascularity are
+     unchanged compared with films prior to [**12-14**].
+     
+     No overt pulmonary edema.
+                                                                           
+
+",,
+13600,25557,16928,0,2601-12-15 05:08:00 EST,2601-12-15 05:19:00 EST,8067,"N",54,"Nursing/Other",,"
+
+7pm to 7am:
+
+Pt had an uneventful night. Pt C/O to floor, but awaiting avalible bed.
+
+Neuro)
+ W/A pt is oriented x 3. Pt has been able to [**Doctor Last Name 8**] most of night.
+
+CV)
+ Pt remains in NSR/SB (55-66) with no ectopy noted. VSS and WNL's as noted in care vue. Follow BP due to start of isosorbide for effect on BP. PICC line which was placed [**12-14**] intact with good return to port. Am labs drawn and pending as of 5am. 
+
+ID)
+ Pt remains on vancomycin PO and IV as noted. BC X 2 drawn this am (one set from PICC line and one set perpheral) to F/U line sepsis.
+ 
+
+Resp)
+ LS CTA wit no resp distress upon rest or activity. Pt inc to DB&C W/A.
+
+GI)
+ Abd sl dist, but soft to touch with + BS. Pt denies any N/V or diarrhea. IVF HL'd. Pt also denies any abd discomfort.
+
+GU)
+ Good U/O via urostomy.
+
+Act)
+ Pt OOB until 9pm, and was able to amb self in room to bed with no complications.
+
+Plan)
+ * C/O to floor or D/C home this pm.
+ * F/U BCs.
+
+",,
+13600,25557,16928,0,2601-12-15 05:25:00 EST,2601-12-15 05:25:00 EST,8067,"N",54,"Nursing/Other",,"
+
+Please disregard above note 7pm to 7am.
+",,
+13600,25557,16928,0,2601-12-15 05:29:00 EST,2601-12-15 06:05:00 EST,3269,"N",54,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+   the pt is an 83 yo man with multiple medical problems who was admitted to the micu on [**12-11**] with decreased responsiveness at home and ?seizure activity. in the ed, the pt was noted to be hypercarbic and was intubated. a neuro w/u, including an eeg, has been negative for sz activity. however, the pt did r/in for a nstemi and is also receiving abx coverage for a uti. the pt has remained intubated after failing spontaneous breathing trials, likely r/t heart failure and volume overload. 
+
+pmh: cad, s/p cabg; niddm; neuropathy; sz disorder; copd on home o2; osa; bipolar disorder; previous smoker
+
+review of systems
+
+respiratory-> pt remains intubated and vented on psv12/peep8 and o2 50%. srr teens w/tv ~550cc. suctioned q2-4hrs for fair amts of thick, yellow sputum. repeat abg this am c/w previous results: 7.45/65/84 47/17.
+
+cardiac-> hr 60's w/rare pvc's and pac's.repelted with a total of 80meq kcl last evening. sbp ranging 120-140's, tolerating multiple antihypertensives. of note, cvp readings now significantly lower than yesterday evening (from 13 now [**8-22**]) with a decrease in uop as well. the micu team is aware. ?whether pt is now intravascularly depleted as evidenced by a lower uop. of note, creat has increased this morning.
+
+neuro-> lightly sedated on a propofol drip. the pt is easily aroused by calling his name and is consistently following commands. moving hia arms off the bed and his legs laterally on the bed when awake.
+
+gi-> abd is obese w/+bs. tolerating enteral feedings at goal rate via an ogt w/no residuals. no bm overnoc.
+
+gu-> remains on a lasix drip with hourly outputs ~50-100cc. although he completed yesterday ~400cc fluid balance negative, he is currently ~200cc positive since mn. lasix qtt rate was not increased d/t ""bump"" in creat level from 1.2 to 1.4 this morning.
+
+id-> afebrile overnoc with a normal wbc this morning. of note, bronchial washing from yesterday w/gnr.
+
+endocrine-> fs 190-230's. pt receiving insulin per the riss.
+
+access-> left ij quad lumen cl and a right radial a-line are patent and intact. 
+
+social-> no contact w/family overnoc.
+",,
+13600,25557,16928,0,2601-12-15 06:09:00 EST,2601-12-15 06:12:00 EST,3971,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on CPAP/PSV with no parameter changes made roughout the night.  Albuterol/atrovent mdi Rx's given inline.  SX'd for small to copious amounts of thick, yellow sputum.  Latest abg results determined a partially compensated metabolic alkalemia with adequate oxygenation on the current settings.  Suspect that the patient's normal PO2 is probably lower.
+
+RSBI = 112.5 on 0-PEEP and 0-PSV.  
+",,
+13600,25557,16928,0,2601-12-15 15:53:00 EST,2601-12-15 15:55:00 EST,3447,"N",54,"Nursing/Other","respiratory care","
+respiratory care
+pt on the vent changes made tol fairly well.  see respiratory page of carevue for more information.
+",,
+13600,25557,16928,0,2601-12-15 18:08:00 EST,2601-12-15 18:34:00 EST,3249,"N",54,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+cardiac:  bp 140-186/54-80 with pulse 69-81 with an occasional pvc noted, as well as atrial bigeminy.  lasix drip is infusing at 8mg/hr---goal is to have urine output >100cc/hr.  cvp has been [**8-23**].  bp becomes very elevated(180/80) when pt coughing or agitated.  lopressor dose increased.  electrolytes sent and are pending.
+
+resp:  present vent settings are pressure support 50% 8 peep and 8 pressure support with spontaneous tvs of 335-620 with resp rate of 12-32.  an abg on these settings was 113 58 7.47.  lung sounds have been coarse, slightly deminished at the bases.  suctioned several times for small to mod amts of thick yellow sputum.  plan was possible extubation today, but pt wasn't really able to tolerate pressure support of 5 and peep of 5----pt's bp would become elevated to 180 and resp rate of 30-34---propofol drip was dc'd in preparation of possible extubation, but was restarted at approx 4p.  arterial line began to bleed around insertion site and dsg changed x3.  the third time dsg changed gel foam was placed.
+
+id:  temps of 98.4po, 99 po, and 98.6 ax.  wbc 11.  on vanmco and cefepime.  
+
+gi:  abdomin obese, with + bowel sounds.  tube feeds of nutren pulmonary is infusing at goal, at 60cc/hr, via og tube,with no residuals obtained.  pt passed a large brown, ob neg, stool today.  
+continues to receive free water boluses although na is 141.
+
+gu:  foley in place--urine output 200-300cc/hr. on lasix drip at 8mg/hr---goal to have urine output greater then 100cc/hr.  
+
+endo:  12p fingerstick 206--pt rec'd 4u reg insulin and at 6p fingerstick 188 and pt rec'd 2u reg insulin.  am dose of 70/30 was slightly later then usual as inquiry made of team about insulin dosage due to tube feeds off with possible extubation.
+
+skin:  left hand and fingers are swollen and purple in color.  hand is warm to touch.  outline of the purplish area done and dated. feet are reddish in color with the right foot more edeamtous then the left.
+",,
+13600,25557,16928,,2601-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-16**] 3:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1705**]
+     Reason: evaluate L pleural effusion                                 
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with delta MS, hypercarbic respiratory failure, and CHF, being 
+       diuresed
+     REASON FOR THIS EXAMINATION:
+      evaluate L pleural effusion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 3:52 A.M. [**12-16**].
+     
+     HISTORY:  Mental status changes, hypercarbic respiratory failure.  Status post
+     diuresis.
+     
+     IMPRESSION:  AP chest compared to [**12-14**] and 31:
+     
+     Lung volumes are lower.  Moderate cardiomegaly and mediastinal vascular
+     engorgement have progressed, mild pulmonary edema is stable but moderate right
+     pleural effusion has increased, as compared to [**12-15**].  ET tube is in
+     standard placement.  Nasogastric tube can be traced to the lower esophagus and
+     passes out of view.
+                                                                           
+
+",,
+13600,25557,16928,0,2601-12-16 05:16:00 EST,2601-12-16 05:20:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent setting .See vent flow sheet for details. Suctioned mod amts thick yellow secretions.Sedated with propofol. HR PVC'S.Getting lasix. Temp 99.5. MDI'S given. Episodes of desat . BS decreased,increased peep/ips.RSBI done on 0 peep/5 ips 92.2. Will cont to monitor resp status. 
+",,
+13600,25557,16928,0,2601-12-16 05:35:00 EST,2601-12-16 06:14:00 EST,3269,"N",54,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+   multiple vent changes made overnoc so as not to overcompensate for the pt's baseline hypercapnea/co2 retention.. however, a repeat po2 on psv12/peep5 was only 62, so the peep level was increased back to 8cm. anticipate another attempt to extubate later today.
+
+review of systems
+
+respiratory-> lung sounds are markedly diminished t/o despite frequent suctioning and rtc use of mdi's. pt remains intubated and vented on psv12/peep8, o2 50%. rr teens w/tv ~350cc. maintaining sats 91-93%. suctioned q2-3hrs for moderate amts of thick, yellow sputum. 
+
+cardiac-> hr 60-70's, sr w/rare pvc's. pt was repleted w/40meq kcl last evening. sbp ranging 110-150's. lasix drip rate reduced but gradually increased to the prior rate d/t a decrease in his hourly output. 
+
+neuro-> remains lightly sedated on a propofol drip. mae x4 and consistently following simple commands. no seizure activity noted. of note, dilantin level is subtherapeutic; team aware.
+
+gi-> abd is obese w/+bs. tolerated enteral feeds via ogt w/minimal residuals. tube feedings held @0600 in anticipation of extubation later today. pt continues to pass small amts of loose, brown stool.
+
+gu-> although the pt completed yesterday approx 1.5 liters tfb negative, he is currently 200cc fluid balance positive despite an increase in the lasix drip rate. creat slightly increased @1.4. 
+
+id-> persistent low grade fevers w/tmax 99.8 orally. vanco d/c'd last noc d/t a supertherapeutic level. a random vanco level was added to this morning's labs.
+
+endocrine-> receiving riss for fs ranging 150-230's. please give [**2-16**] 70/30 insulin dose this morning d/t npo status.
+
+access-> left ij quad lumen central line is patent and intact. dsg change to right radial a-line changed x2 for persistent bleeding; last redressed with sugicel.
+
+social-> no contact w/family overnoc.
+
+
+",,
+13600,25557,16928,0,2601-12-16 14:40:00 EST,2601-12-16 15:11:00 EST,6922,"N",54,"Nursing/Other",,"
+
+MICU Nursing Progress Note 0700-1500
+
+Code: Full
+Allergies: Ibuprofen
+
+Significant Events: Pt extubated, a-line discontinued, off sedation, Lasix gtt continues at 8mg/hr.  
+
+Neuro: Pt off sedation.  Alert & oriented x 3, MAE, follows commands.  Converses appropriately with staff.  No seizure activity noted.  Pt complains of pain with urination, ?possibly due to bladder spasms.  
+
+CV: HR NSR 65-81 with occasional PVC, BP 125-187/45-93, CVP 8-12.  pt's BP increases with stimulation.  A-line discontinued [**Name8 (MD) 17**] MD, NIBP in place.  Hydralazine dose increased to 50mg q6h.  Left subclavian central line red around insertion site.  
+
+Resp: Pt extubated at 0900, placed on 50% cool mist neb and is now on 4L NC with sats greater than 89%.  Team would like O2 sat greater than 88%.  RR 20-30's can increase to high 30's with activity.  Lung sounds clear at apices, dimished at bases.  Cough/gag reflex intact.  Pt coughing up small amounts of white sputum and self-suctioning with yankeur.  
+
+GI: Bowel sounds x 4, no stool this shift.  Pt advanced to clear liquid diet and tolerating well.  AM Colace held due to increase in loose stool last night.  
+
+GU: Foley patent and draining clear, yellow urine.  Lasix gtt currently running at 8mg/hr.  UO ranging 100-240cc/hr.  Fluid goal 1L negative, or greater than 100cc/hr.  Given 40mEq K this am for K of 3.5.  Labs to be drawn at 1500.  Pt complaining of pain with urination.  
+
+ID: Tmax 99.5.  AM Vanco dose held due to supertherapeutic levels.  
+
+Skin: Pt's left hand remains edematous and eccymotic.  Bruised area marked with skin marker on [**12-15**] and seems to be improving.  
+
+Social: Wife and daughter in to visit, updated on pt's condition and plan of care.  
+
+Plan:
+pt consult
+routine ICU monitoring and care
+follow lytes, replete PRN
+monitor for changes in mental status
+keep foley in place as ordered until Lasix gtt d/c'd
+secure foley to leg to reduce traction/pain  
+
+
+",,
+13600,25557,16928,0,2601-12-16 17:16:00 EST,2601-12-16 17:20:00 EST,7566,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt extubated this morning to 50% cool aerosol.  pt had audible cuff leak and scant amt of frothy white secretions prior to extubation.  BLBS clear though slightly diminished.  Pt now on 4L NC to maintain sats 88-92%.  pt has [**Last Name (un) 442**] productive cough.  pt switched to alb/ atr nebs Q4.
+",,
+13600,25557,16928,,2601-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-17**] 6:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1706**]
+     Reason: interval change                                             
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old man with delta MS, hypercarbic respiratory failure, and CHF, 
+      being   diuresed
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Hypercarbic respiratory failure.
+     
+     Portable AP chest radiograph compared to [**2601-12-16**].
+     
+     The lower chest is below the lower field of view of this current film
+     preventing the precise evaluation of pleural effusions.
+     
+     The patient was extubated and the NG tube was removed in the meantime
+     interval.  The tip of the left subclavian line is in the mid portion of left
+     brachiocephalic vein.  The pulmonary edema has been unchanged being still of
+     moderate degree.  The light layering bilateral pleural effusion is again
+     partially demonstrated.
+                                                                           
+
+",,
+13600,25557,16928,,2601-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2601-12-17**] 4:21 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 1707**]
+     Reason: LEG SWELLING AND PAIN, LEFT > THAN RIGHT, EVALUATE BILAT DISCOMFORT
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with lower extremity discomfort L > R, has been bedridden for 
+      days with 02 requirement increased from baseline
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Bilateral lower extremity venous Doppler ultrasound.
+     
+     CLINICAL HISTORY:  83-year-old man with lower extremity discomfort, left
+     greater than right.  Bedridden for two days with oxygen requirement. Increased
+     from baseline.  Rule out DVT.
+     
+     Comparison made to prior study dated [**2595-3-10**].
+     
+     FINDINGS:  The bilateral common femoral, superficial femoral, popliteal veins
+     are widely patent and demonstrate normal phasic flow, compressibility and
+     augmentation.  No evidence of intraluminal thrombus.  The bilateral
+     posterior tibial veins are patent.
+     
+     IMPRESSION:  No evidence of bilateral lower extremity deep venous thrombosis.
+
+",,
+13600,25557,16928,0,2601-12-17 03:11:00 EST,2601-12-17 03:13:00 EST,6509,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Nebs treatments given. Bs cta dim @ bases. Tried on nasal cpap, pt refused, was uncomfortable. Has previous history with noncompliance. Following sats mantained >93. Will continue to monitor.
+",,
+13600,25557,16928,0,2601-12-17 06:22:00 EST,2601-12-17 06:45:00 EST,3269,"N",54,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+   pt desaturated to as low as 78% on 4 liters cannula at change of shift last evening. he was placed on 100% cool neb but was eventually weaned to 40% o2 to maintain sats >88%. although he continues to receive neb treatements q4hrs, his aeration is poor t/o. an attempt to place the pt on bipap overnoc was unsuccessful since the pt repeatedly removed the mask and would not comply with treatment. he was also somewhat more confused overnoc but was cooperative w/care.
+
+review of systems
+
+respiratory-> pt remains on a 40% cool neb while maintaining sats >90%. as noted above, lung sounds are diminished t/o. cough is unproductive and chest pt was unhelpful. ?transition back to a nasal cannula later today.
+
+cardiac-> hemodynamically stable. tolerating multiple antihypertensives w/o incident. hr 80-90's, sr w/rare pvc's. sbp 110-150's. 
+
+neuro-> alert to place and person only. although confused, he has been cooperative w/his care. no seizure activity noted. 
+
+gi-> abd is obese w/+bs. tolerating clear liqs and pills w/o incident, but the micu team will place a request for a speech and swallow consult later today. passing small amts of loose, brown stool.
+
+gu-> foley is patent and intact. the lasix drip was placed on hold overnoc d/t a very negative fluid balance. the goal was to keep his fluid balance even overnoc.
+
+endocrine-> did not require insulin coverage per riss parameters.
+
+access-> left sc central line is patent and intact although the insertion site is erythemic. 
+
+social-> no contact w/family overnoc.
+
+dispo-> ?transfer to medicine later today.
+",,
+13600,25557,16928,0,2601-12-17 17:58:00 EST,2601-12-17 18:00:00 EST,7566,"N",54,"Nursing/Other","Resp care","
+Resp care
+neb tx given.  pt trialked again on nasal bipap pt did not tolerate however says,""will try again tonight"" MD wants to keep machine in rm and keep trying to get pt comfortable with it.  pt has spent most of the day on 5 L NC satting 89-93%.
+",,
+13600,25557,16928,0,2601-12-17 18:00:00 EST,2601-12-17 18:16:00 EST,4061,"N",54,"Nursing/Other",,"
+
+
+FUL CODE    Universal Precautions   Allergy: Motrin
+
+
+Neuro:  Awake, alert, occ knows where he is, occ knows the date, knows his wife, but his conversation is generally random thoughts.  Even when answering a question, he goes off on a tangent.  Follows commands, MAEx4.  No seizure activity noted.  On Dilantin and Depakote.  Speech and swallow screen done at bedside - passed.  Eating soft solids/pills w/o difficulty.  Able to feed himself.
+
+CV:  HR=80-90s, NSR w/ a few PVCs late in the day.  BP=110=130s/60s.  Weak periph pulses, +edema, extrems warm.  C/O L leg pain when it's touched - not in pain when resting comfortably.  To U/S this afternoon -no clots noted.  On several BP meds.
+
+Resp:  Pt was on 40% CMM at beginning of shift.  Attempted nasal bipap and pt will NOT keep mask on.  N/C 5 l placed and 02sat has been 92-95%.  Lungs diminished w/ few crackles in bases bilat.  Continual congested cough - not related to eating/aspiration.  Using yankar to sx thin white secretions.  RR=28-40.  
+
+GI/GU:  Abd obese, soft, +BS.  One smear of stool, heme neg.  Taking soft diet well.  Now that he is back on a diet, fixed am and pm doses of insulin 70/30 full dose as opposed to half dose while he was NPO.  BS=200-228 and covered by RISS.  Foley cath w/ clear yellow urine.  On Lasix po 60mg(gtt was d/c'd last nite) w/ marginal diuresis - PM dose increased to 80mg.
+
+Pain:  L leg pain as noted - [**Last Name (un) 5021**] negative.
+
+Access:  LSC quad CL intact.  Site red - PEVA aware.  Poor periph access.
+
+ID:  99.6 axil temp.  On cefapime and dose of Vanco given this afternoon for level this am of 15.2.
+
+Social:  Wife and daughter at bedside all day.
+
+Plan:  Called out to floor - tx when bed available.  Monitor cardiac/resp/neuro status.  Pulm toilet.  
+
+Procedures:  U/S lower extrems negative.
+
+
+",,
+13600,25557,16928,0,2601-12-18 04:37:00 EST,2601-12-18 04:55:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Pt. is called out, transfer note is written.
+
+Neuro: Pt. has been OX1 (name only) tonight, talking a lot to himself and asking questions about his wife and son, very pleasant and cooperative but quite disoriented. He MAE and only seems to be in pain when his L leg is moved. US of LLE was negative for DVT. He is able to assist with turns.
+
+CV: HR 89s-90s, NBP 120s-160s/40s-80s. Central line has redness at site, will pull if able to start peripheral IV. AM K+ 3.2, will replete.
+
+Resp: RR 20s-low 30s, 02 sats 88-96% on 6L NC. Lung sounds are clear to upper lobes. Bases are diminished with crackles at times. Pt. has good cough which sounds course to upper airways but he does not bring it up enough to cough it out.
+
+GI: BSX4, one soft, brown stool on shift. Pt. has a soft diet ordered with thin liquids, takes pills well.
+
+GU: UO adequate via foley. Bed found soaked with urine, foley changed to a bigger size, small amount of blood noted in urine.
+
+Endo: Blood glucose covered by fixed doses and sliding scale.
+
+Skin: Scattered areas of ecchymosis, otherwise intact.
+",,
+13600,25557,16928,0,2601-12-18 17:35:00 EST,2601-12-18 18:01:00 EST,3646,"N",54,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+Events:  OOB for 6 hours, tolerated well Rehab screened and accepted at [**Hospital1 525**], for probable transfer tomorrow.
+
+Cardiac:  B/P 110-130/70-80, HR 70-80's.  Central line site reddened, line D/C'ed and the tip sent for culture.
+
+Resp:  Remains on 5l NC, RR 20-30, O2 sats 93-98%.  He has a productive cough to which he uses an yankauer to help with exporation.  
+
+GI:  eating [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 196**], heart healthy diet without difficulty.  He had one small dark brown stool.
+
+Endo:  Blood sugars 228 and 220, covered by 4u regular insulin at 12n and 1800.
+
+Neuro:  Pt is awake and alert.  He is oriented x1-2.  He makes bizarre statements but is very pleasant and cooperative.  He was transfered to the chair by the air lift, he tolerated it well.  
+
+GU:  Foley draining yellow urine with alot of sediment.  There is a small amount of blood at the meatus.  U/O 50-60cc/hr.
+
+Social:  Wife in most of the day.  She was able to help him with eating.  He was screened by [**Hospital1 525**]/[**Location (un) **] and accepted.  However unable to facilitate transfer tonight.  Probable transfer tomorrow am.
+
+Plan:  continue to follow blood sugars, transfer to [**Hospital **] rehab tomorrow.  Will hear from [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5022**]- [**Hospital1 525**] Admissions director by 11am: if not call him on his cell phone [**Telephone/Fax (1) 5023**].  
+",,
+13600,25557,16928,0,2601-12-18 17:54:00 EST,2601-12-18 17:54:00 EST,3123,"N",54,"Nursing/Other",,"
+
+resp care
+pt followed for bronchodilators q4h. refer to carevue. bs occas coarse, no wheezing heard. maintaining sats on 5lnc. 
+",,
+13600,25557,16928,0,2601-12-19 03:20:00 EST,2601-12-19 03:35:00 EST,3547,"N",54,"Nursing/Other","MICU note 1900-0700","
+MICU note 1900-0700
+S;""What time is breakfast and where am I going tonight?""
+O: Please see carevue for VS and objective data. Pt. is called out and awaiting transfer to [**Hospital1 525**], possibly in am. 
+Neuro: Pt. oriented to self only. Stated he was in Great Britian and the month was March. Often found talking to himself. Frequently requesting breakfast.  Pleasant and cooperative with care. MAE, assisting when able. Bedrest maintained overnight. Bed alarm on for safety with no attempts made to get OOB. 
+CVS; Hemodynamically stable with HR 80-90's, NSR/ST, occ. PVC, couplets. BP ranges 98-140's/50-70 on po regime. 0200 Hydralazine held per parameters. 
+Resp; Sats 92-95% on 5L n/c. Lungs coarse and diminished in bases. Strong cough, Pt. expectorating on his own with the use of the yankauer. RR 12-mid 20's. Pt. on BID po Lasix, eve dose held per Dr. [**Last Name (STitle) 1331**] secondary to I/O neg. 800cc at that time. Total I/O neg. 1L at MN. 
+GI:GU: Taking po meds with sips H20 without problem. Abdomen obese with active bowel sounds, no stool this shift. Foley to drainage with yellow urine, +sediment. u/o 60-100cc/hour. 
+Endo; Received 70/30 insulin dose at 1930, MN FS 95, without coverage needed, snack of gram crackers and 40z OJ at that time. AM fasting pnd.
+ID: Tmax 99.8- 98.8po, received last dose of IV Cefepime at 0000 as ordered, then dc'd. 
+A; stable, awaiting transfer to [**Hospital1 525**]. 
+P: Cont to monitor hemodynamics, resp. status. Follow up with am labs. Awaiting transfer to [**Hospital1 525**] with contact numbers as per previous shift. Comfort and emotional support to Pt. and family 
+
+
+
+
+
+",,
+13600,25557,16928,0,2601-12-19 17:03:00 EST,2601-12-19 17:40:00 EST,7996,"N",54,"Nursing/Other","NSG 7AM-7PM","
+NSG 7AM-7PM
+PLEASE REFER TO CAREVIEW FOR OTHER OBJ DATA.
+
+83 YR OLD MALE WITH HX OF CAD S/P CABG, COPD ON HOME 02 4L, MORBID OBESITY, BIPOLAR, PRESENTED TO ED WITH A WEEK OF WAXING, [**Doctor Last Name 1227**] MS [**First Name (Titles) **] [**Last Name (Titles) **] OF TONIC CLONIC ACTIVITY, SOMNOLENCE/ IN ED CXR REVEALS CHF, EKG SHOWS NEW INFERIOR AND LATERAL ST DEPRESSION/ ADMITTED TO MICU FOR MANAGEMENT. (SEE TRANSFER NOTE FOR TX DURING ICU STAY).
+
+PT A/OX1 (PERSON)/, UNABLE TO ORIENTATE IN TIME AND PLACE, FOLLOWS COMMANDS CONSISTENTLY/ SPONTENEOUS, C/O OF LEG PAIN (CHRONIC LEG PAIN)/ RELIEVES WITH TYLENOL./ REMAINS ON DEPAKOTE/PHENYTOIN/ NO SEIZURE ACTIVITY.
+
+HEART RYTHM SINUS WITH RARE  PVCS/ HR 70S-90S/ BP 110S-130S/ STABLE/ NSTEMI/ MEDICALLY MANAGED/ ASA/ STATIN/BETABLOCKERS/ REMAINS ON LASIX/UOP 35-140CC/HR.
+FSBS ACHS WITH FIXED 70/30/ REQUIRES REG INS [**Doctor Last Name **] LUNCH TIME.
+REMAINS AFEBRILE.
+
+RESP EFFORT UNLABORED AND EVEN/ LUNG SOUNDS DIMINISHED THROUGHOUT/ FINE CRACKLES AT BASES/ REMAINS LASIX/ NEB TX GIVEN WITH POS EFFECT/ SOB ON EXERTION/ O2 WEANED DOWN TO 4L(5l)/ SATO2 91-93.
+
+ABD OBESE AND SOFT/ POS BS/ NO BM. TOLERATES PO WELL/ NO N/V.
+
+FOLEY PATENT DRAINING CLEAR YELLOW URINE.
+
+OOB TO CHAIR FOR MOST OF SHIFT/ 
+
+WIFE AT BEDSIDE FOR MOST OF THE DAY. PT SUPPOSED TO TRANSFER TO [**Hospital **] REHAB/ INSURANCE DID NOT APPROVE TRANSFER/ CASE MGT AWARE/ WILL ADDRESS ON MONDAY.
+
+C/O TO FLOOR.
+
+",,

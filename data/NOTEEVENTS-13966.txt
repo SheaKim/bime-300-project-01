@@ -1,0 +1,446 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2787-10-18**]       Discharge Date:  [**2787-10-21**]
+
+Date of Birth:   [**2713-6-12**]       Sex:  M
+
+Service:  TRAUMA.
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 74-year-old man
+with underlying dementia secondary to Alzheimer disease who
+fell down the stairs on the day of admission resulting in
+loss of consciousness.  Initially, he had mildly slurred
+speech with mild word-finding difficulties.  He was brought
+to the [**Hospital1 10**] by EMS, boarded
+and collared.  At the time he had a GCS of 15.  He was
+hemodynamically stable.  He was following commands without
+any complaints.  He did have positive emesis.
+
+PAST MEDICAL HISTORY:  History is significant for Alzheimer.
+
+PAST SURGICAL HISTORY:  History is significant for status
+post CABG times four in [**2779**].
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS:  Prozac 40 mg p.o.q.d.
+
+SOCIAL HISTORY:  The patient denied any alcohol or tobacco
+use.
+
+PHYSICAL EXAMINATION:  Physical examination in the emergency
+department revealed that he was afebrile with a pulse in the
+100 range and blood pressure of 160/palpable, saturation 98%.
+He was alert and oriented with pupils equal, round, and
+reactive to light going from 3 mm to 2 mm.  Tympanic
+membranes were clear bilaterally.  Trachea was midline.
+Lungs were clear to auscultation.  He had no tenderness or
+stepoff on his chest.  His cardiac examination was regular.
+Abdomen was soft, nontender, and nondistended.  Extremities
+were warm and well perfused.  He was moving all four
+extremities with gross sensory intact.  His pulse was stable.
+Rectal was normal tone.  Back showed low lumbar tenderness,
+no stepoffs.
+
+HOSPITAL COURSE:  The patient was evaluated in the emergency
+room and taken to the Department of Radiology, where he
+underwent an emergency head CT, which showed a small
+interparenchymal paraventricular hemorrhage on the right
+without other significant lesions.  The patient also
+underwent a T and L spine, which was negative, as well as a
+C-spine, CT, which showed degenerative cervical spinal
+changes.  His chest x-ray was without any pneumothorax or
+hemothorax and his pelvis showed no fractures.  At this time,
+he was admitted to the Surgical Intensive Care Unit for every
+one hour neurochecks and control of blood pressure and
+further monitoring given his intracranial hemorrhage.
+
+The patient spent two days in the Surgical Intensive Care
+Unit, where he required a Nipride drip to control the blood
+pressure, which was in the 60s to 200s systolic prior to the
+initiation of the drip down to the 120s to 130s on Nipride.
+He appeared to be doing well.  He underwent two subsequent CT
+scans of his head on consecutive days, which demonstrated
+stability of the paraventricular hemorrhage.  He was
+transitioned from Nipride over to Lopressor for blood
+pressure control.  He had a stable hematocrit, persistently
+above 30, and he was transferred to the floor on [**10-20**].
+He was a little confused requiring Haldol.  This was believed
+to be secondary to recent head trauma, as well as his ICU
+stay.  This condition resolved over the next couple of days.
+He had an MR of his spine, which demonstrated no acute
+ligamentous injuries, although, it was of poor quality
+secondary to motion artifact.  His cervical spine was cleared
+both radiographically and clinically without any tenderness
+in the posterior midline.  At this time, it was felt that the
+patient was stable for discharge.  At the time of discharge
+he was following commands.  He was back to his baseline
+mental status per the family.  He was tolerating a regular
+diet.  His Foley was removed and he was able to void.
+
+DISCHARGE MEDICATIONS:  The patient was discharged on the
+following medications:
+1.  Prozac 40 mg p.o.q.d.
+2.  Lopressor 25 mg p.o.b.i.d.
+3.  Tylenol p.r.n.
+
+FOLLOW-UP CARE:  He was instructed to followup with the
+Neurosurgical Clinic for a repeat MRI in one to two months.
+The phone # for the Neurosurgical Clinic was listed as
+[**Telephone/Fax (1) 524**].  He was also evaluated by his primary care
+physician, [**Last Name (NamePattern4) **]. [**First Name (STitle) **] with whom he would also followup at
+[**Telephone/Fax (1) 1917**].  He was, otherwise, stable.
+
+He was also discharged with a home-safety evaluation visiting
+nursing association.
+
+
+
+
+
+
+
+
+
+
+
+
+DISCHARGE DIAGNOSIS:
+1.  Alzheimer dementia.
+2.  Status post closed-head injury.
+3.  Coronary artery disease status post coronary artery
+bypass grafting times four.
+4.  Hypertension.
+
+                            DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 02-352
+
+Dictated By:[**Dictator Info **]
+MEDQUIST36
+
+D:  [**2787-10-21**]  14:18
+T:  [**2787-10-21**]  14:35
+JOB#:  [**Job Number 9910**]
+Signed electronically by: DR. [**First Name (STitle) 296**] [**Name (STitle) **]
+ on: TUE [**2787-11-10**] 4:48 PM
+(End of Report)
+
+
+",,
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-18**] 7:11 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 5120**]
+     Reason: CUT OFF LT LUNG
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Cut off left lung.
+     
+     FINDINGS: The trauma board overlies the left costophrenic angle.  No
+     pneumothoraces, consolidations, pleural effusions or enlargement of the heart
+     or mediastinum are noted.  Patient is status post sternotomy.  No overt rib
+     fractures are seen.
+     
+     IMPRESSION: No evidence of acute cardiothoracic pathology.
+     
+     
+
+",,
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-18**] 7:03 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 5119**]
+     Reason: 74 m S/P FALL NEED LATERAL, SWIMMER'S, ap, ODONTOID
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with S/P FALL.
+     REASON FOR THIS EXAMINATION:
+      74 m S/P FALL NEED LATERAL, SWIMMER'S, ap, ODONTOID
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P fall
+     
+     2 VIEWS OF THE THORACIC SPINE: There are minor degenerative changes of the
+     lower thoracic spine. No fractures are seen.
+     
+     2 VIEWS OF THE LUMBAR SPINE: No fractures, subluxations are noted. There are
+     prominent anterior osteophytes off of the L4 and L5 vertebrae.
+     
+     AP, SWIMMERS VIEWS AND ODONTOID VIEWS OF THE CERVICAL SPINE: C1 through T1 are
+     visualized.There is normal alignment without evidence of fracture. There are
+     degenerative changes of the lower cervical spine with marginal osteophytes and
+     disc space narrowing. The dens is incompletely visualized. The lateral masses
+     appear to aligned with the C2 vertebrae.
+     
+     IMPRESSION: Limited study but no fractures.
+
+",,
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-18**] 6:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5118**]
+     Reason: TRAUMA S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p fall
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Fall, rule out bleed.
+     
+     Unenhanced contiguous axial images were obtained from the skull base to the
+     higer convexities.  No prior studies.
+     
+     There is a 12.2 x 8 mm hyperdense lesion in the subependymal lining of the
+     right lateral ventricle at the level of the centrum semi ovale series two,
+     image 16.
+     
+     The remaining brain parenchyma is normal in morphology and attenuation. The
+     ventricles are normal in size and shape.  There is no other area of mass
+     lesion, hemorrhage, or midline shift.  There is no abnormal extraaxial fluid
+     collection.
+     
+     The globes, orbits and paranasal sinuses are normal.  The bony calvarium is
+     intact.
+     
+     IMPRESSION: A hyperdense lesion in the subependymal region in the right
+     ventricle adjacent to the centrum semi ovale that is an atypical location for
+     a hemorrhage but given the patient's history should be considered.  Other less
+     likely causes may be a hypercellular neoplastic process.
+     
+
+",,
+13966,21403,,,2787-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-18**] 7:03 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 5119**]
+     Reason: 74 m S/P FALL NEED LATERAL, SWIMMER'S, ap, ODONTOID
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with S/P FALL.
+     REASON FOR THIS EXAMINATION:
+      74 m S/P FALL NEED LATERAL, SWIMMER'S, ap, ODONTOID
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P fall
+     
+     2 VIEWS OF THE THORACIC SPINE: There are minor degenerative changes of the
+     lower thoracic spine. No fractures are seen.
+     
+     2 VIEWS OF THE LUMBAR SPINE: No fractures, subluxations are noted. There are
+     prominent anterior osteophytes off of the L4 and L5 vertebrae.
+     
+     AP, SWIMMERS VIEWS AND ODONTOID VIEWS OF THE CERVICAL SPINE: C1 through T1 are
+     visualized.There is normal alignment without evidence of fracture. There are
+     degenerative changes of the lower cervical spine with marginal osteophytes and
+     disc space narrowing. The dens is incompletely visualized. The lateral masses
+     appear to aligned with the C2 vertebrae.
+     
+     IMPRESSION: Limited study but no fractures.
+
+",,
+13966,21403,17372,,2787-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-19**] 1:07 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 5122**]
+     Reason: s/p fall
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p fall. Limited CT to evaluate C1-C2. dens not visualized on
+      completion series.
+     REASON FOR THIS EXAMINATION:
+      s/p fall
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall, evaluate C1/2.
+     
+     TECHNIQUE:  Axial images were obtained with sagittal computerized
+     reconstructions. Due to motion artifact, the study is limited.
+     
+     FINDINGS: The skull base is normal.  There is normal alignment of the C1
+     through C4 vertebrae.  There is minimal foraminal narrowing of the C2/3 and
+     C3/4 neural foramina. There is evidence of degenerative change of the
+     vertebral bodies and foramina.  There is no gross evidence of fracture.
+     
+     IMPRESSION:  Low resolution study reveals degenerative change and foraminal
+     narrowing without gross acute pathology.
+
+",,
+13966,21403,17372,,2787-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-19**] 11:54 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5121**]
+     Reason: f/u with prvious bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p fall. Follow up CT to eval extent of intracranial
+      hemorrhage.
+     REASON FOR THIS EXAMINATION:
+      f/u with prvious bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fall. Follow up extent of intracranial hemorrhage. Known
+     prior hemorrhage.
+     
+     COMPARISONS: [**2787-10-18**].
+     
+     TECHNIQUE: Noncontrast axial images were obtained. The findings are limited
+     due to motion artifact.
+     
+     FINDINGS: The right hyperdense lesion in the subependymal lining of the right
+     lateral ventricle is unchanged. There is a small amount of hemorrhage in the
+     occipital horns bilaterally. The ventricles are normal in size and shape.
+     There is no evidence of mass effect. There is no shift of normally midline
+     structures. There is no abnormal extra axial fluid collection.
+     
+     IMPRESSION:  No significant change in the subependymal hemorrhage. There is a
+     small amount of blood in the occipital horns bilaterally. There is no evidence
+     of acute intracranial edema or ventricular enlargement.
+     
+     
+     
+     
+     
+     
+
+",,
+13966,21403,17372,0,2787-10-19 05:39:00 EST,2787-10-19 07:10:00 EST,3119,"N",53,"Nursing/Other","NURSING ADMIT NOTE:","
+NURSING ADMIT NOTE:
+Pt a 74yo [**Male First Name (un) **] w/ mild dementia & alzheimers presents after unwittness fall down stairs(paramedics estimated approx 16) at home. Family reported pt had approx 3-5min loc & upon arousal had mild slurred speech & diff w/ word finding. EMS transported pt to hosp boarded & collared. Pt vomiting upon arrival, head CT showing small R intraparenchymal bleed. C-spine & TLS films obtained. MD [**First Name (Titles) 5483**] [**Last Name (Titles) 5484**] WNL although awaiting formal read. 
+
+Pt admitted to ICU w/ c-collar on & foley cath. A-line placed, pt started on SNP gtt to keep sbp 100-150. 
+
+PMHX: CABGx4 1993 for angina, no clear hx MI
+      Alzheimers w/ baseline dementia
+
+MEDS: prozac (started when pt dx'd w/ Alzheimers 1997)
+
+ALLERGIES: NKDA
+
+SOCIAL: pt retired architect, married to wife [**Name (NI) 4096**] of 50 yrs, has 6 children. ETOH:rare, TOBACCO: never.
+
+ROS:
+
+NEURO: pt arrived to unit ~8pm, c-collar on, initially pleasant, coopertive & oriented to person & place. Does not recall fall. PERL 4mm bilaterally, FC's w/ all extremities, L leg slightly weaker than R (pt reports this is baseline from old injury...although unable to recall what it was). Q1hr neuro checks observed, attemting to maintain logroll precautions. ~4am, pt combative, attempting to get oob, sitting up, trauma resident in to evaluate, no new orders, pt placed in 4pt restraints.
+
+CV: nsr 80-90's, started on snp  to keep sbp <150 per arterial line. cuff pressures 40-50mmhg <a-line. strong palp pulses on all extremities. Cycling cpks x3. #1 203, troponin 2 #2 321 troponin .3...next due at 10am. L radial arterial line.
+
+RESP: on 2l nc, rr 18-24, sats 96%, on RA satting 92-95%. BS CTA throughout.
+
+GI: ab soft, +BS, NPO, vomited x1 for sm amt clear emesis. Receiving zanac.
+
+GU: foley patent, u/o 20-80cc/hr, ivf w/ ns 40kcl at 75cc/hr.
+
+HEME: hct drop 31.2 (from 38.3), plt 205, pt 12.5, ptt 22, inr 1.0.
+
+I/D: wbc 13.8, afebrile.
+
+ENDO: no issues
+
+SKIN: intact
+
+A/P: repeat head & neck CT, clear c-spine & tls, cont. q1hr neuro checks, cont. snp gtt to maintain sbp <150, encourage c&db, cycle cpk's, monitor lytes, replete K, provide support & frequent re-orientation to pt.
+",,
+13966,21403,17372,0,2787-10-19 15:47:00 EST,2787-10-19 16:07:00 EST,3751,"N",53,"Nursing/Other","Nursing Note:","
+Nursing Note:
+Review of systems:
+
+See Admission note:
+
+CV:  Episodes of hypertension to 180/70 requiring NTP for control, NTP weaned off this pm, restarted for BP>180, lopressor started, hr=98-116 sinus tachycardia.  Ext. warm, +dp with doppler.  
+
+RESP:  Maintained on RA alt. with 3lnp, sat=90-98%, resp. rate= 16-20, bs decreased throughout, needs encouragement to cough, ABG=147-36-7.38-22--2
+
+GI:  Abd. soft, hypoactive BS, continues NPO.
+
+GU:  Foley to gravity with amber urine 20cc/hr
+
+SKIN:  Intact, ecchymosis right hand
+
+MENTATION:  PERL, 3mm, pt. has periods of lucidity where he will follow commands, squeezes hand to command, moves legs, seems very appropriate, withdraws ext. to painful stimuli when he does not follow commands.  He also has periods of marked agitation and confusion where he attempts to get out of bed, sitting up, pulling on restraints, and calling out.  Haldol started with decrease in agitation.  Still requires wrist and limb restraints and sitter.  Cat scan of head and neck done, awaiting official reading.  [**Location (un) 14**] J collar in place.
+
+LABS:  K=3.4(40 kcl in iv fluid), hct=32.4, cpk 839,mb=5, final troponen pending.  
+
+LINES:  #18 angio right antecubital, IV team to place additional line. 
+
+SOCIAL:  Wife and children in to visit, they are anxious to get him back home, stating that he is more comfortable in familar surroundings, call made to Case Management ( no return).  Social worker informed to patient.
+",,
+13966,21403,,,2787-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-20**] 10:10 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 5123**]
+     Reason: r/o c-spine injury
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with head trauma
+     REASON FOR THIS EXAMINATION:
+      r/o c-spine injury
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Head trauma, evaluate for spinal injury.
+     
+     COMPARISON:  No priors.
+     
+     TECHNIQUE:  MRI of the cervical spine with T1 and T2 weighted sagittal images
+     as well as gradient echo axial images through C3 through T1.  There is no
+     abnormal signal seen within the cord however this study is significantly
+     limited secondary to extensive patient motion.  STIR sequences cannot be
+     performed. There is no abnormal seen within the vertebral bodies.  There
+     additionally is no evidence of canal compromise or cord compression.
+     Evaluation of neural foramina are limited secondary to patient motion.
+     
+     IMPRESSION:  Very limited study secondary to extensive patient motion but no
+     gross abnormality is appreciated.
+
+",,
+13966,21403,,,2787-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2787-10-20**] 11:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5124**]
+     Reason: F/U FOR INTRACRANIAL HEMORRAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p fall. Follow up CT to eval extent of intracranial
+      hemorrhage.
+     REASON FOR THIS EXAMINATION:
+      r/o intracranial hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Followup, evaluate extent of intracranial hemorrhage.
+     
+     COMPARISON:  [**2787-10-18**], [**2787-10-19**] - listed as unspecified.
+     
+     TECHNIQUE:  Axial noncontrast images were obtained.
+     
+     FINDINGS:  The subependymal hemorrhage is stable in appearance.  There is a
+     small amount of blood in the occipital horns bilaterally.  This has not
+     significantly changed compared with [**2787-10-19**].  There are no other abnormal
+     attenuation foci within the parenchyma.  There is evidence of periventricular
+     white matter low density which is consistent with chronic microvascular
+     infarction.  There is a small amount of subarachnoid hemorrhage noted on the
+     right.
+     
+     IMPRESSION:
+     
+     Stable appearance of subependymal hemorrhage.  No evidence of new parenchymal
+     abnormality.
+
+",,

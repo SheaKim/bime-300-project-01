@@ -1,0 +1,533 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13924,23381,,,3150-05-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3150-5-2**]              Discharge Date:   [**3150-5-10**]
+ 
+Date of Birth:  [**3069-12-6**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Betalactams
+ 
+Attending:[**First Name3 (LF) 571**] 
+Chief Complaint:
+Bacteremia
+ 
+Major Surgical or Invasive Procedure:
+transfer to unit, line placed
+ 
+History of Present Illness:
+80M CAD s/p CABG [**3136**] (LIMA to LAD, SVG to RCA, SVG to LCX), 
+ischemic CM/CHF with EF 35%, chronic afib (on coumadin) s/p PPM 
+(infected wire 1992, revised and reinserted on left in [**3138**]), 
+initially admitted to OSH [**12-14**] for LLL PNA, treated with 
+levofloxacin.  He was readmitted [**1-14**] with ? cellulitis RUE 
+related to IV site and found to have MSSA bacteremia, treated 
+with IV PCN x 4 weeks.   He did well until [**3150-4-23**] when he 
+developed F/C at home.  Outpt Blood Cx + for MSSA --> admitted 
+to OSH for IV ceftriaxone, zosyn and levofloxacin.  Few days 
+later changed to nafcillin and then PCN.  He continues to have 
+positive blood cultures despite treatment.  TEE report from 
+[**3150-4-27**] showed increased echogenicity on 2 pacer wires without 
+vegetations, EF 35%.  
+ He was transferred to [**Hospital1 19**] [**3150-5-2**] for persistent staph aureus 
+bacteremia after receiving IV abx since readmission on [**3150-4-21**], 
+concern for PPM infection, and acute renal failure occurring 
+while receiving abx at OSH.
+  In CCU, patient remained hemodynamically stable.  ID, Renal, 
+and CT surgery consultants are following.  Patient currently on 
+IV ceftriaxone and oxacillin.  
+ 
+Past Medical History:
+CAD s/p CABG [**3136**] (LIMA to LAD, SVG to RCA, SVG to LCX)  
+Ischemic CM and CHF, LVEF 35%  
+History of PE on Coumadin  
+PPM placed 1992, c/b infection, with replacement 1994 or 2004
+Moderate to severe TR  
+Chronic afib  
+COPD  
+GERD 
+GOUT 
+ 
+Social History:
+Lives alone and cares for himself.  NOK are his 2 nieces.
+ 
+Family History:
+Not discussed
+ 
+Physical Exam:
+T 97.0, 93/50, 80, 18, 96% on RA
+GEN - NAD, A&Ox3, sitting up in bed eating
+HEENT - PERRL, EOMI, OP clear, MMM
+NECK - no JVD, no LAD
+HEART - nl s1s2, RRR, III/VI HSM at RUSB
+LUNGS - CTAB, poor air movement
+ABD - soft, NT/ND, NABS, no hsm, no masses
+EXT - no edema
+
+ 
+Pertinent Results:
+[**5-2**] INR 21.4
+[**5-2**] urine eos negative
+[**5-2**] creatinine 4.9
+
+OSH micro - 
+Blood cx [**4-29**], [**4-29**] and [**5-2**] NGTD for staph
+Blood cx [**4-29**] + for Cornybacterium
+
+EKG [**3150-5-2**]: NSR at 86 bpm, TW flattening I, L, V6
+
+CXR [**3150-5-2**]: No CHF or infiltrates, flattened diaphragms, 
+dual-pacer, s/p CAB
+
+Renal U/S [**3150-5-3**]: no hydro, no stones, no masses in kidneys, 
+prostate enlarged, small echogenic kidneys
+ 
+Brief Hospital Course:
+1) MSSA Bacteremia: Patient received Nafcillin and PCN at OSH 
+and last + BCx was [**4-28**]. He then developed ARF likely [**1-11**] AIN 
+(white cell casts seen in urine despite lack of urine 
+eosonophils). He was then switched to vancomycin and placed on 
+prednisone. EP was planning on removing pacer wires at a later 
+time. In the setting of his renal failure, his lasix, ACEI and 
+allopurinol were held.  
+
+*  
+2) CARDIAC:  
+.  
+A) CAD: s/p CABG in [**3136**]. No evidence of ischemia on EKG. 
+Continued ASA, statin, BB (holding ACE-I [**1-11**] ARF).   Patient had 
+a h/o CHF: EF 35%. No evidence of failure on admission. Pt takes 
+lasix 80mg QOD even days, 40mg QOD odd days as OP.  Held and 
+ace. He was started on low dose BB, titrate up as tolerated  
+.  
+C) Atrial fibrillation: History of chronic afib. OP Coumadin 
+dose 1.25mg M-Sat; 2.5mg QSun.  INR 21 on admission, 12 today. 
+He was then given some vitamin K
+*  
+3) COPD: No evidence of exacerbation.  
+--Continued on atrovent, albuterol PRN  
+
+Patient was doing much better, until he developed the acute 
+onset of SOB requiring intubation and transfer to MICU. Given 
+his h/o of PE, there was concern for repeat PE. Given his renal 
+failure, CTA was difficult and given his COPD, a V/Q scan was 
+not feasible as well. He was started on heparin drip. He also 
+became hypotensive refractory to triple pressor support. An echo 
+was done which showed a severe EF depression (less than 10%) 
+with RV dilation and seevre global RV hypokinesis.  EKG has no 
+ischemic changes and first set of enzymes was negative. Concern 
+was still for a massive PE and there was a question as to 
+whether lytics sould be started. However, patient was oozing 
+blood from his line site and decision was to only start lytics 
+if a PE was definite. He was too unstable to go for CTA, and 
+decison was to take the patient to cath to better define his HD. 
+ He continued to clinically decline and was started on broad 
+spectrum abx, including vanco, levo, [**Doctor Last Name **] gent.  A pulmonary 
+angiogram was done, and showed no evidence of PE.  In addition, 
+his blood cultures grew [**3-13**] gram negative rods, and patient 
+continued  to decline clinially and seemed in septic shock with 
+limited cardaic reserve. His family was contacted and the case 
+was discussed. Patient passed away shortly thereafter. 
+ 
+Medications on Admission:
+(On admission to [**Hospital3 **]): Lisinopril 20mg daily, Lanoxin 
+0.25mg daily, Lasix 80mg QOD, Allopurinol 200mg daily, Ecotrin 
+81mg daily, Coumadin (dose not listed), Omeprazole 20mg daily, 
+Lescol 80 daily, Floredil, Atrovent.  
+ 
+Discharge Medications:
+patient expired
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+patient expired
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+Expired
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 575**] MD [**Last Name (un) 576**]
+ 
+Completed by: [**First Name4 (NamePattern1) 409**] [**Last Name (NamePattern1) 410**] MD [**MD Number 411**] [**3150-5-10**] @ 1417
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Name (STitle) 14**]
+ on: FRI [**3150-9-22**] 4:04 PM
+(End of Report)
+
+
+",,
+13924,23381,,,3150-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-2**] 8:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4681**]
+     Reason: Evaluate for infiltrate/consolidation                       
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with history of PPM infection, persistent bacteremia.           
+     REASON FOR THIS EXAMINATION:
+      Evaluate for infiltrate/consolidation                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE SINGLE VIEW.
+     
+     INDICATION:  History of ___infection, persistent bacteremia.  Evaluate for
+     infiltrates.
+     
+     FINDINGS:  AP single view of the chest obtained with patient in upright
+     position demonstrates status post sternotomy and the presence of multiple
+     surgical clips in the left-sided mediastinum are indicative of previous bypass
+     surgery.  A permanent pacer is located in anterior axillary position connected
+     to two intracavitary electrodes both terminating in a position compatible with
+     the apical portion of the right ventricle.  Should one of the electrodes be
+     aiming for the coronary sinus and left-sided ventricular pacing, a lateral
+     view should be obtained to differentiate appropriate position.
+       
+     The heart is not significantly enlarged and no typical configurational
+     abnormality is present.  The thoracic aorta is unremarkable for age and
+     demonstrates some linear calcifications in the wall of the aorta.
+     
+     The pulmonary vasculature is not congested and no acute parenchymal
+     infiltrates can be identified.  The low positioned and somewhat flattened
+     diaphragms are suggestive of some COPD.
+     
+     There exist no prior chest examination on our records available for
+     comparison.
+     
+     IMPRESSION:  Status post bypass surgery, dual electrode pacer, no evidence of
+     CHF or acute infiltrates.
+                                                                           
+
+",,
+13924,23381,17320,0,3150-05-02 18:06:00 EST,3150-05-02 18:28:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 1600-1900","
+CCU NPN 1600-1900
+S: ""Everytime I urinate I get diarrhea...I feel okay...I don't have much of an appetite.""
+
+O: Please see admission note FHP and careview for VS and additonal data, pt admitted to CCU at 1600.
+
+CV: Pt in afib HR 92-113 with frequent PVC's, lytes drawn, K 4.4, Mg 1.9, calcium 8.1. NBP 103-127/54-74. Pulses palp,EP up to interogate pacer at approx 1700. Pt with R UE edema distal to PICC site-HO aware, IV therapy up to eval, see note in chart.
+
+Resp: LS CTA, dim at bases.  Pt RR 18-22, O2 sats 93-97 on room air. Pt denies SOB.
+
+ID: Pt afebrile, abx ordered. Bld cx's sent x 1.
+
+GI/GU: pt abd soft, +BS x 4, pt with loose +guiac stool x 1-HO aware. Pt taking PO's, poor appetite. Pt voided clear dark yellow urine x 1 via urinal, pt to get foley this eve. BUN 36 creat 4.9. 
+
+Neuro: Pt pleasant, alert and oriented x 3, pt asking appropriate questions regarding care. Pt MAE, pt stood to use urinal and sat on side of bed without difficulty.
+
+Social: No calls.  Pt has two nieces-one lives locally and is HCP. Pt lives alone but is friendly with the neighbors below him.
+
+A/P: 80 y/o male with pmh CHF, COPD, PE, perm pacer '[**36**] infected, replaced 94, pt with mult OSH admits for infection, pt admitted this eve with increasing BUN/creat and ? infected pacing wire.  As per CCU Team, continue to monitor hemodynamics, lytes, coags, monitor for bleeding.  Continue to monitor BUN/creat. Continue to monitor temps, cx's, give abx as ordered, monitor RUE. ? pacer removal/replacement or tx with abx-awating further plans from CCU Team.  Continue to provide emotional support to pt and family.
+",,
+13924,23381,17320,,3150-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-3**] 3:32 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 4682**]
+     Reason: Please evaluate for hydronephrosis, renal artery stenosis.  
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with acute renal failure.                                       
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for hydronephrosis, renal artery stenosis.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old with renal failure.
+     
+     FINDINGS:  The kidneys are small and markedly echogenic.  The right kidney
+     measures 9 cm, and the left kidney measures 8.5 cm.  Arterial and venous flow
+     is demonstrated in both kidneys; however, full arterial waveform evaluation
+     was not obtained due to the patient's inability to cooperate with breathing. 
+     There is no evidence of hydronephrosis, stones, or masses in the kidneys.  A
+     Foley catheter is demonstrated in the urinary bladder, and the prostate gland
+     is enlarged.
+     
+     IMPRESSION:  Small echogenic kidneys with no hydronephrosis.
+                                                                           
+
+",,
+13924,23381,17320,0,3150-05-03 03:24:00 EST,3150-05-03 05:30:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S:""Look at this bruise on my elbow"".
+O: Neuro- Pt is A+Ox3 pleasant/cooperative, PEARL/MAE. Given apap for generalized pain and a prn ambien with good effect.
+CV- Tele AF with occ PVCs, several runs NSVT. HR 70-78, NBPs 100-112 /45-60s. Approx 0100 his BP was noted to drop into 70s, HO notified who ordered NS [**Doctor Last Name 585**] 500cc with good results. MN lopressor dose held. Pt has a pacemaker but type/rate unknown, EP has interogated. Coumadin on hold, INR 12.0 down from 21.4. SL PICC in R brachial intact. R arm elevated on pillow d/t new elbow abrasion with lg hematoma and swelling, slowly resolving.
+ID- Tmax 97.0 po, wbc 11.9. Started on iv oxacillin q6 for ? MSSA bacteremia most likely d/t pacer wires.
+Resp- LS clear up, diminished in bases. 02 sats >95% r/a, noted some doa but no c/o sob. Inhalers @ bedside.
+GI/GU- Abd soft +bs, oob-commode sm loose bm x2 OB+, encouraging POs. Foley cath inserted, urine op 15-25cc/hr concentrated, labs sent. 
+A/P: 80yo male with hx +MSSA bacteremia d/t pacer wire infection. Admitted with increased BUN/Cre, fever/chills ? sepsis most likely d/t pacer wires and ARF. Plan tx with iv abx or replace pacer, hold coumadin and cont to monitor coags. Monitor R arm swelling and for  bleeding.
+",,
+13924,23381,17320,0,3150-05-03 06:01:00 EST,3150-05-03 06:04:00 EST,5517,"N",1,"Nursing/Other","Addendum","
+Addendum
+Second set of blood cultures were obtained via venous stick.
+",,
+13924,23381,,,3150-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-4**] 2:52 PM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 4683**]
+     Reason: eval for DVT                                                
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with edema s/p fall                                             
+     REASON FOR THIS EXAMINATION:
+      eval for DVT                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper extremity edema.
+     
+     FINDINGS:  Grayscale and Doppler sonograms of the right internal jugular vein,
+     subclavian, axillary, basilic, and cephalic veins were performed.  A PICC line
+     is demonstrated extending up from the basilic vein.  Normal flow,
+     augmentation, compressibility, (when possible), and waveforms were
+     demonstrated.  Intraluminal thrombus was not identified.
+     
+     IMPRESSION:  No evidence of DVT.
+                                                                           
+
+",,
+13924,23381,,,3150-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-9**] 4:16 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4685**]
+     Reason: pls check ET tube placement                                 
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with history of PPM infection, persistent bacteremia. Sudden 
+      hypoxia/respiratory failure, s/p intubation with poor oxygenation           
+     REASON FOR THIS EXAMINATION:
+      pls check ET tube placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of persistent bacteremia, status post intubation ,
+     evaluate ET tube placement.
+     
+     COMPARISON:  Study from [**3150-5-9**].  03:09.
+     
+     FINDINGS:  There has been interval placement of an ET tube, with the tip
+     positioned approximately 3 cm above the carina.  There has been interval
+     development of right perihilar opacity in comparison to prior study done
+     approximately one hour prior, which suggests that this is related to
+     aspiration.  The cardiac and mediastinal contours are stable in appearance.  A
+     pacemaker is seen overlying the left hemithorax.  An NG tube is seen extending
+     into the stomach.  There is a small left pleural effusion.  No pneumothorax is
+     seen.  Soft tissue and osseous structures are unchanged.
+     
+     IMPRESSION:  Interval intubation, with the tube approximately 3 cm above the
+     carina.  There is a new right hilar opacity, which likely represents
+     aspiration.
+
+",,
+13924,23381,,,3150-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-9**] 10:24 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4687**]
+     Reason: now s/p line - placement and ro pneumothorax                
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old man with history of PPM infection, persistent bacteremia. Sudden 
+       hypoxia/respiratory failure, s/p intubation with poor oxygenation           
+     REASON FOR THIS EXAMINATION:
+      now s/p line - placement and ro pneumothorax                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  History of persistent bacteremia with history of failure, status
+     post intubation.  Now with line placement.  Evaluate for pneumothorax.
+     
+     COMPARISON:  [**3150-5-9**] at 04:48.
+     
+     FINDINGS:  Again seen are an ET tube, NG tube, left-sided pacemaker, and
+     right-sided PICC line, which are unchanged in appearance.  No pneumothorax is
+     identified.  There is interval worsening opacification of the right upper
+     lobe, from the right perihilar opacity seen on the prior study.  This likely
+     represents worsening aspiration-related pneumonitis.  The cardiac and
+     mediastinal contours are stable in appearance.  Small left pleural effusion is
+     again noted.  The remaining lung fields are unchanged in appearance.
+     
+     IMPRESSION:  Worsening opacity of the right upper lobe, likely representing
+     worsening aspiration pneumonitis.  Results were discussed with Dr. [**First Name8 (NamePattern2) 4145**]
+     [**Last Name (NamePattern1) 4688**] at 11:45 a.m. on [**3150-5-9**].
+
+",,
+13924,23381,,,3150-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-9**] 10:24 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4687**]
+     Reason: now s/p line - placement and ro pneumothorax                
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old man with history of PPM infection, persistent bacteremia. Sudden 
+       hypoxia/respiratory failure, s/p intubation with poor oxygenation           
+     REASON FOR THIS EXAMINATION:
+      now s/p line - placement and ro pneumothorax                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATION:  History of persistent bacteremia with history of failure, status
+     post intubation.  Now with line placement.  Evaluate for pneumothorax.
+     
+     COMPARISON:  [**3150-5-9**] at 04:48.
+     
+     FINDINGS:  Again seen are an ET tube, NG tube, left-sided pacemaker, and
+     right-sided PICC line, which are unchanged in appearance.  No pneumothorax is
+     identified.  There is interval worsening opacification of the right upper
+     lobe, from the right perihilar opacity seen on the prior study.  This likely
+     represents worsening aspiration-related pneumonitis.  The cardiac and
+     mediastinal contours are stable in appearance.  Small left pleural effusion is
+     again noted.  The remaining lung fields are unchanged in appearance.
+     
+     IMPRESSION:  Worsening opacity of the right upper lobe, likely representing
+     worsening aspiration pneumonitis.  Results were discussed with Dr. [**First Name8 (NamePattern2) 4145**]
+     [**Last Name (NamePattern1) 4688**] at 11:45 a.m. on [**3150-5-9**].
+
+",,
+13924,23381,,,3150-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-9**] 4:16 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4685**]
+     Reason: pls check ET tube placement                                 
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with history of PPM infection, persistent bacteremia. Sudden 
+      hypoxia/respiratory failure, s/p intubation with poor oxygenation           
+     REASON FOR THIS EXAMINATION:
+      pls check ET tube placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of persistent bacteremia, status post intubation ,
+     evaluate ET tube placement.
+     
+     COMPARISON:  Study from [**3150-5-9**].  03:09.
+     
+     FINDINGS:  There has been interval placement of an ET tube, with the tip
+     positioned approximately 3 cm above the carina.  There has been interval
+     development of right perihilar opacity in comparison to prior study done
+     approximately one hour prior, which suggests that this is related to
+     aspiration.  The cardiac and mediastinal contours are stable in appearance.  A
+     pacemaker is seen overlying the left hemithorax.  An NG tube is seen extending
+     into the stomach.  There is a small left pleural effusion.  No pneumothorax is
+     seen.  Soft tissue and osseous structures are unchanged.
+     
+     IMPRESSION:  Interval intubation, with the tube approximately 3 cm above the
+     carina.  There is a new right hilar opacity, which likely represents
+     aspiration.
+
+",,
+13924,23381,,,3150-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-9**] 2:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4684**]
+     Reason: low O2 sat, SOB                                             
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with history of PPM infection, persistent bacteremia.          
+       
+     REASON FOR THIS EXAMINATION:
+      low O2 sat, SOB                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of persistent bacteremia with low O2 sats and shortness
+     of breath.
+     
+     COMPARISON:  [**3150-5-2**].
+     
+     FINDINGS:  There is flattening of the diaphragms and hyperinflation consistent
+     with chronic emphysematous changes.  No opacities are identified within the
+     lung fields.  A pacemaker is seen overlying the left hemithorax. Median
+     sternotomy wires are again seen from patient's prior CABG.  There is a small
+     left pleural effusion noted.  No pneumothorax is seen.  Soft tissue and
+     osseous structures are stable in appearance.
+     
+     IMPRESSION:  No evidence of pneumonia.  Chronic emphysematous changes are
+     again seen.  A small left pleural effusion is noted.
+
+",,
+13924,23381,,,3150-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3150-5-9**] 5:34 AM
+     BILAT LOWER EXT VEINS PORT                                      Clip # [**Clip Number (Radiology) 4686**]
+     Reason: ro new dvt(pt w copd v/q, arf CTA and ppm MRI               
+     Admitting Diagnosis: PACER LEAD INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with le edema and acute sob 2 hrs after noting incr swelling in 
+      rt leg and hx of pe on coumadin
+     REASON FOR THIS EXAMINATION:
+      ro new dvt(pt w copd v/q, arf CTA and ppm MRI                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 80-year-old male with bilateral lower extremity edema.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     BILATERAL LOWER EXTREMITY DVT STUDY:  Grayscale and Doppler sonograms of the
+     bilateral common femoral, superficial femoral, popliteal veins were performed.
+     There is normal flow, compressibility, and augmentation of these vessels.  No
+     intraluminal thrombus was identified.
+     
+     IMPRESSION:  No evidence of DVT.
+                                                                           
+
+",,
+13924,23381,17321,0,3150-05-09 04:31:00 EST,3150-05-09 05:10:00 EST,2108,"N",69,"Nursing/Other","micu nursing admission note","
+micu nursing admission note
+pt arrived from [**Hospital Ward Name 40**] 3 tonight cyanotic, in resp distress. intubated immediately upon arrival to floor. 
+
+please see fhpa for details on admission
+please see carevue for all objective data
+
+briefly, pt is an 80 yo male hx of cad, cabg in 92, chronic afib on coumadin at home. s/p ppm (infected wire 92, revised and reinserted on l in 94).. was initially admitted to osh [**12-14**] for lll pna, treated w/levofolxacin.. readmitted [**1-14**] w/?cellulitis rue r/t old iv site, found to have mssa bacteremia. treated for 4 weeks w/iv pcn, doing well until [**4-23**] when he developed fever/chills at home. outpt bc's +for mssa. admitted to osh for ceftriaxome, zosyn and levofloxacin. cont's to have +bc's despite treatment. echo [**4-27**] showing no [**Last Name (LF) 5428**], [**First Name3 (LF) **] 35%. transferred to [**Hospital1 **] ccu from osh [**5-2**] for further w/u of ?infected pacer, arf. in ccu, pt hemodynamically stable and transferred to [**Wardname **] [**5-3**]. has been doing o.k. on the floor for past several days. last evening, developing acute sob at ~0300, sats reportedly in the 70's.. brought to the micu emergently and intubated.. 
+att his point pt being w/u for poss pe's vs. pna/chf componant w/new opacity on cxr. lenni's being checked right now. plan for possible ct w/o contrast today.
+
+brief ros-
+
+neuro- sedated now on 25 mcg/hr of fentanyl, 0.5 mg versed. arousable, coughs/gags on tube. 
+cv- hr 70-1teens afib. briefly a-v paced on arrival to micu. 
+resp- fully vented on a/c 550x14. unable to get o2 sat readings po2 on abg 188. weaned fio2 down to 60%. 
+gi/gu- ogt inserted w/intubation. uop was 100cc on arrival to floor. 10cc over past hour. being bolused presently w/1.5L for hypotension issues.
+id- wbc24 mssa bacteremia. urine and sputum sent as ordered.
+",,
+13924,23381,17321,0,3150-05-09 05:04:00 EST,3150-05-09 05:06:00 EST,6865,"N",69,"Nursing/Other","resp care","
+resp care
+Pt transfered to MICU B, intubated by anesthesia w/ 7.5 et tube, 25 at lip, pos. etco2 color change, bil breath sounds clear. Pt placed on [**Last Name (un) **] XL, AC 550 x 14 100% 5 peep. Sx'd mod thick brown secretions via et tube. Plan to continue with full vent support at this time and wean fio2 as tol.
+",,
+13924,23381,17321,0,3150-05-09 18:12:00 EST,3150-05-09 18:47:00 EST,6578,"N",69,"Nursing/Other",,"
+
+0700-1900 NPN:
+
+TRANSFER FROM [**Hospital Ward Name **] 3 AT APPROX 0300 THIS AM TO MICU W/ RESP DISTRESS, PE VS PNA VS CHF. INTUBATED IN MICU AND IV SEDATION STARTED. PMH OF AFIB, ON COUMADIN DAILY AT HOME, AND PE. PER REPORT- HEPARIN GTT GIVEN ON [**Hospital Ward Name **] 3 STOPPED YESTERDAY AND LOVENOX STARTED. PT C/O SEVERE SUDDEN SOB THIS AM, BECAME CYANOTIC W/ O2 SAT IN 70'S. 
+
+PLEASE SEE CAREVUE FLOWSHEET FOR OBJECTIVE DATA AND FURTHER SHIFT DOCUMENTATION. SEE POE ORDER AND MAR RECORD. VERBAL REPORT GIVEN TO NEXT SHIFT. 
+
+EVENTS- RECEIVED PT INTUBATED ON AC 550/14/60%/PEEP=5 WITH HYPOTENSION AND NO VASOPRESSORS OR HEPARIN GTT R/T NO CENTRAL ACCESS. IV DOPAMINE GIVEN VIA RIGHT SINGLE LUMEN PICC, CAUSING TACHYCARDIA HR 130'S. TEAM ATTEMPTED CENTRAL X 5, UNABLE TO PLACE SUBCLAV OR IJ SITE, GOOD BLOOD RETURN BUT UNABLE TO THREAD WIRE. ULTRASOUND USED W/O SUCCESS. LEFT FEMORAL LINE TLC PLACED. SMALL BOLUSES OF SEDATION GIVEN FOR LINE PLACEMENT, TOTAL VERSED 4MG AND FENTANYL 50 MCG THROUGHOUT ALL ATEMPTS. LIMITED AMTS OF SEDATION GIVEN R/T PROFOUND HYPOTENSIVE EFFECTS W/O ABILITY TO ADMINSTER VASOPRESSORS. FEMORAL LINE TRANSDUCED AND DETERMINED TO BE VENOUS. IV LEVO STARTED, PT CONTINUED TO HAVE SEVERE HYPOTENSION. IV VASOPRESSIN AND IV NEO STARTED, CURRENTLY ALL VASOPRESSORS MAXED OUT. IV MILIRONE STARTED, OFF AT THIS TIME. IV HEPARIN INFUSING AT 1200U/HR, 2500U BOLUS GIVEN PRIOR TO GTT. 1800 PTT PENDING. MULTIPLE LR FLUID BOLUSES GIVEN FOR HYPOTENSION. B/P BUMPS WELL W/ FLUID BOLUS. CXR SHOWED WORSENING RIGHT OPACITY, RIGHT SIDE ""WHITE OUT"" PER TEAM. ECHO DONE AT BEDSIDE- SHOWING APPROX EF 5% W/ VERY POOR RV AND LV FUNCTION, PLEASE SEE REPORT. EKG DONE AND CARDIOLOGY CONSULTED. CARDIAC CATH RECOMM. MICU TEAM SPOKE W/ PT'S NIECE/HCP WHO STATED PT WOULD WANT EVERYTHING DONE/ ALL MEDICAL TREATMENT. PT REMAINED FULL CODE, CARDIAC CATH DONE. DYE INJECTED, NO TPA GIVEN. SEE REPORT, NO PULMONARY EMBOLISM FOUND. SWAN-GANZ PLACED IN CATH LAB, WEDGE=25. CARIDAC OUTPUT AND INDEX POOR, TEAM AWARE. MUCOMYST ORDERED AND GIVEN VIA OGT. SXN FREQ FOR COPIOUS AMTS THIN FROTHY TAN COLORED SECRETIONS. CURRENTLY ON AC 500/20/100%/PEEP=10. WORSENING BLOOD GASES THRU SHIFT, TEAM AWARE. VENT SETTINGS CHANGED AND HEATED WIRE CIRCUIT ADDED BY RESP THERAPIST. CONTINUES IN AFIB @ 110-130'S W/ FREQ VENT ECTOPY. UNABLE TO OBTAIN PERIPHERAL O2 SAT R/T COLD/CYANOTIC EXTREMITIES. OS SAT VIA ABG= 95-99%. BLOOD CX SENT X 2 AS ORDERED. AFEBRILE. IV VANCO, LEVAQUIN, AND GENTA ORDERED. PT RETURNED FROM CARDIAC CATH LAB AT 1800 W/O COMPLICATION- ABP/CVP/PAP TRANSDUCED. TEAM REPORTED PLAN TO CALL PT'S NIECE/HCP TO REPORT PT'S STATUS/CONDITION AND DISCUSS CODE STATUS. NRSG PLAN- FOLLOW UP 1800 PTT AND TITRATE HEPARIN GTT PER PROTOCOL. CONTINUE HEMODYNAMIC MONITORING, FLUID BOLUES PER TEAM, AND SUPPORTIVE ICU CARE. 
+",,
+13924,,17321,0,3150-05-10 03:55:00 EST,3150-05-10 03:57:00 EST,2108,"N",69,"Nursing/Other","micu death note","
+micu death note
+mr [**Known patient lastname **] [**Last Name (Titles) 195**]'d to do poorly. dr [**Last Name (STitle) **] spoke w/his neice and hcp last eve. it was decided to make him a dnr but continue treatment, not to go up on pressors or add anything. he passed away at 0445 and was pronounced by micu intern. belongings sent to morgue w/pt.
+",,

@@ -1,0 +1,1095 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13866,25112,,,3157-11-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3157-11-25**]              Discharge Date:   [**3157-12-6**]
+ 
+Date of Birth:  [**3076-9-12**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Codeine / Sulfa (Sulfonamides) / Morphine / Dilaudid
+ 
+Attending:[**First Name3 (LF) 1173**] 
+Chief Complaint:
+fever, decreased PO intake
+
+ 
+Major Surgical or Invasive Procedure:
+1. Swan Ganz catheter (performed at outside hospital)
+2. Percutaneous coronary intervention
+
+ 
+History of Present Illness:
+81 yof admitted to OSH [**3157-11-24**] with approximately 1 week of 
+feeling weak with decreased po intake. In ER, temp was 105 and 
+UA grossly positive. BC grew +GNR 3/4 bottles c/w urosepsis. 
+Received levoquin and one dose each of ceftriaxone and 
+ceftazadine. Patient ruled in for MI with tropI of 12, 25.3, 
+13.5. Patient became hypotensive and was started on dopamine ggt 
+overnight and levophed the following morning. PA line was placed 
+with wedge 16 mmHG, RA 11. Cardiac index started to drop around 
+12pm (1.8)-dobutamine was started.
+.
+She had also been on heparin overnight, platelets started to 
+drop and D-Dimer + at 5000. Heparin was changed to lovenox BID.
+.
+Echo [**3157-11-25**] showed EF 25-30% and anteroapical akinesis. About 
+4pm patient began to develop chest discomfort. EKG with ST 
+elevation in anterior leads (V2-V4). Dobutamine was stopped at 
+this point and IV nitro started. She became pain free and was 
+subsequently transferred by helicopter to [**Hospital1 19**] for further 
+management. Pt cath'd with LAD 60% occlusion otherwise patent 
+RCA and LCx, abnormal LV gram.
+.
+On review of systems, denies headache, dizziness, cough, chest 
+pain, shortness of breath, nausea, dysuria, urinary frequency, 
+back pain. Per patient's family, she has not been feeling well 
+for approximately 1 week, occasionally vomitting and with 
+decreased PO intake.
+
+ 
+Past Medical History:
+1. hypertension
+2. rheumatoid arthritis
+3. anemia
+4. s/p fracture of clavicle
+5. s/p left total knee replacement
+6. s/p hysterectomy
+7. s/p CCY
+
+ 
+Social History:
+No tobacco, no etoh. Lives at home with her husband. Has adopted 
+older daughter who lives nearby. Retired, used to work for the 
+government.
+
+ 
+Family History:
+denies family history of heart disease
+
+ 
+Physical Exam:
+VS T 96.6    BP 96/63  MAP 74  HR 78    RR 18    100% NC 6L
+PAP 34/19    CVP 14
+Ht 5���2��� Weight 50 kg.
+GEN: elderly, NAD, lying flat
+HEENT: PERRL 2mm to 1mm, EOMI, o/p clear, dry mm
+NECK: supple
+CV: RRR S1S2, no m/r/g
+LUNG: decreased BS at left base and clear on right
+ABD: soft, nt, bs+
+EXT: nonpitting 2+ edema in ankles b/l and 1+ nonpitting edema 
+in hands b/l, DP dopplerable, PT 1+, right groin with dressing
+NEURO: alert, oriented to person, place (knew city but not 
+hosp), time (knew [**Holiday **] was near but not year was 2004)
+
+ 
+Pertinent Results:
+U/A leuk tr, nitr neg, WBC [**6-14**], bact many, epi [**3-9**]
+Gluc 187, Na 136, K 3.8, Cl 108, HCO3 16, BUN 18, Cr 1.0
+CK 538 MB 85 MBI 15.8 TropT 1.80
+Ca 6.9 Mg 1.6 P 2.9
+ALT 49 AST 132 AP 159 TB 0.9 Alb 2.2 
+WBC 45.5 HBG 9.8 Hct 29.1 Plat 122
+N 56    Bands 39   L 1    M 2   E 0   Bas 0   Metas 2
+PT 13.9   PTT 58.5   INR 1.3
+ABG 7.34/26/83/15
+
+[**3157-11-25**] Plt Ct-122*
+[**3157-11-28**] Plt Ct-62* 
+[**3157-11-30**] Plt Ct-127*# 
+[**3157-12-5**] Plt Ct-333
+[**3157-11-29**] Fibrino-302
+[**3157-11-29**] %HbA1c-6.1*
+[**3157-11-29**] Triglyc-134 HDL-22 CHOL/HD-5.4 LDLcalc-70
+
+[**3157-11-29**] HIT Ab [**Doctor First Name **] negative
+[**3157-12-3**] HIT Ab [**Doctor First Name **] negative
+
+[**3157-12-6**] PT-19.4* INR(PT)-2.6
+
+Microbiology: 
+urine culture at outside hospital E Coli pansensitive
+[**11-25**] blood culture no growth
+[**11-25**] urine culture no growth
+c diff negative x3
+.
+EKG: NSR 79 bpm, left axis, 1.0mm ST elevation V1, 2.0mm ST elev 
+V2, .5mm depressions in V4-5, 1.0mm depression V6, TW 
+flattening/TWI throughout?
+.
+Cath [**11-25**]: LAD 60% occlusion, nl LCx and RCA.
+.
+CXR: cardiomegaly no CHF, LLL atelectasis/infiltrate, biapical 
+pleural thickening/scarring ?prior granulomatous disease, 
+density in the right mid zone extending to the right hilum, 
+osteopenia.
+.
+CAROTID SERIES COMPLETE  [**3157-11-29**]
+No hemodynamically significant stenosis was identified in the 
+bilateral extracranial carotid arteries
+.
+CT HEAD W/O CONTRAST  [**3157-11-28**]
+IMPRESSION: No evidence of acute intracranial hemorrhage. No 
+evidence of acute infarction. MRI is more sensitive for the 
+detection of acute infarction.
+.
+MR HEAD W/O CONTRAST  [**3157-11-28**] 12:33 PM
+CONCLUSION: Unremarkable MRI and MRA of the head for age. No MR 
+features of acute vascular territorial infarct.
+.
+[**11-30**] EEG
+IMPRESSION: Probably normal awake and drowsy EEG without focal, 
+lateralizing, or epileptiform features seen. A senile drowsy 
+pattern is 
+considered normal for this age although deep midline dysfunction 
+cannot 
+be fully excluded. 
+.
+UNILAT LOWER EXT VEINS RIGHT  [**3157-12-1**]
+No right lower extremity DVT
+ 
+Brief Hospital Course:
+81 year old woman with h/o htn and rheumatoid arthritis (on 
+chronic steroids) admitted with urosepsis and found to have 
+stress-induced cardiomyopathy (s/p cath [**11-25**]). Found to have 
+thrombocytopenia consistent with HIT and may have suffered a TIA 
+ with negative head CT and MRI/MRA. Was placed on argatroban gtt 
+and aggrenox and bridged to coumadin while HIT Ab test was 
+pending. 
+.
+## Thrombocytopenia: Patient's platelet count was 122K on 
+admission and dropped three days later to 62K. Differential 
+diagnosis included sepsis, possible HIT I or II. SQ heparin and 
+all flushes stopped. Concurrently, patient developed facial 
+droop, ptosis, tongue deviation and right LE swelling concerning 
+for arterial and venous thrombi. US of right LE negative for 
+DVT. While HIT Ab was pending, patient was started on argatroban 
+gtt. Hematology/oncology was consulted and recommended bridging 
+patient to warfarin. First HIT Ab [**Doctor First Name **] test returned as 
+negative. Argatroban ggt was discontinued after the INR was >3 
+after a 3 hour trial off argatroban. Second HIT Ab [**Doctor First Name **] was 
+negative suggesting no HIT Ab. Also, per heme/onc time course of 
+thrombocytopenia was shorter than expected for development of 
+HIT Ab (usually 5-6 days) however in the setting of a possible 
+TIA, patient will continue warfarin with goal INR betw [**2-7**] until 
+follow-up at hematology/oncology clinic.
+.
+## Neuro: Had new facial droop and tongue deviation on [**11-28**] 
+thought be a TIA likely secondary to HIT Ab. Head CT was 
+negative for bleed. Head MRI/MRA was negative for acute 
+ischemia. Carotid doppler showed no significant stenosis. HBAIC 
+6.0 and lipid panel within normal limits. Stroke team was 
+consulted and recommended starting ASA. Patient was switched 
+from salsalate to ASA without adverse drug rxn (hx of asa 
+allergy), and then switched to aggrenox. Patient placed on baby 
+ASA while on coumadin. Unclear whether facial signs were TIA or 
+twitching so EEG was performed which was negative for 
+epileptiform activity. Per stroke, continue ASA until outpatient 
+follow-up. Recommended increasing ASA dose to 325mg once off 
+warfarin.
+.
+## Cardiac: likely stress-induced cardiomyopathy (Takotsubo) 
+versus secondary to sepsis.
+# Ischemia: patient had PTCA [**11-25**] revealing an LAD 60% occlus, 
+patent Lcx & RCA. Repeat echo [**11-26**] EF 25-30% severe LV 
+hypokinesis and LV sys fcn depression, RV sys fcn depression, no 
+endocarditis. TropI peaked at 25.3 at outside hospital, tropT 
+1.80 on admission. Patient started on toprol XL 25mg QD, 
+lisinopril 5mg PO QD and baby ASA. Nifedipine was held.
+# Pump: Patient with low EF in setting of sepsis. Initially 
+hypotensive on levophed and aggressively fluid resuscitated. 
+Patient was on also hydrocortisone and fludrocortisone for 1 
+week course and then resumed on her outpatient dose of 
+prednisone 1mg PO BID. Patient was gradually weaned off 
+pressors. Patient became  hypotensive again secondary to 
+excessive diarrhea which improved with fluid boluses and 
+resolution of her dairrhea. 
+# Rhythm: Sinus with PVCs. Cont telemetry.
+.
+#. Fever/Leukocytosis: Likely [**2-6**] E coli UTI and +BC GNR, has 
+been afebrile since admission, leukocytosis may also be 
+secondary to steroids, newly diagnosed lymphoma. OSH cx ([**Location (un) **] 
+ICU [**Telephone/Fax (1) 9750**])-> E. Coli pansensitive. Possible LLL pna on 
+CXR however sat'ing well on room air and asymptomatic. Repeat 
+U/A + for UTI & urine cxr no growth. C. diff negativex3. Patient 
+to complete a 2 week course of levoquin until [**12-6**] 
+urosepsis and possible LLL pneumonia. C. diff negativex3.
+.
+#. Acidosis: mixed venous pH 7.31, HCO3 15, AG adj for 
+hypoalb=13 HCO3 16. Likely mixed picture, nongap and gap 
+acidosis. Etiology likely secondary to septic shock, decreased 
+PO intake and fluid resuscitation with NS. Her 1.5 days of 
+diarrhea likely contributed to her nongap acidosis. HCO3 at 
+discharge 22 with no anion gap.
+.
+# Aphthous ulcer: likely [**2-6**] HSV 1 and stress.  
+- topical acyclovir to lip  
+- magic mouthwash for tongue/throat
+- pureed diet for now as pt's dentures don't fit  
+- consider adding sulcrafate if not feeling better  
+.  
+# Diarrhea: likely [**2-6**] to abx v c diff v [**2-6**] too aggressive 
+bowel regimen. Resolving. Changed to lactose free diet.  
+- cont Imodium  
+- Hold bowel regimen  
+- C diff negative x3  
+.
+#. Rheumatoid arthritis: initally held methotrexate and 
+prednisone. Should resume outpatient regimen.
+.
+#. FEN: repleting lytes, cardiac healthy diet as tolerated. 
+Nutrition was consulted given history of decreased intake and 
+low albumin, boost breezes with meals, zinc oxide, vitamin C for 
+wound healing (sacral irritation) and calcium vit D 
+supplementation for chronic steroid use.
+.
+#. Code status: full
+.
+#. Communication: Husband ([**Telephone/Fax (1) 9751**], Daughters: [**Doctor First Name **] ([**Telephone/Fax (1) 9752**], [**Doctor First Name **] ([**Telephone/Fax (1) 9753**]
+ 
+Medications on Admission:
+at home
+1. calcium c D 600U bid
+2. folate 1mg qd
+3. toprol XL 37.5mg qd (?)
+4. nifedipine 60mg qd
+5. salsalate 750mg bid
+6. methotrexate 2.5mg bid qFri, qSat 
+7. prednisone 1mg bid
+. 
+at OSH
+1. ceftriaxone 1gm IV x1
+2. ceftazadine 1gm IV x1
+3. levoquin 250mg IV x1
+4. levophed @ 12mcg/min
+5. IV nitro @ 20mcg/min
+6. dobutamine (now off)
+7. NS 75 cc/hour
+8. toprol 25mg QD
+9. lovenox 50mg q12(10am/pm)
+
+ 
+Discharge Medications:
+1. Timolol Maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic  BID 
+(2 times a day).  
+2. Cyclosporine 0.05 % Dropperette Sig: One (1) Dropperette 
+Ophthalmic  OU QD.  
+3. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**1-6**] 
+Drops Ophthalmic  PRN (as needed).  
+4. Prednisone 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+5. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig: 
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).  
+7. Lidocaine HCl 2 % Gel Sig: One (1) Appl Urethral PRN (as 
+needed).  
+8. Mineral Oil-Hydrophil Petrolat     Ointment Sig: One (1) Appl 
+Topical  TID (3 times a day) as needed.  
+9. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times 
+a day) as needed for diarrhea.  
+10. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+11. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+12. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 2 days: Until [**12-8**].  
+13. Acyclovir 5 % Ointment Sig: One (1) Appl Topical  6X/D (6 
+times a day).  
+14. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day) as needed.  
+15. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day) as needed.  
+16. Lidocaine Viscous 2 % Solution Sig: 15-20 cc Mucous membrane 
+ QACHS as needed for mouth/throat discomfort.  
+17. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+18. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as 
+needed: Not to exceed 4g/day.  
+19. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours as needed for pain: Please take with food.  
+20. Calcium 500 500 mg Tablet Sig: One (1) Tablet PO three times 
+a day: Please give before meals and at least 30 minutes before 
+or after giving levoquin and protonix.  
+21. Vitamin D 400 unit Tablet Sig: One (1) Tablet PO twice a 
+day: Please give before meals.  
+22. Warfarin 2 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+23. Methotrexate 2.5 mg Tablet Sig: One (1) Tablet PO twice a 
+day: Fridays and Saturdays ONLY.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 2475**] & Rehab Center - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Urosepsis
+2. Cardiomyopathy
+3. Pneumonia
+4. Thrombocytopenia
+5. TIA
+
+Secondary Diagnosis:
+6. Hypertension
+7. Rheumatoid arthritis
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please take the medications as prescribed.
+
+Please check INR level tomorrow Saturday [**3157-12-7**] and adjust 
+warfarin dose as needed for goal INR between 2 and 3.
+
+Please keep your follow-up appointments.
+
+If [**Doctor First Name **] have any chest pain, fevers/chills, difficulty breathing 
+or any other worrying symptoms please call your primary care 
+physician or come to the emergency room.
+ 
+Followup Instructions:
+1. Please follow-up with Dr. [**First Name (STitle) 9754**] [**Name (STitle) 9755**] on [**3157-12-20**] 3:30pm 
+([**Telephone/Fax (1) 9756**].
+.
+2. Please follow-up in Cardiology clinic with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] 
+on [**3157-12-23**] 10:30 Location: [**Hospital Ward Name **] Clinical Center Floor 7 
+Phone: ([**Telephone/Fax (1) 8129**].
+.
+3. Please follow-up in Heme/Onc clinic with Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2164**] 
+on [**3157-2-7**] 10:00 Location: [**Hospital Ward Name **] Clinical Center Floor 9 Phone: 
+([**Telephone/Fax (1) 9757**].
+.
+4. Please follow-up in Neurology clinic with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] 
+on [**3157-3-11**] 3:00pm Location: [**Hospital Ward Name **] Clinical Center Floor 8 
+Phone: ([**Telephone/Fax (1) 9758**].
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1180**] MD [**MD Number 1181**]
+ 
+Completed by: [**Name6 (MD) 1456**] [**Name8 (MD) **] MD [**MD Number 1457**] [**3157-12-6**] @ 1454
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: MON [**3157-12-23**] 3:50 PM
+(End of Report)
+
+
+",,
+13866,25112,,,3157-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-25**] 8:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4217**]
+     Reason: ?infiltrate                                                 
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with fevers and cardiomyopathy.                               
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever and cardiomyopathy, question infiltrate.
+     
+     CHEST, SINGLE AP VIEW. No previous chest x-rays on PACS record for comparison.
+     
+     Rotated positioning. There is mild-to-moderate cardiomegaly.  The aorta is
+     calcified.  There is biapical pleural thickening, which extends along both
+     right and left paratracheal regions.  No abnormal constriction of the trachea
+     is identified. In addition, the aortic wall appears to be thickened on this
+     examination. There is firbonodular scarring in both upper zones.
+     
+     There is a band of density through the right mid lung, which could represent
+     atelectasis or fluid in the minor fissure, though an area of scarring or
+     consolidation cannot be excluded.  This extends to the right hilum.  The right
+     hemidiaphragm is elevated.
+     
+     There is increased retrocardiac density, consistent with left lower lobe
+     collapse and/or consolidation. Possible minimal blunting of the left
+     costophrenic angle.
+     
+     A single surgical clip is noted in the right upper quadrant, possibly
+     suggesting prior cholecystectomy.
+     
+     IMPRESSION:
+     
+     1.  Cardiomegaly. No overt CHF.
+     
+     2.  Left lower lobe collapse and/or consolidation.
+     
+     3.  Evidence for biapical pleural thickening and scarring raising the question
+     of prior granulomatous disease.
+     
+     4.  Unusual density in the right mid zone extending to the right hilum, with
+     elevated right hemidiaphragm, of uncertain clinical significance.  This could
+     represent scarring, but possibility of a more acute process cannot be excluded
+     on this single film. Attention to this area on follow-up filns is
+     recommended. If clinically indcated, a lateral view may help for further
+     assessment. 
+     
+     5.  Osteopenia and degenerative changes of the thoracic spine are noted.
+                                                                 (Over)
+
+     DATE: [**3157-11-25**] 8:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4217**]
+     Reason: ?infiltrate                                                 
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13866,25112,17251,,3157-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-26**] 7:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4218**]
+     Reason: ?interval change                                            
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old woman with fevers and cardiomyopathy.                              
+       
+     REASON FOR THIS EXAMINATION:
+      ?interval change                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fevers and cardiomegaly.
+     
+     COMPARISON:  [**3157-11-25**].
+     
+     FINDINGS:  Two unusual horizontal interfaces in the right mid lung are the
+     product of worsened right middle lobe atelectasis sandwiched between displaced
+     minor and major fissures.  Consolidation is developing in both lower lobes,
+     accompanied by small volumes of pleural fluid. Apical pleural thickening, left
+     greater than right, is stable. Old films would be helpful for comparison. The
+     heart is top normal size. The mediastinum is widened by a tortuous, calcified
+     thoracic aorta.
+     
+     IMPRESSION:  Probable developing bibasilar pneumonia and worsening right
+     middle lobe atelectasis.  Consult more remote prior films to assess asymmetric
+     apical pleural thickening.
+
+",,
+13866,25112,17251,0,3157-11-26 06:27:00 EST,3157-11-26 06:58:00 EST,2396,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- ""I'm so uncomfortable!""
+
+O- see flowsheet for all objective data.
+
+cv- Tele: SR no ectopy- HR 76-94- B/P 85-109/51-60 on levophed gtt @ .149mcg/kg/min- MAPs 65-76- R subclavian PA line- PAS 31-40 PAS 13-21
+CVP 7-11- Wedge 14- K 3.8 Kcl 40meq given- Mg 1.6 Mg sulfate 2gm given
+Ca 6.9 calcium gluconate 2gm given- repeat labs pending- CO 4 CI 2.68 SVR 1220 on levo.
+
+resp- In O2 5L via NC- lung sounds with bibasilar crackles- resp even, non labored- SpO2 96-100%- mix venous sat 63%- Ph this am 7.31- lactic acid 2.2 (last 3).
+
+neuro- A&O X2- moving all extremities, but very slowly due to arthritic pain- anxious- cooperative- follows comman.
+
+gi- abd soft (+) bowel sounds- taking sips of water without difficulty
+no BM- liver enzymes elevated.
+
+gu- foley draining small amts of clear yellow urine- U/O now 30/hr- (+) 800cc since 12am- (+) 1600cc LOS- BUN on admission 18- Crea 1.0- AM labs pending.
+
+ID- T 97 core- blood culture X1 done- U/A C&S sent- on levo
+
+A- (+) MI S/P cardiac cath with LAD disease and stress induced cardiomyopathy.
+
+P- monitor vs, lung sounds, I&O and labs- monitor u/o & temps- wean off levophed gtt if able- ? Aline if unable- med for arthritic pain-
+offer emotional support to Pt & family- keep them updated on plan of care.
+
+",,
+13866,25112,17251,0,3157-11-26 17:23:00 EST,3157-11-26 18:09:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 7am-7pm","
+Nursing Progress Note 7am-7pm
+S: ""I need the bedpan again.""
+
+O: Please see carevue for complete objective data.
+
+CV: NSR, HR 72-83. BP 87-117/49-60, weaning off levophed. Levo gtt @ 0.021mcg/kg/min, goal of MAP's > 65. Gave 1500cc bolus to increase BP while weaning levo. To receive 1 unit PRBC's for HCT-27.8 and volume. CO-3.9, CI-2.62, SVR-1354. CVP-[**7-21**], wedge-14, PAD-23-30. K-4.6, Mag-2.7, Ca-7.3.  
+
+Resp: RR-17-24. Lungs increased in coarse/crackle sounds as fluid was given.  Remains on 5L via nc, sats 97-100. MVO2-60. C/o SOB when lying on her right side.
+
+Endo: BG checks qid, no insulin needed per ss.
+
+GI: Clear liquid diet, allowing sips and ice chips. Takes po meds. BS present, abd soft. Gave colace in AM, freq requests bedpan. Brown soft/loose stool x 5. Guaiac neg. C-diff neg.  
+
+GU: Foley draining minimal clear yellow urine. Total in-2.8L Total out-365cc. 
+
+Neuro/Social: A&O x 3, MAE, calm and cooperative with staff. C/O pain when moving d/t RA, given salsalate 750mg BID. Able to turn with one assist. Husband and children visited and called.  
+
+ID: Afebrile, on IV abx.
+
+MISC: D/C'd R and L PIV's d/t inability to flush.  Available access-PA catheter in R subclavian.
+
+A: 81 yo female admitted for weakness, lethargy and dehydration r/t sepsis. EKG revealed STE, s/p cath with 60% occlusion of LAD, no stent placed, EF 15-20%.
+
+P: Continue to monitor hemodynamics. Administer and monitor response to transfusion. Draw labs after transfusion ends. Wean off Levo, goal MAP-65. Encourage C&DB, turn freq. aspiration precautions, administer abx. Emotionally support family and pt.
+",,
+13866,25112,17251,0,3157-11-26 23:37:00 EST,3157-11-26 23:49:00 EST,1865,"N",1,"Nursing/Other","1900-2300","
+1900-2300
+81 YR. OLD WOMAN WITH SEPSIS(+ URINE & PNEUMONIA)->ON PRESSORS & LEVOFLOXACIN. PRESENTLY, HEMODYNAMICALLY STABLE. RECEIVED 1U PRBC FOR HCT 27.8. ABLE TO SHUT OFF LEVOPHED(1 GTT) AFTER BLOOD HUNG. MAP>68 OFF LEVO. CO 4.1/2.75/1483. K 4.5, MG 2.3, LACTIC ACID 1.5. MVO2 65%.
+POST-TRANSFUSION HCT & MVO2 TO BE SENT ~0200.
+",,
+13866,25112,17251,,3157-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-27**] 6:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4219**]
+     Reason: Assess for interval changes                                 
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old woman with fevers and cardiomyopathy.                             
+         
+     REASON FOR THIS EXAMINATION:
+      Assess for interval changes                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  PORTABLE AP CHEST.
+     
+     INDICATION:  Fevers and cardiomegaly.
+     
+     COMPARISON:  [**3157-11-25**].
+     
+     AP upright compared to AP upright, [**11-25**].  Mild failure is increasing.
+     There is a new small left pleural effusion and multifocal bilateral opacities
+     are unchanged.  The middle lobe atelectasis is unchanged.  Again identified is
+     a very thick apical pleural.  If clinically indicated, a CT scan can be
+     performed to elucidate etiology.  Tip of the Swan-Ganz located in the right
+     pulmonary artery.  Cardiac silhouette and mediastinum contour are stable.
+                                                                           
+
+",,
+13866,25112,17251,0,3157-11-27 04:42:00 EST,3157-11-27 05:03:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 11p-7a","
+CCU NPN 11p-7a
+S: ""I'm so dry""
+O: please see carevue for complete assessment data
+No events overnight. 
+NEURO: Initially alert, asking for water and repositioning. Sleeping undisturbed for remainder of the night. [**Last Name (LF) 629**], [**First Name3 (LF) 34**], assists minimally w/ turning d/t arthritis. No c/o pain. 
+
+CV: HD stable off levophed. MAP 71-85. HR NSR 70s-80s w/ no ectopy noted to tele. No c/o CP. Distal pulses palp +2 bilaterally. PA line intact via RSC, PAP ranging 32-37/15-19, CVP 7-10, PCWP 16-18 (correlating well w/ PAD). AM SvO2 75%, CO/CI/SVR 4.6/3.09/1200; post transfusion Hct 31.8.  
+
+RESP: breathing comfortably on 5L NC w/ SpO2 98-100%, weaned to 4L w/o incident. LSCTA upper lobes, diminished w/ faint rales lower lobes. Intermittent cough, productive of thick yellowish sputum. No c/o dyspnea. 
+
+GI/GU: abdomen soft, nontender, nondistended. +BS/-BM, requesting bedpan once but unable to move bowels, +RF. Tolerating sips CLs. Foley draining minimal CYU. 2.8L positive @ MN, even since. BUN/Cr stable. 
+
+ENDO: BG wnl, no insulin coverage needed. Cont hydrocort/fludrocort for adrenal insufficiency. 
+
+ID: afebrile, cont IV abx for UTI/PNA. WBC trending down. 
+
+SKIN: w/d/i, +[**2-7**] edema in all extremities, no breakdown noted. R femoral angio site w/ serous drainage under transparent dsg, no new ooze noted. PA line intact via RSC. 
+
+SOC: no calls/visitors. 
+
+A: 81yo w/ PMH sig for HTN admitted from OSH [**11-25**] w/ urosepsis and stress-induced CM (EF 25-30% by echo [**11-26**]), s/p cath [**11-25**] revealing 60% LAD, currently HD stable off vasopressors, afebrile on IV ABX w/ improving hemodynamics.
+P: cont following HDs off vasopressors. Monitor fluid balance. Cont to f/u culture data and cont abx, monitor WBC. ? d/c PA line today if HDs remain stable. 
+",,
+13866,25112,,,3157-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-28**] 11:35 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4220**]
+     Reason: Eval for bleed.                                             
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman s/P cardiac cath now with R facial droop.  Also likely HIT    
+     REASON FOR THIS EXAMINATION:
+      Eval for bleed.                                                                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      blled
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post cardiac cath with right facial droop, also likely
+     HIT.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the head were obtained without IV
+     contrast.
+     
+     FINDINGS:  No evidence of acute intra- or extra-axial hemorrhage.  The [**Doctor Last Name 63**]-
+     white matter differentiation appears to be preserved.  No hydrocephalus or
+     shift of normally midline structures.  The basilar cisterns appear patent.
+     There is slight mucosal thickening in the maxillary sinuses bilaterally.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.  No evidence of
+     acute infarction.  MRI is more sensitive for the detection of acute
+     infarction.
+     
+     The above was discussed with [**First Name4 (NamePattern1) 4221**] [**Last Name (NamePattern1) 3300**].
+
+",,
+13866,25112,,,3157-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-28**] 12:33 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4222**]
+     Reason: Eval for ischemic stroke.  PLEASE DO IMMEDIATELY AFTER CT he
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman s/p cardiac cath now with likely acute stroke                 
+     REASON FOR THIS EXAMINATION:
+      Eval for ischemic stroke.  PLEASE DO IMMEDIATELY AFTER CT head.                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI AND MRA HEAD
+     
+     CLINICAL INFORMATION:  Status post cardiac catheterization.  Now likely acute
+     stroke.
+     
+     TECHNIQUE:  Multiplanar, multisequence MRI of the head with DWI.  3D TOF MRA
+     of the circle of [**Location (un) **].
+     
+     Tiny foci of T2 hyperintensity at the periventricular white matter are likely
+     to indicate chronic small vessels ischemia and infarction.  No further T1 or
+     T2 signal abnormality within the cerebrum, cerebellum, or brainstem.  No
+     hydrocephalus.  No displacement of the normally midline structures.  Basal
+     cisterns are patent.  DWI images demonstrate no focus of slow diffusion to
+     suggest acute cerebral ischemia.
+     
+     MRA images demonstrate normal flow signal within the circle of [**Location (un) **] and its
+     principal branches.  No vascular occlusion, aneurysm greater than 3 mm, or
+     vascular malformation can be seen within the scanned volume.
+     
+     CONCLUSION:  Unremarkable MRI and MRA of the head for age.  No MR features of
+     acute vascular territorial infarct.
+     
+     
+     
+                                                                           DFDgf
+
+",,
+13866,25112,,,3157-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-28**] 12:33 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 4222**]
+     Reason: Eval for ischemic stroke.  PLEASE DO IMMEDIATELY AFTER CT he
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman s/p cardiac cath now with likely acute stroke                 
+     REASON FOR THIS EXAMINATION:
+      Eval for ischemic stroke.  PLEASE DO IMMEDIATELY AFTER CT head.                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI AND MRA HEAD
+     
+     CLINICAL INFORMATION:  Status post cardiac catheterization.  Now likely acute
+     stroke.
+     
+     TECHNIQUE:  Multiplanar, multisequence MRI of the head with DWI.  3D TOF MRA
+     of the circle of [**Location (un) **].
+     
+     Tiny foci of T2 hyperintensity at the periventricular white matter are likely
+     to indicate chronic small vessels ischemia and infarction.  No further T1 or
+     T2 signal abnormality within the cerebrum, cerebellum, or brainstem.  No
+     hydrocephalus.  No displacement of the normally midline structures.  Basal
+     cisterns are patent.  DWI images demonstrate no focus of slow diffusion to
+     suggest acute cerebral ischemia.
+     
+     MRA images demonstrate normal flow signal within the circle of [**Location (un) **] and its
+     principal branches.  No vascular occlusion, aneurysm greater than 3 mm, or
+     vascular malformation can be seen within the scanned volume.
+     
+     CONCLUSION:  Unremarkable MRI and MRA of the head for age.  No MR features of
+     acute vascular territorial infarct.
+     
+     
+     
+                                                                           DFDgf
+
+",,
+13866,25112,,,3157-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-29**] 3:30 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4224**]
+     Reason: Eval for PNA                                                
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old woman admitted for sepsis and cardiomyopathy.                      
+       
+     REASON FOR THIS EXAMINATION:
+      Eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST TWO VIEWS
+     
+     INDICATION:  81-year-old woman with sepsis and cardiomyopathy.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study of [**3157-11-27**].
+     
+     The previously identified mild congestive heart failure has been improving.
+     The previously identified bilateral patchy opacity has been also improving.
+     There is continued small bilateral pleural effusion and bibasilar patchy
+     atelectasis.  The possibility of pneumonia especially in the left lower lobe
+     cannot be excluded.
+     
+     Again note is made of extensive left apical thickening.  Evaluation with CT
+     scan is recommended.
+     
+     The Swan-Ganz catheter has been removed.  No pneumothorax is identified.  The
+     patient has prior cholecystectomy.
+     
+     
+     
+     
+     
+
+",,
+13866,25112,,,3157-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-11-29**] 11:09 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 4223**]
+     Reason: RT FACIAL WEAKNESS
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with new right facial weakness.                               
+     REASON FOR THIS EXAMINATION:
+      ? stenosis                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right facial weakness.
+     
+     FINDINGS/TECHNIQUE:  [**Doctor Last Name **] scale, color duplex, and spectral Doppler
+     interrogation of the extracranial carotid and vertebral arteries was performed
+     bilaterally.
+     
+     RIGHT SIDE:  There is minor plaque at the wall of the carptid bulb and the
+     adjacent internal carotid take-off,  Peak systolic velocities on the right
+     were 37 cm/sec ICA, 34 cm/sec ECA, 52 cm/sec CCA. Blood flow in the right
+     vertebral artery was antegrade.  ICA to CCA ratio on the right was 0.71.
+     
+     LEFT SIDE:  No obvious plaques were noted in the left carotid arteries. Peak
+     systolic velocities were 41 cm/sec ICA, 36 cm/sec ECA, 44 cm/sec CCA. Blood
+     flow within the left vertebral artery was antegrade.  The ICA to CCA ratio on
+     the left was 0.93.
+     
+     IMPRESSION:  No hemodynamically significant stenosis was identified in the
+     bilateral extracranial carotid arteries.
+
+",,
+13866,25112,,,3157-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3157-12-1**] 12:14 PM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 4225**]
+     Reason: RLE SWELLING ? DVT
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with increased swelling and LE of right LE.                   
+     REASON FOR THIS EXAMINATION:
+      ? DVT                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Increased swelling of the right lower extremity.
+     
+     RIGHT LOWER EXTREMITY ULTRASOUND:  Grayscale and Doppler ultrasound of the
+     right common femoral, superficial femoral, and popliteal veins was performed. 
+     There was normal flow, augmentation, compressibility, and waveforms.  No
+     intraluminal thrombus is identified.
+     
+     IMPRESSION:  No right lower extremity DVT.
+                                                                           
+
+",,
+13866,,,,3158-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3158-5-1**] 11:45 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4227**]
+     Reason: NEEDS BLOOD DRAWS AND TRANSFUSIONS
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with hx multiple GI bleeds, requiring frequent transfusions, 
+      transferred for GI w/u
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place PICC?                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female with history of multiple GI bleeds, requiring
+     multiple transfusions.  Please place single lumen PICC line for IV access.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 1635**] and [**Name5 (PTitle) 603**].  The attending radiologist, Dr. [**First Name4 (NamePattern1) 602**]
+     [**Last Name (NamePattern1) 603**],  was present throughout the procedure.
+     
+     TECHNIQUE/FINDINGS:  The patient was brought to the angiography Suite, and
+     placed supine on the angiography table.  Using ultrasound guidance, the left
+     brachial vein was found to be patent and compressible.  The left arm was
+     prepped and draped in the usual sterile fashion.  Local anesthesia was
+     administered with 1% lidocaine subcutaneously.  Using real time ultrasound
+     guidance, 21-gauge needle was advanced into the left brachial vein.  A 0.018-
+     inch guide wire was advanced through the needle into the superior vena cava
+     under fluoroscopic guidance.  The needle was exchanged for an introducer
+     sheath, and a 4.5 French single lumen PICC was cut to length of 34 cm based on
+     the markings on the wire.  The PICC was placed over the wire through the
+     sheath.  The wire and sheath were removed.  The ports flushed and aspirated
+     well, was capped and heplocked.  Pre- and post-PICC placement ultrasound
+     images were obtained to document vessel patency.  The catheter was fixed to
+     place using a StatLock device, and sterile transparent dressing was applied. A
+     final limited chest radiograph confirmed catheter position in the mid SVC.
+     There were no procedural or immediate postprocedural complications.  The
+     catheter is ready for use.
+     
+     MEDICATIONS:  1% lidocaine for local anesthesia.
+     
+     IMPRESSION:  Successful placement of a 4.5-French single-lumen 34-cm PICC by
+     way of the left brachial vein, with the tip in the mid SVC.  The line is ready
+     for use.
+
+",,
+13866,,,,3158-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3158-5-1**] 11:45 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4227**]
+     Reason: NEEDS BLOOD DRAWS AND TRANSFUSIONS
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with hx multiple GI bleeds, requiring frequent transfusions, 
+      transferred for GI w/u
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place PICC?                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female with history of multiple GI bleeds, requiring
+     multiple transfusions.  Please place single lumen PICC line for IV access.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 1635**] and [**Name5 (PTitle) 603**].  The attending radiologist, Dr. [**First Name4 (NamePattern1) 602**]
+     [**Last Name (NamePattern1) 603**],  was present throughout the procedure.
+     
+     TECHNIQUE/FINDINGS:  The patient was brought to the angiography Suite, and
+     placed supine on the angiography table.  Using ultrasound guidance, the left
+     brachial vein was found to be patent and compressible.  The left arm was
+     prepped and draped in the usual sterile fashion.  Local anesthesia was
+     administered with 1% lidocaine subcutaneously.  Using real time ultrasound
+     guidance, 21-gauge needle was advanced into the left brachial vein.  A 0.018-
+     inch guide wire was advanced through the needle into the superior vena cava
+     under fluoroscopic guidance.  The needle was exchanged for an introducer
+     sheath, and a 4.5 French single lumen PICC was cut to length of 34 cm based on
+     the markings on the wire.  The PICC was placed over the wire through the
+     sheath.  The wire and sheath were removed.  The ports flushed and aspirated
+     well, was capped and heplocked.  Pre- and post-PICC placement ultrasound
+     images were obtained to document vessel patency.  The catheter was fixed to
+     place using a StatLock device, and sterile transparent dressing was applied. A
+     final limited chest radiograph confirmed catheter position in the mid SVC.
+     There were no procedural or immediate postprocedural complications.  The
+     catheter is ready for use.
+     
+     MEDICATIONS:  1% lidocaine for local anesthesia.
+     
+     IMPRESSION:  Successful placement of a 4.5-French single-lumen 34-cm PICC by
+     way of the left brachial vein, with the tip in the mid SVC.  The line is ready
+     for use.
+
+",,
+13866,,,,3158-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3158-5-1**] 11:45 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 4227**]
+     Reason: NEEDS BLOOD DRAWS AND TRANSFUSIONS
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with hx multiple GI bleeds, requiring frequent transfusions, 
+      transferred for GI w/u
+     REASON FOR THIS EXAMINATION:
+      can [**Doctor First Name 1041**] place PICC?                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old female with history of multiple GI bleeds, requiring
+     multiple transfusions.  Please place single lumen PICC line for IV access.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 1635**] and [**Name5 (PTitle) 603**].  The attending radiologist, Dr. [**First Name4 (NamePattern1) 602**]
+     [**Last Name (NamePattern1) 603**],  was present throughout the procedure.
+     
+     TECHNIQUE/FINDINGS:  The patient was brought to the angiography Suite, and
+     placed supine on the angiography table.  Using ultrasound guidance, the left
+     brachial vein was found to be patent and compressible.  The left arm was
+     prepped and draped in the usual sterile fashion.  Local anesthesia was
+     administered with 1% lidocaine subcutaneously.  Using real time ultrasound
+     guidance, 21-gauge needle was advanced into the left brachial vein.  A 0.018-
+     inch guide wire was advanced through the needle into the superior vena cava
+     under fluoroscopic guidance.  The needle was exchanged for an introducer
+     sheath, and a 4.5 French single lumen PICC was cut to length of 34 cm based on
+     the markings on the wire.  The PICC was placed over the wire through the
+     sheath.  The wire and sheath were removed.  The ports flushed and aspirated
+     well, was capped and heplocked.  Pre- and post-PICC placement ultrasound
+     images were obtained to document vessel patency.  The catheter was fixed to
+     place using a StatLock device, and sterile transparent dressing was applied. A
+     final limited chest radiograph confirmed catheter position in the mid SVC.
+     There were no procedural or immediate postprocedural complications.  The
+     catheter is ready for use.
+     
+     MEDICATIONS:  1% lidocaine for local anesthesia.
+     
+     IMPRESSION:  Successful placement of a 4.5-French single-lumen 34-cm PICC by
+     way of the left brachial vein, with the tip in the mid SVC.  The line is ready
+     for use.
+
+",,
+13866,,,,3158-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3158-5-1**] 4:46 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4228**]
+     Reason: check PICC placement after subclavian pulled                
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old woman with L subclavian central line from OSH, L sided PICC placed 
+      today, subclavian just d/ced                                   
+     REASON FOR THIS EXAMINATION:
+      check PICC placement after subclavian pulled                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old woman with left subclavian central venous line from
+     OSH, left-sided PICC line placed today.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     COMPARISON:  Chest x-ray dated [**3158-5-1**], taken approximately 12 hours
+     earlier on the same day.
+     
+     Previously noted left subclavian venous catheter has been removed.  There is a
+     new left-sided PICC line terminating in upper SVC.  No pneumothorax.  The
+     cardiac and mediastinal contours are unchanged, with calcified aorta.  No
+     consolidation.  No effusion.
+     
+     IMPRESSION:  PICC line from the left arm terminating in upper SVC.
+                                                                           
+
+",,
+13866,,,,3158-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3158-5-1**] 4:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4226**]
+     Reason: confirm placement                                           
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with central line from OSH.                                   
+     REASON FOR THIS EXAMINATION:
+      confirm placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     REASON FOR EXAMINATION:  Confirmation of the central venous line placement.
+     
+     Portable AP chest radiograph was compared to the previous film from [**11-29**], 2005.
+     
+     The left subclavian vein is inserted with its tip projecting over the mid
+     portion of the superior vena cava.
+     
+     The heart size is normal.  Mediastinum has normal position, widths, and
+     contours.  Aorta is calcified.
+     
+     The lungs are clear.  The left apical pleural thickening is unchanged in
+     comparison to the previous film.  No pneumothorax is seen.  No other
+     complications of insertion of subclavian vein catheter are present.
+     
+     IMPRESSION:  Normal position of the left subclavian vein.  No evidence of
+     acute cardiopulmonary process.
+
+",,
+13866,,,,3158-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3158-5-1**] 4:46 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 4228**]
+     Reason: check PICC placement after subclavian pulled                
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old woman with L subclavian central line from OSH, L sided PICC placed 
+      today, subclavian just d/ced                                   
+     REASON FOR THIS EXAMINATION:
+      check PICC placement after subclavian pulled                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old woman with left subclavian central venous line from
+     OSH, left-sided PICC line placed today.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     COMPARISON:  Chest x-ray dated [**3158-5-1**], taken approximately 12 hours
+     earlier on the same day.
+     
+     Previously noted left subclavian venous catheter has been removed.  There is a
+     new left-sided PICC line terminating in upper SVC.  No pneumothorax.  The
+     cardiac and mediastinal contours are unchanged, with calcified aorta.  No
+     consolidation.  No effusion.
+     
+     IMPRESSION:  PICC line from the left arm terminating in upper SVC.
+                                                                           
+
+",,
+13866,,,,3158-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 4229**]
+     Reason: 81 YO W/ RECURRENT GI BLEEDS, DIVERTICULI SEEN ON FLEX SIG AND COLONSCOPY, EPISODE OF BRBPR THIS AM
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Continued bright red blood per rectum. Negative prior colonoscopies and
+     EGD's. Known internal hemorrhoids and diverticulosis. Patient wearing a diaper.
+      
+     DECISION: 
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells l
+     labeled with Tc-99m, blood flow and dynamic images of the abdomen for minutes 
+     were obtained. 
+      
+     Blood flow images show no evidence of gastrointestinal bleeding up to 130
+     minutes. 
+      
+     IMPRESSION: No evidence of gastrointestinal bleeding. 
+      
+                                                                           
+
+             [**First Name11 (Name Pattern1) 622**] [**Last Name (NamePattern4) 4230**], M.D.
+             [**Last Name (NamePattern5) 145**], M.D.          Approved: WED [**3158-5-7**] 12:03 PM
+
+
+             Date Mailed: [**3158-5-8**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,

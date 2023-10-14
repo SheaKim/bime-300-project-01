@@ -1,0 +1,2181 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13347,,,,3477-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with hx of bladder cancer
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      ?mets
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer.  Question metastases.
+     
+     COMPARISONS:  Prior study of in [**3476-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen were acquired without
+     intravenous contrast, followed by images of the chest and abdomen with
+     intravenous contrast material.  Additional three minute delay images of the
+     abdomen and pelvis were acquired and displayed with 5 mm slice thickness.
+     
+     CT OF THE CHEST:  There is a 12 x 10 mm hypoattenuating lesion in the left
+     lobe of the thyroid gland, further evaluation with ultrasound is recommended
+     if clinically indicated.  There is no axillary, mediastinal, or hilar
+     lymphadenopathy.  There are dependent changes in the lung bases.  There are no
+     pleural effusions.  The heart and great vessels appear unremarkable.  The
+     airways are open to the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN:  The patient is status post cholecystectomy.  The liver is
+     unremarkable.  There is hydronephrosis with delayed nephrogram on the right.
+     There is a prominent ureter on the left without evidence of
+     hydronephrosis.  The spleen, adrenal glands, pancreas, stomach, and opacified
+     loops of small and large bowel are unremarkable.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free fluid in the abdomen.
+     
+     CT OF THE PELVIS:  There is an enhancing soft tissue mass in the right aspect
+     of the bladder. The distal ureter is dilated on the right. There is no
+     contrast extravasation.  There are shotty lymph nodes in the pelvis without
+     evidence of pathological enlargement.  There is a minimal amount of free
+     fluid.
+     
+     BONE WINDOWS:  There is an 8 mm lytic lesion in the vertebral body of T11 on
+     the right near the pedicle, which is concerning for a metastatic focus.  Bone
+     scan may be helpful for further evaluation if clinically indicated.  There are
+     moderate-to-severe degenerative changes at the facet joints of the lower
+     lumbar spine.
+     
+     IMPRESSION:  
+     1.  Hypoattenuating lesion in the left lobe of the thyroid gland, ultrasound
+     examination is recommended for further evaluation.
+     
+     2.  Bladder mass causing right hydronephrosis.
+                                                                 (Over)
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  Lytic bone lesion in T11 near the right pedicle, which is concerning for a
+     metastatic focus.  A bone scan would be recommended for further evaluation if
+     clinically indicated.
+     
+     4.  Degenerative changes in the lumbar spine.
+     
+     
+     
+     
+
+",,
+13347,,,,3477-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with hx of bladder cancer
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      ?mets
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer.  Question metastases.
+     
+     COMPARISONS:  Prior study of in [**3476-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen were acquired without
+     intravenous contrast, followed by images of the chest and abdomen with
+     intravenous contrast material.  Additional three minute delay images of the
+     abdomen and pelvis were acquired and displayed with 5 mm slice thickness.
+     
+     CT OF THE CHEST:  There is a 12 x 10 mm hypoattenuating lesion in the left
+     lobe of the thyroid gland, further evaluation with ultrasound is recommended
+     if clinically indicated.  There is no axillary, mediastinal, or hilar
+     lymphadenopathy.  There are dependent changes in the lung bases.  There are no
+     pleural effusions.  The heart and great vessels appear unremarkable.  The
+     airways are open to the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN:  The patient is status post cholecystectomy.  The liver is
+     unremarkable.  There is hydronephrosis with delayed nephrogram on the right.
+     There is a prominent ureter on the left without evidence of
+     hydronephrosis.  The spleen, adrenal glands, pancreas, stomach, and opacified
+     loops of small and large bowel are unremarkable.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free fluid in the abdomen.
+     
+     CT OF THE PELVIS:  There is an enhancing soft tissue mass in the right aspect
+     of the bladder. The distal ureter is dilated on the right. There is no
+     contrast extravasation.  There are shotty lymph nodes in the pelvis without
+     evidence of pathological enlargement.  There is a minimal amount of free
+     fluid.
+     
+     BONE WINDOWS:  There is an 8 mm lytic lesion in the vertebral body of T11 on
+     the right near the pedicle, which is concerning for a metastatic focus.  Bone
+     scan may be helpful for further evaluation if clinically indicated.  There are
+     moderate-to-severe degenerative changes at the facet joints of the lower
+     lumbar spine.
+     
+     IMPRESSION:  
+     1.  Hypoattenuating lesion in the left lobe of the thyroid gland, ultrasound
+     examination is recommended for further evaluation.
+     
+     2.  Bladder mass causing right hydronephrosis.
+                                                                 (Over)
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  Lytic bone lesion in T11 near the right pedicle, which is concerning for a
+     metastatic focus.  A bone scan would be recommended for further evaluation if
+     clinically indicated.
+     
+     4.  Degenerative changes in the lumbar spine.
+     
+     
+     
+     
+
+",,
+13347,,,,3477-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with hx of bladder cancer
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      ?mets
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer.  Question metastases.
+     
+     COMPARISONS:  Prior study of in [**3476-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen were acquired without
+     intravenous contrast, followed by images of the chest and abdomen with
+     intravenous contrast material.  Additional three minute delay images of the
+     abdomen and pelvis were acquired and displayed with 5 mm slice thickness.
+     
+     CT OF THE CHEST:  There is a 12 x 10 mm hypoattenuating lesion in the left
+     lobe of the thyroid gland, further evaluation with ultrasound is recommended
+     if clinically indicated.  There is no axillary, mediastinal, or hilar
+     lymphadenopathy.  There are dependent changes in the lung bases.  There are no
+     pleural effusions.  The heart and great vessels appear unremarkable.  The
+     airways are open to the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN:  The patient is status post cholecystectomy.  The liver is
+     unremarkable.  There is hydronephrosis with delayed nephrogram on the right.
+     There is a prominent ureter on the left without evidence of
+     hydronephrosis.  The spleen, adrenal glands, pancreas, stomach, and opacified
+     loops of small and large bowel are unremarkable.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free fluid in the abdomen.
+     
+     CT OF THE PELVIS:  There is an enhancing soft tissue mass in the right aspect
+     of the bladder. The distal ureter is dilated on the right. There is no
+     contrast extravasation.  There are shotty lymph nodes in the pelvis without
+     evidence of pathological enlargement.  There is a minimal amount of free
+     fluid.
+     
+     BONE WINDOWS:  There is an 8 mm lytic lesion in the vertebral body of T11 on
+     the right near the pedicle, which is concerning for a metastatic focus.  Bone
+     scan may be helpful for further evaluation if clinically indicated.  There are
+     moderate-to-severe degenerative changes at the facet joints of the lower
+     lumbar spine.
+     
+     IMPRESSION:  
+     1.  Hypoattenuating lesion in the left lobe of the thyroid gland, ultrasound
+     examination is recommended for further evaluation.
+     
+     2.  Bladder mass causing right hydronephrosis.
+                                                                 (Over)
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  Lytic bone lesion in T11 near the right pedicle, which is concerning for a
+     metastatic focus.  A bone scan would be recommended for further evaluation if
+     clinically indicated.
+     
+     4.  Degenerative changes in the lumbar spine.
+     
+     
+     
+     
+
+",,
+13347,,,,3477-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with hx of bladder cancer
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      ?mets
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer.  Question metastases.
+     
+     COMPARISONS:  Prior study of in [**3476-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen were acquired without
+     intravenous contrast, followed by images of the chest and abdomen with
+     intravenous contrast material.  Additional three minute delay images of the
+     abdomen and pelvis were acquired and displayed with 5 mm slice thickness.
+     
+     CT OF THE CHEST:  There is a 12 x 10 mm hypoattenuating lesion in the left
+     lobe of the thyroid gland, further evaluation with ultrasound is recommended
+     if clinically indicated.  There is no axillary, mediastinal, or hilar
+     lymphadenopathy.  There are dependent changes in the lung bases.  There are no
+     pleural effusions.  The heart and great vessels appear unremarkable.  The
+     airways are open to the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN:  The patient is status post cholecystectomy.  The liver is
+     unremarkable.  There is hydronephrosis with delayed nephrogram on the right.
+     There is a prominent ureter on the left without evidence of
+     hydronephrosis.  The spleen, adrenal glands, pancreas, stomach, and opacified
+     loops of small and large bowel are unremarkable.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free fluid in the abdomen.
+     
+     CT OF THE PELVIS:  There is an enhancing soft tissue mass in the right aspect
+     of the bladder. The distal ureter is dilated on the right. There is no
+     contrast extravasation.  There are shotty lymph nodes in the pelvis without
+     evidence of pathological enlargement.  There is a minimal amount of free
+     fluid.
+     
+     BONE WINDOWS:  There is an 8 mm lytic lesion in the vertebral body of T11 on
+     the right near the pedicle, which is concerning for a metastatic focus.  Bone
+     scan may be helpful for further evaluation if clinically indicated.  There are
+     moderate-to-severe degenerative changes at the facet joints of the lower
+     lumbar spine.
+     
+     IMPRESSION:  
+     1.  Hypoattenuating lesion in the left lobe of the thyroid gland, ultrasound
+     examination is recommended for further evaluation.
+     
+     2.  Bladder mass causing right hydronephrosis.
+                                                                 (Over)
+
+     DATE: [**3477-1-18**] 11:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14866**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, ?mets
+     Field of view: 38 Contrast: OPTIRAY Amt: 145
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  Lytic bone lesion in T11 near the right pedicle, which is concerning for a
+     metastatic focus.  A bone scan would be recommended for further evaluation if
+     clinically indicated.
+     
+     4.  Degenerative changes in the lumbar spine.
+     
+     
+     
+     
+
+",,
+13347,,,,3477-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 14867**]
+     Reason: BLADDER CA, ? METS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: BLADDER CA, ? METS   
+       
+     INTERPRETATION:  Whole body images of the skeleton were obtained in anterior and
+     posterior projections and demonstrate apparent dilatation of the right 
+     collecting system with abnormal bladder contour.  Tracer is present outside the
+     body representing urinary output. No increased tracer activity is noted at T12. 
+     There is persistent activity near the L4/5 level consistent with degenerative
+     change.  
+       
+     When compared to the previous study of [**3473-11-19**] the dilated collecting system
+     is new as well as the abnormal bladder contour.  
+       
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion.  
+       
+     IMPRESSION:   1) No abnormal tracer activity at T12  2) Increased activity at
+     the L4-5 level is likely degenerative and unchanged compared to [**3473-11-19**]  3)
+     Right hydro-ureteronephrosis and abnormal bladder contour that correlates with
+     the findings of the CT scan of [**3477-1-18**]. 
+                                                                           
+
+             [**First Name8 (NamePattern2) 2078**] [**Last Name (NamePattern1) 2079**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 146**] [**Last Name (NamePattern1) 147**], M.D.     Approved: [**First Name8 (NamePattern2) 454**] [**3477-1-23**] 9:18 AM
+
+
+             Date Mailed: [**3477-1-24**]                     West [**Medical Record Number 14868**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 149**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 150**].
+
+",,
+13347,16184,,,3477-01-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3477-1-30**]              Discharge Date:   [**3477-2-5**]
+ 
+Date of Birth:  [**3399-1-19**]             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 6128**] 
+Chief Complaint:
+Bladder cancer
+ 
+Major Surgical or Invasive Procedure:
+[**3477-1-30**] Radical cystoprostatectomy with ileal loop urostomy.
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 8937**] is a 77-year-old male with a long history of 
+high-grade T1 transitional cell carcinoma of the bladder, 
+initially diagnosed seven years ago and treated with multiple 
+courses of BCG and interferon. He has also had 
+multiple TURPs as well as a partial cystectomy to control his 
+tumor. Most recently in [**8-/3476**], he underwent TURP. Pathology 
+from which revealed high-grade dysplasia/carcinoma in situ of 
+random bladder biopsies and of the bladder tumor. He was found 
+to have high-grade papillary urothelial carcinoma with adjacent 
+high-grade dysplasia/carcinoma in situ. No definitive invasion 
+of the lamina propria was seen. The muscularis propria was 
+present and uninvolved by tumor. A biopsy done in [**4-/3476**], 
+however, did show high-grade papillary urothelial carcinoma with 
+invasion of the lamina propria as well as superficial invasion 
+of the smooth muscle. Given this history, Mr. [**Known patient lastname 8937**] has 
+undergone treatments with intravesical mitomycin and he now 
+presents for surgical management.
+ 
+Past Medical History:
+Gout, diabetes, and Parkinson's
+ 
+Social History:
+He is a nonsmoker. He did smoke cigar, quit 20 
+years ago. He drinks alcohol occasionally. He is married with 
+three healthy children, used to work as a lawyer and lives in 
+[**Location **]. 
+
+ 
+Family History:
+ Father with renal cell carcinoma and a son with 
+renal cell carcinoma. 
+
+ 
+Physical Exam:
+General: Appears older than stated age
+HEENT: no masses, no bruits
+CV: Regular rate/rhythm
+Chest: Lungs clear to auscultation b/l
+Abdomen: Soft, flat, non-tender
+Rectal: nl tone, prostate ~15gms benign
+
+ 
+Pertinent Results:
+[**3477-1-30**] 06:12PM BLOOD Hct-34.5*
+[**3477-1-31**] 02:02AM BLOOD WBC-9.3 RBC-3.77* Hgb-11.2* Hct-31.4* 
+MCV-83# MCH-29.8 MCHC-35.7* RDW-14.0 Plt Ct-270
+[**3477-2-1**] 02:17AM BLOOD WBC-11.3* RBC-3.36* Hgb-10.2* Hct-29.1* 
+MCV-87 MCH-30.5 MCHC-35.1* RDW-13.9 Plt Ct-265
+[**3477-2-2**] 04:18AM BLOOD WBC-9.7 RBC-3.23* Hgb-9.8* Hct-28.5* 
+MCV-88 MCH-30.4 MCHC-34.4 RDW-14.0 Plt Ct-288
+[**3477-2-3**] 06:15AM BLOOD WBC-9.4 RBC-3.52* Hgb-10.7* Hct-30.7* 
+MCV-87 MCH-30.4 MCHC-34.9 RDW-13.7 Plt Ct-327
+[**3477-2-5**] 06:08AM BLOOD WBC-10.4 RBC-3.39* Hgb-10.3* Hct-29.7* 
+MCV-88 MCH-30.5 MCHC-34.8 RDW-13.2 Plt Ct-335
+[**3477-1-30**] 02:30PM BLOOD PT-13.6* PTT-28.8 INR(PT)-1.2*
+[**3477-1-31**] 02:02AM BLOOD PT-15.7* PTT-33.8 INR(PT)-1.4*
+[**3477-2-1**] 02:17AM BLOOD PT-14.9* PTT-33.3 INR(PT)-1.3*
+[**3477-2-2**] 04:18AM BLOOD PT-19.6* INR(PT)-1.9*
+[**3477-2-3**] 11:05AM BLOOD PT-31.9* INR(PT)-3.4*
+[**3477-2-4**] 05:40AM BLOOD PT-36.3* INR(PT)-4.0*
+[**3477-2-4**] 05:29PM BLOOD PT-35.8* PTT-38.5* INR(PT)-3.9*
+[**3477-2-5**] 06:08AM BLOOD PT-24.7* INR(PT)-2.5*
+[**3477-1-31**] 02:02AM BLOOD Glucose-149* UreaN-19 Creat-1.2 Na-139 
+K-4.3 Cl-106 HCO3-24 AnGap-13
+[**3477-2-2**] 04:18AM BLOOD Glucose-140* UreaN-15 Creat-0.8 Na-139 
+K-3.7 Cl-106 HCO3-26 AnGap-11
+[**3477-2-5**] 06:08AM BLOOD Glucose-91 UreaN-11 Creat-0.8 Na-142 
+K-3.6 Cl-111* HCO3-23 AnGap-12DIAGNOSIS: 
+
+1. Right distal ureter (A):
+No evidence of dysplasia or malignancy.
+2. Left distal ureter (B):
+No evidence of dysplasia or malignancy.
+3. Bladder and prostate (C-W):
+Urothelial carcinoma with squamous differentiation; see synoptic 
+report.
+4. Right pelvic lymph node (X-BA):
+Seven lymph[**MD Number 285**] with no evidence of malignancy.
+5. Left pelvic lymph[**MD Number 285**] (CA-HA):
+Ten lymph[**MD Number 285**] with no evidence of malignancy.
+
+Urinary Bladder: Cystectomy, partial, total or radical; anterior 
+exenteration Synopsis
+MACROSCOPIC
+Specimen Type:  Radical cystoprostatectomy.
+Tumor Site:  Left lateral wall.
+Tumor Size
+    Greatest dimension:  4 cm.  Additional dimensions:  4 cm x 
+2.3 cm.
+MICROSCOPIC
+Histologic Type:  Urothelial (transitional cell) carcinoma with 
+squamous differentiation.
+Associated epithelial lesions:  Urothelial (transitional cell) 
+carcinoma in situ (flat carcinoma in situ).
+Histologic Grade
+Urothelial carcinoma (WHO/ISUP, 1998):  High-grade.
+Tumor configuration:  Solid/nodule.
+EXTENT OF INVASION
+Primary Tumor:  pT2b:  Tumor invades deep muscle.
+Regional Lymph[**MD Number **]:  pN0:  No regional lymph node metastasis.
+Lymph[**MD Number **]
+    Number examined:  17.
+    Number involved:  0.
+Distant metastasis:  pMX:  Cannot be assessed.
+Margins:  
+        Margins uninvolved by invasive carcinoma.
+Venous (Large vessel) invasion:  Present.
+Additional Pathologic Findings:  Therapy-related changes; 
+granulomatous inflammation.
+Comments:  Perineural invasion present. Tumor involves the deep 
+muscularis propria and focally involves fat. The fat appears to 
+be adjacent to and between muscle bundles of the muscularis 
+propria. There is no definitive evidence of tumor extension into 
+perivascular fat.
+
+ 
+Brief Hospital Course:
+The patient was admitted on the day of surgery.  He underwent a 
+radical cystoprostatectomy with ileal loop urostomy.  He 
+tolerated the procedure well without complications.  He remained 
+intubated overnight and was observed in the SICU until POD2 for 
+close monitoring.  His post-op course was largely uneventful and 
+he recovered well.  His pain was well controlled and he required 
+no narcotics following his transfer out of the SICU.  His diet 
+was advanced as tolerated beginning after the patient passed 
+flatus and his NGT was removed.  He was out of bed and 
+ambulating with physical therapy.  PT recommended home with home 
+physical therapy for further conditioning.  He was evaluated by 
+the stoma care nursing and began to undergo teaching along with 
+his wife for stoma care.  He was given peri-op coumadin for DVT 
+prophylaxis and was noted to have an INR of 4.0 on POD5.  He had 
+no bleeding complications and his INR was 2.5 at the time of 
+discharge without intervention.  He was discharged to home with 
+VNA services and home physical therapy on POD 6.
+
+ 
+Medications on Admission:
+Flomax, pterygium, Lipitor, Aricept, Glucophage, 
+Protonix, and [**Doctor Last Name **]/levodopa. 
+
+ 
+Discharge Medications:
+1. Carbidopa-Levodopa[**MD Number 1653**] mg Tablet Sig: One (1) Tablet PO 
+TID (3 times a day).  
+2. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+ 
+3. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+5. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*45 Tablet(s)* Refills:*0*
+9. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.
+Disp:*30 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Bladder Cancer
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please call if [**Doctor First Name **] have any concerns or questions.  If [**Doctor First Name **] have 
+high fevers (>101) or chills, if [**Doctor First Name **] have increasing redness and 
+swelling of your incision, if [**Doctor First Name **] experience drainage from your 
+incision, or if [**Doctor First Name **] have increasing pain.
+
+ 
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) 241**] [**Last Name (NamePattern4) 1666**], M.D. [**MD Number 224**]:[**Telephone/Fax (1) 697**] 
+Date/Time:[**3477-2-7**] 10:20
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 3833**], M.D. [**MD Number 224**]:[**Telephone/Fax (1) 3062**] 
+Date/Time:[**3477-5-22**] 9:00
+
+ 
+                             [**First Name11 (Name Pattern1) 241**] [**Last Name (NamePattern4) 1666**] MD [**MD Number 1794**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1235**] [**Last Name (NamePattern4) 1236**] MD [**MD Number 1237**] [**3477-2-7**] @ 1146
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 241**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: WED [**3477-2-7**] 4:12 PM
+(End of Report)
+
+
+",,
+13347,16184,,,3477-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-30**] 9:51 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14870**]
+     Reason: mediastinal widening on prev portable--  per radiology, ?rot
+     Admitting Diagnosis: BLADDER CANCER/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man s/p intubation for OR                                          
+       
+     REASON FOR THIS EXAMINATION:
+      mediastinal widening on prev portable--  per radiology, ?rotation vs accurate 
+      widening
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Followup of mediastinal widening on prior study.
+     
+     COMPARISON:  [**3477-1-30**], at 5:53 p.m.
+     
+     AP CHEST RADIOGRAPH:  The previously seen widened mediastinum is not
+     appreciated on the present study and was likely due to technical factors
+     (rotation).  There is an NG tube whose tip is in the stomach.  The
+     endotracheal tube tip is approximately 5 cm from the carina.  There is a right
+     IJ line whose tip is in the distal SVC.  There is no pneumothorax.
+     
+     There is a patchy opacity seen in the right upper lobe which is new compared
+     to approximately four hours prior.
+     
+     IMPRESSION:
+     1.  Previously seen mediastinal widening likely due to technical factors.
+     2.  Interval development of right upper lobe opacity, developing pneumonia Vs.
+     aspiration are considerations.
+
+",,
+13347,16184,,,3477-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-30**] 5:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14869**]
+     Reason: tube placement                                              
+     Admitting Diagnosis: BLADDER CANCER/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man s/p intubation for OR                                           
+     REASON FOR THIS EXAMINATION:
+      tube placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ET tube placement.
+     
+     COMPARISONS:  Comparison is made to [**3476-6-6**].
+     
+     TECHNIQUE:  AP supine single view of the chest.
+     
+     FINDINGS:  The study is limited due to rotation of the patient's (LAO)
+     position.
+     
+     The ET tube is in good position.  There is a right IJ central line with the
+     tip in the cavoatrial junction.  The pulmonary vascularity is normal without
+     evidence of CHF.  The lung fields are probably clear, but there is limited
+     visualization of the right upper lobe. There is elevation of the right
+     hemidiaphragm.
+     
+     Widening of the mediastinum could be partially secondary to postioning.
+     However,  Recommend repeat radiograph to exclude a hematoma.
+     
+     IMPRESSION:
+     1. ET tube is in good position.
+     2. Widening of the mediastinum could be partially secondary to postioning.
+     However,  Recommend repeat radiograph to exclude a hematoma.
+     
+
+",,
+13347,16184,16614,0,3477-01-30 17:36:00 EST,3477-01-30 17:38:00 EST,7745,"N",54,"Nursing/Other",,"
+
+78 yr male with bladder CA, s/p radical prostatectomy, cystectomy, ileal loop and excision of nodes. 7.5 ET, 23 @ lip. BS generally CTAB. Wean as indicated.
+",,
+13347,16184,16614,0,3477-01-30 19:28:00 EST,3477-01-30 19:45:00 EST,6600,"N",54,"Nursing/Other",,"
+
+Admit note.
+78 yr male. s/p radical cysto-prostatectomy.
+Arrived to TICU at 1640 from OR.
+
+Neuro- pt sedated on propofol. opens eyes to command, moves upper ext. lower ext to pain. + grasps. fentanyl for pain.
+
+CV- NSR rate 80-90. BP high 80-110. fluid bolus given. CVP 6-12. Aline wnl. right IJ intact. + peripheral pulses. 
+
+Resp- lung sounds coarse. thick yellow sputum suctioned. 7.5 ETT 23 at lip. vented on AC TV 600 rate 10. no spont breathing. peep 5. CXR done.
+
+GI- abd soft. faint BS. NGT to LCWS bilious output. NPO. 
+
+GU- illioconduit draining blood tinged urine 50-60/hr. lytes wnl.
+
+endo- s/s bs 124.
+
+skin- pink area on coccyx. abd inc DDI no drainage.
+
+Social- family in to visit briefly. home for the night.
+
+Plan- monitor overnight. extubate in am.
+
+",,
+13347,16184,16614,,3477-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-1-31**] 9:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14871**]
+     Reason: R/O PNA vs CHF                                              
+     Admitting Diagnosis: BLADDER CANCER/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        78 year old man s/p bladder surgery, now with copious secretions              
+               
+     REASON FOR THIS EXAMINATION:
+      R/O PNA vs CHF                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE:
+     
+     INDICATION:  78-year-old man status post bladder surgery, pneumonia vs. CHF.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with previous study of yesterday.
+     
+     The tip of endotracheal tube is identified at the thoracic inlet.  A
+     nasogastric tube terminates in the gastric fundus.  The right jugular IV
+     catheter remains in place.  No pneumothorax is identified.
+     
+     Plate-like atelectasis is seen in both lower lobes.  The lungs are clear
+     otherwise.  The heart and mediastinum are within normal limits.
+     
+     IMPRESSION:  No active lung disease except for plate-like atelectasis in both
+     lower lobes.
+                                                                           
+
+",,
+13347,16184,16614,0,3477-01-31 05:35:00 EST,3477-01-31 05:53:00 EST,4061,"N",54,"Nursing/Other",,"
+
+
+FULL CODE     Universal Precautions   
+Allergy:  PCN, haldol, benadryl
+
+
+Nuero:  On propofol 20mcg/kg/min for comfort - awakens when sedation is off - follows commands, MAEx4 on command - reports no pain, but fent 50mcg ivp given x3 tonight for comfort.  Pupils 2mm/brisk.  
+
+CV:  HR=70-90s, NSR, no ectopy.  BP=110-140s/40s.  +periph pulses, no edema, hands and feet cool.  CVP=[**6-11**].
+
+Resp:  AC 600x10, 40%, P=5 during the night w/ ABG WNL.  Placed on SBT at 0530 and tol ok w/ Vt=640-680, RR=10, 02sat 99%.  Lungs clear in upper fields, diminished in bases - sx thick tan secretions via ETT.  
+
+GI/GU:  abd soft, hypo BS, no BM.  NPO, PPI.  OGT to LCWS - bilious drainage.  Ileal conduit intact - stoma pink, putting out 20-40cc pink/bloody urine. 
+
+Pain:  Fent given as noted and on propofol gtt.
+
+Access:  PIVx1, RIJ TLC, R rad a-line
+
+Skin:  Abd dressing intact/clean.  Small amt bloody drainage from penis.  ileiostomy intact/functioning.
+
+ID:  99.3  - on cefazolin.
+
+Labs:  Mg=.7, iCa-1.09 repleted.  HCT 34.4 at 2200, down to 31.4 at 0200.  Pt has recieved a lot of fluids tonight - ?dilutional.  Will repeat at 0700.
+
+Social:  Wife called x2  - updated on pt's status.
+
+Plan:  extubate this am.  Wean off propofol.  Monitor caridaic/neuro status.  Monitor labs - lytes/hct.  Monitor u/o/ileostomy 
+",,
+13347,16184,16614,0,3477-01-31 07:04:00 EST,3477-01-31 07:05:00 EST,7819,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on MV in CPAP mode/SBT in progress.  Pt resting comfortable in NAD.  BBS-CTA.  Bag and mask at bedside.  Alarms on and functioning.  Possible extubation this am.
+",,
+13347,16184,16614,0,3477-01-31 17:34:00 EST,3477-01-31 17:58:00 EST,7907,"N",54,"Nursing/Other","TSICU Nursing progress note 0700-1900","
+TSICU Nursing progress note 0700-1900
+S:  Intubated; Nodding head appropriately to questions
+
+O:  Resp:  RR 16-20      Spo297-100% 4L NC
+    Attempted to wean off mechanical ventilation this AM however,     
+    copious tan secretions, BS coarse rhonchi throughout, chest x-ray 
+    taken, sputum culture pending.
+    Weaned and extubated at 1130 without difficulty.  Pt. is a 
+    documented ""difficult intubation."" 
+
+    CV:  HR 80-90SR  BP  116/60-177/81
+    Hypertensive off sedation.  Started 25mg PO Lopressor with fair        response; dose subsequently increased to 50 BID; calcium and    
+    magnesium repleated; received 5mg PO Coumadin
+
+    Neuro:  A&Ox3 Following commands; speech clear; voice hoarse
+    Lifts and holds U/L extremities
+
+    GI:  Add soft hypoactive BS x4Q; NG to LCWS with scant bilious drg
+    no stool; no flatus
+
+    GU:  Illeoconduit stoma red with intact sutures draining greater       than 30 cc/hr clear amber urine with mucus; Ostomy pouch changed
+
+    Skin:  Adbd incision with staples edges well approximated with no      drainage.  Clean, dry, sterile dressing intact.  Sacrum reddened.  
+    OOB to chair for 1 1/2 hours, tolerated well.  +3 pitting edema    
+    bilateral hands supported with pillows; oral membranes dry.
+
+    ID:  Afebrile; remains on Cefazolin
+
+    Endocrine:  No SSRI coverage blood glucose less than 120
+
+    Pain:  Complaining of incisional pain; medicates with IV Fentanyl 
+    fair relief however pt lethargic. Changed to SQ Morphine
+    Coping:  Family in to visit and updated with plan of care and 
+    discharge to floor tomorrow; family appears very involved in 
+    patient's care
+
+A:  Pt tolerating wean from vent on NC
+    Lopressor dose increased
+
+P:  Recheck electrolytes, PTT, PT, INR in AM
+    Continue with pulmonary toilet
+    Continue with ostomy teaching
+
+
+
+
+",,
+13347,16184,16614,0,3477-01-31 17:58:00 EST,3477-01-31 18:00:00 EST,3209,"N",54,"Nursing/Other","ADDENDUM TO ABOVE NOTE:","
+ADDENDUM TO ABOVE NOTE:
+THE INFORMATION WRITTEN ABOVE BY [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4709**] IS ACCURATE AND PRECISE. 
+",,
+13347,16184,16614,0,3477-01-31 18:33:00 EST,3477-01-31 18:35:00 EST,7907,"N",54,"Nursing/Other","Addendum TO TSICU PROGRESS NOTE FOR 0700-1900","
+Addendum TO TSICU PROGRESS NOTE FOR 0700-1900
+Blood glucose 161 @1800.  Pt received 6 units regular insuling SQ.
+",,
+13347,16184,16614,0,3477-02-01 04:40:00 EST,3477-02-01 04:52:00 EST,4061,"N",54,"Nursing/Other",,"
+
+
+FULL CODE    Universal Precautions
+Allergies:  PCN, Haldol, Bendaryl
+
+
+
+Neuro:  Awake, alert, but confused.  At beginning of shift, he didn't remember he was in the hospital, altho he did remember having the surgery and w/ reminders he was ok.  He didn'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8**] well tonight and 0430 he was taking the 02sat probe off and conversation not making sense = ""We should take this off before the police come.""  Did not re-orient this time - Still doesn't believe he's in the hospital.  Refusing to let me put the 02sat probe back on.  MAEx4 well.
+
+CV:  HR=80s, NSR no ectopy.  BP=130-150/50-60s.  Started on lopressor 50mg bid.  +periph pulses, extrems warm, +generalized edema.
+
+Resp:  4L n/p w. 02sat92-97%.  Desats occass and encouraged to cough/deep breathe.  Chest PT done.  Using IS to 750cc - weak cough, doesn't sound congested - non-productive.  RR=[**12-17**].
+
+GI/GU:  abd soft, +BS, no BM.  NGT clamped.  NPO, on PPI.  Ileostomy stoma pink, intact, functioning w/ clear yellow urine 30-80cc/hr.
+
+Access:  R rad aline, RIJ TLC
+
+Pain:  Med x2 w/ Morphine 2mg IVP for incisional discomfort.
+
+Social:  Wife called last evening for update
+
+ID:  T=99.8 axill, on cefazolin.
+
+Skin:  abd dressing intact, ileostomy stoma pink and functioning.  Back/coccyx intact.
+
+Plan:  ?tx to floor today.  Monitor neuro/cardiac/resp status.  Adm pain med prn.
+
+
+",,
+13347,,,,3477-02-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-2-8**] 10:09 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14872**]
+     Reason: pt post op cystectomy, now has cough r/o pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with post op cystectomy
+      R/o pneumonia
+     REASON FOR THIS EXAMINATION:
+      pt post op cystectomy
+      now has cough r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PA AND LATERAL
+     
+     HISTORY:  Cough, status post cystectomy.
+     
+     PA and lateral views of the chest are submitted and compared to the patient's
+     prior PA and lateral views from [**3476-6-6**] as well as postoperative films
+     from [**3477-1-31**].  Small bilateral pleural effusions are present which
+     are new.  The cardiac silhouette, however, and central pulmonary vasculature
+     appear unchanged compared to the patient's preoperative studies and no edema
+     or focal parenchymal consolidation to suggest pneumonia is seen.  The flowing
+     osteophytes of DISH are evident in the thoracic spine anteriorly.
+     
+     CONCLUSION:
+     1.  New small bilateral pleural effusions without evidence of current CHF or
+     edema.
+     2.  No pneumonia.
+     3.  DISH.
+                                                                           
+
+",,
+13347,,,,3477-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-5-16**] 12:05 PM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 14873**]
+     Reason: BILATERAL HIP AND LOWER BACK PAIN S/P CYSTECTOMY FOR BLADDER CA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     LUMBAR SPINE, TWO VIEWS, [**3477-5-16**].
+     
+     HISTORY:  Patient with bilateral hip and lower back pain.
+     
+     FINDINGS:  There are five non-rib-bearing lumbar-type vertebral bodies.  There
+     is some slight scoliosis of lumbar spine with convexity to the left side,
+     which is centered at L2/L3.  Multiple surgical clips are seen in the pelvis.
+     On the lateral radiograph, there is extensive osteophytosis.  There is also
+     marked facet joint arthropathy noted in the lower lumbar spine.  The vertebral
+     body heights are preserved with normal alignment.  The intervertebral disc
+     spaces are also relatively preserved.  Aortic calcifications are seen.
+     
+     IMPRESSION:
+     
+     Degenerative changes of the posterior elements of the lower lumbar spine.
+     There are no compression deformities or abnormal antero or retrolisthesis of
+     
+     
+     
+     
+
+",,
+13347,,,,3477-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with hx of bladder cancer
+      s/p cystectomy
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      s/p cystectomy 
+      ?any evidence of infection
+      ?stones?hydro?recurrance
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer and cystectomy.
+     
+     COMPARISONS:  [**3477-1-18**].
+     
+     TECHNIQUE:  Oncology CT torso protocol was used.  Axial MDCT images were
+     obtained through the abdomen before and after administration of nonionic
+     Optiray contrast.  Post-contrast images were also obtained though the chest
+     and pelvis.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is an 8 mm, noncalcified pulmonary
+     nodule within the right lower lobe (3a:31), which was not present on the
+     previous exam.  A 3 mm noncalcified pulmonary nodule within the left upper
+     lobe (3a:15) is stable.  There is also a new, pathologically enlarged 1.2 cm
+     left-sided pericardial node which is new.  There are no pleural effusions.
+     There are dense coronary artery calcifications.  The airways are patent down
+     to the segmental bronchi.  There is 1.8 cm low attenuation opacity within the
+     region of the minor fissure on the right, which likely represents fluid
+     loculated within the fissure rather than a pulmonary nodule.  There are small
+     paratracheal lymph nodes, which do not meet pathologic criteria.  The thyroid
+     gland is nodular and heterogeneous.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The patient is status post
+     cholecystectomy.  Otherwise, the liver, gallbladder, spleen, pancreas, and
+     adrenal glands are unremarkable.  The kidneys are unremarkable bilaterally
+     without evidence of hydronephrosis, masses, or stones.  There are
+     atherosclerotic calcifications within the aorta.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Patient is status post cystectomy with
+     ileal diversion and surgical clips identified.  There is no evidence of
+     obstruction, stones or abnormal masses.  There are tiny inguinal nodes
+     bilaterally with no pathologic lymphadenopathy identified within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     Degenerative change is seen within the lower thoracic and lumbar spine.
+     
+     IMPRESSION:
+     1.  New, 8 mm noncalcified pulmonary nodule within the right lower lobe. There
+                                                                 (Over)
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is also a new, abnormal 1.2 cm left-sided pericardial node.  These are
+     concerning for metastatic disease.
+     2.  A low attenuation opacity within the region of the right minor fissure is
+     thought to be fluid within the fissure rather than a pulmonary nodule.
+     3.  Patient is status post cystectomy with ileal diversion.  No evidence of
+     hydronephrosis, masses, or abnormal lymphadenopathy within the abdomen and
+     pelvis.
+     
+
+",,
+13347,,,,3477-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with hx of bladder cancer
+      s/p cystectomy
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      s/p cystectomy 
+      ?any evidence of infection
+      ?stones?hydro?recurrance
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer and cystectomy.
+     
+     COMPARISONS:  [**3477-1-18**].
+     
+     TECHNIQUE:  Oncology CT torso protocol was used.  Axial MDCT images were
+     obtained through the abdomen before and after administration of nonionic
+     Optiray contrast.  Post-contrast images were also obtained though the chest
+     and pelvis.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is an 8 mm, noncalcified pulmonary
+     nodule within the right lower lobe (3a:31), which was not present on the
+     previous exam.  A 3 mm noncalcified pulmonary nodule within the left upper
+     lobe (3a:15) is stable.  There is also a new, pathologically enlarged 1.2 cm
+     left-sided pericardial node which is new.  There are no pleural effusions.
+     There are dense coronary artery calcifications.  The airways are patent down
+     to the segmental bronchi.  There is 1.8 cm low attenuation opacity within the
+     region of the minor fissure on the right, which likely represents fluid
+     loculated within the fissure rather than a pulmonary nodule.  There are small
+     paratracheal lymph nodes, which do not meet pathologic criteria.  The thyroid
+     gland is nodular and heterogeneous.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The patient is status post
+     cholecystectomy.  Otherwise, the liver, gallbladder, spleen, pancreas, and
+     adrenal glands are unremarkable.  The kidneys are unremarkable bilaterally
+     without evidence of hydronephrosis, masses, or stones.  There are
+     atherosclerotic calcifications within the aorta.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Patient is status post cystectomy with
+     ileal diversion and surgical clips identified.  There is no evidence of
+     obstruction, stones or abnormal masses.  There are tiny inguinal nodes
+     bilaterally with no pathologic lymphadenopathy identified within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     Degenerative change is seen within the lower thoracic and lumbar spine.
+     
+     IMPRESSION:
+     1.  New, 8 mm noncalcified pulmonary nodule within the right lower lobe. There
+                                                                 (Over)
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is also a new, abnormal 1.2 cm left-sided pericardial node.  These are
+     concerning for metastatic disease.
+     2.  A low attenuation opacity within the region of the right minor fissure is
+     thought to be fluid within the fissure rather than a pulmonary nodule.
+     3.  Patient is status post cystectomy with ileal diversion.  No evidence of
+     hydronephrosis, masses, or abnormal lymphadenopathy within the abdomen and
+     pelvis.
+     
+
+",,
+13347,,,,3477-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with hx of bladder cancer
+      s/p cystectomy
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      s/p cystectomy 
+      ?any evidence of infection
+      ?stones?hydro?recurrance
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer and cystectomy.
+     
+     COMPARISONS:  [**3477-1-18**].
+     
+     TECHNIQUE:  Oncology CT torso protocol was used.  Axial MDCT images were
+     obtained through the abdomen before and after administration of nonionic
+     Optiray contrast.  Post-contrast images were also obtained though the chest
+     and pelvis.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is an 8 mm, noncalcified pulmonary
+     nodule within the right lower lobe (3a:31), which was not present on the
+     previous exam.  A 3 mm noncalcified pulmonary nodule within the left upper
+     lobe (3a:15) is stable.  There is also a new, pathologically enlarged 1.2 cm
+     left-sided pericardial node which is new.  There are no pleural effusions.
+     There are dense coronary artery calcifications.  The airways are patent down
+     to the segmental bronchi.  There is 1.8 cm low attenuation opacity within the
+     region of the minor fissure on the right, which likely represents fluid
+     loculated within the fissure rather than a pulmonary nodule.  There are small
+     paratracheal lymph nodes, which do not meet pathologic criteria.  The thyroid
+     gland is nodular and heterogeneous.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The patient is status post
+     cholecystectomy.  Otherwise, the liver, gallbladder, spleen, pancreas, and
+     adrenal glands are unremarkable.  The kidneys are unremarkable bilaterally
+     without evidence of hydronephrosis, masses, or stones.  There are
+     atherosclerotic calcifications within the aorta.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Patient is status post cystectomy with
+     ileal diversion and surgical clips identified.  There is no evidence of
+     obstruction, stones or abnormal masses.  There are tiny inguinal nodes
+     bilaterally with no pathologic lymphadenopathy identified within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     Degenerative change is seen within the lower thoracic and lumbar spine.
+     
+     IMPRESSION:
+     1.  New, 8 mm noncalcified pulmonary nodule within the right lower lobe. There
+                                                                 (Over)
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is also a new, abnormal 1.2 cm left-sided pericardial node.  These are
+     concerning for metastatic disease.
+     2.  A low attenuation opacity within the region of the right minor fissure is
+     thought to be fluid within the fissure rather than a pulmonary nodule.
+     3.  Patient is status post cystectomy with ileal diversion.  No evidence of
+     hydronephrosis, masses, or abnormal lymphadenopathy within the abdomen and
+     pelvis.
+     
+
+",,
+13347,,,,3477-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with hx of bladder cancer
+      s/p cystectomy
+     REASON FOR THIS EXAMINATION:
+      hx of bladder cancer
+      s/p cystectomy 
+      ?any evidence of infection
+      ?stones?hydro?recurrance
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of bladder cancer and cystectomy.
+     
+     COMPARISONS:  [**3477-1-18**].
+     
+     TECHNIQUE:  Oncology CT torso protocol was used.  Axial MDCT images were
+     obtained through the abdomen before and after administration of nonionic
+     Optiray contrast.  Post-contrast images were also obtained though the chest
+     and pelvis.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is an 8 mm, noncalcified pulmonary
+     nodule within the right lower lobe (3a:31), which was not present on the
+     previous exam.  A 3 mm noncalcified pulmonary nodule within the left upper
+     lobe (3a:15) is stable.  There is also a new, pathologically enlarged 1.2 cm
+     left-sided pericardial node which is new.  There are no pleural effusions.
+     There are dense coronary artery calcifications.  The airways are patent down
+     to the segmental bronchi.  There is 1.8 cm low attenuation opacity within the
+     region of the minor fissure on the right, which likely represents fluid
+     loculated within the fissure rather than a pulmonary nodule.  There are small
+     paratracheal lymph nodes, which do not meet pathologic criteria.  The thyroid
+     gland is nodular and heterogeneous.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The patient is status post
+     cholecystectomy.  Otherwise, the liver, gallbladder, spleen, pancreas, and
+     adrenal glands are unremarkable.  The kidneys are unremarkable bilaterally
+     without evidence of hydronephrosis, masses, or stones.  There are
+     atherosclerotic calcifications within the aorta.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Patient is status post cystectomy with
+     ileal diversion and surgical clips identified.  There is no evidence of
+     obstruction, stones or abnormal masses.  There are tiny inguinal nodes
+     bilaterally with no pathologic lymphadenopathy identified within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     Degenerative change is seen within the lower thoracic and lumbar spine.
+     
+     IMPRESSION:
+     1.  New, 8 mm noncalcified pulmonary nodule within the right lower lobe. There
+                                                                 (Over)
+
+     DATE: [**3477-6-1**] 12:32 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 14874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: hx of bladder cancer, s/p cystectomy , ?any evidence of infe
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is also a new, abnormal 1.2 cm left-sided pericardial node.  These are
+     concerning for metastatic disease.
+     2.  A low attenuation opacity within the region of the right minor fissure is
+     thought to be fluid within the fissure rather than a pulmonary nodule.
+     3.  Patient is status post cystectomy with ileal diversion.  No evidence of
+     hydronephrosis, masses, or abnormal lymphadenopathy within the abdomen and
+     pelvis.
+     
+
+",,
+13347,,,,3477-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-6-29**] 11:24 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14875**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with fatigue                                                    
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fatigue, rule out pneumonia.
+     
+     COMPARISON:  [**3477-2-8**].
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     FINDINGS:  Heart size and mediastinal contours are normal.  A focal right
+     perihilar opacity is new since the PA and lateral chest radiograph of [**2-8**], 2006, and may correspond to the abnormality on CT of [**3477-6-1**].  Small
+     left pleural effusion is new in the interval.  The lungs are otherwise clear.
+     
+     IMPRESSION:
+     
+     1.  Right perihilar mass, likely corresponding to the low attenuation
+     abnormality demonstrated on CT of [**3477-6-1**].  Direct comparison is limited
+     and this could be further evaluated with repeat CT if indicated.
+     
+     2.  Small left pleural effusion.  No pneumonia.
+
+",,
+13347,,,,3477-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-6-30**] 3:00 PM
+     CT CHEST W&W/O C                                                Clip # [**Clip Number (Radiology) 14876**]
+     Reason: evaluate change in chest mass for surgeon (with/without cont
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with hx of bladder cancer s/p cystectomy                       
+     REASON FOR THIS EXAMINATION:
+      evaluate change in chest mass for surgeon (with/without contrast)               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with bladder cancer, status post cystectomy.
+     [**Doctor Last Name 14877**] in lung masses.
+     
+     TECHNIQUE:  Contiguous axial CT images of the chest were obtained with and
+     without the administration of intravenous contrast [**Doctor Last Name 322**], 90 cc of Optiray.
+     
+     COMPARISON:  CT torso study dated [**3477-6-1**].
+     
+     FINDINGS:  Again note is made of somewhat ill-defined right hilar nodule
+     measuring 2.5 x 2.0 cm, increased in size compared to the prior study,
+     worrisome for increasing metastasis.  The mass abuts the bifurcation of right
+     middle bronchus.  There is 2.3-cm nodule abutting the pericardium anterior to
+     the left hilum, increased in size compared to the prior study, most likely
+     representing increasing metastatic lymphadenopathy.  Coronary arteries are
+     calcified.  There is bilateral pleural effusion, larger on the left,
+     associated with atelectasis, new compared to the prior study.  There is no
+     significant pericardial effusion.  Coronary arteries are calcified.  In the
+     lung window, there is peripheral opacity in right lower lobe, likely
+     representing small foci of atelectasis.  Tiny left apical nodule measuring 8
+     mm is again noted.  Previously noted right lower lobe nodule is not
+     confidently identified on this study.
+     
+     In the visualized portion of the upper abdomen, no gross abnormalities are
+     noted, however, the evaluation is somewhat limited due to motion artifact. The
+     patient is status post cholecystectomy.
+     
+     There is no suspicious lytic or blastic lesion in skeletal structures.
+     
+     IMPRESSION:
+     1.  Increase in size of right hilar nodule measuring 2.8 cm, with increase in
+     size of 2.3-cm nodule anterior to the left hilum, worrisome for increasing
+     metastasis.
+     
+     2.  7-mm nodule in the left apex.  Previously noted right lower lobe nodule is
+     not confidently identified on this study.
+     
+     3.  New bilateral pleural effusion with left lower lobe atelectasis.  Small
+     peripheral opacity in right lower lobe, most likely representing atelectasis.
+     
+     4.  Unchanged small thyroid nodules.
+                                                                 (Over)
+
+     DATE: [**3477-6-30**] 3:00 PM
+     CT CHEST W&W/O C                                                Clip # [**Clip Number (Radiology) 14876**]
+     Reason: evaluate change in chest mass for surgeon (with/without cont
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13347,,,,3477-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 14878**]
+     Reason: 78 Y/O MAN WITH H/O TCC, AND PARKINSONS, PRESENTING WITH OCCULT INFECTION, AND POSSIBLE METS ON CT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        27.5 mCi Tc-99m MDP;
+     HISTORY: 78 year old man with history of transitional cell carcinoma and  
+     parkinson's disease, presenting with occult infection and CT suggestive of
+     metastatic disease. Evaluate for osteomyelitis or osseous metastases.  
+       
+     INTERPRETATION:    
+       
+     Whole body images of the skeleton were obtained in anterior and posterior
+     projections.  Static images of lateral views of the lower extremities were also
+     obtained.  
+       
+     There is mildly increased tracer uptake along the cortices of both femurs and
+     tibias, and a single focus of increased uptake at the right mid fibular
+     diaphysis. The appearance is most consistent with hypertrophic osteoarthropathy.
+     The pelvis is not well evaluated due to the overlying urine collection bag at
+     the ileal conduit ostomy. In the remainder of the skeleton, there is no evidence
+     of osteomyelitis or osseous metastatic disease on the current examination.  
+       
+     The kidneys and external bag draining the ileal conduit are visualized, the
+     normal route of tracer excretion.  
+       
+     IMPRESSION:  1. Findings most consistent with hypertrophic osteoarthropathy of
+     the lower extremities.  2. Limited evaluation of the pelvis as described.
+     Otherwise, no evidence of osteomyelitis or osseous metastatic disease.  
+                                                                           
+
+             [**First Name11 (Name Pattern1) 3269**] [**Last Name (NamePattern4) 3270**], M.D.
+             [**Last Name (NamePattern5) 190**], M.D.          Approved: [**Doctor First Name 116**] [**3477-7-5**] 7:43 AM
+
+
+             Date Mailed: [**3477-7-6**]                     West [**Medical Record Number 14868**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 149**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 150**].
+
+",,
+13347,,,,3477-07-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-3**] 12:31 PM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 14879**]
+     Reason: EVAL FOR MASS, CHANGE IN MENTAL STATUS
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with new metastatic (unk primary) with change in mental status  
+     REASON FOR THIS EXAMINATION:
+      r/o mass                                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  78-year-old man with new metastatic disease of unknown primary,
+     with a change in mental status.
+     
+     COMPARISONS:  CT, [**6-5**] and MR, [**3476-6-7**].
+     
+     TECHNIQUE: Head CT with and without intravenous contrast.
+     
+     FINDINGS: There is widening of the extra-axial spaces, particularly bifrontal,
+     with enlargement of the sulci and ventricles consistent with atrophic change.
+     Pineal and choroid plexus calcifications in the lateral ventricles are
+     unchanged.  There is no evidence of intra- or extra-axial hemorrhage.  The
+     [**Doctor Last Name 8**]-white matter differentiation is preserved.  There is no mass effect,
+     hydrocephalus, or shift of the normally midline structures.  With
+     administration of intravenous contrast, no areas of abnormal enhancement are
+     demonstrated.  Visualized paranasal sinuses and mastoid air cells are clear.
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of metastatic disease or acute intracranial process.
+     If clinically indicated, MR [**First Name (Titles) 1191**] [**Last Name (Titles) **] is more sensitive for exclusion of
+     intracranial metastasis.
+     
+
+",,
+13347,,,,3477-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-6**] 5:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14880**]
+     Reason: r/o pneumothorax                                            
+     Admitting Diagnosis: URINARY TRACT INFECTION;PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man s/p bronchoscopy with TBNA                                      
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post bronchoscopy.  Rule out pneumothorax.
+     
+     PORTABLE AP RADIOGRAPH OF THE CHEST:  Comparison is made to [**3477-6-29**].
+     There is increase in the left retrocardiac opacity, most likely representing
+     atelectasis or left lower lobe collapse. There is compensatory overinflation
+     of remainder of ledt lung.  There is a right perihilar opacity that
+     corresponds to adenopathy on CT of [**3477-6-30**]. No pneumothorax is seen.
+     
+     IMPRESSION:  No evidence of pneumothorax.  Left lower lobe
+     atelectasis/collapse.
+
+",,
+13347,,,,3477-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-26**] 10:00 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 14881**]
+     Reason: Eval for PNA                                                
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with known pulmonary nodules now with MS change.               
+                                   
+     REASON FOR THIS EXAMINATION:
+      Eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Mental status changes in patient with known pulmonary
+     metastasis from bladder cancer.
+     
+     Portable AP chest radiograph compared to [**3477-7-6**].
+     
+     The right juxtahilar lung mass is unchanged during this short time interval.
+     There is a new opacity just below the minor fissure in the subpleural location
+     and  could be of  either pulmonary or pleural origin. The previously
+     demonstrated left lower lobe atelectasis is largely cleared with small discoid
+     atelectasis and tiny pleural effusion remaining.  There are no other pulmonary
+     infiltrates or masses.  The heart size is stable.  The mediastinal contour and
+     width are unremarkable.
+     
+     IMPRESSION:  New right lower lung opacity which could represent either pleural
+     effusion or pulmonary infiltrate such as pneumonia or infarct.  Further
+     evaluation with PA and lateral chest radiographs is recommended.  These
+     findings were discussed with Dr. [**Last Name (STitle) 5665**].
+
+",,
+13347,,,,3477-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13347,,,,3477-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-27**] 1:15 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14883**]
+     Reason: Follow progression of pneumothorax                          
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man c Parkinsons, TCC s/p cystectomy p/w progressive FTT and 
+      declining MS.                                 
+     [**Name13 (STitle) **] FOR THIS EXAMINATION:
+      Follow progression of pneumothorax                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Parkinson's, status post cholecystectomy, declining mental
+     status.
+     
+     CHEST.
+     
+     The moderate right-sided pneumothorax is still present and is essentially
+     unchanged in size.  Two rounded opacities are present in the right lower zone,
+     one adjacent to the hilar shadows and the other more centrally placed.
+     
+     Left lung appears clear.
+     
+     IMPRESSION:  Pneumothorax and rounded opacities persist.
+                                                                           
+
+",,
+13347,,,,3477-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-27**] 1:15 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14883**]
+     Reason: Follow progression of pneumothorax                          
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man c Parkinsons, TCC s/p cystectomy p/w progressive FTT and 
+      declining MS.                                 
+     [**Name13 (STitle) **] FOR THIS EXAMINATION:
+      Follow progression of pneumothorax                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Parkinson's, status post cholecystectomy, declining mental
+     status.
+     
+     CHEST.
+     
+     The moderate right-sided pneumothorax is still present and is essentially
+     unchanged in size.  Two rounded opacities are present in the right lower zone,
+     one adjacent to the hilar shadows and the other more centrally placed.
+     
+     Left lung appears clear.
+     
+     IMPRESSION:  Pneumothorax and rounded opacities persist.
+                                                                           
+
+",,
+13347,,,,3477-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-27**] 11:54 AM
+     CHEST (PA & LAT) PORT                                           Clip # [**Clip Number (Radiology) 14882**]
+     Reason:  please eval new opacity for infection vs. infarct          
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with new right sided opacity                                    
+     REASON FOR THIS EXAMINATION:
+       please eval new opacity for infection vs. infarct                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of right-sided opacity demonstrated on the
+     previous radiograph.
+     
+     PA and lateral upright chest radiograph compared to [**3477-7-26**].
+     
+     The moderate-sized right pneumothorax is new. The lung volumes are low with
+     new right lower lobe discoid atelectasis.  The small pleural effusions is
+     in the fissure.  The previously demonstrated right lower lobe opacity is not
+     present on the current chest radiograph.  The left lung is unremarkable with
+     no pleural effusion.
+     
+     IMPRESSION:
+     
+     1.  New right pneumothorax of moderate size.  These findings were communicated
+     to Dr. [**Last Name (STitle) 4062**].
+     
+     2.  New right lower lobe atelectasis.
+
+",,
+13347,,,,3477-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-28**] 11:41 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14886**]
+     Reason: PTX s/p chest tube assess for lung re-expansion             
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         78 year old man c Parkinsons, TCC s/p cystectomy p/w progressive FTT and   
+      declining MS.                                 
+     [**Name13 (STitle) **] FOR THIS EXAMINATION:
+      PTX s/p chest tube assess for lung re-expansion                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**7-28**]
+     
+     HISTORY:  New chest tube.  Evaluate for lung re-expansion.
+     
+     FINDINGS:  There has been interval placement of a right chest tube.  There has
+     been near-complete re-expansion of the right lung with a small residual apical
+     pneumothorax.  There continues to be volume loss in the right lower lung and
+     left lower lobe.
+                                                                           
+
+",,
+13347,,,,3477-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-28**] 11:41 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14886**]
+     Reason: PTX s/p chest tube assess for lung re-expansion             
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         78 year old man c Parkinsons, TCC s/p cystectomy p/w progressive FTT and   
+      declining MS.                                 
+     [**Name13 (STitle) **] FOR THIS EXAMINATION:
+      PTX s/p chest tube assess for lung re-expansion                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**7-28**]
+     
+     HISTORY:  New chest tube.  Evaluate for lung re-expansion.
+     
+     FINDINGS:  There has been interval placement of a right chest tube.  There has
+     been near-complete re-expansion of the right lung with a small residual apical
+     pneumothorax.  There continues to be volume loss in the right lower lung and
+     left lower lobe.
+                                                                           
+
+",,
+13347,,,,3477-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-28**] 2:23 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14884**]
+     Reason: Eval for pneumothorax progression.  Please aim for 1am.     
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with new right sided opacity and Pneumothorax                  
+             
+     REASON FOR THIS EXAMINATION:
+      Eval for pneumothorax progression.  Please aim for 1am.                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right pneumothorax.
+     
+     CHEST, TWO VIEWS:  Comparison with [**3477-7-27**].
+     
+     There is marked interval increase in size in the right pneumothorax.  There
+     are persistent opacities within the right lower lung zone, as well as in the
+     right hilar region.  The left lung is clear.  There is slight elevation of the
+     left hemidiaphragm.  There is right subcutaneous emphysema.
+     
+     IMPRESSION:  Marked increase size in a large right pneumothorax, which was
+     discussed with Dr. [**Last Name (STitle) 14885**] on [**3477-7-28**] at 9 a.m.
+                                                                           
+
+",,
+13347,,,,3477-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-28**] 3:50 PM
+     CTU (ABD/PEL) W/&W/O CONTRAST                                   Clip # [**Clip Number (Radiology) 14887**]
+     Reason: Please evaluate for infection or abscess. Pls do CT Urogram 
+     Admitting Diagnosis: FAILURE TO THRIVE
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with TCC s/p ileal loop reconstruction p/w refractory UTI and 
+      MS changes
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infection or abscess. Pls do CT Urogram w and w/out 
+      contrast w/ delayed images.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Transitional cell carcinoma with ileal loop, refractory UTI.
+     
+     COMPARISON:  [**3477-6-1**].
+     
+     TECHNIQUE:  Axial images through the abdomen and pelvis with and without IV
+     contrast.  Multiplanar reformats were performed.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There is a small right
+     pneumothorax.  There are bilateral lower lobe consolidations.  There are
+     coronary artery calcifications.  The patient is status post cholecystectomy.
+     There is low attenuation of the liver consistent with fatty replacement.  The
+     liver, spleen, adrenal glands, and pancreas are normal.  There are no renal
+     stones or hydronephrosis.  Both kidneys display normal enhancement and
+     excretion.  There is no free air or free fluid or lymphadenopathy.  The large
+     and small bowel loops are normal.  There is atherosclerotic calcification of
+     the descending aorta.
+     
+     CT OF THE PELVIS WITH AND WITHOUT IV CONTRAST:  The patient is status post
+     cystectomy with ileal diversion.  Surgical clips are seen in the region of
+     prior lymph node dissection.  No ureteral stones are visualized.  There is no
+     increased abnormal soft tissue adjacent to the ileal diversion.  No
+     lymphadenopathy of pathologic size.  The rectum and sigmoid colon are normal.
+     There is no free fluid.
+     
+     BONE WINDOWS:  There are marked degenerative changes in the lower lumbar
+     spine.
+     
+     REFORMATTED IMAGES:  There is no hydronephrosis.
+     
+     IMPRESSION:
+     1.  No renal stones or hydronephrosis.  Stable appearance of the ileal
+     diversion.
+     2.  Bibasilar consolidations which could represent aspiration or pneumonia.
+     3.  Small right pneumothorax.
+                                                                 (Over)
+
+     DATE: [**3477-7-28**] 3:50 PM
+     CTU (ABD/PEL) W/&W/O CONTRAST                                   Clip # [**Clip Number (Radiology) 14887**]
+     Reason: Please evaluate for infection or abscess. Pls do CT Urogram 
+     Admitting Diagnosis: FAILURE TO THRIVE
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13347,,,,3477-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-29**] 7:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14888**]
+     Reason: eval pneumothorax, chest catheter placement.                
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man c Parkinsons, TCC s/p cystectomy found to have pneumothorax, 
+      drained [**7-28**].                               
+     REASON FOR THIS EXAMINATION:
+      eval pneumothorax, chest catheter placement.                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW ON [**7-29**].
+     
+     HISTORY:  Followup pneumothorax.
+     
+     FINDINGS:  There is a moderate sized right pneumothorax which is increased in
+     size compared to the film from the prior day.  There is increased bilateral
+     lower lobe volume loss.  An underlying infectious infiltrate in either lower
+     lobe can't be excluded.  A small guage right chest tube is again seen.
+     
+     Impression:
+     
+     1.  Increased right pneumothorax.
+     
+     2.  Increased bilateral lower lobe volume loss/infiltrate.
+
+",,
+13347,,,,3477-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-29**] 12:48 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 14889**]
+     Reason: evaluate new pneumothorax, catheter placement.              
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man c Parkinsons, TCC s/p cystectomy found to have pneumothorax,  
+      drained [**7-28**].                               
+     REASON FOR THIS EXAMINATION:
+      evaluate new pneumothorax, catheter placement.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Follow up pneumothorax.
+     
+     FINDINGS:  The right lung has expanded slightly and there is still small
+     lateral and apical pneumothorax but it is decreased in size compared to prior.
+     There continues to be volume loss with some consolidation in the right lower
+     lung and there is increased consolidation in the left lower lobe with
+     increased left effusion.  Multiple gas-filled loops of bowel are again seen
+     within the abdomen.
+                                                                           
+
+",,
+13347,,,,3477-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-29**] 12:48 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 14889**]
+     Reason: evaluate new pneumothorax, catheter placement.              
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man c Parkinsons, TCC s/p cystectomy found to have pneumothorax,  
+      drained [**7-28**].                               
+     REASON FOR THIS EXAMINATION:
+      evaluate new pneumothorax, catheter placement.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Follow up pneumothorax.
+     
+     FINDINGS:  The right lung has expanded slightly and there is still small
+     lateral and apical pneumothorax but it is decreased in size compared to prior.
+     There continues to be volume loss with some consolidation in the right lower
+     lung and there is increased consolidation in the left lower lobe with
+     increased left effusion.  Multiple gas-filled loops of bowel are again seen
+     within the abdomen.
+                                                                           
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 1:56 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 14891**]
+     Reason: Speech and swallow requests further evaluation.             
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with dementia p/w mental status change with UTI.                
+     REASON FOR THIS EXAMINATION:
+      Speech and swallow requests further evaluation.                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old gentleman with history of dementia presenting with
+     altered mental status, referred for video oropharyngeal swallow evaluation.
+     
+     TECHNIQUE:  Video oropharyngeal swallow evaluation in conjunction with speech
+     therapy in the presence of radiology.
+     
+     FINDINGS:  Patient was given multiple consistencies of barium to swallow in
+     the presence of speech therapy and radiology.  Patient's swallowing was
+     assessed using fluoroscopy.  On oral phase patient demonstrated a mildly
+     impaired oral phase with difficulty with bolus formation and bolus control.
+     Patient had mild amount of oral cavity residue and premature spillover into
+     the valleculae with nectar-thick liquids.  On pharyngeal phase patient
+     displayed moderately impaired laryngeal elevation and laryngeal valve closure.
+     Patient had moderate amount of residue remaining in the valleculae after all
+     consistencies of barium.  Multiple swallows were minimally effective at
+     clearing the residue in the valleculae.  The patient demonstrated mild
+     penetration with thin liquids during the swallow caused by the poor valve
+     closure.  No aspiration was seen during exam.  Cued cough and reflexive cough
+     were minimally effective at clearing the penetrated material.
+     
+     IMPRESSION:
+     1.  Patient with mild-to-moderate oral cavity residue with premature spillover
+     into the valleculae.  Furthermore on pharyngeal phase patient with moderate
+     amount of residue remaining in the valleculae after all consistencies of
+     barium which on multiple swallows were mildly effective at clearing the
+     residue in the valleculae.  Patient demonstrates mild penetration with sips of
+     nectar though no aspiration was seen on exam.
+     
+     2.  For further details please refer to detailed swallow evaluation available
+     on computerized medical records.
+     
+     
+     
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 5:29 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14893**]
+     -77 BY DIFFERENT PHYSICIAN
+     [**Name Initial (PRE) 464**]: Please assess pneumothorax.                                 
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man c Parkinsons, TCC s/p cystectomy w/ pneumothorax, drained  
+      [**7-28**].                                
+     REASON FOR THIS EXAMINATION:
+      Please assess pneumothorax.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post cystectomy with pneumothorax on [**7-28**].  Assess
+     pneumothorax.
+     
+     COMPARISON:  Upright chest radiograph of the same day at 13:50.
+     
+     UPRIGHT AP CHEST:  A small-bore chest tube remains in place within the right
+     chest.  A tiny right apical pneumothorax persists, unchanged.  There is
+     slightly increased atelectasis at the left lung base.  The right lung appears
+     unchanged, except the extreme right lateral chest is excluded from the image.
+     
+     IMPRESSION:  Tiny right apical pneumothorax, unchanged.
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 5:29 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14893**]
+     -77 BY DIFFERENT PHYSICIAN
+     [**Name Initial (PRE) 464**]: Please assess pneumothorax.                                 
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man c Parkinsons, TCC s/p cystectomy w/ pneumothorax, drained  
+      [**7-28**].                                
+     REASON FOR THIS EXAMINATION:
+      Please assess pneumothorax.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post cystectomy with pneumothorax on [**7-28**].  Assess
+     pneumothorax.
+     
+     COMPARISON:  Upright chest radiograph of the same day at 13:50.
+     
+     UPRIGHT AP CHEST:  A small-bore chest tube remains in place within the right
+     chest.  A tiny right apical pneumothorax persists, unchanged.  There is
+     slightly increased atelectasis at the left lung base.  The right lung appears
+     unchanged, except the extreme right lateral chest is excluded from the image.
+     
+     IMPRESSION:  Tiny right apical pneumothorax, unchanged.
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 5:29 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14893**]
+     -77 BY DIFFERENT PHYSICIAN
+     [**Name Initial (PRE) 464**]: Please assess pneumothorax.                                 
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man c Parkinsons, TCC s/p cystectomy w/ pneumothorax, drained  
+      [**7-28**].                                
+     REASON FOR THIS EXAMINATION:
+      Please assess pneumothorax.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post cystectomy with pneumothorax on [**7-28**].  Assess
+     pneumothorax.
+     
+     COMPARISON:  Upright chest radiograph of the same day at 13:50.
+     
+     UPRIGHT AP CHEST:  A small-bore chest tube remains in place within the right
+     chest.  A tiny right apical pneumothorax persists, unchanged.  There is
+     slightly increased atelectasis at the left lung base.  The right lung appears
+     unchanged, except the extreme right lateral chest is excluded from the image.
+     
+     IMPRESSION:  Tiny right apical pneumothorax, unchanged.
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 2:32 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14892**]
+     Reason: eval pneumothorax for any changes after change to water seal
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        78 year old man with new right sided opacity and Pneumothorax                 
+               
+     REASON FOR THIS EXAMINATION:
+      eval pneumothorax for any changes after change to water seal at 10am.  schedule 
+      about 2-3pm
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST RADIOGRAPH OF [**3477-7-30**] AT 13:15
+     
+     COMPARISON:  Portable chest radiograph, [**3477-7-30**] at 10:06 a.m.
+     
+     A small bore chest tube remains in place.  On the lateral view, its tip is in
+     a relatively superficial location overlying the sternum, possibly within the
+     anterior portion of the pleura to the right of the sternum, although
+     extrapleural location cannot be excluded.  There is only a tiny residual
+     pneumothorax remaining.  Lung volumes have improved in the interval, and there
+     is associated improving aeration within both lung bases, especially on the
+     right.  Left retrocardiac opacity has only partially improved.  Rounded
+     opacity in the right perihilar region is unchanged as well as a more
+     peripheral area of opacity in the right mid lung region.
+     
+     IMPRESSION:  Tiny residual right apical pneumothorax.  Relatively superficial
+     position of right chest tube as described.
+                                                                           
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 9:54 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14890**]
+     Reason: evaluate pneumothorax, chest catheter placement.            
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          78 year old man c Parkinsons, TCC s/p cystectomy w/ pneumothorax, drained 
+      [**7-28**].                                
+     REASON FOR THIS EXAMINATION:
+      evaluate pneumothorax, chest catheter placement.                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Parkinson's disease with pneumothorax.
+     
+     COMPARISON:  [**3477-7-29**].
+     
+     UPRIGHT AP VIEW OF THE CHEST:  A small right apical pneumothorax is slightly
+     decreased in size.  Small-bore pleural catheter remains in unchanged position
+     on the right.  Right perihilar opacity is slightly improved in the interval.
+     Persistent retrocardiac density may represent atelectasis or pneumonia, and
+     small left pleural effusion is decreased in size.  Pulmonary vascularity is
+     within normal limits.  Clips in the right upper quadrant are again
+     demonstrated.
+     
+     IMPRESSION:
+     1.  Decreased small right apical pneumothorax.
+     2.  Improving right perihilar opacity presenting combination of patient's
+     known pulmonary nodule and improving adjacent atelectasis or infection.
+     3.  Persistent retrocardiac opacity representing atelectasis or pneumonia with
+     decreased size of small left pleural effusion.
+
+",,
+13347,,,,3477-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-30**] 9:54 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14890**]
+     Reason: evaluate pneumothorax, chest catheter placement.            
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          78 year old man c Parkinsons, TCC s/p cystectomy w/ pneumothorax, drained 
+      [**7-28**].                                
+     REASON FOR THIS EXAMINATION:
+      evaluate pneumothorax, chest catheter placement.                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Parkinson's disease with pneumothorax.
+     
+     COMPARISON:  [**3477-7-29**].
+     
+     UPRIGHT AP VIEW OF THE CHEST:  A small right apical pneumothorax is slightly
+     decreased in size.  Small-bore pleural catheter remains in unchanged position
+     on the right.  Right perihilar opacity is slightly improved in the interval.
+     Persistent retrocardiac density may represent atelectasis or pneumonia, and
+     small left pleural effusion is decreased in size.  Pulmonary vascularity is
+     within normal limits.  Clips in the right upper quadrant are again
+     demonstrated.
+     
+     IMPRESSION:
+     1.  Decreased small right apical pneumothorax.
+     2.  Improving right perihilar opacity presenting combination of patient's
+     known pulmonary nodule and improving adjacent atelectasis or infection.
+     3.  Persistent retrocardiac opacity representing atelectasis or pneumonia with
+     decreased size of small left pleural effusion.
+
+",,
+13347,,,,3477-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-31**] 7:43 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 14895**]
+     Reason: TCC S/P CYSTECTOMY WIRH WORSENING MS
+     Admitting Diagnosis: FAILURE TO THRIVE
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with TCC s/p cystectomy with worsening MS.                     
+       
+     REASON FOR THIS EXAMINATION:
+      Please assess size of previously seen hilar masses                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Worsening mental status with TCC status post cystectomy.  Please
+     assess site of previously seen hilar mass.
+     
+     COMPARISON:  [**3477-6-30**].
+     
+     TECHNIQUE:  Non-contrast axial CT.
+     
+     CT CHEST WITHOUT CONTRAST:  There is very small amount of residual air in the
+     pleural space at the apex as well as at the right base.  There is subcutaneous
+     emphysema (a pleural tube was placed [**3477-7-28**], and has subsequently been
+     removed).  Small bibasilar pleural effusions are unchanged.  Left lower lobe
+     atelectasis, moderate in size, is unchanged.  There has been some enlargement
+     of the right hilar mass that today measures 4.0 x 3.4 cm (previously 2.8 cm).
+     Right hilar adjacent adenopathy has also increased slightly in the interval as
+     well as a pretracheal node now measuring 2.9 cm.  Smaller mediastinal nodes
+     have also slightly increased in the interval.
+     
+     Lung windows demonstrate new nodular 8-9mm soft tissue densities in the right
+     upper and middle lobes. Central lucencies of these areas raises the
+     possibility of early cavitation, though is nonspecific. Associated
+     consolidation in the right middle lobe adjacent to the right hilar mass is new
+     from July. Left lower lobe atelectasis is unchanged.
+     
+     The visualized portions of the abdomen are unchanged with gas-distended large
+     bowel.  The patient is status post cholecystectomy.
+     
+     BONE WINDOWS:  No suspicious lesions identified.
+     
+     IMPRESSION:
+     1.  Enlargement of right hilar mass and mediastinal adenopathy.
+     2.  New 8 and 9 mm nodular opacities in the right upper and middle lobes.
+     Differential includes small foci of infection versus spread of disease.
+     3.  New right middle lobe consolidation associated with the enlarging right
+     hilar mass.
+     4.  Subcutaneous edema likely related to pleural tube from [**3477-7-28**].
+     There is small residual air within the pleural space in the right apex and
+     right base.
+                                                                 (Over)
+
+     DATE: [**3477-7-31**] 7:43 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 14895**]
+     Reason: TCC S/P CYSTECTOMY WIRH WORSENING MS
+     Admitting Diagnosis: FAILURE TO THRIVE
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13347,,,,3477-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-7-31**] 11:37 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14894**]
+     Reason: ? resolving or residual ptx                                 
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         78 year old man with new right sided opacity and Pneumothorax s/p CT pull    
+                            
+     REASON FOR THIS EXAMINATION:
+      ? resolving or residual ptx                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Resolving of residual pneumothorax.
+     
+     TECHNIQUE:  PA and lateral view of the chest.
+     
+     COMPARISON STUDY:  Comparison is available from [**7-20**].
+     
+     FINDINGS:  There has seen an interval removal of right chest tube.  The right
+     hilar opacity is stable in size.  There is a new density in right lower lobe.
+     There is no pneumothorax present.  Left lung has basilar atelectasis.  
+     Heart, mediastinal and hilar contours are normal.
+     
+     IMPRESSION:  
+     
+     Resolved pneumothorax of the right side.  New infiltrate on the right lower
+     lobe.  Basilar atelectasis at the left lung.
+
+",,
+13347,,,,3477-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-8-2**] 6:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14897**]
+     Reason: Rule out pneumothorax.                                      
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man c Parkinsons, TCC s/p cystectomy h/o of recent pneumothorax 
+      with chest tube removed [**7-31**] now with chest pain.
+     REASON FOR THIS EXAMINATION:
+      Rule out pneumothorax.                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with Parkinson's and right hilar mass had recent
+     pneumothorax.  Now with chest pain.
+     
+     COMPARISON:  [**3477-7-31**], chest radiograph and chest CT.
+     
+     FINDINGS:  The cardiomediastinal silhouette is unchanged.  There is a stable
+     right hilar mass.  There is a prominent left hilum.  The pulmonary vasculature
+     is normal. There is no pneumothorax. There is a right middle lung zone
+     opacity. There is left lung basilar atelectasis. Again seen is right-sided
+     subcutaneous emphysema. There are air- filled loops of small and large bowel.
+     Please clinically correlate.
+     
+     IMPRESSION:
+     1.  No evidence of pneumothorax.
+     2.  Right hilar mass.
+     3.  Right middle lung zone consolidation.
+     5.  Dilated loops of small and large bowel.
+
+",,
+13347,,,,3477-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3477-8-2**] 2:10 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 14896**]
+     Reason: Please do CT guided biopsy of RUL nodule                    
+     Admitting Diagnosis: FAILURE TO THRIVE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        78 year old man with hx of bladder cancer s/p cystectomy with growing lung 
+      nodules                      
+     REASON FOR THIS EXAMINATION:
+      Please do CT guided biopsy of RUL nodule                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided lung biopsy.
+     
+     INDICATION:  78-year-old man with history of bladder cancer and multiple
+     masses in right lung.
+     
+     Comparison made to prior CT dated [**3477-7-31**].
+     
+     Patient dementia precluded adequate sedation of the patient for the planned
+     procedure.  Decision made to abort procedure before it was started.  Findings
+     discussed with thoracic surgery resident, Dr. [**Last Name (STitle) 7592**].
+     
+     Patient should not be charged for this study.
+     
+     IMPRESSION:  Scheduled CT-guided right lung mass biopsy cancelled, as
+     discussed above.
+     
+
+",,

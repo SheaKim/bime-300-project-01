@@ -1,0 +1,1329 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13686,4924,,,2507-03-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2507-3-21**]       Discharge Date:  [**2507-3-29**]
+
+Date of Birth:   [**2423-4-7**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 83-year-old
+male with a history of coronary artery disease, atrial
+fibrillation on Coumadin, gastroesophageal reflux disease who
+was brought to the Emergency Department by the EMT after he
+complained of intermittent chest pain for three days, nausea
+and lethargy.  The patient has had some episodes of
+constipation as well as dark stools, increasing lower
+extremity edema for the past two to three weeks.  He denies
+any vomiting, abdominal pain or diarrhea.  The chest pain
+resolved after arrival to the Emergency Department.  The EMTs
+found him to have a heart rate in the 200s, irregular and he
+was given Diltiazem which decreases heart rate to the 70s.
+Electrocardiogram was consistent with rapid atrial
+fibrillation.  In the Emergency Department, his heart rate
+was in the 70s and electrocardiogram showed atrial
+fibrillation with inferolateral ST segment depressions.
+Hematocrit was noted to be 18.  His baseline is 30.  His
+stool was black and guaiac positive.  Systolic blood pressure
+was 88 to 100.  Nasogastric lavage was performed and noted to
+be negative.  The wife reports multiple urinary tract
+infections since [**2506-8-4**] with courses of Augmentin,
+Keflex and now ciprofloxacin.  The patient had noted diarrhea
+in January and constipation for the last three to four weeks.
+He denies any dysuria, shortness of breath, paroxysmal
+nocturnal dyspnea, headache, fevers, chills or coughs.  He
+has noted increasing lower extremity edema and weight gain
+since early [**2505-3-4**].  He manages with an increased Lasix
+dose.  He also noted an increased blood sugar over the
+weekend and his wife gave him glyburide.
+
+PAST MEDICAL HISTORY:
+1.  Atrial fibrillation on Coumadin
+2.  Noninsulin dependent diabetes mellitus
+3.  Coronary artery disease, myocardial infarction x3 with
+stents to his LAD x2 and circumflex in [**2506-6-4**]
+4.  Atrial stenosis
+5.  Congestive heart failure with an ejection fraction of 40%
+to 45%
+6.  Status post CEA on the right
+7.  Gastroesophageal reflux disease
+8.  Status post abdominal hernia repair
+9.  Recurrent urinary tract infection
+10. Umbilical hernia repair in [**2506-9-4**]
+11. Gout
+
+ALLERGIES:  LEVAQUIN CAUSES HIGH INR.  CAPTOPRIL CAUSES LOW
+BLOOD PRESSURE.  HE IS QUESTIONABLY ALLERGIC TO CELEXA AND
+ZOLOFT.
+
+MEDICATIONS:
+1.  Allopurinol 300 mg po q day
+2.  Lipitor 20 mg po q hs
+3.  Lasix 40 mg po qd
+4.  Aspirin 81 mg po qd
+5.  Potassium chloride 40 milliequivalents bid
+6.  Prevacid 30 mg q day
+7.  Aldactone 25 mg q day
+8.  Flomax 0.8 mg q hs
+9.  Iron sulfate 325 mg po qd
+10. Coumadin 10 mg alternating with 7.5 mg q day
+11. Calcium
+12. Multivitamin tablet
+13. Vitamin E
+
+SOCIAL HISTORY:  The patient lives with his wife.  He denies
+any alcohol use.  He has a remote smoking history.
+
+FAMILY HISTORY:  Noncontributory
+
+PHYSICAL EXAM:
+VITAL SIGNS:  Temperature 96.3��, pulse 80, blood pressure
+89/39, respiratory rate 23, O2 saturation 97% on 2 liters.
+GENERAL:  He is a pale, alert elderly gentleman in no acute
+distress.
+HEAD, EARS, EYES, NOSE AND THROAT:  Head is normocephalic,
+atraumatic.  Pupils equal, round and reactive to light.
+Conjunctivae is pale.  Mouth and oropharynx are clear without
+any erythema or exudate.
+NECK:  Supple.  There is no lymphadenopathy.
+PULMONARY:  He has deep bibasilar rales, no wheezes.
+CARDIOVASCULAR:  Irregularly irregular with 2/6 systolic
+ejection murmur at the right upper sternal border.
+ABDOMEN:  Soft, nontender, nondistended with palpable liver
+edge approximately 4 cm below the costophrenic angle.
+EXTREMITIES:  3+ edema to the knees.  Feet are warm with no
+palpable pulses.
+RECTAL:  Per the Emergency Department, is black.  OB is
+positive.
+
+LABS:  White cell count 15/6, hematocrit 18.2, platelets 334.
+His hematocrit on discharge was 31.7.  PT 21.8, INR 3.3, PTT
+36.2, creatinine 1.3, BUN 97.  Troponin on admission was 7.4.
+
+IMAGING:  Electrocardiogram showed atrial fibrillation with
+heart rate in the 70s.  Chest x-ray showed cardiomegaly with
+mild congestive heart failure, linear opacities in the mid
+right lung, no change from [**2506-9-3**].
+
+ASSESSMENT:  This is an 83-year-old man who presents with a
+history of coronary artery disease, rapid atrial fibrillation
+who presents with severe anemia and guaiac positive stool
+consistent with a gastrointestinal bleed.
+
+HOSPITAL COURSE:
+1.  GASTROINTESTINAL:  The patient was admitted to the
+Medical Intensive Care Unit with a hematocrit of 18 thought
+to be secondary to an active gastrointestinal bleed.
+Nasogastric lavage was negative in the Emergency Department,
+but he was noted to have dark black melanotic guaiac positive
+stools.  The gastroenterology team was consulted and they
+initially recommended transfusing to keep his hematocrit over
+30 with plans for endoscopy when he troponin decreased.  He
+was transfused 3 units of packed red blood cells initially
+with an adequate increase in his hematocrit.  He underwent an
+esophagogastroduodenoscopy on hospital day #3 which showed
+gastritis.  Because his hematocrit continued to trend
+downward, the patient underwent a colonoscopy to rule out a
+lower gastrointestinal bleed.  Colonoscopy showed a few
+diverticula as well as a single 13 mm nonbleeding polyp of
+benign appearance which was removed for biopsy.  He was also
+noted to have some diverticulosis of the sigmoid colon.  His
+hematocrit has been subsequently stable with no evidence of
+active gastrointestinal bleeding.
+
+2.  HEMATOLOGY:  The patient was admitted with a hematocrit
+of 18 thought to be secondary to a gastrointestinal bleed in
+the setting of a supratherapeutic INR.  He was given a dose
+of vitamin K subcutaneously to reverse his INR and his
+Coumadin withheld throughout his hospitalization.  He was
+transfused periodically to keep his hematocrit above 30 given
+his history of coronary artery disease.  His hematocrit was
+stable upon discharge and his Coumadin was restarted upon
+discharge.
+
+3.  CARDIOVASCULAR:  He was found to be in atrial
+fibrillation with rapid ventricular response that slowed with
+Diltiazem.  Troponins were elevated with flat CKs.  This was
+felt to be secondary to demand ischemia in a setting of an
+acute blood loss.  His troponin was trending downward and
+given a history of coronary artery disease, a Persantine
+thallium was performed for further risk stratification.  The
+study showed global hypokinesis with an ejection fraction of
+39% and a severe fixed defect in the distal anterior apical
+myocardial wall.  He was also started on Lasix and aldactone
+as he was felt to be in congestive heart failure.
+
+4.  RENAL:  His increased creatinine on admission was felt to
+be secondary to intervascular depletion given his blood loss
+and his creatinine decreased with blood transfusions and
+intravenous fluids.
+
+5.  INFECTIOUS DISEASE:  The patient had a history of
+recurrent urinary tract infection.  A routine urinalysis was
+sent and noted to be negative.  The patient was afebrile and
+his white cell count was stable throughout his
+hospitalization.
+
+DISPOSITION:  The patient has been severely deconditioned
+over the past few months given his multiple hospitalizations
+and his comorbidities.  He was screened by the physical
+therapy team who recommended a short term stay in
+rehabilitation prior to being discharged to home.
+
+DISCHARGE MEDICATIONS:
+1.  Digoxin 0.125 mg po q day
+2.  Lipitor 20 mg po q day
+3.  Protonix 40 mg po q day
+4.  Iron sulfate 325 mg po q day
+5.  Multivitamin tablet 1 tablet po q day
+6.  Allopurinol 100 mg po q day
+7.  Flomax 0.4 mg po q hs
+8.  Lasix 40 mg po q day
+9.  Spironolactone 25 mg po q day
+10. Colace 100 mg po bid
+11. Coumadin 7.5 mg po q day with potentially variable doses
+related to his INR levels
+
+
+
+
+                            [**First Name11 (Name Pattern1) 175**] [**Last Name (NamePattern4) 9517**], M.D.  [**MD Number 9518**]
+
+Dictated By:[**Name8 (MD) 9519**]
+MEDQUIST36
+
+D:  [**2507-3-28**]  14:18
+T:  [**2507-3-28**]  14:28
+JOB#:  [**Job Number 9520**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 175**] [**Last Name (NamePattern1) **]
+ on: WED [**2507-4-6**] 4:50 PM
+(End of Report)
+
+
+",,
+13686,4924,,,2507-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-3-21**] 12:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2572**]
+     Reason: eval for chf, pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with chest pain, st depressions, bp 80/20
+     REASON FOR THIS EXAMINATION:
+      eval for chf, pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain.  Evaluate for CHF.
+     
+     Compared to prior examination from [**2506-9-3**].
+     
+     FINDINGS:  There is stable cardiomegaly.  The aorta is unfolded and partially
+     calcified.  There is upper zone pulmonvary vascular redistribution.  Again
+     seen is a linear opacity in the right mid lung which is unchanged.  The
+     costophrenic angles bilaterally are not visualized on this examination.
+     
+     The bones are demineralized with degenerative changes.
+     
+     IMPRESSION:  Cardiomegaly and mild heart failure.
+
+",,
+13686,4924,17040,0,2507-03-21 19:03:00 EST,2507-03-21 19:27:00 EST,1774,"N",69,"Nursing/Other","MICU NSG ADMISSION NOTE","
+MICU NSG ADMISSION NOTE
+THIS PATIENT WITH A HX OF CAD W/STENTS, AFIB, MOD AS, UTI'S, DM, CHF W/EF 40-45%, AND S/P RIGHT CEA, PRESENTED TO ED FROM HOME WITH C/O CP, SOB AND INCREASING LE EDEMA X2WKS. EMS ARRIVED FOUND PATIENT TO BE IN RAPID AFIB WITH RATE >200. WAS GIVEN DILTIAZEM WITH HR DROPPING TO 70'S BUT BP DROPPED TO 80'S. IN ER DENIED CP BUT C/O SOB, WEAKNESS AND FATIGUE. WAS FOUND TO BE GUIAC + AND HCT OF 18. INR WAS 3.3 AND WBC WAS 15.6. PATIENT WAS AFEBRILE . EKG SHOWED SOME INFERIOR WALL ISCHEMIA MOST LIKELY D/T HCT. PATIENT STARTED WITH FIRST UNIT OF PACKED. 
+
+PATIENT IS MARRIED WITH CHILDREN. QUESTION ALLERGIES TO CELEXA, ZOLOFT, LEVAQUIN, AND CAPTOPRIL.
+
+ARRIVED TO MICU 615PM. AA&OX3. FOLLOW COMMANDS HR 70-80'S AFIB WITH RARE ECTOPY. FINISHED 1ST UNIT OF PACKED AND SECOND HUNG. BP 108-115/31-42. 3+ LE EDEMA. ON 3L N/C WITH SATS 100% WITH RR MID 20'S. LS COARSE WITH BIBASILAR CRACKLES. ABD SOFT DISTENDED AND TENDER TO PALPATION. BS + NO STOOL. FOLEY DRAINING YELLOW URINE. SKIN INTACT. TEMP 97.0. NO ABX AT THIS TIME, NEED U/A C&S. #18 AND #20G IV'S IN PLACE. WIFE CURRENTLY WITH PATIENT.
+",,
+13686,4924,17040,,2507-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-3-22**] 2:35 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 2573**]
+     Reason: Pt with low HCT, h/o GI bleed, and c/o RUQ and LLQ pain. To 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Pt with low HCT, h/o GI bleed, and c/o RUQ and LLQ pain. To eval for ascites,
+      blood, masses
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83 y/o man with history of GI bleeding. Evaluate for ascites or
+     masses.
+     
+     ABDOMINAL ULTRASOUND:  The liver has a somewhat coarse echotexture with a
+     nodular contour.  There is no evidence of focal lesions or anomalies.  There
+     is no dilatation of the intra or extrahepatic bile ducts. There is evidence of
+     ascites around the liver.  The gallbladder was not visualized and was
+     most probably resected.  The pancreas is unremarkable. The spleen is enlarged
+     measuring 14.6 cm.  The left kidney measures 12 cm without hydronephrosis or
+     nephrolithiasis.  The right kidney 11.5 cm without hydronephrosis or
+     nephrolithiasis.
+     
+     IMPRESSION:  1) Nodular appearance of the liver with some ascites and
+     splenomegaly.  2) Status post cholecystectomy.
+
+",,
+13686,4924,17040,0,2507-03-22 05:42:00 EST,2507-03-22 06:01:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+C-V - HR 70-80 afib with freq pvcs. BP 105-11/35-45. MAP 60-64. Pt had been on coumadin at home for afib. Coumadin is on hold until GI w/u is completed. Denies CP. 2 sets of cardiac enzymes are neg, 3rd set pend. 
+
+Resp - Lungs with expir wheezing and crackles at the bases. 02 sat 98-100% on 3lnc. RR 12-30. C-xray on admit showed mild CHF.
+
+Heme - pt transfused a total of 3 units PRBCs yest without incident. Initial HCT 18. HCt this am 24.5. INR pend. 
+
+GI - Abd soft. +BS. No BRBPR or any stool last evening. Denies abd pain. Pt tolerating cl liqs. Per wife, pt has hx of difficulty swallowing. Pills are best tolerate when taken with yogurt.
+
+Neuro - a+o x 3, follows commands.
+
+F/E - Foley draining approx 50cc/hr clear yellow urine. Pt with hx of multiple uti's. U/A sent last eve showed 0-2 wbcs with rare bacteria.
+
+Skin - pale appearing, 3+ pitting edema to knees. Skin tear noted on right forearm, adaptic applied. Multiple ecchymotic areas noted on arms bilaterally which pt states are due to coumadin. Sacrum slightly reddened, barrier cream applied.
+
+ID - Afeb. WBC 13.2 (15.6 yest). 
+
+Access- 2 peripheral ivs (#18,#20). 
+
+Social - Dtr called and updated on pts condition. Wife visited last eve. Wife states pt has HHA 3x/wk to assist with am care at home.
+
+Plan - Continue to monitor cardiac status, ? diltiazem if HR increases above 90. Pt in process of being r/o for MI. Monitor for GIB, serial hcts. 
+
+
+",,
+13686,4924,17040,0,2507-03-22 13:48:00 EST,2507-03-22 13:50:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NSG NOTE:  Pt to transfer to CC726.  Report faxed to CC7 and RN there ready to accept pt (see paper tx note for details).  Floor team in MICU now and writiing orders.  Pt to go to ultrasound for test then transfer directly to floor.  Wife is at bs and aware of plans.  Pt awake with stable vs.  PRBC unit # [**Unit Number **] infused over the morning without incident or s/sx rxn.  Please refer to carevue for details.
+  
+",,
+13686,4924,,,2507-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 2574**]
+     Reason: ASSESS FOR PERFUSION DEFECTS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     Persantine was infused intravenously for approximately 4 minutes at a  dose of 
+     approximately 0.142 mg/kg/min.  The patient experienced no symptoms.  The ST
+     segments were uninterpretable for ischemia due to Digoxin therapy. 
+      
+     HISTORY:  Eighty-three year old male with past h/o coronary artery disease, s/p
+     left anterior descending stent, atrial fibrillation, congestive heart failure
+     and diabetes, and anemia.  Elevated troponin, flat CKs thought to be  related to
+     demand ischemia.  Please assess for areas of perfusion and wall motion
+     abnormalities.
+      
+     INTERPRETATION:  One to three minutes after the cessation of infusion, 
+     MIBI was administered IV.
+      
+     Image Protocol: Gated SPECT.
+      
+     Resting perfusion images were obtained with thallium.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+      
+     The stress and resting perfusion images demonstrate a severe, fixed perfusion
+     defect involving the distal anterior wall and extending to involve the apex.
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     Persantine administration shows a left ventricular ejection fraction of
+     approximately 39%.  The wall motion demonstrates global hypokinesia of the
+     visualized walls.
+      
+     IMPRESSION:  1) There is a severe, fixed defect involving the distal anterior
+     and apical myocardial walls.  2) Left ventricular ejection fraction is reduced
+     at 39%.  3) There is global hypokinesia. /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) 635**] [**Last Name (NamePattern1) 2575**], M.D.
+             [**First Name8 (NamePattern2) 129**] [**Last Name (NamePattern1) 130**], M.D.         Approved: MON [**2507-3-28**] 9:18 PM
+
+
+             Date Mailed: [**2507-3-29**]                     West [**Medical Record Number 2576**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13686,,,,2507-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-21**] 7:35 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 2578**]
+     Reason: r/o obstruction, r/o free air
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction
+      r/o free air
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain and weakness, evaluate for obstruction.
+     
+     COMPARISON: [**9-6**] and [**2506-9-4**] and [**2505-6-26**].
+     
+     ABDOMEN, PORTABLE SUPINE ONLY: There is a large amount of gas seen throughout
+     the colon and small intestine, without major aeric dilation of the [**Last Name (un) 2579**]
+     however. The aerated bowel loops keep their mucosal relief. Numerous surgical
+     clips are seen in the upper mid-abdomen. The aorta is heavily calcified but
+     does not appear aneurysmally dilated. The osseous structures are unremarkable.
+     
+     IMPRESSION: Large amount of gas throughout the large and small intestines,
+     without major dilation nor definite evidence of mechanical obstruction.
+     However we recommend an upright or lateral decubitus film for the evaluation
+     of either free air or air-fluid levels.
+
+",,
+13686,,,,2507-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-21**] 7:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2577**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain and weakness.
+     
+     COMPARISON: [**2507-3-21**] and [**2505-6-15**].
+     
+     There is stable cardiomegaly with a calcified and unfolded aorta. There is
+     equivocal pulmonary vascular redistribution. The linear and patchy opacities
+     at the right lung base appear decreased from the prior study and otherwise
+     stable since [**2505**]. There are no other focal pulmonary opacities. Note that the
+     extreme costophrenic angles have been excluded from this study. There is
+     diffuse osseous demineralization. Surgical clips are seen along the soft
+     tissues of the right side of the neck.
+     
+     IMPRESSION: Stable cardiomegaly and a combination of atelectasis and scarring
+     at the right lung base. No overt failure or pneumonia.
+
+",,
+13686,,,,2507-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-21**] 8:25 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 2581**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain and weakness.
+     
+     COMPARISON: [**2507-6-21**] and [**2506-9-3**].
+     
+     SINGLE LATERAL VIEW OF THE CHEST: Again noted are the patchy opacities at the
+     right lung base which correspond with the frontal view and appear overall
+     unchanged from the scarring noted in the prior studies. No definite new
+     opacity is seen.
+     
+     IMPRESSION: The patchy opacities at the right lung base likely represent a
+     combination of atelectasis and prior lung scarring. No definite overlying
+     infiltrates are noted.
+
+",,
+13686,,,,2507-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-21**] 8:25 PM
+     ABDOMEN, SINGLE VIEW                                            Clip # [**Clip Number (Radiology) 2580**]
+     Reason: r/o obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain and weakness, evaluate for obstruction.
+     
+     COMPARISON: [**2507-6-21**] at 19:45.
+     
+     ABDOMEN, LEFT LATERAL DECUBITUS VIEW: Again noted is the large amount of bowel
+     gas within the colon and small intestine. At least three air-fluid levels are
+     noted, without evidence of definite bowel dilatation. No free air is detected.
+     Aortic calcifications are again noted.
+     
+     IMPRESSION: Given the air throughout the large and small bowel and the
+     multiple air-fluid levels, this may represent an ileus. However, an early
+     obstruction cannot be entirely excluded. Recommend serial exams, if the
+     patient's symptoms persist.
+
+",,
+13686,,,,2507-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-21**] 11:08 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2582**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o mesenteric ischemia, r/o obstruction
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with afib, hypotension, abdominal pain and tenderness and
+      increased wbc.
+     REASON FOR THIS EXAMINATION:
+      r/o mesenteric ischemia
+      r/o obstruction
+     ______________________________________________________________________________
+     WET READ: JMBu WED [**2507-6-22**] 2:32 AM
+      PROBALE RIGHT INDIRECT INGUINAL HERNIA-- NO OBSTRUCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Abdominal pain, tenderness, increased white blood count.
+     
+     COMPARISON: [**2506-9-4**]
+     
+     CT ABDOMEN, PELVIS, RECONSTRUCTIONS:
+     
+     TECHNIQUE: CT abdomen and pelvis with coronal reformats.
+     
+     CONTRAST: 150 cc Optiray  secondary to debilities.
+     
+     CORONAL REFORMATS: The coronal reformats confirm the findings described below.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are bilateral calcified pleural plaques and
+     small pleural effusions right greater than left.  The left effusion has
+     decreased in the interval since the prior study.  This likely related to
+     asbestos exposure. The liver is fatty replaced.  The patient is post
+     cholecystectomy.  The pancreas, spleen, adrenal glands, and kidneys are
+     unremarkable and unchanged. There is a small exophytic cyst on the left kidney
+     which is unchanged.  There are multiple tiny retroperitoneal lymph nodes which
+     are not pathologically enlarged by CT criteria. A subcentimeter gastrohepatic
+     ligament lymph node is unchanged.
+     
+     CT PELVIS WITH IV CONTRAST: Fluid and gas containing serpiginous structure in
+     the right inguinal canal appears to be contiguous with bowel and likely
+     represents a nonobstructing right inguinal hernia.  By report of the surgical
+     team the patient clinically has a reducible hernia in this region. There may
+     be minor inflammatory changes surrounding this.  There is no evidence of
+     obstruction.  The sigmoid colon is somewhat dilated. There is no evidence of
+     large bowel obstruction. There is fluid level in the rectum and sigmoid
+     consistent with nonspecific colitis. There is no bowel wall thickening,
+     however there is stranding around a diverticulum of the ascending colon
+     without a focal extraluminal collection. There is no free fluid or free gas.
+     The bones are demineralized and there are diffuse degenerative changes.
+     
+     IMPRESSION:
+     1. Mild diverticulitis of the ascending carcinoma.
+                                                                 (Over)
+
+     DATE: [**2507-6-21**] 11:08 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2582**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o mesenteric ischemia, r/o obstruction
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     2. Indirect right inguinal hernia.
+     3. Asbestos related pleural plaques and bilateral effusions.
+     4. Fatty liver.
+     
+     NOTE: The diverticultis was not included on the initial report, [**Last Name (STitle) 2583**]
+     was notified by telephone of the change on [**2507-6-22**] during read out.
+
+",,
+13686,,,,2507-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-21**] 11:08 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2582**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o mesenteric ischemia, r/o obstruction
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with afib, hypotension, abdominal pain and tenderness and
+      increased wbc.
+     REASON FOR THIS EXAMINATION:
+      r/o mesenteric ischemia
+      r/o obstruction
+     ______________________________________________________________________________
+     WET READ: JMBu WED [**2507-6-22**] 2:32 AM
+      PROBALE RIGHT INDIRECT INGUINAL HERNIA-- NO OBSTRUCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Abdominal pain, tenderness, increased white blood count.
+     
+     COMPARISON: [**2506-9-4**]
+     
+     CT ABDOMEN, PELVIS, RECONSTRUCTIONS:
+     
+     TECHNIQUE: CT abdomen and pelvis with coronal reformats.
+     
+     CONTRAST: 150 cc Optiray  secondary to debilities.
+     
+     CORONAL REFORMATS: The coronal reformats confirm the findings described below.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are bilateral calcified pleural plaques and
+     small pleural effusions right greater than left.  The left effusion has
+     decreased in the interval since the prior study.  This likely related to
+     asbestos exposure. The liver is fatty replaced.  The patient is post
+     cholecystectomy.  The pancreas, spleen, adrenal glands, and kidneys are
+     unremarkable and unchanged. There is a small exophytic cyst on the left kidney
+     which is unchanged.  There are multiple tiny retroperitoneal lymph nodes which
+     are not pathologically enlarged by CT criteria. A subcentimeter gastrohepatic
+     ligament lymph node is unchanged.
+     
+     CT PELVIS WITH IV CONTRAST: Fluid and gas containing serpiginous structure in
+     the right inguinal canal appears to be contiguous with bowel and likely
+     represents a nonobstructing right inguinal hernia.  By report of the surgical
+     team the patient clinically has a reducible hernia in this region. There may
+     be minor inflammatory changes surrounding this.  There is no evidence of
+     obstruction.  The sigmoid colon is somewhat dilated. There is no evidence of
+     large bowel obstruction. There is fluid level in the rectum and sigmoid
+     consistent with nonspecific colitis. There is no bowel wall thickening,
+     however there is stranding around a diverticulum of the ascending colon
+     without a focal extraluminal collection. There is no free fluid or free gas.
+     The bones are demineralized and there are diffuse degenerative changes.
+     
+     IMPRESSION:
+     1. Mild diverticulitis of the ascending carcinoma.
+                                                                 (Over)
+
+     DATE: [**2507-6-21**] 11:08 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2582**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o mesenteric ischemia, r/o obstruction
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     2. Indirect right inguinal hernia.
+     3. Asbestos related pleural plaques and bilateral effusions.
+     4. Fatty liver.
+     
+     NOTE: The diverticultis was not included on the initial report, [**Last Name (STitle) 2583**]
+     was notified by telephone of the change on [**2507-6-22**] during read out.
+
+",,
+13686,,,,2507-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-22**] 12:30 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2584**]
+     Reason: rule out chf
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness- tachypneic after one liter of
+      ns  
+     REASON FOR THIS EXAMINATION:
+      rule out chf
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain and weakness.  Tachypnic after one liter of normal
+     saline.
+     
+     COMPARISON: [**2507-6-21**]
+     
+     AP UPRIGHT CHEST: The heart is enlarged with  left ventricular configuration.
+     There is increased perihilar opacity on the right.  There are no pleural
+     effusions.  There is cephalization of the pulmonary vasculature.  The
+     vasculature is indistinct.
+     
+     IMPRESSION: Volume overload.  The right basilar opacity may represent
+     asymmetric distribution of pulmonary edema, however blossoming of a pneumonic
+     consolidation is not excluded in this area.
+
+",,
+13686,,,,2507-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13686,,,,2507-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-23**] 8:39 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 2585**]
+     Reason: 84 year old man with question of fluid collection vs. loop o
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with fevers and leukocytosis.
+     REASON FOR THIS EXAMINATION:
+      84 year old man with question of fluid collection vs. loop of bowel on CT scan.
+      Please evaluate by ultrasound. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fevers and leukocytosis with ? of fluid collection vs. loop of
+     bowel on CT. Evaluate right lower quadrant via ultrasound.
+     
+     LIMITED ULTRASOUND: Targeted ultrasound was performed over the right lower
+     quadrant. A hypoechoic collection is identified with some internal echos as
+     well as a few septations. This measures approximately 5.2 by 4.8 by 2.7 cm. It
+     is located anterior to the iliac vessels. There is no evidence of peristalsis
+     or bowel wall adjacent to the collection. There are vessels coursing through
+     the mid portion of the collection, with hypoechoic fluid on all sides.
+     
+     IMPRESSION: Abscess within the right lower quadrant with a vessel traversing
+     the center.
+
+",,
+13686,,,,2507-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-24**] 8:32 AM
+     PERITONEAL ABSCESS DRAINAGE US                                  Clip # [**Clip Number (Radiology) 2586**]
+     Reason: 83 year old man with probable abdominal abscess. Please drai
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with fevers and leukocytosis. ? abdominal abscess requiring
+      drainage.
+     REASON FOR THIS EXAMINATION:
+      83 year old man with probable abdominal abscess. Please drain under ultrasound
+      guidance. If possible please use ""fine skinny needle"" prior to catheter
+      placement. Please send drainage for micro. Patient to recieve FFP prior to
+      procedure.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fevers and elevated white count. Please drain abscess and place
+     catheter.
+     
+     ULTRASOUND GUIDED DRAINAGE:  Signed informed consent was obtained from the
+     patient's wife.
+     
+     U/S LOCALIZATION: The patient was prepped and draped in standard sterile
+     fashion and given local anesthestic over the right lower quadrant, where the
+     abscess was located.
+     
+     U/S: GUIDANCE: Using ultrasound guidance a 20 gauge spinal needle was advanced
+     into the intra abdominal fluid collection.
+     
+     U/S ASPIRATION: Pus was aspirated from the cavity and sent for cultures.
+     
+     U/S PERCUTANEOUS DRAIN TUBE PLACEMENT: Then a 10 FR pigtail catheter was
+     advanced along the course of the spinal needle and into the abscess cavity.
+     The spinal needle was removed and the catheter was secured. Approximately 40
+     cc of thick purulent material was aspirated and sent for cultures. The
+     catheter was flushed with saline and a drainage bag was attached with drainage
+     to gravity. The patient tolerated the procedure well without immediate
+     complications.
+     
+     The attending physician, [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) **] was present throughout the procedure.
+     
+     IMPRESSION:
+     
+     1. Successful pigtail catheter placement in an intra abdominal collection in
+     the right lower quadrant using ultrasound guidance.
+
+",,
+13686,,,,2507-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-24**] 8:32 AM
+     PERITONEAL ABSCESS DRAINAGE US                                  Clip # [**Clip Number (Radiology) 2586**]
+     Reason: 83 year old man with probable abdominal abscess. Please drai
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with fevers and leukocytosis. ? abdominal abscess requiring
+      drainage.
+     REASON FOR THIS EXAMINATION:
+      83 year old man with probable abdominal abscess. Please drain under ultrasound
+      guidance. If possible please use ""fine skinny needle"" prior to catheter
+      placement. Please send drainage for micro. Patient to recieve FFP prior to
+      procedure.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fevers and elevated white count. Please drain abscess and place
+     catheter.
+     
+     ULTRASOUND GUIDED DRAINAGE:  Signed informed consent was obtained from the
+     patient's wife.
+     
+     U/S LOCALIZATION: The patient was prepped and draped in standard sterile
+     fashion and given local anesthestic over the right lower quadrant, where the
+     abscess was located.
+     
+     U/S: GUIDANCE: Using ultrasound guidance a 20 gauge spinal needle was advanced
+     into the intra abdominal fluid collection.
+     
+     U/S ASPIRATION: Pus was aspirated from the cavity and sent for cultures.
+     
+     U/S PERCUTANEOUS DRAIN TUBE PLACEMENT: Then a 10 FR pigtail catheter was
+     advanced along the course of the spinal needle and into the abscess cavity.
+     The spinal needle was removed and the catheter was secured. Approximately 40
+     cc of thick purulent material was aspirated and sent for cultures. The
+     catheter was flushed with saline and a drainage bag was attached with drainage
+     to gravity. The patient tolerated the procedure well without immediate
+     complications.
+     
+     The attending physician, [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) **] was present throughout the procedure.
+     
+     IMPRESSION:
+     
+     1. Successful pigtail catheter placement in an intra abdominal collection in
+     the right lower quadrant using ultrasound guidance.
+
+",,
+13686,,,,2507-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-26**] 1:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2587**]
+     Reason: s/p right picc placement read wet and page#[**Pager number 789**] with result
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with intraabdominal abcess requiring 2-3wks of abx
+     REASON FOR THIS EXAMINATION:
+      s/p right picc placement read wet and page#[**Pager number 789**] with result
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST RADIOGRAPH FROM [**2507-6-26**] AT 13:51.
+     
+     INDICATION:  PICC line placement.
+     
+     Comparison is made to studies of [**2507-6-22**].
+     
+     PORTABLE CHEST RADIOGRAPH:  A right-sided PICC line is seen with tip in the
+     mid SVC.  There is stable cardiomegaly and slight upper zone redistribution of
+     the pulmonary vasculature.  There is interval formation of opacities in the
+     retrocardiac space obscuring the descending aorta and medial left
+     hemidiaphragm.  There is a stable area of opacity in the right lower lobe.
+     However, there is overall improved aeration on the right.
+     
+     IMPRESSION:
+     
+     1) PICC line placement without pneumothorax.
+     
+     2) Findings suggestive of mild left heart failure without overt pulmonary
+     edema.
+     
+     3) Stable bibasilar opacity could represent a pneumonia in the appropriate
+     clinical setting.
+     
+     4) Left lower lobe collapse/consolidation.  Infection within this area also
+     cannot be excluded.
+
+",,
+13686,,,,2507-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-6-27**] 2:49 PM
+     CT FISTULOGRAM/SINOGRAM                                         Clip # [**Clip Number (Radiology) 2588**]
+     Reason: peritoneal abcess drain placed on [**2507-6-23**].  Drain study for 
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with h/o cad, chf, afib on coumadin, DM2, gout, gerd.
+     REASON FOR THIS EXAMINATION:
+      peritoneal abcess drain placed on [**2507-6-23**].  Drain study for reduction and
+      possible communication with colon needed prior to d/c.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84 y/o man with right lower quadrant drain placed on [**2507-6-23**].
+     
+     TECHNIQUE:  Multiple contiguous slices were obtained through the pelvis before
+     and after administration of contrast through the drain.
+     
+     FINDINGS:
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The drain is in the right lower
+     quadrant and there is no evidence of collection around it.  A Foley catheter
+     is seen in the bladder.  There is no evidence of a collection in the pelvis.
+     After administration of contrast through the drain the contrast seems to go
+     into the subcutaneous tissues without going into a clear collection area.
+     
+     IMPRESSION:  Right lower quadrant drain without evidence of collection in this
+     quadrant.  The sinogram does not show communication to the colon.
+
+",,
+13686,,,,2507-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-12**] 10:41 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 2590**]
+     Reason: abdominal pain 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and draining abcess
+     REASON FOR THIS EXAMINATION:
+      abdominal pain 
+     ______________________________________________________________________________
+     WET READ: [**First Name4 (NamePattern1) 1266**] [**Last Name (NamePattern1) 591**] [**2507-7-12**] 11:50 PM
+      increased gas in large and small bowel - unchanged c/w [**2505-6-26**]
+      no definate obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEWS OF THE ABDOMEN [**2507-7-12**].
+     
+     CLINICAL INDICATION:  Abdominal pain and draining abscess.
+     
+     COMPARISON:  [**2505-6-26**].
+     
+     Again noted is increased gas within both small and large bowel with no
+     definite evidence of obstruction.  There are metallic clips overlying the
+     right upper quadrant status post cholecystectomy.  A drain overlies the right
+     pelvis. There is diffuse skeletal demineralization and multilevel degenerative
+     changes to the lumbar spine and hips.
+     
+     IMPRESSION:  Again seen is increased gas within large and small bowel
+     probably representing ileus.
+
+",,
+13686,,,,2507-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-12**] 10:41 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2589**]
+     Reason: abd pain, distension, draining abcess
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness- tachypneic after one liter of
+      ns  
+     REASON FOR THIS EXAMINATION:
+      abd pain, distension, draining abcess
+     ______________________________________________________________________________
+     WET READ: [**First Name4 (NamePattern1) 1266**] [**Last Name (NamePattern1) 591**] [**2507-7-12**] 11:45 PM
+      right basilar opacity - ?resolving pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP UPRIGHT AND LATERAL CHEST RADIOGRAPH [**2507-7-12**].
+     
+     CLINICAL INDICATION:  Abdominal pain and weakness.  Tachypnic after one liter
+     of normal saline.
+     
+     COMPARISON:  [**2507-6-26**].
+     
+     The heart size is enlarged with a left ventricular configuration.  The aorta
+     is calcified.  As before, there is hazy opacity at the right lung base. There
+     is no evidence of pneumothorax.  The pulmonary vascularity appears normal.
+     There are no pleural effusions.
+     
+     IMPRESSION:  Continued hazy opacity at the right lung base of unknown
+     etiology.
+
+",,
+13686,17127,,,2507-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-13**] 12:11 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2591**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: abdominal abcess
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and draining abcess
+     REASON FOR THIS EXAMINATION:
+      abdominal abcess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain with a draining abscess.
+     
+     CT ABDOMEN, PELVIS:
+     
+     TECHNIQUE: CT images were acquired from the lung bases through the pubic
+     symphysis using 150 cc of IV Optiray contrast.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are small bilateral pleural effusions,
+     right greater than the left.  There are pleural calcifications, possibly
+     related to prior asbestos exposure.  There are extensive arterial vascular
+     calcifications. The spleen is enlarged, measuring 17 cm.  The liver, pancreas,
+     adrenal glands, stomach, and visualized portions of the large and small bowel
+     are unremarkable.  There is a subcentimeter low attenuation lesion within the
+     mid left kidney, probably representing a simple cyst.  The right kidney is
+     normal. The patient is status post cholecystectomy.  There is no free air
+     within the abdomen.  There is no retroperitoneal or mesenteric
+     lymphadenopathy.
+     
+     CT PELVIS WITH IV CONTRAST: There is a 5.6 x 2.8 cm fluid and air collection
+     within the right pelvis at the level of the right acetabulum.  A Foley
+     catheter is present within the bladder. There is no free fluid in the pelvis.
+     The visualized portions of large and small bowel are unremarkable.  The
+     appendix is not clearly visualized.
+     
+     BONE WINDOWS: There are multilevel degenerative changes to the spine.
+     
+     IMPRESSION:
+     1. Small right pelvic fluid collection with a sinus tract to the skin
+     surface.
+     2. Small bilateral pleural effusions, right greater than left.
+     3. Pleural calcifications, consistent with prior asbestos exposure.
+     4. Splenomegaly.
+     5. Extensive arterial vascular calcifications.
+
+",,
+13686,17127,,,2507-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-13**] 12:11 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2591**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: abdominal abcess
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and draining abcess
+     REASON FOR THIS EXAMINATION:
+      abdominal abcess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abdominal pain with a draining abscess.
+     
+     CT ABDOMEN, PELVIS:
+     
+     TECHNIQUE: CT images were acquired from the lung bases through the pubic
+     symphysis using 150 cc of IV Optiray contrast.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are small bilateral pleural effusions,
+     right greater than the left.  There are pleural calcifications, possibly
+     related to prior asbestos exposure.  There are extensive arterial vascular
+     calcifications. The spleen is enlarged, measuring 17 cm.  The liver, pancreas,
+     adrenal glands, stomach, and visualized portions of the large and small bowel
+     are unremarkable.  There is a subcentimeter low attenuation lesion within the
+     mid left kidney, probably representing a simple cyst.  The right kidney is
+     normal. The patient is status post cholecystectomy.  There is no free air
+     within the abdomen.  There is no retroperitoneal or mesenteric
+     lymphadenopathy.
+     
+     CT PELVIS WITH IV CONTRAST: There is a 5.6 x 2.8 cm fluid and air collection
+     within the right pelvis at the level of the right acetabulum.  A Foley
+     catheter is present within the bladder. There is no free fluid in the pelvis.
+     The visualized portions of large and small bowel are unremarkable.  The
+     appendix is not clearly visualized.
+     
+     BONE WINDOWS: There are multilevel degenerative changes to the spine.
+     
+     IMPRESSION:
+     1. Small right pelvic fluid collection with a sinus tract to the skin
+     surface.
+     2. Small bilateral pleural effusions, right greater than left.
+     3. Pleural calcifications, consistent with prior asbestos exposure.
+     4. Splenomegaly.
+     5. Extensive arterial vascular calcifications.
+
+",,
+13686,17127,,,2507-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-14**] 1:22 PM
+     US RETROPER ABSCESS DRAIN PERC; GUIDANCE FOR ABSCESS (75989)    Clip # [**Clip Number (Radiology) 2592**]
+     Reason: pt with pmh of intraabdominal abcess treated with abx and dr
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with CAD, AFIB, DM, CHF, AS, GERD, CEA.  
+     REASON FOR THIS EXAMINATION:
+      pt with pmh of intraabdominal abcess treated with abx and drainage
+      6/18-24/2002.  Returning with fevers and new drainage from catheter site. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Informed and signed consent was obtained.  The patient was prepped and draped
+     in standard sterile fashion and given local anesthetic.  Under continuous
+     ultrasound guidance, an 18-gauge spinal needle was inserted into a pocket of
+     fluid measuring approximately 2 x 2 cm in the right lower quadrant of the
+     abdomen.  This amount of fluid corresponded to the prior CT.  Approximately 7
+     cc of purulent yellow fluid was withdrawn without difficulty.  The patient
+     tolerated the procedure well without immediate post-procedure complications.
+     
+     IMPRESSION:  Uncomplicated aspiration of right lower quadrant abscess.
+     Approximately 7 cc of purulent fluid was withdrawn and sent for gram stain and
+     culture.  Near complete collapse of fluid collection.
+
+",,
+13686,17127,,,2507-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-14**] 1:22 PM
+     US RETROPER ABSCESS DRAIN PERC; GUIDANCE FOR ABSCESS (75989)    Clip # [**Clip Number (Radiology) 2592**]
+     Reason: pt with pmh of intraabdominal abcess treated with abx and dr
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with CAD, AFIB, DM, CHF, AS, GERD, CEA.  
+     REASON FOR THIS EXAMINATION:
+      pt with pmh of intraabdominal abcess treated with abx and drainage
+      6/18-24/2002.  Returning with fevers and new drainage from catheter site. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Informed and signed consent was obtained.  The patient was prepped and draped
+     in standard sterile fashion and given local anesthetic.  Under continuous
+     ultrasound guidance, an 18-gauge spinal needle was inserted into a pocket of
+     fluid measuring approximately 2 x 2 cm in the right lower quadrant of the
+     abdomen.  This amount of fluid corresponded to the prior CT.  Approximately 7
+     cc of purulent yellow fluid was withdrawn without difficulty.  The patient
+     tolerated the procedure well without immediate post-procedure complications.
+     
+     IMPRESSION:  Uncomplicated aspiration of right lower quadrant abscess.
+     Approximately 7 cc of purulent fluid was withdrawn and sent for gram stain and
+     culture.  Near complete collapse of fluid collection.
+
+",,
+13686,17127,,,2507-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-16**] 10:07 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2593**]
+     Reason: DYSPNEA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  84 y/o gentleman with dyspnea.
+     
+     PA AND LATERAL CHEST:  Compared to prior study four days ago, there is
+     increasing opacity at the right base posteriorly most likely represents
+     increasing right lower lobe infiltrate.
+     
+     IMPRESSION:  Increasing right lower lobe infiltrate.
+
+",,
+13686,17127,,,2507-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13686,17127,,,2507-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-18**] 11:07 AM
+     COMPLETE [**Hospital Unit Name **] U.S. (BLADDER & RENAL)                              Clip # [**Clip Number (Radiology) 2594**]
+     Reason: HEMATURIA, RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with CAD, CHF, HTN, AFIB, dyspnea, ARF
+     REASON FOR THIS EXAMINATION:
+      patient with recurrent, draining RLQ pus collection.  not currently surgical
+      candidate.  in need of drainage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY: Prior right lower quadrant abscess.  Continued drainage from previous
+     drain site, and also an element of renal failure.
+     
+     COMPLETE G.U. ULTRASOUND:  The current study is viewed in conjunction with
+     prior exam of [**2507-7-14**].
+     
+     The kidneys demonstrate normal cortical medullary thickness, no hydronephrosis
+     or nephrolithiasis.  Slight increase in echo texture, consistent with
+     medical/renal disease, non-specific.
+     
+     In the area of the previously documented 2 cm fluid collection within the
+     pelvis,currently there is only a small focus of fluid left 1/2 cm in diameter.
+     Thus, neither drainable nor amenable to aspiration.
+     
+     IMPRESSION:
+     1)  Findings consistent with medical/renal disease only, normal cortical
+     medullary renal thickness, no hydronephrosis or nephrolithiasis.
+     2)  Previously identified lower quadrant fluid collection, now diminutive in
+     size and neither amenable to aspiration or drainage.
+     
+
+",,
+13686,17127,,,2507-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-19**] 6:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2595**]
+     Reason: 84 y/o M known CAD with CP, SOB
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with intraabdominal abcess recently drained by IR, now with CP,
+      SOB 
+     REASON FOR THIS EXAMINATION:
+      84 y/o M known CAD with CP, SOB
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain and dyspnea.
+     
+     PORTABLE CHEST:  An upright view obtained at 6:27 am is compared to [**2507-7-16**].
+     The heart is enlarged, and there is mild pulmonary vascular congestion.  There
+     is atelectasis in the right mid lung zone and to a lesser degree in the left
+     retrocardiac region.  There are small pleural effusions bilaterally.
+     
+     IMPRESSION:
+     1)  Mild CHF with small pleural effusions.
+     2)  Atelectasis in the right mid lung zone and left lung base.
+
+",,
+13686,17127,,,2507-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-20**] 5:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2596**]
+     Reason: change in mental status with new onset hemoptysis.  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with intraabdominal abcess recently drained by IR, now with CP,
+      SOB 
+     REASON FOR THIS EXAMINATION:
+      change in mental status with new onset hemoptysis.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Chest pain, dyspnea and new hemoptysis.
+     
+     PORTABLE CHEST: An upright view is compared to [**2507-7-19**]. There is persistent
+     cardiomegaly and perihilar haziness. There is linear atelectasis in the right
+     mid lung zone as well as more patchy atelectasis in the left retrocardiac
+     region. The left lateral costophrenic angle is excluded from the film. There
+     is no significant change from the prior study.
+     
+     IMPRESSION: Stable radiographic appearance of the chest.
+
+",,
+13686,17127,,,2507-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-21**] 1:34 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2597**]
+     Reason: possible worsend infiltrate on portable cxr
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with abdominal pain and weakness- tachypneic after one liter of
+      ns  
+     REASON FOR THIS EXAMINATION:
+      possible worsend infiltrate on portable cxr
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Tachypnea after intravenous fluids.
+     
+     CHEST, PA AND LATERAL: Comparison is made to [**2507-7-20**]. There is persistent
+     cardiomegaly and upper zone redistribution of the pulmonary vaculature. There
+     are pleural effusions bilaterally. There is persistent atelectasis at the
+     right lung base, as well as increased density in the left retrocardiac region
+     with obscuration of the left hemidiaphragm.
+     
+     IMPRESSION:
+     1. Mild CHF with bilateral pleural effusions.
+     2. Right basilar atelectasis.
+     3. Left basilar atelectasis versus pneumonia.
+
+",,
+13686,17127,,,2507-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-24**] 7:56 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST                                Clip # [**Clip Number (Radiology) 2598**]
+     Reason: PACER PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     A chest fluoro was performed without a Radiologist present. 1.2 minutes of
+     fluoro time was used. No films are submitted.
+
+",,
+13686,17127,,,2507-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2507-7-24**] 8:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2599**]
+     Reason: s/p fluoroscopic placement of transvenous pacemeker via R IJ
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with intraabdominal abcess recently drained by IR, now with CP,
+      SOB 
+     REASON FOR THIS EXAMINATION:
+      s/p fluoroscopic placement of transvenous pacemeker via R IJ approach; evaluate
+      placement and cpmplications 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: S/P fluoroscopic placement of transvenous pacemaker via right IJ.
+     Patient has intra-abdominal abscess, recently drained. Now with chest pain,
+     shortness of breath. Evaluate possible pulmonary complications.
+     
+     FINDINGS: A single AP semi-upright chest image is provided. Comparison study
+     dated [**2507-7-21**]. A pacemaker powerpack overlies the right upper thorax and a
+     single electrode is noted with its tip well positioned at the apex of the
+     right ventricle. The heart again shows marked left ventricular enlargement.
+     There is evidence of some upper zone redistribution and bibasilar illdefined
+     loss of translucency, consistent with mild left heart failure. There is also
+     again evidence of left lower lobe collapse and consolidation behind the heart.
+     No definite effusion is identified on the right side but the left costophrenic
+     angle is not demonstrated. Small effusions cannot be excluded.
+     
+     IMPRESSION: 1) Satisfactory placement of single electrode pacemaker. 2) LV
+     enlargement and probable slight left heart failure.
+
+",,
+13686,17127,17041,0,2507-07-24 15:24:00 EST,2507-07-24 15:54:00 EST,-1,"N",69,"Nursing/Other","Nursing Acceptance","
+Nursing Acceptance
+Mr [**Known patient lastname 5144**] is a 84 yo M admitted to [**Hospital1 10**] on [**2507-7-13**] from [**Hospital3 **] where he was placed after an admission for an abdominal abscess ([**Date range (3) 5145**]). PMH includes: CAD, s/p MI [**2505**], PCTA with stent x3 including LAD x2 & LCx x1, AFib anticoagulaed with Coumadin, NIDDM, severe AS, CHF, s/p R CEA, GERD, hernia repair x2 and recurrent UTI. On [**2507-7-17**] pt developed asymptomatic episodes of bradycardia to 30's lasting < 1min. Over the course of the past three days, [**2425-7-20**], pt has developed prgressively more frequent bradycardic events with pauses. Today, pt has reportedly had a 4.2 sec pause and a 6.2 sec pause with subsequent loss of consciousness and CP. Pt was transferred to the ICU for trans-venous pacemaker wire placement and temporary external pacer.
+
+ROS:
+
+Neuro: pt is A&Ox3, MAEW, reports pain in BLE at rest
+
+Resp: LS are diffusely rhonchorous, scattered rales in lower [**Last Name (un) 2024**], SpO2 is 99% on 2L NP
+
+CV: pt is currently in AF with brief pauses, BP has been stable 110's/50's, plan is to place a transvenous pacing wire this PM 
+
+Skin: pt has extremely thin, loose skin from setroid therapy, pt ahs numerous eccymotic area's and skin tears
+
+GI/GU: abd is obese, soft, NT/ND, hypoactive BS, NPO, Foley is patent for bright yellow urine in adequate amounts
+
+Lines: left brachial PICC
+
+Social: pt's wife has been at the bedside since he arrived, pt has children en route to the hospital. Pt is a full code as discussed with previous team.
+
+
+",,
+13686,17127,17041,0,2507-07-25 04:56:00 EST,2507-07-25 05:21:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 1900-0700","
+micu/sicu npn 1900-0700
+     s/p transvenous temporary pacer placement, pt has been stable. pacer to r neck, dressed in tegaderm.    ***Please do not change dressing per cardiology**  vss. patient v paced all night with hr of 70, underlying afib prior to pacer placement. bp 95/40's-1teens/50-60's, no reports of sob or cp. pt with difffuse rhonchi/wheezing throughout, nebs as ordered appear to help somewhat. pt conts on 2L nasal cannula, sats 99-100%.  pt with moderate cough, gag however is very impaired.
+
+     pt has been in need of feeding tube on the floor, had been unsuccessfully attempted, ordered to place ngt w/orders last night, when told patient i would be doing this he stated he did not want this and wanted to ""go home to die"".  after much discussion with his 2nd wife and one of his daughters, the patient spoke w/dr [**Last Name (STitle) **] and was going to think about if he wanted to not have the feeding tube, and if necessary at some point, a breathing tube and essentially be a dnr/dni. he agreed to have a swallow study today and we would deal with the results from that before we went any further in our discussions.  patient remains a full code per his wishes in the past. 
+
+     patient a febrile o/n. abx are flagyl, vanco, ampicillin and levoquin -->(has reported allergy--""makes his inr go up"", has been receiving this for past several days and continue to give per dr[**Location (un) 5146**] orders) wbc 7.1 today. foley was to be d/c'd last night per cardiology's recommendations in hopes of keeping the wire clean, but after speaking with the family and patient re a condom catheter it was decided by dr. [**Last Name (STitle) **] to leave it in place for now. 
+
+",,
+13686,17127,17041,0,2507-07-25 17:43:00 EST,2507-07-25 18:05:00 EST,761,"N",69,"Nursing/Other","Fin 4 ICU nursing progress note:","
+[**Wardname **] 4 ICU nursing progress note:
+ Respiratory: Continues to have wheezing and rhonci..q4hr nebs..non productive cough..sats in high 90's..
+ Cardiac: 100% paced..bp [**Last Name (un) **]..temp pacer in place..dsg d/i
+ Neuro: Alert orientated..follows commands..
+ GI: Started po foods..yogurt..soup/crackers..Had bedside swollow study..passed.. Had clear liquid stool..
+ Social/Family: Family meeting with daughters and pt wife..clearly disention amongst daughters and wife. MD's explained that d/t severe heart disease pt would not survive a cardiac arrest. Thus..made DNR..though pt is thinking about ""breathing tube"". Pt has expressed desire to go home and ""die"" in his own bed..Family is supported of this..discussing hospice...
+Will need Social Service and Case management to see pt and family in am...
+",,
+13686,17127,17041,0,2507-07-26 02:27:00 EST,2507-07-26 02:50:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7P-7A
+
+SEE CAREVIEW
+
+DNR/ CONTACT ISOL FOR MRAS SPUTUM
+
+NEURO: PATIENT HOH A/O X3 SPEECH APPROPRIATE MAE PUPILS = REACTIVE APPEARS VERY FATIGUED SLEEPS SHORT PERIODS ONLY.
+
+CV: RIGHT JUGULAR TRANSVENOUS PACEMAKER INTACT. MONITOR VENT PACED 70'S. HEART TONES W/ MURMUR. BP 89/40-110/50. PERIPHERAL PULSES PALPABLE DP AND PT DIFF TO PALPATE VERY WEAK. FEET COOL DISCOLORED PATIENT W/ PVD. [**2-6**]+ LE EDMA SCD ON.AFEBRILE.
+
+RESP: RR 24-30 POX STABLE ON 2LNC. DIFFUSE RHONCHI W/ INSP AND EXP WHEEZES. LOOSE COUGH MM TX Q4HOUR.
+
+GI: DIET AS TOL POOR APPETITE. ABD SOFT DISTENDED TENDER TO PALPATION. HAD SMALL GOLDEN BROWN MUCOUS STOOL OB-. ON 1500ML FLUID RESTRICTION. FINGERSTICK Q6 W/ SS COVERAGE.
+
+GI: U/O 30-80ML/HR AFTER 80MG LASIX FOLET TO DD
+
+INTEG: SKIN THIN PALE FRAGILE W/ MULT SKIN TEARS AND ECCHYMOTIC AREAS ON ARMS. LE DICOLORED DUE TO PVD.
+
+SOCIAL: MULTIPLE FAMILY SUPPORTS PLAN TO TRANSFER TO CARDIAC FLOOR. 
+NEED SOCIAL SERVICE CONSULT AND CASEMANAGMENT ?/HOSPICE.
+
+",,
+13686,17127,17041,0,2507-07-26 16:27:00 EST,2507-07-26 16:37:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Was alert and oriented x3 in am then became confused and agitated after receiving 1mg IV MSO4 for CP at around 1030am. Slowly confusion clearing and much less agitated. MAE. Follows commands. HOH.
+CV: Afeb. HR 70 AF V-paced. BP stable (see carevue). Complaining of ""[**9-13**]"" CP at around 10:30am with EKG done. 1mg IV MSO4 given without relief. SL NTG x2 with fair amount of relief after second NTG. BP stable throughout. R Jugular transvenous pacemaker intact with dsg C/D/I.
+RESP: 2L NC with O2 Sata >95%. Lungs coarse with scattered rhonchi and intermittent I/E wheezes. Nebs per RT. Coughing up tannish sputum and using Yankar to clear secretions. 
+GI/GU: Abd soft and distended with positive bowel sounds. No BM. Poor appetite. Some nausea after MSO4 which resolved after receiving phenegran 25mg IV (no emesis).
+SKIN: Multiple skin tears and bruising to UEs. Coccyx with one small skin tear, covered with duoderm gel and dsd (no tape). Skin very fragile and tears easily. R Picc line intact with KVO 
+SOCIAL: Wife [**Name (NI) 1246**] into visit and met with hospice worker. Plan to transfer home with hospice tomorrow. Pt. DNR/DNI. 
+",,
+13686,,17041,0,2507-07-27 03:36:00 EST,2507-07-27 03:45:00 EST,760,"N",69,"Nursing/Other","SMICU NSG PROGRESS","
+SMICU NSG PROGRESS
+NEURO- Alert and orientedx2. Asking appropriate questions. No further agitation.
+Cardiac- vs remain stable. Rt jug transvenous pacer in place with dressing d/i. Remains in paced ryth at 70. No c/o cp. Improving uo after lasix. 
+Resp- Remains on 02 at 2l with stable sats although pt with very course bs and conjested cough. Occasionally able to clear secretions. No suctioning as pt comfort/care
+Gi- Taking po's although pt with very poor appetite. No stool
+Plan: Pt is dnr/dni plan to send pt home with hospice care today.
+",,

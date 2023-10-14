@@ -1,0 +1,1100 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13260,17612,,,3264-01-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3264-1-16**]              Discharge Date:   [**3264-1-28**]
+ 
+Date of Birth:  [**3184-7-22**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3969**] 
+Chief Complaint:
+Found down at home.
+
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization.
+ 
+History of Present Illness:
+79yoF with dementia, HTN, found down at home, presented to 
+outside hospital for syncope workup.  ECG done in outside 
+hospital ED revealed RBBB and L fascicular block.  Labs revealed 
+CK 238, MB 8.4, and Trop 1.45. Pt. was transferred to [**Hospital1 19**] for 
+catheterization, where she underwent stenting of LAD lesion with 
+Taxus stents x3.  Pt. denies CP, SOB.  Upon transfer to floor, 
+Pt. was agitated and required restraints.  Her mental status 
+improved during her first few hours in the CCU, but she remained 
+somewhat agitated and disoriented.
+
+ 
+Past Medical History:
+1. HTN
+2. hyperlipidemia
+3. diabetes
+ 
+Social History:
+Retired, 2 daughters, 1 son.  Lives alone in elderly housing.  
+According to family, is able to perform most ADLs independently.
+
+ 
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+PE: VS: 97.9 | 171/55 | 86 | 18 | 96% on 4LNC  
+gen: agitated, restless, responsive.
+HEENT: OP clear, MMM, PERRL and EOM intact, surgical pupils.
+neck: no LAD, no JVD, no carotid bruit
+CV: RRR, nl s1s2, no murmurs
+chest: cta b/l, no crackles or wheezes
+abd: soft, nt/nd, +bs, no organomegaly
+extr: R groin no hematoma or bruit, 2+ femoral pulse b/l, 1+ dp 
+pulse b/l; no cyanosis, clubbing, min. LE edema.
+neuro: not oriented, cn ii-xii intact; motor, sensory, 
+coordination grossly intact, no focal deficits.
+ 
+Pertinent Results:
+[**3264-1-16**] 07:55PM BLOOD CK(CPK)-319* CK-MB-17* MB Indx-5.3 
+cTropnT-0.67*
+[**3264-1-17**] 03:08AM BLOOD CK(CPK)-543* CK-MB-22* MB Indx-4.1 
+cTropnT-0.51*
+[**3264-1-17**] 02:16PM BLOOD CK(CPK)-617* CK-MB-13* MB Indx-2.1 
+cTropnT-0.38*
+[**3264-1-18**] 06:45AM BLOOD CK(CPK)-449* CK-MB-5               
+cTropnT-0.32*
+.
+Cardiac cath [**3264-1-16**]: FINAL DIAGNOSIS: 1. Two vessel coronary 
+artery disease. 2. Normal left ventricular systolic function. 3. 
+PCI of LAD with Taxus stents. 4. Left renal artery stenosis. 
+COMMENTS: 1. Selective coronary angiography demonstrated two 
+vessel coronary artery disease in this right dominant 
+circulation. The LMCA was without angiographically apparent flow 
+limiting disease. The LAD was heavily calcified with eccentric 
+disease in the mid vessel up to 90% stenosis and 80% stenosis 
+distally. The LCX was a large vessel with a large bifurcating 
+OM1 that supplied extensive collaterals to the RCA. The OM2 was 
+without flow limiting disease. The RCA was a dominant vessel 
+with a total occlusion proximally. The distal RCA filled well 
+via left to right collaterals. 2. Limited resting hemodynamics 
+revealed normal left sided filling pressures (LVEDP=11mmHg). 
+There was severe systemic hypertension present. No transaortic 
+gradient seen on catheter pullback from left ventricle to 
+ascending aorta. 3. Left ventriculogram revealed normal wall 
+motion and preserved systolic function (LVEF=65%). No mitral 
+regurgitation seen. 4. Selective renal angiography demonstrated 
+a high grade (70-80%) proximal left renal artery stenosis. 5. 
+Patient was electively intubated for airway protection. 6. 
+Successful PCI of the proximal and mid-LAD with rotational 
+atherectomy with a 1.5 mm burr, followed by PTCA and stenting 
+with three overlapping Taxus DES (3.0 x 16 mm, 2.5 x 24 mm 
+(post-dilated to 3.0 mm), and 2.5 x 16 mm).
+.
+Echo [**3264-1-17**]: LVEF 55-60%. The left atrium is elongated. There 
+is mild symmetric left ventricular hypertrophy. There is mild 
+regional left ventricular systolic dysfunction. Overall left 
+ventricular systolic function is mildly depressed. Resting 
+regional wall motion abnormalities include distal anterior 
+septum and apical hypokinesis with otherwise preserved LV 
+systolic function. Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets are mildly 
+thickened. Mild (1+) aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. Mild to moderate ([**1-14**]+) 
+mitral regurgitation is seen. The left ventricular inflow 
+pattern suggests impaired relaxation. There  
+is an anterior space which most likely represents a fat pad, 
+though a  
+loculated anterior pericardial effusion cannot be excluded.  
+.
+CXR [**3264-1-17**]: Some bibasilar atelectasis is seen. Otherwise, no 
+acute cardiopulmonary process is identified.
+.
+ECG [**3264-1-18**]: Sinus rhythm. A-V conduction delay. Left atrial 
+enlargement. Right bundle-branch block. Left anterior fascicular 
+block. The T wave inversion recorded in leads V1-V5 exceedes 
+that, in association with right bundle-branch block consistent 
+with active anterolateral ischemic process and/or myocardial 
+infarction. Compared to the previous tracing of [**3264-1-17**] the rate 
+is increased. Otherwise, no diagnostic interim change. 
+.
+Head CT [**3264-1-19**]: No evidence of intracranial hemorrhage or 
+fracture.
+.
+Bilateral hip XR [**3264-1-20**]: No evidence of fracture.
+ 
+Brief Hospital Course:
+A/P: A 79yoF with CAD, DM, HTN, hyperlipidemia transferred from 
+OSH for catheterization after being found down (syncopal event), 
+now s/p rotablation/DESs to LAD.
+.
+This Pt. had multiple CAD risk factors including diabetes, HTN, 
+former tobacco use, and hyperlipidemia. The Pt. underwent PCI 
+for NSTEMI (peak CK=617) on [**3264-1-16**], with successful 
+rotablation and DESs to LAD lesions. The Pt. was electively 
+intubated for the procedure due to agitation, and was extubated 
+prior to arrival in the CCU.  The Pt. was monitored on telemetry 
+with no significant events recorded.  The Pt. was continued on 
+ASA, plavix (she will take this for 9 months), statin, 
+beta-blocker and ACE-i.  A TTE revealed a preserved LVEF.  The 
+Pt. was euvolemic on exam.
+.
+The Pt. was initially quite hypertensive, with SBP>200.  A 
+nitroglycerin drip was used, and was transitioned to her home 
+antihypertensives, when Pt. was tolerating PO.  The Pt. was 
+noted to have a wide pulse pressure, with SBPs in the 160-170s 
+and DBPs in the 30-40s.  This finding is likely secondary to 
+calcification of her arteries.  
+.
+The Pt. was agitated on admission to the CCU, and remained so 
+during the first night following admission.  The Pt. required 
+haldol for agitation and was placed in 2-point limb restraints 
+for several hours due to pulling at lines.  The patient was 
+noted to be quite disoriented for the first several days of 
+admission, and her speech was slowed.  Of note, the Pt. did not 
+receive aricept for the first three days of admission; this was 
+restarted.  According to Pt's family, at baseline, Pt. is 
+functional at home and can perform all ADLs independently, and 
+that her speech is more fluent at baseline.  One morning during 
+the hospitalization, she was found down in bathroom on floor 
+with head against wall in corner of bathroom.  There was no 
+evidence of traumatic injury, and extremities had full ROM. Pt. 
+reported no pain, and there was no focal neurologic deficit.  A 
+head CT and hip XR were both unremarkable.  By the time of 
+discharge, the Pt. was alert and oriented and her speech was 
+normal.
+.
+The Pt. was evaluated by geriatrics team, who recommended 
+treatment with olanzepine, which we initiated.  The Pt. appeared 
+to tolerate this well.  At the time of discharge, the Pt's 
+mental status was significantly improved.
+.
+The Pt. was seen and evaluated by physical therapy and social 
+work during this admission.  The Pt. was discharged to 
+rehabilitation with plan to return to home after recuperation 
+and when able to safely perform ADLs. 
+
+ 
+Medications on Admission:
+Aricept
+Atenolol 25 mg QD
+Lopid 600 mg BID
+Glyburide 5 mg BID
+Lipitor 40 mg QD
+Lisinopril 10 mg QD
+Trazadone 100 mg QHS
+ASA 81mg QD
+plavix 75mg QD
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day).
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+7. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) as needed for agitation, anxiety, confusion.
+Disp:*60 Tablet(s)* Refills:*2*
+9. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed for insomnia.
+Disp:*15 Tablet(s)* Refills:*2*
+10. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Nicotine 7 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily) for 7 days.  
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+St Josephs Healthcare Center - [**Hospital1 **]
+ 
+Discharge Diagnosis:
+1. acute myocardial infarction
+2. hypertension
+3. altered mental status
+
+ 
+Discharge Condition:
+Fair, stable.
+
+ 
+Discharge Instructions:
+Please continue to take your medications exactly as prescribed.  
+If [**Doctor First Name **] experience chest pain, palpitations, shortness of breath, 
+lightheadedness, weakness, numbness, or nausea/vomiting, call 
+your PCP or return to the hospital.
+ 
+Followup Instructions:
+PCP: [**Name10 (NameIs) **], [**Name11 (NameIs) 34**] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 8794**] 
+Referring: [**Last Name (LF) 518**], [**First Name3 (LF) 3764**] [**Telephone/Fax (1) 519**] 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3971**] MD [**MD Number 1645**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 7201**] [**3264-1-28**] @ 1452
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**3264-2-6**] 6:58 PM
+(End of Report)
+
+
+",,
+13260,17612,16513,0,3264-01-16 18:57:00 EST,3264-01-16 19:13:00 EST,1616,"N",54,"Nursing/Other",,"
+
+PROB: S/P CATH/ S/P ROTOBLADDER, S/P STENTS X3
+
+CV: SR-ST NO ECTOPY NOTED. BP LABILE, MOSTLY HIGH, NITRO DRIP INCREASED TO 5MCG/KG/MIN. TEAM AWARE OF BP. R FEMORAL AND VENOUS SHEATHS OOZING, LEG IMMOBILIZER ON, PEDALS BY DOPPLER.
+
+RESP: LUNGS CLEAR. O2 SATS ADEQUATE.
+
+GU: FOLEY DRAINING PINK UREINE.
+
+GI: NPO, BOWEL SOUNDS PRESENT.
+
+NEURO: MAE. NOT FOLLOWING COMMANDS CONSISTENTLY. PUPIL UNEQUAL, S/P CATARACT SURGERY. ANSWERING QUESTIONS APPROPRIATELY FOR FAMILY. PULLING AT LINES. 
+
+ASSESSMENT: INTERMITTENTLY CONFUSED. STABLE S/P PROCEDURE.
+
+PLAN: RECHECK ACT FOR SHEATH REMOVAL BY CATH LAB PERSONNEL.
+RECHECK TROPONIN LEVELS 22:00
+TEAM REQUESTED TO WRITE BP PARAMETERS. 
+REQUESTED 1:1 SITTER FOR PT.
+
+
+
+
+",,
+13260,17612,16513,,3264-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-1-17**] 7:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14135**]
+     Reason: please eval for infiltrate/effusion.                        
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with CAD s/p cath.                                            
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate/effusion.                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Coronary artery disease s/p cath..
+     
+     Heart size appears borderline for supine AP technique.  Otherwise, the
+     pulmonary vascularity appears normal.  There is some atelectasis seen at the
+     bases bilaterally.  There is no evidence of pulmonary edema.  There is no
+     evidence of pleural effusions.  Incidentally seen are some surgical clips over
+     the abdomen.
+     
+     IMPRESSION:  Some bibasilar atelectasis is seen.  Otherwise, no acute
+     cardiopulmonary process is identified.
+
+",,
+13260,17612,16513,0,3264-01-17 03:26:00 EST,3264-01-17 03:49:00 EST,2560,"N",54,"Nursing/Other",,"
+
+
+FULL CODE    Universal Precautions
+Allergy:  hospital linens
+
+
+Neuro:  Awake, alert, disoriented/confused.  Pt has H/O dementia/alzheimer's and daughters report that when she's out of her enviornment, agitation/confusion exhaberates.  She has been very restless for most of the night - continually moving about in the bed, picking at linens/EKG leads.  Haldol 2mg given x1 earlier in the evening w/ no results, but pt has calmed down since and has not received anymore.   She still is exhibiting same behavior, but to a lesser degree, where she seems to be sleeping at times.  Speech is slurred/garbled - difficult to understand.  She knows her name and where she lives, but doesn't answer to where is she now/date.  Moving all extrems well/strong, no tongue deviation  Pupils - s/p cataracts bilat.  Not able to take po.
+
+CV:  HR-60-80s, NSR no ectopy.  On NTG gtt at 6mcg/kg/min w/ BP 160-170/50s.  When NTG decreased at all, BP^.  Started on lopressor 5mg IV q 4hr - which is effective for about 1.5 hours.  Lower extrems cool bilat, +doppler pulses in L foot, but absent in R foot where they had been dopplerable by last shift.  R fem arterial/venous sheath d/c'd at 2000 for ACT 114 - pressure held by cath lab personnel and pressure dressing applied.  After sheaths out, not able to get R PT/DP pulses by doppler, altho color same as L leg and both extrems cool.  MDs aware and checked themselves.  Knee immobilizer remains in place.  R fem site ok - no hematoma or bleeding.
+
+Resp:  2l N/c w/ 02sat 96-100% - lungs clear bilat. Occ dry cough.
+
+GI/GU:  Abd soft, +BS, no BM.  Pt unable to take po - it's like she forgot how to use a straw or sip from the cup, but if water is placed in her mouth, she will swallow.  Foley cath w/ clear yellow urine.
+
+Pain:  denies discomfort.
+
+Skin:  Intact.  R fem site intact
+
+ID:  afebrile, no antibx.
+
+Access:  PIVx1
+
+Labs:  CPK 300/MB=17.  Troponin 0.67  Mg repleted, K added to IVF.
+
+Social:  Daughters called in to check on pt - update given.
+
+Plan:  Continue to monitor BP - wean NTG as tol.  Monitor pulses/CMS in R foot, monitor R fem site.  Monitor neuro/resp status.
+
+",,
+13260,17612,16513,0,3264-01-17 11:20:00 EST,3264-01-17 11:30:00 EST,1616,"N",54,"Nursing/Other",,"
+
+7-11AM S/P LAD STENT INSERTION
+
+CV: SR-SB NO ECTOPY NOTED. BP 130-160SYS, LISINOPRIL AND LOPRESSOR RESTARTED, NTG DRIP DOWN TO 2MCG/KG. R GROIN SITE CLEAN AND DRY, NO HEMATOMA NOTED. DP WEAK PALPABLE. FEET WARM. GIVEN ADDITIONAL DOSE OF PLAVIX 150MG TODAY, PT UNABLE TO TAKE LAST EVENING-OK'D BY TEAM AT MORNING ROUNDS.
+
+RESP: CONGESTED SOUNDING COUGH, NOT RAISING SPUTUM. LUNGS CLEAR, DIM IN BASES. O2 SATS ADEQUATE.
+
+GU: UOP ADEQUATE.
+
+GI: TAKING MEDS WITH JUICE. COUGHING AT TIMES AFTER FLUID. TEAM NOTIFIED.
+
+NEURO: NAPPING INTERMITTENTLY, MAE. DIFFICULTY MOVING TO CHAIR, C/O PAIN. TEAM AWARE-PT REPORTEDLY X-RAYED POST FALL AT OUTSIDE HOSPITAL. ORIENTED TO PERSON, NOT TIME OR PLACE. 
+
+ENDO: STARTED ON 1/2 DOSE GLYBURIDE TODAY, TAKING FLUIDS NOT EATING.
+
+ASSESSMENT: MORE AWAKE TODAY. NEURO STATUS IMPROVED.
+
+PLAN: CONT.
+TRANSFER [**1-18**]
+ASPIRATION PRECAUTIONS.
+REORIENT PT.
+WEAN NTG AS TOLERATED.
+",,
+13260,17612,,,3264-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-1-19**] 2:07 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14136**]
+     Reason: rule out intracranial hemorrhage                            
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with dementia and unwitnessed fall this a.m.                  
+     REASON FOR THIS EXAMINATION:
+      rule out intracranial hemorrhage                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  79-year-old woman with dementia and unwitnessed fall.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no evidence of intra- or extra-axial hemorrhages.
+     Ventricles are slightly prominent, as are the sulci consistent with age-
+     related involutional changes.  There is no mass effect or shift of the
+     normally midline structures.  The [**Doctor Last Name 8**]-white matter differentiation appears
+     preserved.  There is hypodensity in the white matter bilaterally, consistent
+     with chronic small vessel ischemic changes, and there is an evidence of a
+     prior infarct in the right corona radiata.  There is some encephalomalacic
+     change in the posterior right sylvian fissure, probably also from prior
+     infarction.
+     
+     Visualized paranasal sinuses and mastoid air cells are clear.  There is no
+     evidence of fracture.
+     
+     IMPRESSION:  No evidence of intracranial hemorrhage or fracture.
+     
+     
+     
+     
+     
+
+",,
+13260,17612,,,3264-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-1-20**] 2:11 PM
+     BILAT HIPS (AP,LAT & AP PELVIS)                                 Clip # [**Clip Number (Radiology) 14137**]
+     Reason: Please evaluate for FX                                      
+     Admitting Diagnosis: MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with CAD s/p rotablation/DES to LAD s/p post fall yesterday.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for FX                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Pelvis and hips.
+     
+     HISTORY:  Status post fall.
+     
+     Pelvis and hips, a single AP view of pelvis and AP and frog-leg lateral views
+     of both hips show no evidence of fracture.  There is diffuse osteopenia. 
+     Early osteoarthritic changes are seen in both hips.  There is degenerative
+     disc disease at the lumbosacral junction.  The sclerotic foci in left iliac
+     bone are presumably bone islands.
+     
+     IMPRESSION:  No evidence of fracture.
+                                                                           
+
+",,
+13260,,,,3264-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-21**] 10:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14138**]
+     Reason: eval for pulm process                                       
+     Admitting Diagnosis: RIGHT LEG PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia                                             
+     REASON FOR THIS EXAMINATION:
+      eval for pulm process                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative chest x-ray.
+     
+     FINDINGS:  Portable upright chest radiograph.  The lungs are clear.  The heart
+     and mediastinal contours are stable.  The pulmonary vasculature is normal. 
+     The patient is status post cholecystectomy.  Pleura are normal.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+                                                                           
+
+",,
+13260,,,,3264-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-22**] 10:56 AM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 14139**]
+     Reason: Cont RLE pain and differential pulse exam. Eval for Art insu
+     Admitting Diagnosis: RIGHT LEG PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with PVD                                                      
+     REASON FOR THIS EXAMINATION:
+      Cont RLE pain and differential pulse exam. Eval for Art insuff Please do 
+      Bilateral Lower Ext PVR's
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ARTERIAL DOPPLER, LOWER EXTREMITY
+     
+     REASON:  Diminished pulses and leg pain.
+     
+     FINDINGS:  Doppler evaluation was performed of both lower extremity arterial
+     systems at rest.  On the right, Doppler tracings are monophasic at the femoral
+     level with  dampened amplitude.  There are no dopplerable pulses below.  There
+     is no ankle-brachial index.  Pulse volume recordings shows significant
+     artifact.  So very difficult to interpret better.  Essentially flat line at
+     the metatarsals.
+     
+     On the left, Doppler tracings are monophasic at all levels from the femoral to
+     the dorsalis pedis artery.  Ankle brachial index is 0.49.  Pulse volume
+     recordings are also almost flat line at the metatarsals.
+     
+     IMPRESSION:  Significant aortobiiliac or proximal femoral artery occlusive
+     disease.  In addition, there is some multisegmental disease with severe flow
+     deficit to both forefeet.
+                                                                           
+
+",,
+13260,,,,3264-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia.                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate RLE arterial circulation, possible intervention. This is for [**Doctor Last Name 2013**].  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PROCEDURE:  Diagnostic abdominal aortogram with right lower extremity runoff
+     via a left retrograde common femoral approach.  
+     
+     PHYSICIANS:  Dr. [**Last Name (STitle) 2013**] and Dr. [**Last Name (STitle) 14141**].
+     
+     INDICATION:  80-year-old female with acute on chronic right lower extremity
+     pain with history of peripheral vascular disease.  
+     
+     PROCEDURE:  With the patient supine upon the Interventional Radiology Suite
+     after adequate induction of intravenous conscious sedation the patient's
+     groins were prepped and draped in the usual sterile fashion.  Through a
+     retrograde left common femoral approach access was gained with a single
+     puncture technique, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire was advanced into the common iliac artery
+     and a 4 French sheath was placed over a wire.  Because of disease in the left
+     common iliac artery we switched to an angle glide catheter 035 inch and this
+     was maneuvered through a proximal common iliac stenoses and distal aortic
+     disease into the abdominal aorta.  An omniflush catheter was placed over the
+     wire into the abdominal aorta at the L1 level and an abdominal aortogram was
+     taken.  This revealed a patent but diseased infrarenal aorta with a patent
+     bilateral renal arteries, there was also a tight narrowing at the distal
+     abdominal aorta just proximal to the aortic bifurcation.  The left common
+     iliac artery shows a tight stenotic area with an occluded internal iliac
+     artery on the left side.  The right superficial femoral artery is occluded
+     with a patent right internal iliac artery which is feeding collaterals that
+     reconstitute the right profunda femoral artery.  We then obtained access up
+     and over the bifurcation with the omniflush catheter which was left in the
+     distal common iliac artery.  From there serial imaging of the right lower
+     extremity were obtained revealing a patent profunda femoral artery, and
+     occluded superficial femoral with reconstitution of the above the knee
+     popliteal artery.  The popliteal was patent and ended up in a patent peroneal
+     artery with a diseased posterior tibialis with a single vessel runoff down to
+     the foot via the peroneal.  At this point, we concluded the procedure and
+     proceeded to do pull back pressure measurements which revealed a 20 point
+     gradient across the left common iliac artery lesion.  The sheath was left in
+     place for later removal in the holding area.  The patient tolerated the
+                                                                 (Over)
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     procedure well and there were no complications.  
+     
+     RADIOLOGIC FINDINGS
+     
+     1. Patent but diseased infrarenal aorta with patent bilateral renal arteries.
+     The distal abdominal aorta is heavily diseased with a moderate more than 50%
+     stenosis just proximal to the aortic bifurcation.  On the right the right
+     external iliac artery is occluded with a patent internal iliac artery.  On the
+     left, the left common iliac artery has a high grade stenosis and the internal
+     iliac is occluded with a patent external and common femoral.  
+     
+     2. The right lower extremity runoff revealed a patent profunda femoral artery
+     via collaterals.
+     
+     3. The SFA is completely occluded with reconstitution of the above the knee
+     popliteal artery.
+     
+     4. The popliteal artery is patent and gives out a diseased posterior tibialis
+     artery and a patent peroneal artery which supplies the only runoff down to the
+     foot.  
+     
+     Arterial pressure measurements were as followed:
+     
+     1. Distal aorta 184/57 with a mean of 106 as well as the left proximal common
+     iliac artery.  The left external iliac artery was 134/51 with a mean pressure
+     of 86. 
+     
+     The moderate sedation was provided by administering divided doses of Versed
+     and Fentanyl throughout the procedure which lasted a total of 1 hour.  During
+     the procedure the patient's hemodynamic parameters were continuously monitored
+     and there were no complications.
+     
+     Dr. [**Last Name (STitle) 2013**] was present and scrubbed for the entire procedure.
+
+",,
+13260,,,,3264-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia.                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate RLE arterial circulation, possible intervention. This is for [**Doctor Last Name 2013**].  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PROCEDURE:  Diagnostic abdominal aortogram with right lower extremity runoff
+     via a left retrograde common femoral approach.  
+     
+     PHYSICIANS:  Dr. [**Last Name (STitle) 2013**] and Dr. [**Last Name (STitle) 14141**].
+     
+     INDICATION:  80-year-old female with acute on chronic right lower extremity
+     pain with history of peripheral vascular disease.  
+     
+     PROCEDURE:  With the patient supine upon the Interventional Radiology Suite
+     after adequate induction of intravenous conscious sedation the patient's
+     groins were prepped and draped in the usual sterile fashion.  Through a
+     retrograde left common femoral approach access was gained with a single
+     puncture technique, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire was advanced into the common iliac artery
+     and a 4 French sheath was placed over a wire.  Because of disease in the left
+     common iliac artery we switched to an angle glide catheter 035 inch and this
+     was maneuvered through a proximal common iliac stenoses and distal aortic
+     disease into the abdominal aorta.  An omniflush catheter was placed over the
+     wire into the abdominal aorta at the L1 level and an abdominal aortogram was
+     taken.  This revealed a patent but diseased infrarenal aorta with a patent
+     bilateral renal arteries, there was also a tight narrowing at the distal
+     abdominal aorta just proximal to the aortic bifurcation.  The left common
+     iliac artery shows a tight stenotic area with an occluded internal iliac
+     artery on the left side.  The right superficial femoral artery is occluded
+     with a patent right internal iliac artery which is feeding collaterals that
+     reconstitute the right profunda femoral artery.  We then obtained access up
+     and over the bifurcation with the omniflush catheter which was left in the
+     distal common iliac artery.  From there serial imaging of the right lower
+     extremity were obtained revealing a patent profunda femoral artery, and
+     occluded superficial femoral with reconstitution of the above the knee
+     popliteal artery.  The popliteal was patent and ended up in a patent peroneal
+     artery with a diseased posterior tibialis with a single vessel runoff down to
+     the foot via the peroneal.  At this point, we concluded the procedure and
+     proceeded to do pull back pressure measurements which revealed a 20 point
+     gradient across the left common iliac artery lesion.  The sheath was left in
+     place for later removal in the holding area.  The patient tolerated the
+                                                                 (Over)
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     procedure well and there were no complications.  
+     
+     RADIOLOGIC FINDINGS
+     
+     1. Patent but diseased infrarenal aorta with patent bilateral renal arteries.
+     The distal abdominal aorta is heavily diseased with a moderate more than 50%
+     stenosis just proximal to the aortic bifurcation.  On the right the right
+     external iliac artery is occluded with a patent internal iliac artery.  On the
+     left, the left common iliac artery has a high grade stenosis and the internal
+     iliac is occluded with a patent external and common femoral.  
+     
+     2. The right lower extremity runoff revealed a patent profunda femoral artery
+     via collaterals.
+     
+     3. The SFA is completely occluded with reconstitution of the above the knee
+     popliteal artery.
+     
+     4. The popliteal artery is patent and gives out a diseased posterior tibialis
+     artery and a patent peroneal artery which supplies the only runoff down to the
+     foot.  
+     
+     Arterial pressure measurements were as followed:
+     
+     1. Distal aorta 184/57 with a mean of 106 as well as the left proximal common
+     iliac artery.  The left external iliac artery was 134/51 with a mean pressure
+     of 86. 
+     
+     The moderate sedation was provided by administering divided doses of Versed
+     and Fentanyl throughout the procedure which lasted a total of 1 hour.  During
+     the procedure the patient's hemodynamic parameters were continuously monitored
+     and there were no complications.
+     
+     Dr. [**Last Name (STitle) 2013**] was present and scrubbed for the entire procedure.
+
+",,
+13260,,,,3264-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia.                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate RLE arterial circulation, possible intervention. This is for [**Doctor Last Name 2013**].  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PROCEDURE:  Diagnostic abdominal aortogram with right lower extremity runoff
+     via a left retrograde common femoral approach.  
+     
+     PHYSICIANS:  Dr. [**Last Name (STitle) 2013**] and Dr. [**Last Name (STitle) 14141**].
+     
+     INDICATION:  80-year-old female with acute on chronic right lower extremity
+     pain with history of peripheral vascular disease.  
+     
+     PROCEDURE:  With the patient supine upon the Interventional Radiology Suite
+     after adequate induction of intravenous conscious sedation the patient's
+     groins were prepped and draped in the usual sterile fashion.  Through a
+     retrograde left common femoral approach access was gained with a single
+     puncture technique, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire was advanced into the common iliac artery
+     and a 4 French sheath was placed over a wire.  Because of disease in the left
+     common iliac artery we switched to an angle glide catheter 035 inch and this
+     was maneuvered through a proximal common iliac stenoses and distal aortic
+     disease into the abdominal aorta.  An omniflush catheter was placed over the
+     wire into the abdominal aorta at the L1 level and an abdominal aortogram was
+     taken.  This revealed a patent but diseased infrarenal aorta with a patent
+     bilateral renal arteries, there was also a tight narrowing at the distal
+     abdominal aorta just proximal to the aortic bifurcation.  The left common
+     iliac artery shows a tight stenotic area with an occluded internal iliac
+     artery on the left side.  The right superficial femoral artery is occluded
+     with a patent right internal iliac artery which is feeding collaterals that
+     reconstitute the right profunda femoral artery.  We then obtained access up
+     and over the bifurcation with the omniflush catheter which was left in the
+     distal common iliac artery.  From there serial imaging of the right lower
+     extremity were obtained revealing a patent profunda femoral artery, and
+     occluded superficial femoral with reconstitution of the above the knee
+     popliteal artery.  The popliteal was patent and ended up in a patent peroneal
+     artery with a diseased posterior tibialis with a single vessel runoff down to
+     the foot via the peroneal.  At this point, we concluded the procedure and
+     proceeded to do pull back pressure measurements which revealed a 20 point
+     gradient across the left common iliac artery lesion.  The sheath was left in
+     place for later removal in the holding area.  The patient tolerated the
+                                                                 (Over)
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     procedure well and there were no complications.  
+     
+     RADIOLOGIC FINDINGS
+     
+     1. Patent but diseased infrarenal aorta with patent bilateral renal arteries.
+     The distal abdominal aorta is heavily diseased with a moderate more than 50%
+     stenosis just proximal to the aortic bifurcation.  On the right the right
+     external iliac artery is occluded with a patent internal iliac artery.  On the
+     left, the left common iliac artery has a high grade stenosis and the internal
+     iliac is occluded with a patent external and common femoral.  
+     
+     2. The right lower extremity runoff revealed a patent profunda femoral artery
+     via collaterals.
+     
+     3. The SFA is completely occluded with reconstitution of the above the knee
+     popliteal artery.
+     
+     4. The popliteal artery is patent and gives out a diseased posterior tibialis
+     artery and a patent peroneal artery which supplies the only runoff down to the
+     foot.  
+     
+     Arterial pressure measurements were as followed:
+     
+     1. Distal aorta 184/57 with a mean of 106 as well as the left proximal common
+     iliac artery.  The left external iliac artery was 134/51 with a mean pressure
+     of 86. 
+     
+     The moderate sedation was provided by administering divided doses of Versed
+     and Fentanyl throughout the procedure which lasted a total of 1 hour.  During
+     the procedure the patient's hemodynamic parameters were continuously monitored
+     and there were no complications.
+     
+     Dr. [**Last Name (STitle) 2013**] was present and scrubbed for the entire procedure.
+
+",,
+13260,,,,3264-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia.                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate RLE arterial circulation, possible intervention. This is for [**Doctor Last Name 2013**].  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PROCEDURE:  Diagnostic abdominal aortogram with right lower extremity runoff
+     via a left retrograde common femoral approach.  
+     
+     PHYSICIANS:  Dr. [**Last Name (STitle) 2013**] and Dr. [**Last Name (STitle) 14141**].
+     
+     INDICATION:  80-year-old female with acute on chronic right lower extremity
+     pain with history of peripheral vascular disease.  
+     
+     PROCEDURE:  With the patient supine upon the Interventional Radiology Suite
+     after adequate induction of intravenous conscious sedation the patient's
+     groins were prepped and draped in the usual sterile fashion.  Through a
+     retrograde left common femoral approach access was gained with a single
+     puncture technique, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire was advanced into the common iliac artery
+     and a 4 French sheath was placed over a wire.  Because of disease in the left
+     common iliac artery we switched to an angle glide catheter 035 inch and this
+     was maneuvered through a proximal common iliac stenoses and distal aortic
+     disease into the abdominal aorta.  An omniflush catheter was placed over the
+     wire into the abdominal aorta at the L1 level and an abdominal aortogram was
+     taken.  This revealed a patent but diseased infrarenal aorta with a patent
+     bilateral renal arteries, there was also a tight narrowing at the distal
+     abdominal aorta just proximal to the aortic bifurcation.  The left common
+     iliac artery shows a tight stenotic area with an occluded internal iliac
+     artery on the left side.  The right superficial femoral artery is occluded
+     with a patent right internal iliac artery which is feeding collaterals that
+     reconstitute the right profunda femoral artery.  We then obtained access up
+     and over the bifurcation with the omniflush catheter which was left in the
+     distal common iliac artery.  From there serial imaging of the right lower
+     extremity were obtained revealing a patent profunda femoral artery, and
+     occluded superficial femoral with reconstitution of the above the knee
+     popliteal artery.  The popliteal was patent and ended up in a patent peroneal
+     artery with a diseased posterior tibialis with a single vessel runoff down to
+     the foot via the peroneal.  At this point, we concluded the procedure and
+     proceeded to do pull back pressure measurements which revealed a 20 point
+     gradient across the left common iliac artery lesion.  The sheath was left in
+     place for later removal in the holding area.  The patient tolerated the
+                                                                 (Over)
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     procedure well and there were no complications.  
+     
+     RADIOLOGIC FINDINGS
+     
+     1. Patent but diseased infrarenal aorta with patent bilateral renal arteries.
+     The distal abdominal aorta is heavily diseased with a moderate more than 50%
+     stenosis just proximal to the aortic bifurcation.  On the right the right
+     external iliac artery is occluded with a patent internal iliac artery.  On the
+     left, the left common iliac artery has a high grade stenosis and the internal
+     iliac is occluded with a patent external and common femoral.  
+     
+     2. The right lower extremity runoff revealed a patent profunda femoral artery
+     via collaterals.
+     
+     3. The SFA is completely occluded with reconstitution of the above the knee
+     popliteal artery.
+     
+     4. The popliteal artery is patent and gives out a diseased posterior tibialis
+     artery and a patent peroneal artery which supplies the only runoff down to the
+     foot.  
+     
+     Arterial pressure measurements were as followed:
+     
+     1. Distal aorta 184/57 with a mean of 106 as well as the left proximal common
+     iliac artery.  The left external iliac artery was 134/51 with a mean pressure
+     of 86. 
+     
+     The moderate sedation was provided by administering divided doses of Versed
+     and Fentanyl throughout the procedure which lasted a total of 1 hour.  During
+     the procedure the patient's hemodynamic parameters were continuously monitored
+     and there were no complications.
+     
+     Dr. [**Last Name (STitle) 2013**] was present and scrubbed for the entire procedure.
+
+",,
+13260,,,,3264-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia.                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate RLE arterial circulation, possible intervention. This is for [**Doctor Last Name 2013**].  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PROCEDURE:  Diagnostic abdominal aortogram with right lower extremity runoff
+     via a left retrograde common femoral approach.  
+     
+     PHYSICIANS:  Dr. [**Last Name (STitle) 2013**] and Dr. [**Last Name (STitle) 14141**].
+     
+     INDICATION:  80-year-old female with acute on chronic right lower extremity
+     pain with history of peripheral vascular disease.  
+     
+     PROCEDURE:  With the patient supine upon the Interventional Radiology Suite
+     after adequate induction of intravenous conscious sedation the patient's
+     groins were prepped and draped in the usual sterile fashion.  Through a
+     retrograde left common femoral approach access was gained with a single
+     puncture technique, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire was advanced into the common iliac artery
+     and a 4 French sheath was placed over a wire.  Because of disease in the left
+     common iliac artery we switched to an angle glide catheter 035 inch and this
+     was maneuvered through a proximal common iliac stenoses and distal aortic
+     disease into the abdominal aorta.  An omniflush catheter was placed over the
+     wire into the abdominal aorta at the L1 level and an abdominal aortogram was
+     taken.  This revealed a patent but diseased infrarenal aorta with a patent
+     bilateral renal arteries, there was also a tight narrowing at the distal
+     abdominal aorta just proximal to the aortic bifurcation.  The left common
+     iliac artery shows a tight stenotic area with an occluded internal iliac
+     artery on the left side.  The right superficial femoral artery is occluded
+     with a patent right internal iliac artery which is feeding collaterals that
+     reconstitute the right profunda femoral artery.  We then obtained access up
+     and over the bifurcation with the omniflush catheter which was left in the
+     distal common iliac artery.  From there serial imaging of the right lower
+     extremity were obtained revealing a patent profunda femoral artery, and
+     occluded superficial femoral with reconstitution of the above the knee
+     popliteal artery.  The popliteal was patent and ended up in a patent peroneal
+     artery with a diseased posterior tibialis with a single vessel runoff down to
+     the foot via the peroneal.  At this point, we concluded the procedure and
+     proceeded to do pull back pressure measurements which revealed a 20 point
+     gradient across the left common iliac artery lesion.  The sheath was left in
+     place for later removal in the holding area.  The patient tolerated the
+                                                                 (Over)
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     procedure well and there were no complications.  
+     
+     RADIOLOGIC FINDINGS
+     
+     1. Patent but diseased infrarenal aorta with patent bilateral renal arteries.
+     The distal abdominal aorta is heavily diseased with a moderate more than 50%
+     stenosis just proximal to the aortic bifurcation.  On the right the right
+     external iliac artery is occluded with a patent internal iliac artery.  On the
+     left, the left common iliac artery has a high grade stenosis and the internal
+     iliac is occluded with a patent external and common femoral.  
+     
+     2. The right lower extremity runoff revealed a patent profunda femoral artery
+     via collaterals.
+     
+     3. The SFA is completely occluded with reconstitution of the above the knee
+     popliteal artery.
+     
+     4. The popliteal artery is patent and gives out a diseased posterior tibialis
+     artery and a patent peroneal artery which supplies the only runoff down to the
+     foot.  
+     
+     Arterial pressure measurements were as followed:
+     
+     1. Distal aorta 184/57 with a mean of 106 as well as the left proximal common
+     iliac artery.  The left external iliac artery was 134/51 with a mean pressure
+     of 86. 
+     
+     The moderate sedation was provided by administering divided doses of Versed
+     and Fentanyl throughout the procedure which lasted a total of 1 hour.  During
+     the procedure the patient's hemodynamic parameters were continuously monitored
+     and there were no complications.
+     
+     Dr. [**Last Name (STitle) 2013**] was present and scrubbed for the entire procedure.
+
+",,
+13260,,,,3264-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              99144 MOD SEDATION, FIRST 30 MIN.   *
+     * 99145 MOD SEDATION, EACH ADDL 15 MIN 99145 MOD SEDATION, EACH ADDL 15 MIN*
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with RLE ischemia.                                            
+     REASON FOR THIS EXAMINATION:
+      Evaluate RLE arterial circulation, possible intervention. This is for [**Doctor Last Name 2013**].  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     PROCEDURE:  Diagnostic abdominal aortogram with right lower extremity runoff
+     via a left retrograde common femoral approach.  
+     
+     PHYSICIANS:  Dr. [**Last Name (STitle) 2013**] and Dr. [**Last Name (STitle) 14141**].
+     
+     INDICATION:  80-year-old female with acute on chronic right lower extremity
+     pain with history of peripheral vascular disease.  
+     
+     PROCEDURE:  With the patient supine upon the Interventional Radiology Suite
+     after adequate induction of intravenous conscious sedation the patient's
+     groins were prepped and draped in the usual sterile fashion.  Through a
+     retrograde left common femoral approach access was gained with a single
+     puncture technique, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire was advanced into the common iliac artery
+     and a 4 French sheath was placed over a wire.  Because of disease in the left
+     common iliac artery we switched to an angle glide catheter 035 inch and this
+     was maneuvered through a proximal common iliac stenoses and distal aortic
+     disease into the abdominal aorta.  An omniflush catheter was placed over the
+     wire into the abdominal aorta at the L1 level and an abdominal aortogram was
+     taken.  This revealed a patent but diseased infrarenal aorta with a patent
+     bilateral renal arteries, there was also a tight narrowing at the distal
+     abdominal aorta just proximal to the aortic bifurcation.  The left common
+     iliac artery shows a tight stenotic area with an occluded internal iliac
+     artery on the left side.  The right superficial femoral artery is occluded
+     with a patent right internal iliac artery which is feeding collaterals that
+     reconstitute the right profunda femoral artery.  We then obtained access up
+     and over the bifurcation with the omniflush catheter which was left in the
+     distal common iliac artery.  From there serial imaging of the right lower
+     extremity were obtained revealing a patent profunda femoral artery, and
+     occluded superficial femoral with reconstitution of the above the knee
+     popliteal artery.  The popliteal was patent and ended up in a patent peroneal
+     artery with a diseased posterior tibialis with a single vessel runoff down to
+     the foot via the peroneal.  At this point, we concluded the procedure and
+     proceeded to do pull back pressure measurements which revealed a 20 point
+     gradient across the left common iliac artery lesion.  The sheath was left in
+     place for later removal in the holding area.  The patient tolerated the
+                                                                 (Over)
+
+     DATE: [**3264-8-25**] 7:25 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 14140**]
+     Reason: Evaluate RLE arterial circulation, possible intervention. Th
+     Admitting Diagnosis: RIGHT LEG PAIN
+      Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     procedure well and there were no complications.  
+     
+     RADIOLOGIC FINDINGS
+     
+     1. Patent but diseased infrarenal aorta with patent bilateral renal arteries.
+     The distal abdominal aorta is heavily diseased with a moderate more than 50%
+     stenosis just proximal to the aortic bifurcation.  On the right the right
+     external iliac artery is occluded with a patent internal iliac artery.  On the
+     left, the left common iliac artery has a high grade stenosis and the internal
+     iliac is occluded with a patent external and common femoral.  
+     
+     2. The right lower extremity runoff revealed a patent profunda femoral artery
+     via collaterals.
+     
+     3. The SFA is completely occluded with reconstitution of the above the knee
+     popliteal artery.
+     
+     4. The popliteal artery is patent and gives out a diseased posterior tibialis
+     artery and a patent peroneal artery which supplies the only runoff down to the
+     foot.  
+     
+     Arterial pressure measurements were as followed:
+     
+     1. Distal aorta 184/57 with a mean of 106 as well as the left proximal common
+     iliac artery.  The left external iliac artery was 134/51 with a mean pressure
+     of 86. 
+     
+     The moderate sedation was provided by administering divided doses of Versed
+     and Fentanyl throughout the procedure which lasted a total of 1 hour.  During
+     the procedure the patient's hemodynamic parameters were continuously monitored
+     and there were no complications.
+     
+     Dr. [**Last Name (STitle) 2013**] was present and scrubbed for the entire procedure.
+
+",,

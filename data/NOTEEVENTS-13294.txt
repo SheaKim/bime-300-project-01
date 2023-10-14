@@ -1,0 +1,530 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13294,,,,2931-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2931-8-24**] 10:22 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14337**]
+     Reason: assess for cardiopulmonary processess.                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      pt is being evaluated for liver transplant.                                     
+     REASON FOR THIS EXAMINATION:
+      assess for cardiopulmonary processess.                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST.
+     
+     INDICATION:  Liver transplant.
+     
+     PA and lateral views of the chest are obtained [**2931-8-24**].  No prior films are
+     available for comparison.  The heart is not enlarged.  The lung fields appear
+     clear with no evidence of acute infiltrate, pleural effusion, or pneumothorax.
+     The bony structures are unremarkable.
+     
+     IMPRESSION:
+     
+     No convincing radiographic evidence of acute cardiopulmonary disease. 
+     Incidentally noted are surgical clips in the right upper quadrant.
+                                                                           
+
+",,
+13294,21531,,,2931-09-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2931-9-3**]              Discharge Date:   [**2931-9-8**]
+ 
+Date of Birth:  [**2879-8-2**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 18**] 
+Chief Complaint:
+GI bleed
+ 
+Major Surgical or Invasive Procedure:
+none 
+ 
+History of Present Illness:
+52 y/o M with cryptogenic cirrhosis, varices, who presents from 
+outside hospital with GI bleed. He presented to OSH one day 
+prior to admission after having melena and hematemesis at home. 
+Reports throwing up both bright red blood and clots. In 
+addition, he reported increasing abdominal girth over last 
+several months. Denied chest pain, palpitaions. 
++Lightheadedness.  
+. 
+At the OSH, found to have hct of 35.1, INR 1.8. Given Vitamin K, 
+FFP, PPI and Octreotide 50mcg bolus, followed by octreotide 
+drip. EGD was performed [**9-2**] which revealed no active bleeding 
+or red whale marks. Grade II-III esophogeal varices were seen, 
+in addition to esophogeal erosions. There was no gastric varices 
+and no blood seen in stomach. He was continued on IV PPI and IV 
+octreotide. However, the following morning [**9-3**], he vomited 
+moderate amount of emesis with approximately 50% clotted blood. 
+At that time, hgb checked, found to be 11. Repeat EGD was 
+performed on [**2931-9-3**], with banding of 3 varices. Transferred to 
+[**Hospital1 19**] for further management. 
+.
+On arrival here, complains of mild abdominal pains secondary to 
+distension. Denies chest pains, SOB. Passed one melanotic BM. No 
+further hematemesis
+
+ 
+Past Medical History:
+# cryptogenic cirrhosis- initial onset of cholestatic hepatitis 
+after having a cholecystectomy; has undergone numerous 
+investigations, including cross-sectional imaging, liver biopsy 
+and ERCP on two occasions. A complete serological evaluation has 
+not shown any cause for his liver cirrhosis.  He has had two 
+normal ERCPs performed at an outside institution. His liver 
+biopsies here have shown features consistent with large bile 
+duct obstruction 
+# h/o arterial portal venous fistulae: noted within his right 
+lobe of his liver s/p embolization
+# jaundice at the age of 4
+# DM II- insulin requiring w/ peripheral neuropathy, retinopathy
+# GERD 
+# CAD- 3 MI's in past, w/ 2 angioplasties, no stents
+ 
+Social History:
+He stopped drinking alcohol two years ago. Prior to that, he 
+reports occasional ETOH use. 30+ pack year smoking history. 
+Still actively smoking 1ppd
+ 
+Family History:
+No family history of liver disease. He has no history of blood 
+transfusion or intravenous drugs.  He did snort cocaine 
+periodically during his 20's.  He has never been a blood donor, 
+does not have any
+tattoos and never served in the military
+ 
+Physical Exam:
+vitals- afebrile, VSS 
+gen- well appearing, jaundiced, NAD 
+heent- EOMI. + scleral icterus. mucous membranes dry 
+pulm- bibasilar rales. no ronchi or wheezes 
+cv- RRR. no m/r/g
+abd- soft, distended, non-tender. + dull flanks. liver edge 
+palpable 1 cm below RCM. 
+ext- no c/c/e 
+skin- small spiders on anterior chest wall. + palmar erythema 
+b/l 
+neuro- alert and oriented x 3, conversating appropriately. no 
+asterixis. motor strength 5/5 b/l
+ 
+Pertinent Results:
+ADMIT LABS: 
+==========
+[**2931-9-3**] 10:18PM   WBC-4.8 RBC-3.02* HGB-10.1* HCT-30.1* 
+MCV-100* MCH-33.5* MCHC-33.6 RDW-17.5*
+.
+LIVER U/S [**2931-9-4**]: 
+================
+Again noted is a small liver with nodular contour and 
+echotexture consistent with cirrhosis. There is a slightly 
+increased amount of ascites perihepatically and throughout the 
+abdomen. The left main and right hepatic veins are patent 
+demonstrating normal flow and waveforms. The left and right 
+hepatic arteries are patent demonstrating normal waveforms and 
+flow. There is reversal flow of the main, left, and right portal 
+vein, which appears new compared to prior study consistent with 
+worsening portal hypertension. The spleen is enlarged at the 
+upper limits of normal. There is no evidence of fistula 
+formation.
+
+IMPRESSION:
+1. Reversal of flow of the portal venous system, which appears 
+new compared to prior study from [**2931-7-26**] and [**2931-6-24**]. No evidence of thrombosis or fistula formation.
+2. Ascites 
+
+Previous Studies: 
+.
+ECHO [**2931-8-24**]- 
+Left Atrium - Long Axis Dimension: *4.4 cm (nl <= 4.0 cm) 
+Left Atrium - Four Chamber Length: 5.0 cm (nl <= 5.2 cm) 
+Right Atrium - Four Chamber Length: 4.1 cm (nl <= 5.0 cm) 
+Left Ventricle - Septal Wall Thickness: 1.1 cm (nl 0.6 - 1.1 cm) 
+
+Left Ventricle - Inferolateral Thickness: 1.0 cm (nl 0.6 - 1.1 
+cm) 
+Left Ventricle - Diastolic Dimension: *5.7 cm (nl <= 5.6 cm) 
+Left Ventricle - Ejection Fraction: 40% (nl >=55%) 
+Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm) 
+Aorta - Ascending: 3.4 cm (nl <= 3.4 cm) 
+Aorta - Arch: 2.6 cm (nl <= 3.0 cm) 
+Aortic Valve - Peak Velocity: 1.2 m/sec (nl <= 2.0 m/sec) 
+Mitral Valve - E Wave: 0.9 m/sec 
+Mitral Valve - A Wave: 1.0 m/sec 
+Mitral Valve - E/A Ratio: 0.90 
+Mitral Valve - E Wave Deceleration Time: 226 msec 
+TR Gradient (+ RA = PASP): *20 to 32 mm Hg (nl <= 25 mm Hg) 
+.
+Conclusions:  
+1. The left atrium is mildly dilated.  
+2. The left ventricular cavity is mildly dilated. Overall left 
+ventricular systolic function is moderately depressed. Inferior 
+akinesis with apical and distal septal hypokinesis are present.  
+
+3. The aortic valve leaflets (3) are mildly thickened. No aortic 
+regurgitation is seen.  
+4. The mitral valve leaflets are mildly thickened. Trivial 
+mitral  
+regurgitation is seen.  
+.
+ERCP [**2931-7-31**]: 
+12 ERCP images were obtained by Dr. [**Last Name (STitle) 8839**].  Cholangiogram 
+shows 
+normal intra- and extra-hepatic ducts without evidence of 
+dilatation or stricture.  No intraluminal filling defects are 
+identified.  Cholecystectomy clips and vascular coils are noted
+.
+Liver Bx Path [**2931-7-10**]: 
+.
+Right liver lobe, needle core biopsy (A):
+1.  Marked bile duct proliferation with associated neutrophils 
+and cholestasis, see note.
+2.  Mild lobular predominately mononuclear all inflammation with 
+scattered neutrophils.
+3.  Trichrome stains shows increased portal and bridging 
+fibrosis and incomplete nodule formation (Stage 3).
+4.  Iron stain shows minimal iron deposits in hepatocytes.
+.
+II.  Left liver lobe, needle core biopsy (B):
+.
+1.  Marked bile duct proliferation with associated neutrophils 
+and cholestasis, see note.
+2.  Mild lobular predominately mononuclear all inflammation with 
+scattered neutrophils.
+3.  Trichrome stain shows cirrhosis.
+4.  Iron stain shows minimal iron deposits in hepatocytes.
+.
+Note:  The features are most suggestive of a chronic obstructive 
+process (biliary type cirrhosis).  
+.
+Abd U/S [**9-3**]- bilateral hydronephrosis. Decreased renal function 
+with poor response to lasix. 
+
+ 
+Brief Hospital Course:
+52 y/o M w/ cryptogenic cirrhosis, GI bleed [**1-25**] varices s/p 
+banding at OSH
+. 
+# GI bleed: s/p variceal banding at OSH. Continued initially on 
+IV pantoprazole, octreotide drip. Remained hemodynamically 
+stable with stable hematocrit overnight. Hematocrit subsequently 
+drifted down to 23. Still with some melena, however no further 
+hemoptysis or bright red blood per rectum. Recieved 2units 
+packed red blood cells and hematocrit subsequently stabilized
+. 
+# Cirrhosis: Unclear etiology. Followed by Dr. [**Last Name (STitle) **]. 
+Complicated by esophogeal varices, mild portal gastropathy. No 
+evidence of encephalopathy. Evidence of ascites on exam. Liver 
+u/s with dopplers demonstrated no evidence of thrombosis or 
+fistula. There was noted reversal of flow and ascites. 
+Diagnostic paracentesis was performed, and was negative for SBP. 
+Plan for transplant eval per hepatology. Was discharged on 
+spironolactone 50 mg PO qd, ursodiol 300 mg PO bid.
+. 
+# DMII: continued on lantus. SSI. diabetic diet. neurontin for 
+neuropathic pain 
+. 
+# CAD: chest pain free. EKG with no acute ST changes. no aspirin 
+given GI bleed. no statin given cirrhosis. On cholestyramine for 
+lipids. Added simvastatin 10 mg PO qd.
+. 
+# CHF: recent ECHO [**2931-8-24**] shows depressed EF of 40%. Monitored 
+I's/O's. Given lasix with blood transfusion. 
+.
+# Psych: Continued on sertraline 
+ 
+Medications on Admission:
+Lantus 45 units daily 
+Neurontin 800 mg BID 
+Sertraline 50 mg per day 
+Octreotide 50mcg/hr 
+Ursodiol 300mg/day 
+Folic Acid 1mg/day 
+Creon 2 caps QID 
+Cholestyramine 1packet BID 
+Pantoprazole 40mg IV BID 
+Spironolactone 50mg per day 
+. 
+ 
+Discharge Medications:
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day).  
+4. Cholestyramine-Sucrose 4 g Packet Sig: One (1) Packet PO BID 
+(2 times a day).
+Disp:*60 Packet(s)* Refills:*2*
+5. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: One (1) Cap PO QIDWMHS (4 times a day 
+(with meals and at bedtime)).  
+6. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID (2 times 
+a day).
+Disp:*60 Capsule(s)* Refills:*2*
+7. Nicotine 21 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24HR(s)* Refills:*2*
+8. Nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+9. Spironolactone 50 mg Tablet Sig: One (1) Tablet PO once a 
+day.  
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+11. Insulin Glargine 100 unit/mL Solution Sig: Forty Five (45) 
+Units Subcutaneous once a day: Please take as prescribed.  
+12. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times 
+a day).
+Disp:*60 Capsule(s)* Refills:*2*
+13. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Upper GI bleed.
+
+ 
+Discharge Condition:
+Stable, ambulatory, afebrile
+
+ 
+Discharge Instructions:
+Please return to the hospital if [**Doctor First Name **] experience abdominal pain, 
+fevers, bleeding, chest pain or shortness of breath.
+.
+Please take all your medications as prescribed.
+ 
+Followup Instructions:
+[**Doctor First Name 54**] have an appointment for upper endoscopy with Dr. [**Last Name (STitle) **] on 
+Thursday, [**9-13**] at 2 p.m. Please arrive at 1 p.m. Please 
+do not eat or drink after midnight on the night before the 
+procedure. Dr.[**Doctor Last Name 2235**] office will call [**Doctor First Name **] with any further 
+instructions.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 26**] MD [**MD Number 27**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 3390**] [**Last Name (NamePattern1) 3391**] MD [**MD Number 3392**] [**2931-9-12**] @ 0626
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**2931-9-17**] 8:54 AM
+(End of Report)
+
+
+",,
+13294,21531,16553,,2931-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2931-9-4**] 1:01 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); DUPLEX DOPP ABD/PEL     Clip # [**Clip Number (Radiology) 14338**]
+     Reason: evaluate for evid of thrombosis, ascites                    
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old man with cryptogenic cirrhosis w/ varices, GI bleed.                
+     REASON FOR THIS EXAMINATION:
+      evaluate for evid of thrombosis, ascites                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  52-year-old man with cryptogenic cirrhosis, varices and GI bleed.
+     Evaluate for thrombosis or ascites.
+     
+     COMPARISON:  [**2931-7-26**].
+     
+     DUPLEX DOPPLER ULTRASOUND OF LIVER:
+     
+     Again noted is a small liver with nodular contour and echotexture consistent
+     with cirrhosis.  There is a slightly increased amount of ascites
+     perihepatically and throughout the abdomen.  The left main and right hepatic
+     veins are patent demonstrating normal flow and waveforms.  The left and right
+     hepatic arteries are patent demonstrating normal waveforms and flow.  There is
+     reversal flow of the main, left, and right portal vein, which appears new
+     compared to prior study consistent with worsening portal hypertension.  The
+     spleen is enlarged at the upper limits of normal.  There is no evidence of
+     fistula formation.
+     
+     IMPRESSION:
+     1.  Reversal of flow of the portal venous system, which appears new compared
+     to prior study from [**2931-7-26**] and [**2931-6-24**]. No evidence of thrombosis
+     or fistula formation.
+     2. Ascites
+
+",,
+13294,21531,16553,,2931-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2931-9-4**] 1:01 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); DUPLEX DOPP ABD/PEL     Clip # [**Clip Number (Radiology) 14338**]
+     Reason: evaluate for evid of thrombosis, ascites                    
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old man with cryptogenic cirrhosis w/ varices, GI bleed.                
+     REASON FOR THIS EXAMINATION:
+      evaluate for evid of thrombosis, ascites                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  52-year-old man with cryptogenic cirrhosis, varices and GI bleed.
+     Evaluate for thrombosis or ascites.
+     
+     COMPARISON:  [**2931-7-26**].
+     
+     DUPLEX DOPPLER ULTRASOUND OF LIVER:
+     
+     Again noted is a small liver with nodular contour and echotexture consistent
+     with cirrhosis.  There is a slightly increased amount of ascites
+     perihepatically and throughout the abdomen.  The left main and right hepatic
+     veins are patent demonstrating normal flow and waveforms.  The left and right
+     hepatic arteries are patent demonstrating normal waveforms and flow.  There is
+     reversal flow of the main, left, and right portal vein, which appears new
+     compared to prior study consistent with worsening portal hypertension.  The
+     spleen is enlarged at the upper limits of normal.  There is no evidence of
+     fistula formation.
+     
+     IMPRESSION:
+     1.  Reversal of flow of the portal venous system, which appears new compared
+     to prior study from [**2931-7-26**] and [**2931-6-24**]. No evidence of thrombosis
+     or fistula formation.
+     2. Ascites
+
+",,
+13294,21531,16553,0,2931-09-04 05:19:00 EST,2931-09-04 05:33:00 EST,3272,"N",54,"Nursing/Other","MICU ADMISSION NOTE","
+MICU ADMISSION NOTE
+PLEASE SEE FHP FOR DETAILS PRIOR TO ADMISSION. PATIENT ARRIVED ~2030 ON OCTREATIDE GTT. 
+
+NEURO: AAOX3. AMBULATING TO TOILET IN ROOM WITHOUT DIFFICULTY. C/O ABD TENDERNESS/BLOATING. SLEPT WELL.
+
+CARDIAC: HR 60-78 SR WITH NO ECTOPY. BP 89-142/41-93. PPP. HCT STABLE 34/35.5. INR 1.4. MELENOTIC STOOLS. 
+
+RESP: ON ROOM AIR WITH RR 11-24 AND SATS 96-99%. LS CLEAR WITH BIBASILAR CRACKLES. SLIGHTLY WINDED WHEN AMBULATING. 
+
+GI/GU: ABD FIRM AND DISTENDED WITH +BS. MELENA X3. VOIDING VIA URIANL AND TOILET. ICTERIC AND CLEAR. 
+
+FEN: ON OCTREATIDE GTT @50MCG/HR. GIVEN 20MG LASIX X1. NO IVF'S, AM SET OF LYTES PENDING. NPO X ICE CHIPS AND MEDS. FS Q6HRS WITH SSRI AND HS GLARGINE, 1/2 DOSE GIVEN AS PT NPO. TBILI 10.7.
+
+ID: TMAX 96.4 WITH WBC 6.3/8.9. STARTED ON CIPRO FOR PROPHYLACTIC SBP. DIAGNOSTIC PARACENTESIS PERFORMED.
+
+SKIN: W/D/I, JAUNDICED.
+
+ACCESS: PIV X2.
+
+SOCIAL/DISPO: FULL CODE. WIFE IN WAITING ROOM. Q6HR HCTS, NEXT DUE @1130. LIVER U/S 0915. 4UNITS READY IN BLOOD BANK IF PATIENT BLEEDS.
+",,
+13294,21531,16553,0,2931-09-04 16:30:00 EST,2931-09-04 16:57:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full Code
+
+*Access:  2 PIV's L arm
+
+*NKDA
+
+Neuro:  A&Ox3, moves self in bed, ambulates to toilet for stools though feels a little weak.  c/o pain upper abd, pressure/bloating pain, tolerable at this time.
+
+Cardiac:  NSR w/o ectopy, HR 60-79, SBP 96-138, Hct today 35->30.6->30.9, next lab @ 2200.  May scope again if cont to decrease.  Was vomitting clots @ outside hospital, none since in MICU, melena stool remains. NPO until Hct expected to remain stable and no vomit.
+
+Resp:  RR 11-19, O2sat 97-99 on room air, LS clear upper a little coarse lower.  
+
+GI/GU:  NPO except med until Hct stable and no vomitting.  +BS, melena stool x1 this shift.  Voids in urinal and toilet, adequate amts this shift, yellow/clear.  FS 123-128 no coverage per SS, standing dose glargine, 1/2 dose given overnight since NPO.  ? if on transplant list for Liver failure, MD [**First Name (Titles) **] [**Last Name (Titles) 4633**] at this time. T.Bili 10.7 to 11.8. Jaundice, ascites (diagnostic tap yesterday).  Abd US today for ascites to tap (therapeutic) and/or obstructions.  Unread at this time.
+
+ID:  Afebrile (99.6), WBC 8.9.  No signs of infection at this time, IV sites wnl.  Levoquin for prophylaxis d/t bleeding and ascites.
+
+Psychosocial:  Wife in to visit most of day, social work assisted her w/ finding hotel, she is there now but will return this evening after checking in and showering and eating, let him know if he asks.  She is very pleasant and follows his care closely.
+
+Dispo:  Cont to monitor Hct Q6H, next @ 2200, NPO til Hct stable, monitor for continued signs of bleeding, awaiting abd(liver)US results, ?liver transplant list, ? eventual TIPS, cont ocreotide gtt @ 50mcg, cont med regimen.
+",,
+13294,21531,16553,0,2931-09-05 04:16:00 EST,2931-09-05 04:31:00 EST,4160,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+EVENTS: pt w/ stable hct's this evening until 0400am hct drop from 31.5 to 29.7. no melana, no emesis or s/s of GIB. hemodynamically stable. 
+
+ROS/PE:
+
+CV: Irregular NSR, HR 50-80's. very irregular, some PAC's, some pauses. NIBP 90-120's systolic. hct as mentioned above. next due at 10am. 
+
+RESP: LS generally clear, diminished bases. on RA w/ o2 sats >95%. enc to C&DB. no SOB or DOE.
+
+NEURO: A&Ox3, neurologically intact. MAE on the bed. denies pain except some ""fullness"" in abd. Slept in intervals most of the noc. 
+
+GI/GU: abd rounded w/ ascites. active BS. pt was given 12 units NPH insulin (normal dose 45- pt requested to only take 12). FS 100-110. mostly NPO but given sips/ chips and has done well. [**Country 1219**] and asking for food. voids in urinal clear yellow urine. 
+
+SKIN: grossly intact. 
+
+ACCESS: piv x2. 
+
+SOCIAL: wife here, updated on progress/ plan. wife staying at local hotel, very involved and supportive. alot of time spent last noc reviewing medications and POC w/ pt and wife. 
+
+PLAN: repeat hct at 10am. monitor for recurrent GIB. per MICU team, may be able to resume diet this am. support and encouragement. pt is not on transplant list at this time, is in the process of having w/u done to determine eligability- needs cardiac cath. ?TIPS in future. FULL CODE. 
+",,
+13294,21531,16553,0,2931-09-05 15:41:00 EST,2931-09-05 15:58:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full Code
+
+*Access:  2 PIV's L arm
+
+*NKDA
+
+Neuro: A&Ox3, ambulates to toilet, moves self in bed, no longer complaining of abd pain.
+
+Cardiac:  Irregular NSR w/ rare short pauses, HR 63-75, SBP 103-135, serial hcts29.4->28.8->pending.  Hemodynamically stable at this point.
+
+Resp: O2sat >95%, rr 12-20 on room air, LS clear upper and crackles LLL, encourage C&DB.
+
+GI/GU: clear liquid, advance to reg as tolerated.  +BS, frequent up to toilet for little to no stool, AM stool brown formed and guiac (+).  Voids in urinal, amber/clear in adequate amts, UA sent today.  FS 80 no covereage per SS, only 12U lantis given overnight since pt was NPO, low FS this AM (64), given OJ and [**Location (un) **] crackers w/ good effect; he says he know when he's low.  Liver US yesterday showed increased ascites and reversal of flow, no plan at this time.  BUN 27, 29, 28, pnd/ Creat 0.6, 1.3, 1.1, pnd.  Increased Creat this AM treated w/ 1L NS bolus.  Transplant and cardiac consults today. 
+
+ID:  Afebrile, WBC 6.5, IV sites wnl, levoflox prophylactic for ascites and GI bleed.  Skin jaundic.
+
+Psychosocial:  wife present most of day, staying at hotel @ night.  Very pleasant and helpful, follows care closely.
+
+Dispo:  Monitor hct and labs, cont hydration 125cc/hr, cont med regimen and labs as needed.  Advance diet as tolerated, called out to floor, transfer note started.
+",,
+13294,21531,16553,0,2931-09-05 17:42:00 EST,2931-09-05 17:47:00 EST,7689,"N",54,"Nursing/Other","Addendum Progress note 0700-1900","
+Addendum Progress note 0700-1900
+Hct from 28.8 to 23.4, transfused 2U PRBC, 2nd unit still infusing.  Follow up hct following transfusion.  K 3.3, order to repleat w/ 60mEq PO, given 20mEq PO, 40mEq yet to be divided over the next few hours.  Coags and fibrinogin and haptoglobin sent, Hct (37.2) from this time not accurate as blood was transfusing.  Cont clear liquid diet but dc'd 125cc/hr NS continuous d/t improved renal labs BUN 25 from 28 and Creat 1.0 from 1.1.
+",,
+13294,21531,16553,0,2931-09-06 03:14:00 EST,2931-09-06 03:21:00 EST,4106,"N",54,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT REMAINS CALLED OUT TO [**Hospital Ward Name **] 10. 
+
+NEURO: PT AOX3, MAE, FOLLWOING COMMANDS. PT OOB TO TOLIET WITH SUPERVISION. PT DENIES ANY PAIN. 
+
+RESP: PT IS ON RA. O2 SATS 90'S. LS CLEAR. 
+
+CV: HR 50-80'S NSR. SBP 90-130'S. PT FINSHED PRBC TRANSFUSION DURING EVENING SHIFT. POST HCT 38.1. 60MEQ PO KCL REPLEATION FINISHED DURING EVENING FOR K+ 3.3. ALL AM LABS PENDING. PT REMIANS ON SANDOSTATIN GTT AT 50MCG. 
+
+GI/GU: PT TOLERATING CLEARS. NO N/V. BMX3, LOOSE, LIQUID GREEN STOOL, GUIAC NEG. PT VOIDING IN URINAL OR TOLIET. 
+
+DISPO: PLAN REMAINS TO TRANSFERE PT TO [**Hospital Ward Name **] 10 WHEN BED IS AVAILABLE. AM LABS PENDING. PT'S WIFE STAYING AT LOCAL HOTEL. PT IS A FULL CODE. 
+",,
+13294,21531,16553,0,2931-09-06 15:47:00 EST,2931-09-06 16:06:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1600","
+Nursing Progress Note 0700-1600
+*Full Code
+
+*Access:  2 PIV's L arm
+
+*NKDA
+
+Neuro:  A&Ox3, moves self in bed, ambulates to toilet as needed.  No complaints of pain or discomfort.
+
+Cardiac:  irregular, SB/NSR w/o ectopy, HR 50-77, SBP 94-131.  Lower HR after AM Nadolol, first dose today, no complaints of feeling any differently.  Serial Hct's, today 36.5 and 34.5.  MD's state they are expecting records from OSH on Cardiac Cath and Echo done previously, please be on the look out (fax or mail?).
+
+Resp:  Room Air, rr 14-19. LS clear upper, LLL crackles, encouraging cough and deep breathing.  
+
+GI/GU:  regular diabetic hearthealthy diet.  +BS, +ascites, abd firm and distended, to start aldactone and lasix to diurese per liver team.  To toilet for stools, C.Dif 1 of3 sent today, next 2 over next 2 days.  Brown stool/loose, guiac neg this am.  Voids in urinal, amber/clear in adequate amts.  BUN/Creat 30/1.3 to 29/1.1, was given 1L LR fluid bolus this am for rising creat.  FS 191 covered per RISS, standing lantis, given only 8U overnight, now that he is eating full meals may want to try half dose (22) and see if he does better tomorrow.  
+
+ID:  Afebrile, WBC 7.4, cont levoflox prophylactically.  IV sites wnl, no sign of infection at this time.
+
+Psychosocial:  Wife visiting most of the day, stays @ hotel @ night, very pleasant and helpful, closely monitors his care and condition.
+
+Dispo:  Cont to monitor hct, BUN, Creat, start diuresis (one in pm other in am), transplant workup being done (liver team, cardiac, labs sent), cont med regimen.  Look for documents from OSH on previous cardiac cath and ECHO.
+",,

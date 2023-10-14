@@ -1,0 +1,619 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13193,1727,,,2751-01-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2751-1-14**]       Discharge Date:  [**2751-1-25**]
+
+Date of Birth:   [**2673-4-6**]       Sex:  F
+
+Service:  CCU TEAM
+
+HISTORY OF PRESENT ILLNESS:  This is a 77 year old female
+with past medical history of congestive heart failure and
+coronary artery disease, who was in her usual state of health
+prior to admission.  On the night she was admitted patient
+was having increased chest pain that actually awoke her from
+[**Doctor Last Name 292**].  She described the pain as [**6-21**], sharp, substernal
+pain that radiated down her left arm.  She denied shortness
+of breath, nausea, vomiting, diaphoresis or heart
+palpitations.  Patient became concerned.  She notified EMS.
+EMS gave patient one sublingual nitroglycerin with immediate
+improvement in her symptoms.  She was then transferred to
+[**Hospital1 10**] emergency room for
+further evaluation.  In the emergency room patient was given
+an aspirin that she was unable to chew and she ended up
+gagging on the aspirin.  Shortly after gagging on the aspirin
+patient appeared to have a vagal reaction and actually went
+into asystole.  She was given one dose of atropine and her
+cardiac rhythm returned to atrial flutter with variable block
+patterns.  Patient is a very poor historian and was unable to
+give any additional history.  At that time it was discussed
+at great length with her son about possible options to
+include a temporary pacer.  The son chose not to have any
+cardiac intervention done, understanding the risks involved.
+He stated that in the past his mother had been offered
+procedures that she had refused.  Patient was then admitted
+to the CCU for further observation.
+
+REVIEW OF SYSTEMS:  She had been complaining of some visual
+field defects.  She states ""it is like a shade came down over
+my right eye.""  She was seen by an ophthalmologist for this
+complaint who told her that it was likely she had a vascular
+event.  In the past she had been offered anticoagulation for
+her significant history of a-flutter/a-fib which she had
+refused.
+
+PAST MEDICAL HISTORY:  Coronary artery disease, status post
+two myocardial infarctions.  Congestive heart failure with an
+echo in [**2744**] that showed approximately 20% ejection fraction
+with moderate to severe mitral regurgitation and right
+ventricle hypokinesis.  She also had ischemic cardiomyopathy.
+Meniere disease.  Paroxysmal atrial fibrillation.  Transient
+ischemic attacks.  Hyperlipidemia.  Anxiety.
+
+MEDICATIONS ON ADMISSION:  Zestril 10 mg q.d., Lasix 40 mg
+q.d., Valium p.r.n., Zaroxolyn p.r.n.
+
+ALLERGIES:  The patient has an allergy to beta blockers, the
+reaction is unclear.  She also has an allergy to barbiturates
+and digoxin, again the reactions are unclear.
+
+FAMILY HISTORY:  Mother passed away from a cerebrovascular
+accident.
+
+SOCIAL HISTORY:  The patient denied alcohol or smoking.
+
+LABORATORY DATA:  On admission sodium was 136, potassium 4.1,
+chloride 98, bicarb 27, BUN 21, creatinine 1, glucose 117.
+White blood count 6.4, hematocrit 35.7, platelet count 180.
+Differential showed 59 neutrophils, 2 basophils, 28
+lymphocytes, 6 monocytes, 1 eosinophil.  Coags showed PT of
+12.6, PTT 23.3, INR 1.1.
+
+PHYSICAL EXAMINATION:  On admission the patient was afebrile,
+heart rate 83 beats per minute and regular, blood pressure
+117/77, respiratory rate 16 breaths per minute, O2 sat was
+98% on 2 liters.  In general, this was a very frail, elderly
+appearing female who was slightly confused, mumbling and was
+not coherent.  Mucous membranes were dry.  Pupils were
+equally round and reactive to light.  Cranial nerves II-XII
+were grossly intact.  Patient was oriented to place and name
+only.  Pulmonary exam revealed bibasilar crackles.  She had
+decreased respiratory effort.  Abdomen was soft,
+nondistended, nontender with positive bowel sounds.  Heart
+was regular rate and rhythm with S1, S2 and S3.  Extremities
+were without cyanosis, clubbing or edema.
+
+HOSPITAL COURSE:  This is a 77 year old woman with a history
+of coronary artery disease, congestive heart failure, left
+bundle branch block with a-flutter who is not anticoagulated,
+status post multiple TIAs.  She presented to the emergency
+room with new onset chest pain that radiated down her left
+upper extremity.  At the time she was refusing any
+intervention.  She was admitted to the CCU for further
+observation.
+
+1.  Cardiac.  The patient was admitted and her cardiac
+enzymes were followed.  Initial CK was 82 with troponin of
+3.0.  Second CK was 458, MB 88, troponin 34.3.  Shortly after
+receiving these results, patient became bradycardiac down
+into the 20s to 30s.  After emergent discussion with her son,
+the decision was made to place a temporary pacemaker.  Dr.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 396**] discussed the severity of the patient's
+situation and her slow ventricular escape rate of
+approximately 20 and the son agreed to have the placement
+despite her previous wishes not to have this done.  The son
+stated that she was scared of the procedure, but that she
+wanted to live and that she was just not thinking clearly at
+the time she presented to the emergency room.  D[**MD Number 278**]
+placement of the temporary pacemaker, patient went into
+ventricular fibrillation arrest for which she received
+defibrillation shocks and then patient when into asystole for
+which patient was then emergently intubated.  Atropine was
+administered and a temporary pacemaker was placed.  She
+returned to a paced rhythm of approximately 80 beats per
+minute.  An emergent echo was performed at bedside which
+showed severe global left ventricular and right ventricular
+hypokinesis.  There was no pericardial effusion noted.  On
+the third day of admission, patient was taken to the
+electrophysiology lab and a biventricular lead pacer was
+placed.  Patient had the pacer placed at 80 beats per minute.
+She was successfully extubated.  Following extubation she
+complained of some chest pain around the incision site at
+which time the pacer configuration was changed to pace at
+about 70 beats per minute.  Pacer was performing well until
+the fifth day of hospital admission at which point she went
+into v-tach/v-fib cardiac arrest.  Patient was quickly
+defibrillated and intubated for airway protection.  After a
+lengthy discussion with her son, it was determined that
+patient would go to the cardiac cath lab.  Cardiac cath
+revealed a 99% lesion in the LAD which was successfully
+stented.  Patient was then transferred back to the CCU for
+further management.  For her coronary artery disease she was
+placed on aspirin 325 mg q.d., Plavix 75 mg q.d. for 30 days,
+low dose beta blocker and statin.  Her ACE inhibitor was
+being held until her creatinine returned to approximately
+1.5.  For her congestive heart failure patient was placed on
+low dose beta blocker.  She received Lasix to relieve her
+pulmonary symptoms.  For her rhythm she received a
+biventricular lead pacer for which she will follow up with EP
+for further management.
+
+2.  Pulmonary.  The patient was intubated on two occasions
+for airway protection.  She was easily liberated from the
+ventilator on both occasions without complications.
+
+3.  Renal.  The patient presented to the emergency room with
+creatinine of 1.0.  Following her cardiac arrest and the dye
+load, patient went into acute renal failure with creatinine
+of 2.4.  All nonsteroidals and ACE inhibitors were held.
+Patient's creatinine gradually improved over her course of
+stay.  Patient should have an ACE inhibitor added to her
+regimen once her creatinine returns to approximately 1.5.
+
+4.  ID.  The patient was placed on vancomycin following
+placement of the biventricular pacer.  Her cultures remained
+negative throughout her stay.
+
+5.  Hematology/oncology.  The patient is anemic at baseline.
+During her stay she received 2 units of packed red blood
+cells.  It appeared that she had a minor reaction following
+the transfusion with a temperature of approximately 101.
+
+6.  Endocrine.  The patient had elevated blood sugars,
+approximately 150 to 200, during her stay.  When discussed
+with patient, she stated she is not a diabetic and refused
+further blood sugars along with any additional insulin or
+hypoglycemics.  This issue should be addressed at some point
+as it appears that the patient is a diabetic.
+
+7.  Fluids, electrolytes and nutrition.  During her stay the
+patient had to have potassium supplements several times.  Of
+concern is her refusal at times to take p.o. intake.  In
+addition to her diet, she should have nutritional supplements
+to include Boost shakes with each meal.  Her potassium should
+be followed closely.
+
+8.  Rehab.  The patient is extremely deconditioned and will
+need inpatient rehabilitation to return to her baseline.
+Physical therapy worked with the patient while in the
+hospital.  This should continue on an outpatient basis.
+
+CONDITION ON DISCHARGE:  Stable.  We have had extensive
+discussions with her son about his mother's current status
+and the possibility that she may have daily arrhythmia.
+
+FOLLOWUP:  She is to follow up with Dr. [**Last Name (STitle) **], her general
+cardiologist, within two weeks.  She should follow up with
+her primary care physician within one month.  She should
+follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 396**] in approximately one
+month.
+
+DISCHARGE INSTRUCTIONS:  Increase nutritional intake.  Work
+with physical therapy to gradually build up her strength.
+Follow up with her cardiologist and primary care physician.
+[**Name10 (NameIs) 8657**] to the hospital for any heart palpitations, chest
+pain, upper extremity or jaw pain or shortness of breath.
+She should have her potassium followed closely.  She should
+discuss the use of digoxin and Coumadin with her primary
+cardiologist, Dr. [**Last Name (STitle) **].
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg q.d.
+2.  Plavix 75 mg for 21 additional days.
+3.  Lipitor 10 mg q.d.
+4.  Metoprolol 12.5 b.i.d.
+5.  Amiodarone 200 mg q.d.
+6.  Protonix 40 mg q.d.
+
+
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], MD  [**MD Number 950**]
+
+Dictated By:[**Doctor Last Name 8658**]
+MEDQUIST36
+
+D:  [**2751-1-25**]  11:48
+T:  [**2751-1-25**]  11:43
+JOB#:  [**Job Number 8659**]
+Signed electronically by: DR. [**First Name (STitle) **] DOW
+ on: TUE [**2751-3-20**] 3:48 PM
+(End of Report)
+
+
+",,
+13193,1727,16432,0,2751-01-14 05:50:00 EST,2751-01-14 06:13:00 EST,2285,"N",69,"Nursing/Other",,"
+
+Nursing Admit Note
+
+77 yo female came to the EW tonight c/o CP.  Pt was at home when she experienced [**6-21**] CP, denied n/v, diaphoresis, SOB.  She put on a NTG patch without relief, in the EW she was given SL NTG with resolution of her pain.  She initially came in with a HR in the 80s, she blocked down to the 40s, in aflutter, given ASA, hep started, c/o intermittant L arm pain.  She had a 10 sec pause where she was unresponsive, given 1.5 mg of atropine.  Pt extremely anxious, given 0.5 mg of ativan, after this her speach was slurred, still anxious.  Pt transported to the MICU
+
+Allergies:  B blockers,barbituates, digoxin
+
+Systems Review:
+
+CV:  Remains in aflutter, BP 100s-130s, no CP, hep conts at 500u/hr, to start on integrelin.  She may go to the cath lab today if she is willing, she probably needs a pacer but she has refused one in the past.
+
+Resp:  LS rales LUL, on 4 L NC with a SAT in the high 90s
+
+GI:  Soft, nontender
+
+GU:  Has been on the BP x2 without results, she refuses to have a foley placed.
+
+Neuro:  Anxious, her family states that she is off, she is AOx3 but make statements that do not make sence - tells her family that she is home, trying to get out of bed.  A CT was done because of her MS changes - the initial read was neg, the hep conts and she will start integrelin.  She does better with verbal cues and encouragement.
+
+Soc:  Her son and daughter in law have been in the room with her most of the night, they have been helpful to her
+
+
+",,
+13193,1727,16432,0,2751-01-14 17:14:00 EST,2751-01-14 17:49:00 EST,-1,"N",69,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Neuro:  Pt initially A&O x3 but dozing intermittently.  Pt had a few seconds of unresopnsive and never really recovered, Pt then required intubation and has been sedated on 25mcg/hr fentanyl and 1mg/hr versed.  Pt is restrained bilaterally with soft wrist restraints.  Pts pupils L unreactive and dilated, dilated and sluggish.  Pt will fight with turns and has purposful movement.  Pt does not follow commands at this time, time will tell how much cerebral damage was sustained.
+
+Cardiac:  Pt initially in A-Flutter with block and intermittent excape beat, HR 26-35.  Pt then experienced a block to 21 and went unresponsive for a few seconds, pt never really recovered, Pt remained with a HR of 22-24 in a complete heart block, and pt was very somulent.  CCU team called and emergent transvenious pacer placed, while attempting to place the wire, pt coded, anastheia called, CPR initiated and temp pacer placed.  Pt recieved multiple rounds of cardiac emergency meds and was de-fibed x6.  Pt is currently V-paced at a HR of 80 no ectopy, mA 22.  Unclear when perminent pacer will be placed.  Pt briefly on Levo and dopa.  Heparin and integrulin dc'd.
+
+Resp:  Pt remains intubated, BS clear in upper airway and rales in LLL.  Pts current settings AC 24*380/.4 5/.  ABG on current settings pending.
+
+GI:  Pt has OGT placed to LCS, minimal out, brown contents.  Abd soft hypoactive BS.
+
+GU:  Pt has f/c placed with adequate u/o, about 40cc/hr.  Pt recieved 1L NS during arrest.
+
+Misc:  Monitor pts status, keep pt intubated and sedated ON, and assess when pt will have perminent pacer placed.
+
+",,
+13193,1727,16432,1,2751-01-14 17:14:00 EST,2751-01-14 18:21:00 EST,-1,"Y",69,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Pt had bedside echo showed worsening HK and EF!
+",,
+13193,1727,16432,0,2751-01-15 04:48:00 EST,2751-01-15 04:52:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on a/c 24/380/+5/40%.  Amub @ HOB.  bs auscultated reveal bilateral cl bs with sl diminished LS base.  Minimal/no sux req'd.  RR decreased to 18 with no further changes.
+",,
+13193,1727,16432,0,2751-01-15 05:51:00 EST,2751-01-15 06:16:00 EST,2285,"N",69,"Nursing/Other",,"
+
+NPN
+
+CV:  Pt remains in a paced rhythm at 80, MA was decreased to 10 and she has cont to capture through the shift.  BP stable, she was ~ 130 at 7 pm but also fairly awake, moving around, bending her legs, trying to pull at her lines so her sedation was increased, pt more somulent with the increase sedation and her SBP has decreased to the 100s. Groin line site for aline and CL intact, some old blood is on the clear dressing, no hematoma, neck cortis is dry and intact and does not have a hematoma there either.  CPK cont to rise, 3432, MBs 250.
+
+Resp: LS clear, RR decreased to 18 to correct her resp alkolosis, last ABG was 7.41/32/182/21/-2.
+
+GI:  ABD soft, pos BS, no stool
+
+GU:  Poor u/o, has been given three 250cc boluses  which temporarily increased her u/o from 10cc/hr to 20-40cc/hr.
+
+Neuro:  Somewhat aggitated at 7 pm, moving around, pulling on restraints and lines, sedation was increased and she has been somulent.
+",,
+13193,1727,16432,0,2751-01-15 12:17:00 EST,2751-01-15 12:39:00 EST,-1,"N",69,"Nursing/Other","MICU nursong note 7A-12Noon","
+MICU nursong note 7A-12Noon
+Neuro - Cont sedated on fentanyl 100 mcg/hr, versed 3 mg/hr. MAE. Occ arouses to speech, stimuli. Will squeeze your hand, but follows commands inconsistently. Pupils right 3mm, left 4 mm. non-reactive. 
+
+CV - Temp pacing wire via RIJ. V paced at 80. Threshold last checked @ 11A was .8 Ma, Ma set for 10. BP 100's-110's. Extremities W&D. Right fem CVL, dopplerable pulses. Palpable pulses left LE. Mag 1.6, to be repleted with 4 G IV. Hct 32, plt 121. Please recheck CBC and lytes at 1700. U/O has been poor ~10-15cc/hr. Currently receiving 500cc NS bolus. CPK 3454, troponin pending. 
+
+Resp - remains intubated AC 18x380, 40%, peep 5. RR 18, TVs 410. Lungs clear, dim at bases. Sats 100%. Has required no sx this AM.
+
+GI - Abd soft, +BS. OGT to LIS for small amt brown drainage. No stool. 
+
+GU - U/O as stated above, 10-15cc yellow urine with sediment. 
+
+Access - Right femoral TLC. RIJ for temp pacer with cordis. PIV #18 right forearm.
+
+Skin - Mild burns ant chest from defibrillation [**1-14**], otherwise intact. 
+
+Social - Son [**Name (NI) **] in all AM with his wife, son is family member who signs all consents for pt. Pts husband is also visiting. 
+
+Plan - Permanent pacemaker today if possible depending on availability in lab.  Check labs 1700.
+",,
+13193,1727,16432,0,2751-01-15 17:01:00 EST,2751-01-15 17:06:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Note:
+
+5pm report called to CCU from EP lab, pt s/p [**Hospital1 **] V pacer placement.  Pt hypotensive during procedure to SBP 80's requiring wean of sedation and start of dopamine gtt (max 10mcg currently weaned to 5mcg per report).  SBP 98-105 with dopamine 5mcg.  VVI 80.  Pt rec'd 1 gm vanco during procedure.  Await transfer of pt to CCU from EP lab.
+",,
+13193,1727,16432,0,2751-01-15 19:29:00 EST,2751-01-15 19:41:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Note 6-7pm:
+
+Please see carevue for objective data.
+
+Pt arrived from EP lab responding to painful stimuli on fentanyl 50mcg and versed 2mg.  Pt resisting turning.  VVI paced at 80.  Maps 44-54 on Dopa 5mcg/mg/min increased to 7mcg/mg/min with improvement of maps to 63-65.  L arm in sling dsg c/d/i.  Palpable pulses.  Pulm status stable on vent.  OGT clamped and in place.  Abd soft with hypoactive BS.  Foley cath patent draining cyu.  Son in to visit and updated on pt's condition. R fem TLC and R fem a-line dsg changed.  R IJ cortus patent with KVO. Pm labs sent, please follow up with results.
+",,
+13193,1727,16432,0,2751-01-16 03:57:00 EST,2751-01-16 04:10:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Pt received in bed, siderails up x 2. Monitor checked, alarms set, art line zeroed. Assessment complete. Pt restrained bilateral arms and right leg with brace and restraint for agitation. Family at bedside at beginning of shift, very supportive and aware of days events.
+
+Neuro: Sedated on fent and versed. MAE. Opens eyes and grimaces to stimuli. Can follow simple commands, but no eye contact or tracking. Pupils equal but sluggish. cough intact.
+
+CV: perm pacer left subclavian with large dressing intact. VVI @80bpm, no ectopy noted. Dopa at 7mcg, MAP in 60's and 70's. SBP remians in high 90's to low 100's. Tmax 100.8 (MD aware, blood and urine culture sent). palpable pulses all 4 ext. skin warm and dry. Art line in right groin, intact with no hematoma.
+
+REsp: AC 18 40% TV 370 PEEP 5. Sats 100%. Lungs clear bilateral with fine crackles and diminished breath sounds in bases. Suction scant thick tan.
+
+GI: NPO. OG tube clamped, BS present, no BM. Belly soft.
+
+GU: Foley, clear yellow, adequate amts.
+
+Skin: Burns on chest, dressing on left upper chest intact. Left arm in sling while pacer wires seed.
+
+Lines: Right groin TLC, Right groin Art line (with knee imobilizer). Right IJ introducer (TWire removed) with side port at KVO, PIV right hand, heplocked.
+
+GTTs: dopa, fentanyl, versed.
+
+Plan: WEan sedation in AM, Extubate. follow up ECHO.
+",,
+13193,1727,16432,0,2751-01-16 04:20:00 EST,2751-01-16 04:22:00 EST,660,"N",1,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds sl coarse suct sm th tan. No vent changes made overnoc. Cont mech vent.
+",,
+13193,1727,16432,0,2751-01-16 17:02:00 EST,2751-01-16 17:20:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+s/o: Please see carevue for all objective data
+neuro: all sedation turned off 0800, pt slowly becoming more responsive. Now lethargic, but easily arousable and following commands. MAE.
+resp: vent weaned and extubated ~1030 w/o difficulty. Now on 4lnp w/ 100% SATS. Lungs diminished at bases. Cough productive for sm amts thick yellow sputum.
+cv: dopamine weaned and d/c 1700. bp 102/46, v paced 80. cvp 5-6, given 300cc ns bolus.
+gu: foley draining cl yellow urine, currently ~ even. cr ^ 2.0 today
+gi: NPO at this time.
+id: afebrile. wbc 20 today. 
+end: bs wnl.
+skin: intact
+social: husband, son and daughter in law in most of day, they spoke w/ MD, and have been updated on condition.
+A: sucessful extubation, hemodynamically stable off pressors.
+P: Monitor u/o, renal fx, bp, resp status. plan for cath on Thurs.
+",,
+13193,1727,16432,0,2751-01-16 17:32:00 EST,2751-01-16 17:34:00 EST,547,"N",1,"Nursing/Other",,"
+
+Resp. Care Note
+Pt weaned and extubated today without difficulty. currently wearing O2 via nasal prongs.
+",,
+13193,1727,16432,0,2751-01-17 04:04:00 EST,2751-01-17 04:24:00 EST,-1,"N",1,"Nursing/Other",,"
+
+pt received in bed, siderails up x2, family at bedside. Monitor checked, alarms set. Art line zeroed. Assessment complete.
+
+Neuro: Pt awake, but sleepy. Oriented to self, place and year, but unsure of who the president is. Follow commands, MAE. cough intact. Denies pain.
+
+CV: Perm pacer VVI @80 bpm. EP fellow at bedside interogating pacer. Minimal ectopy noted. SBP in low 100's. Good pulses in all 4 ext. Tmax 100.3. Pale , but warm and dry skin. Art line DC'd at 10pm by intern. 
+
+Resp: 4L NC, lungs sound clear. ABG results before Art line is pulled very good. Sats remain >96%. 
+
+GI: NPO. Belly soft, BS present.
+
+GU: Foley Low output.
+
+Skin: Burns on chest, right femoral dressing from Central line/art line DC. 
+
+Lines: Right IJ TLC. PIV in Right forearm.
+
+PLAN: pt to cath lab to replace pacer atrial wire.
+",,
+13193,1727,16432,1,2751-01-17 04:04:00 EST,2751-01-17 04:25:00 EST,-1,"Y",1,"Nursing/Other",,"
+
+4:20 AM pt has 15 beat run of VT. Returns to paced rhythm. Dr [**Last Name (STitle) 387**] informed and at bedside. AM labs sent.
+",,
+13193,1727,16432,0,2751-01-17 18:25:00 EST,2751-01-17 18:36:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+s/o: ""I can't see very well""
+please see carevue for all objective data.
+cv: Pt to EP lab this am for PMR revision. PMR rate reset this afternoon to 70. bp stable 110-130/43-60. 
+resp: sats 100% on 3lnp, lung sounds coarse. Cough productive for thick yellow sputum.
+id: afebrile, started on levoquin, continues on Vancomycin.
+gi: swallowing study done, pt may advance diet. Taking sm amts Boost, c/o sore throat. D51/2 ns infusing at 75cc/hr.
+gu: foley removed in EP lab, incontinent of sm amt urine this afternoon, otherwise has not voided. Cr 2.2 this am
+neuro: More alert today, MAE, following commands, Pt c/o decreased vision, similar to episode prior rto admission. HO aware.
+heme: hct down to 26, to be transfused w/ 1uprbc.
+social: Son and husband in most of day.
+A: PMR revision, hemodynamically stable, impaired vision
+P: Bedrest until am, ^diet as tolerated. transfuse 1 uprbc, 
+",,
+13193,1727,16432,0,2751-01-18 06:20:00 EST,2751-01-18 06:38:00 EST,-1,"N",1,"Nursing/Other",,"
+
+PT RECEIVED IN BED SIDERAILS UP X 2. MONITOR CHECKED, ALARMS SET, ASSESSMENT COMPLETE. FAMILY AT BEDSIDE.
+
+NEURO: PT AWAKE, ALERT, FOLLOWS COMMANDS, VERY FORGETFUL AND CONFUSED AT TIMES. INTACT COUGH AND SWALLOW. MAE. PUPILS 3MM AND SLUGGISH. RESTLESS DURING NIGHT, UNABLE TO GET COMFORTABLE, DENIES CP.
+
+CV: PERM PACER VVI AT 70BPM. FREQUENT ECOTOPY NOTED, LYTES SENT (ALL WNL). SBP REMAINS IN 90-LOW 100 RANGE, AFEBRILE. PALPABLE PULSES ALL 4 EXT. SKIN WARM AND DRY. PT RECEIVED 1 UNIT PRBC'S FOR HCT 27. 
+
+RESP: 2L NC, LUNGS COARSE BILATERAL. ICS ENCOURAGED WITH WEAK EFFORT. SATS REMAIN 100%. 
+
+GI: TOOK CRUSHED MEDS IN PUDDING TOLERATES WELL. NO BM. SITS ON BEDPAN X 2 WITHOUT RESULTS. BOWEL SOUNDS PRESENT.
+
+GU: FOLEY CATH REPLACED AFTER SEVERAL HOURS OF ANURIA. INITIALLY 90 CC, THEN TAPERS TO 20-30/HOUR.
+
+SKIN: BURNS TO CHEST, BRUISING BILATERAL ARMS.
+
+IV: RIGHT 18G PIV.
+
+
+PLAN: TRNASFER TO FLOOR BED.
+",,
+13193,1727,16432,0,2751-01-18 18:55:00 EST,2751-01-18 19:03:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+See transfer note for all events today.
+
+At ~ 6:40 while awaiting transfer to [**Hospital Ward Name **] 3 pt suddenly became unresponsive, was in vfib. Shocked w/200j x2 -> paced rhythm. Given 1 amp epi, loaded w/ 150 mg amiodarone and started on amiodarone gtt. bp 112/60. Pt intubated. Dr. [**Last Name (STitle) 4528**] spoke w/ family.
+",,
+13193,1727,16432,0,2751-01-19 04:36:00 EST,2751-01-19 04:51:00 EST,313,"N",1,"Nursing/Other","CCU Nsg Progress Note.","
+CCU Nsg Progress Note.
+Brief Hosp Course:admitted [**1-14**] w CP-R/I--3146/366. EW-asystole rxed to AF--refusing Temp Pacer--admitted MICU. MICU-braducardia w vent escape rhythm w rate 20's-son consented to temp pacer & intubation.
+                           [**1-15**] perm pacer-transfered to CCU.
+                           [**1-16**] A lead perm pacer dislodged.
+                           [**1-17**] extubated. + sputum-gm pos/neg rods-- abx-vanco & levoflox. - bc.
+                           [**1-18**] called-out to [**Hospital Ward Name **] 3. prior to transfer -VF arrest requiring intubation, defib, & meds.
+
+O:Neuro=sedated w prop gtt. responds to noxious stim. @ x's responds to verbal stim.
+  Pulm=intubated & vented w present settings-AC/400x14/40%/+5 w sats upper 90's. wo a-line. abg x1-7.44/27/288/19/-3. breath sounds=course throughout. sx-thick tannish blood tinged secretions.
+  CV=V paced 70. wo ectopy. BP stable. amiodarone gtt 1mg/min till 0200-decreased to 0.5mg/min till 2000.
+  GI=ogt. bilious.
+  GU=foley placed. adeq uo.
+  ID=low grade t. abx-vanco & levoflox--to be held (check w ho)--families request (?cause of arrhythmias).
+  Access=peripherals x2. l-arm w infiltrate--elevated & heat applied.
+  Labs=am sent.
+
+A:wo further arrthymias. 
+
+P:decrease sedation when plan to extubate. ?wean vent w goal extubation. contin amiodarone gtt till 2000-then ? resume po. ?abx. ck am labs-replace as indicated. support pt/family.
+",,
+13193,1727,16432,0,2751-01-19 05:32:00 EST,2751-01-19 05:36:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Pt. sedated. Vent settings Vt 400, A/c 14, Fio2 40% and Peep 5. PAP/Plateau 23/20. Bs clear bilaterally. Sx'd for scant to sm amount of thick white sputum. Adequate Abg. Fio2 weaned from 100% to 40%. O2 sats 97-100%. No further changes made. Continue with mechanical support and wean as tolerated. 
+",,
+13193,1727,16432,0,2751-01-19 18:24:00 EST,2751-01-19 18:54:00 EST,506,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV","
+CCU NSG NOTE: ALT IN CV
+O: For complete VS see CCU flow sheet. 
+ID: Temp low-98.2R in am up to 100.8R in afternoon. Pt continues on vanco and levo.
+CV: Pt went for Cath today at 12:30. She had a 100% LAD. She had angiojet and 2 stents were placed. Plavix and ASA given in lab and she was started on 1mg/kg/min of integrellin. She was transfered to CCU with sheaths in place. Art sheath was pulled at 4pm, venous sheath in place in R groin and new triple lumen placed in L groin. Both groins dry with no hematoma, and pulses dopplerable. HR has stayed in v-paced rhythm (in a fib) at 70s. Since cath she has has occasional PVCs. She continues on amiodarone at .5mic/min and will be D/C at 8pm and po amiodarone started. She was K+ replaced and repeat K+ was 4.5. She is receiving NS at 75CC/hr to be D/C at 10am [**1-20**]. Integrellin will be d/c at 2am.
+RESP: Pt still intubated. She is on AC 400 X 14 over breathing to 24, 40% 5 PEEP. Her last gas on that setting at 4pm was 7.37/ 30/ 185/ -6/ 18. She no longer has a-line. She has minimal secretions.
+HEME: Crit today was 28 and she is receiving the first of two units PRBCs. 
+RENAL: Pt has poor urine output. BUN/CREAT 43/2.2. At ~6pm she was ~1 liter Positive and received 40mg IV lasix. 
+GI: Pt has og tube. She has had minmimal slightly positive asp. She has had two small G- BMs.
+ENDO: FS 88 at noon uup to 137 at 6pm. She has received no insulin.
+SKIN: She has infiltrated IV on R antecube area. It is very red, hot and edematous. Arm is elevated and hot packs have been applied. IV distal to site was removed. 
+ACCESS: Pt has one periferal IV on L. At present she has a central line in each groin, but these may come out tomorrow and access will again be serious problem. She cannot have picc on L due to pacemaker on that side, and cant have one on R due to phlebitic IV. 
+MS: Pt was on propofol 40mic/kilo at 8. It was decreased and then shut off at 10am. Pt was unresponsive. By noon she was beginning to overbreath the vent. By 1800 she was grimacing to noxious stimuli, but not following commands and no spontaneous movement seen. She can be restarted on propofol when she awake more. Her family is with her.
+A: Stents to LAD. Hemodynamically stable.
+P: D/C amiodarone at 8p. Check platelets at midnight.  D/C integrelin at 2am and IVF at 10am. Restart propofol for aggitiation. Monitor I & O closely. 
+
+",,
+13193,1727,16432,0,2751-01-20 05:22:00 EST,2751-01-20 05:26:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care;
+
+Patient remains/sedated intubated on mechanical support. Vent settings Vt 400, A/c 14, Fio2 40%, and Peep 5. PAP/Plateau 27/25. Bs clear bilaterally. Sx'd for scant amount of thick blood tinged sputum. Adequate O2 sats. No further changes made. S/P stent x2 to LAD yesterday. Continue with mechanical support and wean to Psv as tolerated.
+",,
+13193,1727,16432,0,2751-01-20 05:41:00 EST,2751-01-20 06:06:00 EST,526,"N",1,"Nursing/Other","ccu npn 7p-7a","
+ccu npn 7p-7a
+S: orally intubated
+
+O: Please see carevue for VS and objective data. 
+
+CVS: Hemodynamically stable with HR 70 vpaced, occ. PVC. IV Amiodarone at 0.5mg/min dc'd at 2000 with the start of 400mg po Amiodarone. K+ and MG+ repletion as per flow. BP ranges 90-110/50's. MAPs 60-70. IV Integrelin at 1mcg/kg/min dc'd at 0200 as ordered. PLTs 174. Pt. received second unit of PRBCs with repeat Hct 36.4. Right groin with venous introducer D/I without palp. hematoma though ecchymosis noted on right labia. Left groin with TLC D/I. Distal pulses palp. Extremities cool. NS at 75cc/hour post cath conts until am. 
+
+Resp; Remains orally intubated and mechanically ventilated on A/C 400x14, 40%/5 peep. pont. RR 2-13 over vent, sats 95-100%. Lungs clear with fine rales in bases dependently. I/O remains positive with IVF/blood, therefore given 40mg IV Lasix at 0200 with good response. 
+
+renal: Bun/creat 40/2.1 
+
+GI:GU: Remains NPO, OGT in good placement with ausul. bilious residuals. Foley to drainage with clear, light yellow urine. U/O 35-300cc/hour.  One formed brown stool, quaic neg. 
+
+ID: Tmax 100.2 po, given 650mg po tylenol x1 secondary receiving blood transfusion. WBC 12.2. Remains on antibx q 48 hours 
+
+Neuro: Pt. initially more alert, responding to verbal and tactile stimuli, opening eyes, following simple commands, denies pain via head nodding. Facial grimaces to turning and suctioning, overbreathing vent. Therefore restarted IV Propofol, remains on 10mcg/kg/min. with good response, see flow for neuro assessment. 
+
+Access: TLC left femoral, introducer in right femoral, one peripheral IV left hand. S/P infiltrate to right antecub site remains red, swollen and warm to touch, elevated on pillow, warm pack x1. 
+
+A: Hemodynamically stable, tolerated blood transfusions and diuresis. 
+
+P: Cont to monitor hemodynamics, assess groin sites, follow Hcts, lytes, dc IVF at 1030. monitor resp. status, may attempt to wean from sedation/vent. Comfort and emotional support to PT. and family
+",,
+13193,1727,16432,0,2751-01-20 15:00:00 EST,2751-01-20 15:05:00 EST,328,"N",1,"Nursing/Other",,"
+
+resp care: Pt remains intubated via # 7 ETT secured 20cm at lip. BS fine bibasalar rales. Sx'd for mod. amt thick yellow sputum. Cxray on [**1-19**] reveals ""cardiomegaly w/out overt CHF. Opacif. L retrocar. region, likely atelect. Sm. bilat pl. eff."" Changed to PSV per team. Please see carevue for further vent inqueries.
+",,
+13193,1727,16432,0,2751-01-20 17:56:00 EST,2751-01-20 18:22:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Note 7a-7p:
+
+Neuro: Propofol 10mcg/kg/min with effect.  Pt opening eyes to name, following simple commands and moving all extremities spontanseously. Pt with +facial grimacing and resisting ADL's.  Pt c/o leg pain when asked therefore pneumoboots on and off in intervals.  
+
+CV: Permanent pacer in place VVI 70 with rare pvc's. Steri strips intact at site area ecchymotic.  BP 110-115/37-51.  CK's cont to trend down peak 158 this pm CK 111.  Dopperable pulses. L groin with TLC site c/d/i. R groin with venous sheath post cath [**1-19**] await cardiac fellow to remove today.  Site c/d/i.  Post cath fluids completed.  K+ 3.9 repleted with 20meq KCl IV.  HCT 38.3 s/p 1u PRBC's [**1-19**].  Amio decreased to 200mg po QD conts on ASA, lopressor 12.5mg BID and plavix 75mg po.  Hands and feet cool to touch. Finger tips and toes slightly mottled.  +2 edema in upper and lower extremities.    
+
+PULM: Mechanically ventilated weaned to PS this afternoon ABG on PS 15 7.40/27/173/17. PS 15 TV 300 5 peep RR 30-35 (team aware) Sats 100%.  PS therefore dropped to 10 at 5pm.  LS with crackles bibasilary.  Sxn'd for thick yellow to tan sputum.  ? infiltrate vs CHF per team.  Sputum [**1-18**] with gram positive cocci in pairs and clusters/gram +/- rods.  Plan to rest overnight and wean to extubate [**1-21**].
+
+GI: OGT in place clamped with bilious to clear aspirate. Abd softly distended hypoactive BS. NPO. No stool this shift. 
+
+GU: Foley cath patent draining cyu. +6616 LOS. -474 since mn.  
+
+ID: T max 100.6 pt rec'd tylenol 650mg via OGT for comfort. Urine no growth to date. BC pending.
+Pt conts on vanco q48hr for proph.  Levofloxacin d/c'd due to long QT interval.  
+
+SKIN: Chest with burns s/p defib.  R antecu red and swollen, recent infiltrate.  Hot packs applied and arm elevated. L pacer site dsg c/d/i.
+
+LINES: L fem TLC, R venous sheath, 1 PIV L hand. 
+
+A: Hemodynamically stable.  Tolerating vent wean. 
+P: Rest on vent overnight with plan to wean to extubate in am.  Follow temp curve. Await fellow to d/c venous sheath.  NPO.  
+",,
+13193,1727,16432,0,2751-01-20 18:23:00 EST,2751-01-20 18:26:00 EST,226,"N",1,"Nursing/Other",,"
+
+Addendum to Nursing Progress Note:
+
+EP adjusted permanent pacer at bedside 6:15pm from VVI 70 to DDD with mode switch (A detect rate 150, low rate 70). Paced AV 120/sensed AV 110. Cont per plan.
+",,
+13193,1727,16432,0,2751-01-21 02:34:00 EST,2751-01-21 03:29:00 EST,-1,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+S: Pt intubated, on vent
+O: Neuro: Pt easily arousable when name called on Propofol gtt. Pt follows commands, mae. Answering simple questions by nodding. Pt at times purposely raising left hand toward ETT. Still requiring soft wrist restrainsts to prevent self extubation.
+CV: MHR 70's atrial tracking, v-pacing. PVC's on ocassion not sensed, w/ spike on s-wave. This was reported to and rhythm strip reviewed w/ Dr. [**Last Name (STitle) 4529**]. BP w/in guidelines, tol Lopressor. Extremities warm, cap refill brisk. skin pink w+d. +s4, soft murmur. Right fem sheath D/[**Name6 (MD) **] by MD, dsg D+I, no bleeding or hematoma.
+Resp: vent on PSV 10 RR> 35, TV low 300's. Lungs w/ crackles at bases L>R, O2 Sats 99%, Pt denied feeling SOB or any difficulty breathing.
+Vent changes made to rest pt. PSV increased. RR now 30-31, TV. 360. Metabolic acidosis driving RR. Pt stable and comfortable on current settings. Pt w/ gen'l edema. Right forearm firm vein tracking up to AC w/ slt erythema. Right AC area firm at old IV site w/ reddness tracking up the medial upper arm. Area demarkated and seen by MD.
+GI: OGT in place, aspirated minimal amts of cg drg, Heme +, ph5-7. No tube feeds at this time, discussed with MD as well. 
+GU: u/o adequate, no further diuretics ordered.
+ID: T-Max 100.1.
+Skin: Defib burns on chest, scabbed over and dry, left open to air.
+Soc: Family left soon after beginning of shift.
+A/P: Plan to wean and extubate pt tomorrow. Repeat CXR and ABG in am. monitor Cx reports and for further temp spikes. Begin TFs tomorrow if pt is not extubated. Monitor for further non-sensed beats. See carevue for additional information.
+",,
+13193,1727,16432,0,2751-01-21 06:21:00 EST,2751-01-21 06:38:00 EST,-1,"N",1,"Nursing/Other","Nursing note","
+Nursing note
+E: Propofol gtt D/C'd prior to weaning this am. RISBI 107, with PSV 5/5. RR <30, TV lower 280-290. Pt denies SOB, no increase in Resp effort. VS unchanged. plan to check ABG on present settings. See flowsheet for additional information. MHR 70's VP, soom PVC's and fused beats. Warm soak applied to right forearm and anticub area, right arm more edematous then left, elevated on pillow. 
+",,
+13193,1727,16432,0,2751-01-21 17:19:00 EST,2751-01-21 17:22:00 EST,476,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+     Pt. extubated late this a.m. and placed on 50% cool aerosol face tent.  Pt.'s RSBI=90 prior to extubation.  Pt. coughed and raised lg. amt. thick yellow sputum during extub.  Pt. now on 2 l/m nasal cannula.  Please see flow sheet for further information.
+",,
+13193,1727,16432,0,2751-01-21 17:22:00 EST,2751-01-21 17:56:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 7a-7p:
+
+extubated.
+
+S: ""I'm so tired""
+
+Neuro: Pt's eyes closed opening them to name.  Denies visual changes.  Pt alert and oriented x 2.  Moving all extremities.  Pt denies pain.  Calm and cooperative with all nursing interventions.  Pt asking for valium.  Per pt's son [**Name (NI) **] pt takes valium regularly at home.
+
+CV: Permanent pacer sent in DDD mode, V paced with occasional PVC's rate 70.  Pt denies CP.  K+ 3.5 repleted with 40meq KCL IV.  BP 114-128/41-52.  Easily palpable pulses.  Extremities warm and dry.  HCT 36.2. R groin site oozing small amt of serous drainage.  DSD appiled.  L fem TLC site C/D/I. Conts on lopressor 12.5 mg po BID, amio 200mg po [**Last Name (LF) 742**], [**First Name3 (LF) 430**], and plavix 75mg po.     
+
+PULM: Extubated at 12:30am.  Oxygen weaned to 2L NC with sats 98%.  Pt denies SOB.  RR 22-28.  Requiring encouragement to cough and deep breath.  Productive cough for thick yellow sputum.  Assisting pt with yank sxn.  LS with crackles bibasilary.  No further diuresis ordered.  CXR conts to show mild CHF per team.  Decrease edema in upper and lower extremities.
+
+GI: Abd softly distended with +BS.  Pt continent for two moderate soft brown stool guiac +.  Pt denies n/v.  Maintaining NPO status at this time due to pt's lethargy.  Aspiration precautions maintained. 
+
+GU: Foley cath patent draining yellow urine with sediment. u/o 30-50cc/hr post extubation.  BUN and Creat rising 42/2.4.  No maintainence fluids orderd.  Vano level drawn 10.6, pt rec'd dose at 2pm.
+
+ID: T max 98.9.  Conts on vanco IV proph. WBC 16.6 ? etiology.  Culture is spikes.  
+
+SKIN: Burns in chest healing from defib.  L chest pacer site with intact steri strips area ecchymotic dsd in place.  Heels pink.  R arm infiltrate improving no further swelling beyond demarkation.  Hot packs appiled throughout the day, arm elevated.  Team aware and following.
+
+LINES: L hand 18g PIV and L fem TLC all ports flushing w/o incidence. 
+
+SOCIAL:  Pt's son and daughter in law at bedside most of day.  Pt's son has been making all decisions and signing consent for procedure forms.  Pt does not have a health care proxy form.
+
+DISPO: Full Code.
+
+A: Extubated. Hemodynamically stable. 
+
+P: Follow neuro status. Advance diet when pt's mental status improves. 
+Follow pulm status.  Provide support. Echo and CXR in am.
+",,
+13193,1727,16432,0,2751-01-22 00:11:00 EST,2751-01-22 00:57:00 EST,-1,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+S: I have something in my mouth
+O: Pt with congested productive cough, not able to expectorate. suctioned orally with yankauer for small amts of yell secretions. Lungs with bib crackles. Sats maintaing >93 on 2Ls, cap refill brisk. Pt still has slt gen'l edema. Right arm less edematous, there is less redness around the anticub area.
+CV: MHR 70's VP 1:1 w/ occassional PVC's, +S4,soft mur, see flow sheet for VS.
+GI: Pt had some difficulty swallowing,throat very sore, pt able to take pills crushed and mixed with sherbet. Incon of sm amts of br stool
+GU: F/C drg yell urine with some sediment.
+ID: afebrile. 
+Soc/Psych: while son was present,he mentioned that his Mom was not normally cranky. Pt confused at times, oriented to person only. Short term memory poor. Pt not opening eyes while speaking. Pt opened her eyes upon request for a short time, pt follows commands, mae. Pt encouraged to assist with turning, pt weak but making attempts. 
+A/P: Continue to encourage DB+C, suction as needed, encourage pt to participate in activities. May need bed side swallowing eval in am.
+pt will need nutrition to be addressed. Repeat K+ wnl.
+",,
+13193,1727,16432,0,2751-01-22 06:41:00 EST,2751-01-22 06:49:00 EST,-1,"N",1,"Nursing/Other","Nursing Note","
+Nursing Note
+Pt awake early am, asking for Valium, order for Ativan obtained, .5mg given with good effect. Pt oriented to person, place this am. Pt suctioned for sm amt of yell secretions orally.
+",,
+13193,1727,16432,0,2751-01-22 13:35:00 EST,2751-01-22 13:36:00 EST,96,"N",1,"Nursing/Other","s/p arrest, intubation","
+s/p arrest, intubation
+see transfer note for today's note. pt oob to chair, slide today tol well. pt/ot consult pnd. 
+",,

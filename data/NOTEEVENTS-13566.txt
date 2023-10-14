@@ -1,0 +1,481 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13566,9031,,,2924-12-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2924-12-17**]              Discharge Date:   [**2925-1-20**]
+ 
+Date of Birth:  [**2833-2-21**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 992**] 
+Chief Complaint:
+Hypoxic respiratory insufficiency. 
+ 
+Major Surgical or Invasive Procedure:
+MICU monitoring
+ 
+History of Present Illness:
+This is a [**Age over 90 **] y/o, Russian-speaking only, male with a PMH of 
+interstitial lung disease, Alzhemier's dementia, PUD, who 
+presents from the NH with hypoxia. He was found to be in his 
+room earlier today, appearing pale with O2 sats from 74-84 on 
+2LNC. He is normally on O2 2-4L NC at the NH [**12-28**] to his ILD. He 
+was brought into the ED for further evaluation.  
+Per his grandchildren, the pt has not been well for the past 3 
+days - not eating or drinking, looking pale and weaker than 
+usual. He was recently started on Levaquin for PNA on [**2924-12-15**]. 
+Family denies pt having a cough, fevers, chest pain, or any 
+other symptoms although pt is unreliable in giving ROS.  
+At his baseline, he is not very communicative and is confused 
+most of the times, per his grandchildren. Pt has become 
+increasingly more confused and combative over the last few days, 
+refusing medications and food.  
+Unable to assess ROS as patient not responding to questions.  
+.
+On admission, pt started on vancomycin and levaquin. This was 
+changed to vanco, ceftriaxone, azithro and flaygl today as pt 
+had increasing hypoxia and increasing opacity on R lung on CXR 
+from early this AM. MICU called to evaluate for persistent O2 
+sat in mid 80s on 100% NRB. Antibiotics then changed to Vanco, 
+Zosyn, Azithro for coverage of MDR pseudomonas. He was tx'd to 
+the MICU for worsening hypoxia.
+ 
+Past Medical History:
+1. Alzheimer's dementia  
+2. PUD  
+3. Atypical psychosis  
+4. Macular degeneration  
+5. Interstitial lung disease  
+
+ 
+Social History:
+SHx: Resident of nursing home. Tobacco use unknown but denies 
+asbestos, Tb exposure.  
+
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+PE:  
+96.6----131/77---98----93-95% on 100% NRB  
+Gen: lethargic but responsive to voice.  
+HEENT: NCAT, pupils min reactive and equal. Anicteric. OP shows 
+dry MM.  
+Lungs: CTA b/l with limited air movement due to pt effort.  
+CV: RRR, nml S1S2, no mrg  
+Abd: soft, NT, ND, naBS  
+Ext: no c/c/e; no calf tndr or cords  
+Neuro: confused and lethargic.  
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+
+[**2924-12-17**] 02:45PM BLOOD WBC-16.9* RBC-4.14* Hgb-13.3* Hct-37.6* 
+MCV-91 MCH-32.0 MCHC-35.2* RDW-13.6 Plt Ct-290
+[**2924-12-17**] 02:45PM BLOOD Neuts-89.6* Bands-0 Lymphs-7.6* Monos-2.6 
+Eos-0.1 Baso-0.1
+[**2924-12-17**] 02:45PM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2924-12-17**] 02:45PM BLOOD PT-11.9 PTT-25.5 INR(PT)-0.9
+[**2924-12-17**] 02:45PM BLOOD Glucose-85 UreaN-54* Creat-1.9* Na-147* 
+K-3.9 Cl-108 HCO3-25 AnGap-18
+[**2924-12-17**] 02:45PM BLOOD CK(CPK)-57
+[**2924-12-17**] 07:30PM BLOOD CK(CPK)-56
+[**2924-12-18**] 06:00AM BLOOD CK(CPK)-117
+[**2924-12-20**] 11:48AM BLOOD CK(CPK)-82
+[**2924-12-17**] 02:45PM BLOOD cTropnT-0.05*
+[**2924-12-17**] 07:30PM BLOOD cTropnT-0.05*
+[**2924-12-18**] 06:00AM BLOOD CK-MB-3 cTropnT-0.04*
+[**2924-12-20**] 11:48AM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2924-12-18**] 06:00AM BLOOD Calcium-8.7 Phos-2.6* Mg-2.3
+[**2924-12-17**] 03:03PM BLOOD Lactate-4.0*
+[**2924-12-17**] 07:56PM BLOOD Lactate-2.0
+[**2924-12-18**] 06:18AM BLOOD Glucose-118* Lactate-2.0 Na-147 K-4.1 
+Cl-109
+[**2924-12-18**] 08:10AM BLOOD Lactate-1.4
+
+IMAGING:
+
+Admit CXR ([**12-17**]): 
+IMPRESSION:
+Limited by rotation. Probably unchanged appearance of peripheral 
+reticular pattern predominantly in the lower lobes. No pneumonia 
+or CHF. New right- sided lower rib fractures.
+
+Bilateral LENI's: IMPRESSION: No evidence of deep vein 
+thrombosis.
+.
+Chest CT ([**12-19**]): 
+IMPRESSION:
+1. No evidence of pulmonary embolism.
+2. Fractures of the 9th and 10th ribs on the right, 
+nondisplaced.
+3. Bilateral posterior atelectasis and pleural effusions.
+4. Mediastinal and hilar lymphadenopathy.
+5. Ulcerated plaques in the descending aorta.
+6. Possible right adrenal adenoma.
+.
+Follow Up CXR ([**12-22**]): IMPRESSION: Improved aeration of the right 
+lung base. Otherwise, no significant change from prior study.
+.
+CXR [**2924-12-22**]
+IMPRESSION: Improved aeration of the right lung base. Otherwise, 
+no significant change from prior study.
+.
+CXR [**2924-12-26**]
+IMPRESSION:
+1. Findings consistent with CHF.
+2. Bilateral pleural effusions.
+.
+CXR [**2924-12-31**]
+There is mild-to-moderate congestive heart failure superimposed 
+on underlying emphysema, which is associated with cardiomegaly 
+and moderate-sized pleural effusion. There are continued 
+opacities in both lower lobes indicating atelectasis versus 
+aspiration pneumonia. No evidence of pneumothorax is identified. 
+Again, note is made of tortuosity of the thoracic aorta.
+.
+CXR [**2925-1-1**]
+IMPRESSION: Moderate bilateral pleural effusions unchanged.
+.
+CXR [**2925-1-3**]
+IMPRESSION:
+1. Mild improvement of pleural effusion on the right.
+2. Bibasilar consolidations which may reflect atelectasis or 
+pneumonia, especially on the left.
+3. Radiological evidence of mild congestive heart failure.
+.
+CXR [**2925-1-7**]
+FINDINGS: Bilateral effusions are much more prominent on the 
+current study. Positioning differences could contribute. Appears 
+to be more prominence of the upper lobe pulmonary vasculature 
+and decompensation of fluid status seems likely. Bibasilar 
+atelectatic changes are noted, greater than that seen 
+previously. Upper lungs are clear of consolidations.
+IMPRESSION:
+Worsened fluid status versus prior study.
+.
+CXR [**2925-1-8**]
+IMPRESSION:
+1. Partial improvement in congestive heart failure.
+2. Unchanged moderate left and small right pleural effusions.
+3. Persistent right basilar atelectasis. Superimposed aspiration 
+cannot be excluded.
+.
+CXR [**2925-1-9**]
+IMPRESSION:
+1. Congestive heart failure with bilateral pleural effusions, 
+increased effusion on the right in the interval. A superimposed 
+aspiration cannot be excluded.
+.
+CXR [**2925-1-13**]
+Heart size cannot be accurately evaluated, but there is probably 
+some cardiomegaly. There are bilateral pleural effusions with 
+possible underlying pulmonary edema, essentially unchanged since 
+the prior film of [**2925-1-13**]. Tip of PICC line overlies mid 
+SVC. No pneumothorax.
+.
+CXR [**2925-1-16**]
+FINDINGS: A left-sided PICC is in unchanged position with tip in 
+the SVC. Bilateral pleural effusions, moderate-to-large in size, 
+appear stable. There is improvement in underlying pulmonary 
+edema and stable bibasilar atelectasis. No pneumothorax.
+
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was a [**Age over 90 **] yo Russian-speaking man with history of 
+interstitial lung disease, Alzheimer's dementia, and peptic 
+ulcer disease, who presented from his nursing home with hypoxia. 
+ Per his family for about 3days prior to admission he was less 
+interactive than usual and was not taking food.  He seemed weak 
+and on the day of admission did not even raise his head up when 
+his daughter came to visit. She called this to the attention of 
+the NH, who noted the pt was hypoxic to 74-84% on 2LNC, and 
+started him on Levaquin on [**12-15**] for possible RLL pneumonia.  Per 
+family, no cough, fever, SOB, or CP.  He was pale appearing.  
+.
+At baseline the pt used O2 2-4L for his interstitial lung 
+disease. He was minimally interactive, did not speak very much 
+even in Russian, and his overall health had  had been declining 
+over the last year. Prior to that time he used to try to run out 
+of his nursing home and build barricades to keep workers out.  
+He was a slow walker with assist.  He was, however, strong, and 
+had been combative requiring restraints in the ICU, and per his 
+granddaughter he [**Name2 (NI) **] her the day prior to admission. He was noted 
+to have been reluctant to eat for the last year, only taking 
+food when fed by his family, and occasionally refusing to eat.
+.
+On admission, the patient was started on vancomycin and 
+continued on levofloxacin for pneumonia.  His chest x-rays 
+gradually evolved to a picture consistent with RLL and LLL 
+opacities, likely pneumonia.  The pt was treated with 
+ceftriaxone, azithromycin and Flagyl, but on the second hospital 
+day he was transferred to the ICU after an acute episode of 
+desaturation on the floor thought to be secondary to mucus 
+plugging or aspiration.  In the ICU the patient was kept on 
+levofloxacin, and after 5 days total, the vancomycin was 
+discontinued. The patient initially passed swallow study but 
+there was concern for possible aspiration after the family's 
+attempts to feed the pt. The family was instructed to not force 
+in food.  
+.
+The pt's remaining hospital course was significant for multiple 
+episodes of desaturation, requiring deep suctioning and 
+supplemental oxygen. During his worst episodes, he was requiring 
+oxygen levels of 6L nasal cannula and 100% face mask; some of 
+these episodes were precipitated by repeated attempts of the pt 
+to manually remove oxygen supply despite wrist restraints and 
+mitts. During one of the acute episodes of desaturation the pt 
+underwent a chest x-ray which showed bilateral pleural 
+effusions. The pt was diuresed with interval improvement of the 
+effusions. 
+The pt's underlying pneumonia was treated with Vancomycin, 
+Levofloxacin and Flagyl (for empiric coverage of aspiration 
+pneumonia). The pt remained stable in the [**Hospital1 **] with eventual 
+improvement of oxygen saturations to low 90s on 50% face mask. 
+After multiple family meetings, the health care proxy decided 
+that they would like to continue medical care and they chose to 
+change the pt's code status to DNR/DNI.   
+.  
+During this admission, it was noted that the pt refused to eat 
+anything unless fed by family, including medications. The pt's 
+PO intake continue to decline during the hospital admission and 
+due to a risk for aspiration, the attending, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], 
+decided that the pt should not have a feeding tube placed. The 
+pt was evaluated by the gastroenterology team and they felt that 
+the pt was a poor  candidate for PEG placement (of note the 
+patient's health care proxy also refused this procedure).
+.
+During the hospitalization the patient had numerous episodes of 
+desaturation which were precipitated by his attempts to remove 
+his face mask. He was placed in restraints (after discussion 
+with the family)to prevent him from pulling off his face mask. 
+The pt was also assigned a 1:1 sitter. The pt was noted to 
+maintain an oxygen saturation of 89-95% on face mask (with 
+intermittent requirement of supplemental oxygen delivered via 
+nasal cannula). Mr.[**Known patient lastname **] also needed frequent suctioning due to 
+accumulation of copious thick secretions. His oral intake 
+gradually declined and he refused to take food. At that time he 
+was treated with supplemental IV fluids. Mr [**Known patient lastname **] gradually 
+developed frequent episodes of hypoxia and tachycardia which 
+were responsive to diuresis, suctioning and IV Lopressor. 
+However,in the last few days prior to his death, his oxygen 
+saturation status deteriorated and he was unable to maintain 
+oxygen saturation above late 80s on 6L nasal cannula and 80% 
+face mask. Mr. [**Known patient lastname **] was also noted to be intermittently 
+tachycardic and he was frequently in respiratory distress with 
+respiratory rate up to 40. He was treated for respiratory 
+distress with low dose morphine and with diuresis. On the day 
+Mr.[**Known patient lastname **] [**Last Name (Titles) 3628**], he was noted to desaturate down to 50 and would 
+not respond to deep suctioning or medical measures. He 
+ultimately went into respiratory distress and had pulseless 
+electrical activity and passed away.
+
+ 
+Medications on Admission:
+CURRENT MEDS:  
+1) Vancomycin 1 gram q48h (day 2)  
+2) Zosyn 2.25 gram q6h (day 1)  
+3) Azithro 500mg daily (day 2)  
+4) Protonix 40mg IV daily  
+
+ 
+Discharge Medications:
+none (pt passed away)
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 306**] - [**Location (un) 310**]
+ 
+Discharge Diagnosis:
+none (pt passed away)
+ 
+Discharge Condition:
+pt expired
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+none
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 997**] MD [**MD Number 998**]
+ 
+Completed by: [**First Name8 (NamePattern2) 7076**] [**Name8 (MD) **] MD [**MD Number 7077**] [**2925-1-29**] @ 1057
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2925-1-31**] 6:42 AM
+(End of Report)
+
+
+",,
+13566,9031,16887,0,2924-12-18 17:41:00 EST,2924-12-18 17:46:00 EST,4271,"N",53,"Nursing/Other","nursing note","
+nursing note
+Pt admitted from CC7 with worsening resp status. 
+Neuro: per granddaughter, demented at besline. russian speaking only, not following commands but moveing all extrem.  wrist rx on secodnary to pulling at face mask. haldol x1 for agitation. 
+CV:SR to ST, PAC's.  
+RESP:LS coarse, nasal culture sent by RT. NC 6l and 100% NRB on, o2 sat's 91-98%. bolused x1 for low urine output 
+GI:NPO. abd soft,nt, sm bm on admit.
+GU:foley patent clear yellow urine small amounts. MD [**Doctor Last Name **] aware and bolused as above. 
+SKIN:multiple bruises and superfiical skin tears to bilat arms. 
+SOCIAL:granddaughter [**Name (NI) **] involved, pt's osn and duaghter out of town and unable to be at bedside, [**Location (un) **] is point person for time. 
+
+plan:cont resp assess, abg later tonight, fllow up cxr and cultures. iv abx a/o.
+",,
+13566,9031,16887,0,2924-12-19 03:32:00 EST,2924-12-19 03:42:00 EST,4286,"N",53,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient has remained afebrile despite climb in WBC's. HR 80-100 with occassional PAC's PVC's EKG done at one point for ?irregular rhythm but noted to be in NSR with ectopy. BP tends to bump up to 160's when stimulated but mainly staying 120-130/60's. IVF changed to sodium bicarb @150cc/hr and pt is making adequate amts of clear yellow urine. 2nd PIV placed. Qtc was measured d/t a couple of one time doses of haldo were one dose given during NIVS to r/o clot in BLE-no clot seen by tech but she reported she did have difficulty visualizing veins.
+ Respiratory therapist tried BIPAP at beginning of shift and pt's sats dropped so NRB was placed with nc, NRB changed to high flow mask and O2 sats have been (when able to obtain ~95-100%-MICU team aware of difficulty obtaining sat). Pt has been NT suctioned for lots of thick grey to yellow secretions and sputum spec was sent for culture. Chest CT was ordered but has not been done as of yet.
+ Pt continues to require restraints d/t constantly pulling at oxygen mask and other lines/foley.
+ Pt is russian speaking only so does not follow commands but moves all extremeties.
+ Granddaughter called a couple of times for an update and wants to be called with any changes or test results. She also requested PCP's office phone number which was given.
+PLAN:
+ Pulmonary toilet
+ Chest CT
+ F/U with flu results-still on droplet precautions
+ Cont to update granddaughter
+ Notify H.O. with any changes
+",,
+13566,9031,16887,0,2924-12-19 04:36:00 EST,2924-12-19 05:02:00 EST,5269,"N",53,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt presents restless in bed in semi [**Doctor Last Name **] position O2 removed from pts face, sats 88% N/C & NRBM reapplied and sats returned to high 90's. BS coarse diffuse rhonchi greater in rll, Diminished LLL.W scattered wheezes. NTS Sx for copious amt thick creamy grey secretions. Specimen Sent to lab.NIV attempted W poor results. Sats gtt to high 80's. Placed on 100% high-[**Last Name (un) **] to provide volume and moisture. Sats increased to 99-100%. Plan: pulmonary toilet followed bt NTS Sx.
+",,
+13566,9031,16887,0,2924-12-19 13:08:00 EST,2924-12-19 13:40:00 EST,4061,"N",53,"Nursing/Other",,"
+
+
+FULL CODE    Droplet Precautions    NKDA
+
+
+Neuro:  Pt is Russian-speaking only, but also has h/o alzheimer's dementia.  Non-cooperative at baseline.  Attempted to give him juice w/ mucomist this am and he took a sip, then pushed it away and then tried to punch the nurse!  PCP came by and said this is normal behavior for the pt.  He did take some juice later in the day for a family memeber, but spit out the jello.  Unalbe to assess orientation. MAEx4 spont/command.
+
+CV:  One episode SVT to rate of 170s while in CT - lopressor 5mg IVP effective in bringing HR down to 90-80s. - Occ PAC/PVC.  BP 90-120s/50s.  Lopressor po started, but unable to administer.  Weak periph pulses, extrems warm, no edema. 
+
+Resp:  Pt currently on 50% hi-flow mask and 6l n/p w/ 02sat 95% - able to wean down from 100%.  BS coarse and diminshed in bases in am, but now sound clearer, but still diminished.  Occ congested cough, mobilizing secretions, but not expectorating.  On flu precautions - expecting lab results this afternoon.  RR=16-22 when resting comfortably and up to 30s after exertion in CT scan.
+
+GI/GU:  abd soft, +BS, taking very little po.  Incont BM this am - soft-formed.  Foley cath w/ clear yellow urine - u/o down to 20-30cc/hr after IV rate dropped to 50cc/hr.
+
+Access:  PIVx2.  IVF of D5W w/ NaBicarb at 50cc/hr for 400cc - started at 1300 and will run til 2100 tonight.
+
+Pain:   does not appear to be in any discomfort.
+
+ID:  afebrile at 98.0 axil.  On Vanco and levaquin
+
+Procedures:  Chest CT this am to r/o PE
+
+Social:  granddaughter has called a few times today for updates and her mother-in-law is visiting.  Updated on pt's status.
+
+Plan:  ?tx to floor.  Continue to monitor resp status - wean 02 as tol.  Monitor cardiac status - lopressor to IV from  po.  Monitor neuro status - family members at the bedside is most helpful.
+",,
+13566,9031,16887,0,2924-12-20 05:02:00 EST,2924-12-20 05:13:00 EST,7808,"N",53,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+SEE CAREVIEW ICU FLOWSHEET FOR FREQUENT VS & ASSESSMENTS:
+
+NEURO:  Remains unchanged, unable to assess d/t language barrier.  Grandson in early evening and felt that pt. either was HOH or did not understand what he was telling him in native language (russian).  PERRLA, MAEx4, good strength. 
+
+CV:  Afib w/ rare PVC, BP stable, hypertensive at times. Lopressor PO changed to 5 mg IV q 6hrs. Positive pulses t/o. 
+
+RESP:  LS clear upper lobes and dim at bases.  Pt. Desated to 88% on 60% & RR increased into 30's, placed on 100% and aggressive pulm. toilet provided with improvement.  Suctioned for thick green sputum several times t/o last 12 hrs. 
+
+GI/GU:  Abd soft, nontender and  +BSx4. Pt. takes small sips of juice at times. Foley draining adequate amounts of clear yellow urine. No BM. 
+
+Skin: warm, dry & intact. PIV patent, no signs and symptoms of infection. Pt. does not appear to be in any distress/pain.
+
+PLAN: Continue to closely assess resp. status, providing aggressive pulm. toileting to maintain RR & O2sat WNL.  Continue to assess cardiovascular status for arrythmias and BP responsive to IV lopressor.  
+
+ 
+",,
+13566,9031,16887,0,2924-12-20 06:45:00 EST,2924-12-20 06:52:00 EST,5269,"N",53,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt presents on 4L n/c W .5 Hi Flow for sats in high 80's to 90%. Placed on 6L and 100% NTS X 4 for copious amounts thick yellow/green secretions. CPT done. Nasal trumpet in lt nare.  
+",,
+13566,9031,16887,0,2924-12-20 18:41:00 EST,2924-12-20 18:51:00 EST,7452,"N",53,"Nursing/Other","Nursing Progress Note 7a-7p","
+Nursing Progress Note 7a-7p
+
+Pt's neuro status is unchanged. Interacts minimally w/family member, however, gets combative at times and refuses meds and PO flds given by staff. PERL. Continuing CPT, pt has productive cough at times, expectorating copious, thick secretion. NT suctioned x2. O2 sat fluctuates betw. high 80s to mid 90s, currently on 60% cool neb mask. Lungs clear mostly, diminished on right lower base. Pt desaturates quickly to low 80s w/o O2 mask. BP 130s/50s stable. HR 80s SR mostly but does occ. go into a-fib. Pt did have episodes of PSVT in 160s early afternoon, which IV lopressor was administered. Pt may eat, however only takes sips of fld/supplements given per family member. UOP has been marginal, MD notified. Received 2 runs of 40meq Kcl. 
+
+PLAN: Cont. pulmonary toilet and wean O2 as tolerated. Cont. Lopressor for HR control. 
+",,
+13566,9031,16887,0,2924-12-21 05:21:00 EST,2924-12-21 05:34:00 EST,7808,"N",53,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+SEE CAREVIEW ICU FLOWSHEETS FOR FREQUENT VS & ASSESSMENTS:
+
+NEURO:  Remains unchanged, unable to assess orientation d/t language barrier.  [**Last Name (LF) 1142**], [**First Name3 (LF) 34**]. Sleeping marjority of shift. 
+
+CV:  Hemodynamically stable in NSR, no ectopy. 
+
+RESP:  LS clear upper lobes and dim at the bases.  On hi flow O2 via CFM and sating WNL. Occasionally productive cough w/ pale green to yellow thick sputum. Pt. able to cough up and spit out sputum without assistance of suction. Pulm. toileting provided t/o noc. 
+
+GI:  Abd slightly round, soft and nontender.  Positive BSx4.  Taking sips of juice at times, but minimal amounts and does refuse liquid at times.  Pt. encouraged to take PO fluids. 
+
+GU:  Foley draining suboptimal amounts of urine, despite receiving D5W 1/2NS at 75cc/hr.  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3310**] notified.
+
+SKIN:  Warm, dry and intact. Afebrile.  Pt. appears to be comfortable and in no apparent distress or pain. PIV's w/out signs or symptoms of infection and flush without problem.  
+
+PLAN:  Continue to encourage PO intake.  Continue to assess CV status for arhythmias.  Continue to provide aggressive pulmunary toileting to provide good oxygenation and clear secreations.
+
+",,
+13566,9031,16887,0,2924-12-21 17:17:00 EST,2924-12-21 17:25:00 EST,3621,"N",53,"Nursing/Other","STATUS","
+STATUS
+D: CONFUSED AT TIMES APPEARS MORE LETHARGIC TODAY..DROPPING SAT'S WHEN O2 OFF..CONTINUES WITH LOW HUO'S
+A: NT SUCTIONED FOR LGE AMT THICK WHITE/BLD TINGED SPUTUM..SPUTUM CULTURE SENT..FLUID BOLUS X1 GIVEN WITH MIN EFFECT..GRAND DAUGHTER HER TO VISIT SPOKE WITH HO
+R: CONTINUES WITH POOR PULMONARY STATUS
+P: CONTINUE WITH GOOD PULMONARY TOILET..ENCOURAGE PO'S..? CODE STATUS  
+",,
+13566,9031,16887,0,2924-12-22 06:28:00 EST,2924-12-22 06:39:00 EST,7808,"N",53,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+SEE CAREVIEW ICU FLOWSHEET FOR FREQUENT VS & ASSESSMENTS:
+
+NEURO:  Remains unchanged, unable to assess pt.'s orientation d/t language barrier. [**Last Name (LF) 1142**], [**First Name3 (LF) 34**], combative at times. 
+
+CV: hemodynamically stable, NSR t/o noc, no ectopy.
+
+RESP:  Pt. remains on hi flow O2 via face mask.  RR and O2sat WNL.  Attempted to wean pt. down to NC 6l without success. Pt. quickly desat'd down to 86-87%.  Aggressive pulm toileting provided t/o.  Pt. NT suctioned x2 to clear secretions and improve oxygenation.  Pt. frequently removes O2 desating into 80's and needs to be reminded to leave it on, despite being restrained. 
+
+GI:  Abd, soft, nontender, + BSx4, smearing stool on to pad. Pt. refused PO medication, spitting it out.  
+
+GU:  Foley patent draining adequate amounts of clear yellow urine. 
+
+SKIN:  Warm, dry and intact. Pt. continues on NS @100cc/hr for hydration.  Afebrile and pt. appears to be in no apparent distress or pain.  
+
+PLAN:  Continue to provided good pulmonary toileting to ensure good oxygenation and clear secretions. 
+",,
+13566,9031,16887,0,2924-12-22 17:22:00 EST,2924-12-22 17:33:00 EST,3621,"N",53,"Nursing/Other","STATUS","
+STATUS
+D: AFEBRILE..UNABLE TO ACCESS MENTAL STATUS DUE TO LANGUAGE BARRIER( PT SPEAKS ONLY RUSSIAN)GRAND DAUGHTER ABLE TO SPEAK WITH PT BUT UNSURE OF HIS MENTAL STATUS..
+A: DESAT'S WHEN O2 REMOVED..C& SWALLOWING..NT SUCTIONED FOR SM AMT THIN CLEAR/WHITE SECREATIONS..ADQUATE HUO'S..SM AMT FORMED BROWN STOOL TOL SM AMT SOLIDS/LIQ FROM GRAND DAUGHTER REFUSING FROM ANYONE ELSE..SPEECH/SWALLOW HERE TO EVALUATE PT APPEARS TO HAVE NO DIFFICULTY SWALLOWING
+R: IMPROVING PULMONARY STATUS
+P: CONTINUE WITH GOOD PULMONARY TOILET..HAVE GRAND DAUGHTER FEED PT IF HE REFUSES TO TAKE FROM NURSING STAFF( SHE IS AGREEABLE TO THIS)? TRANSFER TO FLOOR WITH SITTER
+",,
+13566,9031,16887,0,2924-12-23 06:03:00 EST,2924-12-23 06:14:00 EST,3334,"N",53,"Nursing/Other","nsg progress note.","
+nsg progress note.
+[**Age over 90 **] yo russian speaking male w rll pneumonia requiring freq pulm toilet & sign o2 requirement to maint adeq sats.
+
+o:neuro=difficult to assess-russian speaking only.
+  pulm=o2 hi flow fm 15l/50% & 5l nc w sats lower 90's. breath sounds= deminished throughout w upper airway congestion. req freq nasal sxing for thick tannish secretions. strong cough, but unable to raise secretions.
+  cv=hemody stable.
+  gi=minimal po intake. very difficult to get pt to take po meds. 
+  gu=foley. overall positive i&o-8l.
+  id=afebrile. abx-vanco & levoflox. 
+  access=peripheral ivx2-placed [**12-18**] & 24.
+  labs=unable to obtain. stuck x3 w flash each x, but unable to obtain spec.
+  social=daughter spokes person-presently on vacation-?when returning. grand-daughter following [**Name2 (NI) 4976**].
+
+a:requiring freq pulm toilet to main adeq sats.
+
+P:need to address po intake, venous access, lab draws, & code status. contin present management. support as indicated.
+
+
+
+
+",,

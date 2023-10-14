@@ -1,0 +1,856 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3032-3-25**]        Discharge Date: [**3032-3-30**]
+
+Date of Birth:  [**2959-9-6**]        Sex:  M
+
+Service:  NSU
+
+
+ADDENDUM:  The patient's discharge was delayed until [**3032-3-30**].  The patient was seen by Rheumatology and had his
+right wrist and left ankle tapped for fluid.  There was no
+growth of bacteria, and the patient was put on a prednisone
+taper for gout.
+
+CONDITION ON DISCHARGE:  The patient's condition was stable
+at the time of discharge.
+
+DISCHARGE FOLLOWUP:  He will follow up with Dr. [**First Name (STitle) **] in one
+month with a repeat head CT and a repeat cervical spine
+flexion/extension films.
+
+DISCHARGE INSTRUCTIONS:  The patient should remain in a hard
+collar at all times.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 1238**]
+
+Dictated By:[**Last Name (NamePattern1) **]
+MEDQUIST36
+D:  [**3032-3-30**] 12:00:31
+T:  [**3032-3-30**] 14:18:34
+Job#:  [**Job Number 9499**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 421**] [**Last Name (NamePattern1) **]
+ on: MON [**3032-4-2**] 11:45 AM
+(End of Report)
+
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 7:18 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2513**]
+     Reason: assess placement of OG tube                                 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with      intoxication and head injury                         
+                                   
+     REASON FOR THIS EXAMINATION:
+      assess placement of OG tube                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  A 72-year-old male with intoxication and head injury.
+     Assess placement of orogastric tube.
+     
+     PORTABLE AP CHEST:
+     
+     Comparison is made to a study performed 6 hours prior.
+     
+     FINDINGS:  Endotracheal tube terminates 4 mm above the level of the carina.
+     Orogastric tube courses well below the hemidiaphragm.  There are low lung
+     volumes.  Cardiac and mediastinal contours are stable.  There is perihilar
+     fullness and interstitial prominence, suggesting underlying edema.  There are
+     more confluent opacities at the extreme lung bases, which could represent
+     alveolar edema or atelectasis.  Aspiration is an additional consideration in a
+     patient with the provided history.  There is no pneumothorax.  No fractures
+     are identified within the visualized osseous structures.
+     
+     IMPRESSION:
+     
+     1)  Satisfactory positioning of orogastric tube.
+     
+     2)  Stable volume overload.
+     
+     3)  Unchanged confluent bibasilar opacities as above.  Differential
+     considerations include dependent alveolar edema, atelectasis, or aspiration.
+     
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 1:23 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2512**]
+     Reason: traumatic sah, eval for evolution                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      traumatic sah, eval for evolution                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: FKh SUN [**3032-3-25**] 2:16 AM
+      Unchanged hemorrhage.
+      NG tube is coiled in the mouth.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old male with a traumatic subarachnoid hemorrhage.
+     
+     COMPARISON:  Comparison is made to CT of the head performed on the same day at
+     an outside hospital.  The images of the CT of the head from the outside
+     hospital were only available to the resident in the Emergency Room.
+     
+     FINDINGS:  There are again noted, several very small foci of increased density
+     in the left temporal and parietal periventricular white matter.  These
+     findings most likely represent traumatic contusions or shear injury.  There
+     is also a small amount of subarachnoid blood.
+     The foci are unchanged when compared to the prior study.  There is no evidence
+     of new hemorrhage.  There is no mass effect, shift of normally midline
+     structures, or major vascular territorial infarcts.  The [**Doctor Last Name 63**]/white matter
+     differentiation is preserved.  There is no hydrocephalus.
+     
+     Note that the NG tube is coiled in the mouth.  There is fluid in the bilateral
+     maxillary sinuses (a small amount).  There is also thickening of the mucosa of
+     the maxillary and ethmoid cells.  No fractures were seen.
+     
+     IMPRESSION
+     1.  Subarachnoid hemorrhage and small parenchymal hemorrhages are unchanged
+     when compared to the prior study.  There is no evidence of new hemorrhage.
+     2.  The NG tube is coiled in the mouth of the patient.
+     
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 2:29 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 2515**]
+     Reason: c spine fx                                                  
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with head bleed s/p fall                                        
+     REASON FOR THIS EXAMINATION:
+      c spine fx                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intracranial hemorrhage after fall.  Evaluate for cervical spine
+     fracture.
+     
+     TECHNIQUE:  Noncontrast CT of the cervical spine was obtained without
+     comparisons.
+     
+     FINDINGS:  Examination of axial images demonstrates no evidence of cervical
+     spine fracture.
+     
+     Sagittally and coronally reformatted images all demonstrate no evidence of
+     cervical spine fracture, or significant alignment abnormalities.  There is no
+     significant pervertebral soft tissue swelling.  Degenerative facet changes are
+     seen at C2-C7.  Mild changes of uncovertebral proliferation are seen at C3-4.
+     Both NG and endotracheal tube are seen.  Air-fluid levels are seen within the
+     nasal pharynx.
+     
+     IMPRESSION:  Degenerative changes.  No evidence of cervical spine fracture.
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 2:28 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2514**]
+     Reason: REEVAL SAH- 3 PM [**3-25**] please                                 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with SAH                                                        
+     REASON FOR THIS EXAMINATION:
+      REEVAL SAH- 3 PM [**3-25**] please                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Re-evaluate subarachnoid hemorrhage.
+     
+     TECHNIQUE:  Noncontrast CT of the head was obtained, compared with examination
+     performed earlier in the day.
+     
+     FINDINGS:  Foci of subarachnoid hemorrhage at the left temporal and parietal
+     lobes, as well as, at the left-sided parietal [**Doctor Last Name 63**]/white matter junction, are
+     unchanged since prior examinations.  There is no new mass effect, or shift of
+     normally midline structures, hemorrhage, or loss of [**Doctor Last Name 63**]/white matter
+     differentiation.  The extra-axial spaces appear unremarkable allowing for
+     patient age.
+     
+     No fractures are seen.  There is left-sided parietal/temporal soft tissue
+     hematoma with foci of air and varying densities, signifying blood of differing
+     chronicity.  Air-fluid levels are seen within the sphenoid and maxillary
+     sinuses, which can be seen in patient's with prolonged intubation.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 2:49 PM
+     T-SPINE; LUMBO-SACRAL SPINE (AP & LAT)                          Clip # [**Clip Number (Radiology) 2516**]
+     Reason: spinal subluxation/fx                                       
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with head bleed s/p fall                                        
+     REASON FOR THIS EXAMINATION:
+      spinal subluxation/fx                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fall.
+     
+     FINDINGS:
+     
+     Frontal view of the thoracic vertebral bodies reveals intact osseous
+     structures with normal alignment.  There is no paravertebral soft tissue
+     swelling.  The pedicles were well visualized and appear normal.
+     
+     Lateral projections are suboptimal and of little diagnostic utility.
+     
+     Additional images of the lumbar spine were obtained.  This shows the vertebral
+     bodies to be intact and normally aligned, with no evidence of paravertebral
+     soft tissue swelling.  Calcified aorta is noted.
+     
+     IMPRESSION:
+     
+     No features of fracture-dislocation, however, the lateral views of thoracic
+     spine are inadequate for diagnostic purposes.  If there is clinical suspicion
+     of thoracic vertebral body injury, CT scan is recommended.
+     
+     
+     
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 1:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2511**]
+     Reason: intubated patient transferred from outside hospital, eval fo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      intubated patient transferred from outside hospital, eval for tube position     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 72 year old male status post trauma.
+     
+     The patient was intubated at outside hospital.
+     
+     TECHNIQUE: AP single view of the chest.
+     
+     FINDINGS: The ET tube is in good position.  There is an NG tube with the tip
+     extending below the level of the radiograph.  The radiograph is limited for
+     evaluation of the chest.  There is perihilar haziness and increased
+     interstitial opacities bilaterally.  There are probably bilateral pleural
+     effusions.  These findings could represent CHF.  Followup radiograph is
+     recommended. The NG tube extends below the limits of the radiograph. It is
+     coiled in the mouth (seen on head CT).
+     
+     IMPRESSION:
+     1) Findings consistent with CHF.
+     2) The ET is in good position.  
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 2:28 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2514**]
+     Reason: REEVAL SAH- 3 PM [**3-25**] please                                 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with SAH                                                        
+     REASON FOR THIS EXAMINATION:
+      REEVAL SAH- 3 PM [**3-25**] please                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Re-evaluate subarachnoid hemorrhage.
+     
+     TECHNIQUE:  Noncontrast CT of the head was obtained, compared with examination
+     performed earlier in the day.
+     
+     FINDINGS:  Foci of subarachnoid hemorrhage at the left temporal and parietal
+     lobes, as well as, at the left-sided parietal [**Doctor Last Name 63**]/white matter junction, are
+     unchanged since prior examinations.  There is no new mass effect, or shift of
+     normally midline structures, hemorrhage, or loss of [**Doctor Last Name 63**]/white matter
+     differentiation.  The extra-axial spaces appear unremarkable allowing for
+     patient age.
+     
+     No fractures are seen.  There is left-sided parietal/temporal soft tissue
+     hematoma with foci of air and varying densities, signifying blood of differing
+     chronicity.  Air-fluid levels are seen within the sphenoid and maxillary
+     sinuses, which can be seen in patient's with prolonged intubation.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 2:49 PM
+     T-SPINE; LUMBO-SACRAL SPINE (AP & LAT)                          Clip # [**Clip Number (Radiology) 2516**]
+     Reason: spinal subluxation/fx                                       
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with head bleed s/p fall                                        
+     REASON FOR THIS EXAMINATION:
+      spinal subluxation/fx                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fall.
+     
+     FINDINGS:
+     
+     Frontal view of the thoracic vertebral bodies reveals intact osseous
+     structures with normal alignment.  There is no paravertebral soft tissue
+     swelling.  The pedicles were well visualized and appear normal.
+     
+     Lateral projections are suboptimal and of little diagnostic utility.
+     
+     Additional images of the lumbar spine were obtained.  This shows the vertebral
+     bodies to be intact and normally aligned, with no evidence of paravertebral
+     soft tissue swelling.  Calcified aorta is noted.
+     
+     IMPRESSION:
+     
+     No features of fracture-dislocation, however, the lateral views of thoracic
+     spine are inadequate for diagnostic purposes.  If there is clinical suspicion
+     of thoracic vertebral body injury, CT scan is recommended.
+     
+     
+     
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 2:29 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 2515**]
+     Reason: c spine fx                                                  
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with head bleed s/p fall                                        
+     REASON FOR THIS EXAMINATION:
+      c spine fx                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intracranial hemorrhage after fall.  Evaluate for cervical spine
+     fracture.
+     
+     TECHNIQUE:  Noncontrast CT of the cervical spine was obtained without
+     comparisons.
+     
+     FINDINGS:  Examination of axial images demonstrates no evidence of cervical
+     spine fracture.
+     
+     Sagittally and coronally reformatted images all demonstrate no evidence of
+     cervical spine fracture, or significant alignment abnormalities.  There is no
+     significant pervertebral soft tissue swelling.  Degenerative facet changes are
+     seen at C2-C7.  Mild changes of uncovertebral proliferation are seen at C3-4.
+     Both NG and endotracheal tube are seen.  Air-fluid levels are seen within the
+     nasal pharynx.
+     
+     IMPRESSION:  Degenerative changes.  No evidence of cervical spine fracture.
+
+",,
+13675,28781,,,3032-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-25**] 7:18 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2513**]
+     Reason: assess placement of OG tube                                 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with      intoxication and head injury                         
+                                   
+     REASON FOR THIS EXAMINATION:
+      assess placement of OG tube                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  A 72-year-old male with intoxication and head injury.
+     Assess placement of orogastric tube.
+     
+     PORTABLE AP CHEST:
+     
+     Comparison is made to a study performed 6 hours prior.
+     
+     FINDINGS:  Endotracheal tube terminates 4 mm above the level of the carina.
+     Orogastric tube courses well below the hemidiaphragm.  There are low lung
+     volumes.  Cardiac and mediastinal contours are stable.  There is perihilar
+     fullness and interstitial prominence, suggesting underlying edema.  There are
+     more confluent opacities at the extreme lung bases, which could represent
+     alveolar edema or atelectasis.  Aspiration is an additional consideration in a
+     patient with the provided history.  There is no pneumothorax.  No fractures
+     are identified within the visualized osseous structures.
+     
+     IMPRESSION:
+     
+     1)  Satisfactory positioning of orogastric tube.
+     
+     2)  Stable volume overload.
+     
+     3)  Unchanged confluent bibasilar opacities as above.  Differential
+     considerations include dependent alveolar edema, atelectasis, or aspiration.
+     
+
+",,
+13675,28781,17029,0,3032-03-25 17:23:00 EST,3032-03-25 18:36:00 EST,4205,"N",54,"Nursing/Other","TSICU Admission Note","
+TSICU Admission Note
+Pt is 72y.o. male who fell backwards, striking back of head on curb of sidewalk.  Responding only to pain when arrived at Addison Hospital. Given narcan with no effect.  Intubated for airway protection.  ETOH 298. Also + for benzos, amphetamines and marijuana.  CT scan showed L SAH. Transferred to [**Hospital1 10**] for further management.  
+
+PMH includes Pulmonary fibrosis, asthma, HTN, CAD, GERD, ETOH abuse, polysubstance abuse.  NKDA.  
+
+Received pt to ICU on propofol drip for sedation, full vent support, v/s stable. Propofol drip stopped for baseline neuro exam--moving all extremites, following simple commands. Resedated. Aline placed with goal SBP established at <160---no intervention needed to meet this goal.  Taken for repeat CT head, CT  C-spine, TLS films this afternoon. Weaned to PS after films. Plan to keep sedated overnight. Hopeful extubation tomorrow.
+
+REVIEW of SYSTEMS:
+
+Neuro....Sedated on propofol drip. Easier to sedate earlier in shift. Once back from CT and placed on CPAP, pt requiring increasing doses of propofol to keep down--more restless, trying to sit up in bed, attempting to grab ETT. Currently up to 100mcg/kg/min.  Dr. [**Last Name (STitle) 794**] aware. Takes Ativan at home--started on ativan around the clock  at 1745.  Arouses to voice, follows simple commands fairly consistently, i.e. show me tounge, squeeze hand, wiggle toes. Pupils equal and reactive--2-3mm.  Moving all extremites equally, very strong and purposeful.  Per Dr. [**Last Name (STitle) 794**], CT of head done this afternoon, unchanged from admission CT.  CT spine and TLS films pending. Remains logroll.  
+
+CV....NSR with no ectopy noted. HR 60-80's. Goal SBP <160. Easily attainable this am.  BP elevated this afternoon with increased restlessness/agiation.  See careview for specific trends. Still running <160.  LR at 125cc/hr.  
+
+RESP...Stable ABG on CMV 600x16 peep5/60%.  Changed to PS 5/12/40% this afternoon. O2 sats 100%. RR elevated though, 30's.  Changed back to IMV at 1830.  Lung fields clear throughout.  Suctioning small amts of thick, yellow secretions.  
+
+GI....NPO.  OGT to LCWS with small amts bilious drg.  Abd softly soft with hypoactive BS.  Pepcid coverage started.
+
+GU...Adequate urine per foley cath.  Yellow, cloudy with some occasional sediment.  Mag repleted this am.  
+
+ID....Tmax 99.6. No abx coverage.
+
+HEME...Pneumo boots applied. HCT stable.  No subq heparin at this time.
+
+ENDO...No coverage needed per RISS.  
+
+SKIN....Abrasion to L occiput--mild swelling and small amt of serosang drg. Cleaned with NS.  Small, soft bump R forehead--?source. Backside intact. NO other skin issues.
+
+SOCIAL....NO family contact. ED reports no family contact also. Will need to get SW involved tomorrow.  $427 found in pants pocket. Sent to security to lock up.
+",,
+13675,28781,17029,0,3032-03-25 18:21:00 EST,3032-03-25 18:24:00 EST,5251,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on full vent support. PSV trial attempted this PM, but pt agitated and difficult to medicate.  See resp flowsheet for specific vent data/changes.  BLBS slightly coarse, suctioned for small amounts of thick white sputum.  SpO2 remained 90s. Traveled to and from Radiology w/out incident for head CT, and T&L films.  ETT secure/patent.
+
+Plan: maintain support; wean to extubate as tolerated
+",,
+13675,28781,17029,,3032-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-26**] 5:32 PM
+     [**Last Name (un) 7**] SP,SINGLE FILM                                             Clip # [**Clip Number (Radiology) 2517**]
+     Reason: ? fracture                                                  
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with head bleed s/p fall                                       
+       
+     REASON FOR THIS EXAMINATION:
+      ? fracture                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Head bleed, status post fall.
+     
+     COMPARISON:  One day previously.
+     
+     T-SPINE TWO VIEWS:  Two lateral views of the thoracic spine are obtained
+     visualizing from approximately T6 to L4. They are slightly limited secondary
+     to patient positioning/disability. The upper thoracic spine above T6 is not
+     seen. No definite fractures are identified. There is mild degenerative change
+     with osteophyte formation.  Note is made of calcification of the aorta.
+     
+     IMPRESSION:  Limited study.  No evidence of fracture or dislocation.
+
+",,
+13675,28781,17029,0,3032-03-26 05:02:00 EST,3032-03-26 05:14:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+ROS:
+
+Neuro: On propofol 125mcg/kg/min. Litend q hr for neuro assessment. Remains calm and cooperative during assessments. MAE x's 4 to command. Squeezes and releases hands, and wiggles toes to command. Can raise thumb and index finger to command. Mouths words and nods head to questions asked. PEARRLA. Log role precautions maintained. [**Location (un) 14**] J collar on. Valium 5 mg q 4 hr.
+
+CV: RSR->SB w/o ectopy, S1S2. VSS, see flow record for details. Has left radial ABP line. No central line access, all peripheral ivs.  Peripheral pulses palpable w/ease.  P boots on prophylacticly.
+
+Resp: Remains orally intubated and on vent, SIMV 16, Peep 5, PS 5, 40%. Lung sounds clear. Sx thick clear spit via ETT. No resp distress noted, = rise and fall of chest.
+
+GI: Oral [**Hospital1 16**] sumpt to LCS draining bile fluid in large amt.  See flow record for exact cc. Abd soft w/hypoactive BS thoughout abd. On Pepcid prophylacticly.
+
+GU: Foley patent draining green urine (on propofol) in QS.
+
+ID: Tmax 99.5.  No ATB coverage at this time.
+
+Labs: Mag 1.8, repleted w/2gm Mgso4. Repeat Mag 2.2. IC 1.08, repleted w/2 GM Ca Gluconate.
+
+Social: No family or friend contact this shift. When asked if he wants us to contact anyone he shakes his head ""NO"".
+
+Plan: Wean propofol and vent and extubate. Have spine films read to clear spine. Begin mobilization once spine cleared. Continue to support and monitor.
+",,
+13675,28781,17029,0,3032-03-26 18:25:00 EST,3032-03-26 18:26:00 EST,4000,"N",54,"Nursing/Other","resp.care","
+resp.care
+patient remains intubated/vented/sedated. pt. become aggitated
+when sedation off. follows commands. transported to plain films
+to clear spine, then plan to extubate. see careview for more.
+",,
+13675,28781,17029,0,3032-03-26 18:33:00 EST,3032-03-26 18:48:00 EST,4450,"N",54,"Nursing/Other","nursing progress note","
+nursing progress note
+neuro: pt sedated, lightened for most neuro exams. pt awakens quickly, becomes very agitated, thrashing in bed, attempting to get OOB. opens eyes to voice, follows commands. moving x4, normal strength. nods and shakes head to ques. valium dosing atc for suspected etoh withdrawl. cervical collar remains in place, official read negative for fx. tls not cleared d/t inadequate thoracic views, repeat films done this pm, official read pending.
+
+resp: remains on simv mode, 40%,600x16,5,5. tol well, sx for thick yellow secretions often. o2 sats stable. ls clear bilat and to bases. rr teens to 20s. note intermittent air leak to ett cuff, adjusted prn. with pilot capped off, no further leak noted.
+
+cv: bp stable when sedated, hyperdynamic with propofol off. nsr, no ectope noted, rate 60s-80s. no edema, ppp bilat. hands cool to touch. a line positional, patent.
+
+gi: belly soft, nt/nd. large amt bilious output continues from og this am, og d/c'd in prep. for extubation, ng placed in left nare. placement verified. bs hypoactive. no bm, no flatus.
+
+gu: foley patent for green clear urine, occas. mucus shreds noted to urine, autodiuresing well.
+
+id: tmax 99 today, wbc stable from this am.
+
+endo: bg's stable, no coverage per riss.
+
+skin: abrasion behind left ear draining sm amts serosang drainage, area cleansed w/ soap and water, ota. no further skin issues.
+
+social: no family contact since admission.
+
+a/p: pt s/p fall, sah w/ small intraparenchymal bleeding noted. neuro exam stable without sedation. pt remains on propofol and valium dosing d/t agitation/suspected dtz sx, remains on spine precautions as per trauma protocol. plan for clearance tls spines, d/c logroll, stop sedation and extubate in am.
+",,
+13675,28781,17029,,3032-03-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-27**] 3:59 PM
+     KNEE (2 VIEWS) RIGHT; -59 DISTINCT PROCEDURAL SERVICE           Clip # [**Clip Number (Radiology) 2519**]
+     Reason: Please evaluate right knee for fracture, dislocation, joint 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p fall with a small subarachnoid hemorrhage.  Now extubated 
+      and complaining of right knee pain.  No h/o arthritis.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate right knee for fracture, dislocation, joint effusion.           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Right knee pain.
+     
+     RIGHT KNEE AP AND LATERAL ON [**3032-3-27**]:  Vascular calcifications are present.
+     There is no fracture or dislocation.  There is spurring of the tibial spine. A
+     small joint effusion.  Traction enthesophytes present in the quadriceps and
+     patellar tendons.
+     
+     IMPRESSION:  Small joint effusion.  No evidence of fracture or dislocation.
+
+",,
+13675,28781,17029,,3032-03-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-27**] 3:59 PM
+     KNEE (2 VIEWS) RIGHT; -59 DISTINCT PROCEDURAL SERVICE           Clip # [**Clip Number (Radiology) 2519**]
+     Reason: Please evaluate right knee for fracture, dislocation, joint 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p fall with a small subarachnoid hemorrhage.  Now extubated 
+      and complaining of right knee pain.  No h/o arthritis.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate right knee for fracture, dislocation, joint effusion.           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Right knee pain.
+     
+     RIGHT KNEE AP AND LATERAL ON [**3032-3-27**]:  Vascular calcifications are present.
+     There is no fracture or dislocation.  There is spurring of the tibial spine. A
+     small joint effusion.  Traction enthesophytes present in the quadriceps and
+     patellar tendons.
+     
+     IMPRESSION:  Small joint effusion.  No evidence of fracture or dislocation.
+
+",,
+13675,28781,17029,,3032-03-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-27**] 10:56 AM
+     KNEE 2 VIEW PORTABLE RIGHT                                      Clip # [**Clip Number (Radiology) 2518**]
+     Reason: Please rule out fracture and dislocation.                   
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o gout, s/p fall and subarachnoid hemorrhage.            
+     REASON FOR THIS EXAMINATION:
+      Please rule out fracture and dislocation.                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post fall.  History of gout.  Rule out fracture.
+     
+     Right knee portable AP and lateral on [**3032-3-27**]; there is no joint effusion.
+     Vascular calcifications are present.  Bones are slightly demineralized.  No
+     fracture or dislocation identified.
+     
+     IMPRESSION:  No acute bony injury.
+
+",,
+13675,28781,17029,0,3032-03-27 06:21:00 EST,3032-03-27 06:33:00 EST,4330,"N",54,"Nursing/Other",,"
+
+
+Significant events this shift: Extubated, OOB into chair.
+
+ROS:
+
+Neuro: Alert oriented x's 2. Does not remember what happend to him. Speech thick and at times difficult to understand. MAE's x's 4. Follows all commands. Restless, figity, almost to the point of being agitated. Unable to verbally que down. PEARRLA. Valium 5 mg q 4 hr ATC. Reports taking ativan as home med.
+
+CV: RSR w/o ectopy. S1S2. HTN when restless/agitated, bp returns to baseline when calms. Has left radial abp line. Peripheral iv's. No pitting edema noted. Peripharal pulses palpable w/ease. P boots and sq heparin prophylacticly.
+
+Resp: Extubated and weaned to 2 L np. Sats 98-99%. Lung sounds clear. No resp distress noted, = rise and fall of chest.
+
+GI: [**Hospital1 **] sump via left nare to LCWS draining bile in large amt. Abd soft w/active bs thoughout. On H2 blocker prophylacticly.
+
+GU: Foley patent draining green to bloody urine w/shreads at times. Was pulling on foley when in chair.  Bloody urine clearing towards AM.
+
+ID: Tmax 99.4. NO ATB coverage at this time.
+
+Endo.  FSG not requiring coverage from RSSI.
+
+Labs: Mag 1.4 repleted w/4 gm MgSo4. K 3.7, repleted w/40 KCL
+
+Social: No contact from friends or family
+
+Plan: Continue to mobilize, monitor, support. Transfer to floor bed.
+
+
+",,
+13675,28781,17029,0,3032-03-27 11:55:00 EST,3032-03-27 11:59:00 EST,4450,"N",54,"Nursing/Other","nursing progress note","
+nursing progress note
+addendum to full transfer note:
+
+Pt c/o severe joint pain this am, esp. to right knee. Knee warm to touch, swollen, very tender to touch. XR completed this am to knee. Pt states hx gout, uric acid level pending. pt oob to chair with PT staff, gait very unsteady, weak d/t pain. neuro status remains stable, oriented x2. conversation appropriate. ng d/c'd this am, pt tol clears at present.  pt ready for transfer to floor when bed available.
+",,
+13675,28781,,,3032-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-28**] 1:57 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2521**]
+     Reason: Please evaluate for infiltrate.  Patient was intubated over 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man s/p fall, small subarachnoid hemorrhage, stable.  Now 
+      spiking fevers. s/p intubation.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate.  Patient was intubated over the weekend and has 
+      endstage pulmonary fibrosis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP SUPINE CHEST, 2:35 P.M. ON [**3-28**].
+     
+     INDICATION:  Fevers.  Status post intubation.  Evaluate for infiltrate.
+     
+     FINDINGS:  Compared with 12:15 A.M. the same day.  There is increase in size
+     and consolidation of the right lower lobe infiltrate.  The left lung remains
+     grossly clear.
+
+",,
+13675,28781,,,3032-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-28**] 1:57 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2521**]
+     Reason: Please evaluate for infiltrate.  Patient was intubated over 
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man s/p fall, small subarachnoid hemorrhage, stable.  Now 
+      spiking fevers. s/p intubation.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate.  Patient was intubated over the weekend and has 
+      endstage pulmonary fibrosis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP SUPINE CHEST, 2:35 P.M. ON [**3-28**].
+     
+     INDICATION:  Fevers.  Status post intubation.  Evaluate for infiltrate.
+     
+     FINDINGS:  Compared with 12:15 A.M. the same day.  There is increase in size
+     and consolidation of the right lower lobe infiltrate.  The left lung remains
+     grossly clear.
+
+",,
+13675,28781,,,3032-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-28**] 3:16 PM
+     WRIST(3 + VIEWS) BILAT                                          Clip # [**Clip Number (Radiology) 2522**]
+     Reason: Please r/o fracture, dislocation.                           
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o gout, now with bilateral wrist pain.  Also s/p fall.   
+     REASON FOR THIS EXAMINATION:
+      Please r/o fracture, dislocation.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of gout, now with bilateral wrist pain.
+     
+     Rule out fracture or dislocation.
+     
+     RIGHT WRIST, 2 VIEWS AND LEFT WRIST, 2 VIEWS:  The technologist notes that the
+     patient refused remaining x-rays due to pain and that the ordering physician,
+     [**Last Name (NamePattern4) 527**]. [**Last Name (STitle) 629**], was notified.
+     
+     No localizing history is available.
+     
+     RIGHT WRIST, 2 VIEWS:  Only the AP and oblique views were obtained.  No
+     lateral view was obtained.  Bony detail is mildly limited by the overlying
+     patient ID band.  Allowing for this, no fracture line or deformity to suggest
+     fracture is identified.  There does appear to be considerable soft tissue
+     swelling about the wrist.  No definite erosions.  Probable small cyst in the
+     hamate adjacent to the carpometacarpal joint.  Moderate degenerative narrowing
+     and spurring about the first CMC joint.
+     
+     LEFT WRIST, 2 VWS:  On the left, AP and lateral views were obtained.  No
+     obvious fracture is detected.  There is moderate narrowing at the first CMC
+     joint.  No erosions are detected.
+     
+     
+     IMPRESSION: Limited exam. No obvious fracture or erosion. Soft tissue
+     swelling. 
+
+",,
+13675,28781,,,3032-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-28**] 3:17 PM
+     FOOT AP,LAT & OBL BILAT; ANKLE (AP, MORTISE & LAT) BILAT        Clip # [**Clip Number (Radiology) 2523**]
+     Reason: please r/o fracture, dislocation.                           
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o gout, now with bilateral feet/ankle pain.  Also s/p 
+      fall.
+     REASON FOR THIS EXAMINATION:
+      please r/o fracture, dislocation.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Gout, now with bilateral foot and ankle pain.  Status post fall,
+     rule out fracture or dislocation.
+     
+     Right foot, three views.  Left foot, two views.  Left ankle, two views.  No
+     lateral view of the left ankle was obtained.  The technologist notes that the
+     patient refused additional images.
+     
+     No localizing history is provided.
+     
+     RIGHT FOOT:  No true AP view is available.  There is severe diffuse
+     osteopenia. No obvious fractures or erosions are identified, though a subtle
+     fracture might not be evident on the available views. Similarly, it is
+     somewhat difficult to assess for subtle erosion.  There are posterior and
+     inferior calcaneal spurs. aspects of the calcaneus.   Small ossicle seen about
+     the distal tibia posteriorly.
+     
+     LEFT FOOT:  There is severe hallux valgus deformity, with narrowing of the MTP
+     joint and spurring and a bony bunion.  There is diffuse osteopenia.  No
+     fractures identified.
+     
+     LEFT ANKLE:  No lateral view obtained.  There is enthesiophytic spurring about
+     the medial and lateral malleoli.  A small ossicle projects over the medial
+     aspect of the mortise joint.  No fracture or dislocation is detected on the
+     views available.  No gouty erosions are identified.  Some bony buttressing is
+     present medially, nonaggressive in appearance.
+     
+     IMPRESSION:  Limited exam.  No acute fracture.  If clinical suspicion for
+     fracture remains high, then targeted views of the area of interest may help
+     for further assessment.  Diffuse osteopenia.  No findings to support gout.
+     Multifocal enthesiophytic spurring, which can be seen in the setting of
+     spondyloarthropathy or could be an isolated finding.
+     
+
+",,
+13675,28781,,,3032-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-28**] 3:17 PM
+     FOOT AP,LAT & OBL BILAT; ANKLE (AP, MORTISE & LAT) BILAT        Clip # [**Clip Number (Radiology) 2523**]
+     Reason: please r/o fracture, dislocation.                           
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o gout, now with bilateral feet/ankle pain.  Also s/p 
+      fall.
+     REASON FOR THIS EXAMINATION:
+      please r/o fracture, dislocation.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Gout, now with bilateral foot and ankle pain.  Status post fall,
+     rule out fracture or dislocation.
+     
+     Right foot, three views.  Left foot, two views.  Left ankle, two views.  No
+     lateral view of the left ankle was obtained.  The technologist notes that the
+     patient refused additional images.
+     
+     No localizing history is provided.
+     
+     RIGHT FOOT:  No true AP view is available.  There is severe diffuse
+     osteopenia. No obvious fractures or erosions are identified, though a subtle
+     fracture might not be evident on the available views. Similarly, it is
+     somewhat difficult to assess for subtle erosion.  There are posterior and
+     inferior calcaneal spurs. aspects of the calcaneus.   Small ossicle seen about
+     the distal tibia posteriorly.
+     
+     LEFT FOOT:  There is severe hallux valgus deformity, with narrowing of the MTP
+     joint and spurring and a bony bunion.  There is diffuse osteopenia.  No
+     fractures identified.
+     
+     LEFT ANKLE:  No lateral view obtained.  There is enthesiophytic spurring about
+     the medial and lateral malleoli.  A small ossicle projects over the medial
+     aspect of the mortise joint.  No fracture or dislocation is detected on the
+     views available.  No gouty erosions are identified.  Some bony buttressing is
+     present medially, nonaggressive in appearance.
+     
+     IMPRESSION:  Limited exam.  No acute fracture.  If clinical suspicion for
+     fracture remains high, then targeted views of the area of interest may help
+     for further assessment.  Diffuse osteopenia.  No findings to support gout.
+     Multifocal enthesiophytic spurring, which can be seen in the setting of
+     spondyloarthropathy or could be an isolated finding.
+     
+
+",,
+13675,28781,,,3032-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-3-28**] 12:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2520**]
+     Reason: fever, eval for infec                                       
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old man with      intoxication and head injury                        
+                                     
+     REASON FOR THIS EXAMINATION:
+      fever, eval for infec                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 72-year-old man with intoxication, head injury, and fever.
+     
+     Portable AP view of the chest dated [**3032-3-28**] is compared with the
+     portable AP chest x-rays of [**3-25**] at 7:26 a.m. and 1:01 a.m.  The patient
+     has been extubated.  The NG tube has been removed.  The lungs show improved
+     inflation.  There has been interval improvement in the appearance of the
+     bilateral basilar atelectasis or possible consolidation.  Pulmonary
+     vasculature is normal.  The mediastinal and cardiac silhouettes have not
+     changed significantly.
+     
+     IMPRESSION: Bilateral atelectasis and possible consolidation have improved.
+     No acute cardiopulmonary process.  No CHF.
+
+",,

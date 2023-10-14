@@ -1,0 +1,486 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13693,11279,,,2613-04-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2613-4-14**]              Discharge Date:   [**2613-4-26**]
+ 
+Date of Birth:  [**2525-5-6**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Pneumovax 23
+ 
+Attending:[**First Name3 (LF) 1536**] 
+Chief Complaint:
+Bright Red Blood Per Rectum
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy
+
+ 
+History of Present Illness:
+Source: History obtained through interpretor and patient's 
+daughter.  
+ 
+HPI: 87 yo Cantonese speaking F, NH resident with PMHx of AFib 
+with LV mural thrombus on coumadin admitted with BRBPR. Pt was 
+at baseline when was found to have BRB in diaper in the 
+afternoon on the day of admission. The bleeding was first noted 
+at 16:30 and the patient soaked 4 diapers in the course of 1.5 
+hours.  
+  
+In triage in the ED 99.0 79 122/71 16 98% RA. Throughout ED 
+time, patient was HD stable, HR 104-110 in a. fib, BP 
+119-140/49-88. Seen to have clots passing from rectum. Tried NG 
+lavage in ED but not successful due to patient non-cooperation. 
+Hct was stable at baseline of 32, INR 3.7. Patient received 5mg 
+SC vitamin K and 1 unit FFP as well as pantoprazole 40mg IV.  
+
+ 
+Past Medical History:
+1. Chronic renal insuffeciency- Past creatinine range from 1.6 
+to 2.2.  
+2. CHF- Last echo was 08/2000. At that time, LVEF of 55 to 60%. 
+Moderate aortic regurg. Moderate pulmonary arterial systolic 
+hypertension.  
+3. Depression  
+4. Dementia  
+5. HTN  
+6. S/P CVA in [**11/2609**] with resultant left sided weakness  
+7. LV thrombus anticoagulated with coumadin  
+8. S/P left hip fracture in [**4-/2610**] following a fall  
+9. Atrial fib- Anticoagulated on coumadin.  
+
+ 
+Social History:
+lives at [**Location 255**], Cantonese speaking, family involved
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+97.9 100 129/67 20 98% RA  
+Gen: Alert. Following commands.  
+HEENT: PERRL. Pink, moist oral mucosa without lesions.  
+CV: Irregularly irregular. No M/R/G.  
+Pulm: CTAB. No wheezes, rales, or rhonchi.  
+Abd: Soft, NT, ND. Positive bowel sounds.  
+Rectal: No active bleeding. Fresh blood. Large clot on the bed. 
+No lesions.  
+Ext: No lower extremity edema.  
+
+ 
+Pertinent Results:
+[**2613-4-21**] 06:40AM BLOOD TSH-0.65
+[**2613-4-21**] 06:40AM BLOOD VitB12-1914* Folate-9.9
+[**2613-4-14**] 07:00PM BLOOD ALT-20 AST-18 AlkPhos-115 TotBili-0.6
+[**2613-4-14**] 07:00PM BLOOD Glucose-107* UreaN-39* Creat-1.6* Na-138 
+K-5.0 Cl-104 HCO3-25 AnGap-14
+[**2613-4-26**] 06:10AM BLOOD UreaN-11 Creat-1.2*
+[**2613-4-14**] 07:00PM BLOOD PT-34.0* PTT-40.0* INR(PT)-3.7*
+[**2613-4-19**] 09:00PM BLOOD PT-16.2* PTT-150* INR(PT)-1.5*
+[**2613-4-26**] 06:10AM BLOOD PT-32.6* PTT-46.9* INR(PT)-3.5*
+[**2613-4-14**] 07:00PM BLOOD WBC-14.7* RBC-3.55* Hgb-11.1* Hct-32.6* 
+MCV-92 MCH-31.2 MCHC-33.9 RDW-14.1 Plt Ct-328
+[**2613-4-15**] 12:18AM BLOOD WBC-12.4* RBC-3.01* Hgb-9.2* Hct-28.5* 
+MCV-95 MCH-30.5 MCHC-32.2 RDW-13.7 Plt Ct-307
+[**2613-4-18**] 09:30PM BLOOD Hct-27.5*
+[**2613-4-26**] 06:10AM BLOOD WBC-5.9 RBC-3.08* Hgb-9.5* Hct-29.5* 
+MCV-96 MCH-30.8 MCHC-32.1 RDW-16.6* Plt Ct-348
+[**2613-4-23**] 11:48PM URINE RBC-14* WBC->1000* Bacteri-MOD Yeast-NONE 
+Epi-<1
+[**2613-4-23**] 11:48PM URINE Blood-MOD Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+.
+Urine Cx:
+ **FINAL REPORT [**2613-4-24**]**
+
+   URINE CULTURE (Final [**2613-4-23**]): 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >100,000 
+ORGANISMS/ML.. 
+         OXACILLIN Sensitivity testing performed by Sensititre. 
+         COAG NEG STAPH does NOT require contact precautions, 
+regardless of
+         resistance Oxacillin RESISTANT Staphylococci MUST be 
+reported as
+         also RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    10,000-100,000 
+ORGANISMS/ML.. 
+         2ND MORPHOLOGY. 
+         OXACILLIN Sensitivity testing performed by Sensititre. 
+         COAG NEG STAPH does NOT require contact precautions, 
+regardless of
+         resistance Oxacillin RESISTANT Staphylococci MUST be 
+reported as
+         also RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |          STAPHYLOCOCCUS, 
+COAGULASE NEGATIVE
+                             |          |   
+GENTAMICIN------------ <=0.5 S    <=0.5 S
+LEVOFLOXACIN----------   =>8 R      =>8 R
+NITROFURANTOIN--------   256 R      128 R
+OXACILLIN-------------     1 R        1 R
+PENICILLIN------------  0.25 R     0.25 R
+VANCOMYCIN------------   <=1 S      <=1 S
+.
+EF >60%
+The left atrium is normal in size. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is normal 
+(LVEF>55%). Right ventricular chamber size and free wall motion 
+are normal. The ascending aorta is mildly dilated. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. There is no aortic valve stenosis. Mild to moderate 
+([**11-24**]+) aortic regurgitation is seen. The mitral valve leaflets 
+are mildly thickened. Mild (1+) mitral regurgitation is seen. 
+The tricuspid valve leaflets are mildly thickened. Moderate [2+] 
+tricuspid regurgitation is seen. The tricuspid regurgitation jet 
+is eccentric and may be underestimated. There is mild pulmonary 
+artery systolic hypertension. There is a trivial/physiologic 
+pericardial effusion.  
+.
+Colonoscopy
+Multiple diverticula with mixed openings were seen in the 
+ascending colon, transverse colon, descending colon and sigmoid 
+colon. Diverticulosis appeared to be of moderate severity. There 
+were two small, ulcerated diverticula in the sigmoid colon and 
+one large diverticulum with a large clot over it. The clot could 
+not be flushed off, but was able to be partially dislodged. 
+There was active bleeding from the diverticulum after the clot 
+was removed. 4 injections of 1-2 cc. of isotonic saline solution 
+injections were applied for hemostasis with some success and 
+decreased bleeding. Two endoclips were applied to the large, 
+bleeding diverticulum for hemostasis with success. This 
+diverticulum was located at 32 cm and the other two diverticula 
+with ulceration were located at 35 cm.  
+.
+Impression: External hemorrhoids
+Blood in the sigmoid colon, descending colon, splenic flexure 
+and rectum
+Diverticulosis of the ascending colon, transverse colon, 
+descending colon and sigmoid colon (injection, ligation)
+Stool in the whole colon
+Otherwise normal colonoscopy to cecum 
+
+ 
+Brief Hospital Course:
+# BRBPR: Hematochezia due to bleeding diverticuli, s/p injection 
+and ligation during colonoscopy on [**2613-4-16**]. Did not require 
+blood transfusion. Challenged with heparin gtt in house and 
+hematocrit remained stable. Thus, coumadin restarted. Patient 
+completed 10 days cipro/flagyl for presumed underlying 
+diverticulitis.  
+.  
+# Coagulase negative staph UTI: Dirty urinalysis. Urine culture 
+grew oxacillin-resistant coagulase negative staph. PICC placed 
+to complete 7 day course of vancomycin (given CrCl, will only 
+need doses on [**4-27**] and [**4-29**]). Blood cultures remain no growth to 
+date.  
+.  
+# Atrial fibrillation: On coumadin and beta blocker. Would 
+restart coumadin once INR 2-2.5 (was rising on antibiotics).  
+.  
+# CRI: At baseline creatinine. NO issues.  
+.  
+# Dementia: Stable. NO issues.  
+.  
+# HTN: Controlled w/ BB alone (Toprol XL 25). Have not yet 
+restarted nitrate/norvasc.  Can be restarted prn at long-term 
+care facility.
+
+ 
+Medications on Admission:
+Senna 8.6mg QHS  
+Mirtazapine 30mg QHS  
+Trazodone 50mg QHS  
+Metoprolol 50mg QAM, 25mg QPM  
+Warfarin 1 vs. 1.5mg QHS  
+Norvasc 10mg QD  
+Omeprazole 20mg QD  
+Isosorbide Mononitrate 30mg QD  
+Docusate liquid 150mg/15ml given 10ml BID 
+
+ 
+Discharge Medications:
+1. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) Gram 
+Intravenous Q48H (every 48 hours) for 4 days: Please 1 gm of 
+Vancomycin on Tuesday [**4-27**] and Thursday [**4-29**] then stop.  
+2. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+3. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+4. Mirtazapine 15 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+5. Colace 50 mg/5 mL Liquid Sig: Ten (10) ml PO twice a day.  
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for constipation.  
+8. Coumadin 1 mg Tablet Sig: One (1) Tablet PO once a day: 
+Resume previous dose; restart when INR <2.5.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 310**] Healthcare Center
+ 
+Discharge Diagnosis:
+Diverticular Bleed s/p Clipping
+Diverticulitis
+Coagulase Negative Staph UTI
+
+Secondary Diagnoses
+Atrial Fibrillation
+Chronic Kidney Disease
+Dementia
+Depression
+HTN
+h/o LV thrombus
+h/o CVA
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please contact Dr. [**Last Name (STitle) 1345**] should [**Doctor First Name **] develop any fevers, 
+chills, sweats, blood in your stools, black stools, nausea, 
+vomiting, or any other complaints.
+ 
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 1345**] within 1-2 weeks.
+
+ 
+                             [**Name6 (MD) 296**] [**Last Name (NamePattern4) 1545**] MD [**MD Number 1546**]
+ 
+Completed by: [**Name6 (MD) 296**] [**Last Name (NamePattern4) 1545**] MD [**MD Number 1546**] [**2613-4-26**] @ 1740
+Signed electronically by: DR. [**First Name8 (NamePattern2) 296**] [**Name (STitle) **]
+ on: WED [**2613-5-5**] 2:09 PM
+(End of Report)
+
+
+",,
+13693,11279,17049,,2613-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2613-4-15**] 6:15 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 2680**]
+     Reason: assess for NG tube placement                                
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old woman with GI bleeding, now s/p NG tube replacement                
+                                  
+     REASON FOR THIS EXAMINATION:
+      assess for NG tube placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with GI bleeding.  Please assess NG tube
+     placement.
+     	
+     Comparison is made to the prior study done three hours earlier.
+     
+     FINDINGS:  The heart and mediastinal and hilar contours are stable.  The lungs
+     are clear .  The NG tube side port is projecting at the level of the
+     diaphragm. Small left-sided pleural effusion is unchanged.
+     
+     IMPRESSION:
+     1. Stable appearance of the chest.
+     2. NG tube tip is projecting at the level of the diaphragm and needs to be
+     advanced.
+     3. Small left-sided pleural effusion, unchanged.
+     
+     These findings were discussed with Dr [**Last Name (STitle) 2681**] at the time of dictation.
+
+",,
+13693,11279,17049,0,2613-04-15 05:07:00 EST,2613-04-15 05:32:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+PT WAS ADM FROM NH WHERE SHE WAS FOUND WITH BRBPR IN DIAPER. WITHIN 1.5 HOURS PT FILLED 4 MORE DIAPERS. IN EW PT PASSED MORE BLOOD WITH HCT OF 34 INR 3.7 PT WAS GIVEN VIT K 5MG SQ AND 2 UNITS OF FFP. AT MN HCT 28.5 WITH INR OF 1.8. THIS AM HCT 28.1 INR PENDING. PT IS ONLY CANTONESE SPEAKING AND DAUGHTER SPEAKS VERY LITTLE ENGLISH. DURING THE NIGHT AN INTERPITER WAS CALLED BUT WAS NO REAL HELP.
+
+CV: B/P HAS RANGED FROM 109/65-156/89. AFIB WITH HR RANGING FROM 91-119 WITH AN OCC BURST INTO THE 150-160 RANGE. RESOLVED WITHOUT INTERVENTION WITHIN A MINUTE. DOPPLER PULSE L PEDAL, RIGHT PALPABLE.
+
+NEURO: UNABLE TO DETERMINE. PT SPEAKS NO ENGLISH AND THIS NURSE SPEAKS NO CANTONESE. DAUGHTER DID NOT STAY AFTER PT ARRIVED. THE INTERPETER WHICH SPOKE TO THE MD WAS NOT HELP TO DETERMINE IF PT ABLE TO COMMUNICATE.
+
+RESP: LUNGS REMAINED CLEAR THROUGHOUT. WHEN PT HAD EPISODES OF INCREASED HR O2 WAS PLACED ON PT BUT PT CONT TO PULL CANNULA OFF. SAO2 97-100% ON R/A. RR 14-28.
+
+GU: FOLEY CATH WAS PLACED IN PT WITH NO DIFFICULTY. URINE SENT TO LAB AS URINE WAS WITH LG AMT OF SEDIMENT. PT CONT TO PULL AT FOLEY AND SEVERAL SM CLOTS NOTED. FOLEY REMOVED AS PT WAS INCREASINGLY AGGITATED.
+
+GI: ABD SOFT. UNABLE TO DETERMINE IF PT HAS PAIN. PT PASSED SEVERAL SM AMTS OF MELANA BUT ALSO A SM BROWN STOOL. HAS REMAINED NPO.
+
+PLAN: CONT TO MONITOR HCT AND INR. PROVIDE BLOOD PRODUCTS AS NEEDED. HAVE A TRANSLATOR SPEAK TO FAMILY AND UPDATE ON CONDITION
+
+
+",,
+13693,11279,17049,0,2613-04-15 17:46:00 EST,2613-04-15 17:57:00 EST,7352,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Neuro: Pt reported to be confused by 3 different Chinese interpreters. Pt appears pleasant and usually calm (except when placing NGTs). Left arm contracture and left leg flaccid, however, moving right side quite well. OOB to chair and commode w/assist of 2, appears to be able to bear weight. afebrile. Pt now with right wrist restraint to prevent NGT from being pulled out, pt able to move down towards foot of bed and bring nose to restrained wrist to pull out first NGT, pt now has a sitter. 
+
+CV: remains in afib w/rate 90s to low 100s, however, with placement on NGT, HR as high as 150s, and then remained 120s, medicated for pain w/.5mg morphine IV w/some effect and then plan was to give digoxin PO via NGT but pt then pulled out NGT. b/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] to rising, see carevue. Pt had echo to check for LV thrombus, which by initial report no thrombus visualized. Pt started on Heparin 650u/hr IV @ 1700 w/plan to check HCT and PTT @ 2200. HCT @ noon 27. INR 1.8
+
+Resp: LS: essentially CTA, RA sats adequate. No cough noted.
+
+GI: Pt had large soft stool w/melana @ 1145, HO notified and plan now is for patient to have colonoscopy (reason for NGT placement for GI prep). Of note, pt on thickened liquids at nursing home. Await read of CXR to confirm NGT placement to begin prep, once stools are clear patient can have NGT removed. Should be able to give prep over 2-3 hours.
+
+GU: voiding into diaper.
+
+
+",,
+13693,11279,17049,0,2613-04-16 04:29:00 EST,2613-04-16 04:43:00 EST,7314,"N",69,"Nursing/Other","NPN 1900-0700:","
+NPN 1900-0700:
+Neuro: pt is confused, opens eyes spontaneously, gets agitated at times, tried to move out of bed and managed to pull the NG tube, sliding herself down the bed, uncovering herself and vocalizes cantonese words, but she seems angry whenever being cleaned or upon any procedure (blood draw, Golytely administration, etc.). As her BP and HR go up with her anxiety, she was given Ativan amd Morphine sulfate with minimal effect.
+
+Resp: Breathing regularly on RA, SPO2 98-100%, LS CTA.
+
+CV: A fib, HR 74-136, BP 89-160/91-110, with 2 PIV lines, PTT and Hct improved, Heparin drip increased to 700 units/hr, palpable peripheral pulses, received Lopressor 5 mg for a HR in 170s with good effect, also received a bolus of 500 cc NS over 1 hr as per HO order.
+
+GI/GU: NPO for colonoscopy, received Golytely 4 L before NGT being pulled, abdomen soft, BS present, passed frequent bloody loose stool after the Golytely, incontinent for stool and urine (in Diaper).
+
+Integ: T max 98.3, intact skin integrity.
+
+Plan: colonoscopy today, stop heparin 4 hrs prior to colonoscopy (to be stopped at 8-9 am as per HO, to be checked and confirmed), ? Digoxin IV for A fib and high HR, ? Ativan for anxiety/agitation). 
+",,
+13693,11279,17049,0,2613-04-16 17:08:00 EST,2613-04-16 17:23:00 EST,7352,"N",69,"Nursing/Other","Nursing transfer acceptance","
+Nursing transfer acceptance
+Events: pt transfered to 11R this morning, went to GI Unit from 11R where an endoscopy was attempted and d/t pt's uncooperation and agitation was not able to have EGD. Colonoscopy done, divertic seen w/clot, clot removed and then area clipped. No further bleeding from site noted. Pt readmitted to MICU for observation over night.
+GI:ABD soft, NT, BS++, passing flatus and diluted small amt bright red blood PR.
+Neuro: Pt difficult to arouse initially upon admit, but now easily arousable w/voice, opens eyes and occasionally smiles. Afebrile. Left arm remains contracted and no movement of left leg. Right arm active, attempting to remove oral thermometer and able to move right leg.
+CV: remains in afib, VS checked q15 x 1hour, stable see flow sheet. 
+RESP: RA O2 sats 95%, LS: CTA.
+
+",,
+13693,11279,17049,0,2613-04-17 04:20:00 EST,2613-04-17 04:33:00 EST,6824,"N",69,"Nursing/Other","MICU Nursing Note 1900-0700","
+MICU Nursing Note 1900-0700
+Events:  Pt with RAF 170-190's with BP 170-190/100's and extremely agitated during evening---received total of 7.5 mg. IV Lopressor and 1.0 mg IV Haldol with good effect.  Hct stable overnight; no evidence of bleeding noted.
+
+Neuro:  Alert, confused at times, speaks cantonese only, will occasionally follow simple commands when given with gesturing, gets agitated with all care near her mouth(ie: oral temps/oral care) and attempts to punch with right hand and to bite staff, severe agitation during evening with HR and BP elevated---received 1.0 mg. IV Haldol with good effect, right hand restrained for short period d/t pt pulling at lines and tubes and currently unrestrained, resting in  naps.  All siderails up and bed alarm activated.
+
+Cardiac:  HR= 70-80's Afib most of night with BP= 110-150's/60's.  Episode with agitation during evening with HR 170-190's RAF and BP= 170-190's/100's treated with 5mg. IV Lopressor with HR down to 110-120's, pt received an additional 2.5 mg. IV Lopressor with HR 70-80's Afib.
+
+Resp:  Lung initially coarse upper lobes clears with coughing, clear to bases, RR= [**9-19**], Sats 98-100% on room air.  Occasional periods of apnea lasting 10-20seconds while asleep---no deSat during apnea episodes.
+
+GI:  NPO, Abd soft with + bowel sounds all quads, + large amts of flatus but no BM.
+
+GU:  Incontinent of large amts yellow urine.
+
+Skin:  some ecchymotic areas over upper extremities from phlebotomy sticks otherwise grossly intact.
+
+Social:  No contact from family or friends overnight.
+
+Plan:  Monitor closely for signs of bleeding, Continue to check HCT frequently, approach pt in calm manner, obtain cantonese interpreter today to assess pt's mental status, ? if pt needs to be on beta-blocker ATC, Freq. safety checks, Support pt and family, ? if can transfer to medical floor for further management today??
+",,
+13693,11279,,,2613-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2613-4-26**] 8:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 2682**]
+     Reason: please place PICC for iv antibiotics (2 more doses vancomyci
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with coag neg staph UTI                                       
+     REASON FOR THIS EXAMINATION:
+      please place PICC for iv antibiotics (2 more doses vancomycin due on Tuesday 
+      and Thursday at rehab)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  This is an 87-year-old woman who presents for placement of a
+     single-lumen PICC line for IV antibiotics.
+     
+     The procedure was explained to the patient.  A timeout was performed.
+     
+     RADIOLOGISTS:  [**First Name8 (NamePattern2) 2683**] [**Last Name (NamePattern1) 2684**], nurse practitioner, performed the procedure,
+     supervised by Dr. [**Last Name (STitle) 23**], attending radiologist.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right brachial
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel away sheath was then placed over a
+     guidewire and a single-lumen 4 French PICC line measuring 37 cm in length was
+     then placed through the peel away sheath with its tip positioned in the distal
+     SVC under fluoroscopic guidance.  Position of the catheter was confirmed by
+     fluoroscopic spot film of the chest.  The peel away sheath and guidewire were
+     then removed.  The catheter was secured to the skin, flushed and sterile
+     dressing was applied.  The patient tolerated the procedure well.  There were
+     no immediate complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single-lumen PICC line placement via the right brachial venous approach. Final
+     internal length is 37 cm with the tip positioned in the distal SVC.  The line
+     is ready to use.
+     
+     
+     
+
+",,
+13693,11279,,,2613-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2613-4-26**] 8:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 2682**]
+     Reason: please place PICC for iv antibiotics (2 more doses vancomyci
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 1341**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with coag neg staph UTI                                       
+     REASON FOR THIS EXAMINATION:
+      please place PICC for iv antibiotics (2 more doses vancomycin due on Tuesday 
+      and Thursday at rehab)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  This is an 87-year-old woman who presents for placement of a
+     single-lumen PICC line for IV antibiotics.
+     
+     The procedure was explained to the patient.  A timeout was performed.
+     
+     RADIOLOGISTS:  [**First Name8 (NamePattern2) 2683**] [**Last Name (NamePattern1) 2684**], nurse practitioner, performed the procedure,
+     supervised by Dr. [**Last Name (STitle) 23**], attending radiologist.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right brachial
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel away sheath was then placed over a
+     guidewire and a single-lumen 4 French PICC line measuring 37 cm in length was
+     then placed through the peel away sheath with its tip positioned in the distal
+     SVC under fluoroscopic guidance.  Position of the catheter was confirmed by
+     fluoroscopic spot film of the chest.  The peel away sheath and guidewire were
+     then removed.  The catheter was secured to the skin, flushed and sterile
+     dressing was applied.  The patient tolerated the procedure well.  There were
+     no immediate complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single-lumen PICC line placement via the right brachial venous approach. Final
+     internal length is 37 cm with the tip positioned in the distal SVC.  The line
+     is ready to use.
+     
+     
+     
+
+",,

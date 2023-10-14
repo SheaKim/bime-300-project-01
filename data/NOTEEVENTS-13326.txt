@@ -1,0 +1,697 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13326,28042,,,3013-05-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3013-5-3**]              Discharge Date:   [**3013-5-13**]
+ 
+Date of Birth:  [**2941-2-3**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ergot Alkaloids / Norvasc
+ 
+Attending:[**First Name3 (LF) 2149**] 
+Chief Complaint:
+Transfer from [**Hospital1 **] for venous graft intervention 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac cathetherization-stent placement
+ 
+History of Present Illness:
+This 72-year old female with an extensive medical history 
+including CABG and valve replacement, PVD, CRI, presents here 
+from [**Hospital1 **] with chest pain/management of MI.  
+Patient reports being admitted for chf exacerbation in mid-May 
+at [**Hospital 2752**] with active diuresis and concern 
+for ACS, but because of imparied renal function, plan to medical 
+manage and not sent to cath lab. Patient discharged to 
+independant living.  
+On [**4-23**], patient presented to [**Hospital1 **] with cheif complaints of 
+left scapular pain and shortness of breath - diagnosed with 
+acute decompensated heart failure, subsequently diuresed, ruled 
+in for NQWMI with troponin up to 11.4, ck 290, 12% R/I. [**4-27**] 
+cardiac cath showed 3-v native disease (RCA not seen), LIMA to 
+LAD-40-50% mid disease, SVG to LV branch of prox CX: 80% 
+eccentric proximal stenosis which became worse during cath (? 
+catheter trauma), SVG to OM: proximal occlusion, with an 
+estimated EF 55-60%. Course complicated by ? of TIA vs. stroke 
+last Wed [**4-28**] day after cath, with clinical signs of right hand 
+weakness, with no other signs/symptoms since that time and CT 
+scan negative for acute pathology (no MRI done). On [**4-28**], 
+patient had another rise in ck and troponin, with rise back up 
+to 12 (previously 2). An Echo on [**4-28**] showed EF 40-45%. A 
+carotid u/s showed ""no changes from previous"", but by report, 
+unsure of previous findings. Patient has reportedly been chest 
+pain free over weekend on ntg and heparin gtts. Right groin site 
+clean, dry, and intact. Patient referred for venous graft 
+intervention. Vital signs upon transfer BP 170/77, 130/55 
+post-hydral and lopressor, hr 60s sinus, afebrile, sat 2lnc 98%. 
+Bilateral wheezes.  
+In cath lab, cobalt chronium, BMS stent placed in proximal [**12-2**] 
+of SVG to RCA, where a 70% stenosis was identified.  
+ROS+ for claudication symptoms in her lower extremities after 
+walking distance. + nasal symptoms thought [**1-1**] to seasonal 
+allergies.  
+
+ 
+Past Medical History:
+1. CAD - MI complicated by cardiogenic shock in [**3006**], leading to 
+CABG with LIMA to LAD, SVG to OM, SVG to PLV  
+2. [**Last Name (un) 1531**] [**Doctor Last Name **] aortic valve replacement.  
+3. PVD - s/p aortobifemoral bypass graft with left renal artery 
+bypass  
+4. Abdominal aortic aneurysm - repaired 2002  
+5. Paroxysmal atrial fibrillation  
+6. Chronic renal insufficiency - baseline Cr 2.5 with acute 
+failure with creatinine rise to 5.0. Renal artery angioplasty in 
+[**3006**].  
+7. GI bleed - unsure of nature of bleed  
+8. Hypertension  
+9. Hyperlipidemia - untreated due to side effects  
+10. Pulmonary hypertension  
+11. Right carotid stenosis - CEW 2001  
+Cardiac Risk Factors: Dyslipidemia, Hypertension, atrial 
+fibrillation  
+Cardiac History: CABG - LIMA to LAD, SVG to OM, SVG to PLV 
+
+ 
+Social History:
+Social history is significant for tobacco use - >49 pack year 
+history, not currently smoking, quit six years ago. There is no 
+significant history of alcohol abuse.  Patient lives in 
+[**Location 1632**] Housing Complex, living independently. 
+ 
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.
+ 
+Physical Exam:
+PE: T: 98.5 BP: 142/51, 94/56 HR: 73 RR: 18 97% 2L  
+Gen: NAD, A/Ox3, lying in bed, conversant, cooperative, tensed 
+face - look of concern.  
+HEENT: no conjunctival pallor, no scleral icterus appreciated, 
+MMM.  
+NECK: no JVD appreciated, but bed broken and in fully supine 
+position and obese neck. Carotid bruit on left.  
+CV: RRR, S1+S2+S3-S4-, physiologically split S2 on inspiration. 
+No murmurs appreciated.  
+LUNGS: mild crackles at the bases bilaerally, no wheezes 
+appreciated  
+ABD: NABS, soft, non-tender, non-distended. No organomegaly 
+appreciated.  
+EXT: no lower extremity edema appreciated. 2+ palpable pulses 
+bilaterally dorsalis pedis, posterior tibial, radial, ulnar, all 
+2+.  
+SKIN: No rashes/lesions, ecchymoses. Right groin site with 
+sheath in place.  
+NEURO: A&Ox3, seems apropriate. CN [**1-11**] grossly intact, did not 
+do fundoscopy. Preserved sensation throughout. MSK 4+/5 
+bilaterally, upper extremities and lower extremities. 1+ 
+reflexes L4 bilaterally.  
+PSYCH: Listens and responds to questions appropriately  
+Pulses:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+  
+
+ 
+Pertinent Results:
+CXR - Single AP view of the chest in upright position 
+demonstrate patient to be status post CABG. There is pulmonary 
+vascular congestion with interstitial edema. No evidence of 
+pleural effusion or pneumothorax. The cardiac silhouette is 
+enlarged.
+IMPRESSION: Cardiomegaly, pulmonary vascular congestion with 
+interstitial edema representing CHF.
+.
+ECHO - The left atrium is mildly dilated. There is mild 
+symmetric left ventricular hypertrophy. The left ventricular 
+cavity size is normal. Overall left ventricular systolic 
+function is mildly depressed (ejection fraction 40-50 percent) 
+secondary to severe hypokinesis of the basal and midventricular 
+segments of the inferior and posterior walls. There is no 
+ventricular septal defect. Right ventricular chamber size is 
+normal. Right ventricular systolic function appears depressed. 
+The aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. Trace aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Trivial mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. There is no 
+pericardial effusion. 
+
+[**3013-5-8**] ECHO
+
+Conclusions:  
+The left atrium is moderately dilated. There is mild symmetric 
+left  
+ventricular hypertrophy. The left ventricular cavity size is top 
+ 
+normal/borderline dilated. There is moderate regional left 
+ventricular  
+systolic dysfunction with inferior/inferolateral akinesis and 
+hypokinesis  
+elsewhere. Overall left ventricular systolic function is 
+moderately depressed.  
+[Intrinsic left ventricular systolic function is likely more 
+depressed given  
+the severity of valvular regurgitation.] The right ventricular 
+cavity is  
+mildly dilated. Right ventricular systolic function appears 
+depressed.  
+[Intrinsic right ventricular systolic function is likely more 
+depressed given  
+the severity of tricuspid regurgitation.] The aortic valve 
+leaflets (3) are  
+mildly thickened. There is no aortic valve stenosis. Mild (1+) 
+aortic  
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened.  
+Moderate (2+) mitral regurgitation is seen. The mitral 
+regurgitation jet is  
+eccentric. The tricuspid valve leaflets are mildly thickened. 
+Moderate [2+]  
+tricuspid regurgitation is seen. There is moderate pulmonary 
+artery systolic  
+hypertension. Significant pulmonic regurgitation is seen. The 
+end-diastolic  
+pulmonic regurgitation velocity is increased suggesting 
+pulmonary artery  
+diastolic hypertension. There is an anterior space which most 
+likely  
+represents a fat pad.  
+  
+Compared with the prior study (images reviewed) of [**3013-5-4**], the 
+left and  
+right ventricles are now more dilated and left and right 
+ventricular systolic  
+function now appears more depressed. Mitral and tricuspid 
+regurgitation are  
+now more prominent.  
+
+[**3013-5-6**] RENAL ULTRASOUND
+
+RENAL ULTRASOUND: The right kidney measures 9.5 cm. There is 
+mild increased echogenicity of the renal cortex. No 
+hydronephrosis or stones. Bladder is partially full and 
+unremarkable. Left kidney was not visualized, and by report of 
+the patient, is scarred and atrophic.
+
+IMPRESSION:
+1. Mild increased echogenicity of the renal cortex consistent 
+with chronic parenchymal renal disease. No evidence of 
+obstruction.
+2. Non-visualization of the left kidney.
+
+[**3013-5-3**]  CARDIAC CATH
+
+COMMENTS:     Successful bare metal stenting of a SVG-RCA 
+stenosis using 
+distal protection followed by a 3.5x15mm Vision stent 
+post-dilated to 
+20atm using a NC balloon. 
+  
+FINAL DIAGNOSIS:     
+1. Three vessel coronary artery disease. 
+2. Successful bare metal stenting of a SVG-RCA graft using a 
+3.5x15mm 
+Vision BMS postdilated to 4.0mm. 
+ 
+
+LAB RESULTS AT ADMISSION
+
+[**3013-5-3**] 10:59PM   TYPE-ART PO2-76* PCO2-49* PH-7.41 TOTAL 
+CO2-32* BASE XS-4
+[**3013-5-3**] 10:59PM   HGB-10.3* calcHCT-31
+[**3013-5-3**] 08:10PM   TYPE-ART PO2-96 PCO2-60* PH-7.28* TOTAL 
+CO2-29 BASE XS-0 INTUBATED-NOT INTUBA COMMENTS-NASAL [**Last Name (un) **]
+[**3013-5-3**] 07:46PM   GLUCOSE-140* UREA N-61* CREAT-2.5* 
+SODIUM-132* POTASSIUM-4.9 CHLORIDE-94* TOTAL CO2-28 ANION GAP-15
+[**3013-5-3**] 07:46PM   estGFR-Using this
+[**3013-5-3**] 07:46PM   CK(CPK)-58
+[**3013-5-3**] 07:46PM   CK-MB-NotDone cTropnT-2.31*
+[**3013-5-3**] 07:46PM   CALCIUM-9.2 PHOSPHATE-2.5* MAGNESIUM-2.9*
+[**3013-5-3**] 07:46PM   WBC-9.7 RBC-3.45* HGB-11.6* HCT-33.6* MCV-97 
+MCH-33.5* MCHC-34.5 RDW-15.0
+[**3013-5-3**] 07:46PM   PLT COUNT-219
+ 
+Brief Hospital Course:
+CORONARY - Patient had stent placement in SVG to RCA.  
+Integrillin was continued for 18 hrs, initiated on aspirin 325mg 
+daily, plavix 75mg daily, and beta blockade.  A statin was not 
+started due to her reactions to statins in the past.  An 
+echocardiogram post-cath showed mild hypokinesis.  Her cardiac 
+enzymes trended down. 
+.
+CHF: The patient was somewhat volumed overloaded on admission. 
+She underwent cath without complications and four hours later 
+she went into flash pulmonary edema with no EKG changes. She was 
+transferred briefly to the CCU, where she was aggressively 
+diuresed and placed on standing hydralazine and isosorbide 
+dinitrate. On the floor, she continued to receive 60 mg IV lasix 
+bid for diuresis and she stabilized, was comfortable off oxygen 
+and ambulatory and wanted to be discharged on [**5-6**]. However, by 
+then she had not been at baseline for 24 hours yet, so she was 
+encouraged to stay. Early on [**3013-5-7**], she had a NSTEMI with 
+troponins up to 7, and went into severe pulmonary edema 
+requiring face mask, with severe respiratory distress that did 
+not respond to 160 mg IV lasix. She desatted to 87% on 2 L nc. 
+She was transferred back to the CCU. She did not respond to a 
+total of 180 mg IV lasix and was put on a lasix drip. She also 
+received metolazone 10 mg PO. She diuresed 5 liters on this 
+regimen however her creatinine bumped to >4 (baseline around 
+2.5.) She was on a nitro gtt for 2 days as well in the CCU. She 
+was not intubated and required a facemask briefly. She was 
+weaned to room air before transfer to the floor on the 11th and 
+was transferred off lasix in view of the ARF. On the floor, she 
+remained off lasix for 24 hours with no edema. On the 12th, she 
+was put on 40 mg PO lasix qd, and she tolerated this regimen 
+well, with appropriate diuresis and creatinine down to 3.5. At 
+the same time, metoprolol was increased to 75 tid and nitro was 
+d/c.
+.
+NSTEMI: The patient had a cardiac enzyme leak during this 
+exacerbation.  Her EKG was unchanged from prior.  This NSTEMI 
+may have been causal or a result of her CHF exacerbation.  We 
+discussed therapy options with the patient.  She did not want 
+any further cardiac catheterizations so we opted to treat 
+medically. She also has a hx of A Fibrillation. She remained in 
+sinus rhythm, and not on coumadin due to a history of GI bleed.'
+.
+RENAL FAILURE: Acute on chronic renal impairment: The patient's 
+baseline is 2.5, which increased to 3.5 upon diuresis on the 
+floor. She went to CCU with creatinine of 3.5 (up from baseline 
+of 2.5).  It rose to 4.2 then trended to 4.1 prior to transfer 
+back to the floor.  We felt this was most likely c/w contrast 
+nephropathy plus possibly some prerenal azotemia in the setting 
+of aggressive diuresis.  Thus, the team held off on aggressive 
+diuresis the day of transfer to the floor. As above, lasix was 
+held for 24 hours, then restarted at 40 mg PO qd, with 
+creatinine stabilized at 3.5.
+Patient was initially given D5W with bicarb pre-cath and also 
+initially post-cath, but had to be discontinued with development 
+of flash pulmonary edema.  
+. 
+ FEN - low sodium, cardiac heart healthy diet. Keep Mg+>2.2, 
+keep K+>4.2. Repleted prn.  
+.
+ CODE: DNR DNI per discussion with patient in the CCU.
+ 
+Medications on Admission:
+ALLERGIES: norvasc and ergots  
+CURRENT MEDICATIONS (from [**Hospital1 **]):  
+Hydral 10mg IV prn  
+Asa 325mg  
+Lopressor 100mg bid  
+carafate  
+plavix 75mg  
+mucomyst (unsure of amount of doses received)  
+Nitro gtt 175 mcg/min (during transfer)  
+Heparin gtt (stopped AM [**5-3**])  
+D5W with bicarb  
+colace  
+multivitamin  
+folate  
+ferrous sulfate  
+ativan prn  
+morphine prn  
+renagel  
+protonix  
+(med list from admit at [**Hospital1 **]):  
+Imdur 60 qd  
+lopressor 25 bid  
+plavix 75mg qd  
+asa 81 qd  
+renagel 800tid  
+colace 100 qd  
+folate 1mg qd  
+prilosec 20bid  
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO QID (4 times a day) as needed.  
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+7. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+9. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+10. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6-8H (every 
+6 to 8 hours) as needed.  
+11. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+13. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 
+8 hours) as needed for constipation.  
+14. Albuterol 90 mcg/Actuation Aerosol Sig: [**12-1**]  Inhalation 
+every 4-6 hours as needed for shortness of breath or wheezing.
+Disp:*1 1* Refills:*2*
+15. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+16. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+17. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO 
+TID (3 times a day).  
+18. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 511**] Northeast - [**Location (un) 1204**]
+ 
+Discharge Diagnosis:
+Primary:
+1.  Coronary artery disease.
+2.  NSTEMI
+3.  Congestive Heart Failure
+.
+Secondary:  
+1. Acute on Chronic renal insufficiency - 
+2. Hypertension  
+
+ 
+Discharge Condition:
+Patient discharged to rehab in stable condition, tolerating PO 
+feeds and fluids, ambulating on her own, chest pain free, no 
+shortness of breath, vital signs stable.
+
+ 
+Discharge Instructions:
+Patient was transferred to [**Hospital1 19**] for venous grafting 
+intervention, which was presumed to be occluded.  Patient had 
+stent placement in the the SVG to RCA veinous graft in the 
+cardiac catheterization lab.
+Patient should:
+1.  Take all medications as prescribed.
+2.  Keep all follow-up appointments.
+3.  Seek medical attention if she acquires chest pain, shortness 
+of breath, nausea, vomiting, or any other concern that is out of 
+the ordinary for her.
+ 
+Followup Instructions:
+Cardiologist - 
+PCP [**Name Initial (PRE) **] [**First Name8 (NamePattern2) 8896**] [**Name11 (NameIs) 8897**] [**Telephone/Fax (1) 8898**] - [**3017-5-25**]:45am, 
+1-[**Telephone/Fax (2) 8899**]fax.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2157**] MD [**MD Number 2158**]
+ 
+Completed by: [**First Name4 (NamePattern1) 4132**] [**Name8 (MD) 4133**] MD [**MD Number 4134**] [**3013-5-13**] @ 1546
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3013-6-15**] 12:02 PM
+(End of Report)
+
+
+",,
+13326,28042,,,3013-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3013-5-3**] 7:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14711**]
+     Reason: assess vascular congestion.                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH WITH INTERVENTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with cabgx3, ef45, s/p stent to svg to rca with acute 
+      shortness of breath.
+     REASON FOR THIS EXAMINATION:
+      assess vascular congestion.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72-year-old woman with CABG x 3 status post stent to the SVG.
+     Shortness of breath.  Rule out vascular congestion.
+     
+     No prior studies are available for comparison.
+     
+     FINDINGS:  Single AP view of the chest in upright position demonstrate patient
+     to be status post CABG.  There is pulmonary vascular congestion with
+     interstitial edema.  No evidence of pleural effusion or pneumothorax.  The
+     cardiac silhouette is enlarged.
+     
+     IMPRESSION:  Cardiomegaly, pulmonary vascular congestion with interstitial
+     edema representing CHF.
+
+",,
+13326,28042,16591,0,3013-05-04 02:45:00 EST,3013-05-04 03:12:00 EST,1641,"N",1,"Nursing/Other","CCU Nursing adm/progress note","
+CCU Nursing adm/progress note
+72 yr old transferred from [**Hospital3 **] to cath for knowm SVG-RCA lesion. Stent placed and was on [**Hospital Ward Name **] 3 when developed increased resp distress, cxr with pul edema, given lasix and morphine iv and transferred to CCU for pot bipap. 
+
+CV: denies CP, backpain is anginal equivalant(rests and takes NTG at home), HR 70's NSR, no ectopy. R groin ecchymotic, no hematoma, pulses faint palp. Sheaths were pulled on [**Hospital Ward Name **] 3 at ~ 1700. R groin was heavily eccymotic on arrival to cath lab. BP initially 150's/, on IV NTG, BP runnign 120-130's/50, IV NTG weaned off, to start hydal and isordil in AM.
+
+Resp: LS with ins/exp wheezing, crackles [**12-1**] way up bilaterally > on the R. Arrived on 100% NRB, quickly weaned to 5L NC with sat 95-97%, initially dropping to 86-87% on RA. On arrival pt stated breathing felt much better and bipap not needed. Pt has cont to diurese from Lasix given on the floor(total 80mg IV). Given alb/atrovent nebs q 6 hrs by RT.
+
+Neuro: pt A&Ox3on arrival, states R hand weakness that she experienced after cath at outside hospital resolved in 1 day(?tia/stroke), PERL, grasps equal. Pt awoke in middle of night forgeting where she was, reoriented easily. Pt states this happens to her in the hospital. 
+Slept well. 
+
+Skin : intact, ecchymosis at R groin, no hematoma. 
+
+GI: last BM [**5-2**], states with prob need metamucil today. Has not eaten overnight. 
+
+GU: foley in place, BUN/Cr 61/2.5, creatinine at baseline, will need to follow post cath. 
+
+ID: afebrile. 
+
+Soc: has 5 kids, youngest son [**First Name4 (NamePattern1) **] [**Known patient lastname **] is health care proxy, #'s in chart and on white board in room. Pt lives in [**Location 1872**] housing complex, independently, states sees children often, has many friends with whom she does many ""frivolous"" things with like go to lunch, shopping. Pt in good spirits and anxious to go home. 
+
+A/P: 72 yr old living independently despite many health issues transferred to CCU for management of CHF, ruled in for STEMI at osh, sent here for cath, had intervention on 1 graft, now diuresed and more stable resp status. Cont to monitor and adjust medications, diurese as needed, follow renal function post cath. Inform and support pt/family. Assess needs for services at home. Cont to monitor resp status. 
+
+
+",,
+13326,28042,,,3013-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3013-5-6**] 2:01 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 14713**]
+     Reason: Bilateral renal US to assess for masses, suspicion of pyelo,
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH WITH INTERVENTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old woman with elevated creatinine to 3.5 (baseline 2.5), flank pain, 
+      painful urination.
+     REASON FOR THIS EXAMINATION:
+      Bilateral renal US to assess for masses, suspicion of pyelo, fluid, 
+      obstruction.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Elevated creatinine to 3.5.  Baseline 2.5.  Flank pain, painful
+     urination.
+     
+     COMPARISON:  None.
+     
+     RENAL ULTRASOUND:  The right kidney measures 9.5 cm.  There is mild increased
+     echogenicity of the renal cortex.  No hydronephrosis or stones.  Bladder is
+     partially full and unremarkable.  Left kidney was not visualized, and by
+     report of the patient, is scarred and atrophic.
+     
+     IMPRESSION:
+     1.  Mild increased echogenicity of the renal cortex consistent with chronic
+     parenchymal renal disease.  No evidence of obstruction.
+     2.  Non-visualization of the left kidney.
+                                                                           
+
+",,
+13326,28042,,,3013-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3013-5-6**] 9:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14712**]
+     Reason: Acute cardiopulmonary process                               
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH WITH INTERVENTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old woman with pulmonary edema                                        
+       
+     REASON FOR THIS EXAMINATION:
+      Acute cardiopulmonary process                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of pulmonary edema.
+     
+     Status post CABG.  There is cardiomegaly with interstitial pulmonary edema and
+     small bilateral pleural effusions.  In the absence of remote studies,
+     underlying chronic interstitial disease cannot be ruled out.  No pneumothorax
+     or evidence for new confluent airspace consolidation.
+     
+     IMPRESSION:  CHF with probable interstitial pulmonary edema, but cannot rule
+     out underlying chronic interstitial disease.  Slight prominence of both hila
+     could be related to pulmonary hypertension.
+                                                                           
+
+",,
+13326,28042,,,3013-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3013-5-7**] 4:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14714**]
+     Reason: eval pulm edema                                             
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH WITH INTERVENTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old woman with hypoxia                                               
+     REASON FOR THIS EXAMINATION:
+      eval pulm edema                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  72-year-old woman with hypoxia.
+     
+     COMPARISON:  [**3013-5-3**] and [**3013-5-6**].
+     
+     CHEST AP:  There is stable mild cardiomegaly, status post median sternotomy
+     and CABG.  The aorta is calcified and tortuous.  Pulmonary vascular congestion
+     and mild-to-moderate interstitial edema is unchanged.  There is persistent
+     diffuse nodularity of the pulmonary interstitium.  Small pleural effusions are
+     identified.  Osseous and soft tissue structures are unchanged.
+     
+     IMPRESSION:
+     1.  Stable mild-to-moderate interstitial edema.
+     2.  Persistent diffuse interstitial nodularity.  Further evaluation with chest
+     CT is recommended.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 14715**] at 10 a.m., [**3013-5-7**].
+                                                                           
+
+",,
+13326,28042,16592,0,3013-05-07 16:20:00 EST,3013-05-07 16:56:00 EST,1563,"N",1,"Nursing/Other","CCU NSG ADMIT","
+CCU NSG ADMIT
+Briefly, pt is 72 yo female w/ pmh: AVR, HTN, repair of AAA, r carotid stenosis, TIA/? stroke post cath [**4-28**], claudication, CRI w/ baseline Cr 2.5, aortobifemoral bypass graft, L renal artery graft. Transferred to [**Hospital1 10**] [**5-3**] from OSH s/p STEMI, for stent to occluded SVG->RCA. tx to [**Hospital Ward Name **] 3 after and experienced resp distress. transferred to CCU for diuresis. Transferred back to [**Hospital Ward Name **] 3 [**3-4**]. Has had intermittent episodes SOB, rx w/ lasix. Cr trending up. tx 1 unit prbc for chronic anemia. This am pt acutely SOB, hypoxic. wheezing. tachycardic w/ hr 110, EKG-> st depressions, TWI V1-V4, STE III,aVF. ck 343/MB 22, trop .45. Pt given lasix 60mg->80mg w/ poor response, then 160mg, heparin and ntg started, ms04. Refusing cath. Pt transferred to CCU for further rx.
+
+Pt arrived to CCU ~ 1000
+
+cv: hr 84-91 sr no vea, bp 122-129/51-56. No c/o CP. Heparin at 850 units/hr w/ PTT pnd, NTG .53 mcg/kg/min. CK at noon 284/19. 
+resp: Upon admission on 5l face mask, rr 20's, crackles [**1-31**] ^^, ins/exp wheezes. Anxious. Given neb rx, slow response to lasix 160mg given at 0930. Started on given zaroxolyn and started on a lasix gtt at 5 mg/hr w/ good response and improvement in resp status. Currently on 5lnp w/ SATs 96%, rr 14-20, 
+gu: foley draining CYU ~ 100cc/hr since starting lasix gtt. Currently ~ 800cc neg. Cr. 3.5 at noon. 
+gi: poor appitite today, no stool
+skin: intact
+neuro: anxious this am, much calmer this afternoon, oriented x3, cooperative w/ care. Has in the past become confused at night, and ? w/ mso4. 
+code status: DNR/DNI
+social: son [**Name (NI) **] in to visit most of day, spoke w/ MD. [**First Name (Titles) **] [**Last Name (Titles) **].
+A: r/i STEMI, ck now trending down, PF. on heparin, NTG.
+   Pulmonary edema in setting of MI and rising cr. responding to lasix 
+   gtt. 
+P: Monitor resp status, response to lasix gtt, follow ck, ptt.
+   Emotional support to pt and family, DNR/DNI
+   
+",,
+13326,28042,16592,0,3013-05-08 02:53:00 EST,3013-05-08 03:16:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 7P-7A","
+CCU NPN 7P-7A
+72 yr old transferred back to CCU from [**Hospital Ward Name 40**] 3 for managemnet of CHF, STEMI. Pt recently had 2 caths, one at OSH without intervention, here had stent to SVG-RCA, spent night in CCU after 2nd cath for CHF, back to floor, again with CP, SOB, CHF, returned to CCU [**5-7**]. Place on IV NTG, HEP, pt refused cath. Made herself DNR/[**Last Name (LF) **], [**First Name3 (LF) 85**] cont aggressive diuresis with lasix gtt. Would consider CRRT/bipap as temp measures. 
+
+CV: HR 90-70/s NSR lopressor 50mg tid. BP 132-100/60-40. States breathing feels better, denies CP. K+ 4.8, cont to diurese well to lasix gtt, 100-150cc/hr on 5mg/hr. Hep at 850 units/hr, IV NTG at .4 mcg/kg/hr. Ecchymosis at R groin site. 
+
+Resp: denies SOB, sats 90-96% on 5L NC, LS with crackles [**12-1**] way up bilaterally. Resing comfortably in bed. 
+
+Comfort: c/o lower back pain , requesting Morphine, given 2 mg IV with good effect per pt verbalization. Pt repositioning self in bed. Given 1 mg ativan po to help her get back to [**Doctor Last Name 8**] at ~0100 after her sis ter visited. 
+
+Soc: Pt sister arrived at hospital at MN requesting to see pt. Pt and sister have not seen each other in long time, sister in w/c. Pt surprised and happy to see sister. Pt's sister was under the impression that pt was close to death getting morphine and insisted on seeing her tonight, she left hospital feeling better after visit. 
+
+GI: sips water overnight. No BM. 
+
+GU: good UO on lasix gtt, cont to follow cr. 
+
+ID: T 99.8-98.4 po. 
+
+Neuro: A&Ox3, slept after morphine and again after ativan po.
+
+Skin: intact, eccymosis at R groin from 1st cath at OSH.  
+
+A/P; pt with stent to SVG-RCA, r/i for STEMI initially and another CK bump while in the hospital, cr bump to 3.4, CHF now diuresing on lasix gtt. Pt does not want another cath, is DNR/DNI. Cont medical management. Inform and support pt/family re: plan as stated in multidisciplinary pt care rounds.
+",,
+13326,28042,16592,0,3013-05-08 16:28:00 EST,3013-05-08 17:00:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""I don't know about walking today.""
+
+O: Please see careview for VS and additional data.
+
+CV: Pt HR 69-85 1st degree AVB, NBP 106-131/43-56. Received pt on nitro gtt 0.4 mcg/kg/min-titrated off and pt switched to PO isosorbide 20 mg TID. Heparin gtt dc'd this am [**Name8 (MD) 17**] MD's. Bilateral pedal pulses palp. R groin CDI, area soft, ecchymotic. Electrolytes to be drawn at 1800. 
+
+Resp: LS clear to crackles [**12-2**] to [**12-1**] way up. RR 12-20's, RR increased with getting OOB to chair, RR in teens with cessation of activity, O2 sats 93-99% on 5L n.c. Pt enc to C/DB. Pt denies SOB, albuterol/atrovent nebs given.
+
+Neuro: Pt A&O x3, pt MAE, OOB to chair with 1 assist, pt steady on feet. Pt asking appropriate questions regarding care.
+
+GI/GU: Pt continues on lasix gtt 2 mg/hr. Plan in rounds was for goal -500 L at midnoc, lasix gtt order for u/o >70 cc/hr. This afternoon, pt u/o noted 27-50 cc/hr, pt with continued supplemental O2 requirement, discussed with Dr. [**Last Name (STitle) 4678**] and plan is for goal -500 to -1L (closer to -500 as pt tol). ABd soft, +BS x4, no stool this shift. Pt tol meals, no c/o nausea.
+
+ID: Pt afberile, abx changed to cefpodoxime proxetil r/t risk of prolonged QTC d/t CRI [**Name8 (MD) 17**] MD's.
+
+Skin: Pt skin intact.
+
+Social: Multiple family members in at bedside this afternooon. 
+
+A/P: 72 y/o female with pmh CAD, CABG, aoritc valve replacement, repair AAA, CRI, s/p NSTEMI at OSH, pt to [**Hospital1 10**] cath lab with stent SVG to RCA, transferred between floor to CCU x2 for acute pulmonary edema, pt diuresed and nitro gtt given with effect in SOB & u/o. Today, nitro gtt off and lasix gtt decreased to 2 mg/hr with no subjective c/o SOB, still requiring supplemental O2. As discussed per rounds, cont to montior pt hemodynamics, resp status, wean O2 as tol, monitor u/o, f/[**Name Initial (MD) **] with MD's regarding u/o and lasix gtt. F/u with evening labs. Cont to provide emotional support to pt and family. Awaiting further POC per CCU Team.
+",,
+13326,28042,16592,0,3013-05-09 02:14:00 EST,3013-05-09 02:47:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:""MY BREATHING IS GOOD""
+O:PT IS A 72YOF W/ REPEAT ADMISSION TO CCU FOR CHF AND WORSENING RENAL FAILURE NOW ON LASIX GTT. PT ALERT AND ORIENTED X3. MAE. 
+
+RESP:PT DENIES SOB, PT W/ NOTIBLE DOE. ASLEEP W/ HOB AT 45 DEGREES.LS W/ CRACKLES 1/3 UP BILAT. LASIX GTT DOWN TO 1MG/HR. NO AUDIBLE WHEEZES. RECEIVING NEBS. SATS 97 ON 5LNC. RR 16-22. SKIN PINK WARM AND DRY.  
+
+CV:MHR 80S 1ST DEGREE AVB. RARE PVC. +S3, PEDAL PULSES VERY WEAK BUT PALP. TOL. BP 100. HEPARIN SQ STARTED FOR DVT PROFHYLAXIS. K+ 3.6 REPLACED W/ 40MEQS OF POTASSIUM. SERUM SODIUM TRENDING DOWN, RESTRICT FREE WATER INTAKE. 
+
+GI:ABD SOFT NON TENDER, +BS. NO BM. 
+GU:F/C DRG CLR PALE YELL. U/A CX W/GM NEG RODS, PT ANTIBIOTICS CHANGED TO CEFPODOXIME PROXETIL. BUN/CR CONTINUE TO RISE. 
+
+A/P:PT REMAINS O2 DEPENDANT, W/ BIB CRACKLES, DIURESING. NEG 1100CC AS OF 2300 LAST NOC. WEAN O2 AS TOL. CONSIDER SWITCHING TO BOLUS LASIX. INCREASE ACTIVITY AS TOL. PT IS A DNR/DNI. 
+
+
+ 
+",,
+13326,28042,16592,0,3013-05-09 15:50:00 EST,3013-05-09 16:08:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""So when do [**Doctor First Name **] think they'll let me out of here?""
+
+O: Please see careview for VS and additional data.
+
+CV: Pt HR 62-76 NSR/1st degree AVB, NBP 96-116/37-56. Pt continues on PO metoprolol and isosorbide. Bilat pedal pulses palp, afternoon lytes sent, results pending. No c/o CP.
+
+Resp: Pt LS clear to crackles at bases, O2 weaned from 5L n.c to 2L n.c with O2 sats 95%, RR 12-20 with pt sititng from 30 degrees in bed to upright in chair. Pt with DOE, while ambulating x2 pt RR 24-26, O2 sats 95% with good pleth during 1st walk, during second walk pt sats 90% but poor pleth noted, Dr.[**Last Name (STitle) 4679**] aware, O2 sats >96% with good pleth and pt still. Pt receiving neb tx's, no audible wheeze. Pt C/DB.
+
+Neuro: Pt A&Ox3, OOB to chair at approx 0930 with supervision, out of chair to ambulation in hallway x2, pt tol, HR 60's, RR and O2 sats as above, pt slightly unsteady on feet but able to ambulate while pushing wheelchair and RN at side. Pt back to bed at 1500. Pt MAE, asking appropriate questions regading care. 
+
+GI/GU: Lasix gtt dc'd at 0900 this am, u/o 30-40 cc/hr off lasix gtt, Dr.[**Last Name (STitle) 4679**] aware. AM BUN/creat cont to be elevated at 99/3.9, afternoon BUN/creat pending. Pt abd soft, + BS x4, no stool, cont on colace. Pt tol meals-eating 50 to 100% of meals, no c/o nausea.
+
+ID: Pt afebrile, cont on PO abx.
+
+Social: Pt son and [**Name2 (NI) **] in at bedside this afternoon, spoke with MD [**First Name (Titles) **] [**Last Name (Titles) **] regarding pt condition and POC.
+
+A/P: 72 y/o female tolerating O2 wean and increased ambulation, no further diuresis, awaiting bed on floor. As discussed [**Name6 (MD) 17**] CCU MD's, cont to monitor pt hemodynamics-titrate meds as tol and ordered. Cont to monitor resp status, wean O2 as tol, cont to enc C/DB. Advacne activity as tol, enc ambulation and OOB, cont to provide emotional support to pt and family, f/u with afternoon labs. Awaiting further POC per CCU Team. 
+",,
+13326,28042,16592,0,3013-05-10 02:49:00 EST,3013-05-10 03:39:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:""I'M TIRED TONOC
+"". 
+O:PT IS A 72YOF S/P CATH X2, COBALT CHRONIUM BM SENT PLACED IN SVG TO RCA. C/W CHF, AND ACUTE ON CHRONIC RENAL FAILUR. LASIX D/C'YESTERDAY W/ RISING BUN/CREAT, PT HAS REFUSEDD A FURTHER CATH IN FURTURE.
+
+PT IS A&ORIENTED X3. MAE,  ASSISTED W/ TURNS.
+
+CV:MHR 60S SR W/ RARE PVC. PEDAL PULSES PALP. SBP 100-120S TOLERATING ISORDIL AND LOPRESSOR.  PT ON SUB Q HEPARIN. LAT R GROIN W/ SOME ECCHYMOSIS.
+
+RESP:LS SLT IMPROVED W/ BIB CREAKLES. DRY COUGH MORE PRODUCTIVE AFTER NEB TREATMENTS. MILD DYSPNEA ON EXERTION W/ ACTIVITY WHILE IN BED. O2 2.5L.  . 
+
+GI:ABD SOFT NON TENDER, NO BM, PT RECEIVED COLACE. 
+
+GU:U/O DOWN TO 49-20. U/A SENT. LAST BUN 102, CREAT 4.2. F/C D/C'D. URINE W/ GM NEG RODS. PT RECEIVING CEFPODOXIME PROXETIL. 
+
+A/P:PT TO BE TRANSFERED TO FLR TODAY. CONT TO INCREASE ACTIVITY AS TOL. MONITOR ELECTROLYTES. PT REMAINS O2 DEPENDANT. ENCOURAGE DB&C.  NO DIURESIS AT THIS TIME D/T HIGH BUN&CREAT. SENNA FOR BOWELS. PT REMAINS DNR/DNI. PROVIDE EMOTIONAL SUPPORT. 
+
+
+ 
+
+
+
+",,

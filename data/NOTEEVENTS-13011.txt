@@ -1,0 +1,609 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13011,29366,,,2797-10-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2797-10-9**]              Discharge Date:   [**2797-10-21**]
+ 
+Date of Birth:  [**2746-1-15**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 2037**] 
+Chief Complaint:
+COPD flare/tracheomalacia/bronchomalacia
+
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy on  
+Rigit bronchoscopy and stenting on [**10-15**]
+ 
+History of Present Illness:
+51 F with history significant for COPD with multiple admissions 
+to [**Hospital3 **] who was again admitted there on [**2797-10-1**] for 
+COPD exacerbation. She underwent a flexible bronchoscopy today 
+which reported evidence of 50% tracheomalacia. It was also 
+notable for R bronhcial tree and the bronchus intermedius showed 
+evidence of bronchomalacia up to 90%. Her pulmonlogist Dr. [**First Name (STitle) 8394**] 
+[**Name (STitle) 8395**] refered her to [**Hospital1 19**] for evaluation by the 
+interventional pulmonology team for possible intervention for 
+dynamic tracheobronchomalacia that may be contributing to her 
+frequent exacerbations.
+
+ 
+Past Medical History:
+COPD on home O2 (3L) and BiPAP 14/6.
+Multiple admissions to [**Hospital3 1909**] for COPD. multiple 
+pulmonary rehabs at [**Hospital1 **] without significant 
+improvement in sx.
+Chronic hypercapnic respiratory failure.
+PFTS [**9-28**]: FVC 0.7, FEV1 0.52, FEV1/FVC 54%.
+? obstructive [**Doctor Last Name 292**] apnea
+type II DM
+Hyperlipidemia
+Hypertriglycidemia
+Depression
+Anxiety 
+Obesity
+Anemia
+osteoporosis [**2-26**] chronic steroids
+
+ 
+Social History:
+habits: tobacco - quit 6 years ago; 90 pack year hx
+ETOH: none
+Drugs: none
+living: lives w/ husband at home. 
+occupational: retired sauderer. h/o dust/ fume exposure. 
+spiritual: jehovah's witness/ refuses blood transfusions.
+
+ 
+Family History:
+mother deceased emphysema
+ 
+Physical Exam:
+VS: Tm 97.8, Tc 96.4, HR 80 (80-100), BP 147/82 (130-147/60-82), 
+RR 24, O2 sats 97% 3L NC, FS 328 and 104
+Gen: Obese, middle aged female, lying in bed, on left side. 
+BiPAP on. 
+HEENT: NCAT, sclera anicteric. Pupils asymmetric in shape, but 
+are rxtive to light equally bilaterally. 
+Neck: Supple. Could not assess LAD, JVD or thyroid due to body 
+habitus.
+CV: Heart sounds are distant, but regular. Could not appreciate 
+any murmurs. 
+Lungs: Decreased breath sounds with poor air movement 
+throughout. ON BiPAP. No crackles, rhonchi, or wheezing 
+appreciated. 
+Abd: Soft, obese abdomen. NTND. + BS.
+Extr: No c/c. 1+ pitting edema bilaterally, up to mid-shin. Ext 
+warm, 2+ PT pulses, radial pulses bilaterally. R arm with large 
+ecchymosis from blood draw.
+Neuro: AAOx3. CN II-XII intact.
+ 
+Pertinent Results:
+Labs on admission [**2797-10-10**]:
+WBC 16.7, Hct 37.9, MCV 83, Plt 305
+(diff neuts 89.1, lymphs 6.9, monos 3.8, eos 0.1, baso 0.1)
+PT 13.1, PTT 24.5, INR 1.2
+Na 144, K 4.0, Cl 93, HCO3 42, BUN 19, Cr 0.6, Glu 96, Mg 2.2 
+Fe 109, TIBC 361, ferritin 40, TRF 278
+Theophy 4.3
+.
+Rads:
+[**2797-10-10**]: Flexible bronchoscopy - Patient with significant 
+tracheobronchial
+malacia in trachea, right main stem and left main stem bronchus.
+.
+[**2797-10-10**]: CT trachea - 1. Severe tracheobronchomalacia. 2. Severe 
+emphysema. 3. 5-mm diameter right middle lobe lung nodule and 
+tiny bilateral apical micronodules. Recommend a followup chest 
+CT in three months duration to document stability of these small 
+nodules in order to exclude the possibility of early lung 
+neoplasm. 
+.
+[**2797-10-14**]: PFTs - 
+SPIROMETRY 1:56P Pre drug Post drug  
+Actual Pred %Pred Actual %Pred %chg  
+FVC 1.26 2.60 48  
+FEV1 0.68 1.95 35  
+MMF 0.32 2.50 13  
+FEV1/FVC 54 75 72  
+
+ 
+Brief Hospital Course:
+1) Tracheobronchomalacia: Repeat bronchoscopy was repeated here 
+and confirmed severe tracheobronchomalacia, with 80-90% collapse 
+of trachea, right and left mainstem bronchi. It was decided that 
+Mrs. [**Known patient lastname 8396**] needed a Y stent, but it was decided to wait until 
+her COPD was optimized. She was continued on oral prednisone of 
+60mg daily. Pt had persistent hypercarbic respiratory failure 
+following y-stent placement, required intubation.  After she was 
+weaned off ventilator and extubated, she was found to have an 
+abg showing 7.07/128/116/39 and was reintubated and ventilated; 
+once she had improved, she was re-extubated but again 
+ineffectively ventilated and was re-intubated.  Patient was then 
+once again weaned, extubated and this time did well.  Pt's 
+hypercarbic respiratory failure was believed to be due to a 
+combination of severe COPD, tracheobronchomalacia, auto-peeping, 
+and anxiety.
+After extubation, pt's respiratory status was believed to be at 
+baseline, PFTs were done on the day of discharge to determine 
+the amount of benefit from the stent placement.  Pt had a small 
+amount of hemoptysis following the numerous intubations, however 
+this seemed to be improving and was attributed to the trauma 
+from the intubations.
+.
+2) COPD exacerbation: She was continued on oral prednisone 60mg 
+QD, accolate (zafirlukast), theophylline and inhalers/nebs 
+around the clock (fluticasone/salmeterol, alb nebs, ipratroprium 
+nebs). She continued on BiPAP at night. She was also given 
+levaquin for possible bronchitis, and also received a course of 
+vancomycin after sputum cultures showed MSSA. Theophylline 
+levels were checked regularly to insure that they did not become 
+toxic while she was taking levaquin.  Pt wil need to weane her 
+prednisone, although her goal dose is not clear as she has 
+chronically required some steroids.
+.
+3) IDDM: She was continued on her outpatient insulin regimen 
+(NPH + regular QAM and QPM) and was covered with a Humalog 
+sliding scale. Despite these measures, her glucose was widely 
+variable and difficult to control, partially due to the oral 
+prednisone but also due to the fact that the patient would not 
+comply with a diabetic diet and ate frequently. Nutrition was 
+consulted. 
+.
+4) Hyperlipidemia/Hypertriglycidemia: She was continued on her 
+outpatient dose of pravachol. 
+.
+5) HTN: She was continued on her outpatient antihypertensive 
+regimen of verapamil, and lisinopril. 
+. 
+6) Oral thrush: She had a history of oral thrush, but on 
+admission it seemed to have resolved. She was given nystatin and 
+fluconazole while she was on a steroid taper. 
+.
+7) FEN: She was given a diabetic, low sodium diet, but had poor 
+compliance with her diet. Her electrolytes were checked daily 
+and repleted as needed. 
+.
+8) PPX: She was given protonix for GI prophylaxis given her 
+chronic steroid usage. For osteoporosis prophylaxis, she was 
+given calcium carbonate, vitamin D, and aledronate. For 
+constipation prophylaxis, she was given colace, senna, and 
+lactulose. For DVT prophylaxis, she was given heparin SQ. 
+.
+9) Access: She had peripheral IVs.
+.
+10) Code: FULL
+ 
+Medications on Admission:
+Fosamax 70 mg po Q Monday
+Nystatin mouth wash QID
+Insulin sliding scale
+Humulin N 47 U Q AM and 17 U Q evening
+Humulin R 17 U Q AM and QHS
+Tylenol PRN
+Robitussin AC 10 cc po QID
+Tums 500 mg TID
+Protonix 40 mg QD
+Advair 500/50 1 puff BID
+Colace 100 mg po BID
+Verapamil SR 120 mg daily
+Uniphyl (theophylline) 600 mg daily
+paxil 20 mg daily
+Pravachol 20 mg QHS
+Zestril 10 mg daily
+Accolate (Zarfilukast) 20 mg po BID
+Prednisone taper started [**2797-10-9**] 60 mg x 3 d, 40 mg x 3 d, 20 qd
+Diflucan 100 mg x 5 d to start [**2797-10-10**]
+
+ 
+Discharge Medications:
+1. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QMON (every 
+Monday).
+Disp:*4 Tablet(s)* Refills:*0*
+2. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: 
+One (1) Disk with Device Inhalation BID (2 times a day).  
+3. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a 
+day).
+Disp:*45 Tablet(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Verapamil 120 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q24H (every 24 hours).
+Disp:*30 Tablet Sustained Release(s)* Refills:*0*
+7. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+9. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet, Chewable(s)* Refills:*0*
+10. Theophylline 400 mg Tablet Sustained Release Sig: 1.5 Tablet 
+Sustained Releases PO DAILY (Daily).
+Disp:*45 Tablet Sustained Release(s)* Refills:*0*
+11. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+12. Zafirlukast 20 mg Tablet Sig: One (1) Tablet PO bid ().
+Disp:*60 Tablet(s)* Refills:*0*
+13. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).
+Disp:*90 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Tracheobronchomalacia
+COPD
+Diabetes Type II
+Obstructive [**Doctor Last Name **] Apnea
+
+ 
+Discharge Condition:
+fair
+
+ 
+Discharge Instructions:
+Please follow-up with [**Doctor First Name **] primary care physician as scheduled.  
+Please schedule an appointment with your pulmonary doctor in the 
+next 2 weeks.  Take your medications as prescribed.  Please 
+check [**Doctor First Name **] blood sugar frequently (preferably four times a day) 
+and take your insulin as prescribed, please call your doctor if 
+your blood sugars are low or very high.  Please call if [**Doctor First Name **] 
+develop difficulty breathing, increase in cough, fever, chills, 
+or any other questions or concerns.
+ 
+Followup Instructions:
+Dr. [**Last Name (STitle) 8397**] - Monday, [**10-27**] 1:30 PM
+Tel number [**Telephone/Fax (1) 8398**]
+
+ 
+                             [**First Name11 (Name Pattern1) 732**] [**Last Name (NamePattern4) 2042**] MD [**MD Number 2043**]
+ 
+Completed by: [**Name6 (MD) 3966**] [**Name8 (MD) 3967**] MD [**MD Number 3968**] [**2797-11-16**] @ 1654
+Signed electronically by: DR. [**First Name8 (NamePattern2) 732**] [**Last Name (NamePattern1) **]
+ on: MON [**2797-12-8**] 1:53 PM
+(End of Report)
+
+
+",,
+13011,29366,,,2797-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-10-10**] 3:56 PM
+     CT TRACHEA W/O C W/RECONS                                       Clip # [**Clip Number (Radiology) 12082**]
+     Reason: COPD,DOE
+     Admitting Diagnosis: TRACHEAL MALASIA;CHRONIC [**Last Name (un) **] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with copd doe                                                 
+     REASON FOR THIS EXAMINATION:
+      eval stenosis                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TRACHEA DATED [**2797-10-10**]
+     
+     INDICATION:  Chronic obstructive pulmonary disease and dyspnea on exertion.
+     
+     CT of the central airways was performed according to the CT trachea protocol. 
+     Initially, at end inspiration, images were acquired using a standard-dose
+     technique without intravenous or oral contrast administration.  Per the CT
+     trachea protocol, imaging extended a few centimeters below the carina but did
+     not include the entirety of the lung bases.  Subsequently, using a low-dose
+     technique, an acquisition was performed over a similar area during dynamic
+     expiratory phase of respiration.  Additionally, using cine mode, images were
+     acquired from the level of the aortic arch to the carina during a coughing
+     sequence.
+     
+     At end inspiration, the trachea and main stem bronchi are normal in caliber
+     and demonstrate no significant wall thickening.  There is evidence of severe
+     tracheobronchomalacia, best demonstrated on the coughing sequence images,
+     where there is near complete collapse of the trachea, and complete collapse of
+     the main stem bronchi and bronchus intermedius during the coughing procedure.
+     The tracheomalacia begins at approximately the level of the aortic arch.
+     
+     Assessment of the imaged portions of the lungs demonstrates severe emphysema
+     with centrilobular features.  A noncalcified nodule is observed in the right
+     middle lobe just below the minor fissure, best visualized on image 191 of
+     series 4, and measuring approximately 5 mm in greatest diameter.  A
+     nonspecific area of ground glass opacity is seen in the right upper lobe
+     posteriorly adjacent to the major and minor fissures.  Two tiny micronodules
+     are seen in the lung apices, and note is also made of small calcified pleural
+     plaques bilaterally.
+     
+     The imaged portions of the soft tissue structures of the thorax reveal no
+     significantly enlarged mediastinal or hilar lymph nodes.  Within the imaged
+     portion of the heart, diffuse coronary artery calcifications are observed.
+     
+     Skeletal structures reveal degenerative changes within the spine.
+     
+     MULTIPLANAR AND 3D RECONSTRUCTION IMAGES:  These images confirm the absence of
+     tracheal or bronchial stenosis as well as the absence of endoluminal lesions
+     within the trachea or main stem bronchi.  They also confirm the presence of
+     airway malacia.
+     
+                                                                 (Over)
+
+     DATE: [**2797-10-10**] 3:56 PM
+     CT TRACHEA W/O C W/RECONS                                       Clip # [**Clip Number (Radiology) 12082**]
+     Reason: COPD,DOE
+     Admitting Diagnosis: TRACHEAL MALASIA;CHRONIC [**Last Name (un) **] PULM DISEASE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Severe tracheobronchomalacia.
+     2.  Severe emphysema.
+     3.  5-mm diameter right middle lobe lung nodule and tiny bilateral apical
+     micronodules.  Recommend a followup chest CT in three months to document
+     stability of these small nodules in order to exclude the possibility of early
+     lung neoplasm.
+
+",,
+13011,29366,,,2797-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-10-15**] 3:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12083**]
+     Reason: s/p emergent intubation                                     
+     Admitting Diagnosis: TRACHEAL MALASIA;CHRONIC [**Last Name (un) **] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      s/p emergent intubation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old woman with emergent intubation.
+     
+     CHEST X-RAY, AP PORTABLE VIEW
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  Heart size is normal.  The mediastinal contours are normal.  The ET
+     tube is about 7 cm from the carina.  At the thoracic inlet, there are no
+     pleural effusions.  There is no pneumothorax.  An opacity is seen in the left
+     lower lobe, likely pneumonia.  There is bilateral diffuse emphysema.  There is
+     asymmetric pulmonary edema, more on the right.  More evident at the lung bases
+     due to emphysema.
+     
+     IMPRESSION:
+     1.  Patchy opacity in the left lower lobe, likely pneumonia.
+     
+     2.  Diffuse bilateral emphysema.
+     
+     3.  Asymmetric pulmonary edema, more on the right.
+                                                                           
+
+",,
+13011,29366,,,2797-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-10-16**] 1:55 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 12084**]
+     Reason: eval PTX, placement                                         
+     Admitting Diagnosis: TRACHEAL MALASIA;CHRONIC [**Last Name (un) **] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old woman with COPD, hypercarbic respiratory failure, increased wbc  
+      count, ?PNA, now s/p Subclav line.                        
+     REASON FOR THIS EXAMINATION:
+      eval PTX, placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate subclavian line.
+     
+     COMPARISON:  Chest x-ray dated [**2797-10-15**].
+     
+     SINGLE PORTABLE AP UPRIGHT CHEST RADIOGRAPH:  There has been interval
+     placement of a left subclavian central venous line with its tip terminating at
+     the junction of the brachiocephalic vein and the superior vena cava.  There is
+     no evidence of pneumothorax.  The endotracheal tube is approximately 4.6 cm
+     above the carina.  Previously seen bilateral lower lobe opacities, unchanged
+     in appearance.  Cardiac and mediastinal contours are unchanged in appearance.
+     
+     IMPRESSION:  Appropriately placed left subclavian central venous line.  No
+     pneumothorax.
+
+",,
+13011,29366,16188,0,2797-10-16 17:44:00 EST,2797-10-16 17:58:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing NOte (1700-1900hrs)
+
+Pt is a 51yr old female adm with COPD flare; received steroids.  Dx with severe tracheal malacia; stabilized [**10-9**] for OR--Y stent placed.  While in PACU, pt extubated and initial pH 7.09; reintubated [**10-15**]. Hypercarbic issues, oliguria, hypotension.  Received short period of neo and IVF boluses (total 4L), decided to briefly paralyze with verconium to obtain better control of resp status.  Post verconium, oliguria/hypotension/resp status dramatically improved.  Pt was extubated [**2797-10-16**] at 1530hrs. Thought is pt may have been hypoventilated during OR/bronch and suffered an acute hypoxic event.  
+
+Pmhx: <chol, smoker, COPD with home )2 /3L with BIPAP during [**Doctor Last Name 8**] periods, [**Doctor Last Name 8**] apnea, IDDM, steoporosis d/t steroids, anemia, depression, anxiety, obesity.
+
+Review of systems:
+Neuro: Extremely talkative upon arrival; anxiety.  Increased agitation with delayed appearance of family.  Family arrived and spirits improved.  Pt cont to speak loudly and fast. Portuguese is primary language however speaks good English. Awaiting arrival of Dr. [**Doctor Last Name 4320**] for further assessment of baseline mental status.
+
+CV: Tachy into 120's at times prob d/t anxiety/mental state. BP  147/72 via a-line. Multiple old bruises to abdomen and upper arms--chronic steroids. Has R SC TLCL, confirmed placement with LR at 10cc/hr. PIV RAC. A-line site unremarkable. Labs due in am. Set of blood cx sent. P-boots.
+
+Resp: LS clear, diminished to bases. o2 sats >95% with 3L nc/and face tent at 15L for humidification. Awaiting arrival of BIPAP from F11. Inhalers at bedside. Using yankeur independently to clear sputum expectorated.
+
+Gi/GU: NPO. SSI. Abd large, obese with hypoactive BS. Good u/o via foley cath. ?LBM, ordered for lactulose/senna/colace.
+
+iD: Presumed PNA--vanco/levo. Steroids. Afebrile on arrival.
+
+Social: Husband is HCP. Pt is Jehovah Witness but will take blood ""or else my husband will be so made at me."" Full code.
+
+Plan: Iv antibx. steroids. Inhalers, BIPAP at noc. Labs am. Emotional support. Titrate oxygen. SSi.Closely monitor resp stauts.
+",,
+13011,29366,16188,0,2797-10-16 18:20:00 EST,2797-10-16 18:22:00 EST,1592,"N",69,"Nursing/Other",,"
+
+Transfered to MICU from PACU post recovery from Y stent placement.Patient sleeps on BIPAP 14/6 with 4 liter 02 blends in.Has her on machine in room.
+",,
+13011,29366,16188,,2797-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-10-17**] 9:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12085**]
+     Reason: Please evaluate for infiltrates                             
+     Admitting Diagnosis: TRACHEAL MALASIA;CHRONIC [**Last Name (un) **] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old woman with COPD, hypercarbic respiratory failure, increased wbc 
+      count, ?PNA.                                                    
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrates                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old woman with COPD, hypercarbic respiratory failure, to
+     evaluate for pneumonia.
+     
+     CHEST X-RAY, AP PORTABLE VIEW.
+     
+     COMPARISON:  [**2797-10-16**].
+     
+     FINDINGS:  The heart size is normal.  The cardiomediastinal contours are
+     unchanged in appearance.  There is bilateral diffuse emphysema.  Note is again
+     made of asymmetric pulmonary edema.  Continued left lower lobe opacity which
+     may represent consolidation.
+     
+     There has been interval removal of the endotracheal tube.  The left subclavian
+     catheter appears alive at the junction of the left brachiocephalic vein and
+     SVC.
+     
+     IMPRESSION:
+     1.  Continued asymmetric pulmonary edema.
+     2.  Bilateral diffuse emphysema.
+     3.  Left lower lobe consolidation/atelectasis.
+                                                                           
+
+",,
+13011,29366,16188,0,2797-10-17 04:40:00 EST,2797-10-17 05:16:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+Pt 51YO female with significant hx for COPD requiring multiple admissions to [**Hospital3 **]. Last admit [**10-1**] for COPD exacerbation when she underwent bronch reporting tracheomalacia. Pt refered to [**Hospital1 10**] for further eval by IP team for possible intervention. Pt admitted [**10-9**] to [**Hospital Ward Name **] 11 and taken to OR [**10-15**] for placement of Y stent. Post procedure failed extubation with pH 7.09 and PaCo2 >100...reintubated. Pt then hypotensive with drop in UO. Started on neo, given IVF bolus and paralyzed with improvement in oxygenation, BP and urine output. Successfully extubated and transferred to MICU for further monitoring. Started on abx for presumed pna. 
+
+CV: HR 110-120's, ST with no ectopy. ABP via left radial art line 100-130/60-70's. HR 130-140's with increase in SBP 170's with agitation. Pt on verapamil, lisinopril at home. Started on verapamil last evening. Pt able to be calmed with verbal support and reassurance mostly, but has required prn doses of ativan. LSC triple lumen intact with slight oozing of blood noted at insertion site. 
+
+Resp: Pt initially on 3L NC and Face tent. Pt agitated and pulling off face mask with acute drop in sats to 79%. Face tent increased to 70%FiO2 with 3L NC. Pt on 3L O2 at home with use of Bipap at night. Pt placed on Bipap with 4L maintaining sats 94-96%. When pulling at mask and anxious, sats will decrease to 88%. Pt agitated and SOB....ABG 7.44/49/59/34. Given 1mg ativan with good response. BBS clear-coarse and diminished in lower lobes. 
+
+Neuro: Pt alert/oriented x3. Answering questions appropriately, but occasionally making comments such as ""Is there medicine in this"" referring to suction tubing. Very anxious and angry about hospitalization and ""everything I been through"". Gets very worked up and yelling at times. Responds well to verbal support. Pt has baseline anxiety and per patient takes ativan 0.5mg BID at home. 
+
+GI/GU: Abdomen obese, BS present. On clear liquid diet, taking meds and clear well. Pt very concerned about chocking and afraid to have much more than sips of water. Foley cath draining adequate amounts of UO, clear/yellow. Last BM tuesday. Pt started on bowel regimen. 
+
+ID: Pt on levofloxacin and vanco. Afebrile. Pan cx yesterday...sputum cx showing gram + cocci in pairs/clusters, cx still pending. WBC 24.4 from 31.8. 
+
+Endo: Receiving methylprednisolone....BS AC/HS with sliding scale coverage. Should be started on NPH when diet initiated. 
+
+Social: Family to visit last night, husband called this am. Full code. 
+
+Plan: Wean O2
+      Control HR, BP
+      Continue abx
+      Treat anxiety
+",,
+13011,29366,16188,0,2797-10-17 05:22:00 EST,2797-10-17 05:25:00 EST,1813,"N",69,"Nursing/Other",,"
+
+resp care
+Pt placed on her own bipap with settings of 14/6 with 4l O2. sats generally 94-96 but dec to 85 with talking and moving. BS coarse bil. Alb/atro neb given as ordered with improvement in aeration. Cough prod of sml amts of loose white sput. Will cont to follow.
+",,
+13011,29366,16188,0,2797-10-17 16:54:00 EST,2797-10-17 16:55:00 EST,1922,"N",69,"Nursing/Other","7a-7p","
+7a-7p
+see transfer note
+",,
+13011,29039,,,2797-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-11-11**] 9:08 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 12086**]
+     Reason: TRACHEOBRONCHOMALACIA
+     Admitting Diagnosis: TRACHEOBRONCHOMALACIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with tracheobronchomalacia s/p Y-Stem stenting.               
+     REASON FOR THIS EXAMINATION:
+      pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Tracheobronchiomalacia status post stenting.  Preoperative
+     evaluation.
+     
+     COMPARISON:  [**2797-10-17**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  The cardiac and mediastinal contours are
+     within normal limits.  The pulmonary vascularity is normal.  Mild atelectatic
+     changes are noted at the lung bases.  There are no focal consolidations,
+     pleural effusions, or pneumothorax noted.  Flattening of the diaphragms and
+     increased AP diameter on the lateral view suggest the presence of emphysema.
+     The osseous structures are unremarkable.  A stent is faintly visible within
+     the trachea and right main stem bronchus.
+     
+     IMPRESSION:  Mild bibasilar atelectasis.  No evidence for pneumonia or
+     congestive heart failure.
+                                                                           DFDdp
+
+",,
+13011,29039,,,2797-11-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-11-13**] 3:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12087**]
+     Reason: r/o infiltrates/effusions                                   
+     Admitting Diagnosis: TRACHEOBRONCHOMALACIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old woman with COPD, tracheobronchomalacia now s/p stent removal.    
+                          
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrates/effusions                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     COMPARISON: [**2797-11-11**].
+     
+     INDICATION:  Stent removal.  Tracheobronchomalacia.
+     
+     The heart size and mediastinal contours are normal limits for technique. 
+     There is a new patchy opacity at the right lung base partially obscuring the
+     medial aspect of the right hemidiaphragm.  The lungs are otherwise clear, and
+     there are no pleural effusions.
+     
+     IMPRESSION:  New patchy right lower lobe opacity which may relate to patchy
+     atelectasis, aspiration, or early pneumonia.  Follow up radiographs may be
+     helpful.
+                                                                           
+
+",,
+13011,29039,,,2797-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2797-11-14**] 8:23 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12088**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: TRACHEOBRONCHOMALACIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old woman with tracheobronchomalacia s/p stent removal, ?RLL 
+      infiltrate
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Tracheobronchomalacia.  Stent removal.
+     
+     PA and lateral chest.  There is a parenchymal opacity in the right medial
+     basal lung which does not obscure the right heart border.  This is poorly
+     localized on lateral projection.  Remainder of lungs clear.  Heart normal size
+     without vascular congestion and sharp CP angles.  Flattened diaphragms.  The
+     right lower lobe process is probably unchanged from bedside exam one day
+     previous as well as from exams [**11-11**], and [**2797-8-25**].
+     
+     IMPRESSION:  Chronic right basal process.  No acute disease. Possible
+     emphysema.
+
+",,

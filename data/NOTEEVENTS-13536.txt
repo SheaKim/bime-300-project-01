@@ -1,0 +1,1285 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13536,,,,3142-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-4-23**] 3:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 805**]
+     Reason: PRE-OP FOR KIDNET TX; ASSESS LUNG STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+       preop                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative for kidney transplant, assess pulmonary status.
+     
+     FINDINGS:  The heart size is within normal limits. The thoracic aorta is
+     widened and shows a slightly scalloping contour in its descending portion.
+     The pulmonary vasculature is characterized by somewhat irregular
+     distribution, but there is no conclusive evidence for interstitial or
+     allveolar edema.  In the left hilar area, slightly lateral and superior, an
+     approximately 1 cm long linear structure is present, suspected to be a
+     surgical staple or other artifact.  In the right mid lung field and in a
+     location similar to the minor fissure, a row of microstaples or suture lines
+     is seen.  One cannot identify conclusively a site of entrance for pulmonary
+     surgery in the rib cage, and there is no evidence of sternal wires on this
+     single AP view.  No signs of acute parenchymal infiltrates are present and the
+     lateral pleural sinuses are free.
+     
+     There exists no previous chest exam in our records available for comparison.
+     
+     IMPRESSION:
+     
+     No significant cardiac enlargement or evidence of pulmonary congestion.  No
+     acute infiltrates.  Appearance of the thoracic aorta is remarkable for
+     patient's age, and systemic hypertension is suspected.  Surgical wires and
+     staples in right and left lung fields require clinical correlation.
+
+",,
+13536,,,,3142-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-4-23**] 7:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 806**]
+     Reason: s/p line                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with crt                                                      
+     REASON FOR THIS EXAMINATION:
+      s/p line                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess central line placement.
+     
+     TECHNIQUE:  Portable AP supine chest radiograph.
+     
+     COMPARISON:  Exam performed four hours earlier.
+     
+     FINDINGS:  There has been interval placement of a right IJ central venous
+     catheter, which terminates at the distal SVC.  There is no associated
+     pneumothorax.  The cardiac and mediastinal contours appear stable. Note is
+     made of surgical clips over the left hilum, as well as chain sutures along the
+     right mid lung zone.  In the interval, there is an increase in interstitial
+     markings, likely representing mild pulmonary edema.  There are no pleural
+     effuisons.  The visualized osseous structures and soft tissues are
+     unremarkable.
+     
+     IMPRESSION:
+     
+     1. Satisfactory placement of right IJ catheter.
+     2. Findings consistent with mild pulmonary edema.
+
+",,
+13536,,,,3142-04-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-4-24**] 9:41 AM
+     RENAL TRANSPLANT U.S. RIGHT                                     Clip # [**Clip Number (Radiology) 807**]
+     Reason: SP KIDNEY TX ,EVAL FOR BLOOD FLOW 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman s/p CRT                                                       
+     REASON FOR THIS EXAMINATION:
+      Assess blood flow                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Postop day #1 for renal transplant, assess blood flow.
+     
+     RENAL ULTRASOUND: The transplant kidney in the right lower quadrant has an
+     unremarkable appearance without evidence for hydronephrosis. It measures
+     11.1 cm. There is normal arterial flow identified with calculated resistive
+     indices of 0.73, 0.62, 0.71, and 0.66. A Foley catheter is idenified in the
+     bladder.
+     
+     IMPRESSION: Unremarkable appearance of the transplant kidney.
+
+",,
+13536,,,,3142-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-4-29**] 5:56 PM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 808**]
+     Reason: Poor graft function...check graft flow                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       54 year old woman s/p CRT                                                      
+       
+     REASON FOR THIS EXAMINATION:
+      Poor graft function...check graft flow                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 54-year-old woman with a transplanted kidney.  Evaluate graft
+     flow.
+     
+     COMPARISON:  [**3142-4-24**].
+     
+     The transplanted kidney is identified in the right lower quadrant, and
+     measures 12.6 cm in length.  Its appearance is unchanged compared to the prior
+     study.  No hydronephrosis.  There is normal arterial flow with resistive
+     indices ranging from 0.76 to 0.83 (0.8, 0.76, 0.83, 0.78 and 0.79).
+     
+     IMPRESSION:  No hydronephrosis.  Normal arterial flow.
+
+",,
+13536,,,,3142-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-1**] 1:41 PM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 810**]
+     Reason: ELEVATED CREATININE NEW TRANSPLANT POOR FUNCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with CRT that has delayed graft function                      
+     REASON FOR THIS EXAMINATION:
+      transplant kidney biopsy                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Needle biopsy of kidney guided by radiologist.
+     
+     Ultrasound guided biopsy:  Ultrasound guidance was provided for the nephrology
+     staff. Two core biopsies were obtained with an 18 gauge needle through the
+     lower pole of the transplant kidney. No complications were observed.
+
+",,
+13536,,,,3142-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-1**] 1:41 PM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE FOR [**Female First Name (un) 809**]/ABD/PARA CENTESIS USClip # [**Telephone/Fax (1) 810**]
+     Reason: ELEVATED CREATININE NEW TRANSPLANT POOR FUNCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with CRT that has delayed graft function                      
+     REASON FOR THIS EXAMINATION:
+      transplant kidney biopsy                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Needle biopsy of kidney guided by radiologist.
+     
+     Ultrasound guided biopsy:  Ultrasound guidance was provided for the nephrology
+     staff. Two core biopsies were obtained with an 18 gauge needle through the
+     lower pole of the transplant kidney. No complications were observed.
+
+",,
+13536,,,,3142-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-4**] 11:04 AM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 811**]
+     Reason: ELEVE. CREATINE, ASSESS FOR HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        54 year old woman s/p CRT                                                     
+         
+     REASON FOR THIS EXAMINATION:
+      Assess for hematoma                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDIATION:  Assess for hematoma after biopsy.
+     
+     FINDINGS:  Direct comparison was made to transplant ultrasound obtained
+     [**3142-4-29**].  The right pelvic renal transplant measures 12.8 cm.  There is no
+     perinephric fluid collection.  There has been interval change in the arterial
+     waveforms in the upper, mid and lower poles.  There is now a tardus appearance
+     to the arterial waveform.  There is still diastolic flow; however, there is
+     mild elevation of the resistive indices, ranging from 0.74 to 0.83.
+     
+     IMPRESSION:
+     
+     1.  No perinephric fluid collection.
+     
+     2.  Interval development of tardus waveform throughout the transplant kidney
+     with mild elevation of the resistive indices.
+     
+
+",,
+13536,2835,,,3142-05-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3142-5-17**]     Discharge Date:  [**3142-5-23**]
+
+Date of Birth:   [**3087-11-18**]     Sex:  F
+
+Service:
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 54-year-old
+female known to the Transplant Surgery Service who underwent
+a cadaveric renal transplant on [**3142-4-23**] and presents
+with fever, chills, and rigors, and a temperature to 103.
+The patient had been well since the transplant and had been
+at home on her immunosuppression medications.  She noticed
+five days prior to admission that she had an upper
+respiratory tract illness.  On the day of admission, this had
+worsened to fevers, chills, rigors, and the above mentioned
+temperature.  She had some pain on urination and some
+shortness of breath when she arrived in the Emergency Room.
+No chest pain, abdominal pain, nausea or vomiting.
+
+PAST MEDICAL HISTORY:
+1.  Diabetes mellitus.
+2.  Hypertension.
+3.  End-stage renal disease.
+4.  Hypercholesterolemia.
+
+PAST SURGICAL HISTORY:  Cadaveric renal transplant on
+[**3142-4-23**].
+
+MEDICATIONS ON ADMISSION:
+1.  Valcyte 450 mg p.o. q.d.
+2.  Nystatin 5 cc swish and swallow q.i.d.
+3.  Bactrim one tablet p.o. q.d.
+4.  Protonix 40 mg p.o. q.d.
+5.  Insulin 70/30 16 units q.a.m.
+6.  Aluminum hydroxide 10-30 cc t.i.d.
+7.  CellCept 1 gram b.i.d.
+8.  Prednisone 20 mg p.o. q.d.
+9.  FK506 5 mg p.o. b.i.d.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+SOCIAL HISTORY:  The patient lives at home with her husband.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  The
+patient's temperature was 102.9, heart rate 130, blood
+pressure 201/104 in the Emergency Room.  The patient was
+having rigors on examination.  Chest: Clear to auscultation
+bilaterally, tachycardiac but regular.  Abdomen:  Soft.
+Incision was clean, dry, and intact.  No erythema.  No edema
+in the extremities.
+
+LABORATORY DATA:  White count 6.7, hematocrit 26.7, platelets
+253,000, BUN and creatinine 4 and 1.7.  Bicarbonate 13.
+
+EKG was sinus tachycardia.
+
+HOSPITAL COURSE:  The patient was in the Emergency Room
+having rigors and during the placement of a Foley, she
+desaturated down to 80% and had to be placed on a
+nonrebreather mask.  She complained of shortness of breath
+and some chest pain.  A chest x-ray was obtained and was
+consistent with congestive heart failure.  She was given 80
+mg of Lasix, placed on a nitroglycerin drip for blood
+pressure control, and started on a beta blocker.
+
+After the initiation of this therapy, her respiratory
+symptoms resolved.  Her saturations recovered to 100%.  Based
+on this desaturation, cardiac enzymes were sent and were
+found to be slightly elevated with a high troponin I of 5.0.
+
+In the meantime, urinalysis and culture were sent which were
+positive for E. coli and blood cultures sent were positive
+for gram-negative rod bacteremia.  She was placed on
+levofloxacin and Flagyl and then ultimately left on
+levofloxacin for antibiotic coverage.
+
+In the Intensive Care Unit, the patient remained stable.  She
+was evaluated by Cardiology and the patient was placed on
+oral medications for blood pressure control including
+Lopressor and Norvasc.  She was weaned off the nitroglycerin
+drip and was then transferred to the floor on hospital day
+number five.
+
+On the floor, the patient remained stable.  She had a
+Persantine MIBI cardiac test which was negative for any
+ischemia.  Her creatinine remained stable.  She continued to
+make urine.  She defervesced and had no temperature spikes.
+She has otherwise done well and is stable for discharge.
+
+Of note, on the date of planned discharge, the patient left
+the hospital against medical advice prior to the team's order
+for discharge.  She was told that she would be at risk for
+developing a further infection for putting her transplant and
+her own health at risk if she was to leave prior to receiving
+the appropriate discharge instructions.  She decided to leave
+and there will be an attempt to make contact with her at home
+to determine her needs and further follow-up regarding both
+her renal transplant and the urosepsis.
+
+DISCHARGE DIAGNOSIS:
+1.  Urosepsis.
+2.  Congestive heart failure.
+3.  Status post cadaveric renal transplant.
+4.  Diabetes mellitus.
+5.  Hypertension.
+6.  Hypercholesterolemia.
+
+MEDICATIONS ON DISCHARGE:  Her admission medications with no
+new medications since the patient left AMA.
+
+DISCHARGE CONDITION:  Stable, but it is worrisome that the
+patient did not receive the prescriptions for her antibiotic
+and her antihypertensive medications.  She will be contacted
+at home by the Transplant Team.
+
+
+
+
+                          [**Name6 (MD) 58**] [**Name8 (MD) **], M.D.  [**MD Number 2409**]
+
+Dictated By:[**Last Name (NamePattern1) 1479**]
+
+MEDQUIST36
+
+D:  [**3142-5-23**]  04:41
+T:  [**3142-5-23**]  20:35
+JOB#:  [**Job Number 9234**]
+Signed electronically by: DR. [**First Name (STitle) 58**] [**Name (STitle) **]
+ on: WED [**3142-5-27**] 3:57 PM
+(End of Report)
+
+
+",,
+13536,2835,,,3142-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-17**] 11:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 813**]
+     Reason: r/o infilrate, ptx, effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with acute SOB, tachypnea
+     REASON FOR THIS EXAMINATION:
+      r/o infilrate, ptx, effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Acute shortness of breath, tachypnea.
+     
+     CHEST X-RAY, PORTABLE AP: Comparison made to chest x-ray of [**3142-5-17**], two
+     hours previously.  The heart size is enlarged.  There is mild perihilar
+     haziness. No focal infiltrates.  There are likely small bilateral pleural
+     effusions.
+     
+     IMPRESSION: Mild congestive heart failure.  No acute infiltrate.  No
+     pneumothorax.
+     
+
+",,
+13536,2835,,,3142-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-17**] 10:08 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 812**]
+     Reason: recent cough and temp s/o kidney transplant
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with
+      cough and temp s/p kidney transplant
+     REASON FOR THIS EXAMINATION:
+      recent cough and temp s/o kidney transplant
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA & LATERAL CHEST:
+     
+     INDICATION: 54 y/o female with cough and temperature s/p kidney transplant.
+     
+     Comparison is made to prior examination of [**3142-4-23**].
+     
+     FINDINGS: The heart is mildly enlarged. There are bilateral increased
+     interstitial markings wih reticular, somewhat nodular pattern as before. The
+     pulmonary vasculature appears normal. Mediastinal and hilar contours are
+     unremarkable and unchanged. The aorta is tortuous. Surgical chain sutures are
+     seen in the right mid lung zone. No pneumothorax. No pleural effusions. No
+     focal lung opacities.
+     
+     IMPRESSION: 1) No radiographic evidence of pneumonia. 2) Mild increased
+     interstitial markings suggesting underlying chronic disease with possible
+     slight superimposed edema.
+
+",,
+13536,2835,,,3142-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-18**] 1:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 814**]
+     Reason: ?CHF                                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       54 year old woman with acute SOB, tachypnea                                    
+     REASON FOR THIS EXAMINATION:
+      ?CHF                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION:  Acute shortness of breath and tachypnea.  Rule out CHF.
+     
+     FINDINGS:  A single AP upright portable examination.
+     
+     Comparison study dated [**3142-5-17**].
+     
+     The heart shows slight enlargement, probably biventricular.  The aorta is
+     unfolded.  The pulmonary vessels show slight upper zone redistribution.  No
+     definite pulmonary infiltrates or effusions can be identified.  A row of
+     surgical sutures is noted in the right mid zone laterally.  The hila and
+     mediastinum are unremarkable.
+     
+     IMPRESSION:  Slight cardiomegaly, biventricular.  Possible slight LV
+     decompensation.  The appearances are essentially unchanged.
+
+",,
+13536,2835,,,3142-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-18**] 10:58 AM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 816**]
+     Reason: DROP IN HCT PLEASE R/O ANEURYSM AND HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         54 year old woman s/p CRT in march of this year who presented with fever, 
+      CHF, and HCT of 19. question whether she has a pseudoaneurysm vs perinephric 
+      hematoma.
+     REASON FOR THIS EXAMINATION:
+      please eval transplanted kidney for pseudoaneurysm, perinephric hematoma        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TRANSPLANT RENAL ULTRASOUND, [**3142-5-18**]:
+     
+     INDICATION:  Decreased hematocrit post renal transplant.
+     
+     Comparison is made to study of [**3142-5-4**].
+     
+     FINDINGS:  The transplant kidney measures 13 cm.  There is mild fullness of
+     the collecting system but this is unchanged from the prior examinations. There
+     are no perinephric fluid collections.  Resistive indices measured at three
+     separate locations within the renal parenchyma vary from 0.76 to 0.79.  The
+     extrarenal renal artery and renal vein show normal color flow and normal
+     Doppler wave forms.  Color and power Doppler images of the kidney show no
+     areas suspicious for pseudoaneurysm.
+     
+     IMPRESSION:  No hydronephrosis or perinephric fluid collections.  Resistive
+     indices as above.  No evidence for pseudoaneurysm.
+
+",,
+13536,2835,,,3142-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-18**] 9:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 815**]
+     Reason: pneumothorax from line placement                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        54 year old woman with acute SOB, tachypnea                                   
+       
+     REASON FOR THIS EXAMINATION:
+      pneumothorax from line placement                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P line placement, with acute shortness of breath and tachypnea.
+     
+     CHEST, PORTABLE AP: Comparison made to chest x ray [**3142-5-18**], film taken 9
+     hours previously. A new left subclavian central venous line is seen with tip
+     in the right atrium. The cardiomediastinal contour is unchanged. The heart is
+     enlarged. There is upper zone redistribution of the pulmonary vasculature. The
+     hilar contours are unchanged. No acute infiltrates.
+     
+     IMPRESSION: 1) New subclavian central venous line with tip in the right
+     atrium. No pneumothorax.
+     
+     2) Persistent mild congestive heart failure.
+     
+     3) No new infiltrates.
+
+",,
+13536,2835,16840,0,3142-05-18 04:42:00 EST,3142-05-18 05:01:00 EST,2404,"N",69,"Nursing/Other",,"
+
+D ADM FROM EW AT 0230. ALERT AND ORIENTED MAE STATED ABLE TO CARE FOR SELF BUT IS WEEK.NO ASSISTS NEED TO WALK.
+CV: NSR NO VEA. ON NTG DRIP AT 10MCG/KG /MIN ON ARRIVAL SBP 130'S ON ARRIVAL. TEAM PLACED A LINE . TEMP 103.6 RECTAL .CURRENTLY L ALINE INPLACE WITH GOOD WAVE. NTG AT 3MCG/KG/MIN TO MAINTAIN SBP < 130. TEMP DOWN TO 99.6 AX.PALP DP/PT AND GOOD L THRILL AND BRUIT IN LLA FISTULA . PT HAS NOT NEEDED DIALYSIS SINCE SHE LEFT THE HOSPITAL IN MARCH. IV REJ  D51/2 @ 60 AND NTG. NO OTHER ACCESS. LABS PENDING.
+LUNGS :BS IN ALL FIELDS . COARSE THROUGHOUT CLEARS SOMEWHAT . NO RALES HEARD.
+GI : ABD SOFT. BOWEL SOUNDS PRESENT.
+GU : FOLEY TO CD.
+SKIN: VERY DRY AND SCALELY
+A STABLE, 
+R NOTE AM LABS.REPLEAT LYTES IF NEEDED.CHECK TEMP FREQHEN.CHECK BLOOD  CULTURE FOR SOURSE OF THIS INFECTION    
+
+",,
+13536,2835,16840,0,3142-05-18 05:24:00 EST,3142-05-18 05:26:00 EST,2404,"N",69,"Nursing/Other",,"
+
+ADDENDUM. ABD RT FLANK ECCYMOTIC WITH STERI STRIPS TO INCISION.  INSCISION D/I.
+",,
+13536,2835,16840,0,3142-05-18 16:41:00 EST,3142-05-18 16:57:00 EST,2393,"N",69,"Nursing/Other","7-7pm","
+7-7pm
+Pt with cadaver kidney transplant presented to ED last eve with fever,chills. Sepsis picture. Tmax in ER was 103.4. Afebrile today, but has been having chills throughout the day. Crit this am was 19.3 (results duplicated by two draws.) Crossed for six units. Receieved 2 units this am and to receive two more this evening. Source of bleeding unknown. Renal US was normal as was cardiac echo. Troponin is increasing and was 5.0 at 5am.
+
+neuro:  Pt is AxOx3,MAE, follows commands. No c/o pain or discomfort.
+",,
+13536,2835,16840,0,3142-05-18 17:13:00 EST,3142-05-18 17:27:00 EST,2393,"N",69,"Nursing/Other","shift note continued","
+shift note continued
+
+resp: 2L nc, sats 98-100%. LS coarse throughout, no crackles. Did go into flash pul. edema last noc in ER.
+
+CV: Goal BP is < 130 and pt has been on nitro gtt all day as high as 8 mcg/kg/min along with Lopressor 7.5mg IV q6. Weaning nitro off, currently at 2 mcg. pt is on hydralazine 10mg po q6h prn. SR in the 70's, no ectopy.
+
+Access: R radial aline, L sc tlc placed today.
+
+heme: last crit was 23.7 (after 2 units). Third unit up at 1800, running over 2 hours, to be followed by another unit. Check crit at 2300. BC pending and fungal culture sent this eve.
+
+labs: mag, K repleted today
+
+GI/GU: belly is soft, + BS, ? distended (pt does not think so). BM x2 golden brown loose-sent for cdiff.
+Started on clear liq this evening, tolerating well.
+
+social: RN spoke with pt dtr this [**Name2 (NI) **] and updated her.
+
+Plan: Transfuse another unit (#4), check crit at 2300, 8pm immunosuppression meds posted under 1x orders, 
+
+",,
+13536,2835,16840,0,3142-05-18 21:31:00 EST,3142-05-18 21:43:00 EST,2404,"N",69,"Nursing/Other",,"
+
+D Nuero: Alert and oriented MAE, turns self independently.
+CV: NSR ST elevation significant triponin significantly elevated. 4th unint PRBC infusing. SBP continue to be a problem on NTG IV titrated to keep < 140 and lopressor and hydralazine given as well see med sheet for many changes in strength and frequency.no VEA noted. Palp DP/PT . LLa fistula with bruit and thrill.D51/2 @ 60
+GI abd distended and somewhat firm bowel sound present but but decreased. BM sent for ova and parisite guaiac neg. 
+GU: voiding.
+Skin: very dry with multiple scaring of healed lesions. Pt bathed and lotion applied.
+A stable at present but  B/P is not controlled and cause of low HCT unknown . Pt need close monitoring.
+R sent repeat HCT when blood finishes and a triponin. continue to keep SBP < 140
+",,
+13536,2835,16840,,3142-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-5-19**] 8:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 817**]
+     Reason: ro failure                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         54 year old woman with acute SOB, tachypnea                                  
+         
+     REASON FOR THIS EXAMINATION:
+      ro failure                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Acute SOB.
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from  [**3142-5-18**].
+     
+     There is a left subclavian central venous line with the tip in the low
+     superior vena cava. No pneumothorax. The cardiomediastinal contour is
+     unchanged. The heart size is persistently enlarged.  Perihilar haziness is
+     demonstrated, along with upper zone redistribution of the pulmonary
+     vasculature.
+     
+     IMPRESSION: Findings consistent with mild CHF.  This appears slightly improved
+     in the one day interval.
+
+",,
+13536,2835,16840,0,3142-05-19 05:35:00 EST,3142-05-19 06:07:00 EST,-1,"N",69,"Nursing/Other","MICU B NURSING NOTE 1900-0730","
+MICU B NURSING NOTE 1900-0730
+SEE CAREVUE FOR FOUTHER ASSESSMENT
+LOC: PT ALERT AND ORIENTED X'S 3. GRIP STRONG, MAE'S. OFFERS NO C/O PAIN OR DISCOMFORT AT THIS TIME.
+
+CV: PT ON TELEMERTY MONITOR SHOWS SR 90'S NO ECTOPY NOTED. PT DENIES CHEST PAIN. PT ON NITRO GTT  AT 8MCG/KG/MIN AND HAS LOPRESSOR/HYDRALAZINE PO MED PT'S SYS B/P 103-160, CURRENT 130'S, HYDRALAZINE HELD AT 0200 AND 0600 D/T LOW B/P. PT HAS HX. HTN D/T RENAL/KIDNEY PROBLEMS.
+
+LUNGS: PT ON O2 AT 2L PER N/C, PT C/O SOB X'1 DURING THE NIGHT ALBUTERAL GIVEN X'S 1 EFFECTIVE, DR. [**Last Name (STitle) **] INFORMED AGREED WITH TREATMENT GIVEN. PT DENIES SOB AT THIS TIME. LUNG SOUND COARSE WITH CLEAR MAINLY UPPER LOBES, 02 SATS >95%.
+
+GI/GU: PT ABD SOFT AND DISTENDED BS + X'S 4. PT HAS A DIET ORDER FOR CLEAR LIQUIDS, HOWEVER PT DID NOT  DURING RECEIVE ANY DIET DURING THE NIGHT. PT EMESIS  X'S 2, ONCE AROUND 0230 SMALL AMOUNT AND THEN AGAIN 0400 MEDIUM AMOUNT PT RECEIVED ZOFRAN 4MG AT 0315. PT DOES NOT HAVE CATHETER USES BEDPAN. PT STOOL X'S 3 RECTAL BAG IN PLACED, LIQUID/RUST COLOR STOOLS, C-DIFF SENT.
+
+LINES: AV FISTULA LT F/A + BRUIT/THRILL,  TLC LT [**Last Name (un) **] AND RT EJ WNL.
+
+ENDO: FSBS  Q6HR, LAST FS 318, RER INSULIN S/S GIVEN.
+
+ID: PT AFEBRILE, REMAINS ON ANTIOBOITICS SEE MAR. PT NOTED TO HAVE GRAM - RODS IN AN/AEROBIC CULTURES SENT ON [**5-18**], DR. [**Last Name (STitle) **] NOTIFIED.
+
+SKIN: PT NOTED TO HAVE RASH? UREMIC FROST D/T KIDNEY FUNCTION. RT UPPER/LOWER QUARDRANT STERI STRIPS D/I, NO DRAINAGE S/P KIDEY TRANSPLANT [**3142-4-11**].  
+
+LABS: PT'S BICARB 11, BICARB GTT ORDER AWAITNG FROM PHARMACY. MAG 1.5, REPLACED WITH 2GRAM MAG SULFATE.. PT RECEIVED 4 UNITS OF PRBC'S [**5-18**], AM CRIT 29.7.
+
+SOCIAL: NO VISITORS DURING THE NIGHT.
+
+PLAN: UPDATE PT REGARDING HER CARE/CONDITION, CONTINUE MEDICATIONS/TREATMENTS/PROCEDURES. PT REMAINS FULL CODE.       
+",,
+13536,2835,16840,0,3142-05-19 14:17:00 EST,3142-05-19 14:47:00 EST,-1,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Please refer to Careview for additional patient information
+*Full Code
+
+Neuro: A/O x3. MAE's, equal strength in upper extremities, no c/o pain. 
+
+CV: HR 70's NSR, no ectopy noted. Cont's on Nitro gtt attempted to titrate Nitro down, however pt could not tolerate; SBP 170's. Currently on Nitro 6.0mcg/kg/min w/ SBP's ~165. Pt also written for Metroprolol 50mg (po) bid, and Hydralazine PRN; both given w/ minimal effect. Goal is to get pt off Nitro gtt w/ PO Anti-hypertensives. Tmax 97.1 PO, pulses easily palpable througout. 
+
+Resp: 2 L NC, O2 sat's high 90's. No c/o sob, no-productive cough noted. LS clear upper, slightly coarse lower lobes. Lasix to be given for mild CHF (per HO).
+
+GI/GU: +BS, small bm, FIB in place, written for c-diff (one already sent yesterday). Some c/o of nausea this am after taking clear liquids, and bites of toast->no epsiodes of emesis. Pt given Zofran 4mg w/ good effect. U/O: voiding, 80cc this am. 450cc this afternoon (all at one time). 
+
+
+",,
+13536,2835,16840,0,3142-05-19 15:30:00 EST,3142-05-19 15:40:00 EST,-1,"N",69,"Nursing/Other","Addendum 07:00-19:00 MICU","
+Addendum 07:00-19:00 MICU
+Endo: Pt started on Insulin gtt at 5u/hr this am., currently at 9u/hr w/ bs ranging b/w 150-200. 
+
+Access: R A-line, RIJ 20g, L subclavian TLC, all wnl. LLA fistula, thrill and bruit auscultated. 
+
+Skin: c/o of skin itching this am, ?uremic frost; pt bathed this afternoon, no c/o of itching since that time. *RLQ incision, approximated and d/i steri-strips in place. 
+
+Plan: Monitor SBP, goal <160; attempt to wean down Nitro gtt as tolerated, cont' w/ prn Hydralazine (last given 15;00, written for q4hr), *Metroprolol changed to 100mg bid. Resp: encourage deep breathing, cont' to monitor O sat's. GI/GU cont's on clear liquids w/ small amounts of toast, as tolerated; no foley d/t ?urosepsis. 
+",,
+13536,2835,16840,0,3142-05-20 03:39:00 EST,3142-05-20 04:07:00 EST,1831,"N",69,"Nursing/Other","MICU B RN NOTE---FUO, ?RENAL COMPROMISE S/P TXPLT","
+MICU B RN NOTE---FUO, ?RENAL COMPROMISE S/P TXPLT
+THE NOC WAS ONLY EVENTFUL FOR BEING UNABLE TO WEAN NTG GTT, BUT HAVING TO TITRATE IT UP.. TO MAINTAIN GOAL SBP <160MMHG. 
+
+ALL BEDSIDE ALARMS CHECKED... FULL CODE... PLEASE SEE CAVEVUE FOR SUPPLEMENTAL DATA.
+
+CV: NSR. NTG GTT AT 7MCG/KG/MIN. RECEIVES PO METOPROLOL, NORVASC
+
+NEURO: OX3. MAE. HELPFUL WITH CARE.
+
+RESP: 2LNC YIELDS SATS>96%, RA YIELDS SATS 94-95%. SHE HAS SLEPT THRU MOST OF THE NOC (BIG DIFFERENCE FROM LAST NOC) WITH 2LNC ON. 
+
+GI/GU: FECAL BAG INTACT, WITHOUT ENOUGH OUT TO MEASURE. VOIDS TO BEDPAN, CL/Y URINE. SHE CAN HAVE CLEAR LIX, NOT DRINKING A LOT, ??? POOR APPETITE OR SHE IS NERVOUS TO GET AS NAUSEOUS (WITH VOMITING) AS SHE WAS MONDAY NOC. 
+BLOOD SUGARS DOING WELL (80-120) THRU NOC, EXCEPT AT 0420 FS=57...INSULIN GTT HELD X 1HOUR, APPLE JUICE GIVEN, AND FS TO BE RECHECKED AT 0515.
+
+LINES: ALINE TO RT RAD. TLCL TO LT IJ. RT EJ HAS 20GUAGE CANNULA. AND LUE FISTULA (+)BRUIT, (+)THRILL. 
+
+SKIN: RLQ INCISION IS WELL APPROXIMATED WITH STERI STRIPS. 
+
+PLAN: 
+1) WEAN NTG GTT IN SETTING OF PO ANTIHYPERTENSIVES, ????DOES SURGURY TEAM PREFER PRN IV HYDRALIZINE VS. TITRATING UP NTG GTT????
+2) INCREASE/ENCOURAGE C+DB....... 10X/HOUR W.A.
+3) OOB --->CHAIR TODAY
+4) NO FOLEY SECONDARY TO UROSEPSIS
+",,
+13536,2835,16840,0,3142-05-20 06:19:00 EST,3142-05-20 06:19:00 EST,1831,"N",69,"Nursing/Other",,"
+
+addendum
+sterile staight cath'd for 5cc urine spec sent
+",,
+13536,2835,16840,0,3142-05-20 16:29:00 EST,3142-05-20 16:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+review of systems:
+
+Neuro: Pt is alert and oriented x3, pt will follow simple commands and make purposful movements, Pt MAE, PERRLA.
+
+Resp: pt remains on 2 liters NC, and sao2 > 95%.  Pt bs are clear in uppers and diminished in bases.  Pt has a NPC.
+
+CV:  pt nitor gtt was weaned off today and d/c'd, pt BP is maintained with po hydralazine. will continue to monitor.  pt BP is currently 143/55, pt remaisnin a NSR with no ectopy noted.
+
+GI/GU: pt had two loose BM today, pt also self voided x2.
+
+ENDO: pt will remain on insulin gtt over night and started on ssi regimen in AM.
+
+Dispo:  if pt BP remians < 160 pt will be called out to [**Hospital Ward Name **] 6 in AM
+",,
+13536,2835,16840,0,3142-05-20 21:03:00 EST,3142-05-20 21:11:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Received pt. in bed resting, pt. is A/A/O with no voiced c/o any pain or discomfort at this time. Pt. is afebrile and neurologically intact. Pt. has remained in NSR with no noted ectopy during this shift. B/P has been slightly elelvated with SBP in the 140-150's Nitro gtt for B/P was shut off during the day and PRN hydralazine started. Pt. is a call out fir the am with close monitoring of B/P for tonight. So far no hydralazine given. Pt. voids per bedpan but has yet to void on this shift. Pt. also has had no stools so far into this shift. Pt. also remains on insulin gtt with blood sugars remaining WNL's and plans to start NPH in am with discontinuing of insulin gtt.
+",,
+13536,2835,16840,0,3142-05-21 05:43:00 EST,3142-05-21 05:49:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Pt. has remained afebrile and v/s have been stable. B/P has required prn hydralazine prn twice for SBP in the 160's. Pt. denies any c/o any pain or discomfort at this time. Insulin gtt is presently at 1unit/hr for am B.S. of 72. This will be turned off and regular am dose has yet to be ordered. Pt. voided large amt's of clear yellow via bedpan. No stool noted during this shift. Pt. did have 3 loose stools yesterday. Pt. will be called out this am.
+",,
+13536,2835,16840,0,3142-05-21 15:20:00 EST,3142-05-21 15:29:00 EST,2393,"N",69,"Nursing/Other","shift note/transfer note","
+shift note/transfer note
+neuro: Pt is AxOx3, MAE, follows commands. She does ambulate with assist, but is somewhat unsteady. Not comfortable allowing her to ambulate independently yet. Was supposed to have exercise stress test today, but was rescheduled for tomorrow due to difficulty ambulating.
+
+resp: Is now on RA with sats 93-94%. LS clear but diminished at bases.
+
+CV: NSR, no ectopy. Has been hypertensive since admission. Nitro gtt off since yesterday. Lopressor bid and hydralazine q4h.
+
+
+Access: L TLC, and R EJ PIV. Will remove aline prior to transfer to floor.
+
+GI/GU: Voids without difficulty, BM x 2 today. Tolerating [**Doctor First Name 196**] diet. RISS and is requiring coverage.
+
+Social: Husband in to visit today. Pt lives with husband and dtr.
+
+Plan: NPO at MN for stress in am, start IVF at MN. Transfer to [**Hospital Ward Name **] 6.
+
+",,
+13536,2835,,,3142-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 818**]
+     Reason: ELEVATED TROPONINS ASSOCIATED WITH FLASH PULMONARY EDEMA. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fifty-four year old female presenting to the emergency department with
+     flash pulmonary edema and found to have elevated Troponin.  The patient also  
+     had gram-negative rod sepsis and h/o renal transplant.
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+      
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142
+     mg/kg/min.  Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV.   
+      
+     INTERPRETATION: 
+      
+     Imaging Protocol: gated SPECT.
+      
+     Resting perfusion images were obtained with Tl-201.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+      
+     The patient did not experience any anginal symptoms or ischemic EKG changes.
+      
+     The left ventricular cavity size appears normal.  No myocardial perfusion
+     abnormalities are identified at rest or following Dipyridamole infusion.  
+      
+     Ejection fraction calculated from gated SPECT wall motion images obtained after
+     exercise is 63%.  No wall motion abnormalities are identified.
+      
+     IMPRESSION:  Normal study with no evidence of myocardial perfusion abnormalities
+     at rest or following Dipyridamole infusion.  Calculated ejection fraction of
+     63%, with normal wall motion. /nkg
+                                                                           
+
+             [**Name6 (MD) 795**] [**Name8 (MD) 796**], M.D.
+             [**First Name11 (Name Pattern1) 149**] [**Last Name (NamePattern1) 150**], M.D.        Approved: FRI [**3142-5-22**] 7:03 PM
+
+
+             Date Mailed: [**3142-5-25**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13536,,,,3142-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-6-25**] 12:23 PM
+     RENAL TRANSPLANT U.S. RIGHT                                     Clip # [**Clip Number (Radiology) 819**]
+     Reason: s/p kidney now with tenderness to palpation, r/o fluid [**Last Name (un) 820**]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         54 year old woman s/p CRT in march of this year who presented with fever, 
+      CHF, and HCT of 19. question whether she has a pseudoaneurysm vs perinephric 
+      hematoma.
+     REASON FOR THIS EXAMINATION:
+      s/p kidney now with tenderness to palpation, r/o fluid collection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Tenderness to palpation over right kidney, two months post
+     transplant.
+     
+     RENAL TRANSPLANT ULTRASOUND:  The allograft measures 13.2 cm in length.  There
+     is no hydronephrosis.  Superficial to the transplant, there is a small linear
+     collection along the surgical wound.
+     
+     Doppler examination shows subjectively decreased vascularity compared to the
+     prior study.  Resistive indices were measured within the renal parenchyma,
+     ranging from 0.80 to at least 0.86, increased from the prior study of [**3142-5-18**],
+     at which time the resistive indices measured from 0.76 to 0.79.
+     
+     IMPRESSION:
+     1) Small linear fluid collection associated with the surgical wound.
+     2) Interval increase in resistive indices, which may be due to developing
+     rejection.
+
+",,
+13536,,,,3142-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-10-28**] 3:16 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 821**]
+     Reason: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman s/p renal transplant 6 months ago, now with dyspnea on 
+      exertion, dry cough and mild hypoxia.
+     REASON FOR THIS EXAMINATION:
+      ? infiltrate                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dyspnea on exertion with dry cough and mild hypoxia.
+     
+     Comparison: [**3142-5-19**]
+     
+     FINDINGS:  The left subclavian central venous line has been removed in the
+     interval. Surgical chain sutures are noted within the the right mid-lung zone
+     and the left upper lung zone, and there is an apparent surgical clip overlying
+     the left upper lung zone. The heart remains enlarged, and the mediastinal
+     contours are unchanged. There is pulmonary vascular upper zone redistribution
+     with mild diffuse increased intersitial markings which is chronic. There is no
+     pleural effusion or pneumothorax.
+     
+     IMPRESSION:   Chronic increased interstitial markings with some UZR not
+     significantly changed from prior exam.
+
+",,
+13536,,,,3142-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-8**] 9:36 AM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 822**]
+     Reason: evaluate for rejection
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old woman with CRT now with rise in creatinine and new proteinuria.
+     REASON FOR THIS EXAMINATION:
+      evaluate for rejection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Transplant kidney, elevated creatinine, new proteinemia. Evaluate
+     for rejection.  Bx of kidney guided by radiology.
+     
+     ULTRASOUND GUIDED BIOPSY:  Ultrasound guidance was provided for the nephrology
+     staff.  Two core biopsies were obtained with an 18-gauge needle through the
+     lower pole of the transplant kidney.  No complications were observed.
+
+",,
+13536,,,,3142-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-8**] 9:41 AM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 823**]
+     Reason: ? REJECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Transplant kidney, ? rejection. 
+     
+     RENAL TRANSPLANT ULTRASOUND: Comparison is made to previous films from
+     [**3142-6-25**].
+     
+     FINDINGS:   The renal allograft is present within the right lower quadrant.
+     The allograft measures 13.1 cm.  This is unchanged compared with the prior
+     study. There is no hydronephrosis. The previously demonstrated linear
+     collection superior to the transplant has resolved.
+     
+     Doppler examination demonstrates slightly elevated resistive indices measuring
+     0.8. There is normal venous flow.
+     
+     IMPRESSION:
+     No change in size of the renal allograft. There is no hydronephrosis. The
+     resistive index measures 0.8.
+
+",,
+13536,,,,3142-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-8**] 9:36 AM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 822**]
+     Reason: evaluate for rejection
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old woman with CRT now with rise in creatinine and new proteinuria.
+     REASON FOR THIS EXAMINATION:
+      evaluate for rejection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Transplant kidney, elevated creatinine, new proteinemia. Evaluate
+     for rejection.  Bx of kidney guided by radiology.
+     
+     ULTRASOUND GUIDED BIOPSY:  Ultrasound guidance was provided for the nephrology
+     staff.  Two core biopsies were obtained with an 18-gauge needle through the
+     lower pole of the transplant kidney.  No complications were observed.
+
+",,
+13536,,,,3142-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-11**] 2:46 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 824**]
+     Reason: pls eval for infiltartes                                    
+     Admitting Diagnosis: S/P KIDNEY TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       54 year old woman s/p renal transplant 6 months ago, now with dyspnea on  
+      exertion, dry cough and mild hypoxia.
+     REASON FOR THIS EXAMINATION:
+      pls eval for infiltartes                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     2 VIEWS CHEST:
+     
+     INDICATION: Dyspnea on exertion. S/P renal transplant 6 months ago. Dry cough.
+     
+     Comparison is made to older portable chest x ray of [**3142-4-23**]. More
+     recent PA & lateral chest x ray of [**3142-10-28**] is not currently
+     available.
+     
+     The heart is enlarged, and there is prominence of the central pulmonary
+     vasculature, which appears stable. The aorta is tortuous. There have been
+     prior wedge resection procedures in the mid lung zone regions bilaterally.
+     There is a nonspecific interstitial pattern most prominent in the lung
+     periphery, which is essentially stable allowing for differences in technique
+     between the 2 studies. No confluent areas of consolidation are identified and
+     no pleural effusions are evident.
+     
+     IMPRESSION:
+     
+     1. Predominantly peripheral interstitial pattern which appears to be chronic
+     based upon comparison to older radiograph of [**3142-4-23**] as well as report
+     of [**3142-10-28**]. However, in a renal transplant patient, it is difficult
+     to fully excluded an atypical pneumonia. Correlative high resolution CT
+     imaging may be helpful.
+     
+     2) Enlarged cardiac silhouette, likely due to cardiac enlargement but
+     pericardial effusion is not excluded.
+     
+     When available, comparison chest x ray [**3142-10-28**] will be reviewed and
+     an addendum will be issued to the report.
+     
+     ADDENDUM:
+     There is no significant change compared to [**3142-10-28**] chest radiograph.
+
+",,
+13536,,,,3142-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-29**] 8:23 AM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 825**]
+     Reason: evaluate for resolution of glomerulitis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old woman with CRT had glomerulitis on prior bx treted with steroids.
+      Now to evaluate treatment efficacy
+     REASON FOR THIS EXAMINATION:
+      evaluate for resolution of glomerulitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDED RENAL BIOPSY:
+     
+     CLINICAL HISTORY:  Renal transplant with glomeruloneprhitis.
+     
+     TECHNIQUE:  Ultrasound guidance was provided for the nephrology service.
+     The nephrologist made two passes with a 16 gauge needle into lower pole.
+
+",,
+13536,,,,3142-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-29**] 8:23 AM
+     BX-NEEDLE KIDNEY BY NEPHROLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 825**]
+     Reason: evaluate for resolution of glomerulitis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old woman with CRT had glomerulitis on prior bx treted with steroids.
+      Now to evaluate treatment efficacy
+     REASON FOR THIS EXAMINATION:
+      evaluate for resolution of glomerulitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDED RENAL BIOPSY:
+     
+     CLINICAL HISTORY:  Renal transplant with glomeruloneprhitis.
+     
+     TECHNIQUE:  Ultrasound guidance was provided for the nephrology service.
+     The nephrologist made two passes with a 16 gauge needle into lower pole.
+
+",,
+13536,,,,3142-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3142-12-29**] 8:33 AM
+     RENAL TRANSPLANT U.S.                                           Clip # [**Clip Number (Radiology) 826**]
+     Reason: EVALUATE FOR RESOLUTION OF GLOMERULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Evaluate for resolution of Glomerulonephritis.
+     
+     FINDINGS: The transplanted kidney is located in the right lower quadrant. The
+     transplant kidney measures 13.1 cm.  There is no hydronephrosis,
+     nephrolithiasis or perinephric fluid collection.  Doppler interrogation of the
+     intralobar arteries demonstrate normal waveforms and resisitive indices 
+     between .76 to .77. The main renal artery and main renal vein are patent and
+     demonstrate normal flow.
+     
+     IMPRESSION:  Normal renal transplant ultrasound. 
+
+",,
+13536,9656,16841,0,3145-05-14 02:36:00 EST,3145-05-14 03:03:00 EST,6325,"N",1,"Nursing/Other",,"
+
+2230-0700
+
+Received pt from EW admitted for c/o of severe HA progressive X1-2weeks followed by nausea and vomiting. Head CT done not showing any evidence of bleed or infarct at this time. ? seizure activity during CT scan-ativan/Keppra given with good effect. 
+
+Neuro: Pt arousable to verbal stimuli, at times slightly lethargic, becoming more arousable. Oriented X2. Eye opening to verbal stimuli/tracking. Moving all ext, lift and holding. Pupils equal and reactive bilaterally. Speech slightly slurred but clearing as pt becomes more arousable. No seizure activity noted. Pt remains calm  and appropriate. HOB 30'.
+
+Resp: Pt resp easy and regular, weaned to 4L NC, O2sat 96-98%. Resp 18-22. Lungs clear/diminished bilaterally. + cough/+gag intact. No resp distress noted. Attempt to place R radial aline: unsuccessful.
+
+CV: NSR with unifocal PVCs occasional. HR 60-70s, SBP 140s/40-50s. Lopressor po given without difficulty. No c/o of pain, pt denies HA. + pulses to lower ext. SQ heparin started/compression boots on. L arm AV fistula with + thrill, +bruit. PIV X2 to R arm with NSS @ 75cc/hr.
+AM labs drawn/ pending.
+
+GI/GU: ABd round, soft, + BS, no BM. Taking clears without difficulty. No nausea noted. Foley to BSD draining clear yellow urine, Approx 40-100/hr.
+
+Endo: RISS
+
+Plan: Neuro checks Q1hr, BP management.         
+",,
+13536,22542,16842,0,3145-06-08 17:47:00 EST,3145-06-08 17:55:00 EST,6322,"N",1,"Nursing/Other","condition Update","
+condition Update
+Please see carevue for specifics.
+
+Pt admitted to the sicu from the O.R. approx 11:30am. Pt arousable to speech. Following commands but inconsistently. Attempting to pull at lines. B/L wrist restraints placed. PERRL. NO c/o pain upon arrival. LS coarse. Extubated prior to arrival. ABG sent; acidotic. Abdominal dressings intact. Serosang drainage noted on dressings after pt turned and repositioned. JP drains 1 and 2 are to bulb sxn. JP 1 draining sero sang drainage. JP 2 draining brown drainage then dark serosang later in the shift. Abdomen soft/ distended + BS. Pt NPO. NS infusing at 100cc hour. Pedal pulses palpable. U/O clear. 
+
+Pt later c/o abdominal pain. 2 mg morphine sulfate given x 2. Pt able to have ice chips/ and eating ice chips. She later c/o nausea. MD notified. Ice chips taken away. Will cont. to monitor.02 sats 95-97% on 5L 02 via n/c. Pt received 1x doses of levofloxacin and vancomycin. Pt has a riss for bs coverage. 70/30 insulin also ordered, but only received ss d/t NPO status. D/T acidosis seen on previous ABG, 150mcqs NAHC03 given. Full set of labs drawn 1 hour after. Hcts also to be drawn q 6 hours. 
+
+Plan: continue with current plan of care per sicu/transplant teams. Closely monitor labs, draw hcts q 6 hours. Monitor incisions and pain mgmt. 
+",,
+13536,22542,16842,0,3145-06-09 04:36:00 EST,3145-06-09 04:49:00 EST,751,"N",1,"Nursing/Other","condition update","
+condition update
+D:pt alert and follows commands. moves all extremities. morphine effective in relieving pain. medicated x4 with 2mg with good relief. 
+cardiac: nsr rate in the 70's. sbp 120-160/40-60. 
+resp: pt remains on 5l nc. breath sounds are clear and diminished in the [**Last Name (un) 891**]. pt able to cough and raise sputum. resp ratee 14-28. pt takes shallow breaths with  turning. o2 sat down to 80's with turning. 35% face tent placed on pt for a short amt of time. pt back on 5l nc with 02 sat of 100%. Dr. [**Last Name (STitle) **] aware. 
+gi: pt tolerating ice chips well and abd soft with positive bowel sounds. no nausea.
+gu: urine output less than 30 ccx 2 treated with fluid bolus of 500cc of lr x2 with good response. 
+a: continue to monitor q6 hcts. assess effectiveness of fluid bolus and morphine
+r: morphine effective in relieving pain. no desatting with second turn. urine output improved after  second fluid bolus. 
+",,
+13536,19138,16843,0,3145-07-20 16:30:00 EST,3145-07-20 16:40:00 EST,3441,"N",53,"Nursing/Other","NPN","
+NPN
+ ADMITED FROM EW WITH C/O LOOSE STOOL X1 WEEK- ABD/CHEST CT DONE IN EW. ELV. WBC- BLOOD + URINE CX DONE. REC 4000 CC IVF IN EW- MINIMAL UO- CR. 3.7 TO 4.2. HGB 8- 1 UNIT PRBC, CTR LINE PLACED IN SICU- CVP 14, A LINE PLACED. LOWER EXT DOPPLERS AND CARDIAC ECHO DONE AT BEDSIDE. C/O SOB- RR UP TO MID 30'S AT TIMES, LUNGS + CRACKLES LEFT BASE- ABG PH 7.19- CO2 47-, -14 BASE DEF. PLACED ON BIPAP MASK. REC 120 MG LASIX AFTER PRBC. UO 10-25/HR-  MICU TEAM AWARE. CONT LOOSE STOOL- GUAIC NEG- STOOL SENT FOR C DIFF. NPO, REC IVF PR BOLUS ORDERS PR MICU TEAM. 
+",,
+13536,19138,16843,0,3145-07-21 04:03:00 EST,3145-07-21 04:34:00 EST,7742,"N",53,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+PLEASE SEE CAREVUE FOR DETAILS
+NEURO: A & O X 3, FOLLOWS COMMANDS, MAES. NO C/O PAIN, ATIVAN 0.5MG X 1 FOR RESTLESSNESS W/GOOD EFFECT.
+
+CVS: HR 60S-100S, NSR/ST, CVP 11-15, SBP 150S-180S, SUSTAINED HTN-DR.[**First Name (STitle) **] AWARE. 10MG HYDRALAZINE X2, LOPRESSOR GIVEN W/MIN RELIEF, 200MG LASIX GIVEN W/DIURESIS. T-MAX 102.3 AX, DR.[**First Name (STitle) **] AWARE, [**Last Name (un) **] PO GIVEN. MAG 1.9, HCT 26.9, WBC 13.2, REPEAT LABS THIS AM, NEG 600CC FLUID BAL, BLE EDEMA, PALP PP.
+
+RESP: CONT BIPAP+PS-8/12/40%, ABG-7.22/24/126/10, 02 SAT 98%, 1AMP SOD BICARB GIVEN. PT QUICKLY DESATS DOWN TO LOW 80'S WHEN MASK OFF X 1-2MINS TAKING ICE CHIPS. 
+
+GI/GU: NPO EXCEPT ICE CHIPS, MUSHROOM CATH INTACT, LGE AMT BRN, LIQUID STOOL. HRLY U/O>30CC. 
+
+PLAN: CONT TO MONITOR HEMODYNAMIC STATUS, RESP SUPPORT, ?INTUBATION FOR WORSENING ABG'S, MONITOR RENAL FUNCTION, SOCIAL WORK CONSULT FOR FAMILY SUPPORT.
+",,
+13536,19138,16843,0,3145-07-21 04:14:00 EST,3145-07-21 04:17:00 EST,7598,"N",53,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+     patient continues to be on NIV throughout shift.  Pressure support raised to 12, due to periods of tachypnea and ABG's.  BS are clear, diminished at the bases.  Tmax this shift was 102.3.  Mask needed to be adjusted several times for patient comfort and minimal leaks surrounding mask.  SPO2 remained 97-99% while on NIV, down to 92-93% when off.  One neb treatment of a unit dose albuterol administered this shift with increased aeration after treatment.  Volumes remained 589-850cc.  RR ranged between 19-36.  patient on a face tent and nasal cannula for approximately 1/2 hour before returning to NIV.  Will continue to monitor closely.
+",,
+13536,19138,16843,0,3145-07-21 16:00:00 EST,3145-07-21 16:07:00 EST,3441,"N",54,"Nursing/Other","npn","
+npn
+Neuro- pt alert- agitated with bipap mask- ativan prn. 
+
+Resp- cont metabolic acidosis- hd done and 4.5 liters off. ph post hd 7.36 from 7.22. lungs clear upper- dec bases, sao2 92-96 . requiring .50 hh face tent with 4-6 liters nasal [**Last Name (un) **] when off bipap. rr 25 to mid 30's but wnl after HD. cont inc rr to mid 30's with any activity. 
+
+Hemodynmics- cvp 12-14 pre hd and [**7-19**] post hd. nsr- sinus tach. sbp up to 180's- cont 10 mg iv loprsssor q6- hydralazine 10 mg, x2. norvasc 5 mg started po, lasix 200 mg with 250 mg diuril x1, lasix gtt 15 mg x 2hrs- lasix gtt off after hd done. labetalol gtt started. 
+
+Renal- seen by renal md this am- hd done this pm and 4500 cc off- ivf kvo- renal plan to cont to follow. fistula left arm. 
+
+Temp max 102- blood cx x2 done. (from line and periph.)
+
+
+",,
+13536,19138,16843,0,3145-07-21 17:28:00 EST,3145-07-21 17:33:00 EST,3484,"N",54,"Nursing/Other",,"
+
+pmicu nursing addendum 5p-7p
+pt arrived from sicu and was settled in..has been comfortable and dozing intermittently, family spoke with dr [**Last Name (STitle) **] and is now visiting with pt. temp is coming down nicely to 99.2. bp has gone up to 160's/ with fam visit and labetolol drip was increased to 1.0 mgs.pt taking ice chips.
+a-uneventful transfer
+p-will dialyze next as per renal team.will assess need for bipap all though greatly improved pH after hd today.
+",,
+13536,19138,16843,0,3145-07-22 03:43:00 EST,3145-07-22 04:02:00 EST,3449,"N",54,"Nursing/Other",,"
+
+NPN 7p-7a:
+     Neuro: pt A+O x 3, awakens to voice, sleeping when undisturbed. Reports no pain. MAE weakly.
+     CV: Pt initially on Labetalol gtt, up to 2mg/min to maintain sbp to goal of 130-150.. sbp trended down to 1teens and labetolol gtt dc'd. sbp 120's-130's via aline since that time (10:30). HR 70's-80's nsr. CVP initially 13, down to 5-8 after Lasix 200mg iv given x 1. 
+     RESP: Pt with Kussmaul appearing respiratory pattern, not new per team. LS crackles L base. cxr done, shows volume overload. lasix given as noted with no change in UO. Per team will need repeat HD today.  pt remains on 70% csm with 4-5L NC, sats 93-96%.. SAts low 90's acceptable per team as pt has chronic lung dz. evening abg: 7.31/44/151/23. am abg: 7.26/49/82/23. Dr. [**Last Name (STitle) 4079**] notified. No further intervention at this time. will continue to follow abg. 
+     ID: tmax 101.1 po, down to 99.3 after tylenol x 2 o/n. pt with several cx pending from yesterday. remains on Levo/flagyl. 
+     FE: s/p HD yesterday, 6.3 L negative at midnight. most likely needs repeat HD today. fsbs 63 in evening, treated with 1 amp D50, no further episodes hypoglycemia o/n.
+     GI: pt with 100cc's green liquid stool out via mushroom catheter. bs +, ab softly distended. needs repeat cdiff cx today.
+      GU: foley intact, uo 30-100cc's/hr. 
+      Integ: pt with lower extremity edema, appears to have areas on coccyx that are intact and healthy, but discolored as with previous decube. pt repostitioned frequently and skincare done.
+      access: R tlc sublcavian line and aline. 
+      Social:   no calls from family o/n. 
+      A/p: pt admit with metablic acidosis d/t ARF/diarrhea/fevers. pt continues to spike temps on abx, cx pending. s/p HD yesterday. to repeat today. REspiratory acidosis o/n.. will cont to follow abg's. per team bipap was not helpful to decrease co2 on admission. follow am labs. 
+",,
+13536,19138,16843,0,3145-07-22 04:48:00 EST,3145-07-22 04:50:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt placed on NIPPV due to hypercapnia as indicated by most recent ABG. Pt on NIPPV as per Carevue. Pt presently in NARD on current settings. Cont NIPPV; monitor ABGs.
+",,
+13536,19138,16843,0,3145-07-22 05:50:00 EST,3145-07-22 05:52:00 EST,3449,"N",54,"Nursing/Other",,"
+
+Addendum: 
+ABG repeat showed CO2 51, ph still 7.26. REsident notified, and pt placed on BIPAP. 1 hr after Bipap initiated abg shows ph unchanged, CO2 50. team aware. await further orders. labetolol reinitiated as pt became hypertensive to 170's  on bipap.
+",,
+13536,19138,16843,0,3145-07-22 15:58:00 EST,3145-07-22 16:30:00 EST,3484,"N",54,"Nursing/Other",,"
+
+pmicu nursing progress 7a-7p
+review of systems
+CV-bp has continued to be elevated to the 170's/ and labetolol has been increased to 2.0 mgs/min.bp also elevated i think due to some anxiety and was tx with .5 mgs ivp ativan for this, with little effect.hr has been stable.
+
+RESp-wore the bipap for several hours today and was comfortable. the mask was removed at ~1 pm and pt placed on nasal cannula 3L plus shovel mask.did well with abg po2 113, pco2 51 and pH 7.28(really unchanged)and then lapsed into a coughing jag which lasted about 20 mins-wwas returned to bipap 5 with 12 PS, was tx with .5 mgs ativan and she is trying to rest.lungs sound a little crackly at the bases.has another CXR this afternoon.
+
+ID-spiked to 101.6 po and had 2 sets blood cx sent, one peripheral and one from her line.is on levo and flagyl.is currently feeling warm and has fan blowing on her.wbc=10.1 with a L shift. CMV cx still pnd.
+
+GI-abd is soft with positive bowel sounds.passing large amts liquid green stool via mushroom catheter, multiple stool specs sent.pt has been npo except sips of water with pills.
+
+F/E-has mild peripheral edema.urine output has been adequate.please see labs in carevue.was not dialysed as per renal team.no further lasix today.
+
+NEURO-has been alert and oriented x 3, cooperative.follows commands.had some anxiety which was tx with .5 mgs ativan ivp-had a mild effect.
+
+ENDO-will receive regular insulin as per sliding scale.none required at 12n.
+
+SKIN-grossly intact.
+
+IV ACCESS-has a triple lumen R neck, a-line.
+
+SOCIAL- had a visitor today.
+
+a-not much difference in acidosis with bipap on vs NC/shovel mask.
+
+P-will leave bipap on as tolerated.assess need for intubation if she doesn't look good.follow temp, comfort measures for fever.further dialysis as per renal team.
+",,
+13536,19138,16843,0,3145-07-23 04:09:00 EST,3145-07-23 04:45:00 EST,3272,"N",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: ALERT AND ORIENTED X3. EASILY AROUSABLE. FOLLOWING COMMANDS AND MOVING ALL EXTREMITIES. DENIES PAIN. SLEPT WELL.
+
+CARDIAC: HR 70-84 SR WITH OCCASIONAL PVC'S. RECEIVED ON 2MG LABETOLOL, BP 111-163/41-55. GTT CURRENTLY @1MG/MIN WITH GOAL SBP 125-150. PPP. HCT STABLE @25.6, NO SIGNS OF BLEEDING. 
+
+RESP: RECEIVED ON BIPAP 12/+5 40%. IRREGULAR BREATHING PATTERN NOTED. USE OF ABDOMINAL MUSCLES BUT THIS IS NOT NEW. PLACED ON 40% SHOVEL MASK AND 4L N/C WITH RR 16-26 AND SATS 93-99%. ABG 7.26/51/93/24, MD AWARE AND WILL MAINTAIN SHOVEL AND N/C AS THERE WAS LITTEL DIFFERENCE IN ABG'S OFF/ON BIPAP. AM ABG 7.24/50/91/22, METABOLIC ACIDOSIS AND PATIENT NOT ABLE TO COMPENSATE. LS CLEART TO COARSE WITH DIMINISHED BASES. STATED THAT SHE FELT SHE WAS BREATHING WELL. CXR DONE THIS AM. CXR FROM [**7-22**] SHOWED IMPROVED PULM EDEMA.
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS, GREEN LIQUID STOOL VIA MUSHROOM CATH. MARGINAL UOP 10-25CC/HR, DESPITE LASIX. YELLOW AND CLEAR, CREAT 4.5 UP FROM 3.8.
+
+FEN: ANASARCA. CVP 10-17. NO RESPONSE TO LASIX. LYTES PER CAREVUE. FS Q6HRS WITH SSRI. TAKING FLUIDS WITHOUT DIFFICULTY.
+
+ID: TMAX 102.4 AXILLARY. GIVEN 650MG TYLENOL PO WITH GOOD EFFECT. TEMP DOWN TO 97.2 WBC 8.4. CONTINUES ON BACTRIM, LEVOFLOX, AND FLAGYL. CDIFF NEGATIVE, STOOL CX'S PENDING. BLOOD CX'S NGTD. CMV PENDING. 
+
+SKIN: W/D/I.
+
+ACCESS: RSC CVL, RIGHT ART LINE. LEFT AV FISTULA WITH +BRUIT/THRILL.  
+
+SOCIAL/DISPO: FULL CODE. FOLLOWED BY RENAL FOR HD AND MAY HAVE RENAL U/S TODAY AND POSSIBLY HD. 
+",,
+13536,19138,16843,0,3145-07-23 05:44:00 EST,3145-07-23 05:49:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt on NIPPV earlier in shift switched to face tent/nasal [**Last Name (un) **] with ess same ABGs with demonstrate combines resp/metabolic acidosis. Cont oxygen therapy; use NIPPV if resp decompensation becomes evident.
+",,
+13536,19138,16843,0,3145-07-23 16:20:00 EST,3145-07-23 16:32:00 EST,4160,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Overall uneventful shift. Remains off of BiPap. improving resp status. hemodynamically stable. Renal u/s today to transplanted kidney. 
+
+ROS/PE:
+
+CV: NSR, HR 60-70's, no ectopy. ABP 110-160's on 2-4 mg/min of Labetolol. Anasarcic. Tmax 100.0 
+
+RESP: on 4L NC and 40% OFM w/ Spo2 92-99%. LS generally clear, not taking deep breaths unless enc to do so. Rare non productive cough. no SOB. 
+
+NEURO: lethargic but O x3. slept alot of the day. OOB to chair w/ 2 assist. stood well, some difficulty w/ ambulation. MAE. denies pain. No focal neuro defecits.
+
+GI/GU: toleraing clear liquids well. takes pills without a problem. abd soft/ NT/ND. mushroom catheter in place, draining mod amt liquid grn stool. Foley w/ 40-50cc/hr clear yellow urine out. FS q6hrs, RISS, has not required any coverage. 
+
+SKIN: Anasarcic. edema to hands/ feet. Skin otherwise intact. 
+
+ACCESS: R SC TLC, R Aline. all patent. L AV fistula. 
+
+SOCIAL: Daughter called, updated on progress/ plan. ?visit tonoc or tomorrow. 
+
+PLAN: monitor resp status. Enc OOB to chair and mobilize as much as possible- Needs a lot of encouragement. Possible dialysis tomorrow  (rising crt). Goal FB -500cc. ID following regarding persistent temps. FULL CODE. 
+",,
+13536,19138,16843,0,3145-07-24 05:27:00 EST,3145-07-24 05:35:00 EST,4196,"N",54,"Nursing/Other",,"
+
+cv: vss  to maintain sbp 125-150 required labetalol at 3-4 mg/min. titrated to maintain goal sbp. hr sr 60's occasional pvc.
+
+resp: o2 sats 93-96% on nc 5 l and 50 %  open facemask. breath sounds coarse upper and diminished at bases.
+
+gu: lasix 40 mg iv with minimal response so lasix 100 mg iv with some response but no significant diuresis. 
+
+gi: mushroom catheter draining liquid greeen stool.abdomen soft ,pos bowel sounds.
+
+integumentary: generalized edema. skin intact.
+
+neuro: alert and cooperative, oriented 
+
+endo: q 6 hour blood sugars.. cover with ss prn 
+",,
+13536,19138,16843,0,3145-07-24 16:53:00 EST,3145-07-24 17:45:00 EST,7972,"N",54,"Nursing/Other",,"
+
+0700-1900 micu west NPN
+
+FULL CODE/NKDA
+Cystic Lung Ca/Kidney Transplant 2003
+
+EVENTS: Magnesium 4gm Repleted, Labatelol GTT OFF pt. maintained sbp 124-156, pt. diuresed w/ Lasix 200mg/Duiril 500mg w/ poor response, LASIX GTT STARTED 1600 currently @ 20mg/hr, mushroom cath DC'D - no diarrhea today.
+
+NEURO: Pt. is lethargic, but alert and oriented to person, place, and time. Pt. able to move all extremeties on bed, verbalizes commands, puils pearl 3mm brisk, gag and cough reflex intact. 
+
+RESP: Face Tent 40%/NC 4L  O2 sats 93-96%,RR 20-24, stomach retracts w/ breaths, lung sounds coarse in upper lobes and lower lobes diminished, ABGS 7.27/45/87/22 (close to baseline).
+
+CV: Received pt. HR in 70s NS w/ freq PVCs, on Labetolol GTT @ 2 mg/min sbp=120s, able to wean Labatelol to 1mg/min, and finally weaned to OFF around 1400. Pt. maintained sbp=140s, HR 59-63. Access: A-line sharp WNL, Mult-RSC sharp WNL, CVP=14-17, 4gm Mag repleted, 1600 MG=2.6. Pulses palpable in all four extremeties. L-Arm fistula pos for bruits, pt. complains of ""left arm heaviness"", MD notified.ECH reuslts= pending. LE Doppler -Pending. CKs Pending. Blood Cult - no growth to date.
+
+GU: Pt. uop decreased to 20-25cc/hr x 3 hours, MD notified during rounds, and Lasix 200mg and 500mg Duiril were ordered and given around 1300. Although pt. outputted 100cc for one hour, uop dipped back to 20cc/hr, so around 1530, LAsix GTT started @ 10mg/hr and then increased to 20mg/hr for pulm edema on CXR and to reach fluid goal of neg. 1-1.5L, thus far pt has  good response to LASIX GTT. Cr=4.7(4.5). Urine Cult=Legionella neg. Cr=4.7 Pre-renal 
+
+GI: BS present, abd soft upper right quadrant tender to palpation, MD notified. Mushroom cath Dc'd - no diarrhea today, yesterday pt. was stooling green diarrhea via cath. CDif - neg.
+
+ID: Tmax=97.5, ABX Flagyl and LEvo
+
+Endo: Insulin per SS FSBS q 6hrs
+
+HEME: NA=135/K=3.8/MG=2.6 
+
+SOCIAL: No visitors today, pts. siblings and father lives in [**Location **].
+
+PlAN: Renal cont. to follow for possible Dialysis
+      Send Sputum Cult
+      Cont. Lasix GTT for fluid goal of 1-1.5L negative
+      prerenal vs fluid overload
+      
+     
+
+
+
+
+
+
+
+",,
+13536,19138,16843,0,3145-07-25 02:22:00 EST,3145-07-25 02:34:00 EST,4302,"N",54,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+NEURO: Pt is A@Ox3, follows commands, and MAE ad lib. Pt does need help repositioning [**3-15**] edema and lines and tubing. No c/o pain. PERRL 3mm brisk. 
+
+CV: NSR/SB 50s-60s, with occas PVCs. BP 140s-150s/40s-50s, labetolol gtt was off t/o shift. CVP 12-19. PPP, bilateral LE edema. 
+
+RESP: Pt is on 4L NC and 50% face tent with sats 91-97%. Pt has dry nonproductive cough. LS coarse, diminished @ bases. RR 14-20s. 
+
+GI: ABD is softly distended, +BS. No BM this shift. POs advanced and tolerating well, although not much of an appetite. 
+
+GU: Pt is on Lasix gtt @20mg/hr, with u/o minimal 35-120cc/hr. Goal to run 1-1.5L neg. Left arm fistula +bruit and thrill. 
+
+SOCIAL: Pts daughter in to visit and was updated by this RN. 
+
+PLAN: Continue to diurese with goal 1-1.5L neg. If u/o does not pick up, may need HD as cr is climbing. Continue to monitor resp status and wean O2 as tolerated. F/u with pending am labs.  
+
+
+",,
+13536,19138,16843,0,3145-07-25 16:17:00 EST,3145-07-25 16:43:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full Code
+
+*Access:  RSC TLC
+
+*NKDA
+
+Neuro:  Pt A&Ox3, MAE but difficulty w/ RUE d/t edema, follows commands, PERRL 3mm/brisk, no complaints of pain this shift.  
+
+Cardiac:  NSR w/o ectopy, HR 62-67, SBP 161-172 all cardiac meds given, no changes [**Name8 (MD) 17**] MD's.  Hct stable @ 25.5.  
+
+Resp:  Remains on 4L NC and 50% face tent O2sat 91-97%, RR 18-27.  Attempted to remove FT for eating, but eventually desat to 88.  LS coarse upper, diminished lower throuthout shift.  CXR this AM slightly improved [**Name8 (MD) 17**] MD's.  Non productive cough still present at times.  Last ABG drawn w/ VBG for future comparison, ABG 7.30/42/70/21, VBG 7.29/43/42/22, MD's Okay'd A-line removal.
+
+GI/GU:  Diet increased to regular w/ diabetic, renal, sodium and other restrictions.  +BS, Lg, loose, guiac neg stool this AM, none since.  Remains on Lasix gtt 20mg/hr, Urine out foley 30-200cc/hr, yellow/clear.  U/A sent.  No HD as of yet.  FS 133, no coverage per RISS.  
+
+ID:  Temp 97.3-100.1, WBC 8.2, 650mg tylenol given for increased temp.  Cont on Levoquin and Flagyl.  Stool cx sent.  
+
+Skin:  Edema lower extremities and RUE.  TLC site wnl.
+
+Psychosocial:  No fam contact today.  
+
+Dispo:  Cont to monitor resp status and wean if tolerated, monitor I&O w/ goal 1L neg, cont med regimen.  
+",,
+13536,19138,16843,0,3145-07-26 03:26:00 EST,3145-07-26 03:39:00 EST,4302,"N",54,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+NEURO: Pt is A@Ox3, slept on/off most of night. Pt MAE ad lib although is weak and has edematous extremities so needs help. Pt follows commands. Pt c/o of back ache..repostitioned with good effect. 
+
+RESP: Pt using face tent 50% fio2 with 4lNC. Sats 92-96%. LS clear, diminished @ bases. Pt has dry nonproductive cough. RR 14-25. No c/o SOB. 
+
+CV: NSR 60s, no ectopy observed. BP 120s-150s/40s-80s. CVP 8-14. Pt is afebrile. PPP. 
+
+GI: ABD is softly distended, +BS. Pt had moderate sized green mucousy stool GUIAC(+). Pt has been toelrating POs well...fluid restriction 1L per day. 
+
+GU: Pt is on lasix [**E-mail address 4916**]/hr...u/o 110-160. Foley draining clear yellow urine. 
+
+PLAN: Coninue to diurese with Lasix gtt. Wean O2 as tolerated. F/U with pending labs. Pt could benefit from PT consult, as she is very weak. 
+",,
+13536,19138,16843,0,3145-07-26 16:23:00 EST,3145-07-26 16:26:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full Code
+
+*Access:  RSC TLC
+
+*NKDA
+
+This shift pt stable w/ US done this afternoon to check for clots in RUE.  No clots found.  This patient has been called to the floor, has bed available on [**Hospital Ward Name **] 10 (1019), and is awaiting transfer order to go to the floor.  For information on VS and pt progress this shift, please see transfer note already written and faxed to [**Hospital Ward Name **] 10.
+",,

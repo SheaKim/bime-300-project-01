@@ -1,0 +1,459 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13660,28126,,,3394-06-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3394-6-6**]              Discharge Date:   [**3394-6-9**]
+ 
+Date of Birth:  [**3354-8-26**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3152**] 
+Chief Complaint:
+Altered mental status 
+ 
+Major Surgical or Invasive Procedure:
+Central Venous Line Placement
+
+ 
+History of Present Illness:
+39 yo M with h/o cranial mass admitted to FICU for decreased 
+responsiveness. Patient initially presented [**6-6**] after being 
+found by roommate with decreased mental status in the setting of 
+overtreatment with LBP with fentanyl patches. In the ED he was 
+hypotensive to 79/52 which improved with 5L NS IVF and narcan 
+but also was febrile to 101.2 so initially was treated with 2 gm 
+CTX, 1 gm vanc and acyclovir. LP was normal but ABG was 
+7.26/77/71 so he was started on a naloxone drip in the ED which 
+was discontinued in the FICU for concern for narcotic 
+withdrawal. Of note tox screen in ED was positive for cocaine as 
+well.  On arrival to the FICU the patient was afebrile, 
+normotensive, and 98% on room air. However he was exhibiting 
+signs of narcotic withdrawal including abdominal pain and 
+yawning. He also reported back pain. Still somewhat confused but 
+appropriate, responsive to voice, and following commands. Denied 
+fevers, chills, chest pain, shortness of breath, HA. 
+.
+He does not recall how he came to the hospital, but his last 
+memory is using cocaine with a friend after being sober for 5 
+years and next thing woke up in the ED. He states that he may 
+have used 2x100mc fentanyl patches instead of his normal 50mcg 
+and 100mcg as prescribed. He denies current chest pain, chest 
+tightness, shortness of breath, focal weakness or loss of 
+sensation. Currently he reports poorly controlled back pain in 
+the cervical region [**11-12**], nonradiating deep inside his neck. He 
+also feels nauseaous with no vomiting, has chronic diarrhea, and 
+[**11-12**] abdominal pain as well. 
+
+ 
+Past Medical History:
+- Glioblastoma (not yet confirmed with hospital records): Gamma 
+Knife therapy. Diagnosed 2 years ago, but not followed.  
+-Chronic pancreatitis: reports he has had three attempted stent 
+placements which had failed and has had pancreatitis throughout 
+his life.  
+-Left thumb amputation: 2-1/2 years ago after an IV infiltrated  
+
+in his hand for 18 hours.  
+-post appendectomy  
+-post cholecystectomy  
+-GI bleed due to an ulcer in [**3384**] (while on NSAIDs).  
+-muliple obdominal tumors requiring resection of partial bowel, 
+liver, and pancreas due to pseudocyst and tumor syndrome. He is 
+followed by a Dr. [**Last Name (STitle) 9481**] in [**State 7234**].  
+-Asthma  
+-Recurrent PNA  
+
+ 
+Social History:
+The patient says that he has been sober for 5 years. He states  
+that he smokes 8 cigarettes a day, and he used to smoke 3-1/2  
+packs a day for 14 years. He states he has used marijuana. 
+Denies IVDU.  
+
+ 
+Family History:
+Sister and father committed suicide. Mother died from MI and 
+stroke. Paternal grandfather with history of ""brain and stomach 
+cancer."" No diabetes in the family. 
+ 
+Physical Exam:
+T 98.3 HR 83 BP 90/74 RR 18 O2 At 95% [**Female First Name (un) **]  
+Gen: sleeping comfortably but easily aroused  
+HEENT-PERRL, MMM, edentulous, hairless scar on left occiput, 
+neck supple  
+Hrt-RRR, nS1S2 no MRG  
+Lungs- Clear to auscultation bilaterally.  
+Abd: soft, mild diffuse tenderness with negative stethascope 
+press sign, NABS, midline scar, no HSM but difficult to assess 
+as pt was distended  
+Ext: no peripheral edema, Amputated left thumb.  
+
+ 
+Pertinent Results:
+[**3394-6-6**] CT HEAD: Pineal region mass measuring 18 x 11 mm with no 
+focal mass effect. However, the study was limited since no IV 
+contrast was used. Please note that MRI is the best modality for 
+assessing intracarnial masses. No hemorrhage, mass effect or 
+hydrocephalus. 
+.
+[**3394-6-6**] CXR: Bibasilar opacities left greater than right, likely 
+represent aspiration.
+.
+[**3394-6-6**] ECG: Sinus rhythm, rate 99. Small Q waves are seen in the 
+inferior leads. The electrocardiogram is otherwise, normal. No 
+previous tracing available for comparison.  
+.
+[**3394-6-7**] CXR: Previous left lobe atelectasis has cleared. 
+Pulmonary vascular congestion suggests volume overload or 
+borderline cardiac decompensation although heart is normal size. 
+This may also explain hilar enlargement. Very small right 
+pleural effusion is new or newly apparent. There are no findings 
+to suggest pneumonia.
+.
+[**3394-6-6**] 8:20 pm URINE     Site: CATHETER
+   URINE CULTURE (Final [**3394-6-8**]):    NO GROWTH. 
+.
+
+[**3394-6-7**] 5:27 pm CATHETER TIP-IV      Source: Femoral line. 
+   WOUND CULTURE (Final [**3394-6-9**]):    No significant growth. 
+.
+
+[**3394-6-6**] 09:30PM CEREBROSPINAL FLUID (CSF) WBC-2 RBC-2* Polys-9 
+Lymphs-42 Monos-49
+[**3394-6-6**] 09:30PM CEREBROSPINAL FLUID (CSF) TotProt-26 Glucose-71
+.
+
+[**3394-6-6**] 08:20PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.007
+[**3394-6-6**] 08:20PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**3394-6-6**] 08:20PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-POS amphetm-NEG mthdone-NEG
+.
+
+[**3394-6-6**] 04:00PM BLOOD WBC-18.2* RBC-4.02* Hgb-13.4* Hct-39.6* 
+MCV-98 MCH-33.3* MCHC-33.8 RDW-14.1 Plt Ct-356
+[**3394-6-6**] 04:00PM BLOOD Neuts-89.0* Bands-0 Lymphs-5.5* Monos-5.1 
+Eos-0.2 Baso-0.1
+[**3394-6-6**] 04:00PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+[**3394-6-6**] 04:00PM BLOOD PT-11.2 PTT-71.2* INR(PT)-0.9
+[**3394-6-6**] 04:00PM BLOOD Plt Smr-NORMAL Plt Ct-356
+[**3394-6-6**] 04:00PM BLOOD Glucose-79 UreaN-18 Creat-1.2 Na-135 
+K-7.0* Cl-97 HCO3-30 AnGap-15
+[**3394-6-6**] 04:00PM BLOOD Calcium-9.2 Phos-5.3* Mg-2.3
+[**3394-6-6**] 04:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3394-6-6**] 04:26PM BLOOD Type-[**Last Name (un) **] pO2-71* pCO2-77* pH-7.26* 
+calTCO2-36* Base XS-3 Intubat-NOT INTUBA Comment-NON-REBREA
+[**3394-6-6**] 08:46PM BLOOD Lactate-1.2
+[**3394-6-6**] 05:00PM BLOOD K-5.3
+[**3394-6-6**] 04:26PM BLOOD Glucose-77 Na-136 K-7.1* Cl-94*
+.
+
+[**3394-6-7**] 04:51AM BLOOD WBC-11.2* RBC-3.52* Hgb-11.4* Hct-34.3* 
+MCV-98 MCH-32.3* MCHC-33.1 RDW-13.7 Plt Ct-364
+[**3394-6-7**] 12:43AM BLOOD WBC-13.3* RBC-3.49* Hgb-11.3* Hct-34.2* 
+MCV-98 MCH-32.4* MCHC-33.0 RDW-13.5 Plt Ct-352
+[**3394-6-7**] 04:51AM BLOOD Neuts-77.6* Lymphs-16.7* Monos-5.1 
+Eos-0.4 Baso-0.2
+[**3394-6-7**] 04:51AM BLOOD Macrocy-1+
+[**3394-6-7**] 04:51AM BLOOD Plt Ct-364
+[**3394-6-7**] 12:43AM BLOOD Plt Ct-352
+[**3394-6-7**] 12:43AM BLOOD PT-12.0 PTT-27.0 INR(PT)-1.0
+[**3394-6-7**] 04:51AM BLOOD Glucose-86 UreaN-10 Creat-0.7 Na-142 
+K-3.8 Cl-109* HCO3-26 AnGap-11
+[**3394-6-7**] 12:43AM BLOOD Glucose-83 UreaN-11 Creat-0.7 Na-142 
+K-4.1 Cl-108 HCO3-26 AnGap-12
+[**3394-6-7**] 04:51AM BLOOD CK(CPK)-378*
+[**3394-6-7**] 12:43AM BLOOD ALT-33 AST-41* LD(LDH)-210 AlkPhos-142* 
+Amylase-107* TotBili-0.2
+[**3394-6-7**] 12:43AM BLOOD Lipase-7
+[**3394-6-7**] 04:51AM BLOOD CK-MB-11* MB Indx-2.9 cTropnT-<0.01
+[**3394-6-7**] 12:43AM BLOOD CK-MB-13* cTropnT-<0.01
+[**3394-6-7**] 04:51AM BLOOD Calcium-8.0* Phos-2.2* Mg-2.1
+[**3394-6-7**] 12:43AM BLOOD Albumin-3.2* Calcium-8.0* Phos-2.2*# 
+Mg-2.0
+[**3394-6-7**] 02:01AM BLOOD Type-ART pO2-75* pCO2-42 pH-7.42 
+calTCO2-28 Base XS-2
+[**3394-6-7**] 02:01AM BLOOD Lactate-0.6
+.
+
+ 
+Brief Hospital Course:
+# Mental status change: Pt back to normal mental status and 
+likely due to cocaine and fentanyl overuse. Fever resolved and 
+may have been related to cocaine use.
+There was an initial question of whether this was a suicide 
+attempt and patient was placed on 1:1 sitter. He was 
+subsequently reevaluated after leaving ICU and adamantly denied 
+any SI or suicide attempts. Psychiatry cleared him at this time. 
+An attempt was made to verify this with his roommate but he 
+could not be reached.
+.  
+# Fever:-No infiltrate on CXR and no clear source of infection 
+at this time. Only localizing symptom is pain in cervical spine. 
+However he reports back pain for the last 6-7 years. Had no 
+focal neurologic signs. It was recommended to him that he follow 
+up with his PCP here or in [**State 7234**] to have an MRI of his spine 
+to evaluate this chronic back pain. 
+.
+#Anemia-Pt anemic with elevated MCV concerning for EtOH although 
+he denies. 
+B12, folate, Fe studies wnl.
+.  
+# Polysubstance abuse: When patient was initially interviewed on 
+the floor he denied ever having any medication/narcotic 
+prescriptions filled in Massachussetts since moving here in 
+January. However after calling several pharmacies it became 
+clear he has had multiple narcotic prescriptions filled by 
+several different providers at several different pharmacies. The 
+patient was told that because of the concern that he has been 
+abusing these medications and not using them safely that no new 
+narcotic prescriptions could be given to him at discharge. He 
+will need to follow up with a PCP and establish regular care and 
+follow up. It is my recommendation that this patient not be 
+prescribed any narcotic medications unless he establishes 
+regular medical care and we obtain his medical records from 
+[**State 7234**].
+
+.  
+# Aspiration: Suspected aspiration on admission given fever and 
+elevated WBC in setting of narcotics overdose. To complete 
+course of augmentin.
+
+# Brain Tumor: appears to be meningioma. No need to get MRI as 
+inpt but would benefit from follow-up as oupt. Mass is 
+extraaxial making it not a GBM although unclear why he would get 
+gamma knife for a meningioma. Needs to follow up with PCP.
+.  
+
+ 
+Medications on Admission:
+Fentanyl 100 mcg patch q.72h, now says it's 150mcg  
+Lortab 10/500 1 tab q.4-6h.  
+Neurontin 800 mg two tabs t.i.d.  
+Topamax 100 b.i.d.  
+Phenergan 25 one tab q.6h. p.r.n.  
+Proventil inhaler two puffs p.r.n.  
+Prozac 40 b.i.d.  
+Valium 10 mg b.i.d.  
+[**Doctor First Name 3704**] 350 b.i.d.  
+
+ 
+Discharge Medications:
+1. Topiramate 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+2. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) 
+Tablet PO Q8H (every 8 hours) for 4 days.
+Disp:*12 Tablet(s)* Refills:*0*
+3. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO TID (3 
+times a day).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Narcotics Overdose
+Respiratory Failure
+Cocaine Abuse/Dependence
+Chronic Back Pain
+Intracranial Mass
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please do not take unprescribed narcotic medication or illicit 
+drugs. Take only the medications listed below. [**Doctor First Name 54**] will need to 
+follow up with your PCP in the next week to arrange a follow up 
+thoracic spine MRI to evaluate your chronic back pain. [**Doctor First Name 54**] will 
+also need to arrange oncology follow up with your PCP.
+ 
+Followup Instructions:
+1. Please either follow up with Dr. [**Last Name (STitle) 9482**] in [**Hospital **] clinic at 
+[**Telephone/Fax (1) 66**] in the next week or with your PCP in [**Name9 (PRE) 7234**] if 
+[**Doctor First Name **] decide to return to [**State 7234**]. [**Doctor First Name 54**] will need to see your PCP 
+in the next week and to arrange a follow up thoracic MRI with 
+your PCP and also follow up of your intracranial mass. If [**Doctor First Name **] do 
+chose to follow up here in [**Last Name (LF) **], [**First Name3 (LF) **] will need to bring all of 
+your medical records with [**Doctor First Name **] from [**State 7234**].
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3155**] MD [**MD Number 3156**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3155**] MD [**MD Number 3156**] [**3394-6-10**] @ 1709
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3394-6-10**] 5:09 PM
+(End of Report)
+
+
+",,
+13660,28126,,,3394-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-6-6**] 6:40 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2357**]
+     Reason: H/O BRAIN TUMOR, EVAL FOR ICH, MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      39 year old man with ? h/o brain tumor                                          
+     REASON FOR THIS EXAMINATION:
+      ? ich mass                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  39-year-old man with history of brain tumor.
+     
+     No comparison is available.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     There is isointense mass in the pineal measuring 11 x 18 mm.  This is best
+     seen on series 2A, image 14.  There is no evidence of mass effect,
+     hydrocephalus, or shift of normal midline structure.  No intracranial
+     hemorrhage or major minor vascular territorial infarct is detected.  The
+     density values of brain parenchyma is within normal limits.  The [**Doctor Last Name 63**]-white
+     matter differentiation is well preserved.
+     
+     Bone windows do not demonstrate any fracture.  The visualized portion of the
+     right maxillary sinus and sphenoid sinuses are unremarkable.  Both ethmoid
+     sinuses demonstrate submucosal thickening.  The left maxillary sinus is small.
+     This appearance might be developmental or might be due to sinus surgery.
+     
+     IMPRESSION:  Pineal region mass measuring 18 x 11 mm with no focal mass
+     effect. However, the study was limited since no IV contrast was used.  Please
+     note that MRI is the best modality for assessing intracarnial masses.
+     
+     No hemorrhage, mass effect or hydrocephalus.
+
+",,
+13660,28126,,,3394-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-6-6**] 5:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2356**]
+     Reason: aspiration?                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      39 year old man obtunded                                                        
+     REASON FOR THIS EXAMINATION:
+      aspiration?                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP VIEW OF THE CHEST
+     
+     INDICATION:  39-year-old man obtunded, rule out aspiration.
+     
+     COMPARISON:  Not available.
+     
+     FINDINGS:  Cardiomediastinal silhouette is unremarkable.  There are bibasilar
+     opacities, left greater than right, may represent aspiration.  There are no
+     sizeable pleural effusions identified on this single AP view.  There is no
+     pneumothorax.  Pulmonary vascularity is normal.
+     
+     IMPRESSION:  Bibasilar opacities left greater than right, likely represent
+     aspiration.
+
+",,
+13660,28126,17007,,3394-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-6-7**] 7:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2358**]
+     Reason: Presence of pneumonia                                       
+     Admitting Diagnosis: OPIATE TOXICITY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      39 year old man with overdose, previous CXR showing atelectasis                 
+     REASON FOR THIS EXAMINATION:
+      Presence of pneumonia                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 6:15 A.M. ON [**6-7**]  
+     
+     HISTORY:  Overdose.  Atelectasis.  Pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**3394-6-6**]:
+     
+     Previous left lobe atelectasis has cleared.  Pulmonary vascular congestion
+     suggests volume overload or borderline cardiac decompensation although heart
+     is normal size.  This may also explain hilar enlargement.  Very small right
+     pleural effusion is new or newly apparent.  There are no findings to suggest
+     pneumonia.
+                                                                           
+
+",,
+13660,28126,17007,0,3394-06-07 02:32:00 EST,3394-06-07 02:50:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+THIS IS A 39YO MALE WITH H/O CRANIAL MASS TRANSFERRED HERE FROM EW FOR DECREASED RESPONSIVENESS. PT. WAS FOUND BY ROOMMATE WITH DECREASED MENTAL STATUS AND MULTIPLE FENTANYL PATCHES ON HIM (ALTHOUGH PT. REPORTS HAVING ONLY 2 ON) IN EW PT. FOUND TO BE HYPOTENSIVE, HYPOXIC AND HYPERCARBIC. HE WAS GIVEN 5L NS AND NARCAN WITH IMPROVED BP AND RESPIRATION. TOX SCREEN POSITIVE FOR COCAINE ONLY. HEAD CT SHOWED NO BLEED BUT WITH 18X11MM MASS. TEMP 101.2. LP NEGATIVE. GIVEN CEFTRIAXONE, VANCO AND TYLENOL IN EW. PT. STARTED ON NARCAN GTT AND TRANSFERRED HERE FOR FURTHER WORKUP.
+
+NEURO: PT. NOT ORIENTED. IN AND OUT OF CONSCIOUSNESS. HIS MENTAL STATUS CHANGES FROM TALKING TO BEING COMPLETELY SOMNULENT VERY RAPIDLY. HE REMAINS ON NARCAN GTT AT 0.4MG/ML (0.1MCG/KG/MIN). WILL CONTINUE TO ASSESS NEED TO TITRATE GTT AS FENTANYL HAD VERY LONG HALFLIFE.
+
+RESP: PT. ON 4L NASAL CANNULA WITH SATS >97%. BREATH SOUNDS CTA. NO COUGH NOTED. + GAG REFLEX. 
+
+CV: NSR. SBP HIGH 90'S TO LOW 100'S. + PULSES. NO EDEMA. AFEBRILE AT THIS TIME.
+
+GI: PT. WRITTEN FOR REGULAR DIET, HOWEVER, NOT ALERT ENOUGH TO EAT. ABD. SOFT. BS+. NO BM THIS SHIFT.
+
+GU: FOLEY DRAINING CLEAR YELLOW URINE. GOOD UO
+
+SKIN: INTACT
+
+ACCESS: R FEMORAL TL PLACED IN EW
+
+PLAN: CONTINUE WITH NARCAN GTT AT THIS TIME. CONTINUE TO MONITOR CV STATUS AND RESPIRATORY STATUS CLOSELY.  NO CONTACT WITH ANY FAMILY / FRIENDS. AM LABS PENDING. PT. FULL CODE AT THIS TIME
+",,
+13660,28126,17007,0,3394-06-07 17:05:00 EST,3394-06-07 17:21:00 EST,348,"N",69,"Nursing/Other","7A-7PM Nsg Progress Note","
+7A-7PM Nsg Progress Note
+RESP:  pt on RA, lungs clear, rr-16  O2 sat 96%
+
+NEURO: off Narcan gtt.  pt alert and oriented x3, pt would not discuss his OD, pt said ""he should have died"",  ""I want to get out of here"", ""I was suppose to catch a plane to [**State 2161**] - to visit my half sister""  pt wanting to sign out AMA.   initially refused to speak with
+psychiatry ~ than he did speak with her for a few minutes.  pt stated he cashed his disability check, then got high on cocaine with his roommate.  doesn't remember putting on more Fentanyl patches. states he uses two 150 mcg Fentanyl patches qd.   upon further discussion with pt by nursing.  pt agreed to stay,  agreed to sitters.   pt upset by his current situation.  social service consulted.  psych to follow. 
+pt on suicide precautions,  sitters 24/7.
+
+PAIN:  pt c/o chronic back pain~~  pt on Fentanyl patch 100 mcg/hr change q 72 hrs,  Neurotin 800 mg po tid,  Oxycodone 10 mg po q 4-6 hrs,  and Clonazepam 1 mg po q 8 hrs. 
+
+[**Doctor Last Name 1080**] scale checked - see flowsheet for narcotic withdrawal.  pt is zero.
+
+CV:  bp stable  107/58  HR  84 ST  no vea noted.
+
+ID:  ?pneumonitis,  pt started on Amoxicillin-Clavulanic Acid 500 mg po q 8 hrs.  afebrile.   LP negative,  CXR negative.  pt febrile on admit.    blood and urine cx's pending. 
+
+GI: on regular diet, good appetite.  passed large loose stool.
+
+GU: foley intact, draining clear, yellow urine.  I~3230  UO~ 2350 
+
+IV ACCESS:  right femoral line d'cd.  tip sent for culture.   IV Nurse placed #22 right upper arm.   taped securely. 
+
+PLAN: monitor for narcotic withdrawal. follow neuro status.  suicide precautions, sitters 24/7   continue to support pt.  social service consult.  psych to follow.   continue with pain meds.   call out in am.  pt is full code.  pt not cleared by psychiatry. if pt wants to sign out AMA - call code psych emergency.  
+",,
+13660,28126,17007,0,3394-06-08 01:43:00 EST,3394-06-08 01:48:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT. AWAKE AND ALERT THROUGHOUT SHIFT. MEDICATED PRN WITH PAIN MEDS AS PT. HAS CHRONIC BACK PAIN. OXYCODONE RANGE INCREASED TO 5-20MG PO Q4-H HOURS AS PT. CONTINUED TO C/O PAIN AFTER RECEIVING 10MG Q4H. PT. DID EXPERIENCE BRIEF EPISODES OF AGITATION AND AGGREVATION, HOWEVER, WAS EASILY CALMED WITH TALKING. ? C/0 TO FLOOR TODAY WHEN BED AVAILABLE. 
+
+NEURO: AS STATED ABOVE PT. ALERT AND ORIENTED X3. MAE. ASSISTS WITH CARE. MEDICATED PRN FOR BACK PAIN WITH OXYCODONE Q4H AND TYLENOL Q6H. 1:2 SITTER REMAINS AT BEDSIDE AS PT. ON SUICIDE PRECAUTIONS
+
+RESP: PT. ON R/A WITH SATS >94%. BREATH SOUNDS CTA. NO C/O SOB. NONPRODUCTIVE COUGH NOTED.
+
+CV: PT. NSR. NO ECTOPY NOTED. SBP LOW 90'S TO LOW 110'S. + PULSES. AFEBRILE
+
+GI: PT. ON REGULAR DIET WITH VERY GOOD APPETITE. SNACKED THROUGHOUT SHIFT. ABD. SOFT. BS+. NO BM THIS SHIFT.
+
+GU: PT. WITH FOLEY PUTTING OUT CLEAR YELLOW URINE. GREAT OUTPUT.
+
+SKIN: INTACT
+
+ACCESS: L ARM 22G PATENT
+
+PLAN: PROBABLE C/O TO FLOOR TODAY WITH 1:1 SITTER. CONTINUE TO MONITOR NEURO STATUS CLOSELY. [**Doctor Last Name 1080**] SCALE Q4H. EMOTIONAL SUPPORT FOR PT. FULL CODE. AM LABS PENDING.
+",,

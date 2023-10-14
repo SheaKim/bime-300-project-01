@@ -1,0 +1,338 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13408,21199,,,3044-11-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3044-11-22**]     Discharge Date:  [**3044-12-9**]
+
+Date of Birth:   [**2984-1-30**]     Sex:  F
+
+Service:
+
+DISCHARGE SUMMARY ADDENDUM:  The patient's discharge was
+delayed secondary to lack of rehabilitation bed.  The
+patient's condition remained stable throughout her hospital
+stay from [**3044-12-3**] to [**3044-12-9**]. She was stable at the
+time of discharge with follow up with Dr. [**Last Name (STitle) 976**] in one
+week's time for staple removal.
+
+
+                         DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 14-127
+
+Dictated By:[**Last Name (NamePattern1) 805**]
+
+MEDQUIST36
+
+D:  [**3045-1-9**]  13:51
+T:  [**3045-1-9**]  12:12
+JOB#:  [**Job Number 9040**]
+Signed electronically by: DR. [**Last Name (STitle) 982**] [**Name (STitle) **]
+ on: [**First Name8 (NamePattern2) 123**] [**3045-1-23**] 6:28 PM
+(End of Report)
+
+
+",,
+13408,21199,,,3044-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3044-11-25**] 8:19 PM
+     CHEST CTA WITH CONTRAST; CT 150CC NONIONIC CONTRAST             Clip # [**Clip Number (Radiology) 15424**]
+     Reason: R/O PE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman w decreased sats, tachycardia.
+     REASON FOR THIS EXAMINATION:
+      R/O PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Decreased oxygen saturation, rule out pulmonary embolism.
+     
+     TECHNIQUE:  Axial images of the chest were obtained after the administration
+     of 150 cc of Optiray per fast bolus technique.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is no evidence of filling defects
+     within the main pulmonary artery and its branches.  There is no evidence of
+     enlarged mediastinal or hilar lymph nodes.  The heart is normal in size, there
+     is no pericardial fluid.  There are moderate sized bilateral pleural
+     effusions.  Also noted are bibasilar dependent atelectasis.  Lung windows
+     demonstrate bilateral patchy perihilar opacities.  The airway is patent.  The
+     bones demonstrate multiple sclerotic foci not significantly changed compared
+     to prior exam.
+     
+     IMPRESSION:
+     
+     1.  No evidence of pulmonary embolism.
+     2.  Moderate sized bilateral pleural effusions.
+     3.  Patchy perihilar opacities which are likely related to fluid overload, an
+     infectious component cannot be entirely excluded.
+
+",,
+13408,21199,16689,0,3044-11-25 19:34:00 EST,3044-11-25 19:38:00 EST,3774,"N",54,"Nursing/Other","ADM NOTE","
+ADM NOTE
+ADM 1830-S/P MET SPINAL TUMOR DECOMPRESSION ON FRIDAY. PT WITH INR 3.2 TODAY, RX WITH 2U FFP. RESP RATE 30-40, INCREASED TO 50 WITH VOLUME- RX WITH 40 LASIX IV, SENT TO SICU. ADM WITH SAT 96-98 ON 100% NON-REBREATHER. RESP RATE 34-38. LUNGS COARSE WITHOUT RALES. PT A&O X3-DENIES RESP DISTRESS. BP STABLE, BUT HR 122-128 ST. EKG ON [**Hospital Ward Name **] 5-? ST DEPRESSION- TO BE R/O FOR MI. RX WITH LASIX, BETA BLOCKERS AND MSO4.  
+",,
+13408,21199,16689,,3044-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3044-11-26**] 4:42 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15425**]
+     Reason: DROP IN HCT R/O RETROPERITONEAL BLEED
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with breast CA
+     REASON FOR THIS EXAMINATION:
+      s/p L4-S1 fixation for malig Fx, known metastatic breast CA, now with acute
+      drop in Hct...suspect retroperitoneal bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fixation of the lower lumbar spine for breast cancer.
+     Acute drop in hematocrit, rule out retroperitoneal hemorrhage.
+     
+     TECHNIQUE:  Axial images of the abdomen and pelvis were obtained without IV
+     contrast.
+     
+     Comparison with prior CT from [**3044-5-30**] and chest CT from [**3044-11-25**].
+     
+     FINDINGS:  Again seen are moderate-sized bilateral pleural effusions with
+     bibasilar areas of consolidation.  The size is essentially unchanged compared
+     to [**3044-11-25**].  Again seen are bilateral perihilar patchy opacities which are
+     stable compared to prior exam.  There is no evidence of pneumothorax.  The
+     heart is normal in size, there is no evidence of pericardial fluid.  There is
+     a Swan-Ganz catheter and an NG tube.  The liver appears normal in size, there
+     are no focal lesions.  The gallbladder is partially distended and contains
+     sludge.  The pancreas is atrophic.  The spleen, both adrenals and both kidneys
+     are normal.  Loops of small bowel are not dilated.  There is no evidence of
+     inflammatory changes in the mesenteric fat.  The aorta is heavily calcified.
+     There is no evidence of enlarged retroperitoneal lymph nodes.  There is no
+     intraabdominal free fluid.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is a Foley catheter within the
+     bladder.  There is contrast material probably from IV contrast administered 24
+     hours earlier.  The uterus is present and there are calcified fibroids.  There
+     is no evidence of pelvic fluid.
+     
+     There are post-surgical changes in the lower lumbar and upper sacral spine, as
+     well as destructive changes of the vertebral bodies.  Other foci of sclerosis
+     are seen in the upper lumbar spine.
+     
+     There is extensive subcutaneous edema.
+     
+     IMPRESSION:
+     
+     1) No evidence of retroperitoneal hemorrhage.
+     
+     2) Moderate-sized bilateral pleural effusions with bibasilar areas of
+     consolidation.
+     
+                                                                 (Over)
+
+     DATE: [**3044-11-26**] 4:42 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15425**]
+     Reason: DROP IN HCT R/O RETROPERITONEAL BLEED
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13408,21199,16689,0,3044-11-26 06:40:00 EST,3044-11-26 06:54:00 EST,3214,"N",54,"Nursing/Other","NURSING UPDATE:","
+NURSING UPDATE:
+ CT CHEST DONE TO R/O PE, INDICATED ARDS. CXR ALSO INDICATED ARDS. ON RETURN TO UNIT AFTER CT, PT DESATURATED INTO 60'S, UNABLE TO RESOLVE, PT S/B ANESTHESIA, MEDICATED WITH PROPOFOL 4CC AND SUCC. 20MG, INTUBATED AND PLACED ON MECHANICAL VENTILATION, (SEE RESP SHEET).
+SATS 99-100 THROUGH SHIFT, VENT WEANING, REMAINS ALKALOTIC, LAST ABG 7.54/112/31/27/98%.
+  SEDATED ON PROPOFOL GTTS, PRESSURED DROPPED IMMEDIATELY AFTER INTUBATION, LEVOPHED GTTS STARTED BUT TITRATED AND WEANED OFF BY 0400.
+  TMAX 101.8.  PAN CX SENT. BLOOD DRAWN FROM ALINE AND PORTACATH PER  ORDER OF HO.  ALINE PLACED IN LEFT BRACHIAL AFTER MULTIPLE ATTEMPTS IN BIL FEMS, AND RADIALS.  SWAN PLACED IN RT IJ WITHOUT DIFFICULTY.
+  COAGS ELEVATED EARLY SHIFT, NO SIGNS OF ABNORMAL BLEEDING. 2UFFP GIVEN, LEVELS RESOLVED THIS AM.
+",,
+13408,21199,16689,0,3044-11-26 07:00:00 EST,3044-11-26 07:10:00 EST,3090,"N",54,"Nursing/Other",,"
+
+60 years old female admitted with L-5 mestatic tumor. Patient has pmhx of breast ca mets to bones and brain. Had surgery for lumbar fusion. Patient went into acute respiratory distress last night with poor Sat DX CHF.Patient intubated and placed
+ on mechanical ventilation Abg normal. Awake alet following commands, may wean to extubate. 
+",,
+13408,21199,16689,0,3044-11-26 12:33:00 EST,3044-11-26 12:38:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE.","
+CONDITION UPDATE.
+D, LOW GRADE TEMP,SR-ST,MAP >60 WITH LEVOPHED WEANING TO OFF. PCWP REMAINS ELVATED WITH GOOD CI AND CO.. HOWEVER HUO DOWN TO 20'S.
+ PT PLACED ON C-PAP WITH 12 IPS..RR=16-22,O2 SAT=99..ABG ACCEPTABLE. SX FOR SM AMT WHITE SECRETIONS.. PT REMAINS ON PROPOFOL AT THIS TIME WITH CALMING EFFECTS BUT PT IS AROUSEABLE,MOVED ALL EXTREMITIES TO COMMAND.
+ A. PT TO BE STARTED ON MSO4 AND WEAN OFF PROPOFOL..WEAN IPS AS TOLERATED AND PER HO.? CARDIAC ECHO TODAY.WEAN LEVO TO OFF MAINTAINING MAP 60-65.NOTIFY HO IF HUO DROPS FURTHER.
+R. CONDITION STABLE AT THIS TIME.
+",,
+13408,21199,16689,0,3044-11-26 17:13:00 EST,3044-11-26 17:15:00 EST,3568,"N",54,"Nursing/Other",,"
+
+RESP. CARE NOTE
+PT REMAINS INTUBATED AND VENTED ON SETTINGS CPAP 7.5 PSV 15 50% WITH TV 500 RANGE AND RR 18-20. GOOD ABG ON PRESENT SETTINGS. PT TRANSPORTED TO CT SCAN TODAY VIA AMBU AND VENTED FOR PROCEDURE THERE PER SICU SETTINGS. PLEASE REFER TO FLOWSHEET FOR ADDITIONAL DATA.
+",,
+13408,21199,16689,0,3044-11-26 23:31:00 EST,3044-11-26 23:40:00 EST,3775,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D:  PT REMAINS INTUBATED ON CPAP WITH IPS 12 AND PEEP 10 LUNGS DIMINISHED LOWER LOBES.  SPONT TV'S 470-510CC WITH RR 12-16 LEVO GTT WEANED OFF CONTINUES TO ABE OLIGURIC WITH HUO 12-25CC  PT NOTED TO HAVE PINK SL RAISED RASH OVER HER BACK WHICH SPREAD OVER HER ENTIRE BODY. 
+A:  TRANSFUSED WITH 1 U PC FOR HCT 27.8  DECREASED PEEP TO 7.5CMS 
+ABD CT SCAN DONE  D/C'D MSO4 GTT AND STARTED DILAUDID GTT DUE TO RASH
+R: FILLING PRESSURES PAD 18-26 CVP 8-11 AFTER TRANSFUSION. 
+PLAN:  TO DECREASE PEEP 5CMS AND MONITOR O2 SAT. TO WEAN FROM VENT TOMORROW AS TOLERATED. MONITOR FILLING PRESSURES CLOSELY MAY REQUIRE LASIX 
+",,
+13408,21199,16689,0,3044-11-27 05:40:00 EST,3044-11-27 05:42:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on CPAP IPS15/.5/7.5peep. Abg 7.48/36/106/28. Vt 500's, RR16. Suctioned large amount tan sputum. Ventolin MDI started. See vent flowsheet.
+",,
+13408,21199,16689,0,3044-11-27 07:41:00 EST,3044-11-27 07:52:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: ALERT AND ORIENTED. INTUBATED AND SUCTIONED FOR LG AMT OF THICK TAN SPUTUM. LAVAGED AND AMBUED. BED IN REVERSE TRENDELENBERG POSTITION. LOGROLLED WHEN TURNING. BACK DSG INTACT. U.O POOR 20-25CC LASIX 20MG IVP GIVEN WITH 500CC DIURESIS OVER 2HRS. RASH NOTED OVER BODY. MSO4 IV GTT D/C'D AND DILAUDID 0.5MG IV STARTED  AS A GTT. PT VERY COMFORTABLE AND NO COMPLAINTS OF PAIN. HCT 30 AFTER 1UNIT PRBC. 
+ACTION: SUCTION PRN. LABS PRN. REVERSE TRENDELBERG POSITION.LOGROLL 
+POSTION. K AND MAG REPLACEMENT. 
+RESPONSE: MONITOR CLOSELY. 
+",,
+13408,21199,16689,0,3044-11-27 16:42:00 EST,3044-11-27 16:50:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D.LOW GRADE TEMP,SR 90-80,SBP BY CUFF=95-110.FILLING PRESSURES LOWER WITH PCWP=12,CVP=[**4-26**]. HUO DOWN TO 20'S.. HCT STABLE AT 30. SICU TEAM AWARE OF ABOVE.
+ PT REMAINED ON .5 MG DILAUDID /HR AND WAS EASILY AROUSEABLE. HOWEVER WHEN VENT SETTINGS PLACED ON C-PAP 5 WITH 5 IPS.. MV DROPPED ALONG WITH O2 SAT TO 91.PT WAS LETHARGIC AT THIS TIME. DILAUDID DRIP OFF AND PT WAS PLACED ON IPS=12 WHICH INCREASED HER O2 SAT TO 94 AND EVENTUALLY PEEP INCREASED TO 7.5. O2 SAT CURRENTLY=97.. PT MORE AWAKE THIS PM AND DENIES PAIN.
+ A. PT TO REMAIN ON CURRENT VENT SETTINGS OVERNITE.MEDICATE WITH DILAUDID PRN.
+R. STABLE.
+",,
+13408,21199,16689,0,3044-11-28 01:32:00 EST,3044-11-28 01:35:00 EST,3508,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Settings: PS/Cpap 5/5 40% Vt are around 400's with RR in the teens. ABG on these settings 85/35/7.48/27/2. Albuterol not given this shift as breath sounds without wheezes.
+Plan: Continue mechanical ventilation. ? Extubation in am.
+",,
+13408,21199,16689,0,3044-11-28 06:10:00 EST,3044-11-28 06:15:00 EST,3360,"N",54,"Nursing/Other","nursing update","
+nursing update
+Neuro:pt much more alert, nodding approp. follows all commands. Medicated with dilaudid .5 x2 for pain with effect. Back drsg c/d/i.
+
+CV:progressive tachycardia [**Name8 (MD) 4784**] MD aware. 250cc NS bolus seocndary to falling CVP with tachycardia. NS bolus with effect initially- CVP up, u/o increased, tahcycardia lessened.  +3 pedal edema continues, plap pedal pulses. Cont on capoten for ?AMI HCT stbale.
+
+RESP:Weaned on CPAP to PEEP 5, remains on PS 5. ABG slightly alkalotic. goal to extubate this AM. Copious secretions mainly oral and yankauerd out.
+
+GI:NGT-lws dark bilious. Abd soft, nt,nd. no bm.
+
+GU:urine borderline. increased post bolus
+
+PLAN:extubate in AM. pulm toilet. OOB with brace. capoten for ?AMI and HR. 
+",,
+13408,21199,16689,0,3044-11-28 18:49:00 EST,3044-11-28 18:53:00 EST,3774,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+PT EXTUBATED EARLY AM WITHOUT PROBLEMS. LUNGS COARSE, C&R SECRETIONS. SAT 94% ON 50% MASK- 3L NP ADDED, SAT UP TO 96%. HUO 30-60CC. CVP 3-4, DOWN TO 1-2 THIS PM. TOL LIQUIDS PO. LOPRESSOR STARTED FOR TACHYCARDIA WITH SOME EFFECT- HR 120 DOWN TO 109 RANGE. BP STABLE. PLAN TO D/C PA LINE IN AM, ? TRANS TO FLOOR. PT CONSULT TO GET OOB WITH BRACE.
+",,
+13408,21199,16689,0,3044-11-29 05:13:00 EST,3044-11-29 05:18:00 EST,-1,"N",54,"Nursing/Other","SICU NURSING NOTE:","
+SICU NURSING NOTE:
+
+NEURO:  PT AXOX3.  FULLY ALERT.  ABLE TO MAE.  FOLLOWS COMMANDS.
+
+CV:  PT DENIES CP, PALP, SOB.  TELE:  MP- SR/ST.  HR 90-100'S.  NO ECTOPY NOTED.  DP/PT PULSES PALPABLE BILAT.  NO GTTS.
+
+RESP:  LS CTA, SL DIMINISHED AT BASES.  STRONG NPC.  ON OFM 50% AND NC/4L.  ABG STILL ALKALOTIC.  MD AWARE.
+
+GI:  ABD SOFT, NONTENDER.  BS HYPO.  SM FORMED BROWN BMX3 THIS SHIFT.  GUIAC NEG.  TAKING SIPS CL WITHOUT DIFFICULTY.
+
+GU:  FOLEY WITH ADEQUATE UOP.
+
+PAIN:  PT DENIES PAIN.  REPOSITIONED FOR COMFORT.
+
+INTEG:  INCISION TO BACK WITH STAPLES INTACT.  NO DRNG NOTED.  DSD CHANGED.
+
+PLAN:  ?D/C SWAN, A LINE.  PT TO INCREASE MOBILITY- USE BRACE TO GET OOB.
+
+
+",,
+13408,21199,16689,0,3044-11-29 14:17:00 EST,3044-11-29 14:25:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: CONFUSED AT TIMES WITH SHORT TERM MEMORY LOSS
+A: SWAN/CORDIS/A-LINE DC'D..PERIP STARTED LF HAND..ACCESS DISC CHECKED BY IV NURSE..IV STARTED @ 10CC/H..RESP STATUS:DROPS SAT'S WHEN FM OFF FIO2 INCREASED TO 70% WITH SAT'S 94-97%..TOL LIQ WELL BUT ONLY TAKING SM AMT SOLIDS..BACK DSG D&I..RAISED RASH OVER BODY PT STATES IT'S NOT ITCHY..OOZING SM AMT SEROUS FROM UPPER THIGHS..BM X1 LIQ BROWN WITH SOME FORMED STOOL
+R: CONTINUES WITH POOR PULMONARY STATUS
+P: MONITOR SAT'S CLOSELY..INCREASE ACTIVITY  
+",,
+13408,21199,16689,0,3044-11-29 17:54:00 EST,3044-11-29 18:01:00 EST,3643,"N",54,"Nursing/Other","FOCUS-CONDITION UPDATE","
+FOCUS-CONDITION UPDATE
+DATA-PHYSICAL THERAPY IN THIS AFTERNOON-PT ASSISTED OOB TO CHAIR WITH 
+ ASSIST X2 WITH BRACE ON.  PT HAD SL SOB INITIALLY WITH ACTIVITY.
+ U/O MARGINAL THIS AFTERNOON, IV FLUIDS AT KVO, TAKING SM AMTS
+ LIQUIDS PO.  O2 SATS 98-99% ON OPEN FACE MASK 70%/NP AT 3L.
+ACTION-PT ASSISTED BACK TO BED AFTER 45"" PER PT REQUEST.  DR. [**First Name (STitle) **]
+ NOTIFIED OF DECREASED U/O-IV FLUIDS INCREASED TO 60CC/HR.
+ FIO2 DECREASED TO 50% OPEN MASK/3L NP.
+RESPONSE-PT TOLERATED INCREASED ACTIVITY.  O2 SATS 96-98%.
+ U/O REMAINS MARGINAL.
+ 
+",,
+13408,21199,16689,0,3044-11-30 07:38:00 EST,3044-11-30 07:41:00 EST,3647,"N",54,"Nursing/Other","focus hemodynamic","
+focus hemodynamic
+data: vss. confused to time and place during the nite. back dsg intact. pedal pulses intact. venous access intact with iv ns at 60cc/hr. o2 4liters of np and 50% open shovel mask. o2sat 94-99%. u.o-20-50cc/hr. 
+response: monitor resp status closely. ? transfer to the floor today. 
+",,
+13408,21199,16689,0,3044-11-30 12:43:00 EST,3044-11-30 13:20:00 EST,3790,"N",54,"Nursing/Other","TRANSFER NOTE/CONDITION UPDATE","
+TRANSFER NOTE/CONDITION UPDATE
+60 Y0 FEMALE PT OF DR. [**Last Name (STitle) **], ADMITTED [**3044-11-22**] WITH DX OF L5 METASTATIC TUMOR
+
+HX:  BREAST CA [**3039**], METASTATIC BREAST CA TO BONE AND BRAIN, RHEUMATIC FEVER, HTN, T+A, SMALL HIATAL HERNIA, SEIZURE DISORDER [**6-21**], HPYLORI, S/P PARIETAL EXCISION, RAD TO L PARIETAL LOBE + R CEREBELLUM, S/P CHEMO.  L5 FX, L3 COMPRESSION, L5-S1 NARROWING.
+
+ALLERGIES:  DILANTIN AND MORPHINE
+
+HOSPITAL COURSE:  [**3044-11-22**] S/P L4-S1 SPINAL STABILAZATION, FUSION LAMI LUMBAR FIXATION WITH PEDICLE FRACTURE.  POST-OP COMPICATED BY TEMPS, TACHYCARDIA, EMESIS OF COFFEE GROUND SUBSTANCE, LOW U/O.  PT TX TO SICU [**3044-11-25**] WITH SOB, DECREASED O2 SATS.
+
+SICU COURSE:  PT SWANED, INTUBATED, SEDATED. FOUND TO BE IN CHF.   GI BLEEDING RESOLVED WITH CORRECTION OF ELEVATED COAGS, CHF RESOLVED WITH LASIX, DIURESIS.  RESP STATUS REMAINED AN ISSUE WITH FREQUENT SX.  EVENTUALLY WEANED AND EXTUBATED [**3044-11-28**].  
+
+CONDITION UPDATE [**3044-11-30**]:
+D:  T MAX 97.8
+
+NEURO:  A+OX3, CONFUSED AT TIMES.  VERY PLEASANT AND APPROPRIATE.  DENIES ANY PAIN.    MAE, OOB TO CHAIR WITH TLSO BRACE ON WITH 2 ASSIST.  BACK DRESSING C,D+I.
+
+CV:  HR 80'S-115 NSR/ST WITH MOVEMENT.  SBP 115-142/60'S-70'S.  + PPP BILAT UNDER +3 EDEMA.  PORT-A-CATH IN PLACE WITH NS @ 60CC/HR. 
+
+RESP:  LS CLEAR UPPER, DIMINISHED LOWER.  PT WITH UPPER RESP CONGESTION IN BACK OF THROAT WHICH PT HAS DIFFICULTY EXPECTORATING.  WHEN AWAKE AND IN THE CHAIR, PT O2 SATS 97-100% ON 3L/M VIA NC.  WHEN DOZING OFF, SAT'S DIP TO HIGH 80'S.  HUMIDIFIED SHOVEL MASK @ 50% FIO2 WHEN APPLIED KEEPS SATS > 96%.  PT IS VERY GOOD ABOUT DEEP BREATHING AND COUGHING WHEN REMINDED.
+
+GI:  TOLERATING CLEAR LIQUIDS VERY WELL.  PO SOLIDS PT HAS MINIMAL INPUT.  MOVED BOWELS X1 THIS AM.
+
+GU:  FOLEY D/C'D @ 11AM PER DR. [**Last Name (STitle) 2944**], DTV 7 PM.
+
+SKIN:  VERY RAW/EXCORIATED INBETWEEN THIGHS, TX WITH MICOSTATIN POWDER.
+
+A/R:  AFEBRILE, O2 SATS MAINTAINED VERY WELL ON 3 L/M NC WITH SUPPLEMENT OF 50% SHOVEL MASK WHEN SLEEPING.  
+
+P:  TO HAVE CHEST X-RAY AND TX TO FLOOR.  WILL CONTINUE TO REQUIRE FREQENT REMINDING FOR PULMONARY TOILET, AND FREQUENT O2 SAT CHECKS.
+",,
+13408,21199,,,3044-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3044-12-1**] 11:00 AM
+     CHEST (SINGLE VIEW); CHEST (LAT DECUB ONLY) RIGHT               Clip # [**Clip Number (Radiology) 15426**]
+     Reason: 60F, please assess for pulomonary edema or worsening pleural
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with metastatic breast ca, being transfered from unit after
+      likely pulm edema vs ards. large bilateral effusions.
+      [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 15427**] 90276
+     REASON FOR THIS EXAMINATION:
+      60F, please assess for pulomonary edema or worsening pleural effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic breast cancer.  Large effusions.  Pulmonary edema vs.
+     ARDS.
+     
+     Frontal and right-side-down decubitus films, two views:  Comparison
+     [**3044-11-30**].  There is a left central line with tip in the inferior SVC/right
+     atrium.  There is no pneumothorax.  There are bilateral diffuse interstitial
+     and alveolar infiltrates, likely representing edema.  Left lower lobe density
+     seen on prior study clears on the decubitus view, and is likely related to
+     layering pleural effusion.  There is also a layering effusion on the right.
+     There are no definite focal areas of pneumonic consolidation.
+     
+     IMPRESSION:  Findings suggestive of interstitial and alveolar edema with
+     bilateral layering pleural effusions.
+
+",,
+13408,,,,3045-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3045-2-20**] 12:49 PM
+     HUMERUS (AP & LAT) LEFT; UPPER EXTREMITY FLUORO WITHOUT RADIOLOGIST LEFTClip # [**Telephone/Fax (1) 15428**]
+     Reason: LT HUM FX  RODDING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LEFT HUMERUS AP AND LATERAL VIEW.
+     
+     INDICATION:  Left humerus fracture, fixation with rod placement.
+     
+     A total of five intensifier images was obtained demonstrating the performance
+     of rodding of the left humerus protecting a local lytic metastatic lesion in
+     the proximal half of the humerus.
+     
+     IMPRESSION:  Rodding of left humerus in progress.
+
+",,

@@ -1,0 +1,1267 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13301,3455,,,3318-02-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3318-2-2**]     Discharge Date:  [**3318-2-10**]
+
+Date of Birth:   [**3241-6-8**]     Sex:  M
+
+Service:  MICU
+
+CHIEF COMPLAINT:   Transfer from outside hospital for
+evaluation for TIPS / Esophagogastroduodenoscopy.
+
+HISTORY OF PRESENT ILLNESS:   The patient is a 76 year old
+very pleasant gentleman with a past medical history
+significant for invasive adenocarcinoma of the stomach status
+post near total gastrectomy in [**3317-9-15**], with
+Roux-en-Y anastomosis and partial jejunal pouch, cirrhosis,
+coronary artery disease and orthostatic hypotension who was
+admitted to [**Hospital6 2330**] on [**3318-1-20**] with
+complaints of nausea and dysphagia.
+
+At the [**Hospital6 2330**] Mr. [**Known patient lastname 8845**] [**Last Name (Titles) 877**] an
+esophagogastroduodenoscopy which showed esophageal varices
+and stricture.  He has had three esophageal dilatations in
+the past for stricture at anastomotic site.  Dilation could
+not be performed at this time given his report of large
+varices.  He was therefore transferred for evaluation.
+
+In addition, at [**Hospital6 2330**], Mr. [**Known patient lastname 8845**] had
+a transthoracic echocardiogram for evaluation of orthostatic
+hypotension which was unremarkable.
+
+He was noted to have significant orthostatic changes which
+was felt secondary to autonomic dysfunction after his
+Florinef was discontinued.  He instead was transferred to
+Midodrine with some improvement in his blood pressure.  Other
+work-up at [**Hospital6 2330**] included paracentesis
+with albumin which showed SAAG greater than 1.1.  Cytology
+was negative for malignancy and there was no evidence of SVP.
+He was unable to tolerate more than liquids while at the
+hospital secondary to coughing which was felt secondary to
+aspiration.
+
+On admission to [**Hospital1 10**], he was
+initially managed on the Medicine Floor.  However, on
+hospital day number two, he was noted to have desaturations
+and tachypnea and was complaining of a feeling of an
+obstruction in his throat.  He had been n.p.o. prior to this
+event.  He was transferred to the Medical Intensive Care Unit
+and was maintained on 100% nonrebreather face mask for the
+first two days in the Intensive Care Unit.  He was slowly
+weaned off oxygen, however, had a respiratory event on
+hospital day number five, at which time he was intubated.
+
+The following morning, an esophagogastroduodenoscopy was
+performed and the remainder of hospital course will follow.
+
+PAST MEDICAL HISTORY:
+1.  History of pancytopenia.
+2.  Invasive gastric adenocarcinoma status post near total
+gastrectomy in [**3317-9-15**].  He had an esophageal to
+jejunal anastomosis within a Roux-en-Y procedure.
+3.  He is status post three esophageal dilatations by
+esophagogastroduodenoscopy secondary to strictures at the
+anastomotic sites.
+4.  History of cirrhosis which was diagnosed in the 70s
+thought secondary to alcohol use.  He has not had any alcohol
+use since time of diagnosis.
+5.  Anastomotic site ulcer.
+6.  Coronary artery disease status post angioplasty and
+stent.
+7.  Autonomic dysfunction / orthostatic hypotension.
+8.  Depression.
+9.  History of syncope.
+10. Transverse colectomy secondary to invasive gastric
+adenocarcinoma in [**3317-9-15**].
+11. Vitamin D deficiency.
+
+MEDICATIONS AT HOME:
+1.  Zoloft 50 q. day.
+2.  Folate.
+3.  Florinef.
+4.  Colace.
+5.  Megace.
+6.  Carafate.
+7.  Lipitor.
+
+ALLERGIES:   No known drug allergies.
+
+MEDICATIONS ON TRANSFER:
+1.  Inderal 20 twice a day.
+2.  Protonix 40 twice a day.
+3.  Midodrine 10 three times a day.
+4.  Colace 100 twice a day.
+5.  Aldactone 50 twice a day.
+6.  Zoloft 50 q. day.
+7.  Lasix 40 q. day.
+8.  Milk of Magnesia p.r.n.
+
+SOCIAL HISTORY:   Alcohol use:  Heavy drinking for
+approximately 24 years, quit 29 years ago.  The patient is
+very active in Alcoholics Anonymous and has not had any
+alcohol since diagnosis of cirrhosis.  Tobacco use:
+Twenty-four years, also quit 29 years ago; approximately one
+pack per day.  No history of illicit drug use.  The patient
+lives alone in [**Location (un) 1688**], [**State 277**].  He has no close
+relatives.  His point of contact is his friend, Deputy Chief
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8846**] whose phone number is [**Telephone/Fax (1) 8847**].
+
+PHYSICAL EXAMINATION:   On presentation to the Medicine Floor
+is temperature 95.1 F.; blood pressure 120/70; heart rate 82;
+respiratory rate 22; 97% on four liters oxygen by nasal
+cannula.  In general, the patient appeared comfortable in no
+apparent distress.  His pupils were equal, round and
+reactive.  Extraocular muscles are intact.   Mucous membranes
+were dry.  Oropharynx was clear.  He had poor dentition.  His
+heart was regular rate.  No murmurs, rubs or gallops were
+appreciated.  He had bilateral basilar crackles, right
+greater than left.  On abdominal examination, he had
+hypoactive bowel sounds, soft, nontender, nondistended; a
+very large horizontal abdominal scar was present and he was
+dull to percussion throughout with a positive fluid wave.  On
+extremities:  No lower extremity edema.  He had [**Male First Name (un) 374**] stockings
+on.  His skin was dry with some ecchymoses over his chest and
+right upper extremity.  He had some spider angiomas.  On
+neurological examination he was alert and oriented times
+four.  Cranial nerves II through XII were intact.  He had
+four over five bilateral upper extremity strength, four over
+five lower extremities bilateral strength and sensation was
+intact.
+
+LABORATORY:  On transfer white blood cell count 9.6,
+hematocrit 31.7 at his baseline; platelets 122.  Sodium 141,
+potassium 3.5, chloride 110, bicarbonate 22, BUN 14,
+creatinine 0.7, glucose 108, albumin 2.1; total protein 4.7.
+LDH 196, total bilirubin 1.7, alkaline phosphatase 82.  ALT
+5, AST 20, INR 1.4, uric acid 4.7.
+
+IMPRESSION:  This is a 76 year old gentleman with a history
+of gastric cancer status post near total gastrectomy with an
+esophageal duodenal Roux-en-Y procedure who has had three
+esophageal dilatations secondary to stricture at the
+anastomotic site, who was transferred from outside hospital
+for complaints of dysphagia and nausea.  He was transferred
+for evaluation of TIPS procedure and repeat EGD for
+evaluation of swallowing complaints which was thought
+secondary to aspiration.
+
+HOSPITAL COURSE:
+1.  GASTROENTEROLOGY:  As stated above, Mr. [**Known patient lastname 8848**] main
+complaint included dysphagia which was thought secondary to
+mechanical obstruction at his anastomotic site from a history
+of gastric cancer treated in 10/2003.  After intubation on
+hospital day number five, Mr. [**Known patient lastname 8845**] [**Last Name (Titles) 877**] an
+esophagogastroduodenoscopy which showed no stricture and a
+wide open anastomosis with visible aspiration of secretions.
+
+General Surgery was consulted as well as Gastroenterology for
+possible interventions as it was felt that the reason he was
+intubated was secondary to recurrent aspiration.  The
+conclusions from both consultations obtained was that there
+was no surgical or endoscopic intervention.
+
+2.  RESPIRATORY DISTRESS:  He was intubated on hospital day
+number five for respiratory distress secondary to persistent
+aspiration through his esophageal duodenal anastomosis.  Mr.
+[**Known patient lastname 8845**] was not able to be weaned from the ventilator given
+the development of metabolic acidosis which will be described
+below.  He was finally extubated on [**3318-2-10**], and expired
+within a few hours.
+
+3.  ENTEROCOCCUS BACTEREMIA:  On [**3318-2-3**], Mr. [**Known patient lastname 8845**] had
+a one out of four blood culture bottles growing enterococcus
+which was sensitive to Vancomycin.  He had a subclavian line
+at that time which was discontinued and the catheter tip sent
+for culture which did not have any growth.  He was continued
+on Vancomycin intravenously for his bacteremia and remained
+afebrile.
+
+4.  LEUKOCYTOSIS:  On hospital day number six and seven, the
+patient had significant and acute increase in his white blood
+cell count from 11 to 41.  A differential at that time showed
+7% bands.  There was no clear source of infection, however,
+given the rapid and very high increase in his white count,
+Clostridium difficile colitis was suspected.  In addition,
+other diagnoses which were entertained were sepsis and
+mesenteric ischemia.  A CT scan of the abdomen was performed
+which showed no evidence of abscess with some colonic
+thickening which was nonspecific.
+
+Also of note, he had significant ascites which was tapped and
+showed 85 white cells and a SAAG of less than 1; therefore it
+was not felt that the patient had peritonitis as an
+explanation for his leukocytosis.
+
+He was placed on p.o. Vancomycin and continued on intravenous
+Flagyl and Levaquin which were started on hospital day number
+two for presumed aspiration pneumonia.
+
+5.  ALTERED MENTAL STATUS:  Mr. [**Known patient lastname 8848**] mental status was
+clear until the time of aspiration event on hospital day
+number five when he was intubated.  He was continued on
+Propofol and was taken off it on a number of occasions at
+which time Mr. [**Known patient lastname 8848**] delirium d[**MD Number 563**] recover.  He was
+not oriented for the remainder of his hospital course.  It
+was felt that this was mostly toxic metabolic in nature given
+his significant leukocytosis and likely hepatic
+encephalopathy.
+
+6.  HYPOTENSION:  The patient was started on Neo-Synephrine
+at the time of his intubation on hospital day number five and
+was never able to be weaned off pressors.  He responded well
+to intravenous fluid boluses at times, however, his pressors
+were continued.  He had a number of reasons for his
+hypotension including acute issues such as sepsis,
+leukocytosis, sedating medications, nutritional deficiency as
+well as chronic issues which included baseline autonomic
+dysfunction.
+
+7.  LEGAL ISSUES:  Prior to intubation, Mr. [**Known patient lastname 8845**] elected
+his friend, Deputy Chief [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8846**], to serve as his
+health care proxy and durable power of attorney.  Mr. [**Known patient lastname 8845**]
+has no relatives in the area.  On [**3318-2-10**], as Mr.
+[**Known patient lastname 8848**] condition continue to deteriorate despite full
+effort and full life sustaining support measures.
+
+In accordance to the patient's wishes, Deputy Chief [**Doctor Last Name 8846**]
+elected to have Mr. [**Known patient lastname 8845**] [**Last Name (Titles) 8849**] on [**3318-2-10**] and he
+expired within a few hours.
+
+An autopsy was requested, however, due to the fact that Mr.
+[**Name13 (STitle) 8846**] is not a family member, this could not be performed
+under [**State 277**] Law.  Multiple attempts were made to
+contact any living family members, however, these were not
+successful.
+
+DISCHARGE DIAGNOSES:
+1.  Invasive gastric carcinoma status post total gastrectomy
+in [**3317-9-15**] with a transverse colectomy.
+2.  Respiratory failure secondary to recurrent aspiration.
+3.  Bacteremia.
+4.  Leukocytosis which was likely secondary to Clostridium
+difficile colitis, possible mesenteric ischemia.
+5.  Hypotension.
+6.  Aspiration pneumonia.
+7.  Coagulopathy, acquired.
+8.  Cirrhosis secondary to alcohol use.
+9.  Ascites.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 15**] [**Initial (NamePattern1) **] [**Known patient firstname **], M.D.  [**MD Number 8850**]
+
+Dictated By:[**Last Name (NamePattern1) 2597**]
+
+MEDQUIST36
+
+D:  [**3318-2-11**]  11:50
+T:  [**3318-2-12**]  23:13
+JOB#:  [**Job Number 8851**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 15**] [**Known patient firstname **]
+ on: MON [**3318-2-14**] 10:38 AM
+(End of Report)
+
+
+",,
+13301,3455,,,3318-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-3**] 3:11 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 14394**]
+     Reason: ?infiltrate, worsening edema                                
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with sudden decreased sats to 78 with increased resp rate.      
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate, worsening edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Decreasing oxygen saturation.
+     
+     COMPARISONS: Earlier same day.
+     
+     Right subclavian vascular catheter remains in satisfactory position. The heart
+     size and pulmonary vascularity are within normal limits. Again demonstrated
+     are multifocal pulmonary opacities throughout the right lung. These have
+     slightly progressed in the interval with an area of coalescing air space
+     opacity noted peripherally within the right mid and lower lung zones. Some of
+     the more patchy opacities have a somewhat nodular appearance.  There is
+     persistent left retrocardiac opacification but the remaining portion of the
+     left lung is grossly clear.  Bilateral pleural effusions are demonstrated.
+     
+     IMPRESSION:
+     
+     Progressive multifocal pulmonary opacities in the right lung. Additional
+     patchy areas of opacity througout the remaining right lung with somewhat
+     nodular appearance. These findings could be due to evolving pneumonia. A
+     massive aspiration event is also possible. Without older films for comparison,
+     it is difficult to exclude other underlying process including malignancy
+     and followup radiographs are recommended to ensure resolution.
+
+",,
+13301,3455,,,3318-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-3**] 10:00 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14393**]
+     Reason: ?infiltrate, atelectasis                                    
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 yo male admitted for portal hypertension, esophag varices, with bibasilar 
+      crackles
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate, atelectasis                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     TWO VIEW CHEST:
+     
+     INDICATION:  Bibasilar crackles.  Portal hypertension.
+     
+     The examination is technically limited due to AP portable technique, as well
+     as semi-erect positioning and lordotic projection.  Additionally, in the
+     lateral view,  the arms are not well positioned, resulting in obscuration of
+     normally clear retrosternal space.  Exposure factors are also suboptimal
+     resulting in an overpenetrated appearance of the left lung limiting
+     parenchymal detail in this region.  There are bilateral pleural effusions
+     present, moderate on the left and small on the right.  Multifocal patchy areas
+     of parenchymal opacification are seen throughout the right lung and within the
+     left retrocardiac region.  Several air bronchograms are noted consistent with
+     an alveolar process.  Skeletal structures reveal diffuse mineralization.
+     
+     IMPRESSION:
+     
+     1) Technically limited chest radiograph, as detailed above. Multifocal
+     alveolar opacities throughout the right lung and within the left lower lobe,
+     concerning for multifocal pneumonia or aspiration.
+     
+     2)  Bilateral pleural effusions.
+     
+     Repeat study with improved technique is recommended for more complete
+     assessment.
+     
+
+",,
+13301,3455,,,3318-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-3**] 3:19 PM
+     BILAT LOWER EXT VEINS PORT                                      Clip # [**Clip Number (Radiology) 14395**]
+     Reason: ?dvt                                                        
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with sudden drop in o2 sats to 78, increased respiratory rate, 
+      longterm bedrest.
+     REASON FOR THIS EXAMINATION:
+      ?dvt                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND OF THE BILATERAL LOWER EXTREMITIES.
+     
+     HISTORY:  76 year old male with sudden decrease in oxygen saturation and
+     increasing respiratory rate.
+     
+     FINDINGS:  The bilateral common femoral veins, femoral veins, deep femoral
+     veins, greater saphenous and popliteal veins are normal in flow and
+     compressibility. There is normal response to augmentation bilaterally.
+     
+     IMPRESSION:
+     
+     1) No evidence of deep venous thrombosis involving either lower extremity.
+
+",,
+13301,3455,16562,,3318-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-4**] 5:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14396**]
+     Reason: Please eval for progression of infiltrates and effusions or 
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with sudden decreased sats to 78 with increased resp rate now 
+      in [**Hospital Unit Name 140**] on NRB.      
+     REASON FOR THIS EXAMINATION:
+      Please eval for progression of infiltrates and effusions or new edema.          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Sudden desaturation.
+     
+     AP UPRIGHT CHEST: Comparison with [**2-3**], there is no significant
+     interval change. There are persistent multifocal pulmonary opacities
+     predominantly in the right lung. There are more confluent areas within the
+     right lower lung zone laterally and the right upper lung zone. There is also
+     likely a small left pleural effusion. The left central line is unchanged. The
+     differential diagnosis includes multifocal pneumonia and aspiration. Please
+     also refer to the comment in yesterday's report.
+
+",,
+13301,3455,16562,0,3318-02-04 06:30:00 EST,3318-02-04 06:57:00 EST,1951,"N",69,"Nursing/Other",,"
+
+MICU NURSING ADMIT NOTE (PLEASE SEE FHPA)
+     Pt is a 76 yr old male with h/o gastric ca requiring gastrectomy , cirrhosis c/b varices and ascites, and esophageal strictures requiring dilation x 3. PT was admitted to NEBH on [**1-20**] with vomiting and dysphagia. EGD reveased a narrowing to 5mm at esophago-small bowel anastomosis and large esophageal varices. Pt transferred to [**Hospital1 10**] on [**2-2**] for TIPs in hopes of decreasing varices to be followed by esphageal dilatation. On [**2-3**] pt delevoloped increasing O2 requirement, SOB and a new RLL consolidation on cxr in the setting of frequent regurgitation of any po's, even clears. Pt made npo. Pt required 100% nrb, with abg: 107/31/7.47/23. Transferred to micu for presumed aspiration pneumonia. 
+   Review of systems:
+  nuero: A+O x [**1-18**].. at times thinks he is still at the NEBH. consistently knows name and month/year. Follows commands and is appropriate in conversation, but required soft wrist restraints as was continuously pulling off NRB mask.
+   RESP: REmains on 100% nrb with sats mid to high 90's.. desatted to 89% while lying on R side. rr low 30's. pt with crackles R base... developed rhonchi RUL while lying R side down.. cpt done and pt coughed and seemed to clear secretions. Has not yet been able to expectorate a sample. Attempted to wean to 70% csm, but sats dipped to low 90's. CXR this am essentially unchanged from last noc.
+    CV: HR 70's-80's nsr, occasional pac. SBP 90's most of noc. sbp dipped to 80's x 1 requiring 500cc's ns bolus. then uo dipped x 2 overnight, so received additional 250cc'sns x 2 with slight improvement in UO. 
+     FE: completed Kphos repletion o/n. repleated with 2 amps mgso4 and 20meq kcl for pm lytes. am lytes show elevated NA.. will change ivf from NS with 40meq kcl at 125cc's/hr to D51/2NS with 40meq kcl at 125cc's/hr. fb 1.5 L + so far today. team aware. Plan is to start TPN once line is changed over a wire to preserve point. 
+     ID: tmax 99.6. cont on levo/flagyl. Hepatitis serologies pending. blood cx sent x 2 and urine cx sent.  
+     GU: UO marginal all noc. dipped to 8cc's x 1 hr, and 5cc's another hour.. both times received 250cc ns boluses as noted above. 
+     GI: ab soft, bs hypo. no stool. 
+     INteg: buttocks excoriated.. barrier cream applied. may need kinair bed. 
+    Heme: med with vit K 10mg sc as ordered INR 1.8. am hct 27 (30 yesterday). no s/s bleeding.
+    Social: no calls o/n. per [**Hospital Ward Name **] 7 RN, please call pt's friend [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4640**] this am, as he is pt's contact person. phone # in fhpa. 
+     A/P: pt admit for aspiration pneumonia in setting of esophageal stricture. NPO. PO meds on hold as pt was regurgitating even clear liquids on [**Hospital Ward Name 40**] 7. cont to follow UO/fluid balance. When stable will need TiPs followed by esophageal dilatation. cont abx/cpt. 
+     Access: R sc tlc. 
+",,
+13301,3455,16562,0,3318-02-04 18:06:00 EST,3318-02-04 18:23:00 EST,2378,"N",69,"Nursing/Other",,"
+
+Pt with  hx gastric ca, cirrhosis, and esophageal stricture/obstruction who was transferred from NEBH for TIPS procedure, now with hypoxia and RLL consolidation on CXR c/b asp pna.
+NEURO:  Alert and oriented to person and place and follows simple commands.  +MAE noted.  Cough/gag intact.  
+CV:  Monitor shows NSR-ST with occ pac's and rare pvc noted. Generalized edema noted and pitting edema of BLE.
+RESP:  Pt accepted on 100 %NRB and weaned to 6l np. LS coarse RUL and cx's r base, lUL clear and diminished L base. +nonprod cough noted.  Tol CPT well.  Pt desats while on R side and placed on 50% humidifeid simple face mask.   Cont to wean O2 as tolerated.  Asp prec maintained.
+GI:  Abd soft and nontender.  BS hypo.  Pt remains NPO including po meds awaiting tips procedure.   
+GU:  Foley intact and patent with amber colored urine with sedimentation.  Uo remains marginal (goal uo 20-30 cc).  FB 500 cc with fair response and team aware.  Plan to rebolus if no response from PRBC.
+HEME:  Hct down and pt recieved 1 U prbc... will need Hct check at 2000.  K repleted as ordered.  INR remain elevated and order for one time dose of Vit K in am.
+SKIN:  Coccyx with superficial oa and duoserm d+i with no drainage.
+I-D:  Afebrile.  Pt with 1+ bld cx from [**2-3**] with gm + cocci in pair and chains in aerobic bottle.  Dr. [**Last Name (STitle) **] notified.  Pt remains on Levo and Flagyl.  Plan to rewire TLC this eve and ? start tpn. 
+PSY-SOC:  No phonecalls or visitors this shift.  Pt updated on status and plan of care by this rn and Dr. [**Last Name (STitle) **]. 
+",,
+13301,3455,16562,,3318-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-5**] 8:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14397**]
+     Reason: evaluate line placement                                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old man with hypoxia now s/p LSC.                                    
+     REASON FOR THIS EXAMINATION:
+      evaluate line placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: Hypoxia now, s/p LSC.  Evaluate line placement.
+     
+     CHEST, SINGLE AP PORTABLE VIEW:
+     
+     FINDINGS: The left subclavian central line is present, tip at junction between
+     inominate  and SVC.  No pneumothorax.  Linear densities overlying left apex
+     are likely artifactual.  There are patchy opacities throughout both lungs,
+     most pronounced at the right upper and lower zones and left lower zone and
+     left pleural effusion.  The opacities are more pronounced peripherally.   The
+     findings have progressed slightly compared with one day earlier.
+     
+     IMPRESSION: Patchy opacities in both lungs and small left pleural effusion.
+     Differential diagnosis includes pneumonic infiltrates and early ARDS.  The
+     peripheral nature of the findings also suggests the possibility of an embolic
+     phenomenom including septic emboli. CHF is considered less likely given th
+     peripheral distribution.   Clinical correlation is requested for full
+     assessment.
+
+",,
+13301,3455,16562,0,3318-02-05 05:54:00 EST,3318-02-05 06:09:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN 11p-7a:
+   Review of Systems:
+    Neuro: Pt A+O x 2, at times confuses which hospital he's in. otherwise following commands and is appropriate in conversation. 
+    CV: Hr 80's-90's, bp 90's-1teens. 
+    RESP/FE: received 500cc's NS bolus over 1 hr at onset of shift per team d/t margianal uo. IVF changed to D51/2 NS at 100cc's/hr. at 4:30 am, pt appeared volume overloaded, with slight SOB, increasing bilateral crackles and sats dropping to 82% on 6L nc (had been mid 90's on 6Lnc).. improved with addition of 60% CSM, but pt c/o cold [**Last Name (LF) 4641**], [**First Name3 (LF) **] nc and csm removed, and pt placed on 100% NRB. Team into eval. med with 10 mg iv lasix. await effect. K+ 3.4. started on 1st of 3 bags of 20meq kcl. rr high20's to 30's. 
+    GI: pt vomited x 2 clear fluid, reporting mild nausea. med with 4mg zofran iv. await effect.
+     GU: foley intact. urine amber with sediment. 
+      Integ: pt has 2 duoderms on bottocks for abrasions.  
+     access: tlc. has not yet been changed so no tpn infusing as of yet. 
+      A/P: pt treated with lasix for apparent volume overload (fb + 5L past 24 hrs).. cont to regurgitate own saliva, cont with increasing o2 requrements. await plan for ? tips from liver service/GI. await cental line change so tpn can start. 
+",,
+13301,3455,16562,0,3318-02-05 17:33:00 EST,3318-02-05 17:56:00 EST,2037,"N",69,"Nursing/Other",,"
+
+S. Am I getting my antidepression medication I think I need it. C/o nausea
+O. Neuro pt alert oriented x3 sometimes becomes slightly confused mae FC pupils 2mm brisk.  Zoloft on hold pt npo.
+cardiac K+  5am 3.4 tx with 60meq kcl iv repeat 4.2 at 1720 episode of 15 bt run vt tx with 2gm mag sulfate Bp 103/54- 114/ am inderal held skin w+d +3 edema extremities legs >arms pp doppler
+Resp on 5lnp 100%nrb o2 sat 98-100% weaned to fm 50% with  5lnp o2 sat 94% when mask off pt quickly desaturates to 86-88% lungs CTA to coarse RML crackles RLL left sounds clear diminished bases. coughing nonproductive
+GI pt NPO po meds on hold tx zofran 4mg iv q 6 hr with relief nausea vomited x2 cl liq. abd soft distended nontender bs absent started on tpn nutrition
+GU given lasix 20mg iv +324 since mn bun cr wnl
+ID + bld cx enterococcus starting on vanco. cont on levo and flagyl wbc 8.9 afebrile. Rt SC d/c catheter tip sent for cx
+access new lt SC
+a. + bld cx enteroccus
+episode VT
+esophageal varices nausea vomiting asp pna
+low o2 sat requiring increase oxygen requirements
+P. start vanco monitor wbc temp bld cx cont levo and flagyl
+vigorous pulm toliet ? need abg, attempt to keep pt neg 500cc send sputum if possible bld cx x2 sent today UA sent 
+replete lytes monitor ectopy
+zofran 4mg q 6hr
+restart zoloft as soon as pt can tol
+",,
+13301,3455,16562,,3318-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-6**] 6:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14399**]
+     Reason: increasing edema vs infiltrates.                            
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with hypoxia, aspiration event.                                
+        
+     REASON FOR THIS EXAMINATION:
+      increasing edema vs infiltrates.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   Hypoxia, aspiration event.  Question edema or infiltrate.
+     
+     CHEST, SINGLE AP PORTABLE VIEW:  Compared with earlier the same day, there is
+     probable slight increase in the degree of confluence of the right upper zone
+     consolidation.  Again seen are alveolar opacities at the right base
+     peripherally and in the left perihilar region.  There is a small left pleural
+     effusion, unchanged.  No CHF.  A left subclavian central line tip lies in the
+     distal innominate adjacent to the confluence with the SVC.  No pneumothorax
+     detected.
+     
+     IMPRESSION:
+     
+     Suspect some increase in the degree of confluence of consolidation at the
+     right apex.  Otherwise, lung findings are unchanged, compared with earlier the
+     same day.
+     
+
+",,
+13301,3455,16562,,3318-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-6**] 12:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14398**]
+     Reason: r/o pna, chf                                                
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with hypoxia, increased work of breathing.                      
+                 
+     REASON FOR THIS EXAMINATION:
+      r/o pna, chf                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Hypoxia increased work of breathing, r/o pneumonia or CHF. 
+     
+     PORTABLE AP CHEST:  Again seen are patchy infiltrates throughout much of the
+     right lung in a small patchy opacity in the left upper zone peripherally.
+     Probable left sided effusion and possible small right sided effusion.
+     Allowing for differences in technique. No significant change is detected,
+     compared with one day earlier, except removal of right subcalvian line.  The
+     left subclavian line tip lies in the lower innominate, adjacent to the
+     expected site of confluence with the SVC. Extreme left costophrenic angle
+     excluded from film.
+     
+     IMPRESSION:   Multifocal opacities, consistent with pneumonic infiltrate, no
+     significant interval change compared with one day earlier.
+
+",,
+13301,3455,16562,0,3318-02-06 06:01:00 EST,3318-02-06 06:16:00 EST,2378,"N",69,"Nursing/Other",,"
+
+76 y.o. male with hx gastric ca, cirrhosis, and esophageal stricture/ obstruction who was transferred from NEBH for tips and esphageal dilation but has had labored breathing and hypoxia along with RLL copnsolidation c/w asp pna.
+
+NEURO:  Alert and oriented to person and place.  Pt with mild confusion upon waking up but easily reoriented.  +MAE noted.  Weak cough noted. 
+CV:  Monitor shows NSR with occ pac's and rare pvc noted.  Generalized edema noted.  
+RESP:  LS diminished bibasilar with bronchial breath sounds R base.  Pt with increased resp distress ~0000 with drop in Sao2 to mid 70's with O2 removal.  Pt placed on 100 % nrb and took approx [**12-17**] to recover.  Pt tacypneic with rate in the 30's and bibasilar cx's at this time.  Abg and cxr obtained with slight improvement since previous day.  Cont with diuresis with goal -500 cc. 
+GI:  Abd firm with no bowel sounds auscultated.  Pt remains NPO.  Held all po meds overnoc [**1-17**] increased fio2 requirements and high risk aspiration.  Pt on tpn for nutrition.  Pt with c/o N and zofran given with +effect.
+GU:  Pt recieved lasix 20 mg with + diuresis.  Foley intact and patent draining yellow urine with sedimentation noted. 
+SKIN:  duoderm to coccyx d+i.
+I-D:  afebrile.  Pt on Vanco for + enterococcus in blood. pt remains on levo and flagyl for pna. 
+HEME:  K and Na phos repleted as ordered.  Am lab work pending and ? will need lyte repletion. 
+PSY-SOC:  No phone calls or visitors overnight.  Pt remains full code in micu.  Pt updated on status and plan of care. 
+
+",,
+13301,3455,16562,0,3318-02-06 12:35:00 EST,3318-02-06 12:46:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 7AM-3PM:","
+MICU NPN 7AM-3PM:
+Neuro: Pt is awake and alert, oriented times two. Sometimes difficult to understand due to slow, garbled speech. C/O generalized discomfort with turns/repositioning.
+
+Resp: Able to switch O2 from 100% NRB to 50% CN with 6L N/C. O2 sats 94%-95% at rest with this but drops to low 90's high 80's with minimal activity. Continues with very poor activity tolerance. Lungs are clear upper lobes with deminished sounds at both bases. Dry cough noted frequently. RR 22-28 at rest and up to 30's with activity.
+
+CV: VSS Will have repeat K+ and Mg drawn at 3PM. HR 80-100 NSR with PVC's and PAC's.
+
+GI: Remains NPO due to aspiration risk. All PO meds being held as well. Minimal bowel sounds heard. No stool. He states last stool two nights ago. Awaiting resp status to stabilize before TIPs can be done. No signs of GI bleed. Hct stable. Will continue with TPN this evening.
+
+GU: UO is excellent via foley. He is being diuresed with lasix to goal fluid balance 500cc's negative QD.
+
+Skin: Numerous ecchymotic areas noted over his arms and legs. Old abdominal surgical would well healed.
+
+IV's: Triple lumen left SC all ports functioning well.
+
+ID: Pt is being treated for aspiration pneumonia as well as bacteremia since one blood culture has come back positive. Team ordered for repeat blood cultures to be done today which was done. One culture from right arm and one from triple lumen.
+
+
+",,
+13301,3455,16562,0,3318-02-06 18:37:00 EST,3318-02-06 18:48:00 EST,2481,"N",69,"Nursing/Other","nsg progress note 1530-1900","
+nsg progress note 1530-1900
+Accepted care of pt @ 1530. Pt alert and oriented X2, following commands. Denied pain. @ 1830 pt started to vomit. He was on right side at time however when entering room he had a lg amount of clear oral secretions in the back of his throat. Emesis on bed. Pt stated he ""just felt nausea all of a sudden"". Zofran given with effect immediately however pt's ls were clear @ 1600 and now sound coarse and pt requiring increased O2. Currently on 100% NR and 6l nc with sats 90%. Strong cough. Pt has been NPO all day. Sitting upright. CXR done. cont to follow resp status. Pt is a full code.
+",,
+13301,3455,16562,0,3318-02-06 19:37:00 EST,3318-02-06 19:41:00 EST,2930,"N",69,"Nursing/Other",,"
+
+RESP CARE
+
+ATTEMPTED NON-INVASIVE VENTILATION DUE TO DESATURATION TO 90% ON 100% NON-REBREATHER. CAUSE RELATATED TO APPARENT ASPIRATION. THOUGH SATS CAME UP TO 97% ON [**4-20**] AND 100% PT WA UNABLE TO TOLERATE 
+",,
+13301,3455,16562,,3318-02-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-7**] 5:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14400**]
+     Reason: ACUTE HYPOXIA/ INTUBATION
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old man with hypoxia, aspiration event.                               
+          
+     REASON FOR THIS EXAMINATION:
+      acute hypoxia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, aspiration event, acute hypoxia.
+     
+     SUPINE AP CHEST:  There has been interval placement of an endotracheal tube
+     which terminates approximately 2 cm above the carina.  There is again present
+     a left-sided subclavian central venous catheter in stable position.  There is
+     again present a confluent right upper lung zone consolidation which appears to
+     have progressed slightly.  There are again seen patchy alveolar opacities at
+     the right lung base and left perihilar region, appearing worse in the left
+     mid lung zone.  There is also a left-sided posterior layering effusion.
+     
+     IMPRESSION:
+     1.  Interval placement of endotracheal tube.
+     2.  Slight interval progression of right upper lobe consolidation and
+     bilateral alveolar opacities.
+
+",,
+13301,3455,16562,0,3318-02-07 04:47:00 EST,3318-02-07 05:01:00 EST,2804,"N",69,"Nursing/Other",,"
+
+NEURO; PT. REMAIN A/A/O AND HAS DENIED ANY PAIN OR NAUSEA THROUGHOUT THIS SHIFT. PT. HAD EPISODE YESTERDAY ON DAYS OF VOMITING, WITH WORSENING CHEST XRAY. PT. HAS BEEN CALM, WITH NO VOICED COMPLAINTS. PT. MAE'S, AND HAS BEEN AFEBRILE. NEURO ASSESSMENT IS BENIGN.
+
+CV; PT. HAS BEEN NSR-ST 80-105 WITH OCC. PAC'S. B/P HAS BEEN STABLE WITH NO REQUIRED INTERVENTIONS. MAP'S HAVE BEEN >70. TRACE DEPENDANT EDEMA NOTED ON ALL EXTREMITIES. PULSES REMAIN WEAK UPON ASSESSMENT.
+
+RESP; PT. HAS HAD NO FURTHER EPISODES OF SOB, OR VOMITING. LUNG SOUNDS REMAIN COARSE THROUGHOUT, BUT RESP RATE HAS BEEN STABLE IN THE 20'S AND PT. HAS BEEN CALM. O2 IS PRESENTLY 6L/MIN VIA NASAL CANNULA, AND 100% NON REBREATHER. PT. IS NOTED TO DESAT IMMEDIATELY, WHEN MASK IS OFF. 
+
+GI; PT. HAD 1 EPISODE OF NAUSEA WHICH HE RECEIVED 4MG OF ZOFRAN AT 0230. DESIRED EFFECTS REACHED WITHIN 10-15 MINS. PT. REMAINS NPO AT THIS TIME, BOWELS SOUNDS RANGE FROM NORMAL TO HYPO ACTIVE. NO STOOL DURING THIS SHIFT.
+
+GU; PT. HAS FOLEY CATHETER WHICH HAS DRAINED AMPLE AMT'S OF CLEAR YELLOW URINE, RANGING 40-100CC/HR.
+
+DISPO; PT. IS TO BE EVALUATED FOR POSSIBLE TIPS PROCEDURE. THIS IS DEPENDING ON WHETHER HE STRENGTHENS AND MAKES IT TO THE FLOOR, OR IF HE WILL REQUIRE INTUBATION WHILE IN ICU SETTING. 
+",,
+13301,3455,16562,0,3318-02-07 19:45:00 EST,3318-02-07 20:40:00 EST,2056,"N",69,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Mr. [**Known patient lastname 4642**] has had an eventful day.
+Resp: pt cont on high Fio2 100%[**Name6 (MD) **] and NP, he cont with no activity tolerance as his sat would drop to 88% when anything was done even coughing.At 4pm pt had another aspirating episode. He dropped to the 80% and was c/o being tired of breathing. He was then intubated and placed on A/C. Since intubation pt has not been able to get o2 sat up. He is being very vigorously sedated on propofol but his BP has been dropping to the 70's. He was given 1mg of ativan and several IVF boluses to support his BP and get him more comfortable on vent. He cont on 100%Fio2, secretions earlier where very thick but post intubation was thin ?gastric colored. His post intubation CXR shows worsening on the rt side. Pt had cont to desat whenever his rt side was down.
+Neuro: pt now on propfol,being titrated to RR and o2 sats.He was A&Ox3 and following all commands this am. Social Service has spoken to pt regarding health care proxy and power of attorney. Pt also expressed his status and wishes everything to be done. His HCP is Mr. [**Name13 (STitle) 4643**] and the paper work is in the chart. Consent for EGD also obtained as pt will be intubated for tomorrows procedure.
+GI:pt remains NPO but has cont to have these aspirating episodes. The plan is for pt to have an EGD in the am and and treat him from that.He would not tol procedure if not intubated. He has denied any abd pain and nausea today, no stool.TPN cont
+GU:pt with good u/o but got his usual dose of lasix. BUN/CR WNL.Upper and Lower extremity third spacing persists.
+CV:BP was 100-110/60's, HR in the 70's SR. Pt developed hypotension s/p intubation and is receiving IVF.
+Heme: pt's hct is stabl eat 31 but coags are sl up:INR:2.3, pt now on Vit K., no obvious signs of bleeding
+ID: pt has been afebrile, on IVAB
+A/P:Will keep pt comf on vent with sedation to get o2 sats up, wean Fio2 and offer pulm toilet as needed.Keep off rt side, postural drain the rt
+    EGD in am and will need FFP prior to procedure. Keep NPO?NGT
+    Support BP as needed,pressors vs IVF
+    Keep comfortable on vent with propofol and/or ativan 
+    Watch for bleeding 
+",,
+13301,3455,16562,,3318-02-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-8**] 10:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14401**]
+     Reason: worsening, elev wbc                                         
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old man with hypoxia, aspiration event.                              
+            
+     REASON FOR THIS EXAMINATION:
+      worsening, elev wbc                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Hypoxia.  Elevated white blood cell count.
+     
+     An endotrcheal and central venous catheter remain in place, unchanged in
+     position.  Cardiac and mediastinal contours are within normal limits.
+     Multifocal alveolar opacities are again demonstrated, most prominent in the
+     right upper lobe, right lower lobe and left lower lobe.  Additional patchy
+     area of consolidation is seen in the left mid lung zone, partially obscured by
+     external ventilator device.  As compared to the recent study, there has been
+     slight improvement in the alveolar opacities in the right lung.  A small left
+     pleural effusion is again demonstrated.
+     
+     IMPRESSION:  Multifocal pneumonia, with slight interval improvement in the
+     right lung.
+
+",,
+13301,3455,16562,0,3318-02-08 05:05:00 EST,3318-02-08 05:46:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 1900-0700 RN Note
+
+Neuro:  Sedated on propofol 20mcg/kg/min tirated to maintain sedation. Eyes closed, slight eyelid twitching in attempt to open eyes. Pupils 3mm equal react brisk. no spont movement. Withdraws to painful stimulation. 
+
+CV:  HR 80-104 NSR-ST, SBP labile 78-90 start of shift recieved NS 250 bolus x2 for Maps<60 with transient elevation. @ appox 12mn sustained Map<60 despite fluid bolus started Levophed 0.2mcg/kg/min for approx 10min with noted Brady arrythmia HR 40-50 with freq. PVC Levo stopped, BP incresed initially the became hypotensive low 80's. Started Neo 0.5mic/kg/min titrated to 15mcg/kg/min to sustain MAP>60 SBP 100-112. 
+R radial aline placed NIBP correlated with aline. Aline sharp wave form.  EKG obtained with nospecific changes.  @0400 INR 2.5 recieved Vit K [**2-7**]. LIJ line intact.  Peripheral edema 4+ legs and sacral 2+ DP 1+DT.
+
+Resp:  Recieved pt on vent. ETT #8 24@lip, attempts to bite on ETT when suctioning, oral airway placed. Started shift FIO2 100% TV 600 wean to Vent A/c 500 14-80% 5 peep @400 ABG 7.41-30-87-20-3 spont Resp TV 190-300. O2 sats labile with positioning and coughing. 88-99% weaning Fio2 and TV goal to maintain sat >94%. Suctioned via ETT for sm amts pale yellow thick secretions. orally suctioned mod amt clear. CXR slight progression of RUL consolidation and bil aveoli opacity. 
+
+ID:  Afebrile T=max 97.6 ax. cont on abx Vanco and flagyl. @0400 WBC 26 increased from previous day. Blood/Sputum cult pending.
+
+GI:  Abd soft distended hypoactive BS, Abd contraction/regurgitaion movement noted earlier inshift when positioned flat less pronounced with HOB elevated. TPN @75cc/hr.   
+Plan EDG today
+
+GU:Foley dk yellow urine 30-50cc/hr goal to maintain 35cc/hr
+
+Derm: Skin warm day areas of eccymosis and skin tears Coccyx duoderm intact. 
+
+Social:  full code status, no family contact this shift. 
+",,
+13301,3455,16562,0,3318-02-08 05:14:00 EST,3318-02-08 05:19:00 EST,2063,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Vent changes made to FIO2 and VT. Now down to 80% and vt of 500. Suctioned mod amts thick yellow secretions. MDI albuterol started Q4 prn. No RSBI pt unsable BP, SAT and occ pvc's.ABG improving this AM.Sedated with propofol on neo. Will cont to monitor resp status for further weaning. To keep SAT > 94%. 
+",,
+13301,3455,16562,0,3318-02-08 14:54:00 EST,3318-02-08 15:13:00 EST,2560,"N",69,"Nursing/Other",,"
+
+
+FULL CODE    Universal Precautions     NKDA
+
+
+Neuro:  Propofol at 15mcg/kg/min (down from 20mcg at beginning of shift).  Wake up done, pt becomes more tachypnic (34-38 from 23-28) and agitated.  He is not following commands or moving extrems on his own.  He does respond to turning and suctioning.  Pupils 2mm/brisk.
+
+Cardiac:  HR=80-90s, NSR, no ectopy.  BP labile despite neo gtt.  Neo currently at .84 mcg/kg/min (up from .75 this am).  His BP usually is 90-100/50s, but occ, SBP <to 80s w/ for no reason.  Maintains MAP>67.  + periph pulses, feet cool bilat, hands warm, + generalized edema.
+
+Resp:  Vent AC 500x14, 60% and P ^to 8 from 5.  On P=5 ABG=7.41/31/74/20 and on P=8, ABG=7.37/34/98/20 - an improvement in his Pa02, but no change in other numbers.  RR=23-28, but like his BP, occ his RR ^to 30s w/ no reason.  Lungs clear bilat.  Suctioned for minimal secretions.  CXR done this am.
+
+GI/GU:  Abd softly distended, no bowel sounds, no BM (c-dif spec ordered).  TPN for nutrition.  On Protonix.  Foley cath w/ clear yellow urine.  Pt recieved am lasix 40mg IV and u/o was 60-240cc/hr up until 3pm when it dropped off to 25cc.  
+
+Skin:  Ecchymotic areas and tegaderm to arms, duoderm to coocyx intact.
+
+Access:  LIJ TLC, R rad a-line intact
+
+ID:  Afebrile at 97.4 axil.  On flagyl and levaquin
+
+Procedures:  EGD done at bedside - showed no strictures, minor varices (no RX required).
+
+Labs:  K this am 3.7 - repleated.  FS=130 - no coverage per SS required.
+
+Social:  No calls from friend.
+
+Plan:  Monitor cardiac/resp/neuro status.  Maintain propofol gtt for comfort and neo gtt for BP.  Monitor fluid status.
+",,
+13301,3455,16562,1,3318-02-08 14:54:00 EST,3318-02-08 18:15:00 EST,2560,"Y",69,"Nursing/Other",,"
+
+
+Addendum:  Blood cx x2 sent, C-dif rectal swab sent.  T =98.8 axil (up from 97.4).  
+BP remained in the mid 80s/50s w/ Map 63-65 - 250cc NS IVB given w/ > BP to 90-100s/50.  U/O had been < to 20-25cc/hr and after IVB, u/o >to 50cc/hr.  Neo had been steadily increasing over these last few hours as well and is currently at .99mcg/kg/min.  
+Propofol remains at 15mcg/kg/min.
+CVP transduced = 5.
+
+",,
+13301,3455,16562,0,3318-02-08 15:25:00 EST,3318-02-08 15:27:00 EST,2363,"N",69,"Nursing/Other","Resp care note","
+Resp care note
+Pt remains on full vent support. ABG's with marginal oxygenation, acceptable ventilation. Peep increased to 8. BS coarse, dimin R. Sx sm-mod pale secretions. 
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 6:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14402**]
+     Reason: progression of right sided opacities                        
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          76 year old man with recurrent aspiration, now intubated.                   
+     REASON FOR THIS EXAMINATION:
+      progression of right sided opacities                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of recurrent aspiration with intubation.
+     
+     Endotracheal tube is 4 cm above the carina.  Left subclavian CV line is in the
+     region of the junction of the left brachiocephalic vein and SVC.  No
+     pneumothorax.  Right upper lobe and bilateral lower zoneairspace /interstitial
+     densities consistent with multilobar pneumonia are again demonstrated and,
+     allowing for technical differences, probably unchanged since the prior film of
+     [**3318-2-8**].\ Left CPA region is cut-off the film limiting evaluation of
+     the previously noted small left pleural effusion.
+     
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 6:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14407**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: infection, ? sourceNeeds gastrograffin.                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with hx of locally advanced gastric ca, s/p resection, chronic 
+      aspiration, new leukocytosis of 41.
+     REASON FOR THIS EXAMINATION:
+      infection, ? sourceNeeds gastrograffin.                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of locally advanced gastric carcinoma, status post
+     resection, with chronic aspiration and new leukocytosis.
+     
+     TECHNIQUE:  CT of the abdomen and pelvis are performed after the
+     administration of oral and IV contrast.  150 cc of Optiray nonionic contrast
+     was administered, and nonionic contrast was used for patient debility.
+     
+     COMPARISONS:  None.
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are marked interstitial changes, with
+     scarring and ground glass opacity at the right lung base, which may be
+     consistent with infection or chronic aspiration.  Additionally, there is a
+     combination of atelectasis/consolidation at the left lung base dependently as
+     well.  There are bilateral moderate pleural effusions, left greater than
+     right.  Visualized portions of the heart and pericardium are within normal
+     limits. The liver has a shrunken appearance, consistent with cirrhosis. There
+     is gallbladder wall edema, in conjunction with multiple calcified gallstones.
+     The spleen, pancreas, adrenal glands, and kidneys appear to be within normal
+     limits.  NG tube is present within the stomach, which is anastomosed with a
+     Billroth-II type configuration.  There is an extremely large amount of ascites
+     fluid present.  The small bowel appears to be within normal limits, perhaps
+     with some wall edema.  There is no significant abdominal lymphadenopathy
+     present.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is diffuse edema and thickening of the
+     bowel wall, particularly involving the ascending colon.  The bladder and
+     visualized portions of the ureters appear within normal limits.  There is a
+     large amount of pelvic free fluid tracking from the abdomen, and there is no
+     significant pelvic lymphadenopathy present.  There are bilateral fluid-filled
+     inguinal hernias.
+     
+     Examination of the osseous structures show severe degenerative changes at the
+     lower lumbar spine/sacrum.  No other abnormalities are noted.
+     
+     There is diffuse soft tissue edema as well.
+     
+                                                                 (Over)
+
+     DATE: [**3318-2-9**] 6:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14407**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: infection, ? sourceNeeds gastrograffin.                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Multiplanar reformatted images were also obtained, confirming the findings
+     described above.
+     
+     IMPRESSION:
+     1.  No evidence of intra-abdominal abscess.
+     2.  Extensive third spacing, with a large amount of ascites, pleural fluid,
+     and edema within the gallbladder and bowel walls.
+     3.  Shrunken and cirrhotic appearance of the liver.
+     4.  Cholelithiasis.
+     5.  Patchy opacity at the lung bases may represent either acute or chronic
+     process such as aspiration or pneumonia.
+     
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 6:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14407**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: infection, ? sourceNeeds gastrograffin.                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with hx of locally advanced gastric ca, s/p resection, chronic 
+      aspiration, new leukocytosis of 41.
+     REASON FOR THIS EXAMINATION:
+      infection, ? sourceNeeds gastrograffin.                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of locally advanced gastric carcinoma, status post
+     resection, with chronic aspiration and new leukocytosis.
+     
+     TECHNIQUE:  CT of the abdomen and pelvis are performed after the
+     administration of oral and IV contrast.  150 cc of Optiray nonionic contrast
+     was administered, and nonionic contrast was used for patient debility.
+     
+     COMPARISONS:  None.
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are marked interstitial changes, with
+     scarring and ground glass opacity at the right lung base, which may be
+     consistent with infection or chronic aspiration.  Additionally, there is a
+     combination of atelectasis/consolidation at the left lung base dependently as
+     well.  There are bilateral moderate pleural effusions, left greater than
+     right.  Visualized portions of the heart and pericardium are within normal
+     limits. The liver has a shrunken appearance, consistent with cirrhosis. There
+     is gallbladder wall edema, in conjunction with multiple calcified gallstones.
+     The spleen, pancreas, adrenal glands, and kidneys appear to be within normal
+     limits.  NG tube is present within the stomach, which is anastomosed with a
+     Billroth-II type configuration.  There is an extremely large amount of ascites
+     fluid present.  The small bowel appears to be within normal limits, perhaps
+     with some wall edema.  There is no significant abdominal lymphadenopathy
+     present.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is diffuse edema and thickening of the
+     bowel wall, particularly involving the ascending colon.  The bladder and
+     visualized portions of the ureters appear within normal limits.  There is a
+     large amount of pelvic free fluid tracking from the abdomen, and there is no
+     significant pelvic lymphadenopathy present.  There are bilateral fluid-filled
+     inguinal hernias.
+     
+     Examination of the osseous structures show severe degenerative changes at the
+     lower lumbar spine/sacrum.  No other abnormalities are noted.
+     
+     There is diffuse soft tissue edema as well.
+     
+                                                                 (Over)
+
+     DATE: [**3318-2-9**] 6:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14407**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: infection, ? sourceNeeds gastrograffin.                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Multiplanar reformatted images were also obtained, confirming the findings
+     described above.
+     
+     IMPRESSION:
+     1.  No evidence of intra-abdominal abscess.
+     2.  Extensive third spacing, with a large amount of ascites, pleural fluid,
+     and edema within the gallbladder and bowel walls.
+     3.  Shrunken and cirrhotic appearance of the liver.
+     4.  Cholelithiasis.
+     5.  Patchy opacity at the lung bases may represent either acute or chronic
+     process such as aspiration or pneumonia.
+     
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 6:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14407**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: infection, ? sourceNeeds gastrograffin.                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with hx of locally advanced gastric ca, s/p resection, chronic 
+      aspiration, new leukocytosis of 41.
+     REASON FOR THIS EXAMINATION:
+      infection, ? sourceNeeds gastrograffin.                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of locally advanced gastric carcinoma, status post
+     resection, with chronic aspiration and new leukocytosis.
+     
+     TECHNIQUE:  CT of the abdomen and pelvis are performed after the
+     administration of oral and IV contrast.  150 cc of Optiray nonionic contrast
+     was administered, and nonionic contrast was used for patient debility.
+     
+     COMPARISONS:  None.
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are marked interstitial changes, with
+     scarring and ground glass opacity at the right lung base, which may be
+     consistent with infection or chronic aspiration.  Additionally, there is a
+     combination of atelectasis/consolidation at the left lung base dependently as
+     well.  There are bilateral moderate pleural effusions, left greater than
+     right.  Visualized portions of the heart and pericardium are within normal
+     limits. The liver has a shrunken appearance, consistent with cirrhosis. There
+     is gallbladder wall edema, in conjunction with multiple calcified gallstones.
+     The spleen, pancreas, adrenal glands, and kidneys appear to be within normal
+     limits.  NG tube is present within the stomach, which is anastomosed with a
+     Billroth-II type configuration.  There is an extremely large amount of ascites
+     fluid present.  The small bowel appears to be within normal limits, perhaps
+     with some wall edema.  There is no significant abdominal lymphadenopathy
+     present.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is diffuse edema and thickening of the
+     bowel wall, particularly involving the ascending colon.  The bladder and
+     visualized portions of the ureters appear within normal limits.  There is a
+     large amount of pelvic free fluid tracking from the abdomen, and there is no
+     significant pelvic lymphadenopathy present.  There are bilateral fluid-filled
+     inguinal hernias.
+     
+     Examination of the osseous structures show severe degenerative changes at the
+     lower lumbar spine/sacrum.  No other abnormalities are noted.
+     
+     There is diffuse soft tissue edema as well.
+     
+                                                                 (Over)
+
+     DATE: [**3318-2-9**] 6:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14407**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: infection, ? sourceNeeds gastrograffin.                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Multiplanar reformatted images were also obtained, confirming the findings
+     described above.
+     
+     IMPRESSION:
+     1.  No evidence of intra-abdominal abscess.
+     2.  Extensive third spacing, with a large amount of ascites, pleural fluid,
+     and edema within the gallbladder and bowel walls.
+     3.  Shrunken and cirrhotic appearance of the liver.
+     4.  Cholelithiasis.
+     5.  Patchy opacity at the lung bases may represent either acute or chronic
+     process such as aspiration or pneumonia.
+     
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 3:19 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 14404**]
+     Reason: ng tube placement                                           
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with new elevated wbc, history of abdominal surgery.           
+       
+     REASON FOR THIS EXAMINATION:
+      ng tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  For NG tube placement.
+     
+     NG tube is in fundus region of stomach.  Surgical clips in left upper
+     quadrant.  Previously noted densities in left abdomen and suprapubic region
+     appearance of retained contrast in colon and rectum.
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 4:45 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 14406**]
+     Reason: SEE WHERE GASTROGRAFFIN HAS TRAVELED THAT WAS PLACED DOWN NG
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         76 year old man with new elevated wbc, history of abdominal surgery.         
+           
+     REASON FOR THIS EXAMINATION:
+      SEE WHERE GASTROGRAFFIN HAS TRAVELED THAT WAS PLACED DOWN NGT.                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: History of abdominal surgery, evaluate Gastrograffin placed down
+     NG tube.
+     
+     PORTABLE SUPINE ABDOMINAL FILM: Comparison is made to previous abdominal film
+     from approximately 50 minutes prior. NG tube is seen with tip within the
+     fundus of the stomach. Surgical clips are again identified within the left
+     upper quadrant. Compared to the prior study, there appears to be decreased
+     amount of high density material within the stomach.
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 4:14 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 14405**]
+     Reason: assess wgere gastrograffin that was put down ng has gone    
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old man with new elevated wbc, history of abdominal surgery.          
+         
+     REASON FOR THIS EXAMINATION:
+      assess wgere gastrograffin that was put down ng has gone                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE VIEW.
+     
+     Evaluate passage of water-soluble contrast introduced via NG tube.
+     
+     NG tube is in proximal stomach.  Detail is extremely poor but there could be
+     some contrast in the fundus of the stomach.  A small amount of previously
+     noted contrast is present in the left colon and rectum.
+
+",,
+13301,3455,16562,,3318-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-9**] 10:31 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 14403**]
+     Reason: ? perforation                                               
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with new elevated wbc, history of abdominal surgery.            
+     REASON FOR THIS EXAMINATION:
+      ? perforation                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Abdominal pain and increased white blood cell count.
+     
+     No previous films for comparison.  Allowing for poor detail, the bowel gas
+     distribution is unremarkable and there is no evidence for intestinal
+     obstruction.  Small radiodensity overlies mid-pole region of left kidney and a
+     few small radiodensities, either calcifications or retained contrast in
+     colonic diverticula overlie the left mid abdomen.  Further unusually shaped
+     possibly calcified density is noted in the suprapubic region, only partly
+     included on this film.  Degenerative changes are present in the lower lumbar
+     spine. Surgical clips are present in the left upper quadrant.
+     
+     IMPRESSION:  No evidence for intestinal obstruction.  Scattered
+     radiodensities, some of which may be calcific foci, in left abdomen and
+     suprapubic region, as described, but findings are difficult to evaluate on
+     this single suboptimal film and without any relevant clincal information
+     related to prior surgery, or previous abdominal films for comparison.
+
+",,
+13301,3455,16562,0,3318-02-09 03:50:00 EST,3318-02-09 03:54:00 EST,2063,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. No further weaning. Suctioned mod amts thick yellow secretions. MDI'S given. Sedated with propofol on neo. Not tol RSBI @ time increased RR and decreased VT'S. Will cont to monitor resp status for further weaning.
+",,
+13301,3455,16562,0,3318-02-09 05:03:00 EST,3318-02-09 05:31:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 1900-0700 RN Note
+
+Neuro: Sedated on Propofol 20mcg/kg/min. Not opening eyes, pupils 2mm equal react brisk. withdraws minimally to painful stimulation. no spont movement. 
+
+CV:  HR 90-116 SR-ST no ectopy, SBP labile 68-110 R radial aline sharp Neo 1.44 mcg/kg/min titrated to maintained MAPS>60. Transient hypotensive episodes recieved NS 250bolus x3 this shift with responding increase SBP. LIJ central line intact CVP 5-7. IV fluids maintained NS 10cc/hr. Peripherally 2+DP/DT 3+ leg/foot sacral edema. generalized anasarca.
+
+Resp:  RR 20-36 irreg periods of tachypnic ?related to positioning. Intubated on vent a/c.  ETT #8 24 @ R lip. positional air leak. started shift TV 500-14-60% 5peep  spont TV [**Telephone/Fax (2) 4644**]ABG 7.24-45-104-20-7 TV increased to 600. cont with transient episodes of RR 30's. Suctioned via ETT for mod amts thich pale yellow secretions nd orally for mod celar. Lungs clear-coarse Bs with periods of I/E wheezes recieved Alb MDI with decrease wheezes. 
+
+GI:  Abd soft distended + hypoactive BS. no BM  TPN 75cc/hr. 
+GU:  Foley dr [**First Name (STitle) 1079**] urine u/o 25-50cc/hr goal >30. 
+endo: FSBS 152 Insuline per protocol. 
+ID: afebrile T-max 99.2. cont on triple abx. C-Diff cult to be obtained.
+
+Social:  No family contact this shift.  Full code status. 
+",,
+13301,3455,16562,0,3318-02-09 16:00:00 EST,3318-02-09 16:13:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+REVIEW OF SYSTEMS-
+NEURO- PATIENT SEDATED ON 20MCGS/HR OF PROPOFOL. ON THIS HE DOES NOT OPEN EYES TO PAIN. DOES WITHDRAW SLIGHTLY TO PAINFUL STIMULI. PEARL. PROPOFOL OFF FOR DAILY WAKEUP. NO CHANGE IN WHAT PATIENT DID OFF PROPOFOL. HE DID START TO GRIMACE THOUGH SO WAS PLACED BACK ON IT. 
+RESP- REMAINS INTUBATED AND VENTED. ON 60% FIO2 TV 600CC AND RATE OF 14 OVER BREATHS THIS BY UP TO 16 BREATHS AND PEEP DECREASED FROM 8 TO 5. SATS 97-100%. BS COARSE. SUCTIONED FOR SMALL AMOUNTS YELLOW TO WHITE THICK SPUTUM. 
+CARDIAC- HR 98-[**Street Address 3407**] NO ECTOPI NOTED. NEO ADJUSTED THROUGHOUT THE DAY TO KEEP MAP > 60. NEO RANGED FROM 1.49-0.5MCGS/KG/MIN TO DO THIS. HE IS PRESENTLY ON 1.39MCGS/KG/MIN. BP VERY LABILE. DIFFICULT TO ASSESS HOW ACCURATE ALINE PRESSURE IS AS CUFF PRESSURE ANY WHERE FROM 2-20 PTS HIGHER. CARDIAC ENZYMES BEING CYCLED. NEXT SET DUE AT 1800. FIRST SET CK 10 WITH 2MB'S. 
+GI- ABD SOFT WITH ABSENT BS. OGT PLACED AFTER SEVERAL ATTMEPTS BY GI FELLOW. ABD XRAY CONFIRMS PLACEMENT PER DR [**Last Name (STitle) **]. 120CC GASTROGRAFFIN INSTILLED INTO NG. ABOUT 1 MIN LATER A GOOD AMOUNT OF IT POURED OUT OF HIS MOUTH. XRAY BEING DONE AT PRESENT TO SEE HOW IT GOES THROUGH GUT. ABD CT TO BE DONE LATER TODAY. NO STOOL TODAY. STILL NEEDS STOOL FOR C DIFF. 
+GU- FOLEY PATENT DRAINING CLEAR YELLOW URINE AT 25-40CC/HR. 
+SKIN- DUODERM TAKEN DOWN TO SEE HOW ULCER LOOKED TO ASSESS FOR SIGNS OF INFECTION. DECUB A STAGE ONE. PATIENT ALSO WITH EXCISED PIOLINIDOL CYST. DUODERM REAPPLIED TO AREA. AREA SEEN BY DR [**Last Name (STitle) **]. ARMS CONT TO LEAK FLUID. THIRD SPAICING OF FLUID THROUGHOUT. 
+ENDO- BS 152 AT NOON. SS INSULIN GIVNE AS ORDERED. 
+ID- WBC 41 TODAY. ABD CT TO BE DONE TO LOOK FOR SOUCE OF INFECTION. CONTINUE ON VANCO,FLAGYL, AND LEVOQUIN. 
+SOCIAL- PATIENT'S HEALTH CARE PROXY IN TO VISIT. HE WAS UPDATED BY NURSING AND BY DR [**Last Name (STitle) **]. HE IS AWARE OF HOW GRIM THINGS LOOK. 
+DISPO- REMAINS IN THE MICU A FULL CODE. 
+",,
+13301,3455,16562,0,3318-02-09 17:36:00 EST,3318-02-09 17:39:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+GI- TOOK A TOTAL OF 300CC OF GASTROGRAFFIN IN DIVIDED DOSES. XRAYS OF ABD CHECKED X2 AFTER RECEIVING SOME GASTROGRAFFIN. GASTROGRAFFIN PRESENT IN GI TRACT. AFTER RECEIVING LAST 60CC OF GASTROGRAFFIN OF THE 300CC GASTROGRAFIIN NOTED TO BE COMING OUT OF MOUTH. SAT DOWN TO 91%. PATIENT SUCTIONED AND DR [**Last Name (STitle) **] MADE AWARE. PATIENT NOT TO RECEIVE ADDITIONAL GASTROGRAFFIN PER DR [**Last Name (STitle) **]. CT TO BE DONE AT 1800.
+CARDIAC- CK CYCLING CANCELLED BY DR [**Last Name (STitle) **] AFTER FIRST SET OF CK'S BACK.  
+",,
+13301,3455,16562,,3318-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3318-2-10**] 5:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14408**]
+     Reason: pneumonia, vol overload                                     
+     Admitting Diagnosis: ETOH INDUCED CIRRHOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           76 year old man with recurrent aspiration, intubated without improvement 
+      on vent. 
+     REASON FOR THIS EXAMINATION:
+      pneumonia, vol overload                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent aspiration.
+     
+     COMPARISON: Prior chest x-ray on [**3318-2-9**].
+     
+     AP CHEST:  There has been interval placement of a NG tube with the distal tip
+     positioned in the fundus of the stomach.  The endotracheal tube remains in
+     satisfactory position.  There is again present a left sided subclavian central
+     venous line in stable position.  There is no evidence of pneumothorax.  Note
+     is made that the left costophrenic angle is not fully visualized.  Again
+     present are right upper lobe and bilateral lower lobe air space and
+     interstitial opacities consistent with multifocal pneumonia.  These opacities
+     do not appear significantly changed.
+     
+     IMPRESSION:   Interval placement of NG tube with no other significant changes.
+     
+     
+
+",,
+13301,3455,16562,0,3318-02-10 04:39:00 EST,3318-02-10 04:43:00 EST,2063,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned sml amts thick yellow secretions.MDI'S given. Sedated with propofol on neo. RSBI 94.6 with agonal breathing.Will cont to monitor resp status for further weaning
+",,
+13301,3455,16562,0,3318-02-10 05:13:00 EST,3318-02-10 05:49:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 1900-0700 RN Note
+
+Neuro:  Started shift sedated on propofol 20 wean to 10mcg/kg/min off for wakeup with minimal response to painful stimulation, becomes tachpnic RR 32-38 propofol resumed, eyes closed pupils 3mm equal react brisk. unresponsive to painful stimulation, extremilties flaccid. 
+
+CV:  HR 95-118 SR-ST no ectopy, First CK 10 neg MB/ Neg Troponin, serial CK d/c. LSC intact CVP 7. SBP Labile 80-110 Maps 60-75 Neo 1.44Mcg/kg/min titrated to maintain MAPs>60. Attempts to wean NEO unsuccessful. @ 0500 MAPS>60 HO made aware Fluid Bolus NS 500cc with responding BP to 90's. R radial aline dampened not correlating with cuff pressure. HO to reinsert New Lradial Aline.
+
+Resp:  Intubated ETT #8 24 L lip.  A/C 600-14-60% 5 peep  RSBI 94 no vent changes this am ABG pending. Sat 95-100%. Lungs: coarse BS. 
+
+GI/GU:  Abd soft distended hypoactive to Absent BS. NoBM. [**Hospital1 **] Sump to low cont suct Dr [**Last Name (STitle) 3237**].  TPN 83cc/hr Foley u/o 20-60cc/hr
+
+Social:  Full code status. 
+
+.......
+",,
+13301,3455,16562,0,3318-02-10 14:09:00 EST,3318-02-10 14:28:00 EST,2765,"N",69,"Nursing/Other","PMICU Nursing Progress Note 7a-3p","
+PMICU Nursing Progress Note 7a-3p
+Events
+
+ Propofol dc'd this am to assess MS, pt has been unresponsive since that time. Team aware and HCP notified to discuss pt's status and plan of care. After speaking w/ HCP it was decided to change pt's status to DNR. The HCP is contacting pt's friends/family so that they may visit the pt if they wish. The plan is to chnage the pt's status to CMO and extubate him tomorrow after his support system has had the chance to visit him.
+
+Review of Systems
+
+Neuro- As stated above, prop gtt dc'd this morning. Pt has not been responsive to stimuli or pn. This afternoon, pt increasingly tachypneic or tachycardic, HO notified and 2x 1mg doses of MSO4 given w/ good effect. 
+Resp- AC 700x14x60%x5 peep. PT is overbreathing, RR 20-30's. PT has a sig met acidosis w/ resp compensation.  LS  diminished throughout. Sats 100%. Suctioned 2 x for scant secretions.
+CV- HR 110-120's, ST, no ectopy. SBP 88-92. Cont on neo gtt @ 1.49 mcg/kg/min. Plan to titrate as needed for hypotension per HO. No plan to add any other pressors however. PT does b/c acutlet hypotensive w. turns.
+GI- Abd soft, hypoactive BS. Rectal exam done by HO, no stool noted in rectum. Recieving TPN for nutritional support.
+GU- adeqaute u/o/hr, cont to follow.
+Skin- Both arms weeping from old line insertion sites and skin tears. Cont to redress as needed. Abd dsg intact.
+Plan- Cont supportive medical care w/ comfort as a focus.
+
+",,
+13301,3455,16562,0,3318-02-10 15:03:00 EST,3318-02-10 15:08:00 EST,2942,"N",69,"Nursing/Other",,"
+
+RESPIRATORY----
+PT MAINTAINED ON A/C VENTILATION AT 60% WITH ACCEPTABLE OXYGENATION.VITALS ARE STABLE AT THIS TIME. SEDATION WAS STOPPED THIS A.M. TO ASSESS MENTAL STATUS. PT AT THIS TIME HAS NOT RESPONDED AND REMAINS OBTUNDED. PLAN IS TO CONT WITH THE SAME VENTILATORY SUPPORT WITH THE CODE STATUS ELEVATED TO CMO WITH EXTUBATION TOMORROW AFTER FAMILY VISITS.
+",,
+13301,3455,16562,0,3318-02-10 17:40:00 EST,3318-02-10 17:45:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 3PM-7PM:","
+MICU NPN 3PM-7PM:
+Pt has required increasing amts of Neo to maintain MAP>60. Currently on 2.3mcg/kg/min. Pt's proxy has decided to come in and plans on extubating him this evening. He has informed all pt's friends of his poor condition and no other friends plan to come in tonight. His proxy does not want to take the chance of pt dying through the night and not being there for him. The plan at this point is for the team to come in and speak to proxy before extubation. Extubate pt and shut off his pressors and use morphine as needed for comfort. Pt currently becomes tacchypneic, increased tachycardia with any stimulation so may require morphine drip to ensure comfort. Will discuss this with team. Proxy is due to arrive at about 6:30PM.
+",,
+13301,3455,16562,0,3318-02-10 23:28:00 EST,3318-02-10 23:34:00 EST,2481,"N",69,"Nursing/Other","nsg progress note 7p","
+nsg progress note 7p
+Accepted pt and he was unresponsive to all stimuli. Extubated prior to start of shift, pt was started on MSO4 gtt for comfort measures and was made a DNR. Pt required frequent boluses of MSO4 to maintain respirations <20 and subsequently was increased to a gtt rate of 20mg/hr where he appeared comfortable and w/o distress. Pt expired at app 2208. Health care proxy notified as he was in the hospital and had only left the room for a short period. Dr. [**First Name8 (NamePattern2) 1391**] [**Last Name (NamePattern1) 4645**] pronounced pt and a consent was given for autopsy.
+",,
+13301,3455,16562,,3318-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

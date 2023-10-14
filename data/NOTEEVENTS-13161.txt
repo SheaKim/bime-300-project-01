@@ -1,0 +1,2558 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13161,,,,2586-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-4**] 9:35 AM
+     CHEST (PA & LAT); BILAT HIPS (AP,LAT & AP PELVIS)               Clip # [**Clip Number (Radiology) 13399**]
+     Reason: COUGH X 5MONTHS; R/O LUNG LESION - PAIN, BILATERAL HIPS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with persistant cough for 5 months                            
+     REASON FOR THIS EXAMINATION:
+      r/o lung lesion                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Cough, hip pain.
+     
+     CHEST X-RAY.
+     
+     No prior films available for comparison.  The heart is normal in size and both
+     lungs are clear.  The mediastinal contours are normal and there is no effusion
+     or bone destruction.
+     
+     IMPRESSION:
+     
+     Normal chest x-ray.
+     
+     PELVIS AND BILATERAL HIPS.
+     
+     There are no significant bony or soft tissue abnormalities.  Joint spaces are
+     preserved.
+     
+     IMPRESSION:  Normal hips.
+                                                                           
+
+",,
+13161,,,,2586-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-4**] 9:35 AM
+     CHEST (PA & LAT); BILAT HIPS (AP,LAT & AP PELVIS)               Clip # [**Clip Number (Radiology) 13399**]
+     Reason: COUGH X 5MONTHS; R/O LUNG LESION - PAIN, BILATERAL HIPS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with persistant cough for 5 months                            
+     REASON FOR THIS EXAMINATION:
+      r/o lung lesion                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Cough, hip pain.
+     
+     CHEST X-RAY.
+     
+     No prior films available for comparison.  The heart is normal in size and both
+     lungs are clear.  The mediastinal contours are normal and there is no effusion
+     or bone destruction.
+     
+     IMPRESSION:
+     
+     Normal chest x-ray.
+     
+     PELVIS AND BILATERAL HIPS.
+     
+     There are no significant bony or soft tissue abnormalities.  Joint spaces are
+     preserved.
+     
+     IMPRESSION:  Normal hips.
+                                                                           
+
+",,
+13161,,,,2586-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-9**] 6:01 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13401**]
+     Reason: eval for cva, mass                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with confusion x 4d, normal neuro exam other than difficulty 
+      with narrow gait
+     REASON FOR THIS EXAMINATION:
+      eval for cva, mass                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg MON [**2586-10-9**] 7:09 PM
+      Large right frontal/temporal mass with edema and subfalcine shift.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Confusion for four days with normal neurologic exam.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     CT OF THE BRAIN WITHOUT INTRAVENOUS CONTRAST:  There is a 3.4 x 3.6 cm mass
+     within the region of the right anterior cranial fossa, extending into the
+     right middle cranial fossa with probable displacement of the anterior portion
+     of the right temporal lobe.  There is extensive hypodensity within the
+     subcortical white matter consistent with adjacent vasogenic edema. There is
+     marked right to left subfalcine shift and compression of the frontal [**Doctor Last Name 548**] and
+     body of the right lateral ventricle.  There is additional right-sided
+     displacement of the pons and probable right uncal herniation.  The left
+     lateral ventricle is dilated. Elsewhere within the brain, there is no loss of
+     [**Doctor Last Name 8**]-white differentiation to suggest an acute minor or major vascular
+     territorial infarct.  There is no acute intracranial hemorrhage.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of fracture.  There is no
+     definite evidence of osseous destruction by the large right-sided mass.  The
+     mastoid air cells and visualized portions of the paranasal sinuses are
+     normally pneumatized.
+     
+     IMPRESSION:
+     1.  3.4 x 3.6 cm mass involving the right anterior cranial fossa and the
+     anterior portion of the right temporal lobe, extending inferiorly to the right
+     middle cranial fossa with mass effect and adjacent vasogenic edema.  This may
+     be further evaluated with MR of the brain with gadolinium. The appearance is
+     strongly suggestive of meningioma.
+     2.  Dilation of the left lateral ventricle and probable right uncal herniation
+     due to mass effect and edema.
+     3.  No acute intracranial hemorrhage.
+     
+     Results were discussed with the ED resident caring for the patient at the time
+     of interpretation (6:50 p.m.).
+     
+                                                                 (Over)
+
+     DATE: [**2586-10-9**] 6:01 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13401**]
+     Reason: eval for cva, mass                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13161,,,,2586-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-9**] 5:33 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13400**]
+     Reason: eval for infiltrate, other acute process                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old woman with acute confusion x 4d; recent URI treated with z-pack; 
+      lungs CTA bilat, afebrile     
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, other acute process                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  78-year-old woman with acute confusion for four days.  Recent upper
+     respiratory infection.
+     
+     CHEST, PA AND LATERAL:  The heart size is normal.  The aorta is calcified and
+     slightly tortuous.  Mediastinal and hilar contours are otherwise unremarkable.
+     Pulmonary vasculature is unremarkable.  The lungs are clear without evidence
+     of infiltrate.  The lungs are slightly hyperexpanded suggestive of
+     emphysematous changes.  There are no definite pleural effusions.  Mild
+     degenerative changes of the thoracic spine are noted. Surrounding osseous and
+     soft tissue structures are otherwise unremarkable.
+     
+     IMPRESSION:  Emphysematous changes.  No evidence of pneumonia.
+     
+     
+     
+
+",,
+13161,,,,2586-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-9**] 7:53 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13402**]
+     Reason: BRAIN LESION,CONFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with new mass on head CT, here for confusion x 4days          
+     REASON FOR THIS EXAMINATION:
+      eval mass                                                                       
+     ______________________________________________________________________________
+     WET READ: JK TUE [**2586-10-10**] 9:14 AM
+      3.4 x 3.7 cm mass at right middle/anterior cranial fossa, T1 and T2 isointense
+      with homogeneous enhancement and enhancing dural tail.  Multiple flow voids
+      about the periphery of the lesion on T2.   Findings are most consistent with
+      meningioma.  Enhancement of the dura adjacent to right temporoparietal region
+      and inferior to right temporal lobe.
+      
+      Dilation of left lateral ventricle and right to left subfalcine shift as well
+      as mass effect upon the pons/probable uncal herniation on the right.
+      
+      No acute infarct identified. 
+     WET READ AUDIT #1 MRSg MON [**2586-10-9**] 11:38 PM
+      3.4 x 3.7 cm mass at right middle/anterior cranial fossa, T1 and T2 isointense
+      with homogeneous enhancement and enhancing dural tail.  Multiple flow voids
+      about the periphery of the lesion on T2.   Findings are most consistent with
+      meningioma.  Enhancement of the dura adjacent to right temporoparietal region
+      and inferior to right temporal lobe.
+      
+      Dilation of left lateral ventricle and right to left subfalcine shift as well
+      as mass effect upon the pons/probable uncal herniation on the right.
+      
+      No acute infarct identified.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     GADOLINIUM-ENHANCED BRAIN IMAGING
+     
+     HISTORY:  Prior CT scan detected a mass lesion.  Four days of confusion.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted gadolinium-enhanced brain imaging.
+     
+     FINDINGS:  There is confirmation of the presence of an approxiamtely 3.5cm
+     densely and relatively homogeneously enhancing mass which is seen attached to
+     the right pterion, and likely the greater and lesser wings of the sphenoid
+     bone. There is thickening of the adjacent dura, likely representing a so-
+     called ""dural tail.""  More generalized thickening of the dura is noted along
+     both occipital convexity surfaces.  However, this is likely a reactive change
+     as it is not in proximity to the mass.  The lesion also likely overlies the
+     right superior orbital fissure and extends within a few millimeters to the
+     lateral aspect of the junction of the cavernous and supraclinoid portions of
+     the right internal carotid artery.  The dural tail joins the lateral aspect of
+     this portion of the internal carotid artery.  There is no gross evidence for
+     vascular encasement of these vessels.  However, the posterior aspect of the
+     mass approximates the mid portion of the M1 segment and anterior trifurcation
+     branch of the right middle cerebral artery.  Therefore, extreme care would
+                                                                 (Over)
+
+     DATE: [**2586-10-9**] 7:53 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13402**]
+     Reason: BRAIN LESION,CONFUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     need to be exercised if there is a proposed surgical resection of this mass in
+     order to avoid vascular damage.  The lesion is T2 hypointense and has an
+     internal radiating pattern of vessels.  All these features are quite typical
+     for meningioma.
+     
+     There is extensive edema surrounding the mass with marked compression of the
+     right lateral ventricle, particularly the frontal [**Doctor Last Name 548**] with nearly 1 cm of
+     leftward subfalcine herniation.  There are no other definite abnormalities
+     seen intracranially.  There is a probable tiny mucous retention cyst along the
+     floor of the right maxillary sinus.  There is minimal mucosal thickening
+     within the right mastoid sinus.
+     
+     CONCLUSION:  Findings most consistent with a large right pterional meningioma.
+     
+     COMMENT:  The supplied ""wet reading"", authored by Dr. [**First Name (STitle) **], summarizes all of
+     the above-noted findings.
+     
+     
+
+",,
+13161,,,,2586-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-9**] 7:53 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13402**]
+     Reason: BRAIN LESION,CONFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with new mass on head CT, here for confusion x 4days          
+     REASON FOR THIS EXAMINATION:
+      eval mass                                                                       
+     ______________________________________________________________________________
+     WET READ: JK TUE [**2586-10-10**] 9:14 AM
+      3.4 x 3.7 cm mass at right middle/anterior cranial fossa, T1 and T2 isointense
+      with homogeneous enhancement and enhancing dural tail.  Multiple flow voids
+      about the periphery of the lesion on T2.   Findings are most consistent with
+      meningioma.  Enhancement of the dura adjacent to right temporoparietal region
+      and inferior to right temporal lobe.
+      
+      Dilation of left lateral ventricle and right to left subfalcine shift as well
+      as mass effect upon the pons/probable uncal herniation on the right.
+      
+      No acute infarct identified. 
+     WET READ AUDIT #1 MRSg MON [**2586-10-9**] 11:38 PM
+      3.4 x 3.7 cm mass at right middle/anterior cranial fossa, T1 and T2 isointense
+      with homogeneous enhancement and enhancing dural tail.  Multiple flow voids
+      about the periphery of the lesion on T2.   Findings are most consistent with
+      meningioma.  Enhancement of the dura adjacent to right temporoparietal region
+      and inferior to right temporal lobe.
+      
+      Dilation of left lateral ventricle and right to left subfalcine shift as well
+      as mass effect upon the pons/probable uncal herniation on the right.
+      
+      No acute infarct identified.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     GADOLINIUM-ENHANCED BRAIN IMAGING
+     
+     HISTORY:  Prior CT scan detected a mass lesion.  Four days of confusion.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted gadolinium-enhanced brain imaging.
+     
+     FINDINGS:  There is confirmation of the presence of an approxiamtely 3.5cm
+     densely and relatively homogeneously enhancing mass which is seen attached to
+     the right pterion, and likely the greater and lesser wings of the sphenoid
+     bone. There is thickening of the adjacent dura, likely representing a so-
+     called ""dural tail.""  More generalized thickening of the dura is noted along
+     both occipital convexity surfaces.  However, this is likely a reactive change
+     as it is not in proximity to the mass.  The lesion also likely overlies the
+     right superior orbital fissure and extends within a few millimeters to the
+     lateral aspect of the junction of the cavernous and supraclinoid portions of
+     the right internal carotid artery.  The dural tail joins the lateral aspect of
+     this portion of the internal carotid artery.  There is no gross evidence for
+     vascular encasement of these vessels.  However, the posterior aspect of the
+     mass approximates the mid portion of the M1 segment and anterior trifurcation
+     branch of the right middle cerebral artery.  Therefore, extreme care would
+                                                                 (Over)
+
+     DATE: [**2586-10-9**] 7:53 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 13402**]
+     Reason: BRAIN LESION,CONFUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     need to be exercised if there is a proposed surgical resection of this mass in
+     order to avoid vascular damage.  The lesion is T2 hypointense and has an
+     internal radiating pattern of vessels.  All these features are quite typical
+     for meningioma.
+     
+     There is extensive edema surrounding the mass with marked compression of the
+     right lateral ventricle, particularly the frontal [**Doctor Last Name 548**] with nearly 1 cm of
+     leftward subfalcine herniation.  There are no other definite abnormalities
+     seen intracranially.  There is a probable tiny mucous retention cyst along the
+     floor of the right maxillary sinus.  There is minimal mucosal thickening
+     within the right mastoid sinus.
+     
+     CONCLUSION:  Findings most consistent with a large right pterional meningioma.
+     
+     COMMENT:  The supplied ""wet reading"", authored by Dr. [**First Name (STitle) **], summarizes all of
+     the above-noted findings.
+     
+     
+
+",,
+13161,16315,,,2586-10-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2586-10-10**]              Discharge Date:   [**2586-10-25**]
+ 
+Date of Birth:  [**2508-5-11**]             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 360**] 
+Chief Complaint:
+confusion for several days.
+ 
+Major Surgical or Invasive Procedure:
+right craniotomy for resection of fronto-temporal tumor
+right epidural hematoma evacuation
+ 
+History of Present Illness:
+The patient is a 78 year old R-handed woman with
+hypercholsterolemia who was brought to the ED by her daughter 
+for
+confusion.
+
+The patient's daugther noticed that she had been acting
+differently for the past 4 days. She forgot where she put 
+things,
+did not pay attention to her mail, did not finish household
+tasks, etc. Prior to this she had been behaving normally, 
+without
+any changes noted over the last weeks/months. The daughter has
+not noticed any changes in walking or and did not see 
+clumsiness.
+
+The patient is able to tell that she has had difficulties
+concentrating and cannot think clearly. She is not alarmed by
+this at all and would like to go home. She denies any headache,
+nausea, vomiting, weakness, clumsiness, problems speaking,
+dizziness, double vision or blurry vision, numbness or tingling.
+During the interview she has a hard time remembering recent
+events, and is thinking slowly.
+
+ROS: Denies fevers or colds, but finished Z-pack today for URI;
+no change in weight, no night sweats; no palpitations, no ankle
+swelling; no BRBPR, abd pain, or hematemesis; no constipation; 
+no
+dysuria or hematuria.
+
+ 
+Past Medical History:
+- hypercholesterolemia
+- recent URI
+- labile blood pressure
+- s/p cataract surgery
+- glaucoma
+- thyroid nodule, s/p resection 8 years ago
+- on schedule with mammograms
+
+ 
+Social History:
+-no tobacco; no alc
+-widowed; lives alone; daughter checks on her twice a day
+-walks without assistance
+-finished [**Male First Name (un) 1803**] college; worked for investment company
+
+ 
+Family History:
+N/C
+
+ 
+Physical Exam:
+PHYSICAL EXAM:
+VS: T 98.7 P70 BP 149/54 RR 16  sO2 96% RA
+GEN: NAD
+HEENT: MMM, anicteric sclerae; neck supple; no bruits
+PULM: CTA bilaterally
+COR: S1 S2 regular no murmur
+ABD: nl bs, soft, nt, nd
+EXT: No edema, pulses +/+
+
+Neuro:
+MS: awake, alert, cooperative, oriented to place, time and
+person; attention intact (DOWbw), could not do MOYbw (nov),
+language fluent, no dysarthria, registration [**2-23**]; recall [**1-26**];
+naming intact; comprehension ok, able to follow 2 step commands;
+repetition intact; reading intact; writing intact. No apraxia.
+Able to generate list of 11 animals/minute, lost interest after
+20 seconds. No neglect.
+
+CN:
+II: Pupils 3-->2 bilaterally; visual fields full to
+confrontation, no extinction to DSS.
+III, IV, VI: EOMI. No nystagmus. No ptosis.
+V: facial sensation intact to LT, pinprick and cold
+VII: facial musculature symmetrical when moving; mild flattening
+nasolabial folds on the L
+VIII: hearing intact to finger rubs
+IX, X: palate midline
+[**Doctor First Name 219**]: scm's and trap's intact
+XII: tongue midline, no fasciculations
+
+Motor: Normal bulk and tone. No tremor. Strength full throughout
+on formal testing except for deltoids 4+ [**Hospital1 **]; triceps 4+ [**Hospital1 **];
+Hamstr 4L, 4+R. Very mild drift L-arm.
+
+Sensation: Intact to pinprick, cold, light touch, vibration and
+position; no extinction to DSS.
+
+Reflexes: [**Hospital1 **]/tri/[**Last Name (un) **]/patellar 2+ bilaterally; achilles 1+
+bilaterally. Toes mute bilaterally.
+
+Coord: FNF intact bilaterally; heel to shin intact, symmetrical.
+[**Doctor First Name **] slightly better on R (patient L-handed)
+
+Gait: Romberg negative; gait normal, with good initiation. 
+Unable
+to do tandem gait.
+
+ 
+Pertinent Results:
+[**2586-10-10**]  GLUCOSE-143* UREA N-11 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-27 ANION GAP-15
+[**2586-10-10**] ALT(SGPT)-27 AST(SGOT)-34
+[**2586-10-10**] CALCIUM-9.4 PHOSPHATE-2.5* MAGNESIUM-2.0
+[**2586-10-10**] TSH-3.4
+[**2586-10-10**] PHENYTOIN-24.0*
+[**2586-10-10**] WBC-7.4 RBC-4.31 HGB-12.5 HCT-36.7 MCV-85 MCH-29.1 
+MCHC-34.1 RDW-13.4
+[**2586-10-10**] PT-13.6* PTT-28.8 INR(PT)-1.2
+ 
+Brief Hospital Course:
+ The patient is a 78-year-old female who was recently admitted 
+to [**Hospital **] [**Hospital **] [**First Name (Titles) **] [**Last Name (Titles) **] from the ER with several days of 
+confusion noted by a daughter. She presented with progressive 
+confusion and left-sided hemiparesis. The patient was worked-up 
+in the ER and was found to have a left-sided intracranial lesion 
+consistent with a skull base meningioma. Patient electively 
+taken to the OR after informed consent.  Postoperatively she 
+found to be awake, alert following commands and moving all 
+extremeties. She had received some blood products and became 
+fluid overloaded and was moved to the MICU.  
+
+On Postop day 3 postoperative MRI was performed and showed 
+persistent edema. Full resection with no intracranial 
+complications. There was small subgaleal
+hematoma at that time. The patient was clinically doing well and 
+was in the MICU. The patient developed overnight suddenly a 
+change in mentation and was barely arousable with slightly 
+dilated pupil on the right side, and progressive
+weakness on the left side. Repeat CT scan was performed that 
+showed persistent right sided edema with temporal lobe 
+compression, midline cyst, right sided subgaleal as well as 
+epidural hematoma, as well as some intraparenchymal blood. There 
+is an evolving right sided PCA and MCA stroke. The patient has 
+incipient herniation and was taken emergently to the operating 
+room for decompression.
+
+A post op CT showed There are new foci of parenchymal hemorrhage 
+in the 
+right frontal lobe and right temporal lobe. There is continued 
+edema, marked 
+leftward subfalcine herniation, and an evolving right posterior 
+cerebral artery distribution infarct. The overall degree of mass 
+effect is unchanged. 
+The extraaxial hemorrhage along the resection margin had been 
+evacuated.
+
+Her exam postoperatively showed a slightly dilated right pupil 
+and withdrawal to pain in all extremeties but nothing to 
+command.  A follow up head CT the next day showed a 
+reaccumulation of blood in the right sided subgaleal and 
+epidural hematoma.  After discussion with the family they 
+decided to make the patient comfort measures only.  She passed 
+away a few hours later. 
+
+ 
+Medications on Admission:
+-levoxyl 75mcg daily 
+-alphagan 1 gtt BID on both eyes 
+-lipitor 10mg daily 
+-fosamax 70mg weekly (Fridays) 
+-calcium daily 
+-MVI 
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Meningioma
+Epidural Hematoma
+Cerebral edema
+ 
+Discharge Condition:
+Death
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+N/A
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 367**] MD [**MD Number 368**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1182**] [**Last Name (NamePattern4) 1183**] NP[**MD Number 1184**] [**2586-10-25**] @ 2018
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: [**Doctor First Name 123**] [**2586-11-2**] 3:33 PM
+(End of Report)
+
+
+",,
+13161,16315,,,2586-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-10**] 4:13 PM
+     CTA HEAD W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 13403**]
+     Reason: CTA/CTV head; pre-operative workup for meningeoma; need for 
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with 4 day history of confusion; large meningeoma with edema 
+      and midline shift
+     REASON FOR THIS EXAMINATION:
+      CTA/CTV head; pre-operative workup for meningeoma; need for embolization?       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CEREBRAL ANGIOGRAM:
+     
+     CLINICAL INFORMATION:  4-day history of confusion. Large meningioma with edema
+     and midline shift. Preoperative work up for meningioma.
+     
+     TECHNIQUE:  Thin-section MDCT of the head during arterial phase of contrast
+     enhancement, with multiplanar, MIP, and 3D reformats.
+     
+     FINDINGS:  There is a 43 x 38 mm intensely enhancing lobulated mass centering
+     on the right lesser [**Doctor First Name 557**] of sphenoid, involving both the anterior and middle
+     cranial fossae. It appears to be dural based, and extra-axial in location,
+     producing much vasogenic edema at the adjacent cerebrum, consistent with a
+     large meningioma. There is associated subfalcine herniation, causing a midline
+     shift of about 5 mm, leading to dilatation of the contralateral lateral
+     ventricle, and the posterior [**Doctor Last Name 548**] of the ipsilateral lateral ventricle,
+     indicating obstructive hydrocephalus.  The extent is unchanged from the prior
+     scans of 10/1705.
+     
+     The circle of [**Location (un) 72**] and its principal branches are patent, demonstrating
+     normal tapering. No vascular occlusion, aneurysm greater than 3 mm, or
+     vascular malformation is identified within the scan volume. There are multiple
+     tiny, serpiginous vascular structures adjacent to the  right-sided meningioma,
+     directing towards the cortical veins, likely to indicate prominent drainage
+     veins, or collateral vessels.
+     
+     CONCLUSION:  43 x 38 mm meningioma, centering on the right lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the anterior and middle cranial fossae. Subfalcine
+     herniation by 5 mm persists, with associated obstructive hydrocephalus,
+     especially of the contralateral lateral ventricle. Prominent serpiginous
+     vessels around the meningioma - ?  drainage veins, ? collaterals.
+
+",,
+13161,16315,,,2586-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-10**] 4:13 PM
+     CTA HEAD W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 13403**]
+     Reason: CTA/CTV head; pre-operative workup for meningeoma; need for 
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with 4 day history of confusion; large meningeoma with edema 
+      and midline shift
+     REASON FOR THIS EXAMINATION:
+      CTA/CTV head; pre-operative workup for meningeoma; need for embolization?       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CEREBRAL ANGIOGRAM:
+     
+     CLINICAL INFORMATION:  4-day history of confusion. Large meningioma with edema
+     and midline shift. Preoperative work up for meningioma.
+     
+     TECHNIQUE:  Thin-section MDCT of the head during arterial phase of contrast
+     enhancement, with multiplanar, MIP, and 3D reformats.
+     
+     FINDINGS:  There is a 43 x 38 mm intensely enhancing lobulated mass centering
+     on the right lesser [**Doctor First Name 557**] of sphenoid, involving both the anterior and middle
+     cranial fossae. It appears to be dural based, and extra-axial in location,
+     producing much vasogenic edema at the adjacent cerebrum, consistent with a
+     large meningioma. There is associated subfalcine herniation, causing a midline
+     shift of about 5 mm, leading to dilatation of the contralateral lateral
+     ventricle, and the posterior [**Doctor Last Name 548**] of the ipsilateral lateral ventricle,
+     indicating obstructive hydrocephalus.  The extent is unchanged from the prior
+     scans of 10/1705.
+     
+     The circle of [**Location (un) 72**] and its principal branches are patent, demonstrating
+     normal tapering. No vascular occlusion, aneurysm greater than 3 mm, or
+     vascular malformation is identified within the scan volume. There are multiple
+     tiny, serpiginous vascular structures adjacent to the  right-sided meningioma,
+     directing towards the cortical veins, likely to indicate prominent drainage
+     veins, or collateral vessels.
+     
+     CONCLUSION:  43 x 38 mm meningioma, centering on the right lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the anterior and middle cranial fossae. Subfalcine
+     herniation by 5 mm persists, with associated obstructive hydrocephalus,
+     especially of the contralateral lateral ventricle. Prominent serpiginous
+     vessels around the meningioma - ?  drainage veins, ? collaterals.
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ********************************* CPT Codes ********************************
+     * 36217 SEL CATH 3RD ORDER [**Last Name (un) 61**]        36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36215 SEL CATH 1ST ORDER            *
+     * -59 DISTINCT PROCEDURAL SERVICE      36218 ADD'L 2ND/3RD ORDER           *
+     * 75671 CAROTID/CEREBRAL BILAT         75660 EXT CAROTID UNILAT            *
+     * 75685 VERT/CAROTID A-GRAM            C1769 GUID WIRES INFU/PERF          *
+     * C1894 INT/SHTH NOT/GUID EP NON-LASER                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with sphenoid [**Doctor First Name 557**] meningioma                                 
+     REASON FOR THIS EXAMINATION:
+      diagnostic cerbral angio for eval of feeding vessels to menigioma               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CEREBRAL ANGIOGRAM.
+     
+     CLINICAL INFORMATION:  78-year-old woman with sphenoid [**Doctor First Name 557**] meningioma.
+     Diagnostic cerebral angiogram for evaluation of feeding vessels.
+     
+     PHYSICIANS: The procedure was performed by Drs [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13405**], [**First Name8 (NamePattern2) 914**] [**Doctor Last Name 915**], and
+     [**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], with Dr. [**Last Name (STitle) **], the attneding radiologist, being present and
+     supervising during the procedure.
+     
+     TECHNIQUE: Informed consent was obtained from the patient and the patient???s
+     family after explaining the risks, indications and alternative management.
+     Risks explained included stroke, loss of vision and speech, temporary or
+     permanent, with possible treatment with stent and coils if needed. 
+     
+     The patient was brought to the Interventional Neuroradiology Theater and
+     placed on the biplane table in supine position. Both groins were prepped and
+     draped in the usual sterile fashion. Access to the right common femoral artery
+     was obtained using a 19-gauge single wall needle, under local anesthesia using
+     1% lidocaine mixed with sodium bicarbonate and with aseptic precautions.
+     Through the needle, a 0.35 [**Last Name (un) 193**] wire was introduced and the needle taken
+     out. Over the wire, a 5 Fr vascular sheath was placed and connected to a
+     saline infusion (mixed with heparin 500 units in 500 cc of saline) with a
+     continuous drip. Through the sheath, a 4 Fr Berenstein catheter was introduced
+     and connected to continuous saline infusion (with mixture of 1000 units of
+     heparin in 1000 cc of saline). 
+     
+     Berenstein 2 catheter was also used for attempts of selectively catheterizing
+     the right vertebral artery, and the left common carotid artery.
+     
+     The following blood vessels were selectively catheterized and angiograms were
+     obtained in AP and lateral projections.  Right internal carotid artery, right
+     external carotid artery, left common carotid artery, and left subclavian
+     artery.
+                                                                 (Over)
+
+     DATE: [**2586-10-12**] 8:04 AM
+     [**Location (un) 867**]/CERB UNI                                                   Clip # [**Clip Number (Radiology) 13404**]
+     Reason: diagnostic cerbral angio for eval of feeding vessels to meni
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: OPTIRAY Amt: 270
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Injection of the right external carotid artery demonstrates a
+     large, lobulated intensely enhancing mass on the lesser [**Doctor First Name 557**] of sphenoid more
+     consistent with the known history of meningioma.  It derives its blood
+     supplied mainly from branches arising from the internal maxillary artery.
+     Injection of the right internal carotid artery demonstrate patchy peripheral
+     enhancement of the meningioma.
+     
+     Injection of the left common carotid artery and left subclavian artery images
+     obtained of the ipsilateral vertebral artery demonstrate no cross-over supply
+     of the meningioma.
+     
+     On the AP projections, there is displacement of the right anterior cerebral
+     artery to the left, demonstrated previously on the CT.  These findings suggest
+     a degree of subfalcine herniation.
+     
+     CONCLUSION:  Large right-sided meningioma centering on the lesser [**Doctor First Name 557**] of
+     sphenoid, involving both the middle and anterior cranial fossae, blood supply
+     mainly deriving from the branches of the internal maxillary artery, patchy
+     peripheral foci ____ the tumor is also demonstrated on the ipsilateral
+     internal carotid injection.  Subfalcine herniation is present, as indicated by
+     shifting of the left anterior cerebral artery to the left.
+     
+     
+
+",,
+13161,16315,,,2586-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-16**] 8:27 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 13406**]
+     Reason: INTRACRANIAL MASS
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with frontal meningioma                                       
+     REASON FOR THIS EXAMINATION:
+      r/o acute processes for preop clearance                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST FROM [**10-16**]:
+     
+     HISTORY:  Frontal meningioma.
+     
+     IMPRESSION:  PA and lateral chest compared to [**10-9**]:
+     
+     Lungs clear.  Heart size normal.  No pleural abnormality or evidence of
+     central adenopathy.  Although the head is turned, there may be some
+     displacement of the upper trachea to the left, most commonly due to an
+     enlarged thyroid gland.  Clinical correlation advised.
+                                                                           
+
+",,
+13161,16315,,,2586-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-18**] 6:21 AM
+     MR HEAD W/ CONTRAST; MR CONTRAST GADOLIN                        Clip # [**Clip Number (Radiology) 13407**]
+     Reason: Needs WAND protocol please do early AM [**10-18**]                
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: MAGNEVIST Amt: 11
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with right frontal mass ? meningioma                          
+     REASON FOR THIS EXAMINATION:
+      Needs WAND protocol please do early AM [**10-18**]                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN, [**2586-10-18**]
+     
+     INDICATION:  78-year-old woman with right frontal mass, likely meningioma.
+     Needs presurgical planning.
+     
+     TECHNIQUE:  Contrast-enhanced multiplanar T1-weighted scans were obtained with
+     a wand protocol for stereotactic localization prior to surgery.
+     
+     Comparison is made to the prior examination of [**2586-10-9**].
+     
+     FINDINGS
+     
+     As previously noted, there is a roughly 4.3-cm mass located in the right
+     frontal region, with a dural attachment at the pterion and along the greater
+     and lesser wings of the right sphenoid bone.  There is an associated dural
+     tail.  Edema is present in the surrounding brain, which is displaced to the
+     left and posteriorly.  The right frontal [**Doctor Last Name 548**] is narrowed, and the left
+     lateral ventricle is mildly dilated due to midline shift.
+     
+     IMPRESSION:  Study for surgical localization of a previously defined right
+     frontal dural-based mass, consistent with a meningioma.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                           DFDgf
+
+",,
+13161,16315,,,2586-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-18**] 6:21 AM
+     MR HEAD W/ CONTRAST; MR CONTRAST GADOLIN                        Clip # [**Clip Number (Radiology) 13407**]
+     Reason: Needs WAND protocol please do early AM [**10-18**]                
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: MAGNEVIST Amt: 11
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with right frontal mass ? meningioma                          
+     REASON FOR THIS EXAMINATION:
+      Needs WAND protocol please do early AM [**10-18**]                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN, [**2586-10-18**]
+     
+     INDICATION:  78-year-old woman with right frontal mass, likely meningioma.
+     Needs presurgical planning.
+     
+     TECHNIQUE:  Contrast-enhanced multiplanar T1-weighted scans were obtained with
+     a wand protocol for stereotactic localization prior to surgery.
+     
+     Comparison is made to the prior examination of [**2586-10-9**].
+     
+     FINDINGS
+     
+     As previously noted, there is a roughly 4.3-cm mass located in the right
+     frontal region, with a dural attachment at the pterion and along the greater
+     and lesser wings of the right sphenoid bone.  There is an associated dural
+     tail.  Edema is present in the surrounding brain, which is displaced to the
+     left and posteriorly.  The right frontal [**Doctor Last Name 548**] is narrowed, and the left
+     lateral ventricle is mildly dilated due to midline shift.
+     
+     IMPRESSION:  Study for surgical localization of a previously defined right
+     frontal dural-based mass, consistent with a meningioma.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                           DFDgf
+
+",,
+13161,16315,,,2586-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-19**] 8:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13408**]
+     Reason: s/p large mening resection 10.26                            
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman post op scan - r/o bleed - vascular menignioma                
+     REASON FOR THIS EXAMINATION:
+      s/p large mening resection 10.26                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post removal of meningioma.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     COMPARISON:  Brain MRI from [**2586-10-9**].
+     
+     NON-CONTRAST HEAD CT:  Postsurgical changes are seen within the right frontal
+     bone.  There is a large amount of epidural air.  The meningioma has been
+     removed.  There is unchanged mass effect, with leftward subfalcine herniation,
+     and edema in the right cerebral hemisphere.  There is a small amount of
+     hemorrhage adjacent to the resection site.
+     
+     IMPRESSION:  Postsurgical changes from meningioma resection.  Large amount of
+     epidural pneumocephalus and small amount of hemorrhage at the resection site.
+     Stable mass effect and cerebral edema.
+
+",,
+13161,16315,,,2586-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-20**] 5:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13409**]
+     Reason: FUO                                                         
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman s/p meningioma resection [**2586-10-19**]                             
+     REASON FOR THIS EXAMINATION:
+      FUO                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever following meningioma resection.
+     
+     PORTABLE AP CHEST:  As compared to [**2586-10-16**], there is an increasing
+     ill-defined opacity at the left lung base.  Right lung is grossly clear. There
+     are no pleural effusions.
+     
+     IMPRESSION: Increasing left basilar opacity may represent faint edema or focal
+     aspiration. Continued followup is indicated.
+
+",,
+13161,16315,,,2586-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-20**] 10:31 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13410**]
+     Reason: ro/pulmonary effusion/infiltration                          
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old woman s/p meningioma resection [**2586-10-19**] now cracles t/o, desatting 
+                                 
+     REASON FOR THIS EXAMINATION:
+      ro/pulmonary effusion/infiltration                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post meningioma resection [**2586-10-19**] now crackles and desating.
+     
+     CHEST, SINGLE AP VIEW. Supine.
+     
+     Rotated positioning.
+     
+     Allowing for this, there is new dense hazy opacity throughout the left lung
+     and probably also within the right lung.  No gross effusions are identified.
+     Although the distribution of the new opacity is difficult to assess due to
+     marked rotation, it could represent bilateral perihilar opacities compatible
+     with CHF/pulmonary edema.
+     
+     An ET tube is present, tip in satisfactory position approximately 2.3 cm above
+     the carina.
+     
+     IMPRESSION:  New bilateral opacities -- ? chf. See comment.
+
+",,
+13161,16315,,,2586-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-20**] 10:31 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13410**]
+     Reason: ro/pulmonary effusion/infiltration                          
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old woman s/p meningioma resection [**2586-10-19**] now cracles t/o, desatting 
+                                 
+     REASON FOR THIS EXAMINATION:
+      ro/pulmonary effusion/infiltration                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post meningioma resection [**2586-10-19**] now crackles and desating.
+     
+     CHEST, SINGLE AP VIEW. Supine.
+     
+     Rotated positioning.
+     
+     Allowing for this, there is new dense hazy opacity throughout the left lung
+     and probably also within the right lung.  No gross effusions are identified.
+     Although the distribution of the new opacity is difficult to assess due to
+     marked rotation, it could represent bilateral perihilar opacities compatible
+     with CHF/pulmonary edema.
+     
+     An ET tube is present, tip in satisfactory position approximately 2.3 cm above
+     the carina.
+     
+     IMPRESSION:  New bilateral opacities -- ? chf. See comment.
+
+",,
+13161,16315,16390,,2586-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-21**] 10:55 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13412**]
+     Reason: confirm ETT and ogt placement, s/p pt pulled tube           
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         78 year old woman s/p meningioma resection [**2586-10-19**] now cracles t/o,  
+      desatting                             
+     REASON FOR THIS EXAMINATION:
+      confirm ETT and ogt placement, s/p pt pulled tube                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Crackles and desating.  Check ET tube placement.
+     
+     chest, 1 vw
+     
+     An ET tube is in place, tip approximately 2.4 cm above the carina.  An NG tube
+     is present, tip beneath diaphragm extending off film.
+     
+     There is diffuse patchy interstitial and alveolar opacity involving both
+     lungs, most prominent in the left greater than right perihilar regions.  No
+     gross effusions.
+     
+     IMPRESSION:  Diffuse patchy interstitial and alveolar opacities.  In the
+     appropriate clinical setting, this is compatible with CHF.
+
+",,
+13161,16315,16390,,2586-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-21**] 6:31 PM
+     MR HEAD W/ CONTRAST; MR CONTRAST GADOLIN                        Clip # [**Clip Number (Radiology) 13413**]
+     Reason: s/p menigioma resection - May be a duplicate order - sorry i
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman s/p crani                                                     
+     REASON FOR THIS EXAMINATION:
+      s/p menigioma resection - May be a duplicate order - sorry if it is **please do 
+      with and without gad
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI brain.
+     
+     CLINICAL INFORMATION:  Patient status post craniotomy for further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR T2 susceptibility and diffusion
+     axial images of the brain were obtained before gadolinium.  T1 axial, sagittal
+     and coronal images obtained following gadolinium.  Comparison was made with
+     the previous study of [**2586-10-18**].
+     
+     FINDINGS:  Since the previous MRI study, a large extra-axial mass in the right
+     frontotemporal region has been resected.  Blood products are seen in the
+     surgical bed with surrounding edema as before with mass effect on the right
+     lateral ventricle and mild midline shift.  There is no evidence of acute
+     infarct seen.  Slow diffusion visualized in the region of surgery secondary to
+     blood clotinthesurgical bed.  Air is seen within the intracranial compartment
+     as well as at the surgical site in the skull region.  No other abnormal areas
+     of enhancement are identified.  There is mild-to-moderate prominence of
+     ventricles.
+     
+     IMPRESSION:  Status post resection of right frontotemporal meningioma with
+     blood products at the surgical bed and a small subdural collection containing
+     air and fluid.  No residual nodular enhancement is seen.  Mass effect is seen
+     on the right lateral ventricle with midline shift as before.  There is no
+     evidence of worsening of the mass effect or hydrocephalus noted.
+     
+
+",,
+13161,16315,16390,,2586-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-21**] 6:31 PM
+     MR HEAD W/ CONTRAST; MR CONTRAST GADOLIN                        Clip # [**Clip Number (Radiology) 13413**]
+     Reason: s/p menigioma resection - May be a duplicate order - sorry i
+     Admitting Diagnosis: INTRACRANIAL MASS
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman s/p crani                                                     
+     REASON FOR THIS EXAMINATION:
+      s/p menigioma resection - May be a duplicate order - sorry if it is **please do 
+      with and without gad
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI brain.
+     
+     CLINICAL INFORMATION:  Patient status post craniotomy for further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR T2 susceptibility and diffusion
+     axial images of the brain were obtained before gadolinium.  T1 axial, sagittal
+     and coronal images obtained following gadolinium.  Comparison was made with
+     the previous study of [**2586-10-18**].
+     
+     FINDINGS:  Since the previous MRI study, a large extra-axial mass in the right
+     frontotemporal region has been resected.  Blood products are seen in the
+     surgical bed with surrounding edema as before with mass effect on the right
+     lateral ventricle and mild midline shift.  There is no evidence of acute
+     infarct seen.  Slow diffusion visualized in the region of surgery secondary to
+     blood clotinthesurgical bed.  Air is seen within the intracranial compartment
+     as well as at the surgical site in the skull region.  No other abnormal areas
+     of enhancement are identified.  There is mild-to-moderate prominence of
+     ventricles.
+     
+     IMPRESSION:  Status post resection of right frontotemporal meningioma with
+     blood products at the surgical bed and a small subdural collection containing
+     air and fluid.  No residual nodular enhancement is seen.  Mass effect is seen
+     on the right lateral ventricle with midline shift as before.  There is no
+     evidence of worsening of the mass effect or hydrocephalus noted.
+     
+
+",,
+13161,16315,16390,,2586-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-21**] 12:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13411**]
+     Reason: eval desatog tube                                           
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        78 year old woman s/p meningioma resection [**2586-10-19**] now cracles t/o, 
+      desatting                             
+     REASON FOR THIS EXAMINATION:
+      eval desatog tube                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     CHEST, SINGLE AP VW
+     
+     ET tube placed, tip in satisfactory position approximately 2.5 cm above
+     carina. NG tube placed in place, tip extending beneath diaphragm, off film.
+     
+     There is increased perihilar opacity with increased interstitial markings, muh
+     more pronounced in the left lung. Hazy opacity at left base suggests a small
+     pleural effusion.
+     
+     IMPRESSION:
+     
+     Probable assymetric CHF and small left pleural effusion.  An infectious
+     infiltrate is considered less likely.
+     
+
+",,
+13161,16315,16390,,2586-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-21**] 10:55 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13412**]
+     Reason: confirm ETT and ogt placement, s/p pt pulled tube           
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         78 year old woman s/p meningioma resection [**2586-10-19**] now cracles t/o,  
+      desatting                             
+     REASON FOR THIS EXAMINATION:
+      confirm ETT and ogt placement, s/p pt pulled tube                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Crackles and desating.  Check ET tube placement.
+     
+     chest, 1 vw
+     
+     An ET tube is in place, tip approximately 2.4 cm above the carina.  An NG tube
+     is present, tip beneath diaphragm extending off film.
+     
+     There is diffuse patchy interstitial and alveolar opacity involving both
+     lungs, most prominent in the left greater than right perihilar regions.  No
+     gross effusions.
+     
+     IMPRESSION:  Diffuse patchy interstitial and alveolar opacities.  In the
+     appropriate clinical setting, this is compatible with CHF.
+
+",,
+13161,16315,16390,0,2586-10-21 04:06:00 EST,2586-10-21 04:51:00 EST,5600,"N",69,"Nursing/Other","Admission Note","
+Admission Note
+Events: Pt admitted to MICU-A from [**Hospital Ward Name **] 5 at 2330 as T/SICU border. Pt originally brought to EW by daughter with c/o confusion xfew days. CT head showed large mass in frontotemporal lobes with midline shift. Admit to [**Hospital Ward Name **] 7 under neuro-[**Doctor First Name **]. [**10-18**] pt to OR for right fronto-temporal crani for resection of tumor. s/p day 2 on [**Hospital Ward Name **] 5 receiving FFP and PRBC's when became fluid overloaded...RR 40's, desat 65% and crackles throughout. Code called and patient intubated, given lasix and transferred to MICU. Diuresed ~1L in response to lasix...CXR post-intubation fairly clear (?some infiltrates on left-side). 
+
+PMH: Hypercholesterolemia, HTN with labile blood pressure, glaucoma, thyroid nodule, and hypothyroidism.
+
+CV: HR 80-108, SR-ST with no ectopy. NIBP initially 140's, but decreased to 90-100 with initiation of sedation. Neuro-[**Doctor First Name **] wanted patient's HR <100 and schedule lopressor administered. BP subsequently fell into 60-80's. Propofol infusion stopped and 500cc bolus LR given with recovery BP into 90-100's. However, pt agitated and gagging on ETT. Propofol restarted at half prior dose, but BP still effected. Propofol again stopped and patient given 2mg versed. 500cc NS bolus given with BP currently in 100's. Hct drop on floor to 22 and patient to be transfused with 2units PRBC's. Had only received 1unit prior to transfer, but per neuro-[**Doctor First Name **] will hold off on transfusing 2nd unit until evaluating am labs. Hct sent PTA 37...team aware of likeliness that it is falsely elevated and wished to wait for am Hct. Am Hct 26.9 (team aware and does not wish to transfuse at this time). EKG with ?ST depression. Cardiac enzymes being cycled.  
+
+Access: PIV x3 (2 right 20g and left 18g). Multiple attempts to establish art-line without success. 
+
+Resp: Pt received on AC 18/500/100%/...Corresponding ABG 7.53/39/204/34. TV decreased 400, FiO2 60%. BBS clear with minimal secretions. 
+
+Neuro: Pt opens eyes to verbal stimulus and withdraws to nailbed pressure, however not following commands. Efforts to purposefully reach for ET tube. Initially sedated on propofol, but BP not tolerating. Given versed IVP. Pt scheduled for MRI Head today. 
+
+GI/GU: Abdomen soft, BS present. OGT placed and confirmed by CXR. Foley cath intact draining clear yellow urine. No BM this shift. 
+
+ID: Temp spike on floor and BC/urine cx sent last evening....still pending. Temp on arrival 102. Pt given tylenol and temp currently 99.1. Started on abx (levofloxacin, vanco and flagyl). 
+
+Endo: SSC
+
+Skin: Large cranial incision with sutures intact, OTA. Rash on torso/back, which was present prior to transfer and team aware. 
+
+Social: Daughter, [**Doctor First Name 1440**], HCP. No contacts overnoc. Full code. See carevue for further data. 
+",,
+13161,16315,16390,0,2586-10-21 04:41:00 EST,2586-10-21 04:47:00 EST,2476,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient received from [**Hospital Ward Name **], S/P code blue.  Intubated with a #7.5 ett, and secured at 19 cm at the lip.  Morning abg results revealed a metabolic alkalemia with mild hypoxemia on VT of 400 ml and 5 cm PEEP.Increased VT to 450 ml and the PEEP to 8 cm.
+
+No RSBI at this time due to patient's current instability.
+",,
+13161,16315,16390,0,2586-10-21 14:41:00 EST,2586-10-21 14:42:00 EST,1994,"N",69,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, weaned to PSV tol ok at this time.
+",,
+13161,16315,16390,0,2586-10-21 18:31:00 EST,2586-10-21 19:01:00 EST,6496,"N",69,"Nursing/Other","MICU A Nursing 7a-7p","
+MICU A Nursing 7a-7p
+Events: Pt. was pulling at Ett this am; X-ray done to confirm placement and fentanyl and ativan were given for sedation; A-line was placed; Pt. went to MRI for follow up s/p craniotomy.
+
+
+
+Neuro: Pt. is currently being sedated with fentanyl and ativan q2hr. PRN.  She arouses to verbal stimuli; opens L eye; R eye has edema > L. MAEs on bed; PEERL@ 2mm brisk. Pt. was able to follow commands this am. but is currently unable to follow commands d/t sedation. Tmax 99.7 oral.
+
+Resp: pt. currently being vented on PS 12/5, FiO2 40%; RR 20-30; Tv 300-400; suctioned x3 for scant. amt of tan thick secretions. ABGs 7.43/84/36/25 much improved from this am.  Started on diamox for diuresis.
+
+Cardio: HR 80-100s, NSR, no ectopy noted, ABP 80s-140s systolic. HCT 26.1, transfused with one unit PRBCs.Continue to transfuse for HCt <30 per neuro team.  Lactated ringers running @80cc/hr. CPK 269 down from 401.
+
+GI/GU: abd. soft, BS present, promote with fiber started at 10cc/hr. UOP wnl. Foley catheter intact draining clear yellow urine. BUN and creatinine wnl.  
+
+ID: Tmax 99.7 Pt on vanco, levofloxacin; Flagyl dc'd; blood cultures remain pending; urine culture negative.
+
+Access: PIV X3, wnl, R radial a-line, waveform sharp.
+
+Skin: cranial suture site with sutures dry/intact; rash on torso, team aware; benadryl and tylenol PRN prescribed to be given for ?transfusion reaction.
+
+Social: daughter was in today and updated on pt.s condition.
+
+Plan: transfuse for HCT <30; HOB >30; repleat phos. for phos 1.0; repleat K for K of 3.5; obtain sputum culture; possible extubation tmo.
+",,
+13161,16315,16390,,2586-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-22**] 9:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13414**]
+     Reason: please check location of ngt                                
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          78 year old woman s/p meningioma resection [**2586-10-19**] s/p ngt placement       
+                
+     REASON FOR THIS EXAMINATION:
+      please check location of ngt                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  78-year-old woman status post resection of meningioma, now with NG
+     tube placement.  Please assess location of NG tube.
+     
+     TECHNIQUE:  A single portable upright chest radiograph was obtained.
+     
+     COMPARISON:  AP supine portable chest radiograph [**2586-10-21**].
+     
+     FINDINGS:  There has been interval extubation of the patient.  There remains a
+     nasogastric tube with the tip within the stomach.  Compared to prior on
+     [**2586-10-21**], there has been interval clearing of perihilar alveolar
+     opacities, which now have nearly resolved.  There has been interval increase
+     in size of small bilateral pleural effusions.  Again noted is retrocardiac
+     opacity consistent with likely basilar atelectasis.  There is stable
+     dextroscoliosis of the thoracic spine.
+     
+     IMPRESSION:  NG tube terminates in the stomach.
+     
+     Interval improvement of pulmonary edema.
+     
+     Slight increase in size of bilateral pleural effusions.
+
+",,
+13161,16315,16390,0,2586-10-22 05:48:00 EST,2586-10-22 06:29:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+Events: Pt transfused yesterday with 1unit PRBC's...post-transfusion Hct 33.4 and stable this am at 30.6. MRI last evening showing no worsening of mass effect or hydrocephalus. Temp spike ; BC x2, urine and sputum sent. 
+
+CV: HR 70-90's, NSR with no ectopy. ABP via right radial art line ranging 97-129/50-60's...transiently hypertensive with agitation. Pt on scheduled lopressor which has been held. Pt has h/o labile BP and when lopressor administered with sedation, patient drops BP. T/SICU resident aware and agrees with holding dose for now. Lytes repleted last night and this am.  
+
+Access: PIV x2
+
+Resp: Pt received on CPAP/PSV 5/12 with FiO2 50%. AM ABG 7.37/39/100/23...TF's stopped at 0500 for possible extubation. BBS CTA. Snx minimal thin tan secretions from ET tube. Moderate amount thick oral secretions with aggressive oral care.
+
+Neuro: Pt given intermittent boluses fentanyl/ativan IVP for sedation when agitated and coughing/gaging on ET tube. Opens eyes to painful stimulus and appropriately withdraws. Does not follow commands, however has purposeful movement towards ETT. No signs of pain...hypertensive episdoes most likely d/t agitation and need for sedation. 
+
+GI/GU: Abdomen soft, BS present. TF's held for extubation. Foley cath draining adequate amounts UO. Maintenance fluids infusing overnoc (LR @80cc/hr). Urine occasionally pink tinged with swirls of blood noted. No BM this shift. 
+
+ID: Temp spike 101.4, pan cx. PRN tylenol given. 
+
+Social: No family contacts overnoc. Full code. 
+
+Plan: Hct goal 30
+      Goal SBP <140
+      Monitor need for sedation
+      Possible extubation  
+",,
+13161,16315,16390,0,2586-10-22 16:27:00 EST,2586-10-22 17:19:00 EST,6496,"N",69,"Nursing/Other","MICU A Nursing 7a-7p","
+MICU A Nursing 7a-7p
+
+
+Neuro: Pt. was not given any sedation this shift; last dose of fentanyl and ativan were given at 0530; Pt. remains lethargic;  not opening eyes to painful stimuli and is not following commands; Pt. appeared to have some tremors of the LLE post- extubation; Phenytoin was given with good effect. Tmax. 101.4
+
+Cardio: HR 70s-90s, NSR, without ectopy; ABP 96-130s systolic with episodes of being hypertensive, 150-160 systolic; scheduled lopressor 5mg IV was administered without effect; resident made aware, and wrote order for hyralazine 10mg IV Q6H; hydralazine was administered with good effect to maintain SBP<150 per neuro. HCT 30.5. Mag. K. and phos.repleated.
+
+Resp: LS clear throughout;  Extubated at 1100, tolerating moderately well.  Has good gag and cough. Pt. currently on cool neb face tent 40%; O2sat >97%; ABG 7.42/29/112/19. RR 20s-30s with episodes of being tachypnic to the 40s; breathing is not labored; team aware of inc. rate and last abg. Morphine ordered PRN for increased RR.
+
+GI/GU: abd. soft, BS present; passing flatus; no BM this shift; pt. currently NPO due to LOC; Urine was pink tinged this am.; resolved without intervention; foley now draining 170-400cc/hr of light yellow urine.
+
+ID: Temp. spike this afternoon 100.0; Tylenol 650mg PR was administered; WBC 13.2 down from 14.2
+
+Endo: FS 131,127; no coverage needed
+
+Access: Rt hand 20g,wnl; LLA 18g,wnl; right radial a-line, sharp waveform.
+
+Plan: Continue to monitor RR
+      monitor MS 
+      Hct goal 30
+      SBP< 150
+      
+",,
+13161,16315,16390,,2586-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-23**] 10:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13418**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with rebleed and temporal lobectomectomy now reintubated      
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 10:53 A.M. ON [**10-23**]: 
+     
+     HISTORY:  Cerebral bleeding.
+     
+     IMPRESSION:  AP chest compared to [**2510-10-20**], and 30:
+     
+     Pulmonary edema has largely cleared and left lower lobe atelectasis and small
+     bilateral pleural effusions substantially decreased.  Tip of endotracheal tube
+     is at the carina and should be withdrawn 3 cm for optimal positioning. 
+     Nasogastric tube passes into the stomach and out of view.  Heart is normal
+     size.  Findings were discussed with the house officer caring for this patient
+     at the time of dictation.
+                                                                           
+
+",,
+13161,16315,16390,,2586-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-23**] 8:33 AM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13417**]
+     Reason: please eval for new blood                                   
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with s/p epidural evacuation                                  
+     REASON FOR THIS EXAMINATION:
+      please eval for new blood                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post epidural evacuation.  Assess for new hemorrhage.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISON:  Head CT from [**2586-10-23**], five hours earlier.
+     
+     NONCONTRAST HEAD CT:  There are new foci of parenchymal hemorrhage in the
+     right frontal lobe and right temporal lobe.  There is continued edema, marked
+     leftward subfalcine herniation, and an evolving right posterior cerebral
+     artery distribution infarct.  The overall degree of mass effect is unchanged.
+     There is stable marked enlargement of the left lateral ventricle, raising
+     suspicion for ventricular entrapment at the foramen of [**Last Name (un) 4532**].
+     
+     The extraaxial hemorrhage along the resection margin has been evacuated is now
+     filled with air.
+     
+     IMPRESSION:
+     
+     1  Evacuation of extraaxial hemorrhage at surgical margin.
+     
+     2.  New foci of parenchymal hemorrhage in the right frontal and right temporal
+     lobes.
+     
+     3.  Continued mass effect, marked leftward subfalcine herniation, and
+     enlargement of the left lateral ventricle, raising suspicion for entrapment.
+     
+     Results were discussed with [**Doctor First Name 231**] at 11:30 a.m. on [**2586-10-23**].
+
+",,
+13161,16315,16390,,2586-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-23**] 8:33 AM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13417**]
+     Reason: please eval for new blood                                   
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with s/p epidural evacuation                                  
+     REASON FOR THIS EXAMINATION:
+      please eval for new blood                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post epidural evacuation.  Assess for new hemorrhage.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISON:  Head CT from [**2586-10-23**], five hours earlier.
+     
+     NONCONTRAST HEAD CT:  There are new foci of parenchymal hemorrhage in the
+     right frontal lobe and right temporal lobe.  There is continued edema, marked
+     leftward subfalcine herniation, and an evolving right posterior cerebral
+     artery distribution infarct.  The overall degree of mass effect is unchanged.
+     There is stable marked enlargement of the left lateral ventricle, raising
+     suspicion for ventricular entrapment at the foramen of [**Last Name (un) 4532**].
+     
+     The extraaxial hemorrhage along the resection margin has been evacuated is now
+     filled with air.
+     
+     IMPRESSION:
+     
+     1  Evacuation of extraaxial hemorrhage at surgical margin.
+     
+     2.  New foci of parenchymal hemorrhage in the right frontal and right temporal
+     lobes.
+     
+     3.  Continued mass effect, marked leftward subfalcine herniation, and
+     enlargement of the left lateral ventricle, raising suspicion for entrapment.
+     
+     Results were discussed with [**Doctor First Name 231**] at 11:30 a.m. on [**2586-10-23**].
+
+",,
+13161,16315,16390,,2586-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-23**] 3:44 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13415**]
+     Reason: s/p meningioma resection with altered mental status         
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman s/p crani                                                     
+     REASON FOR THIS EXAMINATION:
+      s/p meningioma resection with altered mental status                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post meningioma resection with altered mental status.
+     
+     COMPARISON:  MRI from [**2586-10-21**]; and head CT from [**2586-10-19**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     HEAD CT WITHOUT IV CONTRAST:  There has been marked interval increase in size
+     of the heterogeneous fluid collection within the right extra-axial space
+     containing air as well as new hyperdense material, consistent with acute
+     hemorrhage, likely epidural in origin. There is marked increase in the amount
+     of adjacent mass effect upon the entire right cerebral hemisphere with marked
+     right-to- left subfalcine herniation and effacement of the sulci. There is
+     loss of [**Doctor Last Name 8**] and white differentiation within the right cerebral hemisphere,
+     most significantly within the right occipital region, which appears new in the
+     interval. Additionally, there has been interval increase in the size of right
+     frontotemporal subgaleal hematoma.
+     
+     Visualized paranasal sinuses and mastoid air cells are clear.  Right
+     frontotemporal craniotomy defect is again noted.
+     
+     IMPRESSION:
+     1.  Interval increase in size of the right extra-axial heterogeneous fluid
+     collection with pneumocephalus and a new hyperdense component noted,
+     suggestive of an acute hemorrhage, likely epidural in nature.  There is
+     profound interval increase in the degree of right-to-left subfalcine
+     herniation and probable uncal herniation.  Significant mass effect and edema
+     is present involving the entire right cerebral hemisphere.
+     2.  Interval development of loss of [**Doctor Last Name 8**] and white differentiation within the
+     right occipital lobe suggestive of evolving infarction.
+     3.  Interval increase in amount of hematoma within the right frontotemporal
+     subgaleal region.
+     
+     Dr.[**Doctor Last Name 13416**] was immediately informed of these findings at 4:30 p.m. on [**10-23**], 2005.
+     
+     NOTE ADDED AT ATTENDING REVIEW:  I agree with the findings of acute extra-
+     axial hemorrhage, likely epidural, severe increase in mass effect with right
+     to left shift and posterior cerebral artery infarction. I do not believe that
+     the swelling invovlves the entire right hemisphere. There is low density in
+     the frontal lobe, likely due to the tumor and surgical changes, rather than
+     infarction. This region is unchanged. Similarly, the right middle cerebral
+                                                                 (Over)
+
+     DATE: [**2586-10-23**] 3:44 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13415**]
+     Reason: s/p meningioma resection with altered mental status         
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     artery distribution, although not normal due to edema from tumor and surgery,
+     does not show evidence of infarction.
+                                                                           DFDdp
+
+",,
+13161,16315,16390,0,2586-10-23 07:00:00 EST,2586-10-23 07:40:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+CV: HR 60-80's, NSR with no ectopy. ABP via right radial art line initially 140's...5mg IV lopressor given without effect. BP briefly elevated to 160 and 10mg IV hydralazine given with quick response; BP then 120's. Lytes repleted during prior shift and rechecked around MN...no need for further replacement. Pt hypotensive (most likely d/t increased UO) and given LR fluid bolus x2.  
+
+Access: PIV x2. 
+
+Resp: Pt received on 40%face tent, but prior ABG showed PaO2 76. FiO2 increased to 50% with corresponding ABG 7.40/33/92/21. RR 20's easy/regular, no cough but +gag. Mucous membranes dry with minimal secretions. BBS clear-coarse (mostly noise heard from upper airway). 
+
+Neuro: Pt not receiving sedatives since morning of 10/30 Initial assessment, pupils equal/reactive. Pt not opening eyes, but withdraws BUE/BLE to nailbed pressure. Small amount of bleeding noted from surgical incision site. At midnight, noted that patient had UO>400cc urine output in absence of diuretics. At 0100 patient again had large volume UO, BP decreased into 90's. Pupils rechecked with right 5mm/left 3mm...pupils very sluggish. RUE less responsive to nailbed pressure. T-SICU resident paged and notified of hypotension/UO and change in neuro status. To unit to evaluate patient around 0140. Urine lytes sent; pt hypotensive (SBP 80's) and given 500cc LR bolus with slight response. Okay per T-SICU team for SBP 90's. T-SICU resident to discuss changes with neuro-[**Doctor First Name **] and called unit to notify RN that neuro-[**Doctor First Name **] would be by to see patient. Around 0240, T-SICU resident, [**First Name8 (NamePattern2) 2451**] [**Last Name (NamePattern1) **], again paged to be notified that neuro-[**Doctor First Name **] had not been by. Neuro assessment had continued to decline...right pupil non-reactive and patient no longer withdrawing to nailbed pressure on right side; posturing on left side with sternal rub and abnormal flexion noted with nailbed pressure. Still withdrawing lower extremities to nailbed pressure. Neuro-[**Doctor First Name **] then directly paged and to bedside around 0300. Stat CT head ordered. Upon return from CT scan pt hypothermic, 93.3 ax; bair hugger applied. Hypotensive as well and another 500cc bolus LR ordered.  CT read by neuro-[**Doctor First Name **] resident and stat lasix and decadron given. Pharmacy paged for stat mannitol. LR bolus stopped and Neo hung to maintain BP. After neuro-[**Doctor First Name **] resident spoke with attending, decision made to take patient emergently to OR. Resident spoke with daughter and consent given for OR procedure. Anesthesia to unit, mannitol still not available from pharmacy and anesthesia aware...pt taken to OR around 0530. Pt on schedule doses of dilantin and decadron. 
+
+GI/GU: Abdomen softly distended, BS present. Pt unresponsive except to painful stimulus, so OG tube placed at 2200 with CXR for confirmation. Promote with fiber TF's restarted. No BM xfew days. UO clear/yellow and >400cc/hr around MN as described above.
+
+ID: Pt has been running low-grade temps with last temp spike last evening. Pan cx am [**10-22**]. Vanco/levofloxacin. 
+
+Social: Daughter primary contact. 
+",,
+13161,16315,16390,0,2586-10-23 07:01:00 EST,2586-10-23 07:40:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+(Continued)
+Full code. 
+
+Plan: To OR  
+",,
+13161,16315,16390,0,2586-10-23 17:26:00 EST,2586-10-23 17:44:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+NURSING NOTE 0700HRS - 1800HRS
+
+
+EVENTS...S/P EVACUATION OF EPIDURAL HAEMATOMA AND PARTIAL LOBECTOMY OF THE RT..POST CT SCAN CONTINUED TO SHOW MIDLINE SHIFT AND POST OP-ERATIVE STROKE....MADE DNR THIS PM
+
+
+NEURO....SURGERY AND POST CT SCAN AS ABOVE..PROPOFOL SWITCHED OF MID AM TO ASSESSS FUNCTION...PUPILS CONTINUE UNEQUAL..RT EYE SIZE 3 ? RECATIVE AND LEFT EYE SIZE 2 AND SLUGGISH [ TEAM FULLY AWARE]...NO ANALGESIA GIVEN AS OF YET  AT REQUEST OF TEAM BUT DRIP IS ORDERED...NO RESPONSE TO PAINFUL STIMULI APART FROM WHEN TOES STIMULATED SLIGHT TWITCHING OF BOTH SETS...MANNITOL [ CHECKING SERUM OSMO AND SODIUM 2HRS POST DOSE], PHENYTOIN AND DECADRON CONTINUE
+
+
+CVS...AIM FOR SYSTOLIC 100-140..REALTIVELY WELL CONTROLLED  TODAY [ NITROPRUSSIDE AND NEO USED BRIEFLY IN SMALL DOSES] ROUTINE BBLOCKER/HYDRAL HELD AT PRESENT...[ HYPERTENSIVE WHEN STIMULATED AT TIMES]
+HR 55-65BPM NO ECTOPY.. K REPLACED TWICE TODAY
+NA INCRESAING... @ PRESENT 144 [ FOR RE-CHECK PM]..CHECKED WITH TEAM TO CONTINUE N/SA LINE DRIP AT PRESENT AND AWAIT RE-CHECK THIS PM
+SERUM OSMO 311 THEREFORE TO GIVE 1800HRS DOSE OF MANNITOL
+AFEBRILE...AB'S CONTINUE - FOR VANC LEVEL IN AM
+
+
+RESP...ABG'S AS CHARTED, PRESENTLY ON 500X10 40% PEEP @ 5...LUNGS SOUND CLEAR.....NOT BREATHING OVER
+
+
+GI....FEED RE-COMMENCED AT 1800HRS @ 20CC [ AS PRE - SURGERY ] TO ADVANCE TO GOAL 45
+
+
+GU...NEG BALANCE, DIURSEIS WITH MANNITOL... RECEIVING IV FLUIDS AS SUPPLEMENT [ ?TO BE SWITCHED OF ONCE TOLLERTAING FEED]...OUTPUT AS CHARTED
+
+SKIN...INTACT...HEAD DRESSING DRY INTACT
+
+
+SOCIAL...SURGEON DR [**Last Name (STitle) **] HAD A LONG DISCUSSION WITH DAUGHTER AND PATIENTS BROTHER TODAY..TO CONTINUE TO PRESENT CARE BUT HAS BEEN MADE DNR
+
+PLAN...FOLLOW SERUM OSMO/LYTES...FOLLOW
+NEURO STATUS..DAILY CT SCANS....
+
+",,
+13161,16315,16390,0,2586-10-23 17:47:00 EST,2586-10-23 17:48:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+ADDENDUM...POST OP HCT @ 23 THEREFORE RECIVED [**Doctor First Name **] UNIT PRBC REPEAT HCT STABLE @ 31
+",,
+13161,16315,16390,,2586-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2586-10-24**] 2:14 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13419**]
+     Reason: please eval interval change in bleed/stroke                 
+     Admitting Diagnosis: INTRACRANIAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman s/p tumor resection c/b bleed                                 
+     REASON FOR THIS EXAMINATION:
+      please eval interval change in bleed/stroke                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Meningioma resection.  Follow up intracranial hemorrhage.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     COMPARISON:  [**2586-10-23**].
+     
+     NON-CONTRAST HEAD CT: There has been dramatic worsening in the parenchymal
+     hemorrhage in the right temporal lobe.  There is slight interval increase in
+     hemorrhage in the right frontal lobe.  There is persistent mass effect with
+     continued evidence of right uncal and hippocampal herniation.
+     
+     IMPRESSION:  Worsening appearance of the head CT.
+     
+     Results were called immediately to Dr. [**First Name4 (NamePattern1) 12670**] [**Last Name (NamePattern1) **] at 2:40 p.m. on [**10-24**], 2005.
+
+",,
+13161,16315,16390,0,2586-10-24 05:07:00 EST,2586-10-24 05:24:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progress note 7P-7A","
+MICU nursing progress note 7P-7A
+Neuro - No significant change in neuro exam. R pupil 3mm, NR, L pupil 2, brisk. No eye opening. Bil UE posturing withdrawal to nailbed pressure in L>R. Bil toes upgoing with stimulation. No spontaneous movement. Closes mouth to oral care, + cough with Sx. Mannitol, decadron, dilantin, kepra. No seizure activity. Serum osmo calculated 300 per HO last check. Na remains 142-144. 
+
+Resp - AC 500 x 10, +5, 40%. AM ABG 7.46/37/142. Lungs coarse->clear, diminished at bases. Ambued, lavaged and Sx for LARGE blood tinged plug x 1. No other secretions. Sats high 90s, RR 10, occ spontaneous breaths with stimulation. 
+
+CV - Hypotensive last night 89/49, low dose neo gtt started, titrated to SBP 100-140. Weaned off this AM. BP 88-133/55-63, increasing 160s/70s with stimulation. SB/NSR 57-70, no ectopy. Hct trending down slightly 31->27.8. WBC 15 (7). Diuresing from mannitol3L neg at midnite, currently a little positive d/t IV meds. +2 edema in hends, ? fluid in abd. Vanco ttrough 16.8, dose given.
+
+GI - Abd soft, distended. +BS. No stool. TF advanced to goal 45cc/hr. low residuals. FSBS 190s, covered per scale. ? needs tighter HISS, discusssed with HO, no new orders. Cont IVF NS 80cc/hr.
+
+GU - UOP 45-380cc/hr light yellow urine.
+
+Skin - DSD D&I on cranium.Intact otherwise. No rash visible on abdomen.
+
+Plan - Neuro checks q 1 hr. Check serum osmo and Na 2 hrs after mannitol. Next lab due 8AM after 6AM med. Follow Hct. ? d/c IVF, tighten HISS. Pt is DNR, will reassess neuro status S/P evacuation epidural hematoma and partial R lobectomy x 24-48hrs post-op.
+
+
+
+",,
+13161,16315,16390,0,2586-10-24 05:39:00 EST,2586-10-24 05:41:00 EST,1813,"N",69,"Nursing/Other",,"
+
+resp care
+Pt remained on a/c 500x10 40% 5peep with peak/plat 23/16. BS coarse bil. Suct for thick blood tinged plug. Sats and abg acceptable. RSBI done this am. Will cont to follow and wean as tolerated.
+",,
+13161,16315,16390,0,2586-10-24 18:11:00 EST,2586-10-24 18:19:00 EST,6193,"N",69,"Nursing/Other","Nursing progress notes 0700-1900","
+Nursing progress notes 0700-1900
+events: at 1100 pt was w/drawing to noxious stimuli on [**Doctor Last Name **] and RU posturing. right pupil 4mm nonreactive left pupil 3mm brisk at 1400 pt was not w/drawing on [**Doctor Last Name **] but more flaccid. right pupil 5mm sluggish left pupil 4mm sluggish.  Ct scan done at 1430 neuro [**Doctor First Name **] aware tsicu aware. daughter in to speak w/ team re ct results. daughter called rest of family to make the decision to have pt be CMO. pt made CMO 1640. MS gtt started at 1750 ett remove pt on 100% nrb. family at bedside. 
+
+resp: pt has snoring resperations on 100% nrb
+cv: aline intact hr 80s sbp 140s/60s
+gi: ngt feedings stopped at 1630
+gu: foley cath intact draining yellow urine
+skin intact
+code: cmo
+social: meeting w/ family re cmo all questions answered.
+
+plan: maintain pt comfort level using ms 5-20mg/hr currently at 15mg/hr.
+",,
+13161,16315,16390,0,2586-10-24 18:28:00 EST,2586-10-24 18:29:00 EST,2463,"N",69,"Nursing/Other",,"
+
+
+
+",,
+13161,,16390,0,2586-10-25 01:25:00 EST,2586-10-25 01:26:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progres note 1:30 AM","
+MICU nursing progres note 1:30 AM
+Pt made comfortable on MSO4 gtt. Pt expired at 1:25 AM. HO notified daughter [**Name (NI) 937**] by phone.
+",,

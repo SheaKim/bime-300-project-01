@@ -1,0 +1,961 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13457,8957,,,3358-08-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3358-8-9**]              Discharge Date:   [**3358-9-6**]
+ 
+Date of Birth:  [**3272-3-31**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1013**] 
+Chief Complaint:
+Nausea
+Vomitting
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a 86 year old male w/ MMP, h/o ileocecectomy for Stage I 
+CR CA-
+subsequently developed high grade dysplasia and ~ 2weeks ago
+underwent a transverse colectomy (has an ileo-dscending
+colostomy). He was transfered here from a [**State 4695**] Hospital 
+after persistent nausea and vomitting and inability to take a 
+regular diet.
+
+Studies:
+[**8-7**] CT showed some free air in the left hemidiaphram.
+[**8-7**] Gastograffin enema - no obstruction or leak
+[**8-8**] UGI - delayed gastric emptying
+
+ 
+Past Medical History:
+PMH: Afib, DM2, CAD, PUD, HTN, BPH, depression  
+PSH: B2 (antecolic j-j)~ 25 years ago, ileocecectomy ~ 20 years 
+ago, CABG, pacer, open Chole. 
+
+ 
+Social History:
+Patient born and raised in Poland.  [**Hospital1 **].  WWII survivor.  Met
+wife in [**Name2 (NI) 9119**].  Patient and wife coauthored book about life in
+Poland during WWII.  Patient has authored several other
+publications about the holocaust.  
+Immigrated to U.S. 35 [**Last Name (un) **].  Patient moved here to escape
+communism,
+ 
+Physical Exam:
+PE: 97.3  77  167/84   22   99RA
+GEN: comfortable at rest
+HEENT: NCAT, anicteric
+CV: RRR, pacemaker in place
+Pulm: CTAB
+Abd: soft, NT, minimally distended, vertical midline incision
+healing well, no erythema, no induration
+Ext: no LE edema
+
+ 
+Pertinent Results:
+Cardiology Report ECG Study Date of [**3358-8-9**]  10:38:38 AM 
+ 
+  
+Atrial sensed ventricular paced 
+No previous tracing available for comparison 
+  
+ 
+Read by: [**Last Name (LF) 3308**],[**First Name3 (LF) **] W. 
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+60 0 130 466/466 0 -44 126 
+ 
+CHEST (PA & LAT)  [**3358-8-10**] 9:38 AM
+
+CHEST (PA & LAT)
+
+Reason: 86 year old man with ? of obstrxn / p/op leak 
+
+UNDERLYING MEDICAL CONDITION:
+86 year old man with ? of obstrxn / p/op leak 
+REASON FOR THIS EXAMINATION:
+86 year old man with ? of obstrxn / p/op leak 
+CHEST RADIOGRAPH
+
+INDICATION: 86-year-old man with history of colorectal carcinoma 
+and colectomy.
+
+No prior studies are available for comparison.
+
+FINDINGS: Left-sided dual chamber pacemaker is identified. There 
+is a free lead that probably corresponds to prior advise. 
+Bibasilar opacities are seen consistent with pleural effusions. 
+The cardiac silhouette is obscured by these opacities and cannot 
+be evaluated. The aorta appears tortuous. _____ vascular 
+calcifications are identified. The upper lung zones appear 
+clear.
+
+IMPRESSION: Bilateral pleural effusions. Surgical clips are seen 
+overlying the right upper quadrant and the mid abdomen
+Cardiology Report ECG Study Date of [**3358-8-11**]  3:27:52 PM 
+ 
+  
+Ventricularly paced rhythm, rate 60. Probable underlying atrial 
+fibrillation. 
+Compared to the previous tracing of [**3358-8-11**] no diagnostic 
+change. 
+  
+ 
+Read by: [**Last Name (LF) 4018**],[**First Name8 (NamePattern2) 4019**] [**Doctor Last Name **] 
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+59 258 142 492/489.72 28 -38 51 
+ CT ABDOMEN W/CONTRAST  [**3358-8-13**] 1:30 PM
+
+CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+
+Reason: please eval for collection, obstruction. please give 
+gastro
+Field of view: 36
+
+UNDERLYING MEDICAL CONDITION:
+86 year old man s/p transverse colectomy, now w/ vomiting, fever 
+
+REASON FOR THIS EXAMINATION:
+please eval for collection, obstruction. please give 
+gastrograffin (pt had ? of leak on outside hospital scan--we 
+could not see evidence of such on studies). page [**Pager number 9120**] w/ 
+questions. 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 86-year-old man status post transverse colectomy, 
+now with vomiting and fever. Evaluate for collection or 
+obstruction. Please administer Gastrografin.
+
+TECHNIQUE: MDCT acquired axial images of the abdomen and pelvis 
+were performed with IV contrast.
+
+CT ABDOMEN WITH IV CONTRAST: There is a large right pleural 
+effusion with associated atelectasis and a small-to-moderate 
+size left effusion. The liver, pancreas, spleen, adrenal glands, 
+kidneys are unremarkable with the exception of a left large 
+simple renal cyst. There are no pathologically enlarged lymph[**MD Number 761**] within the retroperitoneum or mesentery. There is a small 
+amount of free air within the abdomen and subcutaneous tissue 
+adjacent to incision site. Surrounding site of anastomosis in 
+the region of the hepatic flexure, there is a moderate amount of 
+fat stranding with no definite fluid collection identified. 
+These findings could represent sequelae of the prior anastomosis 
+from 10 days ago.
+
+CT PELVIS WITH IV CONTRAST: The urinary bladder, rectum, and 
+sigmoid colon are unremarkable. The prostate is slightly 
+enlarged.
+
+BONE WINDOWS: No suspicious lytic or sclerotic bony lesions.
+
+IMPRESSION:
+1. Large right and small-to-moderate left pleural effusions.
+2. Small amount of free air within the abdomen and subcutaneous 
+tissues adjacent to incision site, likely postoperative 
+sequelae.
+3. Small amount of fat stranding surrounding anastomotic site, 
+consistent with postoperative sequelae. No focal fluid 
+collection is identified. Contrast is seen passing this site.
+4. No evidence of bowel leak or obstruction.
+BILAT LOWER EXT VEINS  [**3358-8-14**] 12:03 PM
+
+BILAT LOWER EXT VEINS
+
+Reason: eval for dvt 
+
+UNDERLYING MEDICAL CONDITION:
+86 year old man with fevers, increasing WBC, with bilat pitting 
+edema & [**Last Name (un) **] signs 
+REASON FOR THIS EXAMINATION:
+eval for dvt 
+INDICATION: An 86-year-old male with fevers and increasing white 
+blood cell count and bilateral pitting edema. Evaluate for DVT.
+
+BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND:
+
+[**Doctor Last Name **] scale and Doppler sonograms of the right and left common 
+femoral, superficial femoral, and popliteal veins were 
+performed. Normal compressibility, augmentation, flow, and 
+waveforms are demonstrated. There is no evidence of intraluminal 
+thrombus.
+
+IMPRESSION:
+
+No evidence of DVT bilaterally.
+
+PORTABLE ABDOMEN  [**3358-8-15**] 4:50 PM
+
+PORTABLE ABDOMEN; FOLLOW-UP,REQUEST BY RAD.
+
+Reason: CHK FOR GASTRIC EMPTYING POST UGI
+
+INDICATION: Check for gastric emptying status post upper GI.
+
+Note is made of the GI/small bowel follow through of [**8-15**], 2006.
+
+SUPINE ABDOMINAL RADIOGRAPH: Clips are seen in the right upper 
+quadrant. Contrast is seen within the stomach as well as within 
+loops of small and large bowel. Staples are seen over the mid 
+abdomen. There is no evidence of obstruction.
+
+IMPRESSION:
+
+1. Contrast remains within the stomach. No evidence of 
+obstruction.
+BAS/UGI AIR/SBFT  [**3358-8-15**] 2:21 PM
+
+BAS/UGI AIR/SBFT
+
+Reason: eval gastric emptying... directed consult to dr [**Last Name (STitle) **]. 
+pls
+
+UNDERLYING MEDICAL CONDITION:
+86M s/p distant B2 with gastric bezoar (but no strciture on EGD) 
+& N/V after transverse colectmoy 
+REASON FOR THIS EXAMINATION:
+eval gastric emptying... directed consult to dr [**Last Name (STitle) **]. pls call 
+with questions 
+INDICATION: A distant history of gastric bezoar with nausea and 
+vomiting after transverse colectomy. Please evaluate gastric 
+emptying.
+
+COMPARISON: None.
+
+FINDINGS: A focussed fluoroscopic study of the stomach was 
+performed. Patient was orally administered a thin barium, which 
+demonstrated free passage through the esophagus into the 
+stomach. There is no evidence for hiatal hernia. There was 
+significant reflux with a large column of contrast refluxing 
+into the esophagus to the upper mediastinum. This was 
+accompanied by dysfunctional tertiary peristaltic waves. 
+Esophageal lumen is featureless with a small diverticulum noted 
+in the mid portion of the esophagus. The patient was kept in the 
+fluoroscopic suite for 20 minutes without opacification of the 
+stomach antrum. Given a large column of reflux of contrast, a 
+decision was made not to administer fizzies for stomach 
+dilation. Study will be continued on the floor with subsequent 
+portable abdominal radiograph to assess gastric emptying. 
+Three-lead pacemaker is noted with leads coursing their 
+anticipated paths. Surgical clips are present in the right upper 
+quadrant, midline, as well as skin staples present along the 
+midline. Contrast is present within the colon from a previous 
+contrast study.
+
+Abdominal supine portable radiograph performed one hour after 
+thin barium administration demonstrates unchanged appearance of 
+contrast in the stomach. Contrast in the colon is from a prior 
+study.
+
+Abdominal supine portable radiographs performed two hours after 
+thin barium administration demonstrates contrast opacification 
+of non-distended stomach. Contrast has progressed into the 
+duodenum and proximal jejunum.
+
+IMPRESSION:
+1. Marked esopphageal reflux with large column of barium 
+persisting in esophagus to the upper mediastinum (exam performed 
+in near upright position). Patient is at risk for aspiration. 
+Small mid-esophageal diverticulum.
+
+2. Contrast passage through non-dilated normal-appearing stomach 
+demonstrated two hours post contrast administration.
+
+CHEST (PA & LAT)  [**3358-8-16**] 1:29 PM
+
+CHEST (PA & LAT)
+
+Reason: eval for passage of contrast 
+
+UNDERLYING MEDICAL CONDITION:
+86 year old man with nausea, vomiting, fever. s/p transverse 
+colectomy 
+REASON FOR THIS EXAMINATION:
+eval for passage of contrast 
+PELVIC ULTRASOUND.
+
+INDICATION: Nausea, vomiting, and fever, status post transverse 
+colectomy.
+
+COMPARISON: [**3358-8-14**].
+Since the prior examination, there has been interval removal of 
+the enteric tube. Stable appearance of the left-sided central 
+venous catheter with its tip projecting over the SVC. Slight 
+increased opacity in the right lung base may represent a 
+possible consolidation. Stable appearance of the left lower lobe 
+opacification. Left-sided dual chamber pacemaker is unchanged 
+with the presence of an abandoned lead from prior device. The 
+upper abdomen demonstrates gas fluid level and barium layering 
+in a slight dilated stomach. Some of the contrast exited the 
+stomach, but cannot be assessed.
+
+IMPRESSION: Possible consolidation in both lung bases, 
+particularly in the right. Interval removal of the enteric tube. 
+Large amount of residual contrast layering in the stomach with 
+at least some in the small bowel
+
+    Cardiology Report ECG Study Date of [**3358-8-22**]  10:19:16 AM 
+ 
+  
+Ventricularly paced rhythm at 60 beats per minute with probable 
+underlying 
+atrial fibrillation. Compared to the previous tracing of [**3358-8-17**] 
+the 
+ventricular pacing is new.  
+  
+  
+ 
+Read by: [**Last Name (LF) 4018**],[**First Name8 (NamePattern2) 4019**] [**Doctor Last Name **] 
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+59 0 128 440/437.72 0 -45 92 
+ 
+  
+([**4-/6203**]1S) 
+   RADIOLOGY  Final Report
+
+[**Last Name (un) **]-INTESTINAL TUBE PLACEMENT (W/FLUORO)  [**3358-8-30**] 3:43 PM
+
+[**Last Name (un) **]-INTESTINAL TUBE PLACEMENT
+
+Reason: Please change over a wire and replace NJ tube.*30259 
+[**Doctor First Name **] 
+
+UNDERLYING MEDICAL CONDITION:
+86 year old man with [**Last Name (un) **]-jejunal tube that is clogged. 
+REASON FOR THIS EXAMINATION:
+Please change over a wire and replace NJ tube.*30259 [**Doctor First Name **] 
+INDICATIONS: 86-year-old man with clogged nasojejunal tube.
+
+TECHNIQUE: Placement of feeding tube under fluoroscopy.
+
+FINDINGS: A 14 French [**Doctor First Name 1057**]-[**Location (un) 4880**] nasointestinal feeding 
+tube was passed into the stomach without difficulty, and the 
+existing tube removed. However, attempts to pass the tube beyond 
+the stomach were not successful. A redundant segment was left in 
+the stomach in order to potentially facilitate distal passage. 
+Persistent debris in the fundus of the stomach is noted.
+
+IMPRESSION:
+1. Placement of feeding tube within the stomach. The tube could 
+not be advanced into the jejunum (the patient is s/p BillrothII) 
+. It could be helpful to acquire an abdominal radiograph in the 
+morning, and if the tube does not spontaneously pass into the 
+jejunum by that time, the patient could be returned to the 
+fluoroscopy suite for repositioning.
+
+2. Persistent debris within the fundus of the stomach.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+DR. [**First Name8 (NamePattern2) 7832**] [**Last Name (NamePattern1) 7833**]
+Approved: [**Doctor First Name 123**] [**3358-8-31**] 5:06 PM
+
+    RADIOLOGY  Final Report
+
+CATHETER, DRAINAGE  [**3358-8-31**] 2:32 PM
+
+Reason: please place GJ tube tube with G port to vent stomach & 
+J po
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+86M s/p bilroth 2, with delayed gastric emptying & need for 
+feeding tube. 
+REASON FOR THIS EXAMINATION:
+please place GJ tube tube with G port to vent stomach & J port 
+into efferent jejnual limb for tube feedings... 
+HISTORY: Gastric outlet obstruction in a patient with a Billroth 
+II procedure. Please place GJ tube.
+
+TECHNIQUE/FINDINGS: After informed consent was obtained, the 
+patient's anterior abdominal wall was prepped and draped in a 
+sterile fashion. Insufflation of the patient's current NG tube 
+was performed in conjunction with review of a recent CT scan. 
+This demonstrated the gastric remnant to be of decent size and 
+directly below the anterior abdominal wall. Hence, after 
+insufflation, two T-fasteners were placed along the greater 
+curvature of the stomach, after which the Seldinger technique 
+was used to place a 5 French sheath within the gastric remnant 
+lumen. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5606**] wire and Kumpe catheter were used to manipulate 
+into the patient's efferent loop. This loop was confirmed both 
+with contrast and passage of a 150-cm wire. The catheter-wire 
+combination were manipulated approximately 100 cm into the 
+efferent limb, after which the wire was exchanged for an Amplatz 
+wire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1230**]-Coons gastrojejunostomy tube was shortened 
+(regularly 100 cm, shortened to approximately 80 cm) with 
+additional sideholes placed and then advanced into the efferent 
+limb after tract dilatation. The proximal port which is for 
+gastric aspiration, was left within the gastric remnant, the 
+distal port, 80 cm in the efferent limb for tube feeding. The 
+tube was sutured in place with 0-Prolene. As well, it contains a 
+mushroom tip for internal anchoring.
+
+IMPRESSION: Placement of a double-lumen gastrojejunostomy tube 
+via this patient's gastric remnant, proximal port within the 
+remnant, distal port approximately 80 cm within the efferent 
+limb in this patient who is status post a Billroth II procedure. 
+No complications.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3333**]
+Approved: TUE [**3358-9-5**] 9:22 AM
+
+ 
+    RADIOLOGY  Final Report
+
+43750 PERC PLCMT GASTROMY TUBE  [**3358-8-31**] 2:32 PM
+
+Reason: please place GJ tube tube with G port to vent stomach & 
+J po
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+86M s/p bilroth 2, with delayed gastric emptying & need for 
+feeding tube. 
+REASON FOR THIS EXAMINATION:
+please place GJ tube tube with G port to vent stomach & J port 
+into efferent jejnual limb for tube feedings... 
+HISTORY: Gastric outlet obstruction in a patient with a Billroth 
+II procedure. Please place GJ tube.
+
+TECHNIQUE/FINDINGS: After informed consent was obtained, the 
+patient's anterior abdominal wall was prepped and draped in a 
+sterile fashion. Insufflation of the patient's current NG tube 
+was performed in conjunction with review of a recent CT scan. 
+This demonstrated the gastric remnant to be of decent size and 
+directly below the anterior abdominal wall. Hence, after 
+insufflation, two T-fasteners were placed along the greater 
+curvature of the stomach, after which the Seldinger technique 
+was used to place a 5 French sheath within the gastric remnant 
+lumen. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5606**] wire and Kumpe catheter were used to manipulate 
+into the patient's efferent loop. This loop was confirmed both 
+with contrast and passage of a 150-cm wire. The catheter-wire 
+combination were manipulated approximately 100 cm into the 
+efferent limb, after which the wire was exchanged for an Amplatz 
+wire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1230**]-Coons gastrojejunostomy tube was shortened 
+(regularly 100 cm, shortened to approximately 80 cm) with 
+additional sideholes placed and then advanced into the efferent 
+limb after tract dilatation. The proximal port which is for 
+gastric aspiration, was left within the gastric remnant, the 
+distal port, 80 cm in the efferent limb for tube feeding. The 
+tube was sutured in place with 0-Prolene. As well, it contains a 
+mushroom tip for internal anchoring.
+
+IMPRESSION: Placement of a double-lumen gastrojejunostomy tube 
+via this patient's gastric remnant, proximal port within the 
+remnant, distal port approximately 80 cm within the efferent 
+limb in this patient who is status post a Billroth II procedure. 
+No complications.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3333**]
+Approved: TUE [**3358-9-5**] 9:22 AM
+   RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**3358-9-5**] 9:26 AM
+
+CHEST (PORTABLE AP)
+
+Reason: resp distress 
+
+UNDERLYING MEDICAL CONDITION:
+86 year old man with nausea, vomiting, fever. s/p transverse 
+colectomy 
+REASON FOR THIS EXAMINATION:
+resp distress 
+AP CHEST 9:40 A.M. [**9-5**].
+
+HISTORY: Nausea, vomiting and fever following transverse 
+colectomy. Respiratory distress.
+
+IMPRESSION: AP chest compared to [**8-14**] through [**9-4**]:
+
+Moderate pulmonary edema best demonstrated in the perihilar left 
+lung has developed since [**9-4**]. There is consolidation in 
+both lower lungs, particularly the right, strongly suggestive of 
+concurrent pneumonia. Accompanying small-to-moderate right 
+pleural effusion could be related to either development. Heart 
+is at least moderately enlarged partially obscured by 
+right-sided consolidation. There is no pneumothorax.
+
+Two transvenous right ventricular and one right atrial pacer 
+lead are unchanged in their respective positions originating in 
+the left axillary pacemaker. A right central line probably a 
+PICC can be traced as far as the junction of the brachiocephalic 
+veins.
+
+Findings were discussed by telephone with Dr. [**Last Name (STitle) **] at the 
+time of dictation.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2525**]
+Approved: TUE [**3358-9-5**] 9:27 PM
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+He was admitted to [**Hospital1 19**] on [**3358-8-9**] for nausea and vomitting 
+since recent surgery. He has been unable to take a regular diet 
+since that time. 
+
+He continued to be nausea. A PICC line was put in and TPN 
+started. He subsequently developed a fever and increased WBC. 
+The PICC was then removed. Blood cultures from [**8-13**] grew Staph 
+form one bottle only. He was started on Vancomycin, but then 
+this was D/C'd on [**8-15**] when other cultures did not reveal any 
+growth.
+
+GI: A NGT was placed on [**8-13**]. Very foul smelling output from NG 
+(only 75-100 cc). It was thought that the efferent limb of 
+billroth is twisted due to recent surgery.  
+CT showed oral contrast going down ok. An EGD, down 20-30 cm in 
+efferent limb, showed no stricture or obstruction. A SBFT showed 
+marked esophageal reflux with large column of barium persisting 
+in esophagus to the upper mediastinum (exam performed in near 
+upright position). Regland was started. An EGD on [**3358-8-21**] was 
+performed with dilation, injection, NJ feeding tube placement. 
+He was then started on tube feedings. The tube became clogged 
+and it was then decided to place a GJ tube for nutritional 
+support. His tubefeedings were slowly advanced to goal over the 
+next few days. 
+
+Geriatrics: [**Female First Name (un) **] was consulted to help manage the care of this 
+86 year old gentleman. He was depressed and discouraged. He was 
+started back on his home med of Zoloft. Other recommmendations 
+were to D/C Ibuprofen and give Tylenol.
+
+Psych: Psych was consulted for his obvious depression and for 
+thought of harming himself. He was switched from Zoloft to 
+Celexa. His mood improved after be able to provide nutrition.
+
+Endo: [**Last Name (un) 720**] was consulted for elevated blood sugars. He needed 
+15 Units Humalog for a blood sugar on 430 on [**3358-8-18**]. His 
+sliding scale was adjusted and his sugars were in better 
+control.
+
+Renal: He was ordered for Lasix 40 mg IV BID for LE edema and 
+pleural effusion.
+
+Cardiology: He was noted to have A fib on routine ECG. His pacer 
+was interrogation and shows A fib since early this month. He was 
+on his beta blocker. All cardiac enzymes tested were negative.   
+
+
+Musculoskeletal: He complained of joint pain and aches. He was 
+ordered for Tylenol and put back on his Allopurinol and 
+Colchicine.
+
+Resp: On [**3358-9-5**], the patient was found by the nurses to be 
+conscious, but not responding. His O2 sats were in the 70's, he 
+was tachypenic, his lungs sounds were wet. It was thought that 
+due to development of pneumonia, his respiratory status was 
+compromised and he most likely aspirated. Secretions were 
+suctioned from his oralpharynx and a NGT was placed to relieve 
+any gastric content. He vommited a small amount of foul smelling 
+brownish gastric contents. He was transfered to the SICU and 
+placed on BIPAP support. He was DNR/DNI and so was not 
+intubated. His family was notified and he was made CMO. He 
+expired on [**3358-9-6**].
+
+Radiology:
+[**8-10**] Abd Xray - No evidence of obstruction.
+[**8-10**] Chest Xray - Bilateral pleural effusions
+[**8-13**] Abd CT - Large right and small-to-moderate left pleural 
+effusions, small amount of free air within the abdomen and 
+subcutaneous tissues adjacent to incision site, likely 
+postoperative sequelae, small amount of fat stranding 
+surrounding anastomotic site, consistent with postoperative 
+sequelae. No focal fluid collection is identified. Contrast is 
+seen passing this site, no evidence of bowel leak or 
+obstruction.
+[**8-14**] US Lower Ext - No evidence of DVT bilaterally.
+[**8-15**] Abd X-ray - Contrast remains within the stomach. No 
+evidence of obstruction 
+[**8-16**] Chest Xray - Possible consolidation in both lung bases, 
+particularly in the right. Interval removal of the enteric tube. 
+Large amount of residual contrast layering in the stomach with 
+at least some in the small bowel
+[**8-20**] CXR - Bilateral loculated effusions, right much larger than 
+left.
+
+ 
+
+ 
+Medications on Admission:
+Glipizide 5"", Zoloft 100', Atenolol 25', ASA 81mg', Lasix 40', 
+Colchicine 0.6', Doxazosin 4', Glucosamine/chondroitin', [**Last Name (un) **] 
+400', allopurinol 100' 
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Delayed Gastric Emptying
+
+ 
+Discharge Condition:
+Expired
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD, [**MD Number 1019**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 5994**] [**Last Name (NamePattern1) 5995**] NP[**MD Number 5996**] [**3358-9-7**] @ 0906
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**3358-9-12**] 1:56 PM
+(End of Report)
+
+
+",,
+13457,8957,,,3358-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3358-8-10**] 11:14 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15851**]
+     Reason: POOR ACCESS, NEEDS TPN AND LAB DRAWS
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with poor nutrition for 14 days. Needs PICC and TPN.            
+     REASON FOR THIS EXAMINATION:
+      Please place PICC                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  5 French dual-lumen PICC line placement via right brachial vein
+     approach.
+     
+     CLINICAL HISTORY:  86-year-old man with poor nutrition.  IV access required
+     for TPN and blood draws.
+     
+     OPERATORS:  [**Last Name (NamePattern4) 5599**], M.D. (fellow).
+                               [**First Name8 (NamePattern2) 1242**] [**Name8 (MD) 1243**], M.D. (supervising staff).
+     
+     DESCRIPTION OF PROCEDURE:  Timeout was performed to identify the patient, the
+     procedure to be performed, the site of the procedure, and appropriate
+     requisition.  Once the above were accomplished, the patient was positioned in
+     supine fashion on a special procedures/angiography table with the right arm
+     abducted and externally rotated.  The right arm in turn was prepped and draped
+     from the axilla to the antecubital fossa.  Tourniquet was applied to the upper
+     arm.  Ultrasound was used to assess the veins of the upper arm.  The right
+     brachial vein was selected for venipuncture. The skin was infiltrated with
+     approximately 2-3 cc of 1% Xylocaine for local anesthesia.  Uneventful one-
+     wall venipuncture was achieved under ultrasound guidance using a 21-gauge
+     micropuncture needle.  (Hard copy sonographic images of the venipuncture were
+     obtained in hard copy fashion.) The guide wire was advanced by way of the
+     access needle and steered to the superior vena cava under fluoroscopic
+     visualization.  The intravascular length of the catheter was determined.  The
+     catheter was tailored at the 37-cm mark and delivered using modified Seldinger
+     technique to the level of the caudal superior vena cava.  Once satisfactory
+     positioning was confirmed, both lumens of the catheter were flushed and
+     heparin locked.  The catheter was statlocked and positioned for security.  The
+     catheter and puncture access site were overlaid with a Tegaderm occlusive
+     dressing.  The patient tolerated the procedure well.  No immediate
+     complications were encountered.  Estimated blood loss was minimal.
+     
+     IMPRESSION:
+     1.  Status post successful placement of 5 French dual-lumen PICC line via
+     right brachial vein approach.  Final catheter length is 37 cm.  Tip position
+     is in caudal superior vena cava.  Catheter is ready to employ.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3358-8-10**] 11:14 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15851**]
+     Reason: POOR ACCESS, NEEDS TPN AND LAB DRAWS
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13457,8957,,,3358-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3358-8-16**] 11:18 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15852**]
+     Reason: please place PICC [**8-16**]                                      
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 year old man with poor nutrition for 14 days. Needs PICC and TPN.          
+         
+     REASON FOR THIS EXAMINATION:
+      please place PICC [**8-16**]                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     1
+     INDICATION:  86-year-old male with poor nutrition.
+     
+     RADIOLOGIST:  Drs. [**Last Name (STitle) 6641**] [**Name (STitle) 7907**] and [**First Name8 (NamePattern2) 1774**] [**Last Name (NamePattern1) 216**], the attending
+     radiologist, who was present throughout the procedure.
+     
+     PROCEDURE AND FINDINGS:  The patient was brought to the angiography table.
+     Right upper arm was prepped and draped in usual sterile fashion.  Ultrasound
+     was used to identify right brachial vein, which was patent and compressible.
+     Pre- and post-ultrasound images obtained.  Under ultrasound guidance, right
+     brachial vein was punctured, and 0.018-guidewire was inserted over the needle.
+     Needle was exchanged with peel-away sheath, and 31 cm 5 French double lumen
+     PICC line was inserted over the wire using flouroscopic guidance, with the tip
+     terminating in distal SVC. Peel-away sheath is removed, the wire is removed.
+     The line was flushed, capped, and heplocked.  The line was finally StatLocked.
+     The final fluoroscopic image was obtained to confirm the location of the line.
+     The patient tolerated the procedure without any immediate complication.  The
+     line is ready for use.
+     
+     IMPRESSION:  Successful placement of 31 cm 5 French double lumen PICC line
+     with the tip terminating in distal SVC from right brachial vein.  The line is
+     ready for use.
+     
+     
+     
+
+",,
+13457,8957,,,3358-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3358-8-31**] 2:32 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 15853**]
+     Reason: please place GJ tube tube with G port to vent stomach & J po
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 30CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86M s/p bilroth 2, with delayed gastric emptying & need for feeding tube.       
+     REASON FOR THIS EXAMINATION:
+      please place GJ tube tube with G port to vent stomach & J port into efferent 
+      jejnual limb for tube feedings...
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Gastric outlet obstruction in a patient with a Billroth II
+     procedure.  Please place GJ tube.
+     
+     TECHNIQUE/FINDINGS:  After informed consent was obtained, the patient's
+     anterior abdominal wall was prepped and draped in a sterile fashion. 
+     Insufflation of the patient's current NG tube was performed in conjunction
+     with review of a recent CT scan.  This demonstrated the gastric remnant to be
+     of decent size and directly below the anterior abdominal wall.  Hence, after
+     insufflation, two T-fasteners were placed along the greater curvature of the
+     stomach, after which the Seldinger technique was used to place a 5 French
+     sheath within the gastric remnant lumen.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire and Kumpe catheter
+     were used to manipulate into the patient's efferent loop.  This loop was
+     confirmed both with contrast and passage of a 150-cm wire.  The catheter-wire
+     combination were manipulated approximately 100 cm into the efferent limb,
+     after which the wire was exchanged for an Amplatz wire.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3068**]-Coons
+     gastrojejunostomy tube was shortened (regularly 100 cm, shortened to
+     approximately 80 cm) with additional sideholes placed and then advanced into
+     the efferent limb after tract dilatation.  The proximal port which is for
+     gastric aspiration, was left within the gastric remnant, the distal port, 80
+     cm in the efferent limb for tube feeding.  The tube was sutured in place with
+     0-Prolene.  As well, it contains a mushroom tip for internal anchoring.
+     
+     IMPRESSION:  Placement of a double-lumen gastrojejunostomy tube via this
+     patient's gastric remnant, proximal port within the remnant, distal port
+     approximately 80 cm within the efferent limb in this patient who is status
+     post a Billroth II procedure.  No complications.
+                                                                           
+
+",,
+13457,8957,,,3358-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3358-8-31**] 2:32 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 15853**]
+     Reason: please place GJ tube tube with G port to vent stomach & J po
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 30CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86M s/p bilroth 2, with delayed gastric emptying & need for feeding tube.       
+     REASON FOR THIS EXAMINATION:
+      please place GJ tube tube with G port to vent stomach & J port into efferent 
+      jejnual limb for tube feedings...
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Gastric outlet obstruction in a patient with a Billroth II
+     procedure.  Please place GJ tube.
+     
+     TECHNIQUE/FINDINGS:  After informed consent was obtained, the patient's
+     anterior abdominal wall was prepped and draped in a sterile fashion. 
+     Insufflation of the patient's current NG tube was performed in conjunction
+     with review of a recent CT scan.  This demonstrated the gastric remnant to be
+     of decent size and directly below the anterior abdominal wall.  Hence, after
+     insufflation, two T-fasteners were placed along the greater curvature of the
+     stomach, after which the Seldinger technique was used to place a 5 French
+     sheath within the gastric remnant lumen.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire and Kumpe catheter
+     were used to manipulate into the patient's efferent loop.  This loop was
+     confirmed both with contrast and passage of a 150-cm wire.  The catheter-wire
+     combination were manipulated approximately 100 cm into the efferent limb,
+     after which the wire was exchanged for an Amplatz wire.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3068**]-Coons
+     gastrojejunostomy tube was shortened (regularly 100 cm, shortened to
+     approximately 80 cm) with additional sideholes placed and then advanced into
+     the efferent limb after tract dilatation.  The proximal port which is for
+     gastric aspiration, was left within the gastric remnant, the distal port, 80
+     cm in the efferent limb for tube feeding.  The tube was sutured in place with
+     0-Prolene.  As well, it contains a mushroom tip for internal anchoring.
+     
+     IMPRESSION:  Placement of a double-lumen gastrojejunostomy tube via this
+     patient's gastric remnant, proximal port within the remnant, distal port
+     approximately 80 cm within the efferent limb in this patient who is status
+     post a Billroth II procedure.  No complications.
+                                                                           
+
+",,
+13457,8957,,,3358-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3358-8-31**] 2:32 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 15853**]
+     Reason: please place GJ tube tube with G port to vent stomach & J po
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 30CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86M s/p bilroth 2, with delayed gastric emptying & need for feeding tube.       
+     REASON FOR THIS EXAMINATION:
+      please place GJ tube tube with G port to vent stomach & J port into efferent 
+      jejnual limb for tube feedings...
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Gastric outlet obstruction in a patient with a Billroth II
+     procedure.  Please place GJ tube.
+     
+     TECHNIQUE/FINDINGS:  After informed consent was obtained, the patient's
+     anterior abdominal wall was prepped and draped in a sterile fashion. 
+     Insufflation of the patient's current NG tube was performed in conjunction
+     with review of a recent CT scan.  This demonstrated the gastric remnant to be
+     of decent size and directly below the anterior abdominal wall.  Hence, after
+     insufflation, two T-fasteners were placed along the greater curvature of the
+     stomach, after which the Seldinger technique was used to place a 5 French
+     sheath within the gastric remnant lumen.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire and Kumpe catheter
+     were used to manipulate into the patient's efferent loop.  This loop was
+     confirmed both with contrast and passage of a 150-cm wire.  The catheter-wire
+     combination were manipulated approximately 100 cm into the efferent limb,
+     after which the wire was exchanged for an Amplatz wire.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3068**]-Coons
+     gastrojejunostomy tube was shortened (regularly 100 cm, shortened to
+     approximately 80 cm) with additional sideholes placed and then advanced into
+     the efferent limb after tract dilatation.  The proximal port which is for
+     gastric aspiration, was left within the gastric remnant, the distal port, 80
+     cm in the efferent limb for tube feeding.  The tube was sutured in place with
+     0-Prolene.  As well, it contains a mushroom tip for internal anchoring.
+     
+     IMPRESSION:  Placement of a double-lumen gastrojejunostomy tube via this
+     patient's gastric remnant, proximal port within the remnant, distal port
+     approximately 80 cm within the efferent limb in this patient who is status
+     post a Billroth II procedure.  No complications.
+                                                                           
+
+",,
+13457,8957,,,3358-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3358-8-31**] 2:32 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 15853**]
+     Reason: please place GJ tube tube with G port to vent stomach & J po
+     Admitting Diagnosis: ILEUS,ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 30CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86M s/p bilroth 2, with delayed gastric emptying & need for feeding tube.       
+     REASON FOR THIS EXAMINATION:
+      please place GJ tube tube with G port to vent stomach & J port into efferent 
+      jejnual limb for tube feedings...
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Gastric outlet obstruction in a patient with a Billroth II
+     procedure.  Please place GJ tube.
+     
+     TECHNIQUE/FINDINGS:  After informed consent was obtained, the patient's
+     anterior abdominal wall was prepped and draped in a sterile fashion. 
+     Insufflation of the patient's current NG tube was performed in conjunction
+     with review of a recent CT scan.  This demonstrated the gastric remnant to be
+     of decent size and directly below the anterior abdominal wall.  Hence, after
+     insufflation, two T-fasteners were placed along the greater curvature of the
+     stomach, after which the Seldinger technique was used to place a 5 French
+     sheath within the gastric remnant lumen.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 193**] wire and Kumpe catheter
+     were used to manipulate into the patient's efferent loop.  This loop was
+     confirmed both with contrast and passage of a 150-cm wire.  The catheter-wire
+     combination were manipulated approximately 100 cm into the efferent limb,
+     after which the wire was exchanged for an Amplatz wire.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3068**]-Coons
+     gastrojejunostomy tube was shortened (regularly 100 cm, shortened to
+     approximately 80 cm) with additional sideholes placed and then advanced into
+     the efferent limb after tract dilatation.  The proximal port which is for
+     gastric aspiration, was left within the gastric remnant, the distal port, 80
+     cm in the efferent limb for tube feeding.  The tube was sutured in place with
+     0-Prolene.  As well, it contains a mushroom tip for internal anchoring.
+     
+     IMPRESSION:  Placement of a double-lumen gastrojejunostomy tube via this
+     patient's gastric remnant, proximal port within the remnant, distal port
+     approximately 80 cm within the efferent limb in this patient who is status
+     post a Billroth II procedure.  No complications.
+                                                                           
+
+",,
+13457,8957,16751,0,3358-09-05 15:28:00 EST,3358-09-05 15:42:00 EST,1310,"N",1,"Nursing/Other","nursing note","
+nursing note
+Pt admitted from [**Hospital Ward Name **] 10 after being found unresponsive and nt suctioned for fecal contents.  Pt admitted and placed on bipap mask secodnary to o2sat's in 80's.  Responsive only to pain and with transfer to bed. LS coarse, suctioned for thick brown fecal smelling contents. Bipap weaned to off, and placed on face mask and 02 weaning. o2 sat 97% on 80%fio2. [**Last Name (un) **], NGT to lws with brown fecal smelling contents. abd soft,nt. JT clamped, GT to gravity with brown fecal smelling output. foley patent dark yellow urine, minimal output, urine lytes sent.  bolused x2, lasix given on floor. K 5.4 (up from [**3-27**]), kayexalate given as ordered. MD aware of 5.4 K.  skin intact. Family spoke with MD [**Doctor Last Name **] and reiterated DNR/DNI, plan to await rest of family beofre making further decisions.
+
+PLAN:Bipap prn, wean o2, monitor I+O, DNR/DNI, monitor lytes. 
+",,
+13457,,16751,0,3358-09-06 04:57:00 EST,3358-09-06 05:09:00 EST,1489,"N",1,"Nursing/Other","NURSING","
+NURSING
+     VSS, AFEBRILE OVERNIGHT. FAMILY IN ATTENDENCE ALL NIGHT AT BEDSIDE. ALL GRANDCHILDREN ARRIVED BY MIDNIGHT. DR. [**Last Name (STitle) **] IN AND SPOKE WITH PATIENTS DAUGHTER, HEALTH CARE PROXY. DNR/DNI CHANGED TO CMO STATUS AT MIDNIGHT. MORPHINE GTT STARTED, ANTIBIOTICS DC'D, VENODYNES REMOVED, O2 APPLIED WITH NASAL CANNULA FOR PATIENT COMFORT. PATIENT HAD COMPLAINED OF PAIN PRIOR TO GTT BEING STARTED, GTT STARTED AT 5 MG/HR. CURRENTLY REMIANING AT 5. APPEARS COMFORTABLE, MINIMAL RESPONSE TO STIMULI, OPENS EYES WHEN TURNED. PACER CONTINUES TO PACE A NORMAL SINUS RHYTHM WITH FREQUENT PACED BEATS AND OCCASIONAL PAC'S.PACER IS ATRIAL SENSED, VENTRICULAR PACED, SET AT A RATE OF 60.
+     CONTINUE TO PROVIDE COMFORT MEASURES, SUPPORT TO FAMILY. TITRATE MORPHINE GTT TO PATIENT COMFORT.
+",,
+13457,,16751,0,3358-09-06 16:29:00 EST,3358-09-06 16:30:00 EST,5692,"N",1,"Nursing/Other",,"
+
+Pt expired with family at bedside.  Emotional support was given throughout the shift.
+",,

@@ -1,0 +1,835 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13739,13814,,,2661-04-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2661-4-8**]       Discharge Date:  [**2661-4-17**]
+
+Date of Birth:   [**2602-1-12**]       Sex:  F
+
+Service:  CMED
+
+CHIEF COMPLAINT:  Congestive heart failure and acute non ST
+elevation myocardial infarction status post catheterization.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 59 year-old
+female with a past medical history of diabetes, peripheral
+vascular disease, chronic renal insufficiency, 1999 stent to
+the left anterior descending coronary artery, in 8/99 rota of
+the obtuse marginal, and [**11/2657**] percutaneous transluminal
+coronary angioplasty of the LPDA, percutaneous transluminal
+coronary angioplasty of the obtuse marginal one, status post
+unsuccessful percutaneous transluminal coronary angioplasty
+of the proximal obtuse marginal one, [**12-13**] cipher to the
+circumflex who awoke from [**Doctor Last Name 292**] today with 8 to 10 anginal
+equivalent pain, nonradiating and positive shortness of
+breath, positive diaphoresis with the pain that was
+nonpleuritic.  The pain, which normally resolve with one
+nitroglycerin did not resolve with three nitroglycerin.  The
+patient called EMS and was brought to an outside hospital.
+There was found to be in failure with positive enzymes and
+electrocardiogram changes.  The patient was transferred here
+for cardiac catheterization.
+
+PAST MEDICAL HISTORY:
+1.  Gout.
+2.  Osteoporosis.
+3.  Chronic renal insufficiency.
+4.  Peripheral vascular disease.
+5.  Diabetes mellitus.
+6.  Status post appendectomy.
+7.  Carpal tunnel surgery.
+8.  Status post femoral popliteal bypass in [**2652**].
+9.  Hematemesis.
+10.  Anemia.
+11.  Hypothyroidism.
+12.  Peripheral neuropathy.
+
+ALLERGIES:  Morphine, sodium penathol and Tylenol #3.
+
+MEDICATIONS ON ARRIVAL:
+1.  Lopresor 100.
+2.  Lasix 80.
+3.  Lantus 10 in the evening.
+4.  Prilosec 20.
+5.  Prinivil 10.
+6.  Plavix 75.
+7.  Humalog 100.
+8.  Neurontin 300.
+9.  Aspirin 325.
+10.  Keflex 500.
+11.  Colchicine .6.
+12.  Imdur 60.
+13.  Pravachol 40.
+14.  Diovan 160.
+15.  Allopurinol 100.
+16.  Ecotrin 325.
+17.  Norvasc 20.
+18.  Lopressor 50.
+
+OUTSIDE HOSPITAL LABORATORIES:  White blood cell count 7.7,
+hematocrit 29.7, platelets 310, sodium 138, INR 1.0, BUN 86,
+creatinine 2.5, potassium 4.5, glucose 237.  Her CK was 116
+with an MB fraction of 5.3 and her troponin was 4.1.  Chest
+x-ray was consistent with failure.
+
+PERTINENT PREVIOUS STUDIES:  In [**2656**] stent to the left
+anterior descending coronary artery, 1999 rota of the obtuse
+marginal and [**11/2657**] percutaneous transluminal coronary
+angioplasty of the LPDA and a percutaneous transluminal
+coronary angioplasty of the obtuse marginal one.  Status post
+unsuccessful percutaneous transluminal coronary angioplasty
+of the proximal obtuse marginal one and [**12-13**] cipher to
+circumflex.
+
+CURRENT STUDIES IN HOUSE:  Catheterization report, which
+showed three vessel disease, patent left circumflex stent,
+cardiac output of 6.60, cardiac index of 3.28, capillary
+wedge pressure of 34, right atrial pressure of 7 and
+pulmonary artery pressure 46.  Her left main coronary artery
+showed no obstruction.  Her left anterior descending coronary
+artery showed mild disease, left circumflex showed subtotal
+obtuse marginal severely diseased before stenting and with
+current collateralization.  Her right coronary artery showed
+small nondominant 50% occlusion in the middle vessel and the
+recommendations status post catheterization were medical
+management.
+
+PHYSICAL EXAMINATION:  Vital signs when seeing the patient
+were blood pressure 140/60.  Heart rate 74.  Respiratory rate
+20.  Satting 99% on 3 liters.  She was an elderly female
+lying in bed in no acute distress.  Face mask on.  Able to
+speak in full sentences.  No JVD.  Regular rate and rhythm.
+No murmurs, rubs or gallops.  Bilateral crackles [**3-14**] of the
+way up.  1+ bilateral lower extremity edema.  Alert and
+oriented times three.  Groin site with no hematoma or oozing.
+
+
+HOSPITAL COURSE:  The patient was initially evaluated in the
+holding room after catheterization.  At this point she was
+satting 97 to 99% on 3 liters and looked relatively
+comfortable.  Upon arrival to the floor the patient had a
+moment of desaturation.  She went down to the high 80s, which
+was resolved after positioning the patient in a better
+position.  The patient also suffered from nausea during the
+first evening on the floor, which resolved with the
+application of Zofran and Ativan.  The next day after arrival
+to the floor it was noted that the patient's urine output had
+decreased and the patient's creatinine had bumped from her
+baseline around 2 to over 3.  The Renal Service was consulted
+and they felt that the patient would require emergent
+hemodialysis to combat the acute renal failure.  The patient
+was transferred to the CCU where she underwent hemodialysis
+on two of the three days that she stayed in the unit.  The
+first day 4.7 liters of fluid were removed from the patient
+and on the third day an additional 2 liters were removed from
+the patient.  During her time in the unit the patient had one
+bout of chest pain 4 out of 10, which lasted approximately 20
+minutes, which resolved with sublingual nitroglycerin.  After
+significant clinical improvement the patient was transferred
+to the floor for further care.
+
+After return to the floor the patient's creatinine came back
+down from a high of 4.9 down to approximately 3.  At this
+point the patient had no other complaints of chest pain,
+shortness of breath, nausea, vomiting, fevers or chills and
+began to put out better urine output.  Over the next few days
+her creatinine slowly increased from 3 to 3.3 to 3.5 and
+finally on the day of discharge 3.4.  Renal continued to
+follow the patient and felt that dialysis was not needed at
+this point, however, they would continue to monitor her urine
+output as well as creatinine.  Their thought was that her
+acute on chronic renal failure was probably secondary to
+contrast nephropathy, which resulted from the contrast dye
+given during catheterization.
+
+1.  Non ST elevation myocardial infarction:  The patient
+arrived without chest pain, but had a history of chest pain,
+electrocardiogram changes and positive enzymes.  She also had
+multiple risk factors as well.  The patient underwent cardiac
+catheterization (see report above), but no intervention
+occurred during the catheterization.  An echocardiogram while
+in house showed an ejection fraction of 35 to 40%, which was
+worse from an echocardiogram done two years ago, which showed
+an ejection fraction of 40 to 45%.  On [**4-14**] three days before
+discharge her CK and troponin had a significant increase
+after trending down for the rest of her hospital stay.  The
+following two days the CK and troponin both went back down
+with no further chest pain, shortness of breath, nausea or
+vomiting.
+
+2.  Congestive heart failure:  The patient's initial chest
+x-ray was consistent with congestive heart failure.  Prior to
+the CCU admission the patient was given Lasix and was
+responsive, however, the day that she was transferred to the
+CCU her urine output dropped off despite the application of
+120 mg of Lasix.  Now that the patient is no longer being
+dialyzed and is back in the CCU her urine output is once
+again responsive to Lasix.  Her clinical examination has
+drastically improved from admission with only very small
+crackles at the bases remaining.  She is satting well on room
+air currently.
+
+3.  Hypoxia:  The patient was on 3 liters of nasal cannula.
+This most likely was secondary to congestive heart failure
+and pulmonary edema.  After the significant diuresis by
+dialysis as well as the good urine output over the last few
+days of her hospital stay the patient continues to sat well
+on room air with no other respiratory issues.
+
+4.  Chronic renal insufficiency:  The patient's creatinine is
+slightly up from baseline, however, she continues to have
+good urine output and his Lasix responding.  Her creatinine
+appears to be stable and slightly decreasing now at a level
+near 3.5.  It will be sometime to determine whether she will
+return back to her baseline or whether she will develop a new
+baseline slightly higher then prior.
+
+5.  Diabetes mellitus:  The patient had no issues during her
+hospital stay.  Her control was adequate during her hospital
+stay with no need for any acute intervention.
+
+6.  High blood pressure:  The patient was put on her normal
+blood pressure medications and her blood pressure was
+controlled adequately throughout her hospital stay.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To rehab for cardiopulmonary rehab as well
+as physical therapy.  The patient is significantly
+deconditioned after spending this much time in the hospital.
+
+DISCHARGE DIAGNOSES:
+1.  Non ST elevation myocardial infarction.
+2.  Chronic renal insufficiency.
+3.  Acute renal failure.
+4.  Congestive heart failure.
+5.  Hypoxia.
+6.  Diabetes mellitus.
+7.  Hypertension.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 po q day.
+2.  Plavix 75 mg po q day.
+3.  Gabapentin 400 mg po t.i.d.
+4.  Levothyroxine 112 micrograms one po q day.
+5.  Isosorbide mononitrate 60 mg sustained release one q.d.
+6.  Carvedilol 12.5 tablets two po b.i.d.
+7.  Atorvastatin 40 mg one po q.d.
+8.  Furosemide 80 mg one po q.d.
+
+FOLLOW UP PLANS:  The patient will initially go to rehab for
+an unknown amount of time.  The patient will then follow up
+with her cardiolgoist in three to five days.  The patient
+will also follow up with her primary care physician at this
+point.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1645**]
+
+Dictated By:[**Last Name (NamePattern1) 4808**]
+MEDQUIST36
+
+D:  [**2661-4-17**]  09:35
+T:  [**2661-4-17**]  09:41
+JOB#:  [**Job Number 9589**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2661-5-17**] 3:03 PM
+(End of Report)
+
+
+",,
+13739,13814,,,2661-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-4-8**] 11:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3223**]
+     Reason: any evidence of pna                                         
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old woman with CHF      and now with temperature                       
+                               
+     REASON FOR THIS EXAMINATION:
+      any evidence of pna                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59 year old with CHF and now fever.
+     
+     PORTABLE SEMI-UPRIGHT FRONTAL RADIOGRAPH:  Comparison [**2660-12-15**].
+     
+     The heart is enlarged. The mediastinal contours are normal. Compared to the
+     prior study, there is increase in perihilar haziness and upper zone
+     redistribution of the pulmonary vasculature consistent with pulmonary edema.
+     There is retrocardiac opacification obscuring the left hemidiaphragm. In
+     addition, there is probably a small left pleural effusion.
+     
+     IMPRESSION:   Atelectasis/consolidation at the left base with a small left
+     pleural effusion. Mild congestive heart failure.
+
+",,
+13739,13814,,,2661-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-4-9**] 6:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3224**]
+     Reason: worsening or improving failure.                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with CHF                                                      
+     REASON FOR THIS EXAMINATION:
+      worsening or improving failure.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59 y/o female with CHF.  Compare to previous chest x-ray.
+     
+     COMPARISON:  [**2661-4-8**].
+     
+     AP UPRIGHT SINGLE VIEW CHEST:  The cardiac, mediastinal and hilar contours are
+     unchanged.  There appears to be slight improvement in the perihilar infiltrate
+     and upper zone redistribution of the pulmonary artery vasculature. However,
+     there is new right lower lobe atelectasis/consolidation and worsening of the
+     left lower lobe collapse/consolidation.  There is slight increase in the
+     bilateral pleural effusions.  The osseous structures are unchanged.
+     
+     IMPRESSION: 1. Slight improvement in the CHF pattern. 2. Worsening of right
+     lower lobe and left lower lobe collapse/consolidation with possible increase
+     in bilateral pleural effusions.
+
+",,
+13739,13814,,,2661-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-4-10**] 8:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3225**]
+     Reason: worsening failure?                                          
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        59 year old woman with CHF and now with temperature                           
+                            
+     REASON FOR THIS EXAMINATION:
+      worsening failure?                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59 year old female with CHF, now presenting with fever.
+     
+     Comparison:  [**2661-4-9**]
+     
+     FINDINGS:  AP single upright view of the chest. Cardiac, mediastinal and hilar
+     contours are unchanged in appearance. There is interval improvement of the
+     right lower lobe collapse/consolidation and of the bilateral pleural
+     effusions. Persistent left lower lobe atelectasis/consolidation.
+     
+     IMPRESSION:   Interval improvement of the right lower lobe atelectasis and of
+     the bilateral pleural effusions (left greater than right).
+     2) Persistent left lower lobe consolidation/atelectasis.
+
+",,
+13739,13814,17103,0,2661-04-10 19:49:00 EST,2661-04-10 20:24:00 EST,615,"N",1,"Nursing/Other","CCU NPN: Adm/ Alt in CV","
+CCU NPN: Adm/ Alt in CV
+S:""I need to sit up to breath better.""
+
+O: PLease see carevue/FHP for complete details.
+
+CV: HR 80's, no ectopy or CP. BP 80-140/40-50. HD started shortly after arrival to unit and pt dropped BP to 80's, supported with fluids by HD RN. Hct 25.2 this AM. Rcvd 2 units PRBC with HD. K+4.9 Mg 1.9 CK 182/ Trop 1.19 (trending down). Lopressor dose d/c and changed to Coreg to be started post HD. 
+
+RESP: Arrived to unit on NRB with O2 sat 80%, RR 20's. 6L NC placed on in addition to NRB and pt HOB elevated. Sats slowly began to rise. Current O2 sat 95% on NRB only. LS with crackles in lower lobes, faint insp wheezes audible. CXR shows pleural effusions. Started on Prednisone this eve. 
+
+ENDO: FS upon arrival 275 and in setting of hyperglycemia, insulin DM hx, and intitiation of Prednisone; Insulin drip started. Given 5unit bolus and started at 2units/hour of Reg Insulin.  Insulin drip titrated as needed. Last fs 186, currently on 6u/hr.
+
+ID: On Levoflox for UTI/ pleural effusions on CXR. Spiked temp a few days ago. Afebrile at present.
+
+GI: +BS x4, abdomen obese, soft. momentarily nauseous with HD, but passed. No dinner yet, awaiting HD to finish. Pt not really hungry at this time. Last BM [**4-7**].
+
+GU: Clear yellow urine via foley catheter. BUN/Cr this am 99/4.2. HD in progress, only for ultrafiltration.
+
+ACCESS: 20g PIV in rhand. 2 attempts at PIV insertion failed. IV team paged. Team aware of poor access.
+
+EVENT: At 1900, pt c/o itching. hives located on right armpit area. no SOB, throat discomfort, VSS. Benadryl 50mg PO given. Pepcid and Sarna cream ordered, awaitng from Pharmacy. 1915 Hives spreading to back and noted at groin sites and on legs. Transfusion rxn work-up initiated on both units given during HD. 1930 Temp 97.2 VSS. 
+
+A/P: CAD hx of PCIs; s/p Cath [**4-8**] without intervention, but elevated filling pressures. Diuresed well initially. Bump in Cr, increasing SOB, HF exacerbation with unsuccessful diuresis.  To unit for HD- ultrafiltration today. Transfused 2 uPRBC with HD. Developed hives 15min post transfusion with unchanged VS. Transfusion work-up initiated. DM started on insulin drip upon arrival. Resp status slightly improved since arrival, requiring NRB with O2 sat 95%. Monitor VS, Resp status, address IV access, follow-up on hives and transfusion work-up. 
+
+
+",,
+13739,13814,17103,,2661-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-4-11**] 4:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 3226**]
+     Reason: either side for iv access                                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\CATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with acute renal failure and chf requiring dialysis           
+     REASON FOR THIS EXAMINATION:
+      either side for iv access                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  59 year old woman with pneumonia and UTI requiring IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Dr[**Last Name (STitle) **] [**Name (STitle) 2633**] and [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**] the
+     attending radiologist was present and supervised the entire procedure.
+     
+     The left upper arm was prepped in a sterile fashion.  Since no suitable veins
+     were visible, ultrasound was used for localization of a suitable vein.  The
+     basilic vein was visible under sonographic evaluation, and was patent and
+     compressible.  After local anesthesia with 2 cc of 1% Lidocaine, the basilic
+     vein was entered under sonographic guidance with a 21 gauge needle.  A 0.028
+     guidewire was advanced under fluoroscopic guidance into the superior vena
+     cava.  Based on the markers on the guidewire it was determined that a length
+     of 44 cm would be suitable.  The PICC line was trimmed to length and advanced
+     over a 4 French introducer sheath.  The sheath was removed.  The catheter was
+     flushed.  A final chest x-ray was obtained.  The film demonstrates the tip to
+     be in the superior vena cava just above the atrium.  The line is ready for
+     use.  A STAT-lock was applied and the line was HEP-locked.
+     
+     IMPRESSION:  Successful placement of a 44 cm total length 4 French single
+     lumen PICC line with its tip in the superior vena cava, ready for use.
+
+",,
+13739,13814,17103,,2661-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-4-11**] 4:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 3226**]
+     Reason: either side for iv access                                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\CATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with acute renal failure and chf requiring dialysis           
+     REASON FOR THIS EXAMINATION:
+      either side for iv access                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  59 year old woman with pneumonia and UTI requiring IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Dr[**Last Name (STitle) **] [**Name (STitle) 2633**] and [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**] the
+     attending radiologist was present and supervised the entire procedure.
+     
+     The left upper arm was prepped in a sterile fashion.  Since no suitable veins
+     were visible, ultrasound was used for localization of a suitable vein.  The
+     basilic vein was visible under sonographic evaluation, and was patent and
+     compressible.  After local anesthesia with 2 cc of 1% Lidocaine, the basilic
+     vein was entered under sonographic guidance with a 21 gauge needle.  A 0.028
+     guidewire was advanced under fluoroscopic guidance into the superior vena
+     cava.  Based on the markers on the guidewire it was determined that a length
+     of 44 cm would be suitable.  The PICC line was trimmed to length and advanced
+     over a 4 French introducer sheath.  The sheath was removed.  The catheter was
+     flushed.  A final chest x-ray was obtained.  The film demonstrates the tip to
+     be in the superior vena cava just above the atrium.  The line is ready for
+     use.  A STAT-lock was applied and the line was HEP-locked.
+     
+     IMPRESSION:  Successful placement of a 44 cm total length 4 French single
+     lumen PICC line with its tip in the superior vena cava, ready for use.
+
+",,
+13739,13814,17103,,2661-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-4-11**] 4:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 3226**]
+     Reason: either side for iv access                                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE\CATH
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 81**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 82**],[**First Name3 (LF) 83**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with acute renal failure and chf requiring dialysis           
+     REASON FOR THIS EXAMINATION:
+      either side for iv access                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  59 year old woman with pneumonia and UTI requiring IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Dr[**Last Name (STitle) **] [**Name (STitle) 2633**] and [**Doctor Last Name 85**].  Dr. [**First Name (STitle) 85**] the
+     attending radiologist was present and supervised the entire procedure.
+     
+     The left upper arm was prepped in a sterile fashion.  Since no suitable veins
+     were visible, ultrasound was used for localization of a suitable vein.  The
+     basilic vein was visible under sonographic evaluation, and was patent and
+     compressible.  After local anesthesia with 2 cc of 1% Lidocaine, the basilic
+     vein was entered under sonographic guidance with a 21 gauge needle.  A 0.028
+     guidewire was advanced under fluoroscopic guidance into the superior vena
+     cava.  Based on the markers on the guidewire it was determined that a length
+     of 44 cm would be suitable.  The PICC line was trimmed to length and advanced
+     over a 4 French introducer sheath.  The sheath was removed.  The catheter was
+     flushed.  A final chest x-ray was obtained.  The film demonstrates the tip to
+     be in the superior vena cava just above the atrium.  The line is ready for
+     use.  A STAT-lock was applied and the line was HEP-locked.
+     
+     IMPRESSION:  Successful placement of a 44 cm total length 4 French single
+     lumen PICC line with its tip in the superior vena cava, ready for use.
+
+",,
+13739,13814,17103,0,2661-04-11 05:21:00 EST,2661-04-11 06:27:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" I feel like such a bother""
+
+O: Please see careview for complete VS/additional objective data.
+
+Heme/ID: Low grade temp. Tmax 99.6 po. Around 1910 following completion of 2nd uprbcs received during HD for HCT of 25.2 pt experienced worstening urticaria. (No other s/s). HO notified. Administered Prednisone/ Benadryl and ordered for Sarna lotion. Filled out transfusion reaction forms per protocol and sent to BB for further evaluation. Urticaria improved by 2200. WBC 5.7. Pt remains on Levaquin po dose q 48hrs for tx of UTI/PNA(bacteria present in urine/ pleural effusions present on CXR).
+
+ MS: AAOx3. Pleasant and cooperative. MAE. C/O general achiness. Administered 325-650mg Tylenol po x2 w/ good effect. Medically managing Gout/ hypothyroid w/ Prednisone/Synthroid. Initially had difficulty sleeping but administered additional 25mg of Benadryl to facilitate [**Doctor Last Name 8**]. Resting w/ minimal interruption since 0200.  
+
+CV: VSS. HR 64-87. No VEA noted. NBP 82-138/30-51. (lower BP while asleep). Pt continues on regimen of Imdur/Coreg/ statin, on multiple meds at home. Groin site stable. Post transfusion HCT 31.1. K+ 5.0/ Mg 2.1/ Phos 5.1 this am following HD. Pt denies CP. Echo revealed depressed LV systolic fx and EF 35-40%. Recent cath revealed 3VD, patent LCX, worstening CHF w/ ^ filling pressures and NSTEMI. Nml CO/CI noted. CPk this am 153(182).
+
+Resp: LS clr in upper lung fields. Crackles auscultated 1/2 up. Resp status improved removed NRB and placed on 5L NC. RR 13-26. O2 sats 94-97%. Pt states breathing is much better. Denies SOB. CXR yesterday reveals improved RLL collapse/consolidation and improved bilateral pleural effusions L>R. Persistent LLL atelectasis/consolidation.
+
+GI/GU: Abd soft. +BS. No stool. Tolerating toast and po meds w/o difficulty. F/C to gravity. Draining cyu. 3 hrs following HD UO 275cc. UO tapering off and decreased greatly overnoc. Pt -80cc LOS. Despite HD Bun/Cr remain elevated 105/4.6.
+
+Endo: Pt remains on Insulin gtt. BS 155-107. Gtt decreased to 2.5U/hr at 0600. Anion gap 22. Long hx of IDDM. Started on Prednisone yesterday. Cont to monitor. 
+
+Skin: Intact. Urticaria improving overnoc following Benadryl doses and Sarna application.
+
+Access: Left femoral quinton cath. 2 PIVs. New #20G left hand PIV placed by IV team. Very difficult access.
+
+Social: Daughters into visit. Daughter [**Name (NI) 262**] updated of progress overnoc. Brother will be into visit later this morning. Family is very supportive.
+
+A/P: To CCU for HD and mgmt of CHF in setting of renal failure and low EF. COnt HD/ diuresis as tolerated. Cont to follow HCT, received 2 uprbcs yesterday. Posttransfusion HCT stable. ? transfusion reaction. BB currently investigating.  Guiac all stools. Continue on Insulin gtt. BS improving overnoc. Continue to wean as tolerated. Consider [**Last Name (un) 211**] consult for Type I mgmt. BUN/Cr/ K remain elevated. ? HD today. Cont to support pt and family as indicated. 
+",,
+13739,13814,17103,0,2661-04-11 16:55:00 EST,2661-04-11 17:11:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- ""I feel so much better today!""
+
+O- see flowsheet for all objective data.
+
+cv- Tele: SR with rare PVC noted- HR 62-82- B/P 110-131/33-55- no cardiac c/o- Hct 31.1 after 2u PRBC's- K 5- Mg 2.1- CPK trending down 153 MB 4
+
+resp- In O2 5L via NC- lung sounds with bibasilar crackles- resp even, non-labored- SpO2 94-97%.
+
+gi- abd soft (+) bowel sounds- taking PO well- no BM today- con't on insulin gtt - blood sugars 118-220- insulin gtt presently @ 5u/hr.
+
+gu- foley draining clear yellow colored urine qs- U/O 15-30cc/hr- total output since 7am 250cc- (+) 200cc since 12am- BUN 105 Crea 4.6
+ultrafiltration done yesterday via quinton cath L groin- dialysis planned for tomorrow.
+
+neuro- A&O X3- moving all extremities- pleasant & cooperative- follows command.
+
+A/P- S/P ultrafiltration for management of CHF- diuresing today- plan dialysis tomorrow- Presently, Pt @ IR for insertion of PICC line- monitor vs, lung sounds, I&O & labs- ? D/C insulin gtt- offer emotional support to Pt & family- keep them updated on plan of care.
+
+",,
+13739,13814,17103,0,2661-04-12 05:49:00 EST,2661-04-12 06:52:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" My head feels like I have been sleeping on a metal bar""
+
+O: Please see careview for complete VS/additional objective data.
+
+MS: AAOx3. Very pleasant and cooperative. MAE. Assisting w/ repositioning. Pt stating that she feels much better than the day before. Pt denied any pain or discomfort until 0300 when she c/o HA pain located in the back of her head. Pt administered 650mg Tylenol w/ improved effect. No further complaints. Pt given Ambien 5 mg w/ moderate effect. Pt easily aroused and returns to [**Doctor Last Name 8**] w/o difficulty [**Doctor Last Name 58**].
+
+CV: VSS. HR 62-85. No ectopy noted. NBP 82-132/29-51. MAPs>60 while awake, 52-58 while asleep. Right groin site CDI. Pt cont on regimen of Imdur 60 mg/ Coreg 25mg/ Statin/ ASA and Plavix. No changes in meds [**Doctor Last Name 58**]. Pt tolerated w/o difficulty. Hct this am 29.7. K+ remains elevated at 5.0. Pt denies CP. 
+
+Resp: LS cta upper lung fields. Faint bibasilar crackles auscultated in bases. RR 11-20. Pt denies SOB. Breathing is comfortable per pt. O2 sats 97-100% on 5L NC. O2 sat is 92% on RA. 
+
+GI/GU: [**Doctor First Name 196**]. Abd soft. + BS. No stool. Pt tolerating advancement in diet. No difficulty w/ po meds. F/C to gravity. UO 50-70cc/hr while MAPs were increased but tapering down to 20-30cc/hr w/ lower maps while asleep. Pt is even for past 24hrs/ LOS. BUN/CR 124/4.9 cont to gradually increase in setting of ATN secondary to contrast insult/ hypoperfusion despite ultrafiltration [**4-10**]. Plan on  HD today.
+
+Endo: BS 223 at 2000. Increased insulin gtt to 223. Able to wean insulin gtt to 2.0 this am w/ BS 114. Pt to start Regular insulin today since diet is advancing. Pt states she is on Humalog and Lantis at home and has better results. Consult [**Last Name (un) 211**] for input. Pt continues on Prednisone dose for mgmt of gout. To receive 3rd and final dose this am. Cont to follow.
+
+Skin: No further urticaria. Resolved w/ Benadryl and Sarna lotion.
+
+ID: Afebrile. Tmax 98.0 po. Pt continues on po Levofloxacin q 48. WBC 5.3.
+
+Social: No calls or visitors [**Name (NI) 58**].
+
+A/P: CHF exacerbation. Poor response to lg dose diuretics. Atn secondary to hypoperfusion and contrast dye insult from cath. Ultrafiltration completed on [**4-10**]. Pt to by dialysed today. HCT 29.7 this am. ?transfusion/ urticaria rx [**4-10**] while administered 2UPRBCs w/ ultrafiltration. ? tranfusion w/ HD. BUN/CR and electrolytes cont to increase. UO improving w/ ^ MAPs. Remains on insulin gtt. Plan to change over to regular insulin this am. Cont to support pt and family as indicated.
+",,
+13739,,,,2661-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-6-18**] 11:23 AM
+     FOOT AP,LAT & OBL RIGHT                                         Clip # [**Clip Number (Radiology) 3227**]
+     Reason: r/o charcot at lisfrancs joint
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with pain and swelling with hx of diabetes
+     REASON FOR THIS EXAMINATION:
+      r/o charcot at lisfrancs joint
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pain and swelling with history of diabetes.
+     
+     RIGHT FOOT, 3 VIEWS:  No prior studies available for comparison.
+     
+     There is diffuse demineralization.  Large erosions with overhanging edges are
+     identified within the distal first metatarsal, distal first proximal bone, and
+     navicular bones, findings consistent with gout.  There is relative
+     preservation of the joint spaces.  Marginal erosions are also identified at
+     the first IP joint.  No definite evidence of fracture, dislocation, or
+     destructive changes suggestive of Charcot deformity.  Soft tissue prominence
+     is seen over the dorsal aspect of the talar bones.  A small plantar and
+     posterior calcaneal spur is present.  Vascular calcifications are identified.
+     
+     IMPRESSION: Multiple erosions most consistent with gout.  Diffuse osteopenia.
+     No definite evidence of Charcot deformity.
+
+",,
+13739,,,,2661-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-26**] 4:55 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3228**]
+     Reason: r/o infiltrate                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with SOB                                                      
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     CHEST X-RAY, PA AND LATERAL:  The heart is mildly enlarged.  There is
+     perihilar haziness and prominence of the pulmonary vasculature consistent with
+     congestive heart failure.  Slight blunting of the posterior costophrenic angle
+     which is present consistent with small pleural effusions.
+     
+     IMPRESSION:
+     Findings consistent with mild congestive heart failure.
+
+",,
+13739,,,,2661-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 3229**]
+     Reason: CHEST PAIN.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Chest pain evaluation. 
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142  
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV. 
+      
+     INTERPRETATION:  
+     Image Protocol: Gated SPECT. 
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+     The study was interpreted using the 17-segment myocardial perfusion model. 
+      
+     There is left ventricular enlargement which is slightly more prominent during
+     stress. 
+     There is inferior and inferolateral moderate, reversible perfusion defect. 
+     There is adjacent subdiaphragmatic radiotracer uptake on the rest images,
+     however the reversible perfusion defect is felt to be real.   
+      
+     On gated SPECT images there is inferolateral mild hypokinesis.  Global left
+     ventricular function is reduced with LVEF calculated to be 43%. 
+      
+     IMPRESSION:  1) Inducible ischemia in the inferior and inferolateral walls. 2)
+     Mild inferolateral hypokinesis.  3) Left ventricular enlargement which is
+     slightly more prominent during stress imaging with a calculated LVEF = 43%. 
+     /nkg 
+                                                                           
+                                         Approved: MON [**2661-12-2**] 2:39 PM
+
+
+             Date Mailed: [**2661-12-3**]                     West [**Medical Record Number 3230**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13739,,,,2661-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-11-29**] 2:44 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 3231**]
+     Reason: r/o obstruction                                             
+     Admitting Diagnosis: RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY;CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with acute on chronic renal insuf                             
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Acute renal failure in a patient with chronic renal
+     insufficiency.
+     
+     Both kidneys are normal in size with the left kidney measuring 10.4 cm and the
+     right 12.0 cm in length.  There is no evidence of hydronephrosis, renal
+     stones, cysts, or masses.  Multiple hyperechoic foci in the central portion of
+     both kidneys are noted due to renal artery calcifications.  The renal cortex
+     appears well preserved but mildly increased in echogenicity, consistent with
+     the known chronic parenchymal renal disease.  The bladder is unremarkable. 
+     The findings are unchanged since prior scans from [**2659-1-28**].
+     
+     CONCLUSION:
+     
+     Normal sized kidneys with increased echogenicity consistent with chronic
+     parenchymal disease.  No evidence of obstruction.
+                                                                           
+
+",,
+13739,,,,2661-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-12-26**] 2:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3232**]
+     Reason: history of positional sob
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with SOB                                                     
+     REASON FOR THIS EXAMINATION:
+      history of positional sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  59 year old female with shortness of breath.
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     COMPARISON:  [**2661-12-26**].
+     
+     FINDINGS:  There is stable cardiomegaly.  There has been interval development
+     of upper zone redistribution of the pulmonary vasculature, but no frank edema
+     is identified.  There are no pleural effusions.
+     
+     IMPRESSION:  Findings consistent with early congestive heart failure, with
+     upper zone redistribution of the pulmonary vasculature.
+
+",,
+13739,,,,2661-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2661-12-27**] 1:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3233**]
+     Reason: R/O CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old woman with SOB                                                     
+     REASON FOR THIS EXAMINATION:
+      r/o chf                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     Comparison is made to the prior exam of [**2661-12-26**].
+     
+     FINDINGS:  There is no change from the previous exam of [**2661-12-26**].  Note is
+     again made of upper zone redistribution of the pulmonary vasculature without
+     frank pulmonary edema.  No pleural effusions are identified. There is no
+     pneumothorax.  There are no focal lung opacities seen.  The heart is mildly
+     enlarged, but stable in size.
+     
+     IMPRESSION:  Stable appearance of the chest from 1 day earlier, suggesting
+     early congestive failure without frank pulmonary edema.  No radiographic
+     evidence of pneumonia.
+     
+
+",,
+13739,,,,2661-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     RENAL SCAN                                                      Clip # [**Clip Number (Radiology) 3234**]
+     Reason: PT WITH DM ACUTE ON CHRONIC RENAL FAILUTE.  EVALUATE FOR RENAL FUNCTION.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Patient with diabetes mellitus and acute on chronic renal failure, 
+     evaluate for renal function. 
+      
+     INTERPRETATION:  Blood flow images show bilaterally decreased perfusion to the
+     kidneys without asymmetry. 
+      
+     Renogram images show decreased cortical transit bilaterally.   
+      
+     The split function is left kidney 48%, right kidney 52%.  
+      
+     IMPRESSION:  Bilateral, symmetric decreased renal function, as described above. 
+     /nkg
+                                                                           
+
+             [**Name6 (MD) 3235**] [**Last Name (NamePattern4) 3236**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1218**] [**Last Name (NamePattern1) 1219**], M.D.     Approved: TUE [**2661-12-31**] 11:34 AM
+
+
+             Date Mailed: [**2662-1-1**]                     West [**Medical Record Number 3230**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 132**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 133**].
+
+",,
+13739,,,,2662-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2662-3-2**] 8:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3237**]
+     Reason: wide mediastinum?                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with c/p hx of mi                                             
+     REASON FOR THIS EXAMINATION:
+      wide mediastinum?                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of MI with chest pain.  Question wide mediastinum.
+     
+     COMPARISON:  Report of chest x-ray from [**2661-12-27**], as the images are not
+     available.
+     
+     CHEST X-RAY, AP UPRIGHT PORTABLE:  Although the prior films are not presently
+     available, the mediastinum appears unremarkable.  The heart is somewhat
+     enlarged, but was probably better evaluated on the last PA and lateral film.
+     The pulmonary vascularity is unremarkable, and the lungs are clear, other than
+     some plate-like atelectasis in the left mid-lung zone or possibly scar.  There
+     are no pleural effusions or pneumothorax.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  No evidence of mediastinal widening or other acute
+     cardiopulmonary abnormality.
+     
+
+",,
+13739,,,,2662-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2662-3-4**] 10:33 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3238**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with cad, s/p MI. now febrile                                 
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     COMPARISON:  [**2662-3-2**].
+     
+     CLINICAL INDICATION:  Status post MI.  Febrile.
+     
+     The cardiac silhouette is enlarged, and there is marked upper zone vascular
+     redistribution as well as widening of the azygos vein contour.  There has been
+     development of numerous septal lines, as well as small bilateral pleural
+     effusions.  There are no confluent areas of consolidation within either lung.
+     
+     Skeletal structures reveal diffuse demineralization.
+     
+     IMPRESSION:
+     
+     Findings consistent with congestive heart failure with interstitial edema and
+     small pleural effusions.  No evidence of pneumonia, but followup radiographs
+     after diuresis may be helpful to exclude subtle underlying pneumonia.
+                                                                           
+
+",,

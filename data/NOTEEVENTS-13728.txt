@@ -1,0 +1,113 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13728,21384,,,3038-09-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3038-9-11**]     Discharge Date:  [**3038-9-17**]
+
+Date of Birth:   [**2970-4-1**]     Sex:  M
+
+Service:
+
+ADDENDUM:  The patient was discharged on a dose of 75 mcg of
+Synthroid, not 300 mcg of Synthroid.  Discharged to
+cardiopulmonary rehab on [**3038-9-17**].
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 162**]
+
+Dictated By:[**Last Name (NamePattern1) 9569**]
+
+MEDQUIST36
+
+D:  [**3038-9-17**]  14:00
+T:  [**3038-9-20**]  11:06
+JOB#:  [**Job Number 9570**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: TUE [**3038-11-6**] 2:04 PM
+(End of Report)
+
+
+",,
+13728,21384,,,3038-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-9-11**] 11:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3079**]
+     Reason: r/o chf vs pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with cad s/p mi's, here with episode of chest pain and
+      progressive sob this morning. Hypoxic, tachycardic.
+     REASON FOR THIS EXAMINATION:
+      r/o chf vs pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD/MI/chest pain/SOB/decreased oxygenation.
+     
+     FINDINGS:  Frontal lateral chest compared with [**3038-6-13**].  There is mild cardiac
+     enlargement.  The lung volumes are decreased since the prior examination.
+     There has been increase in bibasilar infiltrates, and right upper lobe
+     infiltrate.  There is attenuation of the pulmonary vasculature.  S/P CABG.  No
+     definite effusion is identified.
+     
+     IMPRESSION:  Multifocal infiltrates with cardiomegaly and emphysema.  This
+     appearance may represent failure distributed throughout architecturally
+     distorted lungs on the basis of emphysema.
+
+",,
+13728,21384,17091,0,3038-09-11 17:21:00 EST,3038-09-11 17:45:00 EST,-1,"N",69,"Nursing/Other","Nursing Admission/Progress Note.","
+Nursing Admission/Progress Note.
+This is a 68 yr old male admitted to [**Hospital1 10**] this am c SOB/Dyspnea and CP on the way to the hospital.  Pt c a signigicant PMH, including; CHF c an EF of 30-40% (July/2001), CAD s/p triple [**Hospital1 **]-pass CABG, mod MR, COPD, Head/Neck CA, ? Krohns Dz, Nephrolithiasis, s/p recent pneumococcal pneumonia in [**3038-6-3**] assoc c ICU admit.  Pt reports worsening resp fxn over past 2 weeks and woke up this am c acute SOB/dyspnea and was ""unable to breath"".  Pt exp CP in route to [**Hospital1 10**] and received a single SL Nitrotab in EW, no CP since arrival to [**Hospital1 10**]. CXR performed in EW c/w CHF which was c/w the resp exam finding of crackles in lower lung fields.  Pt has now received two doses of iv lasix and was also started on ceftriaxone 1 gm in EW. The pt is accompanied by two sons and his wife.  The pt is a full code. 
+RESP: Lung exam notable for diminished BS at apices and crackles at bases c distal bs throughout (pt is obese).  Pt reports mild breathing diff at this time as compared to this am.  Pt receiving 30% FiO2 via venti-mask.  Prod weak cough, sputum is described as brown-tinged in appearance by pt.
+CV: Sinus tachycardia noted.  Afebrile. Two PIV's in place.
+MS: Pt is AAO times three, following commands, appropriate and pleasant.  Pt taking fluids PO without dysphasia.  Pt to be weaned onto reg cardiac diet as tol. 
+GU: Pt c foley cath in place draining amber yellow urine.
+OTHER: Pt c poor baseline health and long PMH.  Hopefully this will be a short MICU admit c transfer to a gen med floor in the am.  Please see carevue for additional pt care data.
+
+",,
+13728,21384,17091,0,3038-09-11 21:56:00 EST,3038-09-11 22:03:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT ALERT AND ORIENTED X 3. TACHYPNEIC MOST OF NIGHT WITH O2 SAT'S 90-91% WITH 30%VENTI MASK ON. PT DESAT'S QUICKLY DOWN INTO THE LOW 80'S WHEN HE TAKES IT OFF. PT TACHYCARDIC WITH OCC PVC'S, BLOOD PRESSURE IN THE LOW 100'S. H.O. ORDERED 500CC BOLUS BECAUSE THEY FELT HE WAS DRY, AS HE HAD RECEIVED LASIX IN THE ER. 
+AFTER BOLUS PT CONT TO BE TACHYCARDIC AND TACHYPNEIC. CONT TO MAKE ADEQ AMTS OF CLEAR YELLOW URINE. 
+PT'S LUNG SOUNDS CLEAR WITH RALES AT THE BASES. PT HAS CONGESTED COUGH AND IS RAISING SPUTUM BUT SWALLOWS IT. 
+PT ATE LIGHT DINNER AND TOLERATED WELL. NO DIFF SWALLOWING. 
+LABS DRAWN AT 2000. TALKING WITH FAMILY MEMBERS ON THE PHONE.
+PT REQUESTED SLEEPING PILL, RECEIVED TRAZADONE.
+",,
+13728,21384,17091,,3038-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-9-12**] 5:04 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3080**]
+     Reason: e/f pneumonia vx evidence of CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with COPD, CAD, CHF p/w SOB, cough, fevers, dietary
+      indiscretion, some wt gain
+     REASON FOR THIS EXAMINATION:
+      e/f pneumonia vx evidence of CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Fever shortness of breath.
+     
+     Two views of the chest are compared to prior study from yesterday. There are
+     overlying sternal wires. There is borderline enlargement of the cardial
+     contours. There is tortuosity and calcification of the aorta. There is
+     decreasing opacity involving the right upper as well as the right lower lobe.
+     There is persistent retrocardiac density. There is no pneumothorax or pleural
+     effusion. The osseous structures are unremarkable.
+     
+     IMPRESSION: Slight change but persistent opacity involving the right lower
+     lobe, right upper lobe as well as the retrocardiac region.  This may represent
+     decreasing pulmonary congestion, that has improved. Although, infection is
+     still possible.
+
+",,
+13728,21384,17091,0,3038-09-12 05:10:00 EST,3038-09-12 05:17:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE:
+
+PT. RESTED WELL OVERNIGHT.  A & OX3, NO C/O.  CONTINUES TO NEED 10L VM TO MAINTAIN O2 SAT'S >90%.  BILAT LUNGS DIMINISHED, WITH FEW CRACKLES AT THE BASES. HEMODYNAMICALLY STABLE OVERNIGHT. URINE OUTPUT HAS DROPPED DURING THE NIGHT, @30CC/HR.  HOWEVER, PT IS NOT RECEIVING MAINTAINANCE FLUIDS AT THIS TIME, TAKING PO DIET.  NO OTHER UPDATES AT THIS TIME.
+",,

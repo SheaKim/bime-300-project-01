@@ -1,0 +1,225 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13768,,,,3372-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3372-9-18**] 2:42 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 3507**]
+     Reason: Please eval for carotid stenosis (especially R carotid steno
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with numbness and tingling of LUE concerning for TIA.
+     REASON FOR THIS EXAMINATION:
+      Please eval for carotid stenosis (especially R carotid stenosis)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON: TIA.
+     
+     FINDINGS: Duplex evaluation was performed of both carotid arteries. Minimal
+     plaque was identified.
+     
+     On the right peak systolic velocities are 72, 73, 136 in the ICA, CCA, ECA
+     respectively. The ICA:CCA ratio is 0.98. This is consisent with a less than
+     40% stenosis.
+     
+     On the left peak systolic velocities are 97, 78, 91 in the ICA, CCA, ECA
+     respectively. The ICA:CCA ratio is 1.2. This is consistent with a less than
+     40% stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION: Minimal plaque with bilateral less than 40% carotid stenosis.
+
+",,
+13768,,,,3372-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3372-9-23**] 9:33 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 3508**]
+     Reason: KIDNEY STONE SEEN ON PREVIOUS CT 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with KIDNEY STONE
+     REASON FOR THIS EXAMINATION:
+      KIDNEY STONE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known renal stones, status post lithotripsy.
+     
+     The right kidney measures 11.9 cm, without stones, masses or hydronephrosis.
+     The left kidney measures 11.0 cm, without masses or hydronephrosis, and three
+     stones are seen within the left kidney.  In the mid-to-lower pole, there is a
+     5-6 mm echogenic focus with shadowing, and in the lowr pole there are two 3-mm
+     echogenic foci with shadowing.  As the patient recently voided, the bladder is
+     collapsed, and no stones are visible.
+     
+     IMPRESSION:  Three small, subcentimeter echogenic foci within the left kidney.
+      No hydronephrosis.
+
+",,
+13768,5273,,,3372-09-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3372-9-26**]     Discharge Date:  [**3372-10-2**]
+
+Date of Birth:   [**3311-10-24**]     Sex:  F
+
+Service:
+
+DISCHARGE DIAGNOSIS:
+Left pyelonephritis.
+
+HISTORY OF PRESENT ILLNESS:  This is a 60-year-old female who
+was admitted for discomfort in the area of the left flank.
+She has a recognized history of stones and a mild
+ureteropelvic junction obstruction.  She had a CT scan that
+showed an 8 mm left-sided proximal ureteral stone with new
+mild left-sided hydronephrosis, evidence of fatty liver, and
+diverticulosis.  She was admitted to the medical service for
+observation.
+
+HOSPITAL COURSE:  Her urine grew out Staphylococcus coagulase
+negative and Enterococcus.  Her blood culture showed no
+fungus or bacteria.
+
+She was seen by infectious disease and placed on appropriate
+antibiotics.  A stent was placed for decompression and
+drainage and once stable, she was then discharged.
+
+FOLLOW-UP PLANS:  She will have follow up to have her stone
+disintegrated.
+
+
+
+
+
+                          [**First Name8 (NamePattern2) 568**] [**Last Name (NamePattern1) 6782**], M.D.  [**MD Number 6783**]
+
+Dictated By:[**Last Name (NamePattern1) 6784**]
+
+MEDQUIST36
+
+D:  [**3372-10-14**]  12:13
+T:  [**3372-10-15**]  11:23
+JOB#:  [**Job Number 9636**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 568**] [**Last Name (NamePattern1) 6782**]
+ on: [**Doctor First Name 123**] [**3372-10-15**] 2:08 PM
+(End of Report)
+
+
+",,
+13768,5273,,,3372-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13768,5273,,,3372-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3372-9-26**] 7:28 PM
+     CTU (ABD/PEL) W/O CONTRAST                                      Clip # [**Clip Number (Radiology) 3509**]
+     Reason: evaluate for pyelonephritis, hydronephrosis, renal stones   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with elevated creatinine, fever, severe back pain             
+     REASON FOR THIS EXAMINATION:
+      evaluate for pyelonephritis, hydronephrosis, renal stones                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      elevated creatinine
+     ______________________________________________________________________________
+     WET READ: JLLW SAT [**3372-9-26**] 7:43 PM
+      7MM L PROXIMAL URETERAL STONE, MILD HYDRO ON L W/ MILD PERINEPHRIC STRANDING..
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Back pain. Evaluate for pyelonephritis, hydronephrosis, renal
+     stones.
+     
+     CT ABDOMEN AND PELVIS performed without iv contrast.  Patient declined Iv
+     contrast, relating to elevated creatinine.
+     
+     COMPARISON:  [**3372-7-10**].
+     
+     CT ABDOMEN W/O CONTRAST:  There are coronary artery calcifications. The
+     remainder of the heart and pericardium are unremarkable.  There is a region of
+     discoid atelectasis at the left lung base.  The gallbladder, spleen, adrenal
+     glands, pancreas, and abdominal bowel are unremarkable. The liver is fatty in
+     attenuation.
+     
+     There is mild perinephric stranding around both kidneys, possibly slightly
+     worse than on the prior study.  Three left-sided renal stones are seen,
+     measuring up to 7 x 9 mm in size.  These have different morphology and size
+     than on prior study.  Additionally, within the left proximal ureter, there is
+     a 7 x 8 mm renal stone which is at least partially obstructing. There is mild
+     left-sided hydronephrosis. There are also at least two punctate hypodense
+     lesions within the right kidney which could represent tiny stones as well.
+     There is no pelvic lymphadenopathy or free fluid.
+     
+     CT PELVIS W/O CONTRAST:  There are no stones seen within the bladder or pelvic
+     ureter.  The uterus is unremarkable and there is mild diverticulosis without
+     evidence of diverticulitis.  There is no pelvic lymphadenopathy or free fluid.
+     
+     Examination of osseous structures show marked vascular calcifications.  There
+     are no suspicious osseous lesions.
+     
+     IMPRESSION:
+     1) 8 mm left-sided proximal ureteral stone with new mild left-sided
+     hydronephrosis and smaller left-sided renal stones.
+     
+     2)  Marked vascular calcifications including the coronary arteries.
+     
+     3)  Fatty liver and diverticulosis.
+     
+                                                                 (Over)
+
+     DATE: [**3372-9-26**] 7:28 PM
+     CTU (ABD/PEL) W/O CONTRAST                                      Clip # [**Clip Number (Radiology) 3509**]
+     Reason: evaluate for pyelonephritis, hydronephrosis, renal stones   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13768,5273,,,3372-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3372-9-27**] 12:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3510**]
+     Reason: eval for PNA, effusion, CHF                                 
+     Admitting Diagnosis: PYELONEPHRITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old woman with DM and flank pain, with fevers, mild hypoxia, rales on 
+      L; hx of CHF with volume in past.
+     REASON FOR THIS EXAMINATION:
+      eval for PNA, effusion, CHF                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW CHEST:
+     
+     INDICATION:  Flank pain, fever and hypoxia with left-sided rales.
+     
+     COMPARISON:  [**3372-8-9**].
+     
+     FINDINGS:  The heart size and mediastinal contours are stable.  There is no
+     pulmonary vascular congestion.  There is an infiltrate at the left lung base
+     with probable associated effusion, increased since the previous exam.  The
+     right lung remains clear, without effusion.  There is no pneumothorax.
+     
+     IMPRESSION:  Left lower lobe pneumonia.
+
+",,
+13768,,,,3372-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3372-10-12**] 4:01 PM
+     MAMMOGRAM (SCREENING)                                           Clip # [**Clip Number (Radiology) 3511**]
+     Reason: ANNUAL SCREENING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Screening.
+     
+     SCREENING MAMMOGRAM:  The breasts contain fatty parenchyma.  There is no
+     change from [**3367-7-9**]. No dominant mass, architectural distortion, or
+     suspicious microcalcification cluster is noted.
+     
+     IMPRESSION:  Stable without evidence of malignancy.  BIRADS 1 - negative.
+
+",,

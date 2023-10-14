@@ -1,0 +1,2578 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2731-4-16**]              Discharge Date:   [**2731-5-2**]
+ 
+Date of Birth:  [**2645-5-4**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydrochlorothiazide / Ace Inhibitors
+ 
+Attending:[**First Name3 (LF) 1083**] 
+Chief Complaint:
+left sided shaking, left gaze preference
+ 
+Major Surgical or Invasive Procedure:
+tracheal intubation and mechanical ventilation
+arterial line placement
+central venous line placement
+lumbar puncture
+ 
+History of Present Illness:
+85yo woman with PMH significant for atrial fibrillation on 
+coumadin, h/o stroke in 11/05 with residual left sided weakness 
+and dysarthria, hyperlipidemia presented with left sided 
+shaking. She was was last seen well at 8pm the evening of 
+admission and was then found on the floor of the bathroom around 
+midnight. Her daughter heard her call out that she couldn't get 
+up; she was lodged between the toilet and the wall. She was 
+unable to stand without assistance; she did not answer queries 
+to where she was. She was ""looking off to her left"" according to 
+her daughter and was not saying much. She then started shaking 
+on her left side (beginning with curling of her left side). The 
+daughter's vantage point was behind the patient and she is 
+unsure of which side was shaking or if both were. 
+
+Per history, EMS found her awake but with R-sided weakness and 
+""+GTC seizure activity (eyes deviated towards the right) lasting 
+<1minute at a time"". She received two rounds of ativan 3mg and 
+another two doses of valium 5mg and was intubated at the scene 
+by EMS for airway protection.
+
+She presented to [**Hospital1 19**] and a code stroke was called.
+
+Review of systems per her daughter: +malaise, for which she 
+presented to her PCP one week prior. No neck pain, headache, 
+cough, fever, chest pain, nausea, vomiting, diarrhea.
+ 
+Past Medical History:
+Stroke, as above; required her to walk with a walker
+Recent urinary tract infection, treated with ciprofloxacin from 
+[**Date range (1) 9048**]
+Hypertension
+Hyperlipidemia
+ 
+Social History:
+Quit smoking 10yrs ago. No etoh since January per her daughter; 
+previous etoh abuse. No other drug use. Lives with her daughter. 
+In January, was falling and drinking heavily.
+ 
+Family History:
+Mother with HTN, stroke 
+ 
+Physical Exam:
+VS 98.7/98.7 77-97 afib 96-164/37-87 15-17 80/900
+Genl: Lying in bed in NAD
+Neck: supple
+CV: irreg no bruits 
+Pulm: ctab
+Abd: soft benign
+Ext: no edema
+
+NEURO
+MS: Intubated, examined off sedation x 10min. Moving right side 
+spontaneously more than the left. Not following commands or 
+opening her eyes. 
+
+CN:
+CN I: not tested
+CN II: Pupils 4->2 b/l. 
+CN III, IV, VI: EOMI no nystagmus 
+CN V: +corneal reflexes b/l
+CN VII: full facial symmetry 
+
+Motor: Tone increased in legs, R>L. Moving all limbs 
+spontaneously and antigravity. 
+
+Sensory: withdraws to pain in all limbs.
+
+Reflexes: brisker on the right, toes up b/l
+
+Coordination and gait were not able to be assessed. 
+ 
+Pertinent Results:
+Labs:
+.
+On admission [**2731-4-16**] 12:30AM: 
+WBC-13.1* RBC-3.38* Hgb-10.9* Hct-32.2* MCV-95 MCH-32.1* 
+MCHC-33.7 RDW-14.5 Plt Ct-366
+Neuts-92.1* Bands-0 Lymphs-3.6* Monos-3.8 Eos-0.4 Baso-0.1
+PT-21.4* PTT-35.5* INR(PT)-2.1*
+Glucose-213* UreaN-13 Creat-1.1 Na-138 K-4.1 Cl-100 HCO3-19* 
+AnGap-23*
+ALT-19 AST-29 LD(LDH)-374* CK(CPK)-98 AlkPhos-124* Amylase-79 
+TotBili-0.6
+Calcium-8.1* Phos-3.9 Mg-1.3*
+Albumin-3.7
+ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG 
+Tricycl-NEG
+Cardiac enzymes negative x 2
+.
+URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.012 Blood-TR 
+Nitrite-NEG Protein-NEG Glucose-TR Ketone-NEG Bilirub-NEG 
+Urobiln-NEG pH-6.5 Leuks-NEG RBC-[**2-16**]* WBC-0-2 Bacteri-OCC 
+Yeast-NONE Epi-0
+.
+Other pertinent labs:
+Free T4-0.83*  TSH-0.45
+[**2731-4-27**] Ammonia-40
+.
+.
+Studies:
+.
+CXR ([**4-16**]): Mild hydrostatic edema presumably cardiogenic in 
+etiology. 
+Retrocardiac opacity likely reflects atelectasis, although an 
+underlying 
+infection cannot be entirely excluded.  
+.
+Head CT ([**4-16**]): No CT evidence of acute cortical stroke.  Chronic 
+ischemic 
+changes and age-appropriate atrophy as above 
+.
+CTA/CTP ([**4-16**]):  
+1. Small, 3 mm focal dilatation at the origin of the posterior 
+communicating artery and the internal carotid artery on the left 
+could represent an aneurysm.  
+2. 50% stenoses of the left common carotid artery at the level 
+of the bulb and the origin of the left internal carotid artery, 
+respectively.  
+3. 60% stenosis of the right internal carotid artery in the 
+neck.  
+4. Diffuse. vascular atherosclerotic, calcific disease.  
+.
+MRI/A ([**4-16**]):
+1. No evidence of acute infarction by diffusion-weighted 
+imaging.  
+2. Subacute versus chronic, likely chronic right posterior 
+cerebral artery territory infarct in the occipital lobe.  
+3. Evidence of small vessel ischemia.  
+4. Three-mm aneurysm extending posteriorly of the left 
+supraclinoid portion of the internal carotid artery.  
+.
+Head CT ([**4-20**]): Stable appearance of the brain.
+.
+CT c-spine ([**4-16**]): Severe degenerative changes throughout the 
+cervical spine somewhat limiting assessment. Possible fractures 
+identified at the left anterior arch of C1, as well as within 
+the dens.  MRI is recommended for further evaluation. 
+.
+MR [**Name13 (STitle) **] ([**4-18**]): 1.  The changes seen on CT at C1-2 level 
+appear to be due to advanced degenerative change with thickening 
+of the transverse ligament and degenerative pannus formation.  
+No evidence of fracture of the odontoid process or lateral 
+masses of C1 or C2 identified. 2.  Changes of cervical 
+spondylosis predominantly from C3-4 to C6-7. 3.  No evidence of 
+intrinsic spinal cord signal abnormalities or extrinsic 
+spinal cord compression. 4.  No evidence of ligamentous 
+disruption. 
+.
+Abd u/s ([**4-27**]): 1.  Distended gallbladder with asymmetric edema 
+within the gallbladder wall, indeterminate for the presence or 
+absence of acute cholecystitis.  Recommend further 
+characterization with a HIDA scan. 2.  Prominent CBD, measuring 
+0.96 cm in size.  The distal CBD and head of the pancreas are 
+not well seen- recommend further visualization with contrast 
+enhanced CT of the Abdomen. 3. Pedunculated cystic lesion 
+projecting between the lateral left lobe of the liver and the 
+pancreas. The origin of this cystic lesion is incompletely 
+resolved with the current study and further characterization 
+with a CT scan is recommended. 
+.
+RUQ US [**4-29**]:
+1. Limited evaluation of the liver, without focal mass lesions. 
+Normal hepatic vasculature.
+2. Minimal gallbladder wall edema and sludge are identified. The 
+edema would be consistent with third spacing of fluid related to 
+the patient's underlying hepatic disease.
+.
+ECHO: The left atrium is mildly dilated. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size and 
+systolic function (LVEF>55%). Regional left ventricular wall 
+motion is normal. [Intrinsic left ventricular systolic function 
+is likely more depressed given the severity of valvular 
+regurgitation.] Right ventricular chamber size and free wall 
+motion are normal. The ascending aorta is mildly dilated. The 
+mitral valve leaflets are mildly thickened. Moderate (2+) mitral 
+regurgitation is seen. The tricuspid regurgitation jet is 
+eccentric and may be underestimated. There is borderline 
+pulmonary artery systolic hypertension.  
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Moderate mitral regurgitation with mildly thickened leaflets and 
+supporting structures. 
+.
+EEG ([**4-16**]): Markedly abnormal portable EEG due to the very low 
+voltage 
+slow background and with bursts of generalized slowing. There 
+were some 
+periods with a markedly suppressed background. These findings 
+indicate 
+a widespread encephalopathy. 
+.
+EEG ([**4-20**]): : This 24-hour EEG telemetry captured no 
+electrographic 
+seizures. No interictal epileptiform discharges were seen. The 
+background was slow and disorganized throughout much of the 
+recording 
+indicating a mild to moderate encephalopathy. 
+ 
+Brief Hospital Course:
+Mrs. [**Known patient lastname 1772**] was admitted to the neurology ICU after being 
+intubated for airway protection after receiving several rounds 
+of ativan for seizure activity. Hospital course was complicated 
+and is reviewed below by problem.
+
+1. seizure: The episode prior to presentation was concerning for 
+a seizure. She had no prior seizure history, but she had had a 
+stroke, which could act as seizure focus. For further 
+evaluation, she underwent CTA, MRA, and EEG. The CTA and MRI 
+were negative for infarction or stenosis, but showed a 3mm 
+aneurysm extending posteriorly of the left supraclinoid portion 
+of the internal carotid artery, which will need to be followed 
+as an outpatient. EEG initially showed very low voltage slow 
+background and with bursts of generalized slowing, consistent 
+with encephalopathy. Repeat showed some improvement but 
+persistent findings of a mild to moderate encephalopathy. It was 
+thought that she had a symptomatic seizure secondary to 
+infection. She was not put on any antiepileptic medications and 
+had no further evidence of seizures. 
+
+2. encephalopathy: This was initially thought to be secondary to 
+infection. Tox screen was negative. She was treated for presumed 
+PNA for 7 days and seemed to improve, but then her mental status 
+began to decline after extubation ([**4-23**], [**4-24**]) with worsening 
+over the next several days. Lumbar puncture had initially been 
+considered, but given her improvement it was thought to be low 
+yield. With decreased responsiveness, the lumbar puncture was 
+again considered. However, she initially had some respiratory 
+difficulties making a lumbar puncture high risk (she would have 
+needed ativan for agitation, with concern for reintubation), and 
+then she had an elevated INR which did not come down to 1.5 even 
+after several units of FFP. She was considered to have a low 
+suspicion for meningitis, but was started on ceftriaxone, 
+vancomycin, and ampicillin on [**4-27**] for empiric coverage, as the 
+lumbar puncture could not be performed.  On transfer to the 
+Medical ICU, lumbar puncture was attempted, but was unsucessful.
+
+3. respiratory distress: Mrs. [**Known patient lastname 1772**] required intubation twice 
+for respiratory failure and once for concerns of decreased 
+responsiveness with an episode of apnea. On [**4-24**] the pulmonary 
+service was consulted as the patient was wheezing and was noted 
+to have increased work of breathing (using accessory muscles, 
+tachypneic). A transthoracic echocardiogram was performed (see 
+above). She was started on budesonide and diuresed with 
+improvement of the wheezing.
+
+4. atrial fibrillation: Anticoagulation was established with 
+heparin gtt whenever coumadin needed to be stopped for 
+procedures. She was treated with beta-blockers or IVF as needed 
+for tachycardia.
+
+5. acute renal failure: Her creatinine acutely rose on [**4-23**]. 
+FeNa was low, and she was thought to be total body overloaded 
+but intravascularly dry. She was given albumin and lasix with 
+stabilization of the Cr.
+
+6. fever: She was initially treated with ceftriaxone and 
+vancomycin for 7 days, but all cultures were negative and the 
+antibiotics were discontinued. They were restarted, with 
+ampicillin, at meningitic doses on [**4-27**] after the patient 
+decompensated with a temperature of 104.  Upon transfer to the 
+medical ICU, broad antibiotic coverage with vancomycin, 
+ceftriaxone, and zosyn were started.
+  
+7. transaminitis: She was noted to have an acute rise in ALT and 
+AST on [**4-27**]. RUQ u/s showed gall bladder wall edema without 
+stones or sludge.  Due to concern for cholangitis, she was 
+transferred to the Medical ICU team.  Hepatology and General 
+Surgery consulted and recommended repeat US.  A second US was 
+obtained and showed minimal gall bladder wall edema with minimal 
+sludge.  ERCP was recommended when she was more clinically 
+stable.  
+
+8. anemia: She had a slow Hct drop and was given a unit of 
+PRBCs. Rectal guaiac was negative and her Hct stabilized. 
+
+9. hypotension: upon transfer to the Medical ICU she was noted 
+to have fevers and hypotension.  Upon discussion with her 
+family, they brought in evidence of a living will, which 
+outlined her preference for no resuscitation.  Her blood 
+pressure was supported with IV fluid boluses, per her family's 
+request to not use vasopressors.  The subsequent day, she showed 
+evidence of worsened liver and renal function, periods of apnea 
+on the ventilator, and continued cardiovascular compromise.  A 
+family meeting was held with her son, [**Male First Name (un) **] (Health Care Proxy), 
+and daughter, [**Doctor First Name **].  The decision was made to change the 
+goals of care to comfort only, according to the patient's 
+predetermined wishes.  She was extubated and started on a 
+morphine drip, titrated to comfort. The patient passed away 
+comfortably and was pronounced dead at 8:15pm on [**2731-5-2**].
+
+Commun: HCP son [**First Name8 (NamePattern2) **] [**Known patient lastname 1772**] [**Telephone/Fax (1) 9049**](H), [**Telephone/Fax (1) 9050**](C)
+ 
+Medications on Admission:
+diovan 80
+zocor 40
+coumadin 5 qod
+atenolol 50
+protonix 40
+prozac 20
+thiamine
+folate
+cipro [**Date range (1) 9048**]
+ 
+Discharge Medications:
+Expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Pneumonia, TIA
+
+ 
+Discharge Condition:
+Expired
+
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+Expired
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1090**] MD [**MD Number 1091**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 951**] MD [**MD Number 952**] [**2731-5-2**] @ 2032
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 123**] [**2731-7-23**] 3:01 PM
+(End of Report)
+
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 12:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15439**]
+     Reason: ett placement                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with intubation, ? stroke                                     
+     REASON FOR THIS EXAMINATION:
+      ett placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2731-4-16**] AT 00:28 HOURS.
+     
+     HISTORY:  Status post endotracheal tube placement.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  Consistent with the given history, an endotracheal tube is in place
+     with the distal tip approximately 1.8 cm from the carina.  Lungs are mildly
+     underexpanded.  There is pulmonary vascular indistinctness and engorgement of
+     the vascular pedicle.  There is subtle increased retrocardiac opacity, which
+     is likely due to atelectasis, although a developing consolidation cannot be
+     excluded.  Blunting of the left costophrenic angle highly suggests a small
+     pleural effusion.  No pneumothorax is seen.
+     
+     IMPRESSION:  Mild hydrostatic edema presumably cardiogenic in etiology.
+     Retrocardiac opacity likely reflects atelectasis, although an underlying
+     infection cannot be entirely excluded.  Repeat radiography following
+     appropriate diuresis recommended to assess for underlying infection.
+     Endotracheal tube placement as above. For optimal placement, consider
+     retracting 1 cm.
+     
+     
+     
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 8:03 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15442**]
+     Reason: MRI brain stroke protocol                                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with right sided weakness presented as CODE 
+      STROKE.
+     REASON FOR THIS EXAMINATION:
+      MRI brain stroke protocol                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  MRI and MRA of the brain.
+     
+     INDICATION:  85-year-old female found down with right-sided weakness,
+     presenting as ""CODE stroke."" 
+     
+     COMPARISONS:  CT head from [**2731-4-16**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted imaging was performed including
+     gradient echo imaging, FLAIR imaging, diffusion-weighted imaging and ADC
+     mapping.  Time-of-flight imaging of the head was also performed.  Volume
+     rendered images were obtained.
+     
+     MRI BRAIN:  Diffusion-weighted imaging reveals no abnormal areas of signal
+     that would be consistent with acute infarction.  FLAIR imaging demonstrates
+     extensive hyperintense signal within the periventricular white matter and
+     subcortical areas bilaterally indicative of underlying small vessel ischemia.
+     Furthermore, within the area of the right occipital lobe, there is a small
+     area of hyperintensity which likely represents a subacute or chronic posterior
+     cerebral infarction.  There is also evidence of an old infarction within the
+     left cerebellum and right thalamus.  The signal intensity values of the brain
+     are preserved.  There is no shift of normally midline structures or
+     hydrocephalus.
+     
+     There is mild opacification of the mastoid sinuses bilaterally as well as
+     fluid-density secretions within the nasopharynx.  Otherwise, the visualized
+     osseous structures, soft tissues, paranasal sinuses are unremarkable.  
+     
+     MRA OF THE BRAIN:  The evaluated portion of the left vertebral artery is noted
+     to be irregular in contour and narrowed in caliber.  Arising from the
+     supraclinoid portion of the left internal carotid artery is question  a small
+     focal aneurysm measuring 3 mm that extends posteriorly.  The middle cerebral
+     arteries, anterior cerebral arteries, posterior cerebral arteries, the
+     basilar, and the right vertebral artery are otherwise normal in appearance and
+     contour with exception of an irregular right cavernous portion of the internal
+     carotid artery.
+     
+     IMPRESSION:
+     
+     1.  No evidence of acute infarction by diffusion-weighted imaging.
+     
+     2.  Chronic right posterior cerebral artery territory infarct in the occipital
+                                                                 (Over)
+
+     DATE: [**2731-4-16**] 8:03 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15442**]
+     Reason: MRI brain stroke protocol                                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lobe.  
+     
+     3.  Evidence of small vessel ischemia.
+     
+     4.  Question 3-mm aneurysm extending posteriorly from the left supraclinoid
+     portion of the internal carotid artery.
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 8:03 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15442**]
+     Reason: MRI brain stroke protocol                                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with right sided weakness presented as CODE 
+      STROKE.
+     REASON FOR THIS EXAMINATION:
+      MRI brain stroke protocol                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  MRI and MRA of the brain.
+     
+     INDICATION:  85-year-old female found down with right-sided weakness,
+     presenting as ""CODE stroke."" 
+     
+     COMPARISONS:  CT head from [**2731-4-16**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted imaging was performed including
+     gradient echo imaging, FLAIR imaging, diffusion-weighted imaging and ADC
+     mapping.  Time-of-flight imaging of the head was also performed.  Volume
+     rendered images were obtained.
+     
+     MRI BRAIN:  Diffusion-weighted imaging reveals no abnormal areas of signal
+     that would be consistent with acute infarction.  FLAIR imaging demonstrates
+     extensive hyperintense signal within the periventricular white matter and
+     subcortical areas bilaterally indicative of underlying small vessel ischemia.
+     Furthermore, within the area of the right occipital lobe, there is a small
+     area of hyperintensity which likely represents a subacute or chronic posterior
+     cerebral infarction.  There is also evidence of an old infarction within the
+     left cerebellum and right thalamus.  The signal intensity values of the brain
+     are preserved.  There is no shift of normally midline structures or
+     hydrocephalus.
+     
+     There is mild opacification of the mastoid sinuses bilaterally as well as
+     fluid-density secretions within the nasopharynx.  Otherwise, the visualized
+     osseous structures, soft tissues, paranasal sinuses are unremarkable.  
+     
+     MRA OF THE BRAIN:  The evaluated portion of the left vertebral artery is noted
+     to be irregular in contour and narrowed in caliber.  Arising from the
+     supraclinoid portion of the left internal carotid artery is question  a small
+     focal aneurysm measuring 3 mm that extends posteriorly.  The middle cerebral
+     arteries, anterior cerebral arteries, posterior cerebral arteries, the
+     basilar, and the right vertebral artery are otherwise normal in appearance and
+     contour with exception of an irregular right cavernous portion of the internal
+     carotid artery.
+     
+     IMPRESSION:
+     
+     1.  No evidence of acute infarction by diffusion-weighted imaging.
+     
+     2.  Chronic right posterior cerebral artery territory infarct in the occipital
+                                                                 (Over)
+
+     DATE: [**2731-4-16**] 8:03 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15442**]
+     Reason: MRI brain stroke protocol                                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lobe.  
+     
+     3.  Evidence of small vessel ischemia.
+     
+     4.  Question 3-mm aneurysm extending posteriorly from the left supraclinoid
+     portion of the internal carotid artery.
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 1:30 AM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 15441**]
+     CT BRAIN PERFUSION
+     Reason: AFIB ON AC FOUND DOWN, RT SIDED WEAKNESS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman afib on AC found down with right sided weakness, seizures and 
+      intubated in field.  CODE STROKE called.
+     REASON FOR THIS EXAMINATION:
+      Plse perform CTA head.  PLEASE PERFORM CT PERFUSION STUDIE.                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CTA OF THE HEAD.
+     
+     INDICATION:  85-year-old female with atrial fibrillation, found down with
+     right-sided weakness.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Non-contrast MDCT axial images of the head were first acquired.
+     Following administration of 130 cc of intravenous Optiray contrast, MDCT axial
+     images were acquired from the aortic arch to the cranial vertex.  Multiplanar
+     and volume rendered reformatted images were then obtained.
+     
+     FINDINGS:  There is diffuse atherosclerotic calcific disease of the aortic
+     arch.  There is moderate calcified plaque at the carotid bulb that is
+     bilateral.  On the left, there is a 50% stenosis of the common carotid artery
+     at the bulb level. There is a calcified plaque with 50% stenosis of the left
+     internal carotid artery. On the right, there is a calcified plaque with 60%
+     stenosis of the internal carotid artery. There is diffuse atherosclerotic
+     disease of the petrous and cavernous portions of the internal carotid arteries
+     bilaterally. A small outpouching of the wall of the supraclinoid portion of
+     the internal carotid artery that points posteriorly and measures approximately
+     3 mm could represent a small aneurysm. Otherwise, the middle cerebral arteries
+     appear within normal limits. The anterior and posterior cerebral arteries also
+     appear within normal limits. The left vertebral artery is hypoplastic and
+     there are some foci of atherosclerotic calcific disease.There is marked
+     tortuosity and looping of the mid cervical course of the left vertebral
+     artery. The right vertebral artery is normal in caliber and contour. The
+     basilar appears within normal limits without evidence of significant
+     atherosclerotic disease. There are no other focal aneurysmal dilatations or
+     areas of stenosis.
+     
+     IMPRESSION:
+     
+     1.  Small, 3 mm focal dilatation at the origin of the posterior communicating
+     artery and the internal carotid artery on the left could represent an
+     aneurysm.
+     
+     2.  50% stenoses of the left common carotid artery at the level of the bulb
+     and the origina of the left internal carotid artery, respectively.
+                                                                 (Over)
+
+     DATE: [**2731-4-16**] 1:30 AM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 15441**]
+     CT BRAIN PERFUSION
+     Reason: AFIB ON AC FOUND DOWN, RT SIDED WEAKNESS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  60% stenosis of the right internal carotid artery in the neck.
+     
+     4.  Diffuse. vascular atherosclerotic, calcific disease.
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 1:30 AM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 15441**]
+     CT BRAIN PERFUSION
+     Reason: AFIB ON AC FOUND DOWN, RT SIDED WEAKNESS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman afib on AC found down with right sided weakness, seizures and 
+      intubated in field.  CODE STROKE called.
+     REASON FOR THIS EXAMINATION:
+      Plse perform CTA head.  PLEASE PERFORM CT PERFUSION STUDIE.                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CTA OF THE HEAD.
+     
+     INDICATION:  85-year-old female with atrial fibrillation, found down with
+     right-sided weakness.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Non-contrast MDCT axial images of the head were first acquired.
+     Following administration of 130 cc of intravenous Optiray contrast, MDCT axial
+     images were acquired from the aortic arch to the cranial vertex.  Multiplanar
+     and volume rendered reformatted images were then obtained.
+     
+     FINDINGS:  There is diffuse atherosclerotic calcific disease of the aortic
+     arch.  There is moderate calcified plaque at the carotid bulb that is
+     bilateral.  On the left, there is a 50% stenosis of the common carotid artery
+     at the bulb level. There is a calcified plaque with 50% stenosis of the left
+     internal carotid artery. On the right, there is a calcified plaque with 60%
+     stenosis of the internal carotid artery. There is diffuse atherosclerotic
+     disease of the petrous and cavernous portions of the internal carotid arteries
+     bilaterally. A small outpouching of the wall of the supraclinoid portion of
+     the internal carotid artery that points posteriorly and measures approximately
+     3 mm could represent a small aneurysm. Otherwise, the middle cerebral arteries
+     appear within normal limits. The anterior and posterior cerebral arteries also
+     appear within normal limits. The left vertebral artery is hypoplastic and
+     there are some foci of atherosclerotic calcific disease.There is marked
+     tortuosity and looping of the mid cervical course of the left vertebral
+     artery. The right vertebral artery is normal in caliber and contour. The
+     basilar appears within normal limits without evidence of significant
+     atherosclerotic disease. There are no other focal aneurysmal dilatations or
+     areas of stenosis.
+     
+     IMPRESSION:
+     
+     1.  Small, 3 mm focal dilatation at the origin of the posterior communicating
+     artery and the internal carotid artery on the left could represent an
+     aneurysm.
+     
+     2.  50% stenoses of the left common carotid artery at the level of the bulb
+     and the origina of the left internal carotid artery, respectively.
+                                                                 (Over)
+
+     DATE: [**2731-4-16**] 1:30 AM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 15441**]
+     CT BRAIN PERFUSION
+     Reason: AFIB ON AC FOUND DOWN, RT SIDED WEAKNESS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  60% stenosis of the right internal carotid artery in the neck.
+     
+     4.  Diffuse. vascular atherosclerotic, calcific disease.
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 1:30 AM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 15441**]
+     CT BRAIN PERFUSION
+     Reason: AFIB ON AC FOUND DOWN, RT SIDED WEAKNESS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman afib on AC found down with right sided weakness, seizures and 
+      intubated in field.  CODE STROKE called.
+     REASON FOR THIS EXAMINATION:
+      Plse perform CTA head.  PLEASE PERFORM CT PERFUSION STUDIE.                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CTA OF THE HEAD.
+     
+     INDICATION:  85-year-old female with atrial fibrillation, found down with
+     right-sided weakness.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Non-contrast MDCT axial images of the head were first acquired.
+     Following administration of 130 cc of intravenous Optiray contrast, MDCT axial
+     images were acquired from the aortic arch to the cranial vertex.  Multiplanar
+     and volume rendered reformatted images were then obtained.
+     
+     FINDINGS:  There is diffuse atherosclerotic calcific disease of the aortic
+     arch.  There is moderate calcified plaque at the carotid bulb that is
+     bilateral.  On the left, there is a 50% stenosis of the common carotid artery
+     at the bulb level. There is a calcified plaque with 50% stenosis of the left
+     internal carotid artery. On the right, there is a calcified plaque with 60%
+     stenosis of the internal carotid artery. There is diffuse atherosclerotic
+     disease of the petrous and cavernous portions of the internal carotid arteries
+     bilaterally. A small outpouching of the wall of the supraclinoid portion of
+     the internal carotid artery that points posteriorly and measures approximately
+     3 mm could represent a small aneurysm. Otherwise, the middle cerebral arteries
+     appear within normal limits. The anterior and posterior cerebral arteries also
+     appear within normal limits. The left vertebral artery is hypoplastic and
+     there are some foci of atherosclerotic calcific disease.There is marked
+     tortuosity and looping of the mid cervical course of the left vertebral
+     artery. The right vertebral artery is normal in caliber and contour. The
+     basilar appears within normal limits without evidence of significant
+     atherosclerotic disease. There are no other focal aneurysmal dilatations or
+     areas of stenosis.
+     
+     IMPRESSION:
+     
+     1.  Small, 3 mm focal dilatation at the origin of the posterior communicating
+     artery and the internal carotid artery on the left could represent an
+     aneurysm.
+     
+     2.  50% stenoses of the left common carotid artery at the level of the bulb
+     and the origina of the left internal carotid artery, respectively.
+                                                                 (Over)
+
+     DATE: [**2731-4-16**] 1:30 AM
+     CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 15441**]
+     CT BRAIN PERFUSION
+     Reason: AFIB ON AC FOUND DOWN, RT SIDED WEAKNESS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     3.  60% stenosis of the right internal carotid artery in the neck.
+     
+     4.  Diffuse. vascular atherosclerotic, calcific disease.
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 12:41 AM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 15440**]
+     Reason: ?fx                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fall hit head                                            
+     REASON FOR THIS EXAMINATION:
+      ?fx                                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old woman status post fall, evaluate for fracture.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast axial images of the cervical spine were obtained.
+     Coronal and sagittal reformatted images were also displayed.
+     
+     FINDINGS:  Severe degenerative change is seen throughout the cervical spine,
+     somewhat limiting assessment for subtle fractures.  Cortical irregularity is
+     seen at the left anterior arch of C1.  Cortical irregularity is also seen
+     through the dens, best seen on sagittal images.  Grade I anterolisthesis of C3
+     on C4 is seen.  Severe degenerative change is seen throughout the cervical
+     spine with evidence of osteophytes, disc space loss at multiple levels, worse
+     at the C5-6 level.  Increased soft tissue seen in the periodontoid region,
+     which can be seen in rheumatoid arthritis.  CT does not provide intrathecal
+     detail comparable to MRI, however, the thecal sac appears grossly intact.
+     Low density in the occipital lobe is better evaluated on MRI performed the
+     same day, possibly representing subacute versus chronic infarct.  Likely
+     calcified granuloma noted at the right apex. Fluid seen within the esophagus.
+     The patient is intubated. Slight heterogeneity of the right thyroid lobe is
+     noted.
+     
+     IMPRESSION: Severe degenerative changes throughout the cervical spine somewhat
+     limiting assessment. Possible fractures identified at the left anterior arch
+     of C1, as well as within the dens.  MRI is recommended for further evaluation.
+     Discussed with Dr. [**First Name8 (NamePattern2) 1624**] [**Last Name (NamePattern1) 5330**] at 4 p.m. on [**2731-4-16**].
+     
+
+",,
+13412,25349,,,2731-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-16**] 12:20 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15438**]
+     Reason: cva, bleed                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with ? fall vs stroke, seizure                                
+     REASON FOR THIS EXAMINATION:
+      cva, bleed                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HEAD CT WITHOUT CONTRAST [**2731-4-16**] AT 0043 HOURS
+     
+     HISTORY:  Question of fall versus stroke or seizure.
+     
+     TECHNIQUE:  Serial transverse images were acquired sequentially through the
+     brain and reconstructed at stacked 5-mm increments without the benefit of
+     intravenous contrast administration.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  The extracalvarial soft tissues are unremarkable.  The calvarium
+     and skull base are intact.  Cerumen is noted within the left external auditory
+     canal.  The paranasal sinuses and mastoid air cells are clear.  There is
+     atherosclerotic disease in the cavernous and supraclinoid portions of the
+     bilateral internal carotid arteries.  The globes are intact with lenses in
+     place.
+     
+     Intracranially, the ventricles are prominent but midline.  Likewise, the
+     cortical sulci and subarachnoid cisterns are prominent.  These findings
+     reflect an overall generalized brain parenchymal volume loss which is within
+     normal limits accounting for the patient's stated age.  There is confluent low
+     attenuation in predominantly a periventricular distribution consistent with
+     chronic microvascular disease.  A lacunar infarction is evident in the right
+     thalamus.  There is no CT evidence of acute cortical stroke or of intracranial
+     hemorrhage.
+     
+     IMPRESSION:  No CT evidence of acute cortical stroke.  Chronic ischemic
+     changes and age-appropriate atrophy as above.  No overt findings suggestive of
+     traumatic injury to the head.
+
+",,
+13412,25349,16693,0,2731-04-16 05:45:00 EST,2731-04-16 05:47:00 EST,7780,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt intubated on ventilatory support. Transfered to unit from MRI w/o incident.  SpO2 100%. AM RSBI 71.  Tol PSV 5/5. BS clear, sx for thick white secretions. Plan not established as of yet. 
+",,
+13412,25349,16693,0,2731-04-16 14:54:00 EST,2731-04-16 14:57:00 EST,6644,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt continues on CPAP/PSV in NARD while sedate. Pt becomes extremly aggitated and tachypnic when sedation is light. B/S dim sx'd scant Will continue to follow closely.
+",,
+13412,25349,16693,0,2731-04-16 17:37:00 EST,2731-04-16 17:43:00 EST,208,"N",1,"Nursing/Other",,"
+
+NEURO; NON-RESPONSIVE, DOES NOT OPEN EYES OR FOLLOW COMMANDS, WITHDRAWS ALL EXTREMITIES TO TACTILE STIMULATION, VERSED GTT AT 10 MGM/HR THIS AM, CHANGED TO PROPFOL, PT BECMES AGITATED WHEN OFF PROPFOL FOR NEURO CHECKS, MAE RANDOMLY AND TACHYPNEIC, DOES NOT OPEN EYES, HOWEVER, PERL #[**2-15**] AND BRISK, RT PUPIL OCCAS SMALLER THAN LEFT BUT BOTH BRISK, POSIT GAG, 
+EEG DONE AT BEDSIDE
+
+CARDIOSVASCULAR; HR 80'S A FIB, SYS 90-120'S, DOPAMINE ON AT BEGINNING OF SHIFT AND WEANED OFF, HANDS COOL TO TOUCH BUT RADIALS PALPABLE, TEMP MAX 102.9, BLOOD CULT OBTAINED, URINE CULTURE BEING OBTAINED, RECEIVED TYLENOL 650 MGM PR, 
+
+RESPIR; ON C-PAP WITH 5 PEEP AND 5 PS, SUCTIONED FOR SCANT-SMALL LIGHT WHITEISH YELLOW SECRETIONS, LUNGS CLEAR BUT DIM AT BASES
+
+RENAL; U/O DECREASING, WILL KEEP H.O. INFORMED IF LESS THAN 30CC/HR
+
+PLAN; HRLY NEURO CHECKS, TAKE OFF PROPOFOL Q FEW HRS TO ASSESS NEURO STATUS, MONITOR URINE OUTPUT, MONITOR TEMP SPIKE
+",,
+13412,25349,16693,,2731-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-17**] 5:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15443**]
+     Reason: R/O PNA                                                     
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with seizure activity, found down at home, now spiking temps. 
+     REASON FOR THIS EXAMINATION:
+      R/O PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 5:54 A.M. [**4-17**]  
+     
+     HISTORY:  Seizure activity.  Spiking temps.  Suspect pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**4-16**]:
+     
+     Progressive left lower lobe volume loss could be due to atelectasis from
+     aspirated material.  Mild cardiac enlargement and pulmonary vascular
+     engorgement are unchanged.  ET tube is in standard placement.  There is no
+     pneumothorax.  Several left lower anterolateral rib fractures are noted and
+     provide an alternative explanation for atelectasis.  There is also slight
+     increase in the left lower costal pleural margin which could represent new
+     bleeding related to the rib fractures.  Findings were discussed by telephone
+     with Dr. [**Last Name (STitle) 15444**] at the time of dictation.
+                                                                           
+
+",,
+13412,25349,16693,,2731-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-17**] 2:50 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15445**]
+     Reason: confirm placement of IJ central line, Dobhoff tube          
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with seizure activity, found down at home, s/p placement of 
+      CVL, Dobhoff tube.
+     REASON FOR THIS EXAMINATION:
+      confirm placement of IJ central line, Dobhoff tube                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of seizure with CV line pain and Dobhoff tube placement.
+     
+     Right subclavian CV line is in distal SVC.  The feeding tube is coiled in the
+     stomach.  There is persistent opacity at the left base obscuring the left
+     hemidiaphragm consistent with atelectasis/consolidation in the left lower
+     lobe.  Cannot rule out small left pleural effusion.  Endotracheal tube is 3 cm
+     above the carina.  No pneumothorax.
+                                                                           
+
+",,
+13412,25349,16693,,2731-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-17**] 2:50 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15445**]
+     Reason: confirm placement of IJ central line, Dobhoff tube          
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with seizure activity, found down at home, s/p placement of 
+      CVL, Dobhoff tube.
+     REASON FOR THIS EXAMINATION:
+      confirm placement of IJ central line, Dobhoff tube                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of seizure with CV line pain and Dobhoff tube placement.
+     
+     Right subclavian CV line is in distal SVC.  The feeding tube is coiled in the
+     stomach.  There is persistent opacity at the left base obscuring the left
+     hemidiaphragm consistent with atelectasis/consolidation in the left lower
+     lobe.  Cannot rule out small left pleural effusion.  Endotracheal tube is 3 cm
+     above the carina.  No pneumothorax.
+                                                                           
+
+",,
+13412,25349,16693,0,2731-04-17 03:51:00 EST,2731-04-17 03:56:00 EST,9153,"N",1,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Patient on PSV 5/5, 40%.  Suctioned small amounts of thick white secretions.  RSBI 54, ABG done and WNL.  Patient still does not appear appropriate.  Unsure of plan at this time.
+",,
+13412,25349,16693,0,2731-04-17 04:14:00 EST,2731-04-17 04:24:00 EST,7862,"N",1,"Nursing/Other","Update","
+Update
+See careview for details...
+Neuro: Pt sedated on propofol gtt, MAE, pupils [**1-17**] and brisk, does not follow commands but seems restless when propofol decreased, weaker on L side.
+
+CV: A fib 70-90's, BP stable, Temp down after cooling blanket applied, K+ and Mg+ replaced this AM
+
+Resp: Vent unchanged, CPAP 5/5, AM ABG WNL's, sats 100%, sx for sm amt yellow secretions, sent for cx, lungs clear
+
+GI: Abd soft, hypoactive BS, no BM
+
+GU: scant UO via foley, cloudy, Dr [**Last Name (STitle) **] aware and 250cc NS bolus given, little results from bolus, MD aware, CX sent
+
+Skin: skin intact, eccymotic area to L forehead above L eye and to L shoulder and upper arm, no breakdown noted
+
+Plan: possible extubation today, monitor electrolytes, UO, neuro status
+
+
+",,
+13412,25349,16693,0,2731-04-17 16:35:00 EST,2731-04-17 16:37:00 EST,7564,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains intubated on PSV, IPS increased to 10 today plan to remain on current settings overnight then wean to [**4-18**] and extubate in am as tolerated.  BLBS course, suctioned for sm amt of thick white secretions.  Bronch done is am and BAL sent to lab.
+",,
+13412,25349,16693,0,2731-04-17 17:31:00 EST,2731-04-17 17:41:00 EST,208,"N",1,"Nursing/Other",,"
+
+NEURO; OCCAS OPENS EYES TO VOICE AND STIMULATION WHEN PROPOFOL GTT OFF, MOVED TOES SLIGHTLY TO COMMAND LEFT FOOT, OTHERWISE NOT FOLLOWING COMMANDS, BUT MAE RANDOMLY WHEN OFF SEDATION, PT BECOMES AGITATED AND TACHYPNEIC WHEN OFF SEDATION, PT OFF PROPFOL MOST OF AM IN ATTEMPT TO DETERMINE IF ABLE TO EXTUBATE, BUT NOT ABLE TO EXTUBATE AND PT REMAINS ON PROPOFOL AT LOW DOSE AND AWAKENED Q FEW HRS FOR NEURO ASSESSMENT
+
+CARDIOVASCULAR; HR 80'S -90'S A FIB, SYS 150'S-140'S (GOAL < 170 AND > 110 PER DR. [**Last Name (STitle) 1955**] ON ROUNDS THIS AM), RT TRIPLE LUMEN SUBCLAVIAN VEIN INSERTED, LEFT RADIAL A LINE, TEMP 101.2-100, RECEIVED 2 UNITS FFP FOR INR 2.8 IN PREPARATION FOR INVASIVE PROCEDURES
+CVP 7-13
+
+RESPIR; ON 10 PS AND 5 PEEP WITH FI02 40%, PM ABGS STABLE, SL METAB ALKALOSIS, LUNGS INITIALLY COARSE BUT CLEAR THIS PM AFTER BRONCHOSCOPY THIS AM FOLLOWING CXR THAT SHOWED PATCHY WHITE INFILTRATES LLL, MODER YELLOW SECRETIONS SUCTIONED AND SENT TO LAB FOR EVAL
+
+GI; STARTED ON TUBE FEEDS AT 10CC/HR THIS PM, GOAL IS 70CC/HR, DOBOFF FEEDING TUBE PLACED AND CONFIRMED VIA XRAY THIS PM BY SICU RESIDENT
+
+RENAL;RECEIVED TWO FLUID BOLUSES FOR DECREASED U/O, LAST U/O 32 CC/HR AFTER 500 CC LR, WILL INFORM SICU HO
+
+PLAN; ATTEMPT TO EXTUBATE IF POSSIBLE, TAKE OFF PROPOFOL ROUTINELY FOR NEURO CHECKS, MONITOR TEMPS CAREFULLY, CHECK CVP TO DETERMINE FLUID NEEDS FOR MORE ADEQUATE URINE OUTPUT, ADVANCE TUBE FEEDS AS ORDERED,
+EMOTIONAL SUPPORT TO DAUGHTER WHO VISITED TODAY AND LIVES WITH PT
+",,
+13412,25349,16693,,2731-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-18**] 11:43 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15448**]
+     Reason: please evaluate position of ETT                             
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old woman with seizure activity, found down at home, s/p intubation  
+     REASON FOR THIS EXAMINATION:
+      please evaluate position of ETT                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 12 NOON [**4-18**]
+     
+     HISTORY:  Seizure activity.  Intubated.
+     
+     IMPRESSION:  AP chest compared to [**4-16**] through 5:
+     
+     Mild pulmonary edema has worsened since 5:10 a.m.  Left lower lobe
+     consolidation has grown more severe and whether this is pneumonia or
+     atelectasis is radiographically indeterminate, but marked leftward mediastinal
+     shift favors at least a large component of atelectasis.  Tip of the ET tube is
+     midway between the clavicles and carina in standard position.  Right
+     subclavian line ends in the SVC.  Nasogastric tube passes below the diaphragm
+     and out of view.  Multiple left lower lateral rib fractures have been noted
+     previously, not appreciably changed.
+                                                                           
+
+",,
+13412,25349,16693,,2731-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-18**] 4:40 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15446**]
+     Reason: eval for pneumonia                                          
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with seizure activity, found down at home, s/p placement of 
+       CVL, Dobhoff tube.
+     REASON FOR THIS EXAMINATION:
+      eval for pneumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Status post placement of central venous line and Dobhoff
+     tube, evaluate for pneumonia.
+     
+     PORTABLE CHEST:
+     
+     Comparison is made with prior chest radiograph from [**2731-4-17**] and [**2731-4-16**].
+     
+     The tip of the ET tube is approximately 3 cm from the carina.  The right
+     subclavian central venous line tip is in the cavoatrial junction.  Tip of the
+     feeding tube is coiled in the stomach.  The wire within the feeding tube ends
+     well short of the expected standard positioning.
+     
+     Cardiomegaly appears unchanged.  There is mild interstitial edema bilaterally
+     and left lower lobe atelectasis.  There is increasing opacity in the right
+     perihilar region which could represent a combination of edema and atelectasis
+     with infection being less likely.
+
+",,
+13412,25349,16693,,2731-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-18**] 11:43 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15448**]
+     Reason: please evaluate position of ETT                             
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old woman with seizure activity, found down at home, s/p intubation  
+     REASON FOR THIS EXAMINATION:
+      please evaluate position of ETT                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 12 NOON [**4-18**]
+     
+     HISTORY:  Seizure activity.  Intubated.
+     
+     IMPRESSION:  AP chest compared to [**4-16**] through 5:
+     
+     Mild pulmonary edema has worsened since 5:10 a.m.  Left lower lobe
+     consolidation has grown more severe and whether this is pneumonia or
+     atelectasis is radiographically indeterminate, but marked leftward mediastinal
+     shift favors at least a large component of atelectasis.  Tip of the ET tube is
+     midway between the clavicles and carina in standard position.  Right
+     subclavian line ends in the SVC.  Nasogastric tube passes below the diaphragm
+     and out of view.  Multiple left lower lateral rib fractures have been noted
+     previously, not appreciably changed.
+                                                                           
+
+",,
+13412,25349,16693,,2731-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-18**] 8:54 AM
+     MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 15447**]
+     Reason: r/o fracture, ligamentous injury C1/dens                    
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with ? fracture on CT C-spine                                 
+     REASON FOR THIS EXAMINATION:
+      r/o fracture, ligamentous injury C1/dens                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI of the cervical spine.
+     
+     CLINICAL INFORMATION:  Patient with question fracture of C-spine, rule out
+     ligamentous injury.
+     
+     TECHNIQUE:  T1, T2 and inversion recovery sagittal and gradient echo and T2
+     axial images of cervical spine were obtained.  Comparison was made with the CT
+     of [**2727-4-16**].
+     
+     FINDINGS:  At the craniocervical junction, severe degenerative changes and
+     thickening of the transverse ligament is identified at the level of dens.
+     There is a small well-defined defect seen on the posterior aspect of the dens
+     at the level of transverse ligament indicative of cystic changes from
+     degeneration.  No obvious marrow edema seen or linear defect identified
+     through the dens to indicate a fracture.  Degenerative changes are also seen
+     at the anterior atlanto-odontoid joint.  No evidence of subluxation seen.
+     There is no evidence of abnormal signal seen in the lateral masses of C1 or C2
+     to indicate fracture.  There is no evidence of significant narrowing of the
+     spinal canal seen at C1 level.
+     
+     At C2-3, no abnormalities are seen.
+     
+     At C3-4, there is disc bulging and posterior ridging with moderate bilateral
+     foraminal stenosis and mild spinal stenosis.
+     
+     At C4-5, there is mild bulging and mild foraminal stenosis seen.
+     
+     At C5-6, posterior ridging and bulging identified with moderate right-sided
+     and mild left-sided foraminal stenosis.
+     
+     At C6-7, mild disc bulging identified.
+     
+     From C7-T1 to T3-4 mild degenerative changes noted.  There is loss of cervical
+     lordosis but the facet joint alignment is normal.  There is no evidence of
+     abnormal signal seen in the ligamentous structures to indicate ligamentous
+     disruption.  The prevertebral soft tissue thickness is maintained.
+     
+     IMPRESSION:
+     
+     1.  The changes seen on CT at C1-2 level appear to be due to advanced
+     degenerative change with thickening of the transverse ligament and
+     degenerative pannus formation.  No evidence of fracture of the odontoid
+                                                                 (Over)
+
+     DATE: [**2731-4-18**] 8:54 AM
+     MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 15447**]
+     Reason: r/o fracture, ligamentous injury C1/dens                    
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     process or lateral masses of C1 or C2 identified.
+     
+     2.  Changes of cervical spondylosis predominantly from C3-4 to C6-7.
+     
+     3.  No evidence of intrinsic spinal cord signal abnormalities or extrinsic
+     spinal cord compression.
+     
+     4.  No evidence of ligamentous disruption.
+     
+
+",,
+13412,25349,16693,0,2731-04-18 03:45:00 EST,2731-04-18 03:47:00 EST,731,"N",1,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated overnoc on IPS 10. VT 400's, RR 20's. Suctioned for small amount sputum. RSBI 71 this am. SBT not done due to pending MRI. Possible extubation after MRI. 
+",,
+13412,25349,16693,0,2731-04-18 05:49:00 EST,2731-04-18 05:59:00 EST,769,"N",1,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 102.5
+
+NEURO:  PT LIGHTLY SEDATED ON PROPOFOL.  WHEN SEDATION HELD, PT BECOMES ANXIOUS, PURPOSEFUL MOVEMENT TO ETT, MAE'S, DIFFICULT TO DETERMINE IF PT IS FOLLOWING COMMANDS TO MOVE WHEN SHE IS ASKED OF IT IT IS A COINCIDENCE.  PT WILL CLOSE EYES TIGHTLY, RESIST OPENING THEM.  PERL.  + COUGH, + GAG.  [**Location (un) **] J COLLAR APPLIED AS NEURO REQUESTED MRI OF C-SPINE TO BE DONE.
+
+CV:  HR 80'S-90'S AFIB.  GOAL SBP >110, < 170 MET MOST OF THE SHIFT, HOWEVER ~ 0500 PT BP > 170. TYLENOL AND ATENOLOL GIVEN WITH QUICK EFFECT, PT'S BP TO 80'S.  PROPOFOL LIGHTENED, SBP >100 AT PRESENT TIME.  FLUID BALANCE + 4 LITERS FOR [**2731-4-17**] WITH POOR URINE OUTPUT.  LASIX GIVEN WITH GOOD EFFECT.  FLUID BALANCE MN-0600 - 800CC'S.  + PPP BILAT.  PT BOOTS.  TO START COUMADIN TODAY.
+
+RESP:  LS COARSE AT START OF SHIFT.  SUCTIONED FOR THICK YELLOW SECREATIONS, LUNG SOUNDS MUCH IMPROVED.  PT ON CPAP + PS, 40%, 5 PEEP, 10 PS WITH ABG:  7.49, 34, 129, 27, 3.  
+
+GI:  TUBE FEEDS ADVANCING SLOWLY, CURRENTLY @ 40 CC/HR, GOAL 70 CC'S/HR.  + BS, ABDOMEN SOFT. NO BM.
+
+GU:  FOLEY-BSD WITH CLEAR LIGHT YELLOW URINE.
+
+LABS:  HCT 30.2, INR 1.8, WBC 12 (16), K+ 3.1 TREATED PER SLIDING SCALE, MAG 1.9 TREATED WITH 2 GM MAG SULFATE.  PHOS LEVEL 2.5, BEING TREATED WITH KPHOS OVER 6 HOURS.  FSBS PER RISS.
+
+SX:  PT'S SON VISITED IN EVENING. 
+
+R:  FEBRILE, LABILE BP, UNCLEAR NEURO STATUS, IN SETTING OF METABOLIC ALKALOSIS AND POSSIBLE PNEUMONIA.
+
+P:  CONTINUE CURRENT CLOSE MONITORING AND MANGEMENT.  CONTINUE TO MONITOR NEURO STATUS, RESP STATUS, BLOOD PRESSURE CONTROL.  COUMADIN AS ORDERED.  CONTINUE TO MONITOR I+O, ? NEED FOR FURTHER LASIX.  MRI OF C-SPINE.  PT AND FAMILY SUPPORT.  
+",,
+13412,25349,16693,0,2731-04-18 16:05:00 EST,2731-04-18 16:14:00 EST,7564,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt taken to MRI thismorning without inceident then placed on PSV 5/5 40% ABG drawn WNL and pt was extubated to 50% cool aerosol face tent.  Pt suctioned prior to extubation for sm amt of thick pale yellow secretions. pt had audible cuff leak prior to extubation. Immediately post extubation pt had clear BLBS and no stridor, soon after pt had increased WOB and developed upper airway wheezes.  alb and racimic epi given via neb with no improvement.  heliox also attempted with no improvement, so anesthesia called and pt was reintubated.  Pt intially placed on A/C due to medication given for intubation, but was soon switched to PSV 5/5.  ABGs on current settings WNL.  plan to remain intubated on current settings overnight. 
+
+",,
+13412,25349,16693,0,2731-04-18 16:24:00 EST,2731-04-18 16:37:00 EST,7862,"N",1,"Nursing/Other","Update","
+Update
+See careview for details...
+Neuro: Pt on Propofol gtt, MAE, Pupils 3mm and brisk, Pt extubated and off propofol briefly, opened eyes to verbal but would not follow commands, would say ""ouch"" to pain but no other verbal, MRI of spine, collar on, EEG applied this afternoon
+
+CV: A fib 70-80's, increased to 110-120 when extubated, Lopressor IV given, BP stable, low grade temp, electrolytes drawn this afternoon, K+ and Mg+ replaced, heparin gtt started for A fib, coumadin D/C'd for possible LP in AM
+
+Resp: Pt dropped to CPAP 5/5 this AM, ABG WNL, RSBI good, extubated, pt resp labored with stridor, racemic epi/albuterol given, heliox tried with no results, pt reintubated without difficulty by anesthesia, tol CPAP 5/5, lungs clear, sx thick yellow secretions, post intubation ABG WNL's, sats 100%
+
+GI: abd soft, no BM, Tol TF at 50/hr, will increase to reach goal of 70/hr
+
+GU: 20 IV lasix given x1, diuresed mod amt
+
+Skin: intact, warm and dry
+
+Family in to visit, spoke with SICU MD and Neuro attending
+
+Plan: possible LP in AM, Neuro assessment, wean down propofol if possible, monitor electrolytes, TF to goal of 70/hr
+
+
+",,
+13412,25349,16693,0,2731-04-19 04:01:00 EST,2731-04-19 04:05:00 EST,419,"N",1,"Nursing/Other",,"
+
+Resp Care
+Remains intubated and ventilated on psv 5/5/40%. Breath sounds coarse, suctioning mod. amounts of thick tan sputum. ABGs with good oxygenation,mild met. alkalosis. RSBI this morning = 40. Plan is for possible extubation later today.
+",,
+13412,25349,16693,0,2731-04-19 05:38:00 EST,2731-04-19 05:48:00 EST,769,"N",1,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 102.9, CURRENT 100.9, PAN CULTURED.
+
+NEURO:  ON PROPOFOL AND WHEN SEDATION HELD, PT RESPONDS TO STIMULI, DOES NOT FOLLOW COMMANDS, MAE'S, WITHDRAWS TO PAINFUL STIMULI.  NO S+S OF SEIZURE ACTIVITY, EEG REMAINS ON.  C COLLAR ON.  PERL. + COUGH, + GAG.  PT CLENCHES EYES SHUT AND DOES NOT OPEN THEM TO COMMAND.
+
+CV:  HR 80'S-90'S AFIB.  BP 90'S - 170'S.  HEPARIN GTT WITH PTT'S > 150 X2.  BOTH TIMES HEPARIN HELD FOR ONE HOUR AND THEN RATE DECREASED BY 300 UNITS.  TO RECHECK PTT @ ~ 1200.  SCANT BLOOD TINGED SPUTUM, STOOL GUIAC NEGATIVE, NO S+S OF ACTIVE BLEEDING.
+
+RESP:  LS COARSE.  SUCTIONED FOR THICK YELLOW, BLOOD TINGED AND AT TIMES BROWN SPUTUM.  PT ALSO WITH NASAL DRAINAGE AS WELL.  PT ON CPAP + PS, 40%, 5 PEEP, 5 PS WITH ABG:  7.49, 35, 107, 27, 3.
+
+GI:  TUBE FEEDS AT GOAL.  ABDOMEN SOFT.  STOOLING, GUIAC NEGATIVE.
+
+GU:  FOLEY-BSD WITH AMBER CLOUDY URINE.
+
+ID:  PT T MAX 102.9.  PERIPHERAL BLOOD CULTURES X2 DRAWN, URINE CULTURE SENT, SPUTUM CULTURE SENT.
+
+R:  FEBRILE, NEURO STATUS REMAINS CONCERNING IN SETTING OF ? PNEUMONIA.
+
+P:  CONTINUE CURRENT CLOSE MONITORING AND MANAGEMENT.  PULMONARY TOILETING AND SUCTIONING.  FOLLOW UP ON CULTURE RESULTS.  ? LP TODAY.  PT AND FAMILY SUPPORT.  TITRATE HEPARIN GTT ACCORDING TO WEIGHT BASED SCALE.  NEURO CHECKS Q 2 HOURS.
+",,
+13412,25349,16693,0,2731-04-19 15:36:00 EST,2731-04-19 16:04:00 EST,8077,"N",1,"Nursing/Other",,"
+
+Nsg.progress notes:
+See flow sheet for specific:
+
+Neuro:Patient was on propofol earlier dc'd at 11am per neuro team,since then off.waken up to call,follows commands inconsistently at time not trough out.moving both arm spontaneuosly,LE to pain .PERL,Localizing pain.EEG cont.EEG  was not recorded last night per EEG [**Last Name (LF) 2634**],[**First Name3 (LF) **] continuing today.planned for CT head today but postpond for tomorrow by neuro as pt is on EEG monitoring,confirmed with Dr.[**First Name (STitle) **].Cervical collar off per Neuro team as MRI cleared.
+
+CV: Cont with A fib,HR 82-97 with occational PVC'S,Had 6 runs of V tach,known to Dr.[**Last Name (STitle) 4785**],EKG done and seen by her,Magnesium sulfate 2gam repleted,sodium phos 30mmol repleting for low PO4 with AM labs,K+ 3.6 with noon lab replaced with 40mmol KCL.Heparin at 550 units /hr. last PTT 56.2 team aware.pTT q6h.SBP 100-159,had SBP in 80's once went up with stimulation.Lasix 20mmol given in the AM with good effect.Fluid balance of +1261 till 1600.++ PP.++ edema extrimities.
+
+Resp: Remains on vent,CPAP Ps,Fio2 40%,[**4-18**].ABG acceptable.LS coarse to clear,sxn thick tan secretion small amt,O2 sat 100%.+ cough & gag.
+
+GI: TF tolerated at goal.abd soft,+ BS,BM x2 today.
+
+GU: Foley cath patent with yellow clear urine adq amt.
+
+
+ID: T max 101.8,pan cultured,tylenol x1 with good effect.SICU MD aware 
+
+Social: called up by patients daughter & son,updated with them.
+
+Act: turned & position changed,skin intact.
+
+Plan: Cont monitoring,neuro checks q2h,monitor UO,fever control,pulm hygiene. titrate heperin according to PTT & SS.?CT head tomorrow after EEG completed.
+",,
+13412,25349,16693,0,2731-04-19 15:51:00 EST,2731-04-19 15:54:00 EST,7564,"N",1,"Nursing/Other","Resp CAre","
+Resp CAre
+Pt remain intubated on PSV, IPS increased to 10 this morning due to increased RR and no plans of extubation today.  BLBS slightly cour suctioned for sm amt of thick yellow secretions. plan to continue on current support overnight.
+",,
+13412,25349,16693,,2731-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-20**] 6:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15450**]
+     Reason: interval change                                             
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down, seizures, unable to extubate                      
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  85-year-old woman found down, status post seizure, unable to
+     extubate.  Question interval change.
+     
+     COMPARISONS:  [**2731-4-16**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  The patient is intubated, with a nasogastric tube.  There is no
+     evidence of intra- or extra-axial hemorrhage.  The ventricles, cisterns and
+     sulci are all prominent, consistent with atrophic changes.  There is no mass
+     effect, hydrocephalus, or shift of the normally midline structures.  There are
+     diffuse hypodense changes in the bilateral cerebral white matter most
+     suggestive of chronic small vessel ischemic disease, but the [**Doctor Last Name 8**]-white matter
+     differentiation appears intact.  A lacunar infarct in the posterior limb of
+     the internal capsule on the right is unchanged.
+     
+     There is left maxillary sinus mucosal thickening, and air-fluid levels in the
+     sphenoid sinuses which can be seen in intubation.  Likewise, there is patchy
+     opacification of the left mastoid air cells. No osseous lesion is identified.
+     
+     IMPRESSION:  Stable appearance of the brain.
+
+",,
+13412,25349,16693,,2731-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-20**] 3:10 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15449**]
+     Reason: s/p bronch and pull back ETT                                
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           85 year old woman with seizure activity, found down at home, s/p  
+      intubation, s/p bronch [**4-20**] 
+     REASON FOR THIS EXAMINATION:
+      s/p bronch and pull back ETT                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2731-4-20**]
+     
+     COMPARISON:  [**2731-4-18**].
+     
+     INDICATION:  Endotracheal tube repositioning.
+     
+     Examination is technically limited due to marked motion artifact. 
+     Endotracheal tube terminates about 3.5 cm above the carina, feeding tube is
+     coiled in stomach with distal tip directed cephalad, and right subclavian
+     catheter remains in standard position.  Cardiac and mediastinal contours are
+     stable allowing for changes in lung volumes.  Improving aeration is present in
+     the left lower lung.  Diffuse hazy opacities in right perihilar and basilar
+     regions, probably represent asymmetric pulmonary edema.  Small pleural
+     effusions are noted.  Please note that the degree of respiratory motion limits
+     assessment for subtle abnormalities including pneumothoraces.
+                                                                           
+
+",,
+13412,25349,16693,0,2731-04-20 03:46:00 EST,2731-04-20 03:55:00 EST,7862,"N",1,"Nursing/Other","Update","
+Update
+See careview for details...
+Neuro: Pt opens eyes to verbal, MAE, R>L, pupils 3mm and brisk, follows commands very inconsist.  no sedation, restless at times, cont. EEG, no seizure activity noted
+
+CV: cont with temps, tylenol given x1 with good results, A fib 70-90's, occas PVC's, BP stable, generalized edema, 20 IV lasix given for low UO, hep gtt decreased to 400 units/hr, AM PTT WNL's, K+ and Mg+ replaced as needed
+
+Resp: no vent changes overnight, sx mod amts yellow secretions, lungs coarse, sats 100%, ABG WNL's
+
+GI: tol TF at 70/hr, incont loose golden stool, fecal bag applied
+
+GU: UO decreased overnight, lasix given this AM
+
+Son in to visit, spoke with Neuro Med MD, emotional support given
+
+Plan: Head CT, ? LP if EEG neg, monitor electrolytes
+",,
+13412,25349,16693,0,2731-04-20 04:14:00 EST,2731-04-20 04:16:00 EST,419,"N",1,"Nursing/Other",,"
+
+Resp Care
+Remains intubated and ventilated on psv 5/5 40%. Coarse breath sounds suctioning thick yellow sputum. ABGS with normal limits, good oxygenation. RSBI = 52.
+",,
+13412,25349,16693,0,2731-04-20 15:40:00 EST,2731-04-20 16:03:00 EST,1084,"N",1,"Nursing/Other","Condition Update A:","
+Condition Update A:
+Please refer to careview and remarks for details.
+
+Pt easily arousable, wax/wanes for following commands. PERL 2-3mm/2-3mm brisk. Currently nodding head yes/no to questions and to relay understanding to informations. Pt denies pain. Tmax 101.5, tyenol admin with effect. Pt intermittently restless, attempting to bring hands up to ETT. Pt oriented to place and situation. Pt required suctioning 2-3 times each hour this morning. Bedside bronchoscopy done after being medicated with versd 1mg IVP adn Fentanyl 25mcg IVP twice with good effect. Minimal secretions viewed, sample sent for culture and gram stain. Edematous throughout. CVP 21-10. U/O decreased to 10cc/h. Lasix 10mg IVP admin with effect. Positive 250cc since MN. Following potassium levels repleting. Pt continues on heparin gtt, checking PTT. Emotional support provided to pt and daughter. 
+
+PLAN: Neuro exam every two hours. Pulmonary toilet, monitor vent tolerence. Monitor comfort level, I/O, electrolytes. Start coumadin this evening. Vanco trough this evening. PTT every six hours. Emotional support, orientation as needed. 
+",,
+13412,25349,16693,0,2731-04-20 16:32:00 EST,2731-04-20 16:35:00 EST,547,"N",1,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings as per resp flowsheet. Required freq sxn in AM so pt bronched, sample otained but not alot of secretions visualized. Pt tachypneic in afternoon to RR of consistantly 30, PSV increased to 10 with some improvment. Plan is for CT scan this afternoon.
+",,
+13412,25349,16693,,2731-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-21**] 4:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15451**]
+     Reason: eval pneumonia                                              
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old woman with seizure activity, found down at home, s/p 
+      intubation, s/p bronch [**4-20**] 
+     REASON FOR THIS EXAMINATION:
+      eval pneumonia                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 4:21 a.m., [**4-21**]
+     
+     HISTORY:  Seizure.  Status post bronchoscopy and intubation.
+     
+     IMPRESSION:  AP chest compared to [**4-17**] through 7:
+     
+     The left lower lobe atelectasis has improved since [**4-20**], and the mediastinum
+     has returned to midline.  Lung volumes are generally increased.  Mild
+     pulmonary edema has worsened slightly, and more intense opacification in the
+     infrahilar right lung is probably asymmetric edema.  Heart is normal size and
+     the mediastinal and hilar vessels are unremarkable.
+     
+     ET tube tip is in standard placement at the level of the sternal notch, right
+     subclavian line tip projects over the SVC and a feeding tube passes into the
+     stomach and out of view.  No pneumothorax.
+                                                                           
+
+",,
+13412,25349,16693,0,2731-04-21 01:36:00 EST,2731-04-21 01:44:00 EST,1489,"N",1,"Nursing/Other","NURSING","
+NURSING
+     VSS. CONTINUES IN AFIB, OCCASIONAL PVC'S. HEPARIN GTT CONTUNES FOR AFIB. STARTED ON COUMADIN AT 2200. TEMPERATURE MAX 100.4. CVP 12-16.
+     NEURO STATUS REMAINS UNCHANGED. SEE CARE VUE FOR FULL NEURO ASSESSMENT.
+     VENT SETTINGS REMAINS UNCHANGED. SUCTIONED FREQUENTLY FOR THICK YELLOW SECRETIONS. REMAINS ON CPAP/PS 40%, [**4-23**]. ABG'S WNL.
+     MEDICATED FOR PAIN X2 WITH FENTANYL 50 MCG WITH GOOD EFFECT. GRIMACE SCALE USED FOR PAIN ASSESSMENT.
+     CONTINUE TO MEDICATE PRN  FOR PAIN. CONTINUE TO MONITER HEMODYNAMICS AND NEURO STATUS. RECHECK POTASSIUM AFTER PRN LASIX DOSES.
+",,
+13412,25349,16693,0,2731-04-21 04:07:00 EST,2731-04-21 04:09:00 EST,290,"N",1,"Nursing/Other",,"
+
+resp care
+Pt remained on psv10/peep5 and 40% with volumes of 400cc and rr20's.BS clear bil. Suct frequently for thick yellow sput.AM abg acceptable.RSBI done=65. Will cont to follow and wean as tolerated.
+",,
+13412,25349,16693,0,2731-04-21 10:56:00 EST,2731-04-21 11:02:00 EST,69,"N",1,"Nursing/Other",,"
+
+Patient extubated and placed on 50% open face mask.Treated with UD of atrovent then switched to close face mask.Patient sounded consted nasally suctioned for moderate amount of clear sputum.Expiratory flow sounded better, RR 34,HR 104, sat 98%; will continue to follow.
+",,
+13412,25349,16693,0,2731-04-21 16:21:00 EST,2731-04-21 16:32:00 EST,6083,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Please see carvue for specifics:
+Neuro:  Pt alert following commands.  Extubated today.  Pt with garbled speech.  Appears confused at times. But able to make needs known..nodding appropriately.  
+CV:  Cont in Afib.  Heparin gtt adjusted from 550-600units/hr to reach goal.  Pt afebrile.  CVP 13-16 lasix X1 post extubation with little effect.  U/O remains 30-50cc/hr.  Medicated with fent X3 for pain control. 
+Resp:  Extubated..(see carvue for abg's).  Currently doing well.  Initially becoming very tachypnic.  Rhonchorous BS throughout given atrovent nebs and placed on BIPAP.  Current on 15L face mask and doing well. Lungs clear to coarse to diminished mostly on left base. 
+GI/GU:  TF off all day [**1-16**] to extubation.  Abd soft NT.  + loose stool.  FIB off.  Foley patent drng yellow urine with sediment.  
+Endo:  RISS
+ID:  Cont on abx therapy.  
+Plan:  Aggressive pulmonary toilet. Cont with Q2hr neuro checks.  Monitor resp status closely.  cont with current plan of care
+",,
+13412,25349,16693,0,2731-04-21 18:39:00 EST,2731-04-21 18:42:00 EST,69,"N",1,"Nursing/Other",,"
+
+Patient extubated has good oxygenation, but poor ventilatory pattern. On NIV tolerating it well now DNR will switch to CMO in AM.
+",,
+13412,25349,16693,,2731-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-22**] 6:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15452**]
+     Reason: interval change after extubation                            
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with seizures                                                 
+     REASON FOR THIS EXAMINATION:
+      interval change after extubation                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE CHEST, 6:44 A.M.
+     
+     INDICATION:  Seizures.  Status post extubation.
+     
+     FINDINGS:  Compared with 5/8, lung volumes are lower status post extubation.
+     Allowing for crowding of markings due to this, no other obvious interval
+     change. The lungs are grossly clear of consolidating infiltrates.  There is
+     central pulmonary vascular engorgement without overt pulmonary edema.
+
+",,
+13412,25349,16693,0,2731-04-22 03:55:00 EST,2731-04-22 03:58:00 EST,1341,"N",1,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Patient received on NIPPV at change of shift.  Removed from NIV and placed on cool aerosol.  Tolerating well.  SaO2 95-99%.  ABG this AM shows adequate ventilation and oxygenation.  Will place back on NIV if needed.
+
+                              [**First Name11 (Name Pattern1) 76**] [**Last Name (NamePattern4) 77**], RRT
+",,
+13412,25349,16693,0,2731-04-22 04:16:00 EST,2731-04-22 04:28:00 EST,1489,"N",1,"Nursing/Other","NURSING","
+NURSING
+     VSS. CONTINUES IN AFIB. HEPARIN GTT CONTINUES. THERAPEUTIC THE LAST 2 CHECKS OF PTT. RATE 80'S -118, DEPENDING ON HOW ALERT SHE IS. BP STABLE OVERNIGHT AND WNL. TEMPERATURE MAX 99.4. CONTINUES ON IV ANTIBIOTICS FOR ASPIRATION PNEUMONIA.
+     REMOVED FROM BIPAP AT 2000, PLACED ON ARESOL MASK AT 40%. TOLERATED FINE OVERNIGHT. O2 SATS 97-100%. STRONG COUGH, RAISING SPUTUM. CHEST PT DONE Q [**2-15**]/HRS OVERNIGHT.LUNGS CTA, DECREASED RIGHT BASE. OCCASIONAL WHEEZES, GIVEN ALBUTEROL NEB TREATMENTSX2 WITH GOOD EFFECT.
+     FOLLOWING COMMANDS. ORIENTED X3. KNOWS SHE IS IN A HOSPITAL, ALTHOUGH SHE THOUGHT SHE WAS STILL IN [**Hospital3 **]. WAS ABLE TO STATE THE YEAR AND MONTH CORRECTLY. MOVING ALL EXTREMITIES.
+     TUBE FEEDS RESTARTED. TUBE CLOTTED OFF AT 0100. MULTIPLE ATTEMPTS MADE TO UNCLOT. CURRENTLY WITH SOME PAPAIN SITTING IN TUBE. WILL REATTEMPT AT 0600 TO FLUSH TUBE.
+     FOLEY REMAINS IN PLACE WITH CLOUDY URINE. URINE AMOUNTS ADEQUATE OVERNIGHT,>30/HR. REMAINS NPO.INCONTINENT OF LARGE AMOUNTS OF SEMI-FORMED STOOL.
+     CONTINUE TO MONITER RESPIRATORY STATUS, HEMODYNAMICS. RECHECK LYTES IF LASIX GIVEN TODAY. CONTINUE TUBE FEEDS IF ABLE TO UNCLOG TUBE. CONTINUE TO MONITER NEURO STATUS.
+     
+",,
+13412,25349,16693,0,2731-04-22 16:56:00 EST,2731-04-22 17:41:00 EST,1016,"N",1,"Nursing/Other",,"
+
+N.P.N. 0700-1900;
+
+o""[**Last Name (un) **],""
+s;restless and in state of constant motion until 230 pm when pt slept for short period. knows month and year states that she is at [**Location (un) **], when asked location,moving all limbs squeezing hand mod grasps, able to show 2 fingers on lt hand to command. difficult to arouse when sleeping butdoeas arouse.[**Last Name (un) **] 3mm  bsk. speech at times still difficult to  understand.
+
+resp ;initially with ins/exp wheeze. improved with atrovent nebs strong productive cough lungs coarse diminished at bases weaned to 4ln/c with adequate abgs. sats 96-98%.
+
+pain; c/o of belly pain points to lt upper ? from rib fractures given percocet x1 with good effect.
+
+cvs; tmax 99.1 po afib up to 130's  with restlessness sbp 152-102/93. when asleep  .iso pvc's.noted.
+
+gu; low urine output dispite fb  maintainance increased to 50 mls/hrns with min response [**Last Name (NamePattern4) 4786**] md aware. k 3.7 
+
+gi; dobhoff finally cleared at 10 am  t/ changed to probalance fs at 45 cc/hr.  bs covered on riss.
+
+skin; with ecchymotic from needle sticks. aline removed. pneuo boots off currently as contributing to pts restlessness,to sleepy to comply with sp /sw test will return in am to repeat test.
+
+soc; daughter into visit distressed by mothers condition  contact lisw. for support.
+
+a/p continue with neuro checks reorientate as necc. 
+ continue  with pulmonary toilet.encourage cdb.
+continue to monitor ptt heparin increased to 650 units/hr at 6pm check ptt at mn.
+continue to monitor u/o.? lasix if no response to fliud increase.
+
+
+
+
+
+
+",,
+13412,25349,16693,0,2731-04-22 17:29:00 EST,2731-04-22 17:34:00 EST,69,"N",1,"Nursing/Other",,"
+
+Patient off NIV now on 4 L N/C doing ok.Treated with atrovent for upper airway,audible wheezes.Has order for albuterol, but not being done due to tachycardia.More confortable now on N/C will pull vent.
+",,
+13412,25349,16693,0,2731-04-23 04:05:00 EST,2731-04-23 04:12:00 EST,936,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT ORIENTED X 1, UNABLE TO STATE TIME OR PLACE BUT ANSWERING ALL OTHER QUESTIONS APPROPRIATELY.  AGITATED @ BEGINNING OF THE SHIFT, MOANING CONSTANTLY.  STATES NO PAIN, BUT SAYS ""THAT HURTS"" WITH MOVEMENT.  GIVEN ROXICET ELIXIR WITH GOOD EFFECT.  ABLE TO LIFT & HOLD ALL EXTREMITIES, CONSTANTLY MOVING IN BED.  
+    HEART RATE 80-100 AFIB.  SBP 110-140.  CVP MOSTLY HIGH TEENS.  LUNG SOUNDS CLEAR BUT OCCASIONALLY WHEEZY, GIVEN NEBS AS ORDERED.  RESP RATE 20-30'S AND LABORED WITH ANY STIMULATION.  HOURLY URINE OUTPUT 5-30 CC, DR. [**Last Name (STitle) **] AWARE.  PTT 53, HEPARIN GTT REMAINS @ 650 UNITS/HOUR.  ABDOMEN SOFT, BOWEL SOUNDS PRESENT.  PROBALANCE @ GOAL RATE OF 45 CC/HR.
+PLAN:
+    SPEECH & SWALLOW TODAY.  GOAL PTT 50-70, RECHECK PTT THIS AM.  CONTINUE WITH CURRENT TREATMENT AND MONITORING.  
+",,
+13412,25349,16693,0,2731-04-23 15:57:00 EST,2731-04-23 16:26:00 EST,8854,"N",1,"Nursing/Other","7am-7pm Nursing Note","
+7am-7pm Nursing Note
+See CarVue for objective data and trends:
+NEURO: Pt alert, oriented to person but otherwise confused. Pt inconsistantly follows commands, moves all extremities. Pupils equal and reactive to light. Throughout the day, pt has generally been restless and agitated, moaning out, constantly moving extremities/body in the bed. 
+RESP: When awake, pt with audible upper airway wheezing. Pox maintaining 96-100% with 4 liters NC. Given atrovent and albuterol nebulizers without effect, Dr. [**Last Name (STitle) **] aware, no new orders at present.
+CV: Pt's HR 80-100 and remains in a-fib. SBP 90s-130s. HCT low at 21.9 this AM, heparin gtt stopped and coumadin to be held. Pt. to receive two units PRBC.
+GI: Abdomen soft, positive bowel sounds. Pt NPO, tolerating tube feeding at 45cc/hr. Pt. guiac negative.
+GU: Pt with low urine output. Dr. [**Last Name (STitle) **] aware, continue to follow u/o and check for increase with blood transfusion.
+PLAN: Continue transfusion to total 2 units PRBC, follow HCTS post transfusion. Guiac all stools. Follow neuro exam. Monitor respiratory status. 
+
+",,
+13412,25349,16693,,2731-04-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-24**] 11:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15453**]
+     Reason: evaluate pulmonary edema                                    
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with seizures                                                
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate pulmonary edema                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 11:28 A.M. [**4-24**]
+     
+     HISTORY:  Seizures.  Pulmonary edema.
+     
+     IMPRESSION:  AP chest compared to [**4-18**] through 9:
+     
+     Lung volumes are lower today and mild edema has worsened compared to [**4-22**]. 
+     Mild-to-moderate cardiomegaly is stable.  Small bilateral pleural effusions
+     have probably increased.  No pneumothorax.  Feeding tube passes into the
+     stomach and out of view.  Right subclavian line tip projects over the mid SVC.
+                                                                           
+
+",,
+13412,25349,16693,0,2731-04-24 02:02:00 EST,2731-04-24 02:12:00 EST,936,"N",1,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+ASSESSMENT:
+    PATIENT ORIENTED X 1 AND OCCASIONALLY ANSWERING YES/NO QUESTIONS.  EXTREMELY AGITATED @ BEGINNING OF THE NIGHT, CONSTANTLY MOANING & MOVING IN THE BED.  INCONSISTANTLY FOLLOWING COMMANDS.  GIVEN ROXICET FOR PAIN WITH TURNING, FAIR EFFECT BUT PATIENT STILL RESTLESS.  GIVEN HALDOL, PATIENT NOW CALM.  PATIENT EXTREMELY WHEEZY WITH LABORED BREATHING WHEN AGITATED, NEBS WITHOUT EFFECT.  WET, NONPRODUCTIVE COUGH.  ABG CHECKED AND NORMAL.  
+    HEART RATE 70-90'S AFIB.  SBP DROPPED TO 70'S AFTER HALDOL, BUT OTHERWISE RANGING 90-120'S (DR. [**Last Name (STitle) **] AWARE).  REPEAT HCT (AFTER 2 UNITS PRBCS) 29.  PATIENT STILL MAKING MINIMAL URINE DESPITE LASIX.  ACCURATE CVP DIFFICULT TO OBTAIN WHEN PATIENT AGITATED, BUT HIGH TEENS WHEN SLEEPING.  
+    ABDOMEN SOFT, NONDISTENDED.  PROBALANCE @ GOAL RATE OF 45 CC/HOURLY.  NO STOOL OVERNIGHT.  GIVEN SLIDING SCALE INSULIN FOR ELEVATED BLOOD GLUCOSE.
+    PLAN: 
+CONTINUE WITH CURRENT ICU MONITORING AND TREATMENT.  ? TRANSFER TO STEPDOWN UNIT IF BED AVAILABLE.  
+",,
+13412,25349,16693,0,2731-04-24 15:51:00 EST,2731-04-24 16:44:00 EST,8854,"N",1,"Nursing/Other","7am-7pm Nursing Note","
+7am-7pm Nursing Note
+See CareVue for objective data and trends:
+NEURO: Pt remains restless, agitated, and constantly moving in the bed. Pt generally awake and will track eyes to speaker appropriately when her name is called. Pt rarely verbalizing, occasionally with one to two words at times, otherwise pt. moaning out. Pt's MAE, pupils equal and responsive to light. Will inconsistantly follow commands.
+RESP: Pt with audible wheezing, worse with expiration. RR 20-30, Pox 98-100% on 4 liters NC. Pt visibly using abdominal muscles when breathing. Wheezing improves when pt calm/sleeping. Dr. [**First Name (STitle) 1707**] aware of respiratory status. Pulmonary consult ordered.
+CV: HR 80-100, a-fib. SBP 90s when sleeping and up to 130s while awake. CVP elevated to 18-22 although true CVPs difficult to ascertain secondary to pt's restlessness. Pt had cardiac echo done to further assess cardiac status secondary to elevated CVPs and low urine output.
+GU: Urine output low through shift, ranging 6-15/hr. Dr. [**First Name (STitle) 1707**] aware of low urine ouput. Creatinine also trending higher. Pt given albumin X 1 followed by lasix with some slight improvement of urine output. After further discussion with Dr. [**Last Name (STitle) 151**], pt given a 500cc LR bolus at 1630, continue to assess urine output.
+GI: Abdomen is soft with positive BS. Pt NPO, tolerating TF at 45cc/hr.
+PLAN: Follow neuro exam and respiratory status closely. Monitor urine output closely. Possible plan for PA catheter placement in future per sicu team. Neuro also planning to perform LP for further work-up ? to be done tomorrow.
+
+
+ 
+",,
+13412,25349,16693,,2731-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-25**] 4:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15454**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with seizures, pulmonary edema                              
+                        
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ONE VIEW CHEST [**2731-4-25**].
+     
+     COMPARISON:  Chest x-ray [**2731-4-24**].
+     
+     INDICATION:  85-year-old female with seizures, pulmonary edema, evaluate for
+     interval change.
+     
+     FINDINGS:  Single frontal radiograph of the chest demonstrates a feeding
+     catheter with metallic tip overlying the body of the stomach.  There is
+     unchanged right subclavian central line.  The cardiomediastinal silhouette is
+     stable.  Again seen is moderate pulmonary edema which is stable.  There is an
+     unchanged left pleural effusion.  There is retrocardiac airspace opacity,
+     likely atelectasis.  There is no pneumothorax.
+     
+     IMPRESSION:  No interval change.
+                                                                           
+
+",,
+13412,25349,16693,0,2731-04-25 05:15:00 EST,2731-04-25 05:22:00 EST,252,"N",1,"Nursing/Other",,"
+
+NPN (NOC):
+
+RESP:  RR TEENS, REG, W/ PROLONGED AND LABORED EXP PHASE.  PT W/ AUDIBLE EXP WHEEZES DESPIT NEBS ATC.  LAST CXR C/W FLUID OVERLOAD.  LASIX 40 MG IV GIVEN W/ UNIMPRESSIVE RESPONSE.  CREAT UP TO 1.7 THIS AM (1.6 [**4-24**].)  CXR REPEATED IN AM.  DR. [**Last Name (STitle) **] AWARE OF THE ABOVE. 
+
+CV:  CVP'S RUNNING IN HIGH TEENS/LOW 20'S.  REMAINS IN AF W/ REASOBALY WELL CONTROLLED RATES.  SBP'S STABLE.
+
+NEURO:  PT HAS BEEN AWAKE FOR MOST OF THE NIGHT BUT IS NON VERBAL AND NOT FOLLOWING COMMANDS.  MAE RANDOMLY (LIFTS AND HOLDS).  WHEN AWAKE, MOANS AND WRITHES ALMOST CONTINUOUSLY. MED W/ ROXICET X 2 AS IT IS UNCLEAR WHETHER PT HAS PAIN. PT FELL ASLEEP FOR ~ 3 HRS AFTER 2ND DOSE.      
+
+F/E:  PT WAS 1.7 LITERS + AT MN. IS ~ 30 CC'S - NOW.  AM LYTES WNL.
+
+GI:  TOL TF WELL.  NO STOOL (LAST BM [**4-23**], HAD BEEN HAVING FREQ LOOSE STOOLS.)  
+",,
+13412,25349,16693,0,2731-04-25 17:21:00 EST,2731-04-25 17:29:00 EST,662,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+HR CONT TO BE IN AFIB - W/ BURSTS OF RAPID RATE INTO LOW 100'S TO 120. PRN LOPRESSOR GIVEN W/ LITTLE EFFECT.  LOW GRADE TEMP.  ALERT.  APPEARS TO BE ORIENTED TO PERSON AT TIMES.  NOT FOLLOWING COMMANDS. PERRLA.  NOT ANSWERING QUESTIONING.  MOANING MAJORITY OF SHIFT.  AT TIMES VERBAL (NORMAL VOICE, RANDOM STATEMENTS) ""MY ARM HURTS"", ""I'M DYING"". WHEN ASKED IF SHE IS SOB, NODS HEAD NO.  LUNGS COARSE THROUGHOUT, AT TIMES EXP WHEEZES AUSCULTATED THROUGHOUT.  NEBS GIVEN PER ORDERS W/ EFFECT. SUCTIONED OCCASSIONALLY FOR THICK TAN SPUTUM.  PER CXR PT STILL ""WET"". NEUROMED AND SICU RESIDENT (DR. [**Last Name (STitle) 3315**]) NOTIFIED MULT TIMES REGARDING NEURO STATUS AND AGITATION.  ATIVAN X1 ORDERED AND GIVEN W/ MIN EFFECT.  NO OTHER ORDERS. ROXICET GIVEN X2 FOR PAIN. TOLERATING TFEED W/O INCIDENT.  BELLY SOFT, NT.  POSITIVE BOWEL SOUNDS NOTED.  U/O QS VIA FOLEY.  STARTED ON LASIX DRIP W/ GOAL OF 1L NEGATIVE/24HRS.  LASIX DRIP D/C'D AND 40MG IVP ORDERED AND GIVEN.
+CONT CLOSE NEURO ASSESSMENT.  PT SAFETY.  PAIN MANAGEMENT.  AGGRESSIVE PULMONARY TOILET.  PT FAMILY TEACHING AND SUPPORT.  CONT CURRENT ICU CARE AND ASSESSMENTS. 
+",,
+13412,25349,16693,,2731-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-26**] 3:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15455**]
+     Reason: f/u film to evaluate chf                                    
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old woman with seizures, pulmonary edema                             
+                          
+     REASON FOR THIS EXAMINATION:
+      f/u film to evaluate chf                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seizure.  CHF.
+     
+     Single portable radiograph of the chest again demonstrates bibasilar
+     atelectasis, similar to that seen on [**2731-4-25**].  Patchy bilateral airspace
+     opacities also remain similar in appearance.  There may be a faint persistent
+     left retrocardiac opacity, also similar in appearance.  Diagnostic quality is
+     slightly limited by respiratory motion.  There is evidence of left lateral
+     seventh and eight, and possibly ninth, rib fractures.  No pneumothorax.  The
+     aorta is calcified and tortuous.  The cardiomediastinal contours are
+     unchanged.
+     
+     IMPRESSION:
+     
+     Support lines unchanged.
+     
+     Persistent bibasilar atelectasis and small bilateral pleural effusions.
+     
+     Persistent patchy increased airspace opacity involving the bilateral lungs. 
+     Diagnostic considerations include pulmonary edema, although pneumonia is not
+     excluded.  The findings are similar to that seen on the previous study.
+     
+     Support lines unchanged.
+     
+     Left lateral seventh, eighth, and ninth rib fractures with callus formation. 
+     The findings represent subacute injury.  No pneumothorax.
+                                                                           
+
+",,
+13412,25349,16693,,2731-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-26**] 10:17 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15456**]
+     Reason: Please evaluate placement of Dobhoff tube                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old woman with seizures, pulmonary edema, placed dobhoff tube at 
+      bedside                                
+     REASON FOR THIS EXAMINATION:
+      Please evaluate placement of Dobhoff tube                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Dobbhoff tube placement.
+     
+     A single portable radiograph of the chest is submitted.  The left lateral
+     hemithorax is excluded.  There has been interval placement of a nasogastric
+     tube when compared with the radiograph obtained six hours prior.  The
+     nasogastric tube courses along the right main stem bronchus and terminates in
+     a position projecting over the right lower lung.  The right subclavian central
+     venous catheter is unchanged in position with its tip in the SVC.  Trachea is
+     midline.
+     
+     IMPRESSION:
+     
+     Interval placement of feeding tube.  The tube courses along the right main
+     stem bronchus with the tip located in the right lower lung.
+     
+     These findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 15457**] on [**2731-4-26**] at 11:15
+     a.m.
+
+",,
+13412,25349,16693,,2731-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-26**] 10:17 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15456**]
+     Reason: Please evaluate placement of Dobhoff tube                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old woman with seizures, pulmonary edema, placed dobhoff tube at 
+      bedside                                
+     REASON FOR THIS EXAMINATION:
+      Please evaluate placement of Dobhoff tube                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Dobbhoff tube placement.
+     
+     A single portable radiograph of the chest is submitted.  The left lateral
+     hemithorax is excluded.  There has been interval placement of a nasogastric
+     tube when compared with the radiograph obtained six hours prior.  The
+     nasogastric tube courses along the right main stem bronchus and terminates in
+     a position projecting over the right lower lung.  The right subclavian central
+     venous catheter is unchanged in position with its tip in the SVC.  Trachea is
+     midline.
+     
+     IMPRESSION:
+     
+     Interval placement of feeding tube.  The tube courses along the right main
+     stem bronchus with the tip located in the right lower lung.
+     
+     These findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 15457**] on [**2731-4-26**] at 11:15
+     a.m.
+
+",,
+13412,25349,16693,0,2731-04-26 02:17:00 EST,2731-04-26 02:26:00 EST,1489,"N",1,"Nursing/Other",,"
+
+B SHIFT
+
+Neuro: In constant motion and moaning when awake, but asleep w/ lorazepam. Will open eyes when her name is called, but otherwise unable to asses if she is oriented to place, time or person.  PERRL
+CV: AF w/ vent response as noted in carevue, no VEA.  Hypertensive with agitation, but SBP acceptable when asleep.  CVP w/ good waveform and values.
+Resp: Both lungs clear but coarse. When turned at bathtime, pt expectorated large amounts of sputum with cpt, and swallowed secretions. Nebs administered by RT
+GI: BS present in all four quandrants, continues with ProBalance at 45cc/hr by post-pyloric pedi-NGT.
+ENDO: FSBS covered with RISS
+GU: Diuresing well with intermittent doses of furosemide.
+Skin: Intact, warm and dry. Small ecchymotic area on lumbar spine. 
+Plan: Monitor neuro, respiratory status, and diurese as approporiate. Continue ICU care.
+",,
+13412,25349,16693,0,2731-04-26 17:17:00 EST,2731-04-26 17:24:00 EST,662,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+REMAINS IN AFIB.  RAPID RATE UP TO 130'S AT TIMES, GIVEN LOPRESSOR W/ EFFECT. FEBRILE.  BLOOD CULTURES SENT.  NEUROMED WANTS LP DONE, UNABLE TO DO SECONDARY TO ELEVATED INR AND TEMPS.  COUMADIN TO BE HELD TONIGHT. AGITATED AT TIMES - GIVEN ATIVAN W/ EFFECT.  LESS ALERT TODAY, HOWEVER DOES RESPOND TO VOICE.  NOT FOLLOWING COMMANDS, NOT SAYING WORDS, ONLY MOANING AND SHAKING HEAD. NEUROMED AND SICU RESIDENTS AWARE OF NEURO STATUS. PUPILS EQUAL AND REACTIVE BILATERALLY.  MOVING ALL EXTREMITIES ON BED SPONTANEOUSLY.  DOBHOFF ""CLOGGED"", D/[**Name6 (MD) **] - MD UNABLE TO PLACE NEW FEEDING TUBE. PT SCHEDULED FOR FLUORO IN A.M. FOR DOBHOFF PLACEMENT.  LUNGS COARSE THROUGHOUT, AT TIMES INSP WHEEZES AUSCULTATED.  O2 SAT ACCEPTABLE ON 50% FACE TENT.  ABD SOFT, NON TENDER.  NO BOWEL MOVEMENT THIS SHIFT.  IV LASIX GIVEN [**Name8 (MD) **] MD'S ORDERS.  PT DIURESING WELL VIA FOLEY.  DTR IN TO VISIT.  
+CONT CLOSE NEURO ASSESSMENT.  MONITOR FOR S/S OF STROKE/BLEED.  PAIN MANAGEMENT.  MONITOR FOR S/S OF WORSENING INFECTION.  STRICT I/O'S.  PT FAMILY TEACHING AND SUPPORT.  CONT CURRENT ICU CARE AND ASSESSMENTS.  
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 8:09 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 15458**]
+     Reason: FEVER TRANSAMINTIS R/O CHOLECYSTITIS
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate for cholecystitis, patient with fever and transaminitis.
+     
+     TECHNIQUE:  Portable images of the abdomen were obtained.  No prior
+     examinations are available for direct comparison.
+     
+     FINDINGS:  The gallbladder is distended, measuring approximately 4.9 x 4.2 x
+     10.5 cm in maximal transverse x AP x craniocaudad dimensions, respectively.
+     There is asymmetric wall edema visualized along the gallbladder fossa adjacent
+     to the liver measuring 0.6 cm in thickness.  No intraluminal gallstone or
+     sludge is seen.  Findings are nondiagnostic for the presence of cholecystitis
+     and further characterization with HIDA scan is recommended.
+     
+     Adjacent to the left lobe of the liver, there is a 3.5 x 3.2 cm cystic lesion
+     that is indeterminate in origin, either arising from the left lobe of the
+     liver or from the pancreas.  Further characterization with an abdominal CT is
+     recommended.
+     
+     The pancreas is not well visualized due to overlying bowel gas.  The common
+     bile duct is distended measuring 0.96 cm.  Distal aspect of the common bile
+     duct is not seen due to shadowing bowel gas.
+     
+     The right kidney measures approximately 11 cm in size.  The left kidney
+     measures 10.1 cm in size.
+     
+     There is no ascites within the abdomen.
+     
+     
+     IMPRESSION:
+     1.  Distended gallbladder with asymmetric edema within the gallbladder wall,
+     indeterminate for the presence or absence of acute cholecystitis.  Recommend
+     further characterization with a HIDA scan.
+     2.  Prominent CBD, measuring 0.96 cm in size.  The distal CBD and head of the
+     pancreas are not well seen- recommend further visualization with contrast
+     enhanced CT of the Abdomen.
+     3. Pedunculated cystic lesion projecting between the lateral left lobe of the
+     liver and the pancreas. The origin of this cystic lesion is incompletely
+     resolved with the current study and further characterization with a CT scan is
+     recommended.
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 9:32 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15462**]
+     Reason: r/o stroke, bleed                                           
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with mental status changes, intubated                         
+     REASON FOR THIS EXAMINATION:
+      r/o stroke, bleed                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with mental status changes, intubated, rule
+     out stroke or intracranial hemorrhage.
+     
+     COMPARISON:  Non-contrast head CT dated [**2731-4-20**].
+     
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage, mass effect, or shift
+     of normally midline structures.  There is no significant change in the
+     appearance of the brain since prior study.  Low attenuation in the
+     periventricular and subcortical white matter is associated with chronic
+     microvascular infarction.  A lacunar infarct in the right thalamus/posterior
+     limb of the internal capsule is chronic.There is an old right occipital
+     infarct. Prominence of the ventricles and sulci is age appropriate.
+     
+     Mucosal thickening in bilateral maxillary sinuses, is unchanged.  Fluid in the
+     ethmoid and sphenoid air cells is slightly increased.  There is persistent
+     fluid opacification and scattered bilateral mastoid air cells.
+     
+     IMPRESSION:
+     1.  Stable appearance of the brain.
+     
+     
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 9:33 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15463**]
+     CT PELVIS W/CONTRAST
+     Reason: WIDENED COMMON BILE DUCT.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with mental status changes, intubated, with transaminitis, 
+      widened common bile duct and edematous gallbladder on RUQ u/s.
+     REASON FOR THIS EXAMINATION:
+      r/o source of infection, ? abscess, ?acalculous cholecystitis                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with mental status changes, intubated with
+     transaminitis and edematous gallbladder on right upper quadrant ultrasound.
+     Evaluate for abdominal source of infection.
+     
+     COMPARISON:  Abdominal ultrasound dated [**2731-4-27**].
+     
+     TECHNIQUE:  MDCT imaging of the chest, abdomen, and pelvis was performed
+     following the administration of 130 cc of intravenous Optiray.  Coronal and
+     sagittal reformatted images were obtained.
+     
+     CT CHEST WITH ORAL, WITH INTRAVENOUS CONTRAST:   Likley moderate stenosis left
+     subclavian at vertebral origin with severe atherosclerosis. The patient is
+     intubated and a nasogastric tube is in place with the tip in the stomach body.
+     A left subclavian central venous catheter terminates in the mid SVC. There are
+     scattered coronary artery and aortic calcifications. The heart and great
+     vessels are otherwise unremarkable. There is a tiny pericardial effusion at
+     the base.  There are small, bilateral nonhemorrhagic layering pleural effusion
+     with compressive atelectasis. Scattered peripheral areas of airspace
+     consolidation may represent atelectasis or early pneumonia.
+     
+     CT ABDOMEN WITH ORAL, WITH INTRAVENOUS CONTRAST:  The liver parenchyma
+     enhances normally.  Multiple areas of low attenuation are identified, some of
+     which were seen on abdominal ultrasound from earlier today may represents
+     cysts or hemangiomas.  A pedunculated lesion in the perisplenic region
+     identified on prior ultrasound corresponds with a 3.1 x 2.3 cm likely cyst or
+     hemangioma in the left liver lobe.
+     
+     The gallbladder remains distended and thick walled, without radiopaque
+     gallstones or prominent CBD dilatation.  Pancreas enhances normally without
+     significant peripancreatic stranding.  The spleen is nonenlarged.  A 19 x 21
+     mm enhancing nodule in the left adrenal gland is incompletely characterized on
+     this single-phase study.  Small low-density lesions in both kidneys
+     statistically represent simple cysts, but are too small to characterize.  Both
+     kidneys enhance and excrete contrast symmetrically and there is no
+     hydronephrosis.  The abdominal loops of large and small bowel are normal in
+     caliber and contour.  There is some minimal amount of intra-abdominal ascites.
+     No fluid collections or abscesses are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2731-4-27**] 9:33 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15463**]
+     CT PELVIS W/CONTRAST
+     Reason: WIDENED COMMON BILE DUCT.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT PELVIS WITH ORAL, WITH INTRAVENOUS CONTRAST:  A Foley catheter is seen
+     within a partially collapsed bladder.  The distal ureters, sigmoid, rectum,
+     uterus and adnexa are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.  There is a small amount of intrapelvic ascites.
+     
+     BONE WINDOWS:  There are no findings concerning for malignancy within the
+     imaged bones.  There are mild/moderate degenerative changes, most prominent at
+     L4 through S1.  T12 vertebral body compression deformity may be acute or
+     chronic.  There are multiple old, partially healed left-sided rib fractures.
+     
+     IMPRESSION:
+     1.  Thickened, edematous-appearing gallbladder corresponding with this
+     appearance on comparison ultrasound.  This may represent acalculous
+     cholecystitis in the correct clinical setting, and correlation with HIDA scan
+     is recommended.
+     
+     2.  Cystic lesion in the perisplenic region identified on prior ultrasound
+     corresponds with the low attenuation lesion in the left liver lobe, likely
+     representing a cyst or hemangioma.
+     
+     3.  No intraabdominal abscesses or fluid collections identified.
+     
+     4.  Moderately large bilateral nonhemorrhagic layering pleural effusions with
+     compressive atelectasis.  Peripheral areas of airspace consolidation in both
+     lungs likely represent atelectasis.
+     
+     5.  Enhancing left adrenal lesion measuring up to 2 cm is incompletely
+     characterized, and can be further evaluated with dedicated MRI and CT.
+     
+     6.  Small intraabdominal ascites.
+     
+     7.  Degenerative changes within the thoracic and lumbar spine.  T12
+     compression deformities may be acute or chronic and clinical correlation is
+     requested.
+     
+     8.  Moderate stenosis left subclavian at vertebral origin with severe
+     atherosclerosis. The patient
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 9:33 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15463**]
+     CT PELVIS W/CONTRAST
+     Reason: WIDENED COMMON BILE DUCT.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with mental status changes, intubated, with transaminitis, 
+      widened common bile duct and edematous gallbladder on RUQ u/s.
+     REASON FOR THIS EXAMINATION:
+      r/o source of infection, ? abscess, ?acalculous cholecystitis                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with mental status changes, intubated with
+     transaminitis and edematous gallbladder on right upper quadrant ultrasound.
+     Evaluate for abdominal source of infection.
+     
+     COMPARISON:  Abdominal ultrasound dated [**2731-4-27**].
+     
+     TECHNIQUE:  MDCT imaging of the chest, abdomen, and pelvis was performed
+     following the administration of 130 cc of intravenous Optiray.  Coronal and
+     sagittal reformatted images were obtained.
+     
+     CT CHEST WITH ORAL, WITH INTRAVENOUS CONTRAST:   Likley moderate stenosis left
+     subclavian at vertebral origin with severe atherosclerosis. The patient is
+     intubated and a nasogastric tube is in place with the tip in the stomach body.
+     A left subclavian central venous catheter terminates in the mid SVC. There are
+     scattered coronary artery and aortic calcifications. The heart and great
+     vessels are otherwise unremarkable. There is a tiny pericardial effusion at
+     the base.  There are small, bilateral nonhemorrhagic layering pleural effusion
+     with compressive atelectasis. Scattered peripheral areas of airspace
+     consolidation may represent atelectasis or early pneumonia.
+     
+     CT ABDOMEN WITH ORAL, WITH INTRAVENOUS CONTRAST:  The liver parenchyma
+     enhances normally.  Multiple areas of low attenuation are identified, some of
+     which were seen on abdominal ultrasound from earlier today may represents
+     cysts or hemangiomas.  A pedunculated lesion in the perisplenic region
+     identified on prior ultrasound corresponds with a 3.1 x 2.3 cm likely cyst or
+     hemangioma in the left liver lobe.
+     
+     The gallbladder remains distended and thick walled, without radiopaque
+     gallstones or prominent CBD dilatation.  Pancreas enhances normally without
+     significant peripancreatic stranding.  The spleen is nonenlarged.  A 19 x 21
+     mm enhancing nodule in the left adrenal gland is incompletely characterized on
+     this single-phase study.  Small low-density lesions in both kidneys
+     statistically represent simple cysts, but are too small to characterize.  Both
+     kidneys enhance and excrete contrast symmetrically and there is no
+     hydronephrosis.  The abdominal loops of large and small bowel are normal in
+     caliber and contour.  There is some minimal amount of intra-abdominal ascites.
+     No fluid collections or abscesses are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2731-4-27**] 9:33 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15463**]
+     CT PELVIS W/CONTRAST
+     Reason: WIDENED COMMON BILE DUCT.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT PELVIS WITH ORAL, WITH INTRAVENOUS CONTRAST:  A Foley catheter is seen
+     within a partially collapsed bladder.  The distal ureters, sigmoid, rectum,
+     uterus and adnexa are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.  There is a small amount of intrapelvic ascites.
+     
+     BONE WINDOWS:  There are no findings concerning for malignancy within the
+     imaged bones.  There are mild/moderate degenerative changes, most prominent at
+     L4 through S1.  T12 vertebral body compression deformity may be acute or
+     chronic.  There are multiple old, partially healed left-sided rib fractures.
+     
+     IMPRESSION:
+     1.  Thickened, edematous-appearing gallbladder corresponding with this
+     appearance on comparison ultrasound.  This may represent acalculous
+     cholecystitis in the correct clinical setting, and correlation with HIDA scan
+     is recommended.
+     
+     2.  Cystic lesion in the perisplenic region identified on prior ultrasound
+     corresponds with the low attenuation lesion in the left liver lobe, likely
+     representing a cyst or hemangioma.
+     
+     3.  No intraabdominal abscesses or fluid collections identified.
+     
+     4.  Moderately large bilateral nonhemorrhagic layering pleural effusions with
+     compressive atelectasis.  Peripheral areas of airspace consolidation in both
+     lungs likely represent atelectasis.
+     
+     5.  Enhancing left adrenal lesion measuring up to 2 cm is incompletely
+     characterized, and can be further evaluated with dedicated MRI and CT.
+     
+     6.  Small intraabdominal ascites.
+     
+     7.  Degenerative changes within the thoracic and lumbar spine.  T12
+     compression deformities may be acute or chronic and clinical correlation is
+     requested.
+     
+     8.  Moderate stenosis left subclavian at vertebral origin with severe
+     atherosclerosis. The patient
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 9:33 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15463**]
+     CT PELVIS W/CONTRAST
+     Reason: WIDENED COMMON BILE DUCT.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with mental status changes, intubated, with transaminitis, 
+      widened common bile duct and edematous gallbladder on RUQ u/s.
+     REASON FOR THIS EXAMINATION:
+      r/o source of infection, ? abscess, ?acalculous cholecystitis                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old female with mental status changes, intubated with
+     transaminitis and edematous gallbladder on right upper quadrant ultrasound.
+     Evaluate for abdominal source of infection.
+     
+     COMPARISON:  Abdominal ultrasound dated [**2731-4-27**].
+     
+     TECHNIQUE:  MDCT imaging of the chest, abdomen, and pelvis was performed
+     following the administration of 130 cc of intravenous Optiray.  Coronal and
+     sagittal reformatted images were obtained.
+     
+     CT CHEST WITH ORAL, WITH INTRAVENOUS CONTRAST:   Likley moderate stenosis left
+     subclavian at vertebral origin with severe atherosclerosis. The patient is
+     intubated and a nasogastric tube is in place with the tip in the stomach body.
+     A left subclavian central venous catheter terminates in the mid SVC. There are
+     scattered coronary artery and aortic calcifications. The heart and great
+     vessels are otherwise unremarkable. There is a tiny pericardial effusion at
+     the base.  There are small, bilateral nonhemorrhagic layering pleural effusion
+     with compressive atelectasis. Scattered peripheral areas of airspace
+     consolidation may represent atelectasis or early pneumonia.
+     
+     CT ABDOMEN WITH ORAL, WITH INTRAVENOUS CONTRAST:  The liver parenchyma
+     enhances normally.  Multiple areas of low attenuation are identified, some of
+     which were seen on abdominal ultrasound from earlier today may represents
+     cysts or hemangiomas.  A pedunculated lesion in the perisplenic region
+     identified on prior ultrasound corresponds with a 3.1 x 2.3 cm likely cyst or
+     hemangioma in the left liver lobe.
+     
+     The gallbladder remains distended and thick walled, without radiopaque
+     gallstones or prominent CBD dilatation.  Pancreas enhances normally without
+     significant peripancreatic stranding.  The spleen is nonenlarged.  A 19 x 21
+     mm enhancing nodule in the left adrenal gland is incompletely characterized on
+     this single-phase study.  Small low-density lesions in both kidneys
+     statistically represent simple cysts, but are too small to characterize.  Both
+     kidneys enhance and excrete contrast symmetrically and there is no
+     hydronephrosis.  The abdominal loops of large and small bowel are normal in
+     caliber and contour.  There is some minimal amount of intra-abdominal ascites.
+     No fluid collections or abscesses are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2731-4-27**] 9:33 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15463**]
+     CT PELVIS W/CONTRAST
+     Reason: WIDENED COMMON BILE DUCT.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT PELVIS WITH ORAL, WITH INTRAVENOUS CONTRAST:  A Foley catheter is seen
+     within a partially collapsed bladder.  The distal ureters, sigmoid, rectum,
+     uterus and adnexa are unremarkable.  There is no inguinal or pelvic
+     lymphadenopathy.  There is a small amount of intrapelvic ascites.
+     
+     BONE WINDOWS:  There are no findings concerning for malignancy within the
+     imaged bones.  There are mild/moderate degenerative changes, most prominent at
+     L4 through S1.  T12 vertebral body compression deformity may be acute or
+     chronic.  There are multiple old, partially healed left-sided rib fractures.
+     
+     IMPRESSION:
+     1.  Thickened, edematous-appearing gallbladder corresponding with this
+     appearance on comparison ultrasound.  This may represent acalculous
+     cholecystitis in the correct clinical setting, and correlation with HIDA scan
+     is recommended.
+     
+     2.  Cystic lesion in the perisplenic region identified on prior ultrasound
+     corresponds with the low attenuation lesion in the left liver lobe, likely
+     representing a cyst or hemangioma.
+     
+     3.  No intraabdominal abscesses or fluid collections identified.
+     
+     4.  Moderately large bilateral nonhemorrhagic layering pleural effusions with
+     compressive atelectasis.  Peripheral areas of airspace consolidation in both
+     lungs likely represent atelectasis.
+     
+     5.  Enhancing left adrenal lesion measuring up to 2 cm is incompletely
+     characterized, and can be further evaluated with dedicated MRI and CT.
+     
+     6.  Small intraabdominal ascites.
+     
+     7.  Degenerative changes within the thoracic and lumbar spine.  T12
+     compression deformities may be acute or chronic and clinical correlation is
+     requested.
+     
+     8.  Moderate stenosis left subclavian at vertebral origin with severe
+     atherosclerosis. The patient
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 3:07 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15461**]
+     Reason: re-placement of Dobhoff tube                                
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with seizures                                                
+     REASON FOR THIS EXAMINATION:
+      re-placement of Dobhoff tube                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Replacement of Dobbhoff tube.
+     
+     Comparison is made to prior radiograph dated [**4-26**] and [**2731-4-27**].
+     
+     SUPINE PORTABLE CHEST RADIOGRAPH
+     
+     FINDINGS:
+     Dobbhoff tube terminates beneath the diaphragm with distal tip not visualized
+     on current radiograph and there has been interval removal of right-sided
+     central venous catheter.  Endotracheal tube terminates approximately 1.5 cm
+     from the carina with the  chin-flexed and there is stable position to left-
+     sided central venous catheter.  Ill-defined right upper lobe opacity appears
+     improved when compared to film taken at approximately 10:50 a.m. likely
+     representing resolution of either asymmetric pulmonary edema or irregular area
+     of atelectasis.  There is unchanged appearance to lack of lucency within the
+     left mainstem bronchus and probable left lower lobe collapse.  Increased hazy
+     opacity projecting over the right base likely represents layering small
+     pleural effusion.
+     
+     IMPRESSION:
+     1.  Tip of feeding tube beneath the diaphragm and likely within the stomach
+     but not visualized.
+     2.  Unchanged probable mucoid impaction of left mainstem bronchus and left
+     lower lobe collapse.
+     3.  Small layering right-sided pleural effusion.
+     4.  Improvement to right upper lobe opacity.  Given rapid change, it likely
+     represents either resolving atelectasis or asymmetrical edema, possibly
+     related to aspiration pneumonitis.
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 3:07 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 15461**]
+     Reason: re-placement of Dobhoff tube                                
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with seizures                                                
+     REASON FOR THIS EXAMINATION:
+      re-placement of Dobhoff tube                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Replacement of Dobbhoff tube.
+     
+     Comparison is made to prior radiograph dated [**4-26**] and [**2731-4-27**].
+     
+     SUPINE PORTABLE CHEST RADIOGRAPH
+     
+     FINDINGS:
+     Dobbhoff tube terminates beneath the diaphragm with distal tip not visualized
+     on current radiograph and there has been interval removal of right-sided
+     central venous catheter.  Endotracheal tube terminates approximately 1.5 cm
+     from the carina with the  chin-flexed and there is stable position to left-
+     sided central venous catheter.  Ill-defined right upper lobe opacity appears
+     improved when compared to film taken at approximately 10:50 a.m. likely
+     representing resolution of either asymmetric pulmonary edema or irregular area
+     of atelectasis.  There is unchanged appearance to lack of lucency within the
+     left mainstem bronchus and probable left lower lobe collapse.  Increased hazy
+     opacity projecting over the right base likely represents layering small
+     pleural effusion.
+     
+     IMPRESSION:
+     1.  Tip of feeding tube beneath the diaphragm and likely within the stomach
+     but not visualized.
+     2.  Unchanged probable mucoid impaction of left mainstem bronchus and left
+     lower lobe collapse.
+     3.  Small layering right-sided pleural effusion.
+     4.  Improvement to right upper lobe opacity.  Given rapid change, it likely
+     represents either resolving atelectasis or asymmetrical edema, possibly
+     related to aspiration pneumonitis.
+
+",,
+13412,25349,16693,,2731-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-27**] 10:34 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 15459**]
+     Reason: ? cause for respiratory decline requiring reintubation.  new
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with seizures                                                 
+     REASON FOR THIS EXAMINATION:
+      ? cause for respiratory decline requiring reintubation.  new L SC line placed   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Respiratory decline requiring intubation with new left subclavian
+     line.
+     
+     Comparison is made to prior radiographs dated in [**2731-4-26**].
+     
+     SEMI-UPRIGHT PORTABLE CHEST RADIOGRAPH
+     
+     FINDINGS:
+     
+     Left subclavian central venous catheter terminates within the mid SVC and
+     there is no evidence of pneumothorax.  There has been interval loss of
+     definition of the left main stem bronchus and increased obscuration of the
+     left hemidiaphragm and retrocardiac opacity likely representing left lower
+     lobe collapse, possibly related to mucoid impaction.  Additionally, an ill-
+     defined airspace opacity projecting over the right upper lobe has increased in
+     density since most recent radiograph.  Small bilateral pleural effusions are
+     stable as is rib fracture deformity involving the left hemithorax.  Right-
+     sided central venous catheter and endotracheal tube are in standard position
+     and a Dobbhoff feeding tube now terminates within the stomach.
+     
+     IMPRESSION:
+     1.  Standard position of lines and tubes without evidence of pneumothorax.
+     2.  Increasing right upper lobe opacity is worrisome for a developing
+     pneumonia.
+     3.  Left lower lobe collapse likely due to mucous plugging.
+     
+     D/W Dr. [**Last Name (STitle) 15460**]  at approximately 12:00 p.m.
+
+",,
+13412,25349,16693,0,2731-04-27 02:00:00 EST,2731-04-27 02:09:00 EST,7862,"N",1,"Nursing/Other","Update:","
+Update:
+See careview for details....
+Neuro: Pt moaning, opens eyes to pain, MAE but does not follow commands, no verbal response, pupils 3mm and brisk, Ativan and fentanyl given to help restlessness with little effect
+
+CV: HR 120-140's, Lopressor increased with no results, Dr [**Last Name (STitle) 3898**] notified and will discuss on rounds, BP elevated at times, low grade temp
+
+Resp: tol 50% OFM, sats 100%, resp slightly labored, exp wheezes with coarse LS bilat
+
+GI: dobhoff out, awaiting replacement in AM, no BM
+
+GU: foley dng clear yellow urine
+
+Plan: LP this week when INR normal, dobhoff today, rate control
+",,
+13412,25349,16693,0,2731-04-27 15:43:00 EST,2731-04-27 15:50:00 EST,7617,"N",1,"Nursing/Other",,"
+
+resp care - Pt was intubated this AM without incident due to resp distress. #7.5ETT in use, 21@lip. BLBS were coarse t/o requiring suctioning of moderate amounts of bloody secretions. Secretions changed to tannish yellow by PM. Pt is sedated and on full vent support. Wheezes were heard in the RLL at last check and albuterol MDI given. ABG shows metabolic alkalosis with good ventilation and oxygenation. Pt is to be transferred to MICU7.
+",,
+13412,25349,16693,0,2731-04-27 16:25:00 EST,2731-04-27 16:39:00 EST,8914,"N",1,"Nursing/Other","NPN","
+NPN
+See careview for details:
+
+Unresponsive this am, pupils 3mm and sluggish.  Became unequal but briskly reactive this afternoon, Dr [**First Name (STitle) **] aware.  Moves BUE to withdraw from pain, moves ble nonpurposfully.  Movement is inconisistant.  Does not open eyes or follow commands.  Sedated on propofol at 20mcg/kg/min with good effect.  Temp down to 100.4 this am, bear hugger off.  Temp then down to 95.5, warm blankets applied, temp currently 96.4.  Afib with occasional PAC's.  Rate 120's this am, down to 100's, gradually trending down to 60's with occasional pauses and episodes of rate down to 50's.  Dr [**First Name8 (NamePattern2) 4008**] [**Last Name (NamePattern1) **] aware, ekg done.  Cardiac enzymes done, elevated troponin.  Team aware.  Repeat set added on to afternoon labs, results pending.  Became hypotensive after intubated with sbp down to 50's.  Given fluid bolus and started on neo, off at this time. Given 500cc bolus this afternoon for sustained sbp <90.  Heparin gtts at 300units/hr.  Goal ptt 40-60 (afib) last ptt at 1400 45, next to be drawn at 2000.  +pp, no edema.  bil venodynes on.  Lungs coarse, diminshed at bil bases right>left Insp/ext wheezes, givne albuterol/atrovent prn.  Sxn for moderate amt pluggy secreations.  ABG shows metabolic alkolosis.  RR increased to decrease co2.  CXR today shows new RUL pneumonia.  Doboff replaced, tube feedings started at 1600 at 10cc/hr, to increase as tolerated.  Bowel sounds hypoactive.  BM x 2 this shift.  Foley with adequate urine output 30-60cc/hr.  Skin intact, no breakdown.  Plan to continue to monitor labs, repleate lytes as indicated, goal ptt 49-69. WBC down from 21 to 16 after abx started.  Monitor hemodynamics and respiratory status, plan for trach and peg.  Tx to micu service.
+",,
+13412,25349,16693,0,2731-04-27 17:48:00 EST,2731-04-27 17:53:00 EST,4027,"N",54,"Nursing/Other","ADMISSION NOTE 1830","
+ADMISSION NOTE 1830
+THIS IS AN 85 Y/O F WITH PMH SIGNIFICANT FOR AFIB, RT SIDED STROKE IN 11/05, WTOH ABUSE (CEASED [**12-21**]), HX OF HEAVY TOBACCO ABUSE WHO WAS INITIALLY ADMITTED TO [**Hospital1 **] ON [**2731-4-16**] WITH RT SIDED WEAKNESS, DYSARTHIA, AND SYNCOPE.  EMS FOUND PT AWAKE WITH RT SIDED WEAKNESS AND GENERAL TONIC-CLONIC SZ ACTIVITY.  INTUBATED FOR AWP ON THE SCENE.  UPON ARRIVAL TO [**Hospital1 10**] CODE STROKE ACTIVATED.  AT THAT TIME MRI AND HEAD CT WERE NEGATVIE FOR ACUTE STROKE OR BLEED.  PT ADMITTED TO SICU.  HOSPITAL COURSE COMPLICATED BY GPC IN SPUTUM- BRONCH WAS SIGNIFICANT FOR THICK SECRETIONS AND TRACEHOBRONCHOMALACIA.  PT WAS EVENTUALLY EXTUBATED ON [**2731-4-21**] BUT REQUIRED BIPAP.  ON [**4-26**]- PT NOTED TO HAVE TEMP SPIKE TO 104.  HYPOTENSIVE EPISODE REQUIRING FLUID BOLUSES AND INITIATION OF NEO GTT.  ALSO NOTED TO HAVE INCREASED INR- UNABLE TO DO LP.  PT REINTUBATED ON [**4-27**] FOR RESPIRATORY DISTRESS AND TX TO MICU FOR MANAGEMENT.  PLAN FOR REPEAT HEAD/CHEST CT TONIGHT.  
+",,
+13412,25349,16693,0,2731-04-27 21:26:00 EST,2731-04-27 21:27:00 EST,3497,"N",54,"Nursing/Other",,"
+
+Resp. Care:
+Pt. transported to ct scan without event. Back to micu on vent., stable resp. status.
+",,
+13412,25349,16693,0,2731-04-28 03:58:00 EST,2731-04-28 04:32:00 EST,8797,"N",54,"Nursing/Other","npn: 1900-0700","
+npn: 1900-0700
+code status: full (waiting for daughter to bring in living will)
+
+all: nkda
+
+pmh: afib, cva with l sided weakness, r ica stenosis, mitral regurg, ^chol, htn, oa
+
+reason for admission: 85 y/o f found down at home by daughter, brought in as a code stroke. tonic clonic sz noted at scene by ems. pt intubated in field. pt sent to SICU for management. 
+
+signifcant events: pt transfered to micu from sicu on [**4-27**] [**1-16**] pt presenting with spesis picture. pt was re-intubated on [**4-27**] for airway protection. pt is sedated on prop gtt at 10mcg/kg/min. pt had ct of abd, head, and chest on [**4-27**]. ct showed large gallbladder with increased lft's. head ct negative. pt cr is increased so pt was prep with bicarb prior/post scan which is now completed. pt on heparin gtt for afib at 600 units. pt potassium low at 3.2 and pt is currently being repleted. pt is npo except meds untill further notice. pt abg is [**Name6 (MD) 4787**] which md are aware could be high [**1-16**] to bicarb infusion?
+
+neuro: pt will move on bed. pt will make purposful movments at times. pt localizes pain. pt will follow commands inconsistently. pt sedated on prop gtt. pt in soft wrist rest. 
+
+cv: pt abp 89-130's. pt is sensitive to prop boluses/increases bp will drop. pt hr 60-90's. afib. pt is on hep gtt with q 6 hour ptt. pt has ppp. generalized trace edema. 
+
+resp: pt is on AC vent. setting 40%/450/18/5peep. pt lungs are slightly coarse at times and diminshed in bases. pt has been et suction for minimal yellowish secertions q 4 hrs. pt oral secretions are thick and yellow. deep oral suction is required. pt has strong cough. pt has rll pna. 
+
+gi/gu: pt has doubhoff in place with no feeding untill further notice. pt npo except meds. pt has rectal bag in placed. abd soft/distended. lft's elevated but 2200 lft's began to trend down. foley draining yellow clear urine. ua/uc sent. 27-60cc/hr. 
+
+skin: c/d/i. 
+
+access: tlc l sub and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] aline
+
+id: tmax this am 99.1 orally. pt on azthromycin, ceftriaxone, zosyn
+
+endo: fsq6hrs. 0000--92
+
+plan: ptt at 1000. attempted to wean vent. daily wake ups. monitor lfts
+
+  
+",,
+13412,25349,16693,0,2731-04-28 04:27:00 EST,2731-04-28 04:31:00 EST,3497,"N",54,"Nursing/Other",,"
+
+resp. care:
+S:awake, agitated at times. remains intubated.
+O:pt. cont's on vent. support. BS-coarse exp wheezes. albut/atrov mdi's given. Sx-thick yel.sputum in sm amts. RSBI=45.
+A:pt.with new rul pneumonia/sepsis. Re-intubated yesterday for resp. distress.
+P:cont. vent. support. wean to c-pap/ps as tolerated.
+",,
+13412,25349,16693,0,2731-04-28 15:22:00 EST,2731-04-28 15:35:00 EST,3449,"N",54,"Nursing/Other",,"
+
+NPN 7a-7p:
+    Neuro: pt remains on 15mcg/kg/min propofol. Stirs to voice, stimuli, but not following commands or opening eyes.. withdraws to pain all extremities.. hyperreflexive L side. PERRLA. 
+    CV: maps dipping to low 50's, sbp 70's x several today. received total 2 liters IVF this shift for sbp sustained 70's (confirmed by nbp).. cvp from 9 to 15. sbp to 90's-120's post ivf. sbp continues to be labile this afternoon, ranging from 70's-120's.. Per team, will not give further fluid boluses unless sbp sustains map <55. HR 90's-120's AF with pvc's. heparin gtt off for procedures x 4.5 hrs today.. will restart at 750units/hr (was therapeutic on this dose this am) at 4:30, 1 hr post LP per team.
+    RESP: remains vented. settings changed to psv 10/5/.35 with abg: 7.48/35/126/27. sx'd for small amts thick yellow secretions. US done to see if thoracentesis possible.. fluid collection in a location team felt was too risky to tap. therefore, thoracentesis not attempted.
+    ID: LP attempted by team, unable to obtain. tmax 99.7. cont on ceftriaxone/pip/vanco. RLL pna on cxr. wbc 25k.. stool sent for cdiff.
+     FE: repleated with 40meq iv kcl for K+ 3.3. pm lytes pending. 
+     GI: ab soft, bs +. pt with large amts brown ob neg loose stool.. fecal incontinence bag changed. NPO d/t enlarged gallbladder on CT. LFT's elevated.
+     GU: uo marginal, 15cc's/hr.
+     Social: team contacted pt's son (HCP) today and updated him r/e current events and to discuss plan of care.. per pt's written wishes  prior to hospitalization, pt made DNR per son. No vasopressors to be used. no visits today.
+     A/P: 85 yr odl admit initially iwth stroke, now transferred to MICU with likely sepsis. pt now DNR, no pressors, otherwise full treat. will continue to communicate with family, provide emotional support as doing. will need PTT receck this eve at 22:30.
+    
+",,
+13412,25349,16693,0,2731-04-28 15:44:00 EST,2731-04-28 15:46:00 EST,5242,"N",54,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains intubated and currently vented on PSV 10/5 tol well with VT around 400-500cc and RR in the mid to low 20s. BS clear to slightly course sxing for small amts of thick yellow secretions. ETT secured/patent. Bronchodilators given x3 with fair effect noted. Last ABG with slight metabolic alkalosis and acceptable oxygenation on present settings. Will cont with vent support as needed and reassess for further weaning as tol.
+",,
+13412,25349,16693,,2731-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-29**] 8:10 AM
+     ABDOMEN U.S. (PORTABLE)                                         Clip # [**Clip Number (Radiology) 15465**]
+     Reason: Pls do RUQ ultrasound with dopplers evaluate for thrombosis.
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with transaminitis, fever                                    
+       
+     REASON FOR THIS EXAMINATION:
+      Pls do RUQ ultrasound with dopplers evaluate for thrombosis.                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old woman with transaminitis and fever, evaluate for
+     hepatic thrombosis.
+     
+     LIVER DOPPLER ULTRASOUND:  Grayscale images of the liver are limited,
+     demonstrate no focal hepatic mass.  There is no intrahepatic biliary
+     dilatation.  There is minimal gallbladder wall edema and some sludge.  The
+     head of the pancreas is normal in appearance.
+     
+     Doppler evaluation of the hepatic vasculature demonstrates a patent portal
+     vein and its branches, with normal waveforms and hepatopetal flow.  The
+     hepatic veins are patent.  The hepatic artery branches demonstrate good
+     arterial upstrokes.
+     
+     IMPRESSION:
+     1.  Limited evaluation of the liver, without focal mass lesions.  Normal
+     hepatic vasculature.
+     2.  Minimal gallbladder wall edema and sludge are identified.  The edema would
+     be consistent with third spacing of fluid related to the patient's underlying
+     hepatic disease.
+     
+
+",,
+13412,25349,16693,,2731-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2731-4-29**] 5:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15464**]
+     Reason: eval for interval changes                                   
+     Admitting Diagnosis: STROKE-TRANSIENT ISCHEMIC ATTACK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with fever and resp failure.                                
+                 
+     REASON FOR THIS EXAMINATION:
+      eval for interval changes                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 5:44 A.M., [**4-29**]
+     
+     HISTORY:  Fever and respiratory failure.
+     
+     IMPRESSION:  AP chest compared to [**4-27**]:
+     
+     Mild pulmonary edema has worsened slightly.  Left lower lobe consolidation and
+     volume loss due largely to atelectasis has not improved compared to [**4-26**]. 
+     Moderate right pleural effusion layering posteriorly is unchanged since [**4-27**].  Moderate cardiomegaly is stable.  ET tube in standard placement, left
+     subclavian line tip projects over the mid SVC and a feeding tube passes below
+     the diaphragm and out of view.  No pneumothorax.
+                                                                           
+
+",,
+13412,25349,16693,1,2731-04-29 02:54:00 EST,2731-04-29 02:59:00 EST,3561,"Y",54,"Nursing/Other",,"
+
+Resp Care Note, RSBI on 0 peep/5 ips 51.2
+",,
+13412,25349,16693,0,2731-04-29 02:54:00 EST,2731-04-29 02:58:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings.See vent flow sheet for details.Suctioned for sml amts thick white secretions. MDI'S given.HR-A-Fib with PVC'S.Given fluid boluses for BP.Sedated with propofol. RSBI done on 0 peep/5 ips 57.2. Will cont to monitor resp status.
+
+",,
+13412,25349,16693,0,2731-04-29 03:03:00 EST,2731-04-29 04:29:00 EST,8714,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+PT IS AN 85 Y/O FEMALE INITIALLY ADMITTED TO [**Hospital1 10**] [**2731-4-16**]. PMH INCLUDES CVA IN 05 WITH RESIDUAL L-SIDED WEAKNESS, AFIB, MITRAL REGURGITATION, HTN, OA, HYPERCHOLESTEROLEMIA, ETOH ABUSE (QUIT [**12-21**]), UROSEPSIS. APPARENTLY, THE PT WAS FOUND DOWN AT HOME BY DAUGHTER, AND WAS AWAKE WHEN EMS ARRIVED. PER NOTES, PT HAD RIGHT SIDED WEAKNESS, DYSARTHIA, AND SYNCOPE WITH GENERALIZED TONIC-CLONIC SEIZURE ACTIVITY. SHE WAS INTUBATED FOR AIRWAY PROTECTION AND CODE STROKE ACTIVATED, MRI AND HEAD CT WERE NEGATIVE FOR ACUTE STROKE OR BLEED. PT WAS ADMITTED TO SICU. HER HOSPITAL COURSE HAS BEEN FURTHER COMPLICATED BY GPC FOUND IN HER SPUTUM, SHE WAS ALSO FOUND TO HAVE TRACHEOBRONCHOMALACIA AND THICK SECRETIONS WHEN BRONCHED [**2731-4-17**]. SHE HAS ALSO BEEN EXTUBATED X2 REQUIRING REINTUBATION BOTH TIMES. ON [**4-26**] TEMP SPIKED TO 104, HYPOTENSIVE EPISODE REQUIRING INITIATION OF NEO GTT AND FLUID BOLUSES. REINTUBATED [**2731-4-27**] FOR RESP DISTRESS AND TRANSFERRED TO MICU FOR FURTHER MANAGEMENT. PT IS DNR.
+
+NEURO: CURRENTLY SEDATED ON PROPOFOL GTT 20MCG/KG/MIN. PT DOES NOT OPEN EYES, PERRL 3MM/BRISK BILATERALLY. MAEX4 NONPURPOSEFULLY, DOES NOT FOLLOW COMMANDS. WITHDRAWS TO NAILBED PRESSURE. BILATERAL SOFT WRIST RESTRAINTS MAINTAINED FOR PT SAFETY. NO SEIZURE ACTIVITY. AFEBRILE. 
+
+CV: S1 S2 AS PER AUSCULTATION, HR 80'S-120'S AFIB WITH OCCASIONAL PVC'S NOTED. SBP VERY LABILE, 90'S-130'S WITH MAPS 50'S-90'S - SEVERAL HYPOTENSIVE EPISODES WITH SBP 60'S-80'S AND MAPS 40'S. PER TEAM, PT HAS RECEIVED 1.5L OF FLUID BOLUSES TO MAINTAIN MAPS >50. PALPABLE RADIAL/DP PULSES BILATERALLY. RIGHT BRACHIAL A-LINE SECURE AND PATENT, LEFT TLC CVL SECURE AND PATENT. HEPARIN GTT CURRENTLY INFUSING AT 750 UNITS/HOUR. 
+
+RESP: OETT SECURE AND PATENT. CURRENT VENT SETTINGS CPAP/35%/10PS/5PEEP WITH TV'S 400-500'S, NO CHANGES MADE THIS SHIFT. RR 15-20'S, SPO2 > OR = 95% THROUGHOUT THE SHIFT.  LUNGS ESSENTIALLY COARSE THROUGHOUT, SUCTIONED FOR NONE TO MODERATE AMTS OF THICK YELLOW SECRETIONS. BILATERAL CHEST EXPANSION NOTED. 
+
+GI/GU: ABDOMEN SOFT AND DISTENDED, BOWEL SOUNDS PRESENT X4. NPO, DOBHOFF SECURE AND PATENT. RECTAL BAG ACTIVE FOR LOOSE BROWN STOOL. INDWELLING FOLEY CATHETER SECURE AND PATENT WITH MARGINAL HOURLY OUTPUT - 10-30ML/HOUR, DR. [**First Name (STitle) 1422**] AWARE. 
+
+INTEG: SKIN GROSSLY INTACT, NO SIGNS OF BREAKDOWN TO BACK OR BUTTOCKS. PT NOTED TO HAVE GENERALIZED EDEMA TO BUE. BARRIER CREAM APPLIED TO COCCYX AND BUTTOCKS. 
+
+ENDO: FSBS COVERED WITH 1/2 SS DOSE WHILE NPO. 
+
+SOCIAL: SON AND DAUGHTER IN TO VISIT. ALL QUESTIONS ANSWERED APPROPRIATELY. DR. [**First Name (STitle) 1422**] IN TO SPEAK WITH AND UPDATE SON WHO IS HCP. 
+
+PLAN: CONTINUE ICU SUPPORTIVE CARE. FLUID BOLUS FOR MAPS <50. MONITOR PTT EVERY 6 HOURS AND TITRATE HEPARIN PER SS ORDER. FAMILY TO COME IN THIS AM TO DISCUSS GOALS OF CARE WITH TEAM.     
+",,
+13412,25349,16693,0,2731-04-29 13:55:00 EST,2731-04-29 13:58:00 EST,6646,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt received on CPAP/PSV 10/5 Pt placed on A/C due to several periods of apnea B/S coarse sx'd for sm/mod thick white. PLAN Family meeting. Will continue to follow closely.
+",,
+13412,25349,16693,0,2731-04-29 15:55:00 EST,2731-04-29 16:28:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Family meeting held and pt. will probably be made CMO sometime this evening. Family getting in touch with other family members before final decision is made.
+
+Neuro: Pt. received sedated on Propofol but this was changed to Fentanyl gtt with prn Versed boluses. Pt. is now on 50mcg/hour Fentanyl and requires infrequent 1mg Versed boluses. She responds to painful stimuli by localizing pain, shakes her head ""no"" but does not follow commands and only occasionally opens eyes to pain. Still unsure of etiology of mental status change. LP was unsuccessful. Pt. MAE in bed and her pupils are 3mm and briskly reactive.
+
+HR: 90s-120s a-fib with rare PVCs. Pt. did have one episode of HR in 50s which resolved spontaneously. BP 100s-110s/50s-70s. BP fell into 70s/40s (non-invasive BP correlates) so pt. received one 500cc NS bolus which brought BP back into normal range. Arterial line is in R upper arm and is ecchymotic but has good wave form and  is slightly postional when drawing labs. L SC TLC is WNL.
+
+Resp: Pt. is intubated and was received on CPAP 35%/[**9-18**] but was having apneic episodes so she was placed on AC 450X14/35%/5. Lungs are course to upper lobes with diminished bases. Pt. suctioned for small to moderate amounts of thick, white secretions.
+
+GI: BSX4,liquid brown stool via mushroom catheter. Pt. has Dobhoff and is NPO except meds.
+
+GU: UO marginal via foley. Team aware. Pt. thought to be in ARF due to hypotension.
+
+Endo: FSBG covered by sliding scale.
+
+Skin: Intact
+
+Social: Family meeting held with team and attending with son (HCP) and daughter present. Family apprised of decline in pt. status despite all efforts to manage her condition. Pt. has failed extubation twice and no known source of infection can be found. Social work in contact with family, family seems to be responding appropriately. Chaplain also in to see family. No final decision has been made yet but may be made early this evening.
+",,
+13412,25349,16693,0,2731-04-30 02:52:00 EST,2731-04-30 02:54:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt made CMO this eve.Placed on 0/5. HR-A-Fib with PVC'S.Given morphine for comfort. Will cont to monitor resp status.
+",,
+13412,25349,16693,0,2731-04-30 04:45:00 EST,2731-04-30 04:54:00 EST,8797,"N",54,"Nursing/Other","NPN: 1900-0700","
+NPN: 1900-0700
+PT MADE CMO AT 2200. PT STILL ON VENT AT 50%/0PS/5PEEP. PT IS ON MORPHINE GTT AT 4MG/HR WITH INTERMITTEN BOLUSES OF ATIVAN. PT IS CALM AND COMFORTABLE AND VITALS HAVE REFLECTED ADEQUATE COMFORT MEASURES. PT FAMILY IS INVOLVED WITH CARE. PT CONTINUES TO MAKE URINE. BP REMAINS IN THE 90'S UNLESS BEING MOVED. CONTINUE TO MONITOR FOR COMFORT.  
+",,
+13412,25349,16693,0,2731-04-30 10:17:00 EST,2731-04-30 10:31:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient is now on T-Piece with minimal amount of oxygen.Looks very confortable made CMO by family ativan and morphine being provided by RN will continue to follow.
+",,
+13412,25349,16693,0,2731-04-30 14:37:00 EST,2731-04-30 14:47:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Pt is CMO, vitals signs (ordered Q8H) show pt is comfortable on 5mg/hr morphine gtt.  T-piece in place, pt off vent, fam prefer tube remain in as they feel it is more comfortable for her to breath. O2sat 100% but low pleth.  A-line and NGT Dc'd.  TLC remains for IV meds.  Pt had +C.diff cx, remains on contact precautions, mushroom cath in place.  Urine dark yellow/sediment, less than adequate amts. Fam visited today and asked for priest but told it may be some time before he could get here.  They said to hold off for now as she was visited by a priest yesterday.  [**Name2 (NI) **] told that if they change their mind we would call the priest for them. Continue to assure pt comfort at this time.
+",,
+13412,25349,16693,0,2731-04-30 18:20:00 EST,2731-04-30 18:21:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient now off vent on T-Piece 24% made CMO if an air flow meter is located place patient on R/A.
+",,
+13412,25349,16693,0,2731-05-01 04:03:00 EST,2731-05-01 04:15:00 EST,8067,"N",54,"Nursing/Other",,"
+
+7pm to 7am:
+
+Pt has had an uneventful night. Pt is CMo and on morphine gtt for sedation with good effect. Pt appear very comfortable. Afibrile. NSR with PVCs and stable BP as noted. Pt in some resp distress when turned side to side. Fio2 increased with good effect. Pt's son called at 01:00 and given update by RN. Son requested pt to have sacrament of the sick if she had not had it done. Pt found to have been seen by the priest [**4-29**] for the sacrament of the sick. Pt has ETT inplace with T-piece, ? d/c ETT and place an oral airway. MD agree and will discuss this with family. O/W an uneventful night.
+",,
+13412,25349,16693,0,2731-05-01 16:23:00 EST,2731-05-01 16:29:00 EST,3449,"N",54,"Nursing/Other",,"
+
+NPN 7a-7p:
+     S/O: Decision made by pt's son (HCP) and team to extubate pt. Pt extubated RA/CSM, requiring total 5mg iv mso4 bolus and gtt increase to 8mg/hr (from 6mg/hr this am) for comfort with good effect. Initially appeared air hungry/labored but breathing appeared much more comfortable s/p bolus. Also med with 1mg iv ativan with good effect. RR 8-10. sbp 100-110. HR 80's-90's AF. Pt's son updated this afternoon by phone and daughter at bedside this afternoon and updated as well. Emotional support provided.
+    A/p: pt CMO, extubated this afternoon. Plan to continue mso4 gtt for comfort. Continue to provide emotional support to family as doing.
+",,
+13412,25349,16693,0,2731-05-01 17:26:00 EST,2731-05-01 17:28:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Cmo on T-Piece since yesterday with good sat and HR.Suctioned PRN for congestion,unresponsive but confortable.MD will talk to family about pulling ETT soon.
+",,
+13412,25349,16693,0,2731-05-02 01:38:00 EST,2731-05-02 01:42:00 EST,6440,"N",54,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+pt remains CMO,on Morphin gtt, that increased to 15mg/hr from 8mg/hr overnight for comfort, pt appeared to have labor breathing,given a few times boluses of Morphin with some effect. SBP 93-99, RR 12-14.sat remains on high 90's.
+no contact from family. cont Morphin gtt for comfort.
+",,

@@ -1,0 +1,532 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13335,,,,3119-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3119-3-22**] 11:51 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14773**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with diaphoresis, high WBC                                   
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79-year-old woman with diaphoresis and high white blood cell count.
+     Rule out pneumonia.
+     
+     COMPARISON:  [**3119-3-2**].
+     
+     CHEST, PA AND LATERAL:  Cardiac, mediastinal, and hilar contours are stable.
+     Again noted is soft tissue density which deviates the trachea to the right,
+     likely representing the thyroid gland.  Clinical correlation is recommended
+     and if indicated, further evaluation with ultrasound can be obtained.
+     Pulmonary vasculature is unremarkable. The lungs are clear, without evidence
+     of infiltrates.  There are no pleural effusions. Osseous and soft tissue
+     structures are stable.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+13335,11976,,,3119-04-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3119-4-3**]              Discharge Date:   [**3119-4-10**]
+ 
+Date of Birth:  [**3040-2-13**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Ace Inhibitors / Chicken Flavor
+ 
+Attending:[**First Name3 (LF) 8023**] 
+Chief Complaint:
+Hypothermia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+79 yo woman with diabetes, coronary artery disease, chronic 
+renal failure, hypertension presents to the ED from the [**First Name4 (NamePattern1) 1916**] 
+[**Last Name (NamePattern1) **] with intense diaphoresis and generalized malaise since 
+earlier this evening.  At the time her blood glucose was 339 but 
+her temp was 86 F and she was brought to ED.  In the ED, patient 
+found to be hypothermic (T 32 C), bradycardic (HR 40s), found to 
+have + UA, and patient began having L-sided chest pain (EKG 
+without ischemic changes).  Given bear-hugger, levoquin, and 
+albuterol neb.
+     Of note, per patient's cardiologist, she has had a number 
+of similar episodes in the past few weeks, all of which have 
+resolved with no clear etiology.  Early in April, she was 
+admitted and ruled out for MI and PE. Late in April she was 
+admitted for neck pain, nausea, diarrhea and was hypoglycemic.  
+.
+ROS: +Chest pain--""pulsating"" ""pressure"" [**9-8**] with some SOB and 
+nausea, denies diaphoresis.  Resolved spontaneously in ED, 
+recurred and resolved after 1 SL nitroglycerine.  +Decreased 
+appetite  +Increased thirst x 2 months  
+
+ 
+Past Medical History:
+Congestive Heart Failure  
+Stroke
+TIA's  
+Hallucinations  
+Hypertension
+Coronary Artery Disease documented MI in [**3082**]  
+Diabetes with nephropathy, retinopathy, neuropathy  
+Glaucoma with bilateral blindness  
+Chronic renal failure -baseline creat 2.1  
+Anemia  
+asthma  
+Type IV RTA  
+ 
+Social History:
+Pt lives at the [**First Name4 (NamePattern1) 1916**] [**Last Name (NamePattern1) **], HCP is son [**Name (NI) **] [**Telephone/Fax (1) 8917**]  
+[**Name2 (NI) **]e EtOH abuse quit in her 40's, no smoking  
+
+ 
+Family History:
+Mother alive with [**Name2 (NI) 8918**]  
+sister, brother, and daughter with [**Name2 (NI) 8918**]  
+Son with CVA  
+
+ 
+Physical Exam:
+PE: VS 91  44  125/70  25  96% 3L
+GEN - Tearful, mildly dyspneic
+HEENT - ATNC, anicteric, MMdry
+NECK - Supple, unable to appreciated JVD given scar tissue
+HEART - Bradycardic, distant heart sounds
+LUNGS - Poor inspiratory effort, use of abdominal musculature, 
+no wheezes appreciated
+ABD - Soft, obese, nt/nd, +BS
+EXT - Cool, palpalble peripheral pulses
+SKIN - diaphoretic, cool, burn scars to neck and upper chest
+NEURO - A&O to person, ""home"" ""[**3119-4-3**]"" 
+ 
+Pertinent Results:
+[**3119-4-3**] 12:10AM URINE  BLOOD-MOD NITRITE-POS PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-MOD
+[**3119-4-3**] 12:10AM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 302**]-1.013
+[**3119-4-3**] 12:45AM   PLT COUNT-253
+[**3119-4-3**] 12:45AM   HYPOCHROM-3+
+[**3119-4-3**] 12:45AM   NEUTS-74.1* LYMPHS-20.9 MONOS-4.2 EOS-0.5 
+BASOS-0.2
+[**3119-4-3**] 12:45AM   WBC-10.5 RBC-3.55* HGB-9.4* HCT-30.7* MCV-86 
+MCH-26.4* MCHC-30.6* RDW-15.4
+[**3119-4-3**] 12:45AM   TSH-1.4
+[**3119-4-3**] 12:45AM   ACETONE-NEGATIVE OSMOLAL-316*
+[**3119-4-3**] 12:45AM   ALBUMIN-3.4 CALCIUM-9.4 PHOSPHATE-4.7* 
+MAGNESIUM-2.2
+[**3119-4-3**] 12:45AM   CK-MB-NotDone cTropnT-<0.01
+[**3119-4-3**] 12:45AM   LIPASE-31
+[**3119-4-3**] 12:45AM   ALT(SGPT)-38 AST(SGOT)-32 CK(CPK)-61 ALK 
+PHOS-87 AMYLASE-104* TOT BILI-0.3
+[**3119-4-3**] 12:45AM   GLUCOSE-160* UREA N-46* CREAT-1.7* SODIUM-145 
+POTASSIUM-6.3* CHLORIDE-115* TOTAL CO2-23 ANION GAP-13
+[**3119-4-3**] 01:00AM   PT-12.5 PTT-81.3* INR(PT)-1.0
+[**3119-4-3**] 01:36AM   LACTATE-1.0 K+-6.1*
+[**3119-4-3**] 04:27AM   TYPE-[**Last Name (un) **]
+[**3119-4-3**] 04:30AM   PT-13.9* PTT-29.8 INR(PT)-1.3
+[**3119-4-3**] 04:30AM   PLT SMR-NORMAL PLT COUNT-220
+[**3119-4-3**] 04:30AM   HYPOCHROM-3+
+[**3119-4-3**] 04:30AM   NEUTS-74.3* BANDS-0 LYMPHS-21.4 MONOS-3.9 
+EOS-0.3 BASOS-0.2
+[**3119-4-3**] 04:30AM   WBC-9.8 RBC-3.26* HGB-8.6* HCT-28.1* MCV-86 
+MCH-26.4* MCHC-30.6* RDW-15.4
+[**3119-4-3**] 04:30AM   MAGNESIUM-2.0
+[**3119-4-3**] 04:30AM   CK-MB-NotDone cTropnT-<0.01
+[**3119-4-3**] 04:30AM   CK(CPK)-64
+[**3119-4-3**] 04:30AM   GLUCOSE-135* UREA N-42* CREAT-1.5* 
+SODIUM-146* POTASSIUM-5.1 CHLORIDE-114* TOTAL CO2-25 ANION 
+GAP-12
+[**3119-4-3**] 05:21AM   CORTISOL-24.6*
+[**3119-4-3**] 05:41AM   CORTISOL-26.2*
+[**3119-4-3**] 05:41AM   CALCIUM-8.7 PHOSPHATE-4.3
+.
+[**3119-4-3**] CXR
+The heart size and mediastinal contours are unchanged. The 
+pulmonary vasculature appears unchanged, without evidence of 
+pulmonary vascular congestion. No pleural effusion and no 
+pneumothorax. No focal pulmonary parenchymal consolidation. 
+Degenerative changes at the shoulder joints bilaterally.
+IMPRESSION: Stable radiographic appearance of the chest. No 
+evidence of congestive heart failure.
+.
+[**3119-4-2**] EKG
+Baseline artifact. Sinus bradycardia 44. Left axis deviation. 
+Left bundle-branch 
+block. Compared to the previous tracing of [**3119-3-23**] no diagnostic 
+change. 
+.
+[**3-4**] CT Head
+No acute hemorrhage or mass effect.  No CT evidence of an acute 
+major territorial infarction. 
+.
+[**3-4**] V/Q Scan
+Low likelihood ratio for pulmonary embolism.
+.
+[**4-4**] MRI neg for stroke or mass
+.
+[**4-7**] Echo
+The left atrium is normal in size. Left ventricular wall 
+thicknesses and  
+cavity size are normal. There is moderate regional left 
+ventricular systolic dysfunction with hypokinesis of the basal 
+anterior septum and anterior wall, and akinesis of the 
+mid-to-distal anterior wall, anterior septum and inferior 
+wall... No masses or thrombi are seen in the left ventricle. 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are structurally normal. Mild to moderate 
+([**12-1**]+) mitral regurgitation is seen. The pulmonary artery 
+systolic pressure could not be determined. There is a 
+trivial/physiologic pericardial effusion.  
+IMPRESSION: Regional left ventricular systolic dysfunction c/w 
+multivessel CAD. Mild-moderate mitral regurgitation.  
+
+ 
+Brief Hospital Course:
+The patient presented hypothermic, bradycardic to the emergency 
+department early morning on [**4-3**].  A femoral line was placed, and 
+active external rewarming began.  The patient was afebrile but 
+urinalysis was consistent with a urinary tract infection.  The 
+patient was admitted to the medical intensive care unit because 
+of concern for sepsis in light of her hypothermia, bradycardia, 
+and infection picture. 
+.
+The patient was stable in the intensive care unit on 2L oxygen 
+by nasal cannula.  She had good urine output (greater than 
+30cc/hr) in response to a 500cc normal saline bolus.  Active 
+external rewarming was continued, and both temperature and heart 
+rate rose to normal levels.  The patient's primary care provider 
+felt that her hypothermia was due to profuse diaphoresis caused 
+by bethanechol (a cholinergic medication she had taken for 
+urinary retention).  Plans were made for discharge, but when the 
+patient became febrile, she was transferred to the general 
+medical service.   The patient was treated for her urinary tract 
+infection with ceftriaxone, and the infection resolved. 
+.
+However the morning of [**3119-4-5**] she had an episode of chest pain 
+and shortness of breath.  Troponin T enzymes returned positive, 
+indicating cardiac ischemia.  In consultation with cardiology 
+and the patient, it was determined that the benefits of a 
+cardiac catheterization would not outweigh the risks in this 
+79-year-old woman with a number of co-morbidities.  She was 
+managed medically with increased statin and beta blocker.  She 
+was also kept on heparin gtt for 48 hours.  Echo demonstrated 
+and EF of 30% likely [**1-1**] her STEMI.  
+.
+The patient continued to have episodes of chest pain every 
+morning with shortness of breath.  A CXR demonstrated failure 
+and she was diuresed with lasix.  A BNP was 24,000.  The patient 
+repsonds well to 40mg IV.  Her symptoms improved and she will be 
+sent home on 60mg po lasix qday.  This should be titrated up or 
+down based on her respiratory symptoms.  Please weigh the 
+patient every day.  If she gains more than 3 lbs in a day or 6 
+pounds in a week please call Dr. [**First Name (STitle) **].
+.
+Also the patient has been having problems with [**Name2 (NI) 8919**] after 
+hir insulin dose was increased.  She had a blood glucose of 23 
+on [**4-8**] associated with severe confusion.  This resolved with 
+administration of D50.  Her insulin dose was taken down and her 
+sugars improved.
+ 
+Medications on Admission:
+- ranitidine 150 mg po qd
+- risperidone 0.5 mg po qd
+- toprol XL 100 mg po bid
+- aspirin 325 mg po qd
+- bethanochol 10 mg po qid
+- amlodipine 5 mg po qd
+- lantus 10 units SC qhs
+- NPH 4 U SC with breakfast and dinner
+- RISS
+- lasix 20 mg po qd
+- lipitor 20 mg po qd
+- isuprel 30 mg tid
+.
+ 
+Discharge Medications:
+1. Aspirin, Buffered 325 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Albuterol Sulfate 0.083 % Solution Sig: 1-2 puffs Inhalation 
+Q4H (every 4 hours) as needed.  
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+4. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+6. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, 
+Sublingual Sublingual PRN (as needed).  
+7. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Isosorbide Dinitrate 10 mg Tablet Sig: Three (3) Tablet PO 
+TID (3 times a day).  
+9. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+10. Ceftriaxone Sodium 1 g Recon Soln Sig: One (1) Recon Soln 
+Injection once a day for 3 days.  
+11. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO once a day. 
+ 
+12. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day) as needed.  
+13. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO 
+TID (3 times a day).  
+14. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units 
+Subcutaneous at bedtime.  
+15. Humalog 100 unit/mL Solution Sig: AS DIR units Subcutaneous 
+four times a day: see attached insulin sliding scale.  
+16. Risperidone 0.25 mg Tablet Sig: One (1) Tablet PO once a 
+day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 6518**] - [**Location (un) 1194**]
+ 
+Discharge Diagnosis:
+Hypothermia
+Urinary tract infection
+NSTEMI
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Please give medications and make appts as listed in the 
+discharge paperwork.  If the patients temp gets > 101 degrees or 
+< 96 degrees please seek medical attention.  Please seek medical 
+attention if the patient has chest pain, shortness of breath, 
+nausea or vomitting.
+ 
+Followup Instructions:
+Follow up with Dr. [**First Name (STitle) **] [**Telephone/Fax (1) 1917**], your PCP, [**Name10 (NameIs) 426**] one week.
+
+Patient should follow up with Dr [**Last Name (STitle) 8920**] in urology [**Telephone/Fax (1) 8921**] 
+in 2-6 weeks.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1779**] MD [**MD Number 8029**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4490**] MD [**MD Number 4491**] [**3119-4-10**] @ 1227
+Signed electronically by: DR. [**First Name (STitle) **] MARK
+ on: [**Doctor First Name 123**] [**3119-4-10**] 4:25 PM
+(End of Report)
+
+
+",,
+13335,11976,,,3119-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3119-4-3**] 1:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14774**]
+     Reason: assess for chf                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with sob and CP                                               
+     REASON FOR THIS EXAMINATION:
+      assess for chf                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and chest pain.
+     
+     COMPARISON:  [**3119-3-22**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  The heart size and mediastinal contours are unchanged.  The
+     pulmonary vasculature appears unchanged, without evidence of pulmonary
+     vascular congestion.  No pleural effusion and no pneumothorax.  No focal
+     pulmonary parenchymal consolidation.  Degenerative changes at the shoulder
+     joints bilaterally.
+     
+     IMPRESSION:  Stable radiographic appearance of the chest.  No evidence of
+     congestive heart failure.
+                                                                           
+
+",,
+13335,11976,16602,0,3119-04-03 04:59:00 EST,3119-04-03 05:29:00 EST,2996,"N",69,"Nursing/Other",,"
+
+Pt. is 79 y.o. female with PMH significant for CAD, CVA with TIA, s/p burn, DM II, Glaucoma, CRI. Pt. presented to EW from [**First Name4 (NamePattern1) 2305**] [**Last Name (NamePattern1) **] with resolved hyperglycemia @ 1900 of 330, c/o fatigue. Noted to be diaphoretic, c/o SOB, CP, bradycardic with HR in 40s, stable BP in 140s, hypothermic with T 32.7 rectally, BS 180, K 6.3. Pt. treated with Nitro, Kaxelate, Insulin, D50, Bicarb in EW. Transferred to MICU for further monitoring.
+Neuro: Pt, is A&Ox3, blind, asking many questions, anxious at transfer, settled down with explanations and verbal reassurance provided. Following commands, cooperative. +MAE, intact gag/cough. Denies pain or discomfort.
+Resp: Sats 100% on 2L NC, denies SOB, no cough noted. LS diminished bilat. CXR negative.
+CV: HR 40s-50s, SB, no ectopy. BP 110s-130s/30s-40s. Given 500cc NS bolus x1 to keep UO>30cc/hr. Palpable pedal pulses bilat. Denies CP. 
+GI/GU: Abd. soft, distended, +BS, mushroom catheter places due to lrg. amts of yellow liquid stool. Pt. states being ""thursty"", tolerating  water. Diabetic diet ordered. FOley patent, yellow cloudy urine out. Pt. with UTI per team.
+Endo: BS 132 at 0500, Insulin gtt was not initiated, team aware.
+Skin is cool, diaphoretic, difficult to obtain temp, axilarry T 90.2, heating device is on. Neck and chest scarring from old burn trauma noted, redness noted at perineal area, cleansed with soap and water, protective cream applied. Otherwise skin intact.
+ID: Pt. is started on Levaquin IV [**1-1**] UTI. Remains hypothermic. WBC wnl.
+SOcial: No contact from family made overnight.
+FULL CODE.
+
+",,
+13335,11976,16602,0,3119-04-03 16:29:00 EST,3119-04-03 17:08:00 EST,5918,"N",69,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+Neuro:Pt blind and has anxiety over unknown and procedures, she benefits from continued and detailed explanation of care. Weepy at times, concerned about future MRI. Pt AOx3, w/ one episode of lethargy and difficulty arousing around noon time, team alerted. It was felt that the Pt had lack of [**Doctor Last Name 8**] overnight to watch for couple of hours. Lethargy resolved. Follows commands. +MAE Continues to require emotional support.
+Resp: NC 2L, sats 98-100%. One episode of sob (17:30), inc w/ anxiety, resolved w/ PRN albuterol tx. LS diminished x4. occ cough noted this PM. 
+CV: Received SB in 40-50's, and hypothermic 90's. Over coarse of day w/ bair hugger in place warmed up to 97, and current HR in 70's. SBP 112-150's. no ectopy noted. denies cp. +pp. 
+GI: [**Doctor First Name 196**] diet, fair appetite today. abd soft, obese, +BS, non-tender. Mush cath in place, draining sm amount, liquid golden stool. . PT w/ allergy to chicken flavoring/chicken thus awaiting appropriate dinner. 
+GU: Foley in place. Marginal u/o this am, improving this pm w/ more PO intake, and as Pt warms up. Urine, yellow and cloudy. +UTI. On levaquin.
+Endo: PT w/ Labile BS today, [**Last Name (un) 211**] consulted. BS high up to 397 been doing FS Q2-3 hrs, team wrote for standing dose of Glargine and sliding scale of Humalog. Decided against implementing gtt as Pt will probably go back to nursing home tomorrow.
+Skin: Large scar covering thoracic area [**1-1**] burn as young child. Skin warming over coarse of day, diaphoresis resolving. 
+ID: UTI. on levoquin. wbc 9.8. blood cx pending. 
+Access: mul fem line, wnl. Left hand 22g/wnl. 
+A/P:Admit for hypothermia, bradycardia, w/ cold diaphoretic skin. admitted to micu for ? urosepsis. [**Last Name (un) **] stim and TSH levels pnding. Also planned to have head MRI to r/o CNS lesion. Hypothermia and bradycardia resolved. Continue to follow labile BS, follow up on [**Last Name (un) 211**] recommendation. Continue providing emotional support. Plan to go back to [**First Name4 (NamePattern1) 4688**] [**Last Name (NamePattern1) **] tomorrow, [**Last Name (un) 4688**] house alerted today some one came and reviewed chart. Discharge planning complete. 
+",,
+13335,11976,16602,0,3119-04-04 03:58:00 EST,3119-04-04 04:17:00 EST,2996,"N",69,"Nursing/Other",,"
+
+Pt. is 79 y.o. female admitted from [**Last Name (un) 2305**] house with hyperglycemia, hypothermia, bradycardia, UTI. Pt. had previous admissions with similar presentation.
+Neuro: Pt. is legally blind, A&Ox2, at times forgetful, needs reorientation and TLC. Received ativan 0.5mg IV x1 due to anxiety.
+CV: HR 80s-100s, SR to ST with occasional PVCs, LBBB. BP 120s-170s/30s-60s. At 0200 pt. c/o chest pain resolved spontaneously, EKG with no changes, Ativan given due to increased anxiety, resp tx. provided due to increased work of breathing. Started on Metoprolol 25mg PO. CPK 39. UO 16-50cc/hr, given 500cc NS bolus for droping UO x1. Presently pt is slightly negative(see careview for I&O).
+Resp: LS diminished bilat, Sats 97-100% on 2L NC, denies SOB, occasional nonproductive cough noted. Neb tx given x1.
+ID: Tmax 100.1 WBC 2.9. Continues on Levaquin PO.
+GI/GU: Abd. obese, +BS, no BM on this shift. Denies n/v or abd discomfort. Tolerating diabetic diet. FOley patent with yellow cloudy urine out.
+Endo: BS checked QID, no coverage required per sliding scale.
+Skin intact, pt turned and repositioned frequently.
+Social: No contact from family made overnight.
+Dispo: Pt. is called out to telemetry unit, awaiting for bed. Possible discharge back to nursing home today. Page 2 completed.
+FULL CODE.
+ 
+",,
+13335,11976,,,3119-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3119-4-5**] 12:12 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 14775**]
+     Reason: 79 Y/O FEMALE W/ MULT. EPISODES OF BRADYCARDIA, HYPOGLYCEMIA AND HYPOTHERMIA.
+     Admitting Diagnosis: HYPOTHERMIA
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with multiple episodes of bradycardia, hypoglycemia, and 
+      hypothermia
+     REASON FOR THIS EXAMINATION:
+      eval for mass                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  The patient with multiple episodes of bradycardia,
+     hypoglycemia and hypothermia, rule out mass or acute infarct.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR T2 susceptibility and diffusion
+     axial images of the brain were obtained before gadolinium.  T1 axial and
+     coronal images were obtained following the administration of gadolinium.  The
+     FLAIR images are limited by technique-related artifacts.
+     
+     FINDINGS:  There is no evidence of acute infarct on diffusion images.  Chronic
+     lacunes are visualized in the left thalamus and also involving the right side
+     of the pons and middle cerebellar peduncle.  Mild changes of small vessel
+     disease are seen in the pons.  There is no midline shift or hydrocephalus
+     noted.  Post-gadolinium images are slightly limited by motion.  No enhancing
+     lesions are identified.
+     
+     IMPRESSION:  No evidence of acute infarct or mass effect.  Chronic lacunes in
+     left thalamus and brainstem.  Small vessel disease.  No enhancing lesions on
+     somewhat motion limited post-gadolinium images.
+                                                                           
+
+",,
+13335,11976,,,3119-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3119-4-5**] 5:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14776**]
+     Reason: ? CHF vs COPD                                               
+     Admitting Diagnosis: HYPOTHERMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with sob and CP.                                             
+        
+     REASON FOR THIS EXAMINATION:
+      ? CHF vs COPD                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath with chest pain.
+     
+     The heart is normal in size.  There are bilateral opacities at the lung bases
+     since [**3119-4-3**].  There is no pneumothorax.
+     
+     IMPRESSION:  Bilateral lower lobe opacities represent developing infiltrates
+     and/or effusions.
+                                                                           
+
+",,
+13335,11976,,,3119-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3119-4-5**] 12:12 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 14775**]
+     Reason: 79 Y/O FEMALE W/ MULT. EPISODES OF BRADYCARDIA, HYPOGLYCEMIA AND HYPOTHERMIA.
+     Admitting Diagnosis: HYPOTHERMIA
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with multiple episodes of bradycardia, hypoglycemia, and 
+      hypothermia
+     REASON FOR THIS EXAMINATION:
+      eval for mass                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  The patient with multiple episodes of bradycardia,
+     hypoglycemia and hypothermia, rule out mass or acute infarct.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR T2 susceptibility and diffusion
+     axial images of the brain were obtained before gadolinium.  T1 axial and
+     coronal images were obtained following the administration of gadolinium.  The
+     FLAIR images are limited by technique-related artifacts.
+     
+     FINDINGS:  There is no evidence of acute infarct on diffusion images.  Chronic
+     lacunes are visualized in the left thalamus and also involving the right side
+     of the pons and middle cerebellar peduncle.  Mild changes of small vessel
+     disease are seen in the pons.  There is no midline shift or hydrocephalus
+     noted.  Post-gadolinium images are slightly limited by motion.  No enhancing
+     lesions are identified.
+     
+     IMPRESSION:  No evidence of acute infarct or mass effect.  Chronic lacunes in
+     left thalamus and brainstem.  Small vessel disease.  No enhancing lesions on
+     somewhat motion limited post-gadolinium images.
+                                                                           
+
+",,
+13335,11976,,,3119-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3119-4-9**] 9:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14777**]
+     Reason: ? faliure                                                   
+     Admitting Diagnosis: HYPOTHERMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old woman with sob and CP.                                            
+          
+     REASON FOR THIS EXAMINATION:
+      ? faliure                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain and shortness of breath.
+     
+     Portable semi-upright frontal radiograph.  Comparison [**3119-4-3**] and [**3119-4-5**].
+     Cardiac silhouette appears slightly enlarged compared to the prior study of
+     [**3119-4-3**].  In addition, there has been marked progression of bilateral pleural
+     effusions and upper zone pulmonary vascular redistribution.  Bibasilar
+     atelectatic changes are also present, and a more focal area of patchy
+     opacification in the left retrocardiac region.  No pneumothorax.
+     
+     IMPRESSION:  Increasing CHF with bilateral pleural effusions and associated
+     atelectatic changes.  An associated consolidation at the left lung base is not
+     excluded.
+
+",,
+13335,11976,,,3119-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

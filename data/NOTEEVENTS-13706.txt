@@ -1,0 +1,259 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13706,33370,,,3248-11-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3248-11-1**]       Discharge Date:  [**3248-11-1**]
+
+Date of Birth:   [**3248-11-1**]       Sex:  M
+
+Service:  NEONATOLOGY
+week gestation male infant born at 0118 this morning.
+The nurse midwife following the pregnancy was [**First Name8 (NamePattern2) 840**] [**Last Name (NamePattern1) 2854**],
+obstetrician Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2855**], maternal fetal medicine
+consultant Dr. [**First Name4 (NamePattern1) 2856**] [**Last Name (NamePattern1) 2857**].
+PREGNANCY:  The mother is 39 years old, gravida IV and para
+She has a 21, 18 and 11 year old who are all healthy.
+
+PRENATAL SCREENS:  The mother is O positive, antibody screen
+negative, hepatitis surface antigen negative, RPR nonreactive
+and rubella immune.
+The pregnancy was uncomplicated until last week on [**3248-10-28**],
+when the mother was referred to the [**Hospital1 **]
+Ultrasound performed by Dr. [**First Name4 (NamePattern1) 2856**] [**Last Name (NamePattern1) 2857**] revealed findings of
+massive polyhydramnios, a small thoracic cavity, normal
+heart, normal kidneys, micrognathia, short long bones upper
+and lower extremities.  The patient was given diagnosis of
+probable skeletal dysplasia, dwarfism, and advised this might
+be a lethal condition.  Arrangements were made for further
+diagnostic testing at [**Hospital1 4**]
+and consultation at [**Hospital3 27**] on Tuesday, [**3248-11-3**].
+
+LABOR AND DELIVERY:  The mother developed spontaneous labor
+late last night and on admission to Labor and Delivery was
+found to be eight centimeters dilated in active labor.
+Delivery was by normal spontaneous vaginal route.  The baby
+emerged with decreased tone, no respiratory effort, heart
+rate was approximately 80.  The baby was treated with bulb
+suctioning,  stimulation, bag and mask ventilation and then
+intubation with a 2.5 endotracheal tube.  Intubation was
+difficult secondary to micrognathia and anterior placed
+airway.  Apgar scores were three, four, six and six.  The
+baby was noted immediately to have multiple dysmorphic
+features including short limbs, very small thoracic cavity
+and prominent abdomen.
+
+NEONATAL COURSE:  The baby was admitted to the NICU for
+further treatment and evaluation.  Chest x-ray and clinical
+course were consistent with pulmonary hypoplasia.
+
+On physical examination, weight was 1500 grams (80th
+percentile), length 37 centimeters (30th percentile), head
+circumference 27.5 centimeters (50th percentile).  Vital
+signs revealed temperature 97, heart rate 144, blood pressure
+70/38 with a mean of 52, oxygen saturation 40% in 100% FIO2.
+Head, eyes, ears, nose and throat - The anterior fontanelle
+was soft and flat.  Eyes with question of cloudy corneas.
+The pupils were nonreactive with midfull dilatation.  Small
+mouth was noted.  The palate was intact.  Prominent
+micrognathia was noted.  The ears were noted to be low set.
+Respiratory examination - The thoracic cavity was very small.
+Air entry was only fair with equal but very coarse tight
+breath sounds bilaterally.  Cardiovascular - No murmur was
+noted.  S1 and S2 normal. Perfusion was poor.  Abdominal
+examination revealed moderately distended abdomen, no clear
+fluid shift. Genitourinary examination revealed normal male
+genitalia with testes palpable in the scrotum bilaterally.
+Neurologic examination - The tone was diffusely decreased but
+spontaneous movements were noted in the upper and lower
+extremities.
+
+DIAGNOSTIC WORKUP:  Chest x-ray revealed endotracheal tube in
+appropriate position.  The lungs were very small volumes with
+dense hazy lung fields.  The heart size was within normal limits,
+normal situs was noted, no air leak noted.  The ribs were
+noted to be shortened.  Long bones very disorganized with
+crumpled appearance.
+
+LABORATORY DATA:  Complete blood count revealed white blood
+cell count 12.4, differential 11% polys, 1% bands, 74%
+lymphocytes, 248,000 nucleated red blood cells, hematocrit
+55.0%, platelet count 111,000.  Arterial blood gas was pH
+6.69, pCO2 165, pO2 43 on high frequency oscillator
+ventilator with pressure of 20 and amplitude of 35 and FIO2
+of 100%.
+
+DIAGNOSTIC ASSESSMENT:  This is a 29 week gestation preterm
+male infant with multiple congenital abnormalities consistent
+with skeletal dysplasia, possible diagnosis of osteogenesis
+imperfecta.  Genetics from [**Hospital3 27**] was consulted
+and evaluated the baby fully prior to his death.  Blood was
+sent for chromosomes.  DNA extraction and a skin biopsy was
+performed for collagen studies.
+
+After discussion with the parents regarding the baby's
+status, severe pulmonary hypoplasia being incompatible with
+survival, decision was made to withdraw further support.
+The baby was held by both parents and the baby's older
+sister.  The baby was pronounced at 3:42 a.m.  The parents
+gave consent for a full autopsy and this will be performed at
+[**Hospital3 27**].  Follow-up will be arranged with
+Genetics at [**Hospital3 27**], Dr. [**Last Name (STitle) 935**] and Dr. [**First Name4 (NamePattern1) 306**]
+[**Last Name (NamePattern1) **], Genetics, in two months and bereavement follow-up
+will be arranged with myself, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], NNP, [**First Name8 (NamePattern2) 739**]
+[**Last Name (NamePattern1) 2858**], RN, [**First Name4 (NamePattern1) 1772**] [**Last Name (NamePattern1) 2859**], RN and social work.
+
+DISCHARGE DISPOSITION:  Expired.
+
+PEDIATRICIAN:  Unknown.
+
+DISCHARGE DIAGNOSES:
+1.  Prematurity, 29 weeks gestation.
+2.  Pulmonary hypoplasia.
+3.  Skeletal dysplasia, question of osteogenesis imperfecta.
+4.  Respiratory failure.
+5.  Thrombocytopenia.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 66**] [**Last Name (NamePattern4) 67**], M.D.  [**MD Number 68**]
+
+MEDQUIST36
+
+D:  [**3248-11-1**]  06:06
+T:  [**3248-11-1**]  08:10
+JOB#:  [**Job Number 2860**]
+
+
+
+
+
+
+
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) 66**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 90**] [**3248-11-12**] 9:49 AM
+(End of Report)
+
+
+",,
+13706,33370,,,3248-11-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-11-1**] 2:37 AM
+     SKELETAL SURVEY (INCLUD LONG BONES) PORT                        Clip # [**Clip Number (Radiology) 2094**]
+     Reason: probable dwarfism
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with 
+     REASON FOR THIS EXAMINATION:
+      probable dwarfism
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Probable dwarfism.
+     
+     FINDINGS:  A single frontal view of the skull, single frontal view of the
+     chest and upper extremities, and single frontal view of the pelvis and lower
+     extremities was performed.  The visualized long bones, scapulae, clavicles,
+     skull base, and iliac wings have a coarse irregular appearance.  Long bones
+     appear hyperexpanded and sclerotic.  Findings are most likely related to some
+     form of skeletal dysplasia, and less likely due to osteogenesis imperfecta,
+     as the bones do not appear osteopenic. In particular, the spine is normal. The
+     length of the long bones appears relatively normal with respect to the body.
+     The thorax is small. Multiple irregular expanded ribs are identified. There is
+     UAC, whose distal tip projects at the T11 level. Several gas filled loops of
+     proximal small bowel are identified.
+     
+
+",,
+13706,33370,,,3248-11-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-11-1**] 1:52 AM
+     BABYGRAM (CHEST & ABDOMEN)                                      Clip # [**Clip Number (Radiology) 2093**]
+     Reason: BIRTH DEFECTS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Probable dwarfism.
+     
+     FINDINGS:  A single frontal portable view of the chest and abdomen was
+     performed.  The thorax is small.  There is near complete opacification of both
+     lungs.  The ET tube terminates in the upper thoracic trachea.  The ribs,
+     scapulae, clavicles, iliac wings, and visualized long bones are abnormal
+     demonstrating marked cortical irregularity and expansion.  The spine appears
+     relatively normal.  There is gas within the stomach and several proximal loops
+     of small bowel.
+     
+     Above findings likely represent a form of skeletal dysplasia rather than an
+     unusual form of osteogenesis imperfecta.
+     
+
+",,
+13706,,17067,0,3248-11-01 03:57:00 EST,3248-11-01 04:01:00 EST,4578,"N",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt. is a premature infant born the DR[**Last Name (STitle) 2492**] with  2.5 and taped at 9.0.  Pt. brought to Nicu and placed on HFOV.  CXR obtained. Pt. continued to decline in status.  Pt. wrapped and given to parents to hold.  To follow.
+",,
+13706,,17067,0,3248-11-01 04:10:00 EST,3248-11-01 04:57:00 EST,4615,"N",75,"Nursing/Other","Neonatology Attending Admission Note","
+Neonatology Attending Admission Note
+
+Baby [**Name (NI) 103**] [**Known patient lastname 2493**] [**Known patient lastname 2494**] was a 29 week gestation male infant born at 01:18 this morning.
+
+Nurse Midwife - [**First Name8 (NamePattern2) 2495**] [**Last Name (NamePattern1) 2496**] - Obstetrician - Dr. [**First Name4 (NamePattern1) 2497**] [**Last Name (NamePattern1) 2261**]
+[**Doctor Last Name 796**] consultant - Dr. [**First Name4 (NamePattern1) 2498**] [**Last Name (NamePattern1) 1323**]
+
+Pregnancy:  Mother is 39 [**Name2 (NI) 92**] old G4 P3-4.
+Past OB history is unremarkable - mother has a 21, 18 and 11 year old who are healthy.
+PNS - Mother is O pos, Ab neg, HBSAg neg, RPR NR, RI.
+
+Pregnancy was uncomplicated until last week when the mother was referred to the [**Hospital1 25**] for evaluation of size greater than dates.  
+Ultrasound performed by Dr. [**First Name4 (NamePattern1) 2499**] [**Last Name (NamePattern1) 1323**] revealed findings of: massive polyhydramnios, small thoracic cavity, normal heart, normal kidneys, micrognathia, short long bones in upper and lower extremities.  The parents were given a diagnosis of possible skeletal dysplasia, dwarfism and advised that this was most likely a lethal dysplasia.  
+
+Arrangements were made for further diagnostic testing at [**Hospital1 25**] and consultation at CH on Tuesday [**11-3**].  
+
+Labor and delivery:  Mother developed spontaneous labor late last night and on admission to Labor and Delivery was found to be 8 cm dilated in active labor.  Delivery was by NSV route.  Baby emerged with decreased tone and no respiratory effort.  Heart rate was approximately 80.  Baby was treated with bag and mask ventilatioin and then intubation with a 2.5 endotracheal tube.  Intubation was difficult secondary to migrognathia and anteriorly placed airway.
+Apgars 3,4,6,6
+
+Baby was noted to have multiple dysmorphic features including short limbs, very small thoracic cavity and prominent abdomen.
+
+Neonatal course:
+The baby was admitted to the NICU for further treatment and evaluation.  CXR and clinical course were consistent with pulmonary hypoplasia.
+
+PE - Wt. 1500gm (80%) Lt. 37cm (30%) HC 27.5cm (50%)
+VS - T 97 HR 144 BP 70/38 52 O2 sat 40% in 100% FIO2 
+HEENT - AF soft and flat, eyes - question cloudy cornea, pupils non-reactive mid dilation, small mouth, palate intact, prominent micrognathia, ears low set
+Resp - thoracic cavity very small, air entry fair with equal but very course tight breath sounds
+CVS - no murmur noted, S1 S2 normal
+Abd - moderately distended, no clear fluid shift
+GU - normal male, testes palpable bilaterally
+Neuro - tone decreased but spontaneous movements of upper and lower extremities noted
+
+CXR - ET in good position, lungs very small volumes, heart size wnl, normal situs, no air leak noted
+ribs shortened, long bones very disorganized with crumpled appearance.  
+
+Skeletal series also performed.  Bones in hands and feet appear to be within normal limits.  Long bones in upper and lower extremities markedly abnormal - shortened and disorganized.
+
+Labs - cbc wbc 12,400 11P 1B 74L 248 nrbcs Hct 55% plat 111,000
+ABG - 6.69/165/43 on HFOV MAP 20 amp 35 FIO2 100%
+
+Assessment:
+29 week gestation preterm male infant with multiple congenital abnormalities consistent with skeletal dysplasia - possible diagnosis of osteogenesis imperfecta.
+
+Genetics consulation performed emergently to assist with diag
+",,
+13706,,17067,0,3248-11-01 04:11:00 EST,3248-11-01 04:57:00 EST,4615,"N",75,"Nursing/Other","Neonatology Attending Admission Note","
+Neonatology Attending Admission Note
+(Continued)
+[**Last Name (un) 2500**] and plans for work-up.  Blood sent for chromosomes, DNA extraction.  Skin biopsy performed for collagen studies.
+
+After discussion with parents regarding baby's status, severe pulmonary hypoplasia being incompatible with survival, decision made to withdraw further support.  Baby was held by both parents and the baby's older sister.  Baby was pronounced at 03:42 AM.  Both parents gave consent for a full autopsy to be performed at CH.
+
+Follow-up will be arranged with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 2501**] and Dr. [**First Name4 (NamePattern1) 1129**] [**Last Name (NamePattern1) 384**], Genetics, CH in 2 months.
+
+Bereavement follow-up will be arranged with myself, [**First Name8 (NamePattern2) 278**] [**Last Name (NamePattern1) 243**], NNP, [**First Name8 (NamePattern2) 1183**] [**Last Name (NamePattern1) **], RN, [**First Name8 (NamePattern2) 2502**] [**Last Name (NamePattern1) 2503**], RN and Social Work.
+
+
+",,
+13706,,17067,0,3248-11-01 05:29:00 EST,3248-11-01 05:45:00 EST,4583,"N",75,"Nursing/Other",,"
+
+Nursing Admit Note
+        Please see JPN note for detailed admission note and NICU course of events. Pt intubated in DR [**Last Name (STitle) **] transferred to NICU via NICU team. CXR obtained, pt placed on HIFI. UA line placed, labs obtained. CBC, CX, ABG, and chromosomes sent. Dstix 125. Pt extubated at 0235, chest compressions given x2 during reintubation attempt. Fentanyl given x1 for comfort. Mom arrived to hold pt at 0300. Dad and sibling in , dad and sister held pt. Pt baptized at bedside. Parents given time to sit alone with [**Known patient lastname 2493**]. Genetics team in to discuss pt with family. Parents spent some time holding pt prior to leaving. Post mortem care done. Memory box made up, to be given to family tomorrow. Plan to call social-work depart and notify. Pt carried to morgue at 0530 via this nurse and security. 
+",,

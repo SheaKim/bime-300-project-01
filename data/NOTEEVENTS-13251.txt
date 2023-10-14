@@ -1,0 +1,325 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13251,22021,,,2905-06-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2905-6-29**]     Discharge Date:
+
+Date of Birth:   [**2826-6-28**]     Sex:  F
+
+Service:
+
+DISCHARGE CONDITION:  Good, stable to rehabilitation
+
+PRIMARY DISCHARGE DIAGNOSIS:
+1.  Coronary artery bypass graft times three
+
+SECONDARY DIAGNOSIS:
+1.  Diabetes mellitus
+2.  Status post hypertension
+3.  Hypothyroidism
+4.  Coronary artery disease
+
+FOLLOW UP:  With Dr. [**Last Name (STitle) 1142**] in three to four weeks.
+
+
+
+                         [**First Name11 (Name Pattern1) 34**] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1144**]
+     
+Dictated By:[**Last Name (NamePattern1) 8776**]
+
+MEDQUIST36
+
+D:  [**2905-7-11**]  14:56
+T:  [**2905-7-11**]  16:15
+JOB#:  [**Job Number 8777**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) **]
+ on: MON [**2905-7-13**] 3:16 PM
+(End of Report)
+
+
+",,
+13251,22021,,,2905-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2905-6-29**] 11:05 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 14101**]
+     Reason: r/o PNA/CHF
+     ______________________________________________________________________________
+     CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED:
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD, ABNORMAL EKG.
+     
+     COMPARISON:  [**2903-11-9**].
+     
+     Portable upright chest [**2905-6-29**] at 23:34:  There is an NG tube in place which
+     extends below the level of the diaphragm.  There is mild cardiomegaly.  There
+     is no evidence of vascular congestion, pleural effusions or focal
+     consolidation.
+     
+     IMPRESSION:  No evidence of CHF or pneumonia.
+     
+
+",,
+13251,22021,,,2905-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2905-6-29**] 11:10 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14102**]
+     Reason: r/o ICB/mass
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with delta MS s/p fall in am. [**Doctor First Name 9812**] [**Doctor Last Name 9813**] JAR 95663
+     REASON FOR THIS EXAMINATION:
+      r/o ICB/mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT HEAD [**2905-6-29**].
+     
+     INDICATION:  79 year old woman with change in mental status after fall.
+     
+     TECHNIQUE:  Contiguous axial imaging was obtained from the foramen magnum to
+     the cranial vertex.
+     
+     CT SCAN OF THE HEAD WITHOUT CONTRAST:  There is no intra-axial or extra-axial
+     hemorrhage.  There is no mass, mass effect or shift of the normally midline
+     structures.  There is moderate enlargement of the ventricles and sulci
+     compatible with age related atrophy. There are lacunes in both basal ganglia.
+     There is a large amount of periventricular low attenuation compatible with
+     chronic white matter microvascular infarction.  Bone windows demonstrate no
+     fracture and the visualized paranasal sinuses are unremarkable.
+     
+     IMPRESSION:
+     1.  No intracranial hemorrhage.
+     2.  Severe chronic white matter microvascular infarction.
+     
+
+",,
+13251,22021,,,2905-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2905-6-30**] 4:11 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 14103**]
+     Reason: suspected pancreatitis, need to rule out gallstone as source
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with CAD, CVA, DKA and elevated amylase and lipase.
+     REASON FOR THIS EXAMINATION:
+      suspected pancreatitis, need to rule out gallstone as source.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Elevated amylase and lipase.  Evaluate for gallstones.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND: Limited scanning of the right upper quadrant
+     was performed in the Intensive Care Unit.  The gallbladder is non-distended
+     with a slightly thickened and edematous wall.  There are no gallbladder
+     calculi or sonographic [**Doctor Last Name 654**] sign.  There is no intra- or extrahepatic
+     ductal dilatation.  The head and body of the pancreas are normal.
+     The pancreatic tail is not visualized due to overlying bowel gas.
+     
+     IMPRESSION:
+     1. Normal sonographic appearance of the head and body of the pancreas.  This
+     does not preclude the clinical diagnosis of pancreatitis.
+     
+     2. Isolated gallbladder wall thickening is a nonspecific finding.  The lack of
+     distension makes acalculous cholecystitis unlikely.  Clinical correlation with
+     serum albumin and cardiac function is recommended.  No evidence of
+     cholelithiasis.
+     
+     3. No intra- or extrahepatic ductal dilatation.
+
+",,
+13251,22021,,,2905-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2905-7-6**] 3:44 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 14104**]
+     Reason: 79 yo F with CAD (s/p MI and cath/stent '[**02**]), DM, and HTN co
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      (see above)
+     REASON FOR THIS EXAMINATION:
+      79 yo F with CAD (s/p MI and cath/stent '[**02**]), DM, and HTN comes in with NQWMI,
+      DKA and Pancreatitis.  She underwent cardiac cath today, and was found to have
+      progressive 3VD.  She is sheduled for CABG on Monday, and needs a Carotid
+      Duplex either saturday or sunday priop to the CABG.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     FINDINGS:  Duplex evaluation demonstrates mild plaque along the right and left
+     internal carotid arteries with peak velocities measuring 73 cm/s along the
+     right ICA and 88 cm/s along the left ICA.  Systolic ICA:CCA ratios measure 1.3
+     on the right and 1.3 on the left.  Antegrade flow is seen along both vertebral
+     arteries.
+     
+     CONCLUSION:
+     
+     1)  Less than 40% stenosis of the right internal carotid artery.
+     
+     2)  Less than 40% stenosis of the left internal carotid artery.
+     
+     3)  Antegrade flow along both vertebral arteries.
+
+",,
+13251,22021,16498,0,2905-07-07 12:09:00 EST,2905-07-07 12:23:00 EST,3090,"N",54,"Nursing/Other",,"
+
+78 YEARS OLD FEMALE DX:CAD PMHX MI,IDDM,DKA,MILD DEMENTIA,HYPOTHYROID ISSUES, HNT, ANNEMIA,UPPER GI BLEED. S/P CABG X3 TODAY, ON MECHANICAL VENTILATION 450*8-50%-5P-5PS. ABG ON RATE 10, FIO2 100% 7.49-33-395-26-99%.POST ABG RATE DECREASED TO 8 AND FIO2 TO 50%. SHE HAS #6.5 ETT TAPED AT 18CM,BS CLEAR,HR 88-SAT 100%.WILL WEAN PATIENT TO EXTUBATE IF NO COMPLICATION ENCOUNTERED.
+",,
+13251,22021,16498,0,2905-07-07 14:30:00 EST,2905-07-07 14:48:00 EST,3025,"N",54,"Nursing/Other",,"
+
+0: ADM FROM OR POST-CABG X 3; SEDATE AND UNRESPONSIVE ON PROPOFOL, LOW DOSE NEO AND INSULIN DRIP. CVL AND A-LINE ONLY. INSULIN OFF W/IN 1/2 HR FOR GLUC IN 70'S. REPEAT IN 70'S THEN DOWN TO 32, TX W/ 1 AMP D50. AFTER 2L LR, BP STILL SL LABILE W/ TRANSIENT DROP TO SBP IN 60'S TX W/ NEO AND FLUID. A-PACED INITIALLY, NOW NSR IN 80'S. MOD CT OUTPUT ON ARRIVAL. HCT STABLE AND ACT=129. OUTPUT NOW DIMINISHED. OF NOTE ARE BIL IRREG SHAPED,UNRESPONSIVE PUPILS. UNCLEAR IF PT HAD CATARACTS; WILL CHECK CHART. BAIR HUGGER ON FOR MILD HYPOTHERMIA; PT NOW WARM. VENT CHANGES AS ABOVE. SON AND [**Name2 (NI) **]-IN-LAW IN TO VISIT ANDUPDATED.
+
+A: LABILE BP REL TO FLUID VOL STATUS. UNSTABLE GLUCOSE. MENTAL STATUS STILL UNCERTAIN DUE TO SEDATION/UNRESPONSIVENESS.
+
+P: MONITOR GLUC Q 1 HR FOR NOW. MAY REQUIRE MORE FLUID. NEO AS NEEDED. WILL BATHE AND REVERSE PARALYTICS NOW THAT PT WARM. AWAKEN AND WEAN FROM VENT AS TOL. RECHECK ABG. 
+
+
+",,
+13251,22021,16498,0,2905-07-07 17:59:00 EST,2905-07-07 18:10:00 EST,3025,"N",54,"Nursing/Other",,"
+
+ENDO: GLUC IMPROVED AFTER D50 BUT TRENDING DOWN AGAIN.
+
+CV: REMAINS ON LOW DOSE NEO FOR BP SUPPORT. NSR W/ RARE PAC.
+
+NEURO: PROPOFOL OFF. MAE, LIFTS HEAD TO COMMAND. NODS HEAD, DENIES PAIN BUT SLEEPY. PUPILS UNCHANGED. PT NODS YES THAT SHE HAS CATARACTS.
+
+RESP: ON CPAP W/ 8 IPS. VT'S 280-350ML, RR 16, SPO2=100%. PACO2=50 ON CPAP ABG.
+
+ASSESS: GENERALLY MORE STABLE BUT TOO SLEEPY TO EXTUBATE @ PRESENT. NEUROLOGICALLY INTACT.
+
+PLAN: KEEP INTUBATED FOR NOW AND REPEAT ABG IN 1 HR. VERBAL STIMULATION TO KEEP AWAKE, ORIENTED. CONT TO MONITOR GLUC CLOSELY.
+",,
+13251,22021,16498,0,2905-07-07 22:08:00 EST,2905-07-07 22:34:00 EST,3819,"N",54,"Nursing/Other",,"
+
+PT ADMITTED TO CSRU S/P UNEVENTFUL CABG X3~
+
+PT PRESENTED TO [**Hospital1 10**] FOR [**Hospital3 **] WHERE PT WAS ADMITTED S/P N/V WITH COFFEE GROUND EMESIS AND UNWITNESSED FALL. CT SCAN WAS NEG FOR ICB. PT HAS FLUCTUATING MENTAL STATUS AT BASELEINE. BRUISED R HAND AND ON R SIDE OF FOREHEAD. PT WAS FOUND TO BE IN DKA AND DEPRESSED ST ON EKG~PT RULED IN FOR MI. 
+
+PMH SIGNIFICANT FOR CAD, PTCA WITH STENT, HTN, IDDM, CVA WITH APHASIA (RESOLVED) AND MEMORY DEFICITS, HYPOTHYROIDISM.
+
+NEURO~ALERT WHEN AWOKEN~SPEECH CLEAR, ORIENTATED TO PERSON AND PLACE ""HOSPITAL IN [**Location (un) **]"", THINKS IT IS THE YEAR [**2903**] BUT AWARE IT IS AUGUST. MAE, FOLLOWS COMMANDS. TORDOL FOR PAIN. PUPILS 3MM BILATERALLY, NR~PT STATES ""NOT THE BEST VISION"". 
+
+CV~SR WITHOUT ECTOPY~TITRATING NEO TO OFF. CVP 2-8. 2A/2V WIRES~VDEMAND OF 60~VENTRICULAR CAPTURE AT 4~MA SET AT 8.  PULSES BY DOPPLER. HCT STABLE. EXTREMITIES COOL TO TOUCH, R HAND SWOLLEN AND BRIUSED~STRONG RADIAL PULSES BY DOPPLER.
+
+RESP~PT EXTUBATED @2030 FROM CPAP , PEEP OF 5 AND IPS OF 8 (DUE TO ET SIZE OF 6.5) PLACED ON 6L NP INTIALLY WEANING BY O2 SATS~POST EXTUBATION ABG COMPLETED R/T PT SLEEPINESS~WNL. CT DRAINING SEROOUS/SANG IN SMALL AMTS.
+
+GI~ABSENT BS. NO N/V.
+
+GU~SMALL DIP IN U/O, RESPONDED TO HESPAN. 
+
+SKIN~STERNAL INCISION INTACT WITH DSD~NEG DRAINAGE. L LEG WITH STERIS~INCISION REDRESSED AND ACE WRAP REAPPLIED.
+
+ENDO~INSULIN DRIP OFF ON ADMISSION TO CTIC FOR LOW BS, 1 AMP OF D50 X1~CONTINUE TO MONITOR BS CLOSELY. 
+
+ID~VANCO X4 DOSES POST OP. 
+
+PLAN~TO WEAN NEO AS TOLERATED BY HEMODYNAMICS~DELINE~TO [**Hospital Ward Name **] 6.  
+",,
+13251,22021,16498,0,2905-07-08 05:31:00 EST,2905-07-08 05:32:00 EST,3819,"N",54,"Nursing/Other",,"
+
+PT STABLE OVERNOC~AM LABS WITH HCT OF 22.0 AND U/O TO 20-25CC/HR X2 HRS~1 UNIT OF PRBC UP~NEO OFF AT PRESENT. 
+",,
+13251,22021,16498,0,2905-07-08 13:22:00 EST,2905-07-08 13:52:00 EST,-1,"N",54,"Nursing/Other",,"
+
+TRANSFER NOTE FROM CSRU
+
+S/P CABG X3
+
+NEURO~A/0 X 2,CONFUSED TO SITUATIONS AT TIMES MAE,FC'S, TORODOL FOR C/O INCISIONAL PAIN WITH GOOD EFFECT.
+
+CV~NSR W/O ECTOPY ,CONT W/ V~DEMAND IN 50'S. PEDAL PULSES VIA DOPPLER,
+RIGHT HAND  SLIGHTLY MORE SWOLLEN THAN THIS AM KEEPING ELEVATED ON PILLOWS, GOOD RADIAL AND ULNAR PULSES VIA  DOPPLER. DSG'S D&I. AMBULATING WITH PT TOL WELL. A/LINE ,CVL DC'D.
+
+RESP~ON 2L NC, LUNGS CLEAR THROUGHOUT. OOB TO CHAIR CT TUBES DRAINING MINIMAL AMOUNTS.
+
+GI~TOL PO FLUIDS WELL, NEG BS.
+
+GU~LASIX IV RESPONDING WELL.
+
+SKIN~ALL DSG'S INTACT.
+
+ID~POST OP VANCO.
+
+PLAN~FOLLOWING NORMAL POST/OP COURSE, PUL TOILETING, AMB AS TOL,,
+",,
+13251,22021,16498,,2905-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2905-7-9**] 4:20 PM
+     HAND (AP, LAT & OBLIQUE) RIGHT PORT                             Clip # [**Clip Number (Radiology) 14105**]
+     Reason: swollen hand.  s.p fall.  r/o fracture.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with  s/p CABG w/ h/o of recent fall.
+     REASON FOR THIS EXAMINATION:
+      swollen hand.  s.p fall.  r/o fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of CABG and recent fall with swollen hand.
+     
+     No fracture or dislocation. There is patchy osteopenia. Degenerative changes
+     are present in multiple proximal and distal interphalangeal joints especially
+     that involving the distal interphalangeal joint of the right thumb. Vascular
+     calcification is present in the distal forearm no erosive joint changes.
+
+",,
+13251,22021,16498,0,2905-07-09 17:22:00 EST,2905-07-09 17:38:00 EST,-1,"N",54,"Nursing/Other","CSRU ADMISSION NOTE:","
+CSRU ADMISSION NOTE:
+PT S/P CABG X 3 ([**7-7**]).  INITIALLY ADMITTED TO [**Hospital3 **] WITH N/V, COFFEE GROUND EMESIS AND UNWITNESSED FALL.  CT SCAN AT THAT TIME WAS NEG FOR ICB.  BRUISED RT HAND AND RT SIDE FOREHEAD.  PT MENTAL STATUS FLUCTUATES AT BASELINE.  PT FOUND TO BE IN DKA AND HAD DEPRRESSED ST SEGS ON EKG.  RULED IN FOR MI.  TX TO [**Hospital1 10**] FOR CARDIAC CATH.
+
+ALLG: NKA
+
+PMHX: CAD- PTCA WITH STENT
+      HTN
+      IDDM
+      CVA WITH RESOLVED APHASIA
+      MEMORY DEFICITS
+      HYPOTHYROIDISM
+
+
+CABG ON [**7-7**].  PT HAD BEEN TRANSFERRED TO FLOOR ON [**7-8**].  STABLE ASIDE FROM INCREASING BS.  HAD BEEN STARTED ON INSULIN GTT ON THE FLOOR THIS AM, TRANSFERRED INTO CSRU FOR CLOSER MONITORING.  
+
+ON ARRIVAL PT ALERT, PLEASANTLY CONFUSED.  REORIENTS EASILY.  VSS STABLE.  AFEB.  PT HEMODYNAMICALLY STABLE.  LS CTA.  CTX3 D/C'D.  DSD OVER SITE- NO DRNG NOTED.  BRUISES NOTED TO RT SIDE OF FOREHEAD AND RT HAND.  XRAYS DONE PORTABLY OF RT HAND, R/O FX.  ABD SOFT.  +BS, NO BM.  PT TOL PO'S.  NO EDEMA NOTED.  DP/PT PULSES AUDBILE BY DOPPLER.  K+/MG+ REPLACED.  BS CHECKED Q1H AND INSULIN GTT TITRATED.  GTT CURRENTLY OFF- PT BS DROPPED TO 35 AND REQUIRED SUPPORT WITH D50.  PT COMFORTABLE.  CONFUSION NOTED TO INCREASE WITH LOW BS.  PT CURRENTLY 101, PT CLEARER.  WILL MONTIOR THROUGHOUT THE NIGHT AND COVER BS WITH SSRI AND TO REC NPH INSULIN THIS PM AS WELL.
+
+SEE FLOWSHEET.  CONTINUE TO MONTIOR.
+
+
+",,
+13251,22021,16498,,2905-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2905-7-10**] 3:03 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14106**]
+     Reason: Evaluation respiratory status.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with CAD s/p MI + PTCA [**10/2903**] now with DKA and ECG
+      abnormalities.  [**Doctor First Name 9812**] [**Doctor Last Name 9813**] JAR 95663
+     REASON FOR THIS EXAMINATION:
+      Evaluation respiratory status.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79 y/o woman, s/p MI with DKA and ECG abnormalities.
+     
+     Comparison to prior study from [**2905-6-29**].
+     
+     CHEST, 2 VIEWS:  The heart size, mediastinal and hilar contours, and pulmonary
+     vasculature is normal.  Linear opacity likely representing atelectasis is
+     identified in the lingula.  There are small bilateral pleural effusions with
+     additional patchy opacity at the left base likely representing associated
+     atelectasis.  There is diffuse demineralization.
+     
+     IMPRESSION:  Small bilateral pleural effusions with likely adjacent
+     atelectasis at the left base.  Infectious etiology cannot be excluded in the
+     proper clinical setting.  No evidence of CHF.
+
+",,
+13251,22021,16498,0,2905-07-10 04:09:00 EST,2905-07-10 04:12:00 EST,3256,"N",54,"Nursing/Other",,"
+
+[**7-10**] 0500 pt did well overnight. blood sugar more stable this shift. received 1amp of d50 on my shift. 05oo blood sugar 97. vss. no ectopy. taking food well. urine output adequate. should transfer out.
+
+",,
+13251,22021,16498,0,2905-07-10 08:48:00 EST,2905-07-10 08:55:00 EST,3760,"N",54,"Nursing/Other",,"
+
+79 year old female admitted to CABG x 3. Insulin gtt postop. Blood sugar dropped to 32 post-op. Stablized, transferred to [**Hospital Ward Name **] 6. Returned to [**Location 340**] [**7-9**] for high blood sugar. Insulin gtt restarted. Blood sugars dropped to 40's again, have been stable overnight. 
+Sinus rhythm, no ectopy. Pacing wires are out. Lungs clear, down to 1L/NC. Ate 20% breakfast. Blood sugar 124 this a.m., NPH given. No c/o pain. BP stable. Plan: Transfer to [**Hospital Ward Name **] 6 today. 
+",,

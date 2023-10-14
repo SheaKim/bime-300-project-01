@@ -1,0 +1,762 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13787,,,,3300-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-7-30**] 6:40 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 3609**]
+     MR CONTRAST GADOLIN
+     Reason: pre surgery, mri wand study and MRA, mass lesion in optic ch
+      Contrast: MAGNEVIST Amt: 17CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with optic chissam and brain stem.
+     REASON FOR THIS EXAMINATION:
+      pre surgery, mri wand study and MRA, mass lesion in optic chiasm and t2
+      hyperdensities in brain stem. No fuducial markers, needs thin slices. Contact
+      Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1449**] for questions, pager 9-3140.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old man with lesion along the right optic tract and
+     chiasm.
+     
+     COMPARISONS:  Multiple prior studies from [**Hospital6 3610**] not
+     available for comparison.
+     
+     TECHNIQUE:  Multiplanar T1-weighted images with gadolinium enhancement through
+     the brain.  Additional 3D time-of-flight MR angiogram images with 3D
+     reconstructions.
+     
+     MRI BRAIN FINDINGS:  There is a subtlely enhancing mass centered over the
+     right optic tract and chiasm.  The enhancement also spreads anteriorly
+     involving the right optic nerve.  Prior studies not available for comparison.
+     There is at least one other focal area of enhancement in the left temporal
+     parietal lobe.  Superiorly in the right parietal lobe near the vertex, there
+     is a punctate area of possible enhancement, which may be artifactual.  These
+     lesions are not well appreciated on the MP-RAGE sequences.
+     
+     MRA HEAD FINDINGS:  MR angiogram images demonstrate patency and normal signal
+     flow patterns of the anterior and posterior vasculature without
+     hemodynamically significant stenosis or aneurysmal dilation.  The mass
+     centered in the right optic tract and chiasm does not invade or involve the
+     local adjacent vessels.
+     
+     IMPRESSION:
+     1) Subtlely enhancing lesion centered on the right optic chiasm and tract,
+     with at least one other small focus of enhancement in the left
+     temporal/parietal lobe, and a question of punctate enhancement in the right
+     superior parietal lobe. Old studies are not available for comparison, however,
+     the imaging characteristics are concerning for metastatic disease or less
+     likely lymphoma.  Glioma appears much less likely, however, our assessment is
+     limited without T2-weighted imaging.
+     2) Normal-calibered and patent cerebral vasculature.
+     
+                                                                 (Over)
+
+     DATE: [**3300-7-30**] 6:40 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 3609**]
+     MR CONTRAST GADOLIN
+     Reason: pre surgery, mri wand study and MRA, mass lesion in optic ch
+      Contrast: MAGNEVIST Amt: 17CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13787,,,,3300-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-7-30**] 6:40 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 3609**]
+     MR CONTRAST GADOLIN
+     Reason: pre surgery, mri wand study and MRA, mass lesion in optic ch
+      Contrast: MAGNEVIST Amt: 17CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with optic chissam and brain stem.
+     REASON FOR THIS EXAMINATION:
+      pre surgery, mri wand study and MRA, mass lesion in optic chiasm and t2
+      hyperdensities in brain stem. No fuducial markers, needs thin slices. Contact
+      Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1449**] for questions, pager 9-3140.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old man with lesion along the right optic tract and
+     chiasm.
+     
+     COMPARISONS:  Multiple prior studies from [**Hospital6 3610**] not
+     available for comparison.
+     
+     TECHNIQUE:  Multiplanar T1-weighted images with gadolinium enhancement through
+     the brain.  Additional 3D time-of-flight MR angiogram images with 3D
+     reconstructions.
+     
+     MRI BRAIN FINDINGS:  There is a subtlely enhancing mass centered over the
+     right optic tract and chiasm.  The enhancement also spreads anteriorly
+     involving the right optic nerve.  Prior studies not available for comparison.
+     There is at least one other focal area of enhancement in the left temporal
+     parietal lobe.  Superiorly in the right parietal lobe near the vertex, there
+     is a punctate area of possible enhancement, which may be artifactual.  These
+     lesions are not well appreciated on the MP-RAGE sequences.
+     
+     MRA HEAD FINDINGS:  MR angiogram images demonstrate patency and normal signal
+     flow patterns of the anterior and posterior vasculature without
+     hemodynamically significant stenosis or aneurysmal dilation.  The mass
+     centered in the right optic tract and chiasm does not invade or involve the
+     local adjacent vessels.
+     
+     IMPRESSION:
+     1) Subtlely enhancing lesion centered on the right optic chiasm and tract,
+     with at least one other small focus of enhancement in the left
+     temporal/parietal lobe, and a question of punctate enhancement in the right
+     superior parietal lobe. Old studies are not available for comparison, however,
+     the imaging characteristics are concerning for metastatic disease or less
+     likely lymphoma.  Glioma appears much less likely, however, our assessment is
+     limited without T2-weighted imaging.
+     2) Normal-calibered and patent cerebral vasculature.
+     
+                                                                 (Over)
+
+     DATE: [**3300-7-30**] 6:40 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 3609**]
+     MR CONTRAST GADOLIN
+     Reason: pre surgery, mri wand study and MRA, mass lesion in optic ch
+      Contrast: MAGNEVIST Amt: 17CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+13787,24376,,,3300-08-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3300-8-5**]              Discharge Date:   [**3300-8-13**]
+ 
+Date of Birth:  [**3226-8-14**]             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Horse/Equine Product Derivatives
+ 
+Attending:[**First Name3 (LF) 360**] 
+Chief Complaint:
+blurry vision on the left visula field.
+ 
+Major Surgical or Invasive Procedure:
+Right craniotomy for resection of right optic tract glioma.
+Tissue biopsy
+
+ 
+History of Present Illness:
+73 year-old righ handed male who has noiced blurry vision on the 
+left visual field while doing his crossword puzzle and playing 
+golf.His visual problem got worse over time MRI -/+ gadolinium 
+in [**Hospital1 168**] and [**Hospital 9650**] Hospital [**3300-7-10**] showed an enhancing mass 
+in the optic chiasm and the right optic nerve. There was a spot 
+of enhancement as well as T2 and FL IR hyoerdensities in the 
+left cereberal peduncleand left insula.[**Doctor First Name 3388**] any headcahe, 
+nausa, vomiting, seizure or fall. Patient was placed on a 
+dexamethasone without any imporovement on his vision. Patient 
+refeered to Dr [**Last Name (STitle) **] by Dr [**Last Name (STitle) 737**] for surgical evaluation. After 
+long discussion with patient benefits, risk of surgery by Dr 
+[**Last Name (STitle) **] patient and family decided to have an elective surgery.
+ 
+Past Medical History:
+HTN
+Hyperlipidemia.
+ 
+Social History:
+lives with wife, fully independent with ADL's at home prior to 
+surgery.
+Tobacco: 1PPDx20 years.Quit in [**3265**].
+ETOH:occ
+ 
+Family History:
+Strong family hsitory of esophageal CA.(grandmother, sister, 
+first cousin w/ esophageal CA).
+ 
+Physical Exam:
+Vital signs: 97.3  76  16  195/58  98% RA preo holding area.
+GEN: elderly man NAD, [**Doctor Last Name **]=[**Doctor First Name **] in strecther.
+SKIN:good turgor tonus, no ecchymosis.
+HEENT: neck supple, no coratid bruits, sclera unicteric/no 
+hemorrhage.
+CVS: RRR, S1/S2, No M/G/R.
+CHEST: CTA A/P bilat.
+ABD: soft, nontender, nondistended, bowel sounds present.
+EXT: no edema, no clubbing, PP+/bilat.
+NEURO: alert, awake, orientedx3. 
+Language fluent with good comprehension.
+CN: pupils are equal reactive to light, 4 mm to 2 mm 
+bilaterally. 
+There is no afferent pupillary defect. Extraocular movements 
+are full. Visual field examination shows a left hemianopsia in 
+OS and a left upper quadrantaposia in OD. Funduscopic 
+examination reveals sharp disks margins bilaterally, but his 
+right optic nerve is a slightly pale. His face is symmetric. 
+Facial sensation is intact bilaterally. His hearing is intact 
+bilaterally. His tongue is midline. Palate goes up in the 
+midline. Sternocleidomastoids and upper trapezius are strong. 
+Motor Examination: He does not have a drift. His muscle 
+strengths are [**4-15**] at all muscle groups. His muscle tone is 
+normal. His reflexes are 0-1 bilaterally. His ankle jerks are 
+absent. Sensory examination is intact. Coordination examination 
+does not reveal dysmetria. His gait is normal. He does not have 
+a Romberg. 
+ 
+
+ 
+Pertinent Results:
+[**3300-8-5**] GLUCOSE-167* UREA N-28* CREAT-0.8 SODIUM-133 
+POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-22 ANION GAP-13
+[**3300-8-5**]   CALCIUM-7.0* PHOSPHATE-3.5 MAGNESIUM-1.8
+[**3300-8-5**]  WBC-14.0* RBC-4.38* HGB-13.5* HCT-40.6 MCV-93 MCH-30.8 
+MCHC-33.3 RDW-13.4
+[**3300-8-5**]   PLT COUNT-117*
+[**3300-8-5**] PT-12.7 PTT-21.0* INR(PT)-1.1
+
+Head MRI;[**3300-7-10**] 
+Showed an enhancing lesion in the 
+right optic nerve, right optic tract, and the optic chiasm. 
+There was also an enhancing spot in the left parietal white 
+matter, as well as increase FLAIR and T2 signals in the left 
+cerebral peduncle and the left insula. 
+
+EEG: [**3300-8-9**] 
+Markedly abnormal portable EEG due to the persistent and 
+somewhat rhythmic bursts of slowing with some sharp features 
+broadly 
+over the right hemisphere. This suggests a focal subcortical 
+abnormality, likely of a structural or distructive nature. The 
+rhythmic 
+appearance of slowing and occasional sharp features raises 
+concern for 
+the possibility of lateralized epileptogenesis, but there were 
+no clear 
+seizures during the recording. An atomic correlation would be of 
+
+interest if clinically indicated. Reflective of some drowsiness, 
+
+over the left side. 
+
+Tissu Pathology ; [**3300-8-5**] 
+#1, OPTIC TRACK LESION BIOPSY (including intraoperative smear):
+
+ANAPLASTIC ASTROCYTOMA with gemistocytic features.
+
+WHO (2000) grade III out of IV.
+
+  
+
+ 
+Brief Hospital Course:
+73 year-old male underwent right craniotomy for resection of 
+right optic track glioma, and tissue biopsy  under general 
+anesthesia on 8/25/5.No intraoperative complications occurred. 
+easily extubated. Patient closely monitored  in the PACU for Q1 
+hour neuro check and SBP goal of 100-140 mmHg ovenight.Star [**Male First Name (un) **] 
+to taper his Decadron POD#1 to mg BID until [**Doctor Last Name **] in the brain 
+tumor clinic. Postop  Head MRI with/without gadolinium revealed 
+status post craniotomy, mass in the optic chiasm is visualized. 
+No evidence of hemorrhage, mass effect or hydrocephalus. Signal 
+abnormalities in the brain stem and left insular region. No 
+evidence of acute infarct.
+
+Patient developed hyponatremia on POD#3, Na 121, started 3% 
+sodioum IV fluid restriction initiated and salt tabs able to 
+normolize sodium level.On [**8-13**] Na:132 borderline low, continue 
+fluid restriction to 1000ml a day. Check serum sodium level 
+periodically in rehab. Advanced his diet as tolareted, able to 
+void without any difficulty.POD#5 ([**8-9**]) Patient had a 
+whitnessed seizure activity by staff, potable EEG showed 
+abnormal EEG, dilantin 1 gm load then, 100mg TID 
+started.Dilantin 7.6 [**8-11**], [**8-12**] Dilantin level 18 on current 
+dose.Reloaded and dose increased to 200mg BID.
+
+On [**3300-8-12**] on morning rounds patient was slow to respond on 
+neuro exam , repeated Head CT was stable, later in the day neuro 
+exam was better. Spiked a low grade fever 101 pan cultures 
+obtained. Urine dipsitick showed trace blood, tr ketone, tarce 
+protein, glucose 250, urobil: 12, no leukocit. blod culutere an 
+durine cultures are pending, if they becaome postive will 
+contact with patient for treatment.Bilateral lower extremity 
+doppler study was negative for DVT. Stures removed on [**3300-8-13**].
+
+Dr [**Last Name (STitle) 737**] from Neurooncology seen him postop. He will follow him 
+up on [**3300-8-23**] in brain tumor clinic along with 
+radiation oncology and Dr [**Last Name (STitle) **].
+
+Pyhiscal therapy consulted for ambulation and need for rehab. Pt 
+recommended that patient needs rehab for to regain his strenght 
+to maxiamize his safety at home.
+
+ 
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+2. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+3. Vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+5. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+7. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED): D/C when is off Decadron.  
+8. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+9. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours).  
+10. Phenytoin Sodium Extended 100 mg Capsule Sig: Two (2) 
+Capsule PO BID (2 times a day).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Rigth frontal glioma 
+
+ 
+Discharge Condition:
+Neurologically stable.
+
+ 
+Discharge Instructions:
+Monitor for redness, swelling, darinage. Report fever greater 
+than 101, chills, seizure activity or any other neurologic 
+sypmtoms.
+
+Fluid restrict 1000ml/24 hours until Na level normal.Lasr Na: 
+132 ([**8-13**]). Check Na level periodically until normal.
+
+ 
+Followup Instructions:
+Follow up with Dr [**Last Name (STitle) **] and Dr [**Last Name (STitle) 737**] in Brain Tumor clinic on 
+[**3300-8-23**] at 1600. Brain tumor clinic phone number is 
+[**Telephone/Fax (1) 2110**].
+
+Please repeat urine analysis for trace blood, trace keton, trace 
+protein, glucose 250, Urobil:12 on [**3300-8-13**].
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 367**] MD [**MD Number 368**]
+ 
+Completed by: [**First Name5 (NamePattern1) 2135**] [**Last Name (NamePattern1) 2136**] NP[**MD Number 2137**] [**3300-8-13**] @ 1231
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: MON [**3300-9-20**] 10:11 AM
+(End of Report)
+
+
+",,
+13787,24376,,,3300-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-8-6**] 11:06 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3611**]
+     MR RECONSTRUCTION IMAGING
+     Reason: EVALUATE FRONTAL LOBE LESION POSTOP RESIDUAL/BLEEDING OR OTH
+     Admitting Diagnosis: LESION FRONTAL LOBE /SDA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with S/P RIGHT CRANIOTOMY FOR INFERIOR FRONTAL LOBE LESSION     
+     REASON FOR THIS EXAMINATION:
+      EVALUATE FRONTAL LOBE LESION POSTOP RESIDUAL/BLEEDING OR OTHER ABNORMALITIES. 
+      PLEASE OBTAIN WIT& WITHOUT GADOLINIUM WITHIN 24 HOURS.THANKS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN.
+     
+     CLINICAL INFORMATION:  Patient with frontal lobe lesion postoperative for
+     further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR, T2 susceptibility and diffusion axial
+     images of the brain were acquired.  MP-RAGE axial images were obtained.
+     Following gadolinium MP-RAGE axial images were obtained followed by sagittal
+     and coronal reformatted images.  Comparison was made with the previous MRI of
+     [**3300-7-30**].
+     
+     FINDINGS:  Again soft tissue abnormality with fullness in the right side of
+     the optic chiasm is noted with subtle enhancement.  The patient is status post
+     craniotomy.  Pneumocephalus is visualized.  No hemorrhage or mass effect is
+     seen.  The previously seen subtle areas of enhancement on spin echo axial T1-
+     weighted images in the left temporal parietal and right parietal convexity
+     regions are not apparent on the current study.  Hyperintensities are seen in
+     both sides of the midbrain extending to left insular region.  Several small
+     foci of T2 hyperintensity are seen in the periventricular white matter.
+     
+     IMPRESSION:  Status post craniotomy.  Mass in the optic chiasm is visualized.
+     No evidence of hemorrhage, mass effect or hydrocephalus.  Signal abnormalities
+     in the brain stem and left insular region.  No evidence of acute infarct.
+     
+     
+     
+
+",,
+13787,24376,,,3300-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-8-6**] 11:06 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3611**]
+     MR RECONSTRUCTION IMAGING
+     Reason: EVALUATE FRONTAL LOBE LESION POSTOP RESIDUAL/BLEEDING OR OTH
+     Admitting Diagnosis: LESION FRONTAL LOBE /SDA
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with S/P RIGHT CRANIOTOMY FOR INFERIOR FRONTAL LOBE LESSION     
+     REASON FOR THIS EXAMINATION:
+      EVALUATE FRONTAL LOBE LESION POSTOP RESIDUAL/BLEEDING OR OTHER ABNORMALITIES. 
+      PLEASE OBTAIN WIT& WITHOUT GADOLINIUM WITHIN 24 HOURS.THANKS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN.
+     
+     CLINICAL INFORMATION:  Patient with frontal lobe lesion postoperative for
+     further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR, T2 susceptibility and diffusion axial
+     images of the brain were acquired.  MP-RAGE axial images were obtained.
+     Following gadolinium MP-RAGE axial images were obtained followed by sagittal
+     and coronal reformatted images.  Comparison was made with the previous MRI of
+     [**3300-7-30**].
+     
+     FINDINGS:  Again soft tissue abnormality with fullness in the right side of
+     the optic chiasm is noted with subtle enhancement.  The patient is status post
+     craniotomy.  Pneumocephalus is visualized.  No hemorrhage or mass effect is
+     seen.  The previously seen subtle areas of enhancement on spin echo axial T1-
+     weighted images in the left temporal parietal and right parietal convexity
+     regions are not apparent on the current study.  Hyperintensities are seen in
+     both sides of the midbrain extending to left insular region.  Several small
+     foci of T2 hyperintensity are seen in the periventricular white matter.
+     
+     IMPRESSION:  Status post craniotomy.  Mass in the optic chiasm is visualized.
+     No evidence of hemorrhage, mass effect or hydrocephalus.  Signal abnormalities
+     in the brain stem and left insular region.  No evidence of acute infarct.
+     
+     
+     
+
+",,
+13787,24376,17155,0,3300-08-09 05:08:00 EST,3300-08-09 06:07:00 EST,5248,"N",54,"Nursing/Other",,"
+
+Nursing Admission Note:
+
+Please refer to CareVue for specifics.
+
+Pt is a 73yr old man, admitted from [**Hospital Ward Name **] 5 Stepdown for observations following increased confusion and hyponatremia.  Pt started having vision changes [**3300-6-11**].  MRI showed mass in optic chiasm.  Pt had Rt crani on [**3300-8-5**] for excision of gliomas in Rt optic track.  On [**8-8**], pt had increasing confusion and Na 119.  Commenced on 3% NaCl drip and salt tablets, and transfered to TSICU.
+
+History also positive for allergy to equine derivatives, HTN, hypercholsterolemia.  Ex-smoker.  Drinks ""a few"" glasses of wine on 5 days per week.  
+
+On exam:
+
+NEURO:
+Admitted post CT brain.  Pt awake, sleeping short periods between exams.  Opens eyes spontaneously or to voice.  Regards examiner.  PEARL.  No nystagmus.  Facial movements symmetrical.  Noted ecchymosis Rt eye, plus slight swelling.  Oral mucosa dry, and speech is slow.  Some answers delayed.  Soft voice.  Oriented to self, [**Hospital3 **], year, month, weekend, but not day or date.  Conversing apporpriately about reason for admission, family members, etc.  Has occasional comments which are slightly out of context, such as woke up at 4am looking for breakfast.  Promptly reoriented.  Has short term memory loss or inattention to instructions- when asked to keep arm straight for lab draws, keeps straight only a few seconds, then resumes picking at linens and repositioning self.  Has poor hand-eye coordination.  Has poor handling of med cup and cup of juice, and misses mouth/ tips cup over.  Sleeping intermittantly, repositions self and is often repositioning bed linens/[**Doctor First Name 1452**], etc.  Uses all 4 limbs purposfully and with good strength.
+Denying pain.  Hiccups bothering pt intermittantly.  Metoclopramide with effect.
+
+RESP:
+Chest clear apart from mild wheeze to Rt side on 1 occasion.  Pt has strong productive cough.  Having short apneic episodes when asleep, dropping Sa02 to 88%, then quickly bringing Sa02 back to mid 90s-100%.  Breathing through mouth.  02 nasal cannula applied this am due to Sa02 holding in low 90s when pt asleep.  
+Regular unlabored resps at ~18/min.
+
+HEMODYNAMICALLY:
+SR 60s-70s, had one brief episode of ST to 110/min, promptly came back to baseline.  Having more frequent PACs this am.  Mildly hypertensive with SBPs to mid 150s over 60s.  MAPs 70s-80s.  Peripherally warm and capillary refill < 3 seconds.  Poor venous access.  2 #18s working well, only 1 has blood return.  Ecchymotic areas to arms from venipunctures.  
+Received 1 pack platelets per NSurg, with post transfusion Plts 131 (up from 78).  
+
+ENDOCRINE:
+Has not required coverage per sliding scale.
+Cortisol stim test performed (results pending).
+
+FLUIDS/LYTES:
+Receiving 3% NaCl and salt tabs for Na 119.  Rechecked at 0400hrs and 126.  Resent at 0530 when 126 result received (drip stopped prior to draw) and 125.
+Drip remains off at this time.  Dr [**Last Name (STitle) **] aware.
+
+GI:
+Abd soft, bowel sounds present.  Taking oral juice and boost with pills but on fluid restriction of 1000
+",,
+13787,24376,17155,0,3300-08-09 05:09:00 EST,3300-08-09 06:07:00 EST,5248,"N",54,"Nursing/Other",,"
+
+(Continued)
+mls per day.  
+
+ID:
+Low grade fever only.  No antibiotics.
+
+RENAL:
+Urine lytes sent.
+Passing large amounts of urine initially (200-300 mls/hr) now tapering off to 150/hr.
+
+SKIN:
+Ecchymosis to Rt eye.  Rt crani site sutures intact.  Pt turning self in bed prn.  Skin care attended on admission and this morning. 
+Noted adhesive marker behind Lt ear. 
+
+SOCIAL:
+Wife and daughter visiting and oriented to TSICU, awaiting update from NSurg today.
+
+PLAN:
+Watch Na.
+Fluid restriction.
+[**Last Name (un) **] stim test results.
+Hourly neuro checks.
+?repeat CT per NSurg request.
+
+
+
+",,
+13787,24376,17155,0,3300-08-09 16:51:00 EST,3300-08-09 16:59:00 EST,4267,"N",54,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Neuro:  This morning, oriented X3 though reaching for things that were not there.  Also periods of nonverbal and no interacting lasting 5-10 seconds.  Loaded with dilantin, EEG done.  Ativan 1mg given.  Patient became very lethargic and not opening eyes.  As day ran on more awake oriented X3, engaging in conversation, no more periods of unresponsiveness or reaching at objects that are not there.
+
+CV:  HR 60's SR no ectopy noted ABP systolic 120-150.  TEDS on.
+
+Resp:  Lungs clear NARD on 3l n/c, RR 14-24 with sats 92-96%.
+
+GU/GI:  Foley with clear dk yellow urin.  NGT placed, meds down NGT, abd soft + Bowel sounds.
+
+Lytes/Endo:  Glucose as per RISS coverage as needed.  Remains on 3% sodium gtt with NA tabs TID.  NA checked Q2hrs.
+
+Social:  Family in to visit updated on plan, pleased with increased alertness.
+
+Plan:  Monitor Na level, neuro checks, cont to montior and support, follow plan of care.
+",,
+13787,24376,17155,0,3300-08-10 04:40:00 EST,3300-08-10 04:45:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+N: ALERT/ORIENTED X3-CONSISTENT. AT TIMES, PT MAKES SEEMINGLY ODD STATEMENTS THOUGH MAY BE BASELINE. PLEASANT/COOPERATIVE. DENIES PAIN.
+CV: HD STABLE. SEE CAREVUE FOR SERIAL VS. HCT 38. WARM EXTREMITIES WITH PALP PP. LYTES NL. 3% NACL GTT D/C'D. NA STABLE 130-132.
+R: LUNGS CLEAR. OCC COURSE BILAT. CLEARS WITH COUGHING. NEEDS ENCOURAGEMENT TO C/DB. WEANED O2 TO RA AND SATS 96-98%. RR TEENS. 
+GI: ABD SOFT/DISTENDED WITH +BS. SELF D/C'D NGT.
+GU: BRISK AUTODIURESIS CLEAR YELLOW.
+ID: AFEBRILE.
+A/P: TRANSFER TO FLOOR.
+",,
+13787,,,,3300-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-9-3**] 1:21 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 3612**]
+     Reason: Assess for pulmonary emboli and interstial changes          
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with Glioma and right sided chest pain                          
+     REASON FOR THIS EXAMINATION:
+      Assess for pulmonary emboli and interstial changes                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  74-year-old man with history of glioma, right-sided chest pain and
+     new interstitial infiltrate.  Rule out PE.
+     
+     There are no previous CT scans available for comparison.
+     
+     TECHNIQUE:  CT angiogram of the chest.  Precontrast, low dose images were
+     obtained followed by images at the  pulmonary artery phase.  Coronal and
+     sagittal images are also provided.
+     
+     FINDINGS:  The heart is normal in size.  Mild atherosclerotic changes are seen
+     within the aorta.  Multiple pulmonary emboli are seen arising at the division
+     of the right pulmonary artery, throughout the upper, middle, and inferior
+     lobes with less compromised in the later one, associated with wedge shaped
+     subpleural areas of infiltration consistent with pulmonary infarcts.  In the
+     left hemithorax, there is also pulmonary emboli with less compromise compared
+     to the right side, but also associated with small peripheral subpleural areas
+     probably resolving infarcts.  Subplaural emphysematous changes are seen in
+     upper lobes. There is no pleural effusion.  Multiple lymphadenopathies are
+     seen in the prevascular and peritracheal regions.  The biggest is located
+     pretracheal and measuring 6 mm.
+     
+     IMPRESSION:  Bilateral pulmonary embolism associated with peripheral pulmonary
+     infarcts.
+     
+     The findings were discussed with Dr. [**Known patient firstname 2684**] [**Known patient lastname 3613**] at the moment of the
+     dictation.
+     
+     
+
+",,
+13787,,,,3300-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-11-8**] 1:40 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3614**]
+     Reason: rt optic anaplastic astrocytoma, s/p crani, s/p wbxrt, chemo
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      rt optic anaplastic astrocytoma, s/p crani, s/p wbxrt, chemo
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH AND WITHOUT CONTRAST ON [**11-8**].
+     
+     CLINICAL HISTORY:  Anaplastic astrocytoma treated with surgery, chemotherapy
+     and radiation therapy.
+     
+     TECHNIQUE:  Multiplanar pre- and post-contrast T1-weighted images, axial T2-
+     weighted, susceptibility FLAIR and diffusion-weighted images were obtained.
+     
+     FINDINGS:
+     There is an enhancing mass centered in the right optic chiasm and tract, which
+     is decreased in size slightly compared to [**3300-7-30**].  The enhancement has become
+     more intense.  The surrounding FLAIR hyperintensity is approximately
+     unchanged.
+     
+     Where subtle enhancement was seen in the left superior temporal gyrus,
+     posteriorly, there is now an enhancing 5-mm nodule.  No edema surrounds this
+     lesion.  The punctate lesion in the anterior superior right parietal lobe is
+     less conspicuous.  Again, there is no edema associated with this lesion.
+     
+     There is patchy T2 hyperintensity in the deep cerebral white matter.  There is
+     cortical T2 hyperintensity in the posterior half of the left Insula,
+     unchanged.  There is bilateral brainstem T2 hyperintensity, more prominent in
+     the left where there is involvement of the cerebral peduncle in the inferior
+     extension into the pons, both of which appear somewhat swollen.
+     
+     IMPRESSION:
+     1.  The enhancing nodule in the posterior superior left temporal lobe has
+     enlarged.
+     
+     2.  The enhancing tumor in the right optic chiasm and tract has decreased
+     somewhat in size and there is less mass effect on the right aspect of the
+     third ventricle.  The degree of enhancement has increased compared to the
+     prior study.
+     
+     3.  The punctate enhancing lesion in the superior right parietal lobe is
+     unchanged.
+     
+     4.  There remain areas of abnormal T2 hyperintensity in the left Insula and in
+     the brainstem.
+     
+     5.  The right craniotomy and underlying slight dural enhancement are again
+     noted.  There is new opacification of the left maxillary sinus.
+                                                                 (Over)
+
+     DATE: [**3300-11-8**] 1:40 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3614**]
+     Reason: rt optic anaplastic astrocytoma, s/p crani, s/p wbxrt, chemo
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+13787,,,,3300-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3300-12-20**] 9:04 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3615**]
+     Reason: astrocytoma right optic, s/p wbrt ? new left parietal mass
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with brain tumor
+     REASON FOR THIS EXAMINATION:
+      astrocytoma right optic, s/p wbrt ? new left parietal mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Multiplanar T1- and T2-weighted sequences were obtained through
+     the brain with multiplanar post-gadolinium T1 imaging as well as arterial
+     spin-labeled perfusion imaging.
+     
+     HISTORY:  Right optic anaplastic astrocytoma status post chemo, whole brain
+     radiation and craniotomy.
+     
+     FINDINGS:  Today's examination is compared with the prior from [**3300-11-8**].  Since the prior examination, there has been no significant change in
+     either the pattern of enhancement or the pattern of T2 signal abnormality.
+     Again, there is a additional small focus of enhancement within the mid left
+     temporal lobe, which is stable.  The enhancing tumor at the right optic chiasm
+     and tract is stable in size and enhancement pattern.  The mild mass effect
+     upon third ventricle persists.  The adjacent T2 signal hyperintensities are
+     stable, including the three rounded foci of increased T2 signal within the
+     brainstem. Two of these appear in the left cerebral peduncle and one within
+     the right peduncle, as before. Multiple foci of increased T2 signal within the
+     periventricular white matter of both cerebral hemisphres and the centrum
+     semiovale of both sides, as well as along the left insular surface.  Again,
+     these changes are stable.
+     
+     No new areas of abnormal enhancement are appreciated.  There is no evidence of
+     hydrocephalus, and the size and the shape of the lateral ventricles are
+     stable.  There is a small epidural collection just deep to the right-sided
+     craniotomy, which is also stable since the prior examination.
+     
+     IMPRESSION:  No significant change since prior examination.  No new areas of
+     enhancement.
+     
+     The enhancing tumor in the right optic chiasm and tract is stable in size and
+     enhancement pattern.
+     
+     There is a stable enhancing nodule in the posterior-superior left temporal
+     lobe, as before.
+     
+
+",,
+13787,,,,3301-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3301-1-27**] 1:13 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3616**]
+     Reason: eval progression of tumor                                   
+     Admitting Diagnosis: WEAKNESS
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with anaplastic astrocytoma, now with increasing weakness, s/p 
+      fall
+     REASON FOR THIS EXAMINATION:
+      eval progression of tumor                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fall, evaluate progression of tumor.  
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain were obtained.
+     Gadolinium and diffusion-weighted images were obtained.
+     
+     FINDINGS:  Todays examination is compared to the MRI of [**3300-11-8**] and
+     [**3300-12-20**].  The enhancing tumor at the right optic chiasm and tract is
+     stable in size and enhancement pattern.
+     
+     There has been increase in the size of the previously identified left temporal
+     lesion, which now measures 1.5 x 1.1 cm and previously measured 0.6 x 0.4 cm.
+     The lesion is hyperintense on T1- and T2- weighted images and shows a rim of
+     susceptibility artifact.  There is increased T2 signal in the parenchyma
+     adjacent to this focus, which may represent edema or post- radiation change.
+     
+     Again seen are multiple T2 signal hyperintensities including three rounded
+     foci of increased T2 signal within the brainstem.  The appearance is unchanged
+     compared to the prior MRI studies.
+     
+     No new areas of abnormal enhancement are appreciated. There is no evidence of
+     hydrocephalus. Again seen is a small epidural collection just deep to the
+     right-sided craniotomy, which is stable compared to the prior examinations.
+     There is a air-fluid level in the left maxillary sinus and thickening of the
+     right maxillary sinus and left ethmoid air cells.
+     
+     IMPRESSION:  
+     1.  No significant change in appearance of right optic chiasm tumor.
+     2.  Increased size of mass in the posterior-superior left temporal lobe. New
+     T1 hyperintensity in this may may indicate hemorrhage.  Enhancement cannot be
+     assessed.  This may represent enlarging tumor or a focus of radiation treated
+     tumor.
+     3.  Air fluid level in left maxillary sinus.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3301-1-27**] 1:13 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 3616**]
+     Reason: eval progression of tumor                                   
+     Admitting Diagnosis: WEAKNESS
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,

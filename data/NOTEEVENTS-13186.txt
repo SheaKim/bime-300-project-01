@@ -1,0 +1,1773 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13186,,,,2911-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-6-27**] 1:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13645**]
+     Reason: please eval                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old woman with delta ms                                                
+       
+     REASON FOR THIS EXAMINATION:
+      please eval                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     86-year-old female with change in mental status.
+     
+     COMPARISON:  [**2911-5-10**].
+     
+     AP PORTABLE CHEST:  The heart size is within normal limits.  Again
+     demonstrated is the tortuous aorta with calcifications of the arch.  The
+     mediastinal contours are within normal limits.  There is apparent blunting of
+     the left costophrenic sulcus which may be due to patient positioning or
+     possibly represent a small left pleural effusion.  The right lung is grossly
+     clear.  No focal consolidation or pneumothorax is identified.  Pulmonary
+     vasculature is unremarkable.
+     
+     IMPRESSION:  No pneumonia identified.  Possible small left pleural effusion.
+     If pneumonia remains a clinical concern, full PA and lateral radiographs are
+     suggested when the patient may tolerate this.
+
+",,
+13186,,,,2911-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-6-27**] 2:52 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13646**]
+     Reason: please eval                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with delta ms                                                 
+     REASON FOR THIS EXAMINATION:
+      please eval                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SAT [**2911-6-27**] 3:36 PM
+      Stable compared to [**2911-5-10**]
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status.
+     
+     COMPARISON:  CT head dated [**2911-5-10**].
+     
+     TECHNIQUE:  MDCT-acquired axial images of the head were obtained without IV
+     contrast.
+     
+     FINDINGS:  There is no evidence of acute intra- or extra-axial hemorrhage. The
+     [**Doctor Last Name 8**]-white matter differentiation appears preserved.  The ventricles are
+     stable in size.  Periventricular white matter hypodensity is again
+     demonstrated and unchanged, consistent with chronic small vessel disease.
+     Visualized paranasal sinuses are well aerated.
+     
+     IMPRESSION:  Stable appearance of the head compared to [**2911-5-10**].
+
+",,
+13186,9908,,,2911-07-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2911-7-6**]              Discharge Date:   [**2911-8-12**]
+ 
+Date of Birth:  [**2824-5-15**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Nitrofurantoin / Sulfa (Sulfonamides) / Hydralazine
+ 
+Attending:[**First Name3 (LF) 2289**] 
+Chief Complaint:
+diarrhea, lethargy
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+
+ 
+History of Present Illness:
+This is a 87 y/o female with PMH sig for Parkisons Disease, 
+Dementia, h/o Recurrent UTIs, with recent [**Hospital1 19**] admission 
+[**2911-6-27**]->[**2911-7-1**] for hypotension and UTI. During this admission, 
+she was admitted for lethargy and found to have a systolic BP in 
+the upper 50s. Her hypotension resolved by the time she was 
+admitted to the medical team, and the thought was that it may 
+have been d/t medicince effect from changes in her 
+antihypertensive. Her EKG was without evidence of acute ischemia 
+and she ruled out for a myocardial infarction. Her lisinopril, 
+atenolol and norvasc were decreased and she remained 
+normotensive on this admission. In addition, she was found on 
+urine culture to have a Urinary tract infection with E. coli. 
+She was treated with levofloxacin, to complete a 7 day course.  
+.  
+She now presents from NH with hypotension, increasing lethargy, 
+diarrhea and fever. ROS and HPI are extremely limited as patient 
+is not able to relate history. Initial VS in the ED: 100R, 74, 
+61/30 24 95% RA. Initial Lactate was 3.4 which decreased to 2.5 
+after IVF fluids. Labs revealing for new leucocytosis (WBC of 
+19.9 from 6.2 on discharge) along with new ARF (1.2-->2.8)  
+.  
+In the ED, the pt was given CTX (which the E coli is susecptible 
+to) along with Flagyl. She received aggresse IVF resuscitation 
+with increased in her BP to 110s systolic.  
+
+ 
+Past Medical History:
+1. Parkinson's disease  
+2. Baseline dementia on Aricept  
+3. Hypertension  
+4. History of recurrent UTIs  
+5. Right vulvar mass, U/S as above with 2 small connected  
+collections of fluid in right labium majorum, ? infected  
+Bartholin gland cysts. Scheduled to see Dr. [**Last Name (STitle) 8651**] on [**2911-5-15**] at  
+2:30 pm. Recently treated with Ceftriaxone empirically started  
+on [**2911-5-1**].  
+6. ? History of upper GI bleed, work-up at [**Hospital1 717**].  
+7. History of c. difficile infection  
+.  
+
+ 
+Social History:
+demented nursing home resident living at EPOC in [**Location (un) 5816**]
+wheelchair bound per nurse [**First Name (Titles) **] [**Last Name (Titles) 8652**]: normally pt cannot talk and 
+cannot answer any questions; she is normally lethargic per 
+nursing home nurse; she is totally dependent per nursing home 
+nurse. As noted in last discharge summary, she is able to follow 
+simple commands.
+ 
+Family History:
+Noncontributory
+ 
+Physical Exam:
+PE 96.7 67 122/68 16 98%RA  
+Gen: laying in bed, lethargic but arousable  
+HEENT: NCAT, parched MM  
+Neck: supple, JVD flat, no carotid bruits-->but not able to 
+fully cooperate with exam  
+Chest: CTAB, no wheezes, rales or rhonci in anterior lung fields 
+ 
+CVS: rrr, no m/r/g but exam limited by upper airway noises  
+Abd: soft, NABS, NT, ND, no rebound/gaurding  
+Extrem: no c/c/e, brusing (B)  
+Neuro: opens eyes to sternal rub, does not follow simple 
+commands but will squeeze the examiners hand  
+
+ 
+Pertinent Results:
+Imaging:
+[**7-6**] CXR: lungs clear, no PTX, CHF or PNA
+.
+Micro:
+[**7-5**] ucx pending
+[**7-5**] bcx pending
+[**7-6**] C. diff pending
+
+[**2911-7-5**] 11:34PM   WBC-19.9*# RBC-3.67* HGB-11.4* HCT-33.1* 
+MCV-90 MCH-31.1 MCHC-34.5 RDW-15.3
+[**2911-7-5**] 11:34PM   NEUTS-80* BANDS-4 LYMPHS-8* MONOS-6 EOS-0 
+BASOS-0 ATYPS-2* METAS-0 MYELOS-0
+[**2911-7-5**] 11:34PM   PLT COUNT-240
+[**2911-7-5**] 11:34PM   GLUCOSE-169* UREA N-69* CREAT-2.8*# 
+SODIUM-146* POTASSIUM-4.9 CHLORIDE-110* TOTAL CO2-20* ANION 
+GAP-21*
+[**2911-7-6**] 12:29AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 302**]-1.020
+[**2911-7-6**] 12:29AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-SM
+[**2911-7-6**] 12:29AM URINE  RBC-[**2-8**]* WBC-[**10-26**]* BACTERIA-MOD 
+YEAST-NONE EPI-0-2
+ 
+Brief Hospital Course:
+1) SEPSIS:
+Pt was initially treated on floor for UTI but then transferred 
+to the ICU for septic shock with hypotension, decreased urine 
+output.  Pt was put on broad spectrum antibiotics to cover UTI 
+as well as C diff.  She was on ceftriaxone for E/ coli UTI as 
+well as IV vanco.
+Her hypotension resolved.  She remained AF and WBC normalized.  
+Her repeat urine cultures were negative and she completed 10d 
+course of ceftriaxone for the UTI.  
+.  
+2) C DIFF:
+Pt had positive C diff toxin early in the admission and was 
+started on flagyl and PO vanco.  However, treatment of her Cdiff 
+was prolonger by intervening antibiotics for other infections.  
+At discharge she requires about 8 more days of vanco and flaygl.
+.
+3) GI BLEED:
+Pt also developed a lower GI bleed while in the ICU. Her hct 
+remained stable but she had BRBPR.  A colonoscopy showed C diff 
+colitis and ischemic colitis resulting in friable mucosa.  As 
+her sepsis resolved and c diff was treated, she had no further 
+lower GI bleed.
+.
+4) ANEMIA:
+Initially, her HCt was around 30 and stable.  By discharge, it 
+ranged from 23 to 25 but was stable.  Iron studies show anemia 
+of chronic disease.  There is no active bleeding.
+.
+5) PNEUMONIA:  After leaving the ICU, pt developed an elevated 
+WBC.  CXR showed possible pneumonia so she was treated with 
+ceftriaxone and vanco initially and then switched to cipro.  Her 
+WBC normalized and resp secretions decreased.  
+.
+6) PICC site infection:  She developed exudate at site of PICC.  
+Culture showed pseudomonas.  Treated with cipro.  PICC changed 
+to new site.
+.   
+7) cardiac arrhythmia: 
+EKG [**7-17**] appeared to be possible a-fib c RVR (105) and compared 
+to prior EKG done on admission which was read by a cardiologist 
+(sinus rhythm c freq. atrial ectopy), does appear to be more 
+irregularly irregular. Pt without symptoms during this episode. 
+Subsequently in NSR c frequent PACs. Thus do not believe a-fib 
+an element to pt's hypotension. If pt does go into a-fib, would 
+not be a good candidate for anticoagulation given current 
+bleeding from below and fall risk.  
+.  
+8) HTN: Holding home antihypertensives (amlodipine 2.5 mg, 
+lisinopril 2.5 mg, atenolol 12.5 mg BID) given overall 
+malnutrition, initial hypotension.  Can be restarted as outpt 
+once BP in stable range.  
+.  
+9) Dementia/Parkinsons:  For much of the hospitalization, 
+sinemet was held due to inability to take POs.  This was 
+restarted once PEG placed.  
+.  
+10) MALNUTRUTION:  Pt suffered from severe malnutrition, likely 
+long standing and exacerbated by acute illness.  Albumin<2.0.  
+She was likely not getting sufficient nutrition PO.  She is also 
+high aspiration risk and should not take any POs.  PEG placed 
+and started on TFs.
+.
+11) ANASARCA:  DEveloped while in septic shock but persisted due 
+to hypoalbunemia.  Did not attempt diuresis given low albumin.  
+Once nutritional status improved, expect some degree of 
+autodiuresis which can be assisted with diuretics if needed.  
+.  
+12) CODE STATUS:  Initially full code, after family meeting week 
+before discharge, made DNR/DNI
+ 
+Medications on Admission:
+1. Amlodipine 2.5 mg PO DAILY 
+2. Atenolol 12.5 mg PO BID
+3. Calcium Carbonate 1,250 mg Tablet Sig: One (1) Tablet PO BID 
+4. Lisinopril 2.5 mg qd 
+5. Aspirin 81 mg qd
+6. Multivitamin       
+7. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+8. Carbidopa-Levodopa[**MD Number 1653**] mg Tablet Sig: Two (2) Tablet PO qd 
+
+9. Lansoprazole 30 mg qd
+10. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 4 days.  
+
+ 
+Discharge Medications:
+1. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day) as needed for peri rash.  
+2. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours) for 8 days.  
+3. Carbidopa-Levodopa[**MD Number 1653**] mg Tablet Sig: Two (2) Tablet PO 
+TID (3 times a day).  
+4. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 8 days.  
+5. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: Thirty 
+(30) mg PO DAILY (Daily).  
+6. Morphine Concentrate 20 mg/mL Solution Sig: 0.5 mg PO every 
+six (6) hours as needed for pain: sublingual.  
+7. Acetaminophen 160 mg/5 mL Solution Sig: Six [**Age over 90 3710**]y 
+(650) mg PO Q6H (every 6 hours).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 511**] - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Aspiration Pneumonia 
+Parkinson's Disease 
+C-Diff Colitis 
+Sepsis 
+UTI 
+Malnutrition, severe
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Return to the hospital for fevers, elevated white blood cell 
+count, inability to feed, decreased urine output.
+
+Take medications as prescribed.
+ 
+Followup Instructions:
+Once discharged from rehab, should f/u with Dr. [**Last Name (STitle) **], her PCP.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 2295**] MD [**MD Number 2296**]
+ 
+Completed by: [**Name6 (MD) **] [**Last Name (NamePattern4) 2295**] MD [**MD Number 2296**] [**2911-8-12**] @ 1353
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: MON [**2911-8-24**] 4:25 PM
+(End of Report)
+
+
+",,
+13186,9908,,,2911-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-6**] 10:17 AM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 13648**]
+     Reason: Evaluate for hydronephrosis                                 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with ARF                                                      
+     REASON FOR THIS EXAMINATION:
+      Evaluate for hydronephrosis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old female with acute renal failure.
+     
+     COMPARISON:  No prior study available for comparison.
+     
+     RENAL ULTRASOUND:
+     
+     There are multiple cysts of both kidneys, which makes measurement of overall
+     size and cortical thickness unreliable.  A best estimate of the right renal
+     size including cysts is 12.8 cm.  The left kidney contains relatively fewer
+     cysts, and the best estimated at overall size is 9.2 cm.  Some of the cysts
+     have internal echoes, possibly representing hemorrhage.  No definite renal
+     stones or hydronephrosis is identified.  The urinary bladder is decompressed
+     and contains a Foley catheter.
+     
+     IMPRESSION:  Multiple bilateral renal cysts with appearance suggestive of
+     polycystic kidney disease.  No evidence of hydronephrosis.
+                                                                           
+
+",,
+13186,9908,,,2911-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-6**] 11:07 AM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 13649**]
+     Reason: Evaluate for toxic megacolon                                
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with C. diff colitis                                          
+     REASON FOR THIS EXAMINATION:
+      Evaluate for toxic megacolon                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old female with history of C-diff colitis.  Abdominal
+     film obtained to evaluate for toxic megacolon.
+     
+     FINDINGS:  Single view of the abdomen obtained in supine posture.  Abdomen
+     demonstrates normal bowel gas pattern.  No dilated loops of bowel or air fluid
+     levels seen.  There is modest amount of stool in the rectum.  Soft tissue
+     structures are otherwise unremarkable.  Osseous structures demonstrate
+     degenerative joint disease in the lumbar spine and bilateral hips.
+     
+     IMPRESSION:  No evidence of toxic megacolon.
+                                                                           
+
+",,
+13186,9908,,,2911-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-6**] 3:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13647**]
+     Reason: ? pNA                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 year old woman with fever, hypotension                                     
+     REASON FOR THIS EXAMINATION:
+      ? pNA                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of fever and hypotension in an 86-year-old woman.
+     Evaluate for pneumonia.
+     
+     COMPARISON:  [**2911-6-27**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  The cardiac and mediastinal contours are stable
+     in appearance accounting for differences in positioning.  The lungs are clear.
+     No pneumothorax is seen. The osseous structures are stable in appearance.
+     There are degenerative changes are seen within the left shoulder joint.
+     
+     IMPRESSION:  No evidence of pneumonia.
+
+",,
+13186,9908,,,2911-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-9**] 1:11 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13650**]
+     Reason: r picc                                                      
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         86 year old woman with fever, hypotension                                    
+       
+     REASON FOR THIS EXAMINATION:
+      r picc                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assessment of right CV line.
+     
+     AP upright portable comparison with [**7-6**].
+     
+     FINDINGS: The new right PICC line has its tip in the mid SVC in satisfactory
+     position.  Heart, mediastinal and hilar contours look unchanged and normal in
+     position.  lungs are clear.  There are no pleural effusion or pneumothorax.
+     
+     IMPRESSION:  Right PICC line in proper position with no acute cardiopulmonary
+     process.
+
+",,
+13186,9908,,,2911-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-11**] 2:08 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13651**]
+     Reason: Please evaluate for free air, megacolon                     
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old woman with C. diff colitis, increased abdominal tenderness         
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for free air, megacolon                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, Bedside on [**2911-7-11**] at 1:08 p.m.
+     
+     HISTORY:  C-diff colitis.  Abdominal tenderness.  Possible free air.
+     
+     IMPRESSION:  Single overhead view of the abdomen shows essentially normal
+     intestinal gas pattern and no free intraperitoneal gas.  There is heavy
+     atherosclerotic calcification of the aortoiliac system.  Severe degenerative
+     change is seen in the mid and lower lumbar spine.
+                                                                           
+
+",,
+13186,9908,,,2911-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-12**] 1:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13652**]
+     Reason: evaluate for infiltrate, free air                           
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          86 year old woman with C. diff fever, hypotension                           
+                 
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate, free air                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     AP CHEST, 12:57 P.M., [**2911-7-12**].
+     
+     HISTORY:  Colitis, fever and hypotension.  Rule out free air.
+     
+     IMPRESSION:  AP chest compared to [**2911-7-9**].
+     
+     Small bilateral pleural effusions are new.  Mild atelectasis probably explains
+     increasing opacity at both lung bases.  The upper lungs are clear.  Heart size
+     top normal.  No pneumothorax.  Right PIC catheter passes as far as the mid
+     third of the SVC, but the tip is obscured.
+     
+     No free subdiaphragmatic gas is  noted.
+
+",,
+13186,9908,,,2911-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-13**] 6:22 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13653**]
+     Reason: EVAL FOR ABSCESS, COLITIS, PERFORATION, - LLQ AND EPIGASTRIC PAIN 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with LLQ and epigastric pain in setting of c diff             
+     REASON FOR THIS EXAMINATION:
+      r/o abscess, colitis, perforation                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left lower quadrant and epigastric pain.  History of Clostridium
+     difficile.
+     
+     COMPARISON:  No radiographs available for comparison.  Report from the renal
+     ultrasound dated [**2911-7-6**].
+     
+     TECHNIQUE:  MDCT-acquired images of the abdomen and pelvis were obtained after
+     the administration of oral contrast.  IV contrast was not administered
+     secondary to lack of IV access.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There are bilateral small pleural
+     effusions with associated compressive atelectasis.  There is mild ascites.
+     Non-contrast evaluation of the liver otherwise demonstrates no definite focal
+     lesions.  The spleen is unremarkable.  There is a likely 1.2 cm splenic artery
+     aneurysm.  The adrenal glands are poorly visualized, but likely normal.  The
+     left kidney is small with innumerable hyperdense and hypodense lesions.  The
+     right kidney has a lobulated contour with innumerable hyperdense and hypodense
+     lesions.  There is no evidence of hydronephrosis.  There are extensive
+     calcifications of the coronary arteries, aorta, and iliac arteries.
+     
+     There is probable thickening of the transverse colon extending to the splenic
+     flexure and descending colon.  Evaluation of the sigmoid colon is limited due
+     to under filling with possible wall thickening.  There are multiple sigmoid
+     diverticula.  There is marked wall edema of the rectum with marked surrounding
+     inflammatory stranding.  Slight inflammatory stranding is demonstrated
+     surrounding the splenic flexure.  There is no definite thickening of the
+     ascending colon.  No definite pneumatosis is seen.  Loops of small bowel are
+     of normal caliber with no wall thickening.  There are multiple small
+     mesenteric and retroperitoneal lymph nodes that do not meet CT criteria for
+     pathologic enlargement.  There is no intra-abdominal free air.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is air within the bladder,
+     presumably secondary to the Foley catheterization.  Marked rectal wall edema
+     with surrounding inflammatory change is described above.
+     
+     Bone windows reveal degenerative changes.  There is a severe compression
+     fracture of L2 with a moderate anterior wedge deformity of L1.  There are
+     degenerative endplate changes with vacuum disc phenomenon at multiple levels.
+     
+     IMPRESSION:
+     1.  Marked wall edema with surrounding inflammatory change of the rectum with
+                                                                 (Over)
+
+     DATE: [**2911-7-13**] 6:22 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13653**]
+     Reason: EVAL FOR ABSCESS, COLITIS, PERFORATION, - LLQ AND EPIGASTRIC PAIN 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     wall thickening also demonstrated in the transverse colon, left colon, and
+     possibly sigmoid colon.
+     2.  Small left kidney with bilateral innumerable hyper- and hypodense renal
+     lesions.  The renal ultrasound report of [**2911-7-6**] describes multiple bilateral
+     renal cysts, some of which contain internal echoes.  No other studies are
+     available for comparison.  Further evaluation with a contrast-enhanced CT or
+     an MRI may be considered.
+     3.  Bilateral pleural effusions with associated compressive atelectasis.
+     4.  1.2-cm likely calcified splenic artery aneurysm.
+     5.  Extensive atherosclerotic disease involving the coronary arteries, aorta,
+     and iliac arteries.
+     6.  Severe compression fracture of L2 with a moderate anterior wedge
+     compression fracture of L1, age indeterminate.
+     
+     
+
+",,
+13186,9908,,,2911-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-13**] 6:22 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13653**]
+     Reason: EVAL FOR ABSCESS, COLITIS, PERFORATION, - LLQ AND EPIGASTRIC PAIN 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with LLQ and epigastric pain in setting of c diff             
+     REASON FOR THIS EXAMINATION:
+      r/o abscess, colitis, perforation                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left lower quadrant and epigastric pain.  History of Clostridium
+     difficile.
+     
+     COMPARISON:  No radiographs available for comparison.  Report from the renal
+     ultrasound dated [**2911-7-6**].
+     
+     TECHNIQUE:  MDCT-acquired images of the abdomen and pelvis were obtained after
+     the administration of oral contrast.  IV contrast was not administered
+     secondary to lack of IV access.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There are bilateral small pleural
+     effusions with associated compressive atelectasis.  There is mild ascites.
+     Non-contrast evaluation of the liver otherwise demonstrates no definite focal
+     lesions.  The spleen is unremarkable.  There is a likely 1.2 cm splenic artery
+     aneurysm.  The adrenal glands are poorly visualized, but likely normal.  The
+     left kidney is small with innumerable hyperdense and hypodense lesions.  The
+     right kidney has a lobulated contour with innumerable hyperdense and hypodense
+     lesions.  There is no evidence of hydronephrosis.  There are extensive
+     calcifications of the coronary arteries, aorta, and iliac arteries.
+     
+     There is probable thickening of the transverse colon extending to the splenic
+     flexure and descending colon.  Evaluation of the sigmoid colon is limited due
+     to under filling with possible wall thickening.  There are multiple sigmoid
+     diverticula.  There is marked wall edema of the rectum with marked surrounding
+     inflammatory stranding.  Slight inflammatory stranding is demonstrated
+     surrounding the splenic flexure.  There is no definite thickening of the
+     ascending colon.  No definite pneumatosis is seen.  Loops of small bowel are
+     of normal caliber with no wall thickening.  There are multiple small
+     mesenteric and retroperitoneal lymph nodes that do not meet CT criteria for
+     pathologic enlargement.  There is no intra-abdominal free air.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is air within the bladder,
+     presumably secondary to the Foley catheterization.  Marked rectal wall edema
+     with surrounding inflammatory change is described above.
+     
+     Bone windows reveal degenerative changes.  There is a severe compression
+     fracture of L2 with a moderate anterior wedge deformity of L1.  There are
+     degenerative endplate changes with vacuum disc phenomenon at multiple levels.
+     
+     IMPRESSION:
+     1.  Marked wall edema with surrounding inflammatory change of the rectum with
+                                                                 (Over)
+
+     DATE: [**2911-7-13**] 6:22 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 13653**]
+     Reason: EVAL FOR ABSCESS, COLITIS, PERFORATION, - LLQ AND EPIGASTRIC PAIN 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     wall thickening also demonstrated in the transverse colon, left colon, and
+     possibly sigmoid colon.
+     2.  Small left kidney with bilateral innumerable hyper- and hypodense renal
+     lesions.  The renal ultrasound report of [**2911-7-6**] describes multiple bilateral
+     renal cysts, some of which contain internal echoes.  No other studies are
+     available for comparison.  Further evaluation with a contrast-enhanced CT or
+     an MRI may be considered.
+     3.  Bilateral pleural effusions with associated compressive atelectasis.
+     4.  1.2-cm likely calcified splenic artery aneurysm.
+     5.  Extensive atherosclerotic disease involving the coronary arteries, aorta,
+     and iliac arteries.
+     6.  Severe compression fracture of L2 with a moderate anterior wedge
+     compression fracture of L1, age indeterminate.
+     
+     
+
+",,
+13186,9908,,,2911-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-14**] 3:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13654**]
+     Reason: pneumonia                                                   
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           86 year old woman with C. diff fever, hypotension                          
+                   
+     REASON FOR THIS EXAMINATION:
+      pneumonia                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  Fever and hypotension, evaluate for pneumonia.
+     
+     FINDINGS: AP single view has been obtained with patient in semi-upright
+     position and is analyzed in direct comparison with a similar preceding study
+     of [**2911-7-12**].  No significant interval change can be identified.  The
+     accessible mid and apical lung fields do not show new infiltrates and the
+     pulmonary vasculature does not show any congestive pattern.  As before, the
+     bases are somewhat obscured related to high positioned diaphragms and blunting
+     of the lateral pleural sinuses indicating bilateral pleural effusions of
+     moderate degree.  Comparison suggests that the right-sided pleural effusion
+     has increased slightly but this may also be related to slight changes in
+     position.  No new parenchymal infiltrates can be seen.  As before, advanced
+     degenerative changes exist in the left shoulder joint.
+     
+     IMPRESSION: Bilateral pleural effusions but no evidence of new parenchymal
+     infiltrates or advanced pulmonary congestion.  PICC line unchanged.
+                                                                           
+
+",,
+13186,9908,,,2911-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-14**] 3:30 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13655**]
+     Reason: r/o tocix megacolon                                         
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        87 year old woman with C. diff colitis, increased abdominal tenderness        
+       
+     REASON FOR THIS EXAMINATION:
+      r/o tocix megacolon                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with C diff colitis and increased abdominal
+     tenderness.
+     
+     SUPINE ABDOMEN:  There is a normal bowel gas pattern without evidence of
+     obstruction.  Retained barium is identified within the colon.  There is no
+     evidence of colonic dilatation.  There is some separation of small bowel loops
+     in the right lower quadrant which could represent thickening.  No definite
+     intraperitoneal free air is identified, however, the upper portions of the
+     abdomen are not included on the exam.  Again seen is a collapsed L2 vertebral
+     body as well as degenerative changes of other lumbar vertebral levels, the SI
+     joints, and hip joints.
+     
+     IMPRESSION:  No evidence of bowel obstruction or megacolon.
+                                                                           
+
+",,
+13186,9908,16424,0,2911-07-14 16:47:00 EST,2911-07-14 16:58:00 EST,379,"N",69,"Nursing/Other","MICU EAST NSG ACCEPTANCE NOTE 1300-1900","
+MICU EAST NSG ACCEPTANCE NOTE 1300-1900
+
+
+PLEASE SEE FLOWSHEET FOR FURTHER DETAILS...
+
+87 yo woman who was admitted [**7-5**] to 12R w/hypotention and lethargy now transferred to ICU w/ hypotention and lactate 3.5. Treated w/ IVFs and IVBs prior to transfer and pt arrived normotentensive and has remained so. Pt [**Last Name (un) 4524**] 1 week PTA to EPIC after treatment for UTI. She has h/o parkinson's dementia, UTIs, aspirations (failed S&S study earlier this year). She has a niece in Calfornia who is supposedly on her way here.
+
+A&O x2 on admit. Doesn't know the day. Also with periods of somnulence and restlessness and pulled O2 and monitoring leads off.
+
+Lung sds clear and diminished in bases. Maintaining gd O2sats on 2L N/C. but sats difficult to obtain at times and pt often pulling probe off. RR regular and pt does not appear to be in any acute distress.
+
+Afebrile. BC x1 sent. S.L. PICC in R brachial. [**Last Name (un) **] stim test pnd.  
+
+Full code. Awaiting arrival of niece who is ? HCP.
+
+
+",,
+13186,9908,16424,,2911-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-15**] 12:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13656**]
+     Reason: assess NG placement                                         
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            86 year old woman with C. diff fever, hypotension, s/p NG placement       
+                                       
+     REASON FOR THIS EXAMINATION:
+      assess NG placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Fever, hypertension, status post nasogastric tube
+     placement.
+     
+     CHEST:
+     
+     The tip of the nasogastric tube lies within the stomach as does the side hole.
+     No other change is otherwise seen since the prior chest x-ray.  Bilateral
+     pleural effusions persist.
+     
+     IMPRESSION:  Nasogastric tube in satisfactory position.
+                                                                           
+
+",,
+13186,9908,16424,0,2911-07-15 03:36:00 EST,2911-07-15 03:59:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+NEURO: Pt is confused, but cooperative, Pt knows who she is and where she is, but not any part of the date, pt moves all extremities slowly, but will slightly assist with turning and repositioning, pt was quite lethargic at begining of my shift, but eventually became more alert by 0200
+
+CV: Pt's vss most of the night, but did require several boluses for low bp &/or low urine output, for a total of 3 L of LR and 250 cc NS, pt responded to each bolus, Pt has right A/C single lumen PICC, with NS @ KVO infusing well without problems, Skin is pale, warm, and initially cool to touch with temp of 94.3 axillary, bair hugger placed on pt and warmed up to 99.5 by 0400, bair hugger now off, Pt in nsr/st without ectopy
+
+RESP: Pt's lung sounds are diminished throughout, Pt on O2 @ 2 L v/NC with sats 96-100%, pt has congested non-productive cough, but pt unable to produce sputum or clear airway even with encouragement
+
+GI: I did not attempt to have pt swallow her pills as she was quite letharigc and I was concerned that she might aspirate, bowel sounds are positive with softly distended abd, pt inc of smear of glelatonus stool with small blood clots x2, not enough for stool specimen at this time and stool is OB + 
+
+GU: Pt's foley draining clear yellow/occasionally amber urine, pt has received several boluses for low urine output and low bp
+
+PLAN:
+-Continue to monitor bp and urine output and treat as needed
+-Continue with antibiotics as ordered
+
+",,
+13186,9908,16424,0,2911-07-15 17:45:00 EST,2911-07-15 18:16:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+resp:  pt is presently on 2-3l nasal prongs with a resp rate of 15-23 and sats of 96-100%.  a couple of episodes of apnea noted that lasted approx 30-35 seconds.  lung sounds are deminished.  pt has a a very weak and unproductive cough, although sounds congested---sats have been 99%.  lactate level at 5a was 2.3 and at approx 12:30p lactate was 1.5.  unable to obtain any oral secretions.
+
+cardiac:  bp 92-130/41-53  with a pulse of 80-91 sr/st, no ectopy noted.  given 3gms of mag.  pt also had an cardiac echo done.  iv of d5w infusing at 100 x 1 liter. extremities are very edematous, warm to touch. 
+
+id:  contact precautions.  temps of 97.4po (98.4 ax), 97po and 97 po.  pt has had flagyl changed from po to iv.  on vanco, flagyl and cefepime.  id wants to be very aggressive with antibiotics to rid pt of c-diff.  wbc was 10.6.
+
+gi:  abdomin soft, with + bowel sounds.  unable to give pt po meds this morning so an ng tube was placed and checked with an xray.  ph was 4 and contents, which were only 5cc, was ob neg.  nutritional consult asked for, but at present keeping pt npo due to c-diff.  pt has passed loose golden colored stool, slightly blood tinged, ob +.  
+
+gu:  foley in place.  renal ultrasound done and no hydronephrosis noted.  bun 25 and creat .9.  urine output is approx 30cc/hr.  
+
+ms:  pt very lethargic today.  slept intermittently throughout the day.  no interacting with nurse today.  moans with painful stimuli---especially when ng tube placed.  
+
+heme:  would like to keep hct greater then 28.  hct was 29.4.       
+",,
+13186,9908,16424,,2911-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-16**] 2:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13657**]
+     Reason: Please verify OGT placement                                 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             86 year old woman with C. diff fever, hypotension, s/p OGT placement     
+                                          
+     REASON FOR THIS EXAMINATION:
+      Please verify OGT placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assessment of OG tube placement.
+     
+     Portable AP view of the chest compared to [**7-15**].
+     
+     The newly taken film is underpenetrated.  The course of NG tube cannot be
+     assessed further than hilum of the lungs.  These suggest a new radiograph to
+     assess the place of OG tube.  Otherwise, mediastinal and hilar contours are
+     normal.  There is stable small bilateral effusion and basilar atelectasis.
+     
+     IMPRESSION:  OG tube cannot be assessed due to underpenetration and we need
+     another study to assess OG tube course.  Otherwise, stable bilateral small
+     pleural effusion and basilar atelectasis.
+                                                                           
+
+",,
+13186,9908,16424,,2911-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-16**] 4:51 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13658**]
+     Reason: Please verify OGT placement                                 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              86 year old woman with C. diff fever, hypotension, s/p OGT placement. 
+      Cannot verify placement on previous film                                        
+        
+     REASON FOR THIS EXAMINATION:
+      Please verify OGT placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old woman with C. diff, fever, and hypotension, status
+     post OG tube placement.  Evaluate position.
+     
+     COMPARISON:  Study from the same day, [**2911-7-16**], approximately three hours
+     prior.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is an OG tube seen extendingbeyond the GE
+     junction, with the tip extending beyond the inferior margin of the image.
+     There has been interval improvement in aeration of the right lung,
+     There are bilateral pleural effusions, with tracking of fluif into the major
+     fissure on the right. There is probable associated left lower lobe atelectasis
+     as well. No pneumothorax is seen.  The soft tissue and osseous structures are
+     stable.
+     
+     IMPRESSION:
+     1.  The OG tube extends beyond the GE junction, though the tip extending
+     beyond the inferior margin of the image, is not visualized.
+     2.  Interval improvement in aeration of the right lower lobe. Stable bilateral
+     pleural effusions.
+
+",,
+13186,9908,16424,,2911-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-16**] 4:51 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 158**] # [**Clip Number (Radiology) 13658**]
+     Reason: Please verify OGT placement                                 
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              86 year old woman with C. diff fever, hypotension, s/p OGT placement. 
+      Cannot verify placement on previous film                                        
+        
+     REASON FOR THIS EXAMINATION:
+      Please verify OGT placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old woman with C. diff, fever, and hypotension, status
+     post OG tube placement.  Evaluate position.
+     
+     COMPARISON:  Study from the same day, [**2911-7-16**], approximately three hours
+     prior.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is an OG tube seen extendingbeyond the GE
+     junction, with the tip extending beyond the inferior margin of the image.
+     There has been interval improvement in aeration of the right lung,
+     There are bilateral pleural effusions, with tracking of fluif into the major
+     fissure on the right. There is probable associated left lower lobe atelectasis
+     as well. No pneumothorax is seen.  The soft tissue and osseous structures are
+     stable.
+     
+     IMPRESSION:
+     1.  The OG tube extends beyond the GE junction, though the tip extending
+     beyond the inferior margin of the image, is not visualized.
+     2.  Interval improvement in aeration of the right lower lobe. Stable bilateral
+     pleural effusions.
+
+",,
+13186,9908,16424,0,2911-07-16 02:29:00 EST,2911-07-16 02:46:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+NEURO: Pt lethargic, but arousable and confused to date when awake, Pt does know she in [**Hospital1 10**], Pt moves all etxremities and will attempt to assist with turning 
+
+CV: Pt's vss, afebrile, pt has right A/C single lumen PICC with D5 1/2 NS @ 100 CC/HOUR, pt received 250 cc LR bolus for low urine output, skin is pale, warm, and dry, PP + & =, with +3 - +4 generalized edema, Pt in NSR with rare PAC's, Pt denies pain at this time
+
+RESP: Pt's lung sounds are diminished throughout, Pt on O2 @ 2 L v/NC, with sats 95-99%, pt has congested non-productive cough, but is not able to expectorate sputum even with encouragement
+
+GI: Pt npo with NGT, placement confirmed via air bolus, pt's bowel sounds are positive with soft abd, Pt inc of small amounts golden mucousy stool with occasional small blood clots
+
+GU: Pt's foley draining yellow urine with sediment in boarderline amounts, pt received 250 cc LR bolus for low output and responded well
+",,
+13186,9908,16424,0,2911-07-16 18:10:00 EST,2911-07-16 18:28:00 EST,228,"N",69,"Nursing/Other","PMICU NURSING PROGRESS NOTE","
+PMICU NURSING PROGRESS NOTE
+CARDIAC:  BP 114-142/46-91 WITH A PULSE OF 80-103 SR/ST, PACS NOTED---AND NO FLUID BOLUSES NECESSARY.  K+ WAS 4.7. ATTEMPTING TO KEEP MAP>60. 
+
+RESP:  ON 2L NASAL PRONGS WITH A RESP RATE OF 16-24 AND O2 SATS OF 94-98%.  LUNG SOUNDS ARE DEMINISHED.  PT'S COUGH APPEARS TO BE SLIGHTLY STRONGER TODAY AND PT IS ABLE TO COUGH UP PHLEGM TO THE BACK OF HER THROAT AND THEN OBTAINED WITH A YANKUAR SX CATHETHER. ?? WHETHER PT HAS THRUSH..  ANOTHER ONE EPISODE OF APNEA TODAY LASTING APPROX 35SECS.
+
+ID:  CONTACT PRECAUTIONS.  TEMPS OF 96 AND 97.2 PO.  PLACED ON CEFTRIAXONE, BUT THE FLAGYL AND CEFEPIME WERE DC'D.  
+
+GI:  ABDOMIN SOFT, + BOWEL SOUNDS.  PLACED ANOTHER FEEDING TUBE---UNABLE TO PASS AN NG TUBE, SO AN OG TUBE WAS PLACED AND VERIFIED BY CXR (THE SECOND CXR, UNABLE TO READ THE FIRST).  PT'S 8A MEDS WERE GIVEN AT 6P DUE TO THE FACT THAT THERE WAS NO WAY OF GIVING THEM TO PT UNTIL FEEDING TUBE.  PASSED A SM AMT OF GOLDEN STOOL, BUT ALSO PASSING BLOOD.  TEAM NOTIFIED OF THE BLEEDING, HCT 30.5 and plts 189---BUT INTERN UNABLE TO FIND WHETHER THE BLDG IS VAGINALLY OR RECTALLY.  THERE AREN'T ANY SKIN TEARS NOTED.  
+
+GU:  FOLEY IN PLACE, URINE OUTPUT IS APPROX 30-40CC/HR.  URINE IS CLOUDY YELLOW WITH SEDIMENT.
+
+MS:  WAXES AND WANES--MAY ANSWER SIMPLE QUESTIONS ASKED OF HER.  PT WILL MOAN. PHYSICAL THERAPY GOT PT UP IN THE CHAIR TODAY, WHERE SHE SAT FOR 2 HRS AND TOLERATED THIS WELL.  
+
+ACCESS:  SINGLE LUMEN PICC IN RIGHT ANTECUBITAL.
+",,
+13186,9908,16424,0,2911-07-16 18:29:00 EST,2911-07-16 18:31:00 EST,228,"N",69,"Nursing/Other","ADDENDUM TO ABOVE NOTE","
+ADDENDUM TO ABOVE NOTE
+SOCAIL WORKER FROM THE MICU CALLED EPOCH ABOUT PT'S CALL OUT FROM THE UNIT.  THEY WILL BE BY IN THE NEXT DAY OR SO TO RE-EVALUATE AND GET UPDATED INFO ON PT.  NOT FELT THAT THERE WILL BE ANY PROBLEM WITH GETTING PT A BED.
+",,
+13186,9908,16424,0,2911-07-16 20:49:00 EST,2911-07-16 21:02:00 EST,8191,"N",69,"Nursing/Other",,"
+
+NURSING NOTE:1900-2300
+
+PLEASE SEE FLOW SHEET FOR SHIFT SPECIFICS.
+
+CARDIAC: PT. WITH EPISODE OF HYPOTENSION. BP 73/36, HR STABLE IN THE 80'S, NO ECTOPY NOTED. TX WITH 500CC FLUID BOLUS. PT. RESPONDED WELL. BP CURRENTLY 112/61. IV FLUID D51/2NS @ 100CC/HR. PT. +2 EDEMA BILAT. EXTREMETIES. AFEBRILE
+
+RESP: 2L NC O2 SAT 99%, LUNGS DIMINISHED BILAT. PT. WITH COPIOUS ORAL SECRETIONS. FREQUENT SUCTIONING REQUIRED. PT. WITH PRODUCTIVE COUGH. 
+
+GU: FOLEY DRAINING CLOUDY YELLOW URINE. ADEQUATE U/O.
+
+GI: NO STOOLS. PT. + FOR CDIFF. TF STARTED AT 1930 @10CC/HR TO INCREASE Q 6HRS. TO A GOAL OF 55CC/HR. OGT PLACEMENT VERIFIED. 
+
+NEURO: PT. A/OX2, NOT VERY VERBAL. PT. GROANING AND MOANING FOR MOST OF SHIFT. DOES FOLLOW VERBAL COMMANDS. PT. WITH SOFT WRIST RESTRAINTS. ROM AND CSM ASSESSED.  
+
+PLAN: PT. C/O WAITING FOR BED TO OPEN UP.  WILL CONT. TO MANAGE HYPOTENSION AS NEEDED.  PT. SCEENED BY SNIF TODAY AND WILL RETURN ON DC FROM HOSPITAL.
+",,
+13186,9908,16424,0,2911-07-16 21:47:00 EST,2911-07-16 21:50:00 EST,8191,"N",69,"Nursing/Other",,"
+
+ADDENDUM:
+
+PT. HAD LARGE BLOODY LIQUID STOOL. SKIN INTACT NO BREAKDOWN NOTED AT THIS TIME. 
+",,
+13186,9908,16424,,2911-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-17**] 11:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13659**]
+     Reason: r/o aspiration, increased infiltrates, consolidations, effus
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               86 year old woman with C. diff fever, hypotension, s/p OGT placement 
+      now c hypotension.
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration, increased infiltrates, consolidations, effusions                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAM:  Question interval changes.
+     
+     Patient with Clostridium difficile, hypotensive.
+     
+     Comparison is made with prior study performed the day before.
+     
+     FINDINGS:  NG tube with tip in the stomach.  The tip of the right PICC line
+     cannot be traced after the right brachiocephalic vein.  Stable moderate
+     bilateral pleural effusions.  Unchanged left lower lobe atelectasis.  There is
+     no pneumothorax.  New small pockets of air are seen in the right lateral lower
+     lung field of unknown significance and localization.  Unchanged
+     cardiomediastinal contour within normal limits.  There are no new infiltrates
+     or consolidations.
+
+",,
+13186,9908,16424,0,2911-07-17 02:02:00 EST,2911-07-17 02:14:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 11p-7a (see also carevue flownotes for objective data)
+
+dx: sepsis
+
+87 yo w/ multiple medical problems, partkinsons, htn, denetia, uti's,
+admitted [**7-6**] for fever, elevated wbc, diarrhea; 
+transferred to [**Wardname **]4 ICU for hypotension/sepsis
+
+pt remains confused; w/out meaningful communication this shift; moaning when awake; sfot restraints in use for pt safety to prevent pt from pulling out lines/tubes (as already has done);
+
+hrt rate 90's-100's, NSR w/ frequent PAC's--checked pt's chart for hx of similar/same, did find previous EKG w/ same;
+sbp 140's-150's this night;
+
+O2 sat adequate in mid-hi 90's on 4 l nc O2; difficult to auscultate lungs d/t pt moaning w/a;
+
+feeding tube checked and confirmed for placement via auscultation, already checked earlier in the evening for placement via p-cxr;
+tube feed resid checked, no resid, therefore increased to 20 cc/hr;
+no stool this shift;
+
+did clean pt for spot of red draining, some mucous, below peri-area--appears to be from vagina (vs rectum);
+
+IVF's initially at 100 cc/hr, dc'd--changed to KVO of 10 cc/hr;
+
+urine output adequate via patent foley--pt did receive IVF bolus last eve (see note above);
+
+PLAN:
+1) hygiene cares
+2) check a.m. labs
+3) nutrition via tube feed
+4) follow vs/exam
+5) tube feeding as ordered
+6) may need to re-start pt's rtn anti-hypertensive meds
+7) pt is call out to floor--waiting for available bed
+8) pt also being evaluated for SNIF
+",,
+13186,9908,16424,0,2911-07-17 04:39:00 EST,2911-07-17 04:42:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 11p-7a 05:40 addendum:
+
+re cardiac rhythm:
+pt w/ increased PAC's noted this shift; at approx 04:00, rhythm appeared irregular, EKG obtained, given to MD's, showed pt likely to be in a-fib; MD's stated pt not good candidate for anti-coagulation, and will defer any changes in treatment to a.m. rounds.
+b/p stable, pt w/out change in physical assessment at this time.
+",,
+13186,9908,16424,0,2911-07-17 09:57:00 EST,2911-07-17 10:04:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S DIFFICULT TO ASSESS D/T MOANING THIS AM. NOW CLEAR AND DIM. IN BASES. SATS 98-100%. POOR GAG.
+GI: TF'INGS-TOL WELL. NO RESIDUALS. PT. IS HAVING DIFFICULTY HANDLING HER ORAL SECRETIONS. SUCTIONED. SHE DOES SWALLOW AT TIMES. 
+CV: BP IN 90-100'S THIS AM, AND THEN SUDDENLY DROPPED TO 68S. GIVEN 1L NS BOLUS WITH SLOW RISE INTO 90'S. PRESENTLY RECEIVING 500CC LR>. PT. IN NSR WITH FREQ. PAC'S. 
+RENAL: U/O'S. LOW. CREAT 0.9.
+ID: PT. RECULTURED. SLIGHTLY HYPOTHERMIC-96.9PO. LACTATE 1.75. ? VAGINAL DISCHARGE-MUCOUS WITH SOME BLOOD (SMALL) THIS AM. ABD SOFT. PT. IS C-DIFF POSITIVE. CONT. ON PO AND IV VANCO. REMAINS SEPTIC.
+ENDOC: K+ 3.7 AND REPLETED WITH 40MEQ THIS AM. 
+NEURO: MOANING THIS MORNING. UNABLE TO RELATE THE PROBLEM. PRESENTLY SOMEWHAT SOMNOLENT. OPENS EYES.
+PLAN: CONT. BOLUS, BUT IF UNABLE TO INCREASE BP MAY NEED TO USE PRESSORS. 
+C/O CANCELLED.  
+
+
+",,
+13186,9908,16424,0,2911-07-17 16:56:00 EST,2911-07-17 17:09:00 EST,117,"N",69,"Nursing/Other","NPN 11AM-7PM:","
+NPN 11AM-7PM:
+Neuro: Remains minimally interractive, moaning at times but denies pain. Infrequently speaks but is difficult to understand. Moans with any activity. C/O being hungry.
+
+CV: BP improved after the 1500cc's IVF this AM. HR remians sinus with frequent APC's almost looks like a-fib at times. Two EKG's done this AM. K+ repleted.  HR 80's-120's. BP 100-130's.
+
+Resp: Remains on 3L N/C with RR 26-30. Lungs difficlut to auscultate due to moaning. Pt with frequent productive cough but does not swallow and is at severe risk of aspiration due to oral OGT in place. Frequent oral suctioning with yankuer required. Sats are difficult to check due to poor perfusion in fingers and the only place we can get sat is on her forhead and this only works infrequently.
+
+GI: Was getting tube feeds via OGT until she started passing gelatenous bloody stools. Hct checked and was stable at 31.1. GI service saw pt and she may be prepped for colonoscopy tomorrow. I will insert mushroom catheter if she is to get go-lytely prep. Pt was made NPO after NGT lavage was done. IVF NS at 80cc/hr started.
+
+GU: UO is good via foley. Urine in cloudy light yellow.
+
+ID: Afebrile on vanco IV and PO as well as ceftaz. IV vanco needs to be held tomorrow until level comes back. Level is to be checked with AM labs. This AM her level was 22.9 and dose was given before level had come back.
+
+Social: Pt's neice is spokesperson and spoke to team and wants to continue with aggressive care. Would like team to consider PEG as she feels this would help prevent episodes of dehydration her aunt has been dealing with in the past few months.
+
+
+",,
+13186,9908,16424,0,2911-07-17 20:08:00 EST,2911-07-17 20:11:00 EST,117,"N",69,"Nursing/Other","MICU NPN 7PM-11PM:","
+MICU NPN 7PM-11PM:
+Pt hct stable at 6PM, will hold off on prep for colonoscopy for now per GI request. If pt opens up her bleeding tonight plan will be for bleeding scan to be done. Hopefully pt will be stable and the plan will be to prep pt overnight Sunday and do scope Monday AM. Pt ordered for frequent hct checks overnight. Next hct due at 11PM. BP stable pt getting IVF ns at 80cc/hr. Pt to be NPO, Protonix IV BID ordered and PO ASA stopped.
+",,
+13186,9908,16424,,2911-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 13660**]
+     Reason: P/W FEVERS, LEUKOCYTOSIS IN SETTING OF C. DIFF+ AND UTI. NOW C GI BLEED, EVAL BY GI CONSULT FEELS GIVEN AMOUNT OF BLO
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        15.8 mCi Tc-99m RBC;
+     HISTORY: 87 year old female with GI bleed in setting of fevers and stool 
+     positive for C. Diff.  
+       
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells
+     labeled with Tc-99m, blood flow and dynamic images of the abdomen for 90 minutes
+     were obtained. 
+      
+     Blood flow images show no abnormal tracer activity. 
+      
+     Dynamic blood pool images show no suspicious areas of abnormal tracer activity. 
+      
+     IMPRESSION:  No evidence of active bleeding during the time of study.  
+                                                                           
+
+             [**First Name8 (NamePattern2) 4061**] [**Last Name (NamePattern1) 6679**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 146**] [**Last Name (NamePattern1) 147**], M.D.     Approved: MON [**2911-7-20**] 3:46 PM
+
+
+             Date Mailed: [**2911-7-21**]                     West [**Medical Record Number 13661**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 149**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 150**].
+
+",,
+13186,9908,16424,0,2911-07-18 01:22:00 EST,2911-07-18 01:29:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment NOte 2300-0700","
+Nursing Assessment NOte 2300-0700
+NEURO: Pt alert but confused, pt moans and yells out occasionally with care or repositioning, Pt has bilat wrist restraints to prevent her pulling lines out
+
+CV:  Pt's vss, afebrile, pt denies pain at this time, Pt has right A/C single lumen PICC, with LR @ 80 cc/hour infusing well without problems, skin is pale, warm, and dry, pp + & =, with +3 generalized edema, Pt's peri-area is slightly red and aloe cream was applied, Pt in NSR with frequent PAC's
+
+RESP: Pt's lung sounds are coarse in upper lobes and diminished in lower lobes, but is difficult to assess due to pt moaning with turning, Pt on O2 @ 2 L v/NC, with sats 94-98%, pt has congested non-productive cough
+
+GI: Pt npo with OGT, placement confirmed via air bolus, Bowel sounds are positive, with soft obese abd, pt has mushroom cath, but is still leaking bloody golden gletonus stool in small amounts
+
+GU: Pt's foley draining clear yellow urine qs
+
+PLAN:
+-Continue to keep npo for scope monday
+-Continue with IV fluids
+-Pt is c/o to floor awaiting bed
+",,
+13186,9908,16424,0,2911-07-18 16:24:00 EST,2911-07-18 16:48:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+gi:  abdomin is soft with + bowel sounds.  pt has been kept npo except for meds given through the og tube.  no residuals obtained from the og tube.  passing small amts of bloody brownish/golden colored stool via the mushroom catheter.  down to red tag study for approx 3 1/2-4hrs today but no active bleeding was noted.  ir in to see pt this morning to consult prior to the red tag study.  awaiting gi to review the results of the red tag study.  
+
+cardiac:  blood pressure prior to the blood and red tag study was88-98/48-55 and post the blood and red tag study bp was 100-138/44-60.  pulse 64-74 sr with pacs noted. within the hour of returning from the red tag study, pt's heart rate dropped to 57-58, but resolved without any intervention. k+ was 3.9.  ca was 6.8 and pt given 2 gms of calcium gluconate.  lactated ringers is infusing at 80cc/hr.  extremities very swollen and cool to touch.
+
+resp:  resp rate of 16-22 with sats of 96-100%.  pt is on 2-3l nasal prongs with deminished lung sounds.  pt interm has a weak cough which enables pt to cough phlegm up to the back of her throat and obtained with a yankaur catheter.
+
+id:  contact precautions.  temps of 96.8po, 2p 96po and 4p 95 po----bair hugger placed on pt at approx 4p.  on vanco (iv and oral liquid) and ceftriaxone.  on [**7-15**] pt's stool was neg for c-diff. wbc was 7.2.
+
+gu:  foley in place.  urine yellow and cloudy---output approx 40-50cc/hr.  
+
+heme:  at 8:40a hct was 26.2 and pt rec'd one uprbcs and post hct was 32.5.  hcts to be drawn q4hrs.   plts 157.
+
+neuro: pt is lethargic and sleeping most of the day but pt will interm awaken and moan, but doesn't initiate any conversation or answer any questions asked of pt.  
+
+access:  single lumen picc
+",,
+13186,9908,16424,0,2911-07-19 01:55:00 EST,2911-07-19 02:11:00 EST,117,"N",69,"Nursing/Other","MICU NPN 7PM-7AM:","
+MICU NPN 7PM-7AM:
+Neuro: Pt sleeping most of the time, much less moaning tonight. Spontanous congested productive sounding weak cough noted. Not swallowing her own secretions and requires yankuer suction to back of throat at times. C/O pain with turning/bath etc. Had considerable c/o pain with foley change.
+
+CV: SBP 100-140's, MAP>60. HR 70's-110 sinus with frequent PAC's which at times looks like a-fib. Hct has been stable times two so far at 32.0 tonight and I will check it again with AM labs. IVF continues LR at 80cc/hr. to run while pt is NPO. Will continue Q4hr hct checks today.
+
+Resp: Pt is on 3L N/C with sat 95%-97% most of the time. Weak congested cough noted. RR 24-30 non-labored. Lungs deminished sounding throughout. Requires oral suctioning with yankuer to maintain adequate airway.
+
+GI: NPO with plan for prep Sunday night and colonoscopy Monday morning. She continues to pass bloody stool in small amts via mushroom catheter. Leakage around mushroom continues.
+
+GU: Urine culture growing yeast. Foley changed tonight. New #16 inserted. Draining adequate amts cloudy yellow urine with sediment.
+
+ID: Temp came up to 97.8 so bear hugger shut off for now. Continues on vanco PO and IV as well as ceftaz.
+
+Social: I talked to her neice on the phone. She decided not to visit because her aunt was so sleepy. Pt remains full code in ICU with plan for colon prep tonight and colonoscopy on Monday.
+",,
+13186,9908,,,2911-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-20**] 2:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13662**]
+     Reason: verify position of OGT                                      
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                86 year old woman with new OGT placement                              
+     REASON FOR THIS EXAMINATION:
+      verify position of OGT                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of gastric tube placement.
+     
+     The distal end of the orogastric tube probably extends below diaphragm but
+     cannot be clearly localized on this film, which is suboptimal due to motion
+     and underpenetration.  There are bilateral pleural effusions with associated
+     atelectases in the lower zones.
+     
+     IMPRESSION:  Distal end of OG tube not clearly localized on film with marked
+     motional blurring and a repeat more penetrated film would be necessary to
+     confirm location of tip of OG tube below the diaphragm.
+
+",,
+13186,9908,,,2911-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-20**] 3:49 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13663**]
+     Reason: repeat film as first one was poor quality==for assessment of
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 86 year old woman with new OGT placement                             
+       
+     REASON FOR THIS EXAMINATION:
+      repeat film as first one was poor quality==for assessment of OGT placement.     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE FILM OF THE ABDOMEN.
+     
+     INDICATION:  86-year-old female with new orogastric tube placement.
+     
+     SUPINE ABDOMEN:  There is a normal gas pattern without evidence of
+     obstruction.  No intraperitoneal free air is identified.  Degeneration of the
+     lumbar spine is noted.  Bilateral effusions are present. OGT is seen within
+     the fundus of the stomach.  Osseous structures demonstrate moderate lumbar
+     degenerative changes unchanged from previous studies.
+     
+     IMPRESSION:  The tip of the orogastric tube is seen within the lumen of the
+     stomach.  Degenerative changes within the lumbar spine are once again noted.
+     No evidence for obstruction.
+
+",,
+13186,9908,,,2911-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-23**] 8:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13664**]
+     Reason: eval for free air in abdomen                                
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                  86 year old woman with ischemic colitis, abd tnderness.             
+                       
+     REASON FOR THIS EXAMINATION:
+      eval for free air in abdomen                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ischemic colitis and abdominal tenderness.  Evaluate for free air
+     in the abdomen.
+     
+     COMPARISON:  [**2911-7-20**].
+     
+     UPRIGHT AP CHEST:  Diagnostic assessment is limited by patient positioning.
+     The patient's NG tube has been removed.  Bilateral pleural effusions and
+     associated atelectasis are not significantly changed from three days ago.  The
+     upper lungs zones are clear.  No free air is visualized on this markedly
+     limited examination.  There are degenerative changes of the left glenohumeral
+     joint.
+     
+     IMPRESSION:  Limited examination as described.  No definite free air.
+
+",,
+13186,9908,,,2911-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-27**] 3:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13665**]
+     Reason: eval for pneumonia                                          
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with aspiration risk, increased rhonchi                       
+     REASON FOR THIS EXAMINATION:
+      eval for pneumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST
+     
+     INDICATION FOR STUDY:  Bilateral pleural effusions.
+     
+     A single AP view of the chest is obtained on [**2911-7-27**] at 16:00 hours and is
+     compared with the prior radiograph of [**2911-7-23**].  Again are seen bilateral large
+     pleural effusions which do not appear to have significantly changed in
+     appearance since the prior radiograph.  The opacification of the lower thorax
+     bilaterally makes it impossible to assess associated atelectasis and/or
+     consolidation.  The upper lung zones appear unchanged.
+     
+     IMPRESSION:
+     
+     Limited evaluation due to large bilateral pleural effusions which do not
+     appear to have significantly changed in size since the prior radiograph.
+                                                                           
+
+",,
+13186,9908,,,2911-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-27**] 3:36 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13666**]
+     Reason: eval for dilated loops or air fluid levels                  
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         87 year old woman with C. diff colitis, increased abdominal tenderness .     
+          
+     REASON FOR THIS EXAMINATION:
+      eval for dilated loops or air fluid levels                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  C. diff colitis with increased abdominal tenderness, evaluate for
+     dilated bowel loops.
+     
+     COMPARISON:  [**2911-7-20**].
+     
+     FINDINGS:  A single supine abdominal portable radiograph of partial abdomen
+     was reviewed.  Study is limited secondary to incomplete coverage of the
+     abdomen as well as body habitus.  There is a paucity of air-filled bowel
+     loops, but no dilated bowel loops are identified.  There is positive air
+     within the colon.  Free intraabdominal air cannot be evaluated.  Marked
+     degenerative change of the hips and lumbar spine is present.
+     
+     IMPRESSION:  Limited evaluation for obstruction given body habitus, limited
+     coverage, and paucity of air-filled bowel loops, but no other definite
+     evidence for obstruction.
+                                                                           
+
+",,
+13186,9908,,,2911-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-28**] 12:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13667**]
+     Reason: eval PICC placement                                         
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with PICC line that appears pulled out several CM.            
+             
+     REASON FOR THIS EXAMINATION:
+      eval PICC placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 11:30 A.M., [**7-28**]
+     
+     HISTORY:  PICC line placement.
+     
+     IMPRESSION:  AP chest compared to [**7-23**] through 21:
+     
+     Large bilateral pleural effusion, probably unchanged since [**7-23**].  Tip of
+     the right PIC catheter can be traced as far as the junction of the right
+     jugular and subclavian veins.  No pneumothorax.  Heart is probably normal size
+     obscured by large effusions.  A small region of right suprahilar consolidation
+     may represent pneumonia.  Dr. [**Last Name (STitle) 355**] was paged to report these findings.
+                                                                           
+
+",,
+13186,9908,,,2911-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-29**] 3:22 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13668**]
+     Reason: Please place PICC at new site and pull current PICC for conc
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+      Contrast: OPTIRAY Amt: 8
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with PICC in right arm with exudate at entry site             
+     REASON FOR THIS EXAMINATION:
+      Please place PICC at new site and pull current PICC for concern of infection 
+      and culture tip
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR EXAM:  An 87-year-old woman with right PICC line infected in
+     the right arm and needs another IV access.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Last Name (STitle) 1230**] and [**Name5 (PTitle) 1243**], the
+     attending radiologist who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Since no suitable veins were visible, ultrasound was
+     used to identify the left basilic vein that was patent and compressible.  The
+     left arm was then prepped and draped in standard sterile fashion.  After 5 mL
+     of 1% lidocaine, the left basilic vein was accessed with a 21-gauge needle
+     under ultrasonographic guidance.  A 0.018 guidewire was then advanced into the
+     proximal SVC under fluoroscopic guidance.  The needle was then exchanged for a
+     micropuncture sheath.  Based on the markers on the guidewire, it was
+     determined that a length of 40 cm would be suitable.  The PICC line was then
+     cut to this length and advanced over the wire into the proximal part of the
+     SVC under fluoroscopic guidance.  The peel-away sheath was then removed and
+     the line was flushed, heplocked, and Statlocked.  A final fluoroscopic image
+     of the thorax demonstrates the tip of the catheter to be located in the
+     proximal part of the SVC.  There were no immediate complications.
+     
+     [**Hospital Unit Name **]: The tip of the catheter was left in the proximal SVC, since no
+     progression of the wire was seen( central obstruction?).
+     
+     IMPRESSION: Successful placement of a 40 cm long single lumen line placed via
+     the left basilic vein with the tip in the proximal SVC. The line is ready for
+     use.
+     
+
+",,
+13186,9908,,,2911-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-29**] 3:22 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13668**]
+     Reason: Please place PICC at new site and pull current PICC for conc
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+      Contrast: OPTIRAY Amt: 8
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with PICC in right arm with exudate at entry site             
+     REASON FOR THIS EXAMINATION:
+      Please place PICC at new site and pull current PICC for concern of infection 
+      and culture tip
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR EXAM:  An 87-year-old woman with right PICC line infected in
+     the right arm and needs another IV access.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Last Name (STitle) 1230**] and [**Name5 (PTitle) 1243**], the
+     attending radiologist who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Since no suitable veins were visible, ultrasound was
+     used to identify the left basilic vein that was patent and compressible.  The
+     left arm was then prepped and draped in standard sterile fashion.  After 5 mL
+     of 1% lidocaine, the left basilic vein was accessed with a 21-gauge needle
+     under ultrasonographic guidance.  A 0.018 guidewire was then advanced into the
+     proximal SVC under fluoroscopic guidance.  The needle was then exchanged for a
+     micropuncture sheath.  Based on the markers on the guidewire, it was
+     determined that a length of 40 cm would be suitable.  The PICC line was then
+     cut to this length and advanced over the wire into the proximal part of the
+     SVC under fluoroscopic guidance.  The peel-away sheath was then removed and
+     the line was flushed, heplocked, and Statlocked.  A final fluoroscopic image
+     of the thorax demonstrates the tip of the catheter to be located in the
+     proximal part of the SVC.  There were no immediate complications.
+     
+     [**Hospital Unit Name **]: The tip of the catheter was left in the proximal SVC, since no
+     progression of the wire was seen( central obstruction?).
+     
+     IMPRESSION: Successful placement of a 40 cm long single lumen line placed via
+     the left basilic vein with the tip in the proximal SVC. The line is ready for
+     use.
+     
+
+",,
+13186,9908,,,2911-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-7-29**] 3:22 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13668**]
+     Reason: Please place PICC at new site and pull current PICC for conc
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+      Contrast: OPTIRAY Amt: 8
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 342**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with PICC in right arm with exudate at entry site             
+     REASON FOR THIS EXAMINATION:
+      Please place PICC at new site and pull current PICC for concern of infection 
+      and culture tip
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR EXAM:  An 87-year-old woman with right PICC line infected in
+     the right arm and needs another IV access.
+     
+     RADIOLOGISTS:  The procedure was performed by Drs. [**Last Name (STitle) 1230**] and [**Name5 (PTitle) 1243**], the
+     attending radiologist who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Since no suitable veins were visible, ultrasound was
+     used to identify the left basilic vein that was patent and compressible.  The
+     left arm was then prepped and draped in standard sterile fashion.  After 5 mL
+     of 1% lidocaine, the left basilic vein was accessed with a 21-gauge needle
+     under ultrasonographic guidance.  A 0.018 guidewire was then advanced into the
+     proximal SVC under fluoroscopic guidance.  The needle was then exchanged for a
+     micropuncture sheath.  Based on the markers on the guidewire, it was
+     determined that a length of 40 cm would be suitable.  The PICC line was then
+     cut to this length and advanced over the wire into the proximal part of the
+     SVC under fluoroscopic guidance.  The peel-away sheath was then removed and
+     the line was flushed, heplocked, and Statlocked.  A final fluoroscopic image
+     of the thorax demonstrates the tip of the catheter to be located in the
+     proximal part of the SVC.  There were no immediate complications.
+     
+     [**Hospital Unit Name **]: The tip of the catheter was left in the proximal SVC, since no
+     progression of the wire was seen( central obstruction?).
+     
+     IMPRESSION: Successful placement of a 40 cm long single lumen line placed via
+     the left basilic vein with the tip in the proximal SVC. The line is ready for
+     use.
+     
+
+",,
+13186,9908,,,2911-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-8-11**] 1:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13669**]
+     Reason: please assessment placement of PICC                         
+     Admitting Diagnosis: FEVER,DIARRHEA,HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old woman with PICC line that appears pulled out.                      
+     REASON FOR THIS EXAMINATION:
+      please assessment placement of PICC                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check PICC line.
+     
+     AP PORTABLE UPRIGHT CHEST:  Compared to [**2911-7-28**].  There is a left-sided PICC
+     line with its tip likely located within the peripheral subclavian vein.  In
+     order to obtain placement in the SVC, it should be advanced at least 12 cm.
+     There is no pneumothorax.  There are large bilateral pleural effusions.  The
+     cardiac silhouette is largely obscured.  Equivocal consolidation in the right
+     upper lobe.
+     
+     IMPRESSION:
+     1) Left PICC tip likely within the left subclavian vein; it should be advanced
+     at least 12 cm if placement in the SVC is desired.  Findings discussed with
+     Dr. [**Last Name (STitle) 355**].
+     2) No significant interval change in large bilateral pleural effusions with
+     CHF/volume overload.  Underlying consolidation not excluded.
+     
+
+",,
+13186,,,,2911-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-20**] 11:04 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 13670**]
+     Reason: ? worsening infiltrate                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      ? worsening infiltrate                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman who is diagnosed with a left lower lobe
+     pneumonia at an outside hospital, and clinically was not improving.
+     
+     COMPARISON:  [**2911-8-11**].
+     
+     SUPINE FRONTAL CHEST:  Patient's position limits evaluation.  The right lung
+     appears clear.  A retrocardiac left lower lobe opacity is seen as well as a
+     small left-sided pleural effusion.  A tortuous thoracic aorta is
+     redemonstrated.  The osseous structures demonstrate diffuse bony
+     demineralization.  Degenerative change of the left shoulder is seen.
+     
+     IMPRESSION:  Retrocardiac left lower lobe opacity likely representing collapse
+     and small left- sided pleural effusion.  A technically better study, ideally
+     PA and lateral, is recommended when the patient is able.
+
+",,
+13186,,,,2911-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-20**] 11:05 PM
+     ELBOW (AP, LAT & OBLIQUE) LEFT                                  Clip # [**Clip Number (Radiology) 13671**]
+     Reason: assess for fracture                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with Parkinsons Disease, here w/ swollen L elbow              
+     REASON FOR THIS EXAMINATION:
+      assess for fracture                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with Parkinson's disease, incidental note of a
+     swollen left elbow.
+     
+     COMPARISON:  None.
+     
+     LEFT ELBOW, THREE VIEWS:  No fracture or dislocation is identified.  A joint
+     effusion is not seen.  No foreign bodies in the soft tissues are identified.
+     
+     IMPRESSION:  No evidence of fracture or dislocation.
+                                                                           
+
+",,
+13186,,,,2911-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-21**] 8:42 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13673**]
+     Reason: Please eval for PNA/effusions                               
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old woman with severe PD, dementia, here for ?PNA                      
+                                          
+     REASON FOR THIS EXAMINATION:
+      Please eval for PNA/effusions                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP AND LATERAL CHEST ON [**11-21**].
+     
+     HISTORY:  Severe dementia.  Question pneumonia.
+     
+     IMPRESSION:  AP and lateral chest compared to [**11-20**]:
+     
+     Left lower lobe atelectasis and moderate left pleural effusion are unchanged
+     since at least [**2911-7-20**].  There is no longer right pleural effusion. 
+     Cardiac silhouette is obscured by adjacent pleural and parenchymal
+     abnormalities.  Upper lungs are clear.  Thoracic aorta is calcified, but the
+     imaged portions are not dilated.  There is no pneumothorax.
+                                                                           
+
+",,
+13186,,,,2911-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-21**] 2:37 AM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 13672**]
+     Reason: dvt                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with LUE swelling                                             
+     REASON FOR THIS EXAMINATION:
+      dvt                                                                             
+     ______________________________________________________________________________
+     WET READ: KLMn SAT [**2911-11-21**] 3:41 AM
+      no dvt.  limited study.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with left upper extremity swelling.
+     
+     EXTREMITY ULTRASOUND:  The exam was quite limited due to patient inability to
+     cooperate.  No intraluminal thrombus was identified.  There was normal flow in
+     the internal jugular, subclavian, axillary, brachial, basilic and cephalic
+     veins.  There was normal augmentation in the axillary and brachial veins.
+     
+     IMPRESSION:  No evidence of left upper extremity deep vein thrombosis on a
+     limited study.
+                                                                           
+
+",,
+13186,,,,2911-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-23**] 1:20 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13674**]
+     Reason: Please place PICC, already eval by IV team                  
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with poor IV access, needs PICC placement for antibiotic and 
+      fluid administration.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC, already eval by IV team                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR EXAM:  This is an 87-year-old woman with poor IV access, needs
+     antibiotic therapy.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr [**Last Name (STitle) 1230**] and [**Doctor Last Name 1243**], the
+     attending radiologist who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Since no superficial veins were visible, ultrasound
+     was used to identify the right basilic vein which was patent and compressible.
+     The right arm of the patient was then prepped and draped in a standard sterile
+     fashion.  After injection of 5 cc of 1% lidocaine, a 21-gauge needle was
+     advanced into the right basilic vein under ultrasonographic guidance and hard
+     copies of the images were obtained before and after the venipuncture.  A 0.018
+     guidewire was then advanced through the needle into the distal part of the SVC
+     under fluoroscopic guidance.  The needle was then exchanged for a 4.5 French
+     micropuncture sheath.  Based on the marker in the guidewire, it was determined
+     that a length of 32 cm would be suitable.  The line was then trimmed to this
+     length and advanced over the wire into the distal part of the SVC under
+     fluoroscopic guidance.  The wire and peel-away sheath were then removed and
+     the line was flushed, heplocked and statlocked.  A final fluoroscopic image of
+     the chest demonstrates the tip of the catheter to be located in the mid part
+     of the SVC.
+     
+     IMPRESSION:  Successful placement of a PICC line placed via the right basilic
+     vein.  Tip in the mid part of the SVC, and the line is ready for use.
+                                                                           
+
+",,
+13186,,,,2911-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-23**] 1:20 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13674**]
+     Reason: Please place PICC, already eval by IV team                  
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with poor IV access, needs PICC placement for antibiotic and 
+      fluid administration.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC, already eval by IV team                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR EXAM:  This is an 87-year-old woman with poor IV access, needs
+     antibiotic therapy.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr [**Last Name (STitle) 1230**] and [**Doctor Last Name 1243**], the
+     attending radiologist who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Since no superficial veins were visible, ultrasound
+     was used to identify the right basilic vein which was patent and compressible.
+     The right arm of the patient was then prepped and draped in a standard sterile
+     fashion.  After injection of 5 cc of 1% lidocaine, a 21-gauge needle was
+     advanced into the right basilic vein under ultrasonographic guidance and hard
+     copies of the images were obtained before and after the venipuncture.  A 0.018
+     guidewire was then advanced through the needle into the distal part of the SVC
+     under fluoroscopic guidance.  The needle was then exchanged for a 4.5 French
+     micropuncture sheath.  Based on the marker in the guidewire, it was determined
+     that a length of 32 cm would be suitable.  The line was then trimmed to this
+     length and advanced over the wire into the distal part of the SVC under
+     fluoroscopic guidance.  The wire and peel-away sheath were then removed and
+     the line was flushed, heplocked and statlocked.  A final fluoroscopic image of
+     the chest demonstrates the tip of the catheter to be located in the mid part
+     of the SVC.
+     
+     IMPRESSION:  Successful placement of a PICC line placed via the right basilic
+     vein.  Tip in the mid part of the SVC, and the line is ready for use.
+                                                                           
+
+",,
+13186,,,,2911-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2911-11-23**] 1:20 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13674**]
+     Reason: Please place PICC, already eval by IV team                  
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 341**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with poor IV access, needs PICC placement for antibiotic and 
+      fluid administration.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC, already eval by IV team                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR EXAM:  This is an 87-year-old woman with poor IV access, needs
+     antibiotic therapy.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr [**Last Name (STitle) 1230**] and [**Doctor Last Name 1243**], the
+     attending radiologist who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Since no superficial veins were visible, ultrasound
+     was used to identify the right basilic vein which was patent and compressible.
+     The right arm of the patient was then prepped and draped in a standard sterile
+     fashion.  After injection of 5 cc of 1% lidocaine, a 21-gauge needle was
+     advanced into the right basilic vein under ultrasonographic guidance and hard
+     copies of the images were obtained before and after the venipuncture.  A 0.018
+     guidewire was then advanced through the needle into the distal part of the SVC
+     under fluoroscopic guidance.  The needle was then exchanged for a 4.5 French
+     micropuncture sheath.  Based on the marker in the guidewire, it was determined
+     that a length of 32 cm would be suitable.  The line was then trimmed to this
+     length and advanced over the wire into the distal part of the SVC under
+     fluoroscopic guidance.  The wire and peel-away sheath were then removed and
+     the line was flushed, heplocked and statlocked.  A final fluoroscopic image of
+     the chest demonstrates the tip of the catheter to be located in the mid part
+     of the SVC.
+     
+     IMPRESSION:  Successful placement of a PICC line placed via the right basilic
+     vein.  Tip in the mid part of the SVC, and the line is ready for use.
+                                                                           
+
+",,

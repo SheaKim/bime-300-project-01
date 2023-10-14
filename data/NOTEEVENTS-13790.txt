@@ -1,0 +1,293 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13790,24122,,,2696-06-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2696-6-7**]              Discharge Date:   [**2696-6-15**]
+ 
+Date of Birth:  [**2605-1-1**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amiodarone
+ 
+Attending:[**First Name3 (LF) 1362**] 
+Chief Complaint:
+MS Change
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+[**Age over 90 **] year old male with chief complaint of altered mental status, 
+delerium, CRF on HD. He has been disoriented since Friday. He 
+has 24 hour home health care and concierge physician. [**Name10 (NameIs) 9658**] 
+fever today to 100.6 and wife brought him in to the ED where he 
+was noted to have multilobar pneumonia. In the ED he was satting 
+92-94% on NC. He recieved levofloxacin for pneumonia, zyprexa 
+and haldol for agitation. 
+ 
+Past Medical History:
+1)CORONARY ARTERY DISEASE- P MIBI on [**2693-8-16**] showed a mild
+reversible defect in the inferior wall
+2)CHF [**2-19**] Diastolic dysfunction
+3)ATRIAL FIBRILLATION: seen by EP at [**Hospital1 19**]
+4)DIABETES W/RENAL MANIFESTATIONS, TYPE II 
+5)ISCHEMIC OPTIC NEUROPATHY 
+6)HYPERTENSION 
+7)HYPERCHOLESTEROLEMIA 
+8)RENAL FAILURE, CHRONIC : on HD since [**12-20**]. Mon/thurs.
+9)ANEMIA 
+10)Hx of GASTRITIS W/O HEMORRHAGE 
+11)SPINAL STENOSIS, LUMBAR 
+12)MONOCLONAL GAMMOPATHY UNCERTAIN SIGNIFICANCE 
+13)PROSTATIC HYPERTROPHY S/P REMOVAL OF PROSTATE (TURP) 
+14)Hx of COLONIC POLYPS
+15)Hereditary sensory motor neuropathy with ataxia.
+16)KIDNEY STONE 
+17)BASAL CELL CANCER, FACE (L PREAURICULAR) 
+18)PAPILLARY TRANSITIONAL CELL BLADDER CANCER (LOW-GRADE) 
+19)MODERATE MITRAL REGURGITATION
+20)History of temporal artery biopsy which was negative for GCA
+21)Question of pulmonary fibrosis secondary to Amiodarone.
+22)GERD
+23)S/p CCY
+24)History of Meniere's disease.
+
+ 
+Social History:
+Patient lives at home with his wife. He has been bed bound for 
+some time. He has a 24 caretaker at home as well as a homemaker. 
+He has been going to [**Hospital1 19**] for >40 years and has been a donor 
+for much of that time.
+
+ 
+Family History:
+Coronary artery disease in multiple first-degree relatives
+ 
+Physical Exam:
+on admission:
+GEN: deeply somnolent, agitated with sternal rub, does not 
+answer questions or open eyes 
+HEENT: sclerae anicteric. 
+COR: irreg irreg, nl s1s2, no murmur heard
+LUNGS: upper fields with few crackles and rhonchi, no wheezes, 
+bronchial sounds on R laterally.
+ABD: thin, soft, nondistended. active bowel sounds
+EXT: thin, no edema, feet cool, 1+ dp pulses bilat. 
+NEURO: not arousable except to sternal rub, but agitated, 
+pulling at lines. received 2.5 mg sublingual zyprexa and 1 mg 
+haldol in EW. significant muscle twitching LUE and LLE. moves 
+all extrem but twitching on L side >>> R. 
+SKIN: warm/dry
+ 
+Pertinent Results:
+[**2696-6-7**] 11:32AM   LACTATE-3.1*
+[**2696-6-7**] 10:53AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 302**]-1.013
+[**2696-6-7**] 10:53AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-100 
+GLUCOSE-100 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+[**2696-6-7**] 10:53AM URINE  RBC-[**6-26**]* WBC-0-2 BACTERIA-NONE 
+YEAST-NONE EPI-0
+[**2696-6-7**] 09:10AM   K+-5.0
+[**2696-6-7**] 08:35AM   LACTATE-4.5* K+-6.2*
+[**2696-6-7**] 08:20AM   GLUCOSE-211* UREA N-55* CREAT-3.8* SODIUM-137 
+POTASSIUM-5.7* CHLORIDE-97 TOTAL CO2-22 ANION GAP-24*
+[**2696-6-7**] 08:20AM   AMYLASE-43
+[**2696-6-7**] 08:20AM   CALCIUM-9.2 PHOSPHATE-4.8* MAGNESIUM-1.7
+[**2696-6-7**] 08:20AM   WBC-9.9 RBC-3.61* HGB-11.5* HCT-35.6* MCV-99* 
+MCH-31.9 MCHC-32.4 RDW-17.9*
+[**2696-6-7**] 08:20AM   NEUTS-84.5* LYMPHS-10.2* MONOS-5.1 EOS-0.1 
+BASOS-0.1
+[**2696-6-7**] 08:20AM   HYPOCHROM-1+ ANISOCYT-1+ MACROCYT-2+
+[**2696-6-7**] 08:20AM   PLT COUNT-352
+[**2696-6-7**] 08:20AM   PT-15.4* PTT-25.7 INR(PT)-1.6
+ 
+Brief Hospital Course:
+[**Age over 90 **] yo M h/o ?CAD, diastolic CHF, chronic A.F., ESRD on HD who 
+developed mental status changes after dialysis on Friday and was 
+admitted with a multilobar, possibly bilateral pneumonia. 
+
+1. Pneumonia - Originally diagnosed based on fever, elevated 
+wbc, and chest x ray findings. Although final read of the cxr 
+was more consistent with chf, the pulmonologists felt it was 
+more consistent with PNA. He recieved 500mg IV levaquin in the 
+ED, and then had vancomycin added to broaden his covereage. He 
+was admitted to the MICU, but did not require intubation or 
+BiPap. He did well and was called out in less than 48 hours. No 
+sputum or blood cultures returned positive. The patient 
+continued to have some respiratory difficulties on the floor and 
+had vancomycin restarted. He was dialyzed for volume overload. 
+He continued to have an oxygen requirement and worsening 
+delirium. Given his overall worsening status, his multiple 
+cormorbidities, and his poor quality of life at home, the 
+decision was made to make the patient comfort measures. This 
+decision was reached by Dr. [**Last Name (STitle) 3135**], Dr. [**Last Name (STitle) **], the 
+patient's wife and family. Mr. [**Known patient lastname 7370**] passed away on [**2696-6-15**] 
+at 6:15 am.
+
+2. Delirium- patient was agitated in the setting of hypoxia and 
+illness. He initially required sedation with haldol until his 
+clinical condition improved. These medications were tapered off, 
+but he became increasing more agitated and restless. They were 
+reinstituted. A source of delirium was done with UA, cxr, 
+telemetry, cardiac enzymes, electrolytes, Head CT. These were 
+all remarkable. No source was clearly found and it was thought 
+to be multifactorial.
+
+3. ESRD - Patient was seen by renal. He underwent hemodialysis. 
+Following the patient's worsening clinical and mental status, 
+the decision was made to stop dialysis and make the patient 
+comfort care.
+
+4. Vision problems: patient had long history of difficulty with 
+his vision. He had known cataracts and ischemic optic 
+neuropathy. During his hospitalization, he noted lack of vision 
+in his right eye. This occurrred in the setting of delirium. The 
+true nature of his symptoms could not be determined. 
+Opthalmology was consulted and did not find any new lesions or 
+ischemic changes in the eye.
+ 
+Medications on Admission:
+1) Metoprolol Succinate 50 mg PO DAILY     
+2) Lisinopril 10 mg PO DAILY
+3) Furosemide 40 mg PO DAILY 
+4) Atorvastatin Calcium 10 mg PO DAILY 
+5) Glimepiride 2 mg PO bid     
+6) Prilosec 20 mg PO once a day.     
+7) Cyanocobalamin  1000 mcg PO DAILY 
+8) Folic Acid 1 mg PO DAILY 
+9) Warfarin Sodium 2 mg PO HS 
+10) Pioglitazone HCl 45 mg PO DAILY 
+11) B Complex-Vitamin C-Folic Acid 1 mg PO DAILY 
+12) Quinine Sulfate 260 mg PO HS 
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Pneumonia
+Congestive Heart Failure
+End stage renal disease
+delirium
+
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+-
+ 
+Followup Instructions:
+-
+ 
+                             [**First Name11 (Name Pattern1) 625**] [**Last Name (NamePattern1) 626**] MD [**MD Number 627**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1923**] MD [**MD Number 1924**] [**2696-6-16**] @ 1143
+Signed electronically by: DR. [**First Name (STitle) 625**] [**Doctor Last Name **]
+ on: SAT [**2696-6-20**] 9:51 PM
+(End of Report)
+
+
+",,
+13790,24122,17158,0,2696-06-07 16:58:00 EST,2696-06-07 17:26:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+[**Age over 90 **] year old man that was admitted through the ew today for multilobar pneumonia and mental status changes.  
+
+all:  amiodarone
+
+pmh:  renal failure--hd for the past 6months, anemia, hypertension, diabetes, chr. afib, ataxia, otpic neuropathy, hypercholesterolemia, spinal stenosis, gastritis with hemorrhage, cad.
+
+systems review:  
+
+gu:  pt has been on HD for the past six months.  last admission on [**6-1**] was for a syncopal episode while on dialysis.  today pt was admitted for mental status changes which have worsened since pt had dialysis on Friday (also for pneumonia).  adm bun was 55 and creat was 3.8.  at 3p bun was 58 and creat 4.0.  dialysis graft noted in left lower forearm---brueri heard.  initially a condom cath was placed, as pt hadn't voided, and his wife had given pt his lasix today.  and then a foley (#16f) was placed and the initital return was 160cc.  
+
+cardiac:  adm bp was 150/55 with a pulse of 120 afib, no ectopy noted.  since admission the bp has been 122-150/46-70 with a pulse of 92-120 afib.  pt has rec'd a total of 1Liter of normal saline.  
+
+resp:  pt is on nasal prongs 6l, with o2 sats of 98%.  lung sounds were clear.  no cough noted.
+
+id:  temp on adm was 95 ax, and then at 3p taken rectally, which was 99.6.  rec'd levo in the ew and rec'd vanco x1. wbc was 9.9. 
+
+gi:  kept npo and pt has not been given any po meds. wife also gave many of the meds to the pt this AM.
+
+endo:  pt rec'd amaryl this am from wife and at 3p fingerstick was 108.  
+
+neuro:  pt has a sitter at his bedside.  interm pt appears to be slightly coherent and then as quickly as he was coherent he is confused, attempting to pull off [**Male First Name (un) **], pull out ivs and foley.  pt's hands are now restrained.
+
+
+",,
+13790,24122,17158,0,2696-06-08 04:45:00 EST,2696-06-08 05:34:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 19:00-7:00","
+micu/sicu nsg note: 19:00-7:00
+this is a [**Age over 90 **] y.o. man adm from ew yesterday on [**6-7**] with agitation, mental status changes and sob found to have multilobar pna. he also has renal failure and has been receiving hd for last 6 months (receives hd q mwf) with last tx given friday [**6-5**] with hallucinations since tx. he also had a recent admit for syncopal episode. pt was given a dose of po levoflox and iv vanco and transferred to ficu for close monitoring of resp and mental status. 
+
+neuro: a&ox2 (not to time or date) in beginning of shift, able to follow commands appropriately but found to be forgetful. mae. remained on sitters with wrist restraints removed as oriented. sitters were d/cd at 11pm as pt cooperative with no agitation. pt reported insomnia requesting sleeping pill. [**Name8 (MD) 17**] md, pt was given total of 5mg po ambien with no effect. [**Name8 (MD) 17**] md, 2.5 mg zyprexa was given with no effect but pt started becoming very agitated and rigoring at 310am-see cv. sitters restarted and bilat wrist restraints resumed as pt attempting to pull at all lines. 
+
+cv: hr ranging 97-162 afib with occas hr in 120s-130s unsustained [**Name6 (MD) 5276**] with md aware. hr up to 160s svt with pt agitated, rigoring with audible wheezes.  md notified. 12 lead ekg done with hr 144 at the time and [**Name8 (MD) 17**] md, st depressions deeper laterally compared to prior ekg. pt received total of 15mg iv lopressor and 40mg iv lasix. stat cxr was done with no sig. pulm edema compared to prior cxr. bld sugar checked: 52. pt given 1 amp d50 with repeat bld sugar 182. temp at time was 101.4 rectally and pt was given 650mg pr tylenol. 
+
+resp: lungs cta early in shift up until 3:10am pt with audible wheezes improving after tx'd with iv dextrose, lopressor and lasix. pt was on 4-5 liters nc in beginning of shift and switched to 6lnc and 100% face tent at 3:10am when wheezing developed. unable to obtain a sat at this time. abg was done but appeared to be venous blood: 7.18/70/39. repeat abg: 7.37/48/294. 02 weaned down to 40% cool neb via face tent. sp02 ranging 95-99%. dry nonproductive cough, unable to send sputum spec. 
+
+gi/gu: abd soft, nt/nd, + hypoactive bs. tolerated [**Doctor First Name **], cardiac, renal diet early in shift- ate [**1-19**] [**Country **] sandwich, 2 pieces toast, ice cream. able to swallow pills well. now very lethargic but arousable. would wait until more awake to take pos. foley patent draining poor u.o. presently. was 70cc/hr at beginning of shift after receiving 1 liter ns and trended down to 14-30cc/hr. ns at 75cc/hr was started and d/cd. after 3:10am when had wheezes, rigors, svt.
+
+endo: 12 am fs was 232 and per ss pt had received 6 units reg. insulin. fs down to 52 at 3:10am requiring 1 amp d50 with repeat fs of 182. 
+
+lines: r ant. #20g and rla #18g placed [**6-7**]. 
+
+id: t max 101.8 rectally receiving 650mg pr tylenol with current temp 99.8 rectally. received po levoflox and iv vanco.
+
+social: lives with wife. has 2 dtrs one who was in to visit with pt last eve. pt is dnr/dni.
+
+plan: monitor mental status and resp status closely, hold po intake/po meds
+",,
+13790,24122,17158,0,2696-06-08 04:46:00 EST,2696-06-08 05:34:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 19:00-7:00","
+micu/sicu nsg note: 19:00-7:00
+(Continued)
+ until pt awake enough to take. cont. abx, follow micro data results, cont. to monitor fs qid/prn, monitor u.o.-pt due for hemodialysis today- ? time. monitor hr and need for further iv lopressor. 
+",,
+13790,24122,17158,0,2696-06-08 05:52:00 EST,2696-06-08 05:55:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 19:00-7:00","
+micu/sicu nsg note: 19:00-7:00
+addendum: 6:45am fs=42. md notified and pt given 1 amp d50 and will repeat bld sugar at 7am. pt very sleepy but arousable opening eyes but mumbling, unable to understand him. skin with multiple bruising. r middle finger with and l forearm with skin tears with tegaderm/bandaid over area.
+",,
+13790,24122,17158,0,2696-06-08 16:25:00 EST,2696-06-08 16:41:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+please see flowsheet for further details...
+
+Initially somnulent but awoke agitated and slightly combative. Over course of half hour he calmed down and able to converse to some degree though speech difficult to understand. Initially did not recognize his wife. Slept most of day. Easily arousable. Currently less agitated when awake but has recent h/o of confusion at night per his wife. Plan to give Haldol at HS w/ prn supplements. Wrist restraints off. Sitter at bedside.
+
+Afebrile. Maintaining gd O2sats on 3L N/C. RR 20s.
+
+FSs low all day. D50 given x2 with slow drift in FS to 50s over course of 3-4hrs. NPO d/t mental status (somnulence). Unable to take PO pills today. Cont to follow FSs closely. ? IVF overnight. 1.3L taken off during HD which he tol well. 
+
+Wife in and out most of day. 
+",,
+13790,24122,17158,0,2696-06-09 05:26:00 EST,2696-06-09 05:48:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 19:00-7:00","
+micu/sicu nsg note: 19:00-7:00
+neuro:  mental status waxing and [**Doctor Last Name **] with more lucidness in early part of shift/ sl. agitation with attempting to pull at lines requiring bilat wrist restraints in later part of shift. slept fairly well after receiving 2.5mg im standing dose of haldol with minimal agitation when waking up occasionally not knowing where he was and attempting to pull at lines/catheter. 24 hr sitter remains at bedside. able to follow commands appropriately when fully awake. ox1 to person only. still thought he was on a cruise. later in shift thought he was at the train station. 
+
+cv: hr ranging 77-118 afib with hr up to 150s in early part of shift requiring 25mg po lopressor with good effect. 4am lopressor held sec. to hr in 70s-80s and pt sleeping. md aware. hr currently in the 70s to 80s. bp 100-132/35-59. +weak pp. feel cool. 
+
+resp: lungs cta and diminished at bases. sp02 94-98% on 3lnc. + productive cough x1 with small amt thick yellow sputum in tissue-unable to send sputum cx. using incentive spirometer with reminders and assistance while awake. also reminded to cough and deep breathe. cpt given with turns.
+
+gi/gu: abd soft, nt,nd, +bs, had moderate brown ob negative bm. tolerated a few bits of sandwich his dtr brought in as pt was very awake at this time and swallowed without difficulty with head elevated at 90 degrees. currently appears to be sleeping. 
+
+endo: fs in 160s-180s with no ss insulin given per new parameters of sliding scale written as pt with hx of bottoms out if given even sl. amt ssi coverage. 
+
+id: t max 98.7. no chills noted. 
+
+social: dtr was in to visit during early part of shift and will visit again tomorrow. 
+
+plan: continue to monitor mental status closely, continue sitters and bilat. wrist restraints prn. standing qhs haldol dose-watch qtc (was wnl [**6-9**]), monitor bld sugars q6hrs/prn. cont. to monitor temps and micro data, continue abx, hold pos if pt sleepy/maintain asp. precautions, continue to enc. pt to cough and deep breathe, assist with incentive spirometer, cpt, send sputum cx w/a, ? call out to regular floor today.
+
+
+",,
+13790,24122,17158,0,2696-06-09 16:45:00 EST,2696-06-09 16:46:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN for 7a-7p    DNR/DNI.   Allergy to Amiodarone.  
+
+please see transfer note for my nursing progress note.  Thanks
+
+More details via carevue flowsheet.
+",,

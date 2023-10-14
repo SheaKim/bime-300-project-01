@@ -1,0 +1,493 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13431,3813,,,2765-05-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2765-5-28**]       Discharge Date:  [**2765-6-4**]
+
+Date of Birth:   [**2681-6-14**]       Sex:  F
+
+Service:  [**Hospital1 **] MEDICINE
+
+HISTORY OF PRESENT ILLNESS:  An 83-year-old female, with
+multiple medical problems including diabetes, hypertension,
+heart failure, COPD, and a history of CVAs, who has been
+experiencing dysphagia over the past year.  She presented to
+[**Hospital3 **]Hospital initially, after she began choking on
+a dinner of Chinese food.  A day prior, she had had
+hematemesis, as well as some chest pain.  She was seen for an
+initial evaluation at [**Location (un) **] where she was taken to the
+endoscopy suite.  An EGD revealed a 10 cm esophageal tear
+with bleeding consistent with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1148**]-[**Doctor Last Name **] tear, and
+transferred to [**Hospital1 19**] for further evaluation for concerns of
+esophageal perforation.
+
+On arrival, a gastrografin bowel study was obtained that was
+negative for perforation.  Chest x-ray was negative, as well.
+The the gastroenterology service was consulted.  Her initial
+management was supportive with blood transfusions, and
+empiric antibiotics.  She ruled out for myocardial infarction
+via serial enzymes.
+
+PAST MEDICAL HISTORY:  1) Diabetes mellitus, type 2,
+complicated by triopathy, 2) CAD, 3) Congestive heart
+failure, 4) Hypertension, 5) COPD, 6) Anxiety, 7) History of
+CVA, 8) Longstanding gastroesophageal reflux disease.
+
+OUTPATIENT MEDICATIONS:  1) multivitamin, 2) Proventil 2
+puffs qid, 3) Elavil 25 mg po qd, 4) Norvasc 5 mg po qd, 5)
+Prinivil 10 mg po qd, 6) quinine 260 mg po q hs, 7) lasix 20
+mg po qd, 8) Lopressor 50 mg po bid, 9) Plavix 75 mg po qd,
+10) Claritin 120 mg po qd, 11) Lipitor 10 mg po qd, 12) Vioxx
+12.5 mg po qd prn, 13) NPH insulin 25 U q am, 35 U q pm, 14)
+regular Insulin 5 U q am, 5 U q pm.
+
+ALLERGIES:  1) IV contrast dye.  2) ?valium.  3)
+?benzodiazepines leading to confusion.
+
+SOCIAL HISTORY:  The patient lives alone.  She is a
+nonsmoker.  She does not drink alcohol.
+
+PHYSICAL EXAM ON PRESENTATION:
+GENERAL:  Well-appearing, well-nourished, in no apparent
+distress.
+VITAL SIGNS:  Temperature 98.9, blood pressure 158/65, heart
+rate 98, respiratory rate 23, O2 saturation 99% on room air.
+HEENT:  Extraocular muscles intact, moist mucous membranes.
+NECK:  No JVD.  No subcutaneous emphysema
+CARDIAC:  Regular rate and rhythm, distant heart sounds, no
+murmurs.
+PULMONARY:  Clear to auscultation with decreased breath
+sounds globally and decreased effort.
+ABDOMEN:  Soft, nontender, nondistended, obese, normoactive
+bowel sounds.
+EXTREMITIES:  Trace edema, no clubbing, no cyanosis, warm,
+pedal pulses palpable.
+NEURO:  Alert and oriented x 3.
+RECTAL:  Guaiac positive.
+
+LABS ON ADMISSION:  White blood cell count 12.3, hematocrit
+34.7, platelets 187, INR 1.3, PT 14, PTT 38, sodium 138,
+potassium 5.1, chloride 104, bicarbonate 26, BUN 31,
+creatinine 1.2, glucose 168, calcium 8.3, magnesium 1.6,
+phosphate 3.2.  ABG - 7.40/32/104.
+
+HOSPITAL COURSE:  An elderly female presenting with acute
+esophageal mucosal [**Last Name (LF) **], [**First Name3 (LF) 1148**]-[**Doctor Last Name **] variant, explaining
+her presenting bleeding.  Likely, she has other esophageal
+pathology such as peptic strictures from longstanding
+gastroesophageal reflux disease.  In her initial course, she
+was treated supportively with blood transfusion to keep the
+hematocrit greater than 30%, given her underlying coronary
+artery disease.  She ruled out for myocardial infarction via
+serial enzymes.  She was treated with empiric antibiotics
+including ampicillin, Levofloxacin and Flagyl.  Following
+blood product support, she remained hemodynamically stable
+without further evidence of bleed.
+
+Given her hemodynamic stability, the consultation with the
+gastroenterology service, a repeat EGD was felt not to be of
+utility on this admission, due to the inability to dilate in
+the setting of this [**Doctor First Name 1148**]-[**Doctor Last Name **] tear.  Rather, a diagnostic
+EGD after four to six weeks of esophageal rest, with proton
+pump inhibitor prophylaxis, will allow for better
+visualization, and perhaps tissue diagnosis.  While this is
+likely a stricture, other processes cannot be ruled out, such
+as masses or carcinoma.
+
+Her hospital course was also notable for two days of
+delirium.  This was in the setting of ativan.  Her mental
+status cleared with discontinuation of the benzodiazepine.
+She had no further issues in this regard subsequently.
+
+With respect to her hypertension, her antihypertensives were
+reinitiated upon achievement of hemodynamic stability.  Her
+blood pressure was well-controlled subsequently.
+
+With respect to her diabetes, she is on a reduced dose of
+insulin, as her PO tolerance steadily increases.
+
+DISCHARGE DIAGNOSES:  1) [**Doctor First Name 1148**]-[**Doctor Last Name **] tear.  2)
+Gastroesophageal reflux disease.  3) Diabetes mellitus, type
+2.  4) Coronary artery disease.  5) Congestive heart failure.
+6) Hypertension.
+
+DISCHARGE INSTRUCTIONS:  1) The patient will be discharged to
+extended care facility.  2) Her diet should consist of soft
+consistency foods/diabetic foods for the next 6 weeks.  3)
+She needs to be kept on a proton pump inhibitor bid, for
+example Protonix 40 mg po bid.  4) Her hematocrit should be
+monitored on a qod basis to insure hemodynamic stability.  5)
+Her fingersticks should be monitored qid.  6) The patient is
+currently on 10 U of NPH in the am and 15 U of NPH in the pm.
+As her PO tolerance increases, can titrate up to a home dose
+of Insulin:  25 U NPH, 5 U regular in am; 35 U NPH, 5 U
+regular in pm.  7) Refrain from giving patient nonsteroidal
+anti-inflammatories or COXII inhibitors.  Also, hold Plavix
+and aspirin for now.
+
+FOLLOW-UP:  The patient should follow-up with Dr. [**First Name8 (NamePattern2) 528**]
+[**Last Name (NamePattern1) 7071**] at ([**Telephone/Fax (1) 7817**] who is the patient's primary care
+physician and cardiologist.  The patient will need a repeat
+EGD in 6 weeks.  She may follow-up at [**Hospital1 19**] with Dr. [**First Name8 (NamePattern2) **]
+[**Name (STitle) 1817**] and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3108**].  Given the fact that she lives
+quite a distance from [**Hospital1 19**], she can follow-up this EGD
+closer to home if she prefers.
+
+DISCHARGE CONDITION:  Hemodynamically stable.  Tolerating
+soft foods without dysphagia.  Alert and oriented x 3.
+Pleasant.
+
+DISCHARGE MEDICATIONS:  1) metoprolol 50 mg po bid, 2) lasix
+20 mg po qd, 3) Lipitor 10 mg po qd, 4) Norvasc 5 mg po qd,
+5) quinine 260 mg po q hs, 6) lisinopril 10 mg po qd, 7)
+Protonix 40 mg po bid, 8) senna 1 tab po bid prn, 9) Dulcolax
+10 mg po PR qd prn constipation, 10) colace 100 mg po bid,
+11) albuterol 1-2 puffs inhaled q 4 h prn, 12) salmeterol 1-2
+puffs inhaled bid, 13) Flovent 110 mcg 2 puffs inhaled bid,
+14) multivitamin 1 tab qd, 15) Claritin 120 mg po qd, 16) NPH
+Insulin 10 U q am, 15 U q pm, 17) regular Insulin sliding
+scale.
+
+
+
+
+                            [**Doctor Last Name **] [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 154**]
+
+Dictated By:[**Last Name (NamePattern4) 9079**]
+MEDQUIST36
+
+D:  [**2765-6-4**]  09:57
+T:  [**2765-6-4**]  09:07
+JOB#:  [**Job Number 9080**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: MON [**2765-6-7**] 11:34 AM
+(End of Report)
+
+
+",,
+13431,3813,,,2765-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-5-28**] 11:05 PM
+     ESOPHAGUS                                                       Clip # [**Clip Number (Radiology) 15636**]
+     Reason: gastrograffin, then thin barium swallow to assess for esopha
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with esophageal tear                                          
+     REASON FOR THIS EXAMINATION:
+      gastrograffin, then thin barium swallow to assess for esophageal perforation in 
+      known mucosal tear
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 83 year old female with esophageal tear. Assess for
+     perforation.
+     
+     TECHNIQUE: Gastrografin and barium esophagogram.
+     
+     COMPARISON: None.
+     
+     FINDINGS: Gastrografin was initially administered to the patient, followed by
+     thin barium. There was no evidence of an esophageal leak. The esophagus
+     is normal caliber throughout. No significant mucosal abnormalities are
+     detected. Contrast passed freely to the stomach.
+     
+     IMPRESSION: No evidence of esophageal perforation.
+
+",,
+13431,3813,16714,,2765-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-5-29**] 8:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15637**]
+     Reason: R/O PNEUMOMEDIASTINUM                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with ESOPHAGEAL PERF                                          
+     REASON FOR THIS EXAMINATION:
+      R/O PNEUMOMEDIASTINUM                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Esophageal perforation.
+     
+     There are no prior films available for comparison. The heart is enlarged.
+     There are no focal infiltrates and there is no evidence of failure. There is
+     no pneumothorax. No abnormal air is noted in the mediastinum. Barium from a
+     recent barium swallow is present in the gastric fundus. A feeding tube is
+     present terminating near the GE junction. There is no obvious pneumo-
+     mediastinum. A dual chambered pacemaker is present.
+     
+     IMPRESSION: Cardiomegaly. Further evaluation of the mediastinum with chest CT
+     could be obtained.
+
+",,
+13431,3813,16714,0,2765-05-29 06:58:00 EST,2765-05-29 07:10:00 EST,3660,"N",53,"Nursing/Other",,"
+
+pt admitted to sicu at 930pm from [**Location (un) **]. pt alert and oriented times three denies pain vomited 150ccs dark blood with clots. bp 180 to 200 nitro gtt started to keep bp around 140.
+pt has rt rad art line started and ng tube placed. pt lavaged with 2 liters ns to [**Last Name (un) 4812**] clots. now draining rusty colored fld . not draining well irrigated freq to keep patent. no fresh blood or clots noted in asp, pt to x ray for gastrograffin swallow then bar swallow. 
+tear noted but no perforation of esophageal wall noted.
+pt returned to sicu serial hcts done hct dropped to 26 from 34 on admission,(40 at [**Location (un) **]) transfused with bag of platelets and one unit packed cells 2nd unit to follow hct 15 min after 1st trans 29.
+pt incont of lg amt of urine, then foley cath placed. urine very low 2 boluse s of lr total of 1 liter given uo picked to 20ccs per hr now 60ccs at 7am. ivf at 80 ccs per hr. 
+sliding scale initiated pt given 7 units of reg ins at 12 and 6am.
+pt getting very agitated compl of exhaustion but inability to [**Doctor Last Name 8**]. wanting to get oob given ativan .5mgs times 3 with relief. 
+pt passing gas but no bm.  on 4 l np's bs coarse in lt base otherwise clear coughing and expectorating sm amts of mucoid sputum. sats >96%.
+",,
+13431,3813,16714,0,2765-05-29 19:03:00 EST,2765-05-29 19:30:00 EST,3246,"N",53,"Nursing/Other","T/SICU Note  7am- 7pm","
+T/SICU Note  7am- 7pm
+Brief ROS-
+Neuro: Pt. is alert and oriented. Sleepy this am but more awake all afternoon. Appropriate and cooperative. Pt. is concerned about her present situation with many questions. MAE.  Pupils equal and reactive to light. No ativan given this shift, she feels it might have given her a groggy feeling. 
+
+CV: Pt. remains on ntg gtt to control BP. BP continues to trend up despite going up on her ntg gtt. HR is in the 70's- 80's remains paced most of the time, irregular rhythm. Skin warm and dry with palpable pulses. Serial CK's finished this afternoon.
+
+Resp: Pt. has had adequate sats all shift. 4l nc earlier in shift and changed to rm air with continued adequate sats. Later in shift a cool neb aerosol mask was added to provide humidity as pt. c/o secretions that were difficult to expectorate. Nrs offered idea that the NGT may be feeling like secretions in her throat that are not productive but pt. states she has ""post nasal drip"" at home also. Humidity may benefit pt. RR 20's Breath sounds are reletively clear anteriorlly. 
+
+GI: NGT cont to drain secretions(and cont. to require an occasional lavage/flush to maintain drainage) but they are no longer dark red bld, they are tan/brown secretions now. Belly is round an sl distended, although pt. stated that her belly is usually large. No BM's this shift. NPO. No vomitting this shift, no obvious bleeding.
+
+GU: Makes adequate u/o via foley. Foley appears to be occ positional and output has improved with new position. See care vue.
+
+Endo: Bld sugars covered with insulin as needed, see care vue.
+
+Heme: Hct has improved over the shift post transfusions earlier today.
+
+A- Stable hct after bld transfusion today. Remains on ntg gtt for BP control. Cont. to monitor BS.
+
+P- Cont. to monitor closely, hct/BS AND VS.
+
+",,
+13431,3813,16714,0,2765-05-30 04:24:00 EST,2765-05-30 04:32:00 EST,-1,"N",53,"Nursing/Other","NPN T/SICU 7P-7A","
+NPN T/SICU 7P-7A
+REVIEW OF SYSTEMS
+
+NEURO- ALERT AND ORIENTED, MAE, FOLLOWS COMMANDS, RECIEVED IV ATIVAN FOR ANXIETY, AND IV BENADRYL FOR [**Doctor Last Name **] W/ SOME EFFECT
+
+RESP-LUNGS CLEARS DIMINISHED BASES, O2 VIA NC 2LPM, O2 SATS 99-100%, STRONG COUGH/GAG, PT STATES AT TIMES FEELS PHLEM IN BACK OF THROAT, HO AWARE.
+
+CV-AV PACED 88-105, SBP 120-160'S, PT ON NTG GTT 1.5-3.0 MCG/KG/MIN, GOOD DISTAL PULSES, LYTES REPLETED, HCT 29 HO [**Doctor Last Name **] AWARE, NO INTERVENTION AT THIS TIME.
+
+GI/GU-NPO, ABD SOFT HYPOACTIVE BS, -BM, +FLATUS, NG TO LWS SMALL AMOUNTS BROWN DRAINAGE, FOLEY TO GRAVITY CLEAR YELLOW URINE
+
+ENDO-RISS, COVERAGE AS ORDERED
+
+SKIN-INTACT NO AREAS OF BREAKDOWN NOTED
+
+SOC- SON INTO VISIT THIS PM ASKING APPROPRIATE QUESTIONS.
+
+A/P-CONTINUE TO MONITOR CV STATUS, MAINTAIN SBP 120-140, CONTINUE TO FOLLOW HCT, LABS/ORDERS, VS, I&O, CONTINUE TO SUPPORT PT AND FAMILY, 
+",,
+13431,3813,16714,0,2765-05-30 16:24:00 EST,2765-05-30 16:39:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN TRAUMA SICU
+
+REVIEW OF SYSTEMS:
+
+Neuro:
+Alert and oriented, but occasional periods of confusion. ? possible effect from ativan given for anxiety- clears easily with reorientation.  MAE, able to dangle feet over side of bed for several minutes this A.M. 
+CV:
+Remains AV paced with HR 90's for most of shift -> up to 124 this afternoon.  Given 5 mg lopressor and HR back to baseline of 90's. Nitro drip off and nitro ointment placed with controlled BP <160. Restarted on Norvasc this AM and administered via NGT. Extremites warm with palpable pulses. 
+Respir:
+Lung sounds clear with diminished bases bilaterally. O2sats 97-100 on RA. Positive gag/cough with thick secretions coughed up around ETT.
+GI/GU:
+Abdomen soft with hypoactive BS.  NPO with NGT to cont. low wall suction - minimal bilious drainage. Foley to gravity with clear yellow urine - QS. 
+Social:
+Multiple social support in at bedside this afternoon.
+Plan:
+Continue to monitor hemodynamics. Transfer to floor when bed available on medical floor with transfer to medical service. Continue to monitor HCT.
+",,
+13431,3813,16714,0,2765-05-30 20:59:00 EST,2765-05-30 21:21:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Transfer Note addendum","
+T/SICU Nursing Transfer Note addendum
+At 7pm, pt was getting out of bed, quite confused. Day nurse gave pt. haldol, pt assisted back to bed. Pt. began kicking and hitting nurses and attempting to get up and was calling out for the police.  Pt. restrained with belt and wrist restraints for about two hours. Son, [**Last Name (un) 4813**] called and spoke with mother and then with this nurse and was quite upset with his mother's mental status.  He called pts. personal physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 3230**], who called and spoke with pt.  Pt. much calmer since then and much more cooperative with procedures although she remains confused.  Pt. repeatedly expressing need to ""go home"". Pt. assisted to chair and is currently resting quietly.  Son informed about impending transfer to floor.  All his questions were answered and reassurance given.  
+",,
+13431,3813,,,2765-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-6-1**] 7:03 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15638**]
+     Reason: pls assess for CHF or possible infiltrate (?aspiration)     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83F w/ esophageal tear and delirium.                                            
+     REASON FOR THIS EXAMINATION:
+      pls assess for CHF or possible infiltrate (?aspiration)                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW CHEST:
+     
+     INDICATION:  Delirium, question CHF.
+     
+     COMPARISON:  [**2765-5-29**].
+     
+     FINDINGS:  Left pacemaker device overlies the left upper lung zone, obscuring
+     detail in this region.  Intact leads are overlying the region of the right
+     atrium and right ventricle.  The heart remains enlarged.  The aorta is
+     unfolded.  There is slight pulmonary vascular upper zone redistribution.  Left
+     lower lobe consolidation/collapse is likely.  No pneumothorax is seen.
+     Possible small bilateral pleural effusions.
+     
+     IMPRESSION:  Possible slight CHF.  Left lower lobe consolidation/collapse.
+
+",,
+13431,3281,,,2765-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-12-8**] 9:51 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15639**]
+     Reason: ?retroperitoneal bleed                                      
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with falling bp                                               
+     REASON FOR THIS EXAMINATION:
+      ?retroperitoneal bleed                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypotension post cardiac cath.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases to pubic
+     symphysis without IV contrast.
+     
+     CT ABDOMEN W/O IV CONTRAST:  There are four small nodules at the right lung
+     base.  The largest nodule measures 6 mm.  There is a massive retroperitoneal
+     hemorrhage.  Blood products are noted in the right pararenal space extending
+     along the psoas margin inferiorly.  Blood surround the lateral portion of the
+     liver.  Inferior to the right kidney the hemorrhage measures 13 cm x 8.6 cm.
+     The kidneys appear atrophic and demonstrate contrast enhancement from the
+     prior cardiac catheterization.  There is minimal excretion of contrast into
+     the collecting system.  The aorta is densely calcified without evidence of
+     aneurysmal dilatation.  Multiple lymph nodes are present surrounding the
+     aorta.  The liver and spleen are unremarkable. There is enlargement of the
+     medial limb of the left adrenal gland.  The right adrenal gland appears
+     unremarkable. The intraabdominal bowel loops are unremarkable. The pancreas is
+     atrophic. There is no free air within the abdomen.
+     
+     CT PELVIS W/O IV CONTRAST:  There is a large right rectus sheath hematoma. The
+     [**Doctor Last Name **] measure 85. Hemorrhage is not present below the inguinal ligament.  A Foley
+     catheter is present within the urinary bladder.  The intrapelvic bowel loops
+     are unremarkable.  There is dense calcification of the iliac vessels
+     bilaterally.
+     
+     The osseous structures are unremarkable.
+     
+     IMPRESSION: There is a massive retroperitoneal hemorrhage.  The more acute
+     blood products appear to be located in the right rectus sheath.  The
+     hemorrhage extends into the right retroperitoneum.  There is hemorrhage
+     surrounding the lateral aspect of the liver.
+
+",,
+13431,3281,,,2765-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-12-8**] 11:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15640**]
+     Reason: assess for rij                                              
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      assess for rij                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for right IJ line placement.
+     
+     COMPARISON:  [**2765-6-1**].
+     
+     CHEST, AP:  The tip of the right IJ line is in the mid SVC.  The lung volumes
+     are low.  ICD pacer leads are again visualized and are unchanged.
+     
+     IMPRESSION:  Satisfactory position of the right IJ line.  Low lung volumes.
+
+",,
+13431,3281,,,2765-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-12-8**] 9:51 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15639**]
+     Reason: ?retroperitoneal bleed                                      
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with falling bp                                               
+     REASON FOR THIS EXAMINATION:
+      ?retroperitoneal bleed                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypotension post cardiac cath.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the lung bases to pubic
+     symphysis without IV contrast.
+     
+     CT ABDOMEN W/O IV CONTRAST:  There are four small nodules at the right lung
+     base.  The largest nodule measures 6 mm.  There is a massive retroperitoneal
+     hemorrhage.  Blood products are noted in the right pararenal space extending
+     along the psoas margin inferiorly.  Blood surround the lateral portion of the
+     liver.  Inferior to the right kidney the hemorrhage measures 13 cm x 8.6 cm.
+     The kidneys appear atrophic and demonstrate contrast enhancement from the
+     prior cardiac catheterization.  There is minimal excretion of contrast into
+     the collecting system.  The aorta is densely calcified without evidence of
+     aneurysmal dilatation.  Multiple lymph nodes are present surrounding the
+     aorta.  The liver and spleen are unremarkable. There is enlargement of the
+     medial limb of the left adrenal gland.  The right adrenal gland appears
+     unremarkable. The intraabdominal bowel loops are unremarkable. The pancreas is
+     atrophic. There is no free air within the abdomen.
+     
+     CT PELVIS W/O IV CONTRAST:  There is a large right rectus sheath hematoma. The
+     [**Doctor Last Name **] measure 85. Hemorrhage is not present below the inguinal ligament.  A Foley
+     catheter is present within the urinary bladder.  The intrapelvic bowel loops
+     are unremarkable.  There is dense calcification of the iliac vessels
+     bilaterally.
+     
+     The osseous structures are unremarkable.
+     
+     IMPRESSION: There is a massive retroperitoneal hemorrhage.  The more acute
+     blood products appear to be located in the right rectus sheath.  The
+     hemorrhage extends into the right retroperitoneum.  There is hemorrhage
+     surrounding the lateral aspect of the liver.
+
+",,
+13431,3281,16715,,2765-12-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2765-12-9**] 1:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15641**]
+     Reason: check ETT placement, ? aspiration                           
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 yo F s/p retroperitoneal bleed who became SOB and unresponsive, 
+      nausea/vomiting
+     REASON FOR THIS EXAMINATION:
+      check ETT placement, ? aspiration                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath, endotracheal tube placement.
+     
+     COMPARISON: [**2765-12-8**].
+     
+     CHEST AP: The tip of the endotracheal tube is at the level of the carina. This
+     can be withdrawn a few centimeters. There is moderate upper zone vascular
+     redistribution with some pulmonary infiltrates consistent with congestive
+     heart failure. Left ventricular enlargement is noted. ICD pacer leads are
+     again noted. Tip of the right IJ line is in the mid SVC.
+     
+     IMPRESSION: Moderate congestive heart failure.
+
+",,
+13431,,16715,0,2765-12-09 04:15:00 EST,2765-12-09 04:53:00 EST,4211,"N",53,"Nursing/Other",,"
+
+Nursing Note
+[**2765-12-9**]  2200->0200
+
+Received report from floor nurse ([**Hospital Ward Name **] 3). Received patient in CT scan, scan completed, and pt transported up to T/SICU. Pt transferred to ICU bed and placed on monitor. Pt agitated, restless, alert but confused to place and events. 
+
+Dopamine infusing through left femoral cordis, held < 5 minutes while 1 unit PRBC rapidly transfused trhough warmer, then dopamine re-started; 2nd unit PRBC started through  right #22 PIV. RIJ TLC placed, CXR confirmed placement, and blood transfused through TLC. 
+
+Pt receieved 2 units PRBC with HCT post transfusion = 28.1. After 4 more units PRBC, 6 units FFP and 2 packs of platelets, CBC results: Hct 28.1->24.3, Hgb 9.2->8.2, platelets 130K -> 188K, PT 19.7 -> 16.5, PTT 150 -> 75, INR 2.6->1.8., fibrinogen 150 -> 195. Other labs pending at time of code.
+
+Dr. [**First Name (STitle) **] aware of pt's BP being 100-120's on dopamine 3->2mcg, CVP 21- 8 with variability from minute to minute due to patient agitation. SpO2 99-97, respirations non-labored, u/o 25mL/hr x 2 hours.
+
+About 3o minutes after last FFP completed, pt's BP rose and pt c/o difficulty breathing. LS absent in RLL, diminished markedly in LLL audible wheezes and tachycardia -> Dr. [**Last Name (STitle) **] alerted and in to see pt. Unable to obtain SpO2 reading from both hands, RLE, and forehead. RR high 20's with increased work of breathing, audible wheezes and increased agitation. SBP 170's -> dopamine decreased. Pt vomited copious amnt bilious drng suddenly without warning. Pt turned onto side with BLE log-rolled. Pt agitated, attempting to bend legs at hips. Suddenly pt became glassy-eyed with pale lips, smacking lips lightly, pupils fixed at 4mm, and unresponsive to verbal and motion stim. Anesthesia stat paged. Pt intubated, noted to have large amnt of gastric aspirate in oropharynx and ETT. Abd enlarging rapidly with SBP dropping from 100's -> 70's -> 50's while CVP rose to 20's and pulse ceased. Code called -> see code flow sheet.
+
+Pt expired at 2:00a.m.
+
+See CareVue for detailed information regrding I & O's, transfusons, VS.
+",,

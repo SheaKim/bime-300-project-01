@@ -1,0 +1,1123 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+13384,21328,,,2866-09-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2866-9-24**]     Discharge Date:  [**2866-10-9**]
+
+Date of Birth:   [**2786-10-13**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 79-year-old
+male with a past medical history of coronary artery disease
+with angina, severe chronic obstructive pulmonary disease,
+who was initially admitted to [**Hospital3 **] Hospital in
+[**Location (un) 1632**] for shortness of breath, substernal chest pain,
+and diaphoresis.  Cardiac catheterization there showed
+3-vessel disease with left main 70% occlusion, right coronary
+artery 100% occlusion, left circumflex 90% occlusion, left
+anterior descending artery 80% to 90% occlusion, with an
+ejection fraction of 65%.
+
+The patient was subsequently transferred to the [**Hospital1 392**] for possible coronary artery bypass
+graft.  On admission, he was noted to have ecchymosis in his
+left groin site which was where the initial catheterization
+was attempted at [**Hospital3 **] Hospital and his left upper
+extremity site where catheterization was finally performed at
+the outside hospital.
+
+On [**9-25**], the patient had an episode of syncope while on
+the commode with accompanying hypotension and was transferred
+to the Medical Intensive Care Unit for further care.  The
+episode was thought to be secondary to vasovagal syncope.
+While on the Medical Intensive Care Unit Service he had
+another episode of syncope.  Additionally, he has had several
+episodes of anginal-type chest pain relieved by
+nitroglycerin.  The expanding hematoma in the left arm was
+complicated by superimposed cellulitis, and he was started on
+oxacillin and eventually switched to p.o. Levaquin.  The left
+groin hematoma also continued to expand.  He has required
+several blood transfusions due to his hematocrit drop.
+Cardiothoracic Surgery felt that the patient was not a good
+surgical candidate given his severe chronic obstructive
+pulmonary disease.
+
+Subsequently, the patient underwent high-risk angioplasty.
+His cardiac catheterization showed left main stenosis of 50%,
+left circumflex was stented.  His course was complicated by
+hypotension secondary to cardiac tamponade.  A pericardial
+drain was placed which drained 700 cc of frank blood.  His
+hypotension resolved with dopamine and pericardial drainage.
+He also sustained a right iliac dissection which was stented
+at the end of the procedure.
+
+Following his cardiac catheterization, the patient was
+transfused 2 units of packed red blood cells and 2 units of
+fresh frozen plasma and transferred to the Coronary Care
+Unit.
+
+PAST MEDICAL HISTORY:
+1.  Chronic obstructive pulmonary disease.
+2.  Coronary artery disease.
+3.  Peripheral vascular disease with claudication.
+4.  Status post bilateral carotid endarterectomy.
+5.  Peptic ulcer disease.
+6.  Arthritis.
+
+MEDICATIONS ON TRANSFER:  Protonix, Atrovent, Levaquin,
+Beconase, Lipitor, nitroglycerin drip, Colace, aspirin,
+Lopressor, and Atrovent nebulizers.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Temperature 97,
+pulse 94, blood pressure 133/51, respiratory rate 20,
+saturation 93% on 2 liters of oxygen through nasal cannula.
+Drips with dopamine and intravenous fluids.  In general,
+somnolent but arousable.  HEENT revealed pupils were equal,
+round, and reactive to light and accommodation, but enlarged
+to 6 mm, dry mucous membranes, sclerae were anicteric, no
+jugular venous distention.  Bilateral scars at carotids.
+Cardiovascular had distant heart sounds.  Pulmonary was clear
+anteriorly.  Abdominal examination was nontender and
+nondistended, positive bowel sounds.  Extremities had severe
+ecchymoses of the left upper extremity, right upper
+extremity, bilateral flanks.  Skin breakdown on right arm,
+draining serosanguineous fluid.
+
+LABORATORY DATA ON PRESENTATION:  White blood cell count
+15.1, hematocrit 31.2, platelets 186.  Sodium 137, potassium
+4, chloride 100, bicarbonate 31, BUN 25, creatinine 0.9,
+glucose of 108.  INR 1.2, PTT 26.8, PT 13.
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  CARDIOVASCULAR:  The patient has had a tenuous course
+from a cardiovascular standpoint.  After the catheterization
+the patient continued to drain frank blood from the
+pericardial drain requiring several units of packed red blood
+cells, fresh frozen plasma, and platelets.  His aspirin and
+Plavix were held during this episode.  The bleeding
+eventually stopped as documented by serial echocardiograms,
+and the pericardial catheter was removed without any
+complications.  He was eventually weaned off the dopamine.
+He was gradually started on Lopressor and Captopril.  The
+Lopressor dosage titration was limited by worsening shortness
+of breath.  He continued to have paroxysmal atrial
+fibrillation, controlled by Lopressor and diltiazem.  He also
+continued to have intermittent chest pain with no
+electrocardiogram changes and some relief with sublingual
+nitroglycerin.  Additionally, he has had episodes of
+hypotension which have been responsive to fluid boluses.  It
+is likely the result of multiple medications and fluid
+depletion.
+
+In light of his recurrent hypotension, the captopril was
+discontinued.  He continued to be on aspirin and Plavix.  His
+last echocardiogram showed an ejection fraction of greater
+than 55%, and no signs of tamponade.
+
+2.  PULMONARY:  He continued to be on 2 liters of
+supplemental oxygen with saturations of 92% to 93%.  He
+continued his Atrovent nebulizers, Atrovent MDI, and Medrol.
+
+3.  DERMATOLOGY:  On the Medical Intensive Care Unit Service
+he was treated with Levaquin for possible cellulitis.
+However, it was discontinued in light of no source of
+infection.  He continued to have severe ecchymoses of his
+extremities and groin.  The effected areas had gotten
+slightly better over the course of his stay.  He has had skin
+breakdown in his right arm.  The wound cultures have been
+negative.  The friable skin is likely secondary to long-term
+steroid use.
+
+4.  GENITOURINARY:  The patient's flank hematoma tracked down
+to his testicular and penile area.  The ecchymosis is
+currently stable and not expanding.  The testicular edema was
+unchanged.  He has had a urinary tract infection and being
+treated with a 10-day course of ciprofloxacin.
+
+5.  HEMATOLOGY:  His hematocrit has been stable since removal
+of his pericardial catheter.
+
+6.  CODE STATUS:  The patient is do not resuscitate/do not
+intubate.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease with 3-vessel disease, status
+post stent times two to his left circumflex artery.
+2.  Urinary tract infection.
+3.  Chronic obstructive pulmonary disease.
+4.  Peripheral vascular disease.
+5.  Arthritis.
+6.  Status post carotid endarterectomy.
+
+MEDICATIONS ON DISCHARGE:
+ 1.  Lopressor 25 mg p.o. b.i.d.
+ 2.  Cardizem 30 mg p.o. b.i.d.
+ 3.  Medrol 5 mg p.o. q.d.
+ 4.  Atrovent MDI 3 puffs b.i.d. with spacer.
+ 5.  Protonix 40 mg p.o. q.d.
+ 6.  Plavix 75 mg p.o. q.d. times 30 days.
+ 7.  Neutra-Phos 1 packet t.i.d. with meals.
+ 8.  Aspirin 325 mg p.o. q.d.
+ 9.  Atrovent nebulizers q.4h.
+10.  Lipitor 80 mg p.o. q.d.
+11.  Sublingual nitroglycerin 0.4 mg q.5min. times three
+p.r.n. for chest pain.
+12.  Ciprofloxacin 255 mg p.o. b.i.d. times 10 days.
+13.  Heparin 5000 units subcutaneous b.i.d.
+14.  Multivitamin 1 tablet p.o. q.d.
+15.  Tylenol p.r.n.
+
+CONDITION AT DISCHARGE:  Condition on discharge was guarded.
+
+DISCHARGE STATUS:  To [**Hospital3 **] Hospital.
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 833**]
+
+Dictated By:[**Name8 (MD) 1432**]
+
+MEDQUIST36
+
+D:  [**2866-10-12**]  18:25
+T:  [**2866-10-14**]  07:40
+JOB#:  [**Job Number 8993**]
+
+ (cclist)
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 123**] [**2866-12-9**] 7:23 PM
+(End of Report)
+
+
+",,
+13384,21328,,,2866-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-24**] 9:56 PM
+     CHEST (PRE-OP AP ONLY)                                          Clip # [**Clip Number (Radiology) 15304**]
+     Reason: pre op for CABG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, PVD, arthritis.
+     REASON FOR THIS EXAMINATION:
+      pre op for CABG
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79 y/o man with COPD, PPD, arthritis. Pre-op for CABG.
+     
+     chest, single ap view.
+     
+     Lordotic positioning. right costophrenic angle is not well seen and cut from
+     the film. There is no evidence of consolidation, chf, or effusion. congestion,
+     or masses.
+     
+     IMPRESSION:  No acute pulmonary process.
+
+",,
+13384,21328,,,2866-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-25**] 3:03 PM
+     ART DUP EXT LO UNI;F/U                                          Clip # [**Clip Number (Radiology) 15308**]
+     Reason: HYPOTENSIVE, S/P LT CATH ATTEMPT, LT GROIN HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with copd, cad-3v, s/p cardiac cath with right fem bruit became
+      hypotensive. Eval for thigh hematoma and retroperitoneal bleed. 
+     REASON FOR THIS EXAMINATION:
+      hypotensive
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recent cardiac catheterization with right femoral bruit and
+     hypotension.
+     
+     Diffuse edema is seen throughout the thigh, limiting evaluation for deep
+     intramuscular hematoma.  The common femoral vessels beneath the puncture site
+     show no evidence of abnormal communications.  Normal flow is seen through both
+     the artery and vein.
+     
+     IMPRESSION:
+     1. Limited study with diffuse soft tissue edema.
+     
+     2. No evidence of pseudoaneurysm.
+
+",,
+13384,21328,,,2866-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-25**] 2:28 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15306**]
+     Reason: unresponsive and low BP
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with copd, cad, pvd
+     REASON FOR THIS EXAMINATION:
+      unresponsive and low BP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE HEAD [**2866-9-25**].
+     
+     INDICATION:  Recent cardiac cath with low blood pressure, thigh hematoma,
+     unresponsiveness.
+     
+     COMPARISON:  No comparison study is available at this institution.
+     
+     TECHNIQUE:  Multiple axial images were obtained from the foramen magnum to
+     cranial vertex without intravenous contrast.
+     
+     UNENHANCED HEAD CT:  There are no intra- or extra-axial fluid collections.
+     There is no shift of midline structures or mass effect.  Diffuse
+     periventricular low attenuation does not appear to be associated with
+     significant sulcal effacement, and therefore probably represents extensive
+     diffuse chronic microvascular ischemia.  
+     Soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  No evidence of acute hemorrhage or mass effect.
+     2.  Diffuse periventricular low attenuation, consistent with probable chronic
+     small vessel ischemia. 
+     
+
+",,
+13384,21328,,,2866-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-25**] 7:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15305**]
+     Reason: low bp and unresponsive
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD, PVD and arthritis
+     REASON FOR THIS EXAMINATION:
+      low bp and unresponsive
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old man with COPD, CAD, PPD and arthritis.  Low blood
+     pressure and unresponsive.
+     
+     CHEST, SINGLE AP VW.
+     
+     Right central vein catheter is placed with its tip over the mid superior vena
+     cava.  The heart is not enlarged. Minimal blunting right cpa.  Otherwise,
+     there is no chf, infiltrate or effusion, No ptx. Aorta mildly unfolded.
+     
+     IMPRESSION:  Right central vein catheter with its tip over mid superior vena
+     cava and blunting of the right costophrenic angle.
+     
+
+",,
+13384,21328,,,2866-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-25**] 2:28 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15307**]
+     Reason: UNRESPONSIVE LOW BP, R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with copd, cad, pvd
+     REASON FOR THIS EXAMINATION:
+      unresponsive and low BP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Unresponsive and hypotensive.
+     
+     TECHNIQUE:  Multiple axial images were obtained from the lung bases to the
+     pubic symphysis without IV contrast.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The lung bases are free of focal
+     opacities and there are no pleural effusions.  Two low attenuation lesions
+     within the left lobe of the liver are too small to characterize further. There
+     is no intrahepatic biliary ductal dilatation.  The gallbladder fossa is empty.
+     The pancreas and spleen are atrophic.  Several low attenuation lesions within
+     the kidneys may represent simple cysts.  There is diffuse calcification of the
+     abdominal aorta and its branches.  No free air or free fluid is seen within
+     the abdomen.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is no free fluid within the
+     pelvis.  The bladder is collapsed around the Foley.  The sigmoid colon,
+     rectum, and prostate are normal in appearance.  There is diffuse anterior left
+     lower abdominal wall soft tissue stranding.  There is a right inguinal hernia.
+     Soft tissue stranding extends down the left thigh which is enlarged and within
+     which can be seen a 4.4 x 7.2 cm fluid collection with a fluid-fluid level.
+     Fluid and soft tissue staining extends down into the scrotum.  The fluid
+     collection in the left thigh appears to be in the anterior compatment, lying
+     atop the adductor muscles.  There is diffuse degeneration of the osseous
+     structures.
+     
+     IMPRESSION:
+     
+     1. Fluid collection within the left thigh with a fluid-fluid level, consistent
+     with acute hemorrhage.
+     
+     2.  Right inguinal hernia.
+
+",,
+13384,21328,,,2866-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-25**] 2:28 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15307**]
+     Reason: UNRESPONSIVE LOW BP, R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with copd, cad, pvd
+     REASON FOR THIS EXAMINATION:
+      unresponsive and low BP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Unresponsive and hypotensive.
+     
+     TECHNIQUE:  Multiple axial images were obtained from the lung bases to the
+     pubic symphysis without IV contrast.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The lung bases are free of focal
+     opacities and there are no pleural effusions.  Two low attenuation lesions
+     within the left lobe of the liver are too small to characterize further. There
+     is no intrahepatic biliary ductal dilatation.  The gallbladder fossa is empty.
+     The pancreas and spleen are atrophic.  Several low attenuation lesions within
+     the kidneys may represent simple cysts.  There is diffuse calcification of the
+     abdominal aorta and its branches.  No free air or free fluid is seen within
+     the abdomen.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is no free fluid within the
+     pelvis.  The bladder is collapsed around the Foley.  The sigmoid colon,
+     rectum, and prostate are normal in appearance.  There is diffuse anterior left
+     lower abdominal wall soft tissue stranding.  There is a right inguinal hernia.
+     Soft tissue stranding extends down the left thigh which is enlarged and within
+     which can be seen a 4.4 x 7.2 cm fluid collection with a fluid-fluid level.
+     Fluid and soft tissue staining extends down into the scrotum.  The fluid
+     collection in the left thigh appears to be in the anterior compatment, lying
+     atop the adductor muscles.  There is diffuse degeneration of the osseous
+     structures.
+     
+     IMPRESSION:
+     
+     1. Fluid collection within the left thigh with a fluid-fluid level, consistent
+     with acute hemorrhage.
+     
+     2.  Right inguinal hernia.
+
+",,
+13384,21328,16659,0,2866-09-25 16:22:00 EST,2866-09-25 17:23:00 EST,3210,"N",53,"Nursing/Other","CITIC/SICU NSG ADMISSION NOTE","
+CITIC/SICU NSG ADMISSION NOTE
+0730>>1730
+
+79 YO MAN TRANSFERRED FROM [**Hospital Ward Name **] 6 TO ICU ROOM 697..S/P SYNCOPAL/HYPOTENSIVE EPISODE  ~ 0615 TODAY.
+
+PT HAS H/O CAD,PVD, CAROTID DISEASE, CLAUDICATION; SEVERE COPD AND ARTHRITIS. HE WAS ADMITTED TO OSH [**9-21**] WITH C/O RIGHT ARM HEAVINESS, DIAPHORESIS, SOB AND PALPITATIONS(NO EKG OR ENZYME CHANGES). CATH [**9-23**] REVEALED 3 VSL DISEASE: 100% RCA, 80% LAD, 90% LCX...EF 65%.
+HE WAS TRANSFERRED TO [**Hospital1 10**] FOR CABG ON [**9-27**]; HEPARIN INFUSING.
+..OF NOTE: LEFT BRACHIAL ACCESS WAS REQUIRED FOR CATH D/T INABILITY TO ACCESS LEFT FEMORAL. PT HAS MOD/LARGE LEFT GRION HEMATIOMA AND ECCHYMOSIS THAT EXTENDS TOWARD LEFT FLANK AND TO SCROTUM & PENIS. 
+...LEFT ARM IS EDEMATOUS, ECCHYMOTIC ,AND TENDER AT ANTICUBITAL AREA D/T POST CATH BLEEDING.
+
+...PT'S HCT [**9-21**]> 24; HE RECEIVED 2U PC'S WITH POST-TRANSFUSION HCT OF 33 [**9-24**].
+
+SYNCOPAL/HYPOTENSIVE EPISODE REPORTEDLY OCCURED WITH PT'S ATTEMPT TO GET OOB TO USE BATHROOM.HE REPORTS BEING FRUSTRATED BECAUSE HIS ABILITY WAS LIMITED D/T ATTACHMENT TO INFUSION PUMP. HE CLAIMS HE ""DID NOT FEEL WELL"" AND DEVELOPED CHEST PAIN RELATED TO HIS ACTIVITY AND FRUSTRATIONS. HE CALLED FOR HELP AND GOT ASSISTANCE FROM THE NURSE. HE WAS ASSISTED BACK TO BED AND BECAME UNRESPONSIVE WITH BP REPORTED TO 60'S AND DROP IN SATS. HE RESPONDED TO FLUIDS AND BAG/MASK WITH IMPROVED BP AND SATS. ABG  ON 100% WNL.
+..MLC PLACED, CXR DONE...PT TRANSFERRED TO ICU CARE AND TRANSFERRED TO MEDICINE(DR [**First Name (STitle) **]).
+
+ROS/SICU COURSE:
+NEURO- AWAKE/ALERT; SLIGHTLY DISORIENTED TO PALCE/TIME AT TIME OF TRANSFER, BUT QUICKLY REORIENTED. MAE'S(LEG ARE WEAKER) FOLLOWS CONSISTENTLY. ANXIOUS WITH ALL THE ACTIVITY/EVENTS AOF THE DAY. VARIOUS ACHES/PAINS/DISCOMFORTS...BUT PT PLEASANT COOPERATIVE AND WITH PERSISTENT SENSE OF HUMOR.
+
+RESP- 2L NC WITH SATS MAINTIANED 98-100%. RR 18-25. BREATH SOUNDS ARE DISTANT THROUGHOUT, DECREASED AT BASES, WITH ? FINE INSP WHEEZE AND ??CRACKLES. NO C/O SOB/DYSPNEA. PT TO FOLLOW HOME REGIMEN FOR INHALERS/NEBS FOR HIS COPD.
+..ABG WNL. RIGHT RADIAL ARTERIAL LINE PLACED.
+..NO SPUTUM PRODUCTION
+
+CVS- HR IN NSR W/O ECTOPY @ 70'S-100. BP ON ADM WAS 70 SYSTOLIC. GOAL IS TO MAINTAIN MAP >65. PT RESPONDS TO FLUID BOLUSES. NO MAINTENANCE IVF AT THIS TIME. HE HAS RECEIVED ~ 3L NS AND 2U PRBC'S FOR HEMODYNAMIC & HCT SUPPORT. PT IS VERY SENSITIVE TO AGENTS CAUSING VASODILATION: MSO4 .5MG AND SL NTG .4MG>>CAUSING IMMEDIATE DROP IN BP TO 70-50 SYSTOLIC RANGE. PT ALSO SENSITIVE TO NOXIOUS STIMULI CAUSING VAGAL LIKE REACTION: WITH INSERTION OF FOLEY CATHETER, PT HAD DROP IN B.P. TO 50'S.
+** PT HAD ONE EPISODE OF HYPOTENSION TO ~ 40 WITH DECREASED RESPONSIVENESS AND AGONAL BREATHING...BUT RESPONDED TO TRENDELENBERG, IVF BOLUS, AND INCREASE IN O2 SUPPORT WITH BAG MASK BRIEFLY.
+
+MULTIPLE EKG'S DONE; RIGHT LEAD EKG DONE; CARDIAC ENZYMES ARE BEING CYCLED.
+ELECTROLYTES ARE BEING MONITORED & REPLETED AS NEEDED.
+
+CVP MONITORED 10>[**5-20**]> 4.
+
+RENAL- NO VOID; PT STATING FEELING FULL. FOLEY INSERTED WITH 300CC CLEAR YELLOW URINE DRAINED.
+..BUN/CREAT- 30'S /1.0
+
+ID- 
+",,
+13384,21328,16659,0,2866-09-25 16:23:00 EST,2866-09-25 17:23:00 EST,3210,"N",53,"Nursing/Other","CITIC/SICU NSG ADMISSION NOTE","
+CITIC/SICU NSG ADMISSION NOTE
+(Continued)
+TEMP-94.7>> 97 WITH WARM SKIN BUT COOL PALE HANDS & FEET. FAINT PALPABLE PULSES IN LEFT WRIST. SLOW CAP REFILL.
+    WBC 22. BLOOD CULTURES X2; URINE SENT FOR U/S & C&S. EMPERIC ANTIBIOTICS STARTED- GENT & VANCO
+
+HEME- HCT DROP TO 26 THIS AM (30 ON ADM) T& C FOR 2U'S WHICH HE RECEIVED. POST-TRANSFUSION HCT- 28.
+      HEPARIN AT 550U/HR WITH PTT 98; HEPARIN DRIP REDUCED TO 450U/HR AND THEN D/C'D PER MED REQUEST UNTIL BLEEDING RULED OUT.
+
+*** PT TO CT FOR HEAD, ABD, PELVIS SCANS TO R/O ACTIVE BLEEDING. REPORTS PNDING AND HEPARIN REMAINS ON HOLD. PTT CURRENTLY 32 WITH INR 1.2.
+
+GI- NPO; ABD IS SOFT WITH BOWEL SOUNDS. PT HAS TENDERNESS IN RLQ CONSISTENTLY WITH PALAPTION. PATENT BOWELS: MOD SIZED SOFT BROWN STOOL.
+*** PT REPORTS WEIGHT LOSS OVER PAST FEW MONTHS. USUAL WEIGHT ~ 135. weight as of 10/13- 116lbs. NO REPORTED CHANGE IN DIETARY HABITS.
+
+SKIN- NO PRESSURE AREA BUT IMPAIRED SKIN AREAS D/T BLEEDING S/P CATH
+..LEFT FEMORAL AREA WITH MOD SIZE HEMATOMA AND ECCHYMOSIS EXTENDING FROM FLANK TO SCROTUM AND PENIS. CONT WITH SCANT SANGINOUS OOZING; PRESSURE DSG APPLIED. WEAKLY PALPABLE DP PULSES. DRY, SCALEY SKIN ON FEET.
+...LEFT ARM EDEMATOUS FROM AXILLA TO MID FORARM; ECHYMOSIS EXTENDS FROM AXILLA TO HAND. SCANT DRAINAGE FROM ANTECUBITAL SITE. + PAIN AT STICK SITE. ARM ELEVATED.
+... ECCHYMOTIC AREA NOTED ON FLOOR OF MOUTH UNDER TINGUE; NO BLEEDING OBSERVED.
+
+SOCIAL- LIVES WITH WIFE; HAS 2 SONS. WIFE WAS CALLED BY C-[**Doctor First Name **] TEAM THIS AM TO INFORM HER OF EVENTS AND TRANSFER TO UNIT. NO CALLS FROM FAMILY.
+
+COMFORT- C/O CP AS REPORTED...S EE CAREVIEW FOR SPECIFICS.
+         C/O PAIN IN LEFT GROIN R/T HEMATOMA- ICE & MSO4... WITH ICE HELPING. C/O ACHING PAIN IN CALVES AND ANKLES..?? COMBO OF ARTHRITIC AND CLAUDICATION DISCOMFORT. GIVEN TYLENOL AND ICE PACKS TO ANKLES WITH SOME RELIEF. PT INITIALLY TREMULOUS FROM FEELING COLD & ANXIOUS..SOME IMPROVEMENT THROUGHOUT THE DAY.
+
+A/P  PT WITH 3 VSL DISEASE..S/P CATH..S/P SYNCOPAL/HYPOTENSIVE EPISODE
+     R/O PROTOCOL
+     EVALUATING FOR ETIOLOGY OF UNSTABLE HEMODYNAMICS.
+
+     CONTINUE WITH CURRENT PLAN OF CARE: SEE ORDERS AND ABOVE INTEVENTIONS.
+     CHECK CT REPORTS.
+",,
+13384,21328,16659,0,2866-09-26 04:25:00 EST,2866-09-26 04:46:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: AAO, PLEASANT & COOPERATIVE 
+
+CV: NSR VSS PER FLOWSHEET. PT. AWAKENED BY RN (TO HANG PRBC). SHORTLY AFTER C/O ""GASSY"" & RT. ARM DISCOMFORT. FREQUENT BELCHING BY PT. GIVEN 1 SL NTG & MSO4 1MG IV W/ RESOLUTION OF SYMPTOMS. PT BACK TO [**Doctor Last Name **] RESTING QUIETLY. BIL. DP DIFFICULT TO AUSC. BY DOPPLER. ( PMH OF PVD, PT STATES PULSES HARD TO FIND). LT. ARM EDEMATOUS/DK.PURPLE ECHYMOSIS RAD. EASILY PALP. LT. GROIN/UPPER THIGH ALSO ECHY/DK. PURPLE EXTENDING TO SCROTUM.
+
+RESP: 2L N/C. 02 SAT > 96%. LUNGS CLEAR/DIM THROUGHOUT. USES PURSE LIP BREATHING W/ EXERTION. NEBS PRN W/GD EFFECT. DENIES DYPSNEA. GD. NON-PRODUCT. COUGH NOTED
+
+GU: FOLEY QS YELLOW URINE.
+
+GI: ABD SOFT W/ HYPO BS. C/O HUNGER  DENIES NAUSEA. NPO AT PRESENT
+
+SKIN: INTACT W/ BRUISING AS NOTED ABOVE. COCCYX PINK INTACT
+
+PAIN: C/O GENERALIZED DISCOMFORT GREATER IN LT. ARM/LEG->MSO4 W/EFFECT
+
+ASSESS: STABLE PM W/ ONE EPISODE AS NOTED ABOVE, RESOLVING QUICKLY.
+QUIET & SLEEPING MUCH OF SHIFT. HCT 29-> GIVEN 1 UNIT PRBC
+
+PLAN: CONT TO MONITOR. FOR CABG ON MONDAY. ? GIVE DIET UNTIL NPO AT MN. PRN NTG/MSO4.  MONITOR LABS
+
+",,
+13384,21328,16659,0,2866-09-26 13:43:00 EST,2866-09-26 13:44:00 EST,3123,"N",54,"Nursing/Other",,"
+
+RESP CARE
+PT FOLLOWED FOR ALBUTEROL/ATROVENT NEBS Q4PRN. PER PT HE USES HOME NEBS 4-5XDAY. HX COPD WITH FEV1 24%PREDICTED. BS MARKEDLY DIMINISHED. WILL FOLLOW. PT IS PREOP FOR CABG. 
+",,
+13384,21328,16659,0,2866-09-26 18:15:00 EST,2866-09-26 18:24:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro a+ox3 follows commands.
+cv/resp stable no gtts. 3 separate episodes of chest pressure. one at 0835, one at 10 am, and one at 1845. all 3 episodes relieved by one sl ntg. bp down after ntg but comes right back up with no intervention. H.O. is aware pt. is having episodes of pain/pressure. wants to be called if pain is not relieved by sl ntg. 
+gi/gu npo after midnight tonight for ? surgery tomorrow. has had sips clears today. foley with good uop. no stools.
+integ left arm remains purple with fingers pale. good radial pulses. wedding ring removed from swollen finger. pt. refused to lock in hospital safe. wrapped in plastic bag and labeled with pt.s name and put in patients shaving/cosmetic bag.
+left arm sl removed. skin intact.
+venodynes placed on.
+",,
+13384,21328,16659,,2866-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-27**] 2:19 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 15309**]
+     Reason: syncopal episode
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, PVD, CAD, CVA in past
+     REASON FOR THIS EXAMINATION:
+      syncopal episode
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  PRIOR STROKE.  ? TIA.
+     
+     FINDINGS:  Duplex evaluation was performed of both carotid arteries.  On the
+     right, the internal carotid artery is occluded.  Peak systolic velocities are
+     59, 142 in the CCA, ECA respectively.
+     
+     On the left, mild plaque is identified.  Peak systolic velocities are 72, 78,
+     88 on the ICA, CCA, and ECA respectively.  The ICA/CCA ratio is 0.92.  This is
+     consistent with less than 40% stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:  Occluded right internal carotid artery.  Less than 40% stenosis
+     in the left internal carotid artery.  There is normal antegrade flow in both
+     vertebral arteries.
+
+",,
+13384,21328,16659,0,2866-09-27 03:06:00 EST,2866-09-27 03:16:00 EST,-1,"N",54,"Nursing/Other","crsu update","
+crsu update
+NEURO: AAOX3 PLEASANT & COOPERATIVE
+
+CV: STABLE PM  NO EPISODE ""ARM PAIN""  NO DRIPS. ?PRE-OP CABG [**9-27**]. HIBICLENS SCRUB DONE. PEAL PULSES AS NOTED, NO CHANGE FROM [**9-25**].
+
+RESP: STABLE 02 2LN/C, DENIES DYPSNEA  SOME PURSE LIP BREATHING W/ MIN. EXERTION LUNGS DIM BILAT.
+
+GU: QS YELLOW URINE VIA FOLEY
+
+GI: SIPS PRIOR TO MN, NOW NPO
+
+SKIN: CONT DEEP ECHYMOSIS/HEMA. OF LT. ARM/GROIN
+
+ASSESS: STABLE PM
+
+PLAN: ? FOR CABG TODAY. CONT TO MONITOR
+
+
+",,
+13384,21328,16659,0,2866-09-27 13:01:00 EST,2866-09-27 13:14:00 EST,3819,"N",54,"Nursing/Other",,"
+
+NEURO~PT ALERT AND ORIENTATEDX3~PLEASANT AND COOPERATIVE. PT SCHEDULED FOR CAROTID STUDY THIS AFTERNOON. 
+
+CV~SR WITHOUT ECTOPY. CP X2 TODAY PRECEEDED WITH ACTIVITY, SUCH AS TURNING IN BED OR EATING~RELIEVED WITH 1 SL NITRO. HCT OF 25.6~PT TO BE TRANSFUSED WITH A TOTAL OF 2 UNIT OF PRBC.  PREMED WITH BENEDRYL AND TYLENOL. LOPRESSOR CONTINUES AT 50MG BID AND CAPTORPIL 6.25MG TID ADDED. AWAIT EKG. PT PREOP FOR CABG X3 IN AM WITH DR [**Last Name (STitle) **]. R ARM ECCHYMOTIC/HEMTOMA +ULNAR AND RADIAL PULSES~PT STATES LESS TENDER THAN YESTERDAY. L GROIN HEMATOMA/ECCHYMOTIC +DP/PT BY DOPPLER. NO HEPARIN B/C HEMATOMA. L GROIN U/S NEGATIVE.  
+
+RESP~LS DIMINSHED BILATERALLY THRUOUT, O2 AT 2L.
+
+GI~ACTIVE BS. NO BM.  PT STARTED ON NAS/LOW CHOLESTEROL DIET BECAUSE SURGERY NOT UNITL TOMORROW.
+
+GU~ADEQUATE U/O. 
+
+ID~PT WITH ELEVATED EBC, 16.3 DOWN FROM PEAK OF 22.0. H/O STRESS DOSE STEROIDS, CURRENTLY OF PREOP REGIME OF 4MG QD. AFEB. VANCO AND GENTAMYCIN D/C'S AND PATIENT STARTED ON OXACILLIN Q4. BC PENDING, UA PRELIMANARY NEGATIVE. 
+
+PLAN~AWAIT CAROTID STUDY AND EVALUATION OF L ARM~PLAN PREOP FOR AM~?NEED TO ADD IV NITRO IN CP CONTINUES. DAUGHTER IN LAW UPDATED VIA PHONE AND TO CALL WIFE.  
+
+
+
+",,
+13384,21328,16659,0,2866-09-27 21:13:00 EST,2866-09-27 21:17:00 EST,3204,"N",54,"Nursing/Other",,"
+
+INCREASED FREQUENCY & INTENSITY OF CP,RT. ARM PAIN. EXACERBATED BY ANY ACTIVITY SUCH AS TURNING,SEVERE COUGHING. SL NTG & MSO4 GIVEN. I.V. NTG GTT STARTED,WILL TITRATE TO PAIN. WHEEZY COUGHING FITS PARTIALLY RELIEVED W ALBUTEROL NEB. ROBITUSSIN STARTED AT PT. REQUEST. DR. [**Last Name (STitle) **] TO BEDSIDE,DISCUSSED PT.'S OPTIONS & FURTHER TX. CALMER,SLEEPING IN NAPS AFTER ABOVE. PLAN STENTING FOR WEDNS.
+",,
+13384,21328,16659,,2866-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-28**] 2:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15310**]
+     Reason: cough, acute sob
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD, PVD and arthritis found to have 3 vessel dz on
+      cath, scheduled for stent.
+       
+      Please page me with wet reading [**Pager number 15311**] [**Doctor Last Name **] Thanks.
+     REASON FOR THIS EXAMINATION:
+      cough, acute sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CORONARY ARTERY DISEASE.  COUGH.  SHORTNESS OF BREATH.
+     
+     A right subclavian central venous catheter remains in place.  No pneumothorax
+     is evident.  The heart size is normal.  The aorta is tortuous.
+     
+     The lungs demonstrates overall paucity of vessels in the upper zone suggesting
+     emphysema.  There is apparent new increased opacity in the right lower lung
+     zone.  There is stable slight blunting of right costophrenic sulcus likely due
+     to scar.  The left lung remains clear.
+     
+     IMPRESSION:  New confluent right lower lobe opacity.  In the appropriate
+     clinical setting, this may reflect a focus of aspiration or early pneumonia.
+     Pathcy atelectasis is also possible.
+
+",,
+13384,21328,16659,,2866-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+13384,21328,16659,0,2866-09-28 01:35:00 EST,2866-09-28 01:57:00 EST,3401,"N",54,"Nursing/Other","Update","
+Update
+S: ""I am really disappointed that they decided they cannot operate. I had set my hopes on having this be a more permanent solution to my heart problems.I guess they think that because of my lungs that I would be better off having the stent.""
+O: sr to [**Last Name (un) 44**] w bp 120-160 sys while discussing the most recent changes in planned management of his chest pain. Denies chest pain on 50 mcg/min,gtt titrated ^ to 75 mcg for better management of bp at this time. Distal pulses bilat w doppler as noted and lt arm radial/ulnar pulses checked & +. Lt arm grossly ecchymotic and edema noted, temp [**Male First Name (un) 45**] & dry( ^ 1 pillow for swelling). Lt groin & scrotal ecchymosis/hematoma->no increase per prior shift assessment.
+
+Resp status: Currently resp status stable,non-labored brth snds w adeq sats on np at 2 lpm. Brth snds essent clear w few crackles lt base.
+
+Gi status: Tol po's. Abd soft bowel snds+.
+
+Gu status: huo qs cl yellow urine via foley cath.
+
+Neuro/psych status: Pleasant awake,alert,oriented &legally blind gentleman verbalizing disappointment in change of rx plan. Pt teaching done re: stenting and benefits of same.Emotional support given re:pt concerns.Pt calmer and able to drift off to [**Doctor Last Name 8**] after pt able to verbalize his concerns.
+
+A/P; Hemodynamically stable and chest pain free on iv ntg for same at 50-75 mcg/min.Awaiting Angioplasty w stent tentatively planned for Wednesday [**9-29**]. Long standing hx of copd on inhalers at home-> reassess freq for nebs if needed.Titrate ntg for management of cp wean as tol.Hematomas after cc. Assess circ freq of lt arm and ble's.
+",,
+13384,21328,16659,0,2866-09-28 14:07:00 EST,2866-09-28 14:19:00 EST,3819,"N",54,"Nursing/Other",,"
+
+neurologically~intact. 
+
+cv~sr without ectopy. nitro drip titrated for cp and to keep sbp <120. no evidence of cp thru day. lopressor increased to 75mg bid. hct stable. pulses as documented. 
+
+resp~decreased thru out~inhalers as ordered~pt with c/o difficulty raising secretions this afternoon~atrovent neb given with resolvement~inhalers written for q4hrs. o2 decreased tio 1l to keeps sats >92 %.
+
+gi~tolerating po's~colace started~pt without bm x multiple days. 
+
+gu~adequate u/o. 
+
+id~iv oxacllin rtc. wbc @15.3 afeb. ua negative. bc pending. 
+
+plan~pt nonsurgical candidate~plan for stent early in am. pt and family aware of plan. 
+",,
+13384,21328,16659,0,2866-09-28 17:19:00 EST,2866-09-28 17:32:00 EST,3760,"N",54,"Nursing/Other",,"
+
+CV:  NSR, no ectopy. SBP 130's. Nitro increased for BP. No CP. 
+Pulm:  1L/NC with good sats. Coughing on own, no sputum. 
+Skin:  Purple left arm, hematoma at [**Last Name (un) **] site. Ecchymotic areas over left groin, hematoma. 
+GU/GI:  Good urine output. Ate 100% dinner. No BM yet. 
+Neuro:  Alert, oriented, very pleasant.
+Plan:  Monitor for CP, BP. Stent tomorrow.
+",,
+13384,21328,16659,0,2866-09-29 01:42:00 EST,2866-09-29 01:57:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**9-28**] 7p-7am; SHIFT SUMMARY;
+
+NEURO; ALERT ORIENTED FOLLOWS COMMANDS AND MAE'S WELL. PT VERY ANXIOUS CONCERNING PROCEDURE THIS AM AND AWAKE MOST OF THE NOC. PT GIVEN ATIVAN 1MG PO AT 10PM FOR [**Doctor Last Name **] WITH LITTLE EFFECT.  DR [**Last Name (STitle) **] AND PT GIVEN TRAZADONE 50 MG PO WITH MINIMAL EFFECT.  FINALLY WENT ASLEEP AFTER GIVING PT MS04 1MG IV FOR GENERALIZED DISCOMFORT.
+
+RESP; NO C/O'S SOB LUNGS CLEAR BUT DIM.THRU OUT. PURSE LIP BREATHING NOTED ALOT. 02 SAT'S AND RR WNL ON 1L/M.
+
+CARDIOVAS; HR 80-90'S NO ECTOPY. TOLERATED BID DOSE OF LOPRESSOR 75MG PO.  ADDITIONAL DOSE OF LOPRESSOR 25MG PO GIVEN PER ORDERS AT 0200 D/T HR IN THE 90'S AND WANT HR IN THE 70'S TO DECREASE WORKLOAD OF THE HEART.  PT ON IV NTG AT 150 MCG/MIN WITH NO C/O CPAIN. SBP AND MAP WNL SEE CAREVIEW FLOWSHEET FOR VS.
+
+GI; TAKING AND TOLERATING DIET WELL BUT NPO AFTER MIDNIGHT FOR STENT PLACEMENT IN CATH LAB THIS AM. NO C/O'S NAUSEA.
+
+GU;  URINE OP WNL.
+
+SKIN; LT ARM ENTIRELY PURPLE WITH DOPPLER ULNAR AND RADIAL PULSES. LT GROIN ALSO ECCYMOTIC AND POSITIVE FOR HEMATOMA WITH ECCYMOSIS RUNNING DOWN POSTERIOR PART OF THE LEG.  DP AND PT POSITIVE BY DOPPLER ALSO.
+
+
+",,
+13384,21328,16659,0,2866-09-29 06:02:00 EST,2866-09-29 06:23:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**9-29**] SHIFT UPDATE;
+
+AWOKE THIS AM AND SLIGHTLY CONFUSED TO TIME AND PLACE.  FORGOT WHERE HE WAS BUT EASILY REORIENTED. ALSO ASKING IF HIS MOTHER WAS HERE AND I ASKED HOW OLD HIS MOTHER WAS AND HE SAID 23. PT REORIENTED AND MORE CLEAR AS THE CONVERSATION CONT'D.  HE THEN STATED HE HOPES HE MAKES IT TO [**10-12**] AND WHEN ASKED WHAT THAT DAY WAS HE SAID HIS BIRTHDAY AND HE WOULD BE 80 YRS OLD.
+",,
+13384,21328,16659,0,2866-09-29 12:01:00 EST,2866-09-29 12:14:00 EST,3819,"N",54,"Nursing/Other",,"
+
+NEURO~PT ORIENTATED X2 TO PERSON AND TIME, DISORIENTATED TO PLACE, AT TIMES ASKING ""IF AT THE TRAIN STATION""  BUT WILL REORIENT. NO SEATION GIVEN TODAY. 
+
+CV~SR WITHOUT ECTOPY. EKG COMPLETED. NITRO AT 150MCG/MIN AND PATIENT WITHOUT ANY EPISODES OF CHEST PAIN. L ARM RED/PURPLE WITH RESOLVING HEMATOME~+RADIAL AND ULNAR PULSES BY DOPPLER~EXTREMITY WARM TO TOUCH. L GROIN PURPLE WITH RESOLVING HEMATOMA~+DOPPLER DP/PT R&L. VENODYNES INTACT. HCT STABLE. ASA INCREASED 325MG QD. 
+
+RESP~ATROVENT NEBS Q 4~PT STATE INHALERS ""DON'T WORK WELL FOR HIM""~CXR FROM YESTERDAY SHOW ?RLL CONSOLIDATION VS ATELETASIS~TO STARTED ON LEVOFLOXIN. SATS STABLE ON 1L NP. LS DIMINSHED~NONPRODUCTIVE COUGH TODAY. 
+
+GI~+PRESENT BS. NP BM YET. COLACE BID. NPO SINCE MIDNOC FOR ? CARDIOLOGY INTERVENTION TODAY. 
+
+GU~U/O ADEQUATE VIA FOLEY. 
+
+SKIN~IMPAIRED~THIN~ECCHYMOTIC AREAS AS DOCUMENTED. BUTTOCK REDDEN BUT INTACT~PT TURNED AS TOLERATED. 
+
+PLAN~PT IS SCHEDULED FOR STENT THIS AM~DR [**Last Name (STitle) 4757**] HAS SPOKE TO PATIENT, WIFE, PT AGREED TO PROCEDURE YET WANTED DR [**Last Name (STitle) 4757**] TO SPEAK WITH SON PRIOR TO FINAL COMMITMENT. R RADIAL ALINE D/C'D FOR ? RADIAL VS BRACHIAL APPROACH AND D5 1/2NS AT 100CC/HR STARTED. AWAIT WORD FROM DR [**Last Name (STitle) 4757**]. 
+",,
+13384,21328,16659,0,2866-09-29 18:06:00 EST,2866-09-29 18:11:00 EST,3114,"N",54,"Nursing/Other",,"
+
+CSRU UPDATE 3-7PM
+
+O: PT NAPPING INTERMITTENTLY, FAMILY IN TO VISIT. DR. [**Last Name (STitle) 4758**] FROM CARDIOLOGY IN TO SPEAK WITH PT AND FAMILY ABOUT STENT PROCEDURE TOMORROW, QUESTIONS ANSWERED AND PT AND FAMILY AGREED TO HAVE PROCEDURE IN AM. NEB TREATMENT X1. APPETITE GOOD. UOP ADEQUATE. 
+A: NO C/O CP OR SOB, NTG CONT AT 150MCG/MIN.
+P: NPO AFTER MIDNOC FOR STENT/CATH LAB.
+
+",,
+13384,21328,16659,,2866-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-9-30**] 8:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15312**]
+     Reason: NGT placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD, PVD and arthritis found to have 3 vessel dz on
+      cath, scheduled for stent.
+     REASON FOR THIS EXAMINATION:
+      NGT placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  COPD, CAD, PVD, arthritis, and preop assessment.
+     
+     CHEST, SINGLE VIEW:  Direct comparison is made to a prior study dated
+     [**2866-9-28**].  There is no interval change in a right IJ line.  There is a new NGT
+     whose tip is at least as distal as the stomach.  There is a small right
+     pleural effusion.  There are increased lung volumes.  The cardiac size is
+     within normal limits.  No areas of consolidation are identified.
+     
+     IMPRESSION:
+     1)  An NGT whose tip is at least as distal as the stomach.
+     2)  A small right effusion.  Hyperinflation.
+
+",,
+13384,21328,16659,0,2866-09-30 02:36:00 EST,2866-09-30 02:53:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**9-29**] 7P-7A SHIFT SUMMARY; 
+
+NEURO; INITALLY SLEEPY BEGINNING OF SHIFT. THEN AS NOC PROGRESSED MORE AWAKE CONFUSED TO TIME AND PLACE. BECAME SLIGHTLY AGGITATED WHEN C/O ARTHRITIS PAIN REQUESTING ICE PACKS TO BE PLACED ON HIS LT HIP AND LT TOES. STATES THAT IS WHAT HE DOES AT HOME. BECAME SO ANXIOUS AND RESTLESS WITH ARTHRITIS DISCOMFORT STARTED C/O OF CHEST PAIN.
+
+CARDIOVAS; SR 60-90'S NO ECTOPY. ON IV NTG AT 150 MCG/MIN AND WITH C/O CHEST PAIN PT GIVEN 1 SL NTG AND IV NTG UP TO 152 MCG/MIN ALONG WITH MS04 1MG IVP GIVEN WITH GOOD EFFECT. ALSO HELPED WITH ARTHRITIS DISCOMFORT. PT TOLERATING LOPRESSOR 100 MG PO PER ORDERS.
+
+RESP; PURSE LIP BREATHES MOST OF TIME NO C/O SOB AND LUNG SOUNDS DIM. THRUOUT. PT WITH SWALLOW BREATHING  NOTED. NEB TX GIVEN BY RESP. TX.
+
+GI; NPO AFTER MIDNIGHT FOR STENT THIS AM. IV TO BE STARTED OF D5 [**12-15**] AT 0700. NO BM THIS SHIFT BS PRESENT AND PT WITH NO C/O'S OF NAUSEA.
+
+GU; URINE OP WNL AND NOT AN ISSUE.
+
+SKIN; LT ARM REMAINS EDEMATOUS AND PURPLE FROM FINGERS TO TOP OF ARM. ULNAR AND RADIAL PULSES PRESENT BY DOPPLER. LT GROIN TENDER TO TOUCH WITH NOTED HARD HEMOTOMA AND ECCYMOTIC. SCROTUM EDEMATOUS AND ALSO PURPLE IN COLOR. LT LEG DP AND PT PRESENT BY DOPPLER.
+
+",,
+13384,21328,16659,0,2866-09-30 09:39:00 EST,2866-09-30 09:59:00 EST,3819,"N",54,"Nursing/Other",,"
+
+TRANSFER NOTE~
+
+PT IS AN 79 YR OLD MALE WHO WAS ADMITTED TO THE MICU SERVICE S/P UNRESPONSIVE/HYPOTENSIVE EPISODE ON [**Hospital Ward Name **] 6. CODE CALLED~NO COMPRESSION/DEFIB OR PRESSORS NEEDED~PT TO CSRU FOR FLUID RESUSITATION AND MONITORING.
+ 
+PMED H/O COPD, STEROIDS, INHALERS NEBS AT HOME. CAD 3 VEESSEL DZ, PVD. 
+
+S/P L BRACHIAL CATH POST FAILED L FEM APPROACH. LARGE HEMATOMA TO L ARM AND R GROIN~RESOLVING. CT ABD/PELVIS NEGATIVE FOR RETOPERITONEAL BLEED, SIGNIFICANT FOR 3.3CM AAA. U/S L THIGH - PSEUDOANEURYSM. HEAD CT- FOR ACUTE HEMMORHAGE. CAROTID U/S COMPLETE OCCLUSION OF [**Country **] AND NO SIGNIFICANT STENOSIS ON L. 
+
+PT POOR SURGICAL CANDIDATE~REFUSED FOR CABG. PLAN STENT THIS AM POST LONG DISCUSSION WITH FAMILY AND PATIENT RE: HIGH RISK PROCEDURE. 
+
+NEURO~PT ORIENTATED X2~DISORIENTATED TO PLACE AT TIME BUT REORIENTS QUICKLY. 
+
+CV~SR WITHOUT ECTOPY~80'S NITRO DRIP AT 152MCG/MIN. LAST EPISODE OF CO WAS AT 0100 THIS AM RESOLVED POIST 1 SL NITRO AND 1MG MSO4. PULSES AS DOCUMENTED. R AND L DP DOPPLER, L AND R PT DOPPLER~R PT FLEETING AT TIMES. L ULNAR/RADIAL DOPPLERABLE. VENODYNES ON. HCT STABLE. EF 65%. 
+
+RESP~LS DIMINISHED THRUOUT~1L NP WITH ADEQUATE SATS. INHALERS, NEB ATROVENT Q4 BY RESP. SPRIO WITH 500-700 FOR TV. CXR FOR ?RLL CONSOLIDATION VS ATELECTASIS. 
+
+GI~+BS, NO BM~NPO SINCE 2400. IVF D5 1/2 NS AT 100CC/HR. PROTONIX QD. 
+
+GU~ADEQAUTE AMBER U/O VIA FOLEY. 
+
+SKIN~IMPAIRED~AS DOCUMENTED. 
+
+ID~ AFEB, OXACILLIN~Q4 FOR TREATMENT OF L ARM CELLULITIS, LEVO STARTED YESTEREDAY FOR SUSPICIOUS CHEST FILM. WBC 14.1 TODAY DONE FROM HIGH OF 22.0
+
+PLAN~TO CATH LAB THEN TO CCU. FAMILY WILL BE IN HOSPITAL POST PROCEDURE.
+
+",,
+13384,21328,16659,0,2866-09-30 18:50:00 EST,2866-09-30 19:23:00 EST,3760,"N",54,"Nursing/Other",,"
+
+Pt readmitted to CSRU from cath lab. Arterial and venous right fem lines in place, arterial sheath removed by resident-no hematoma. Blood transfusing thru multi-lumen when arrived. Pericardial drain to vaccuum bottle with 350cc blood in it. Cath lab attending at bedside, flushed drain and wants this repeated often. Foley in place with blood-tinged urine. Dopa infusing at 10 mcg/kg/min. 
+
+CV:  NSR, no ectopy. SBP 130's, weaning dopa down. Pericardial drain hook to vaccuum bottle, draining small amts sanginous fluid.
+Pulm:  4L/NC decreased to 1L/NC to room air, sats good. Left side more decreased than right for breath sounds.
+GU:  Blood-tinged urine.
+GI:  Hypo bowel sounds.
+Skin:  Skin abbrassion on right lower arm. Approx 1"" x 1 [**12-15**]"" area with several layers of skin missing. Draining small amt blood and copious amts serous fluid. Wet to dry dsg applied.
+Neuro:  Pt moving all ext. Speech is garbled. Eyes opening to very loud speech, sternal rubbing.  
+
+
+",,
+13384,21328,16659,0,2866-10-01 03:06:00 EST,2866-10-01 03:27:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt initial returned unresponsive only making garbbled sounds and opening eyes with heavy stimulation. pt awoke around 0100 talking with garbbled speech and then at 0200 much clearer oriented x3 and answering questions appropriately. pt does move all extremities.
+Resp: o2 sat 96% on 3l np
+C/V: Around 8pm pt dropped bp to 40's with ra pressure increasing to 18. pericardial drain at time draining minimal amount. fluid wide open and dopa increased to 15mcg/kg/min. pericardial drain irrigated with sterile saline. drain output increased and drained 400cc. bp improved and ra pressure decreased to [**7-27**]. pt received 1u prbc and 1 u ffp after episode. pericaridal drain now being irrigated every 1hour. no increase in drainage. drain draining minimal amounts but bp and ra pressure remain stable. pt developed chest pain around 0200 trreated with 2sl ntg without relief ekg obtained no changes noted per ho pt given mso4 2mg iv with relief pt sleeping. pt turned to right side and pericardial drainage increased dumping out 600cc. Ho notified 1 unit prbc ordered with 2nd unit on hold.
+",,
+13384,21328,16659,0,2866-10-01 05:22:00 EST,2866-10-01 05:33:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Around 0400 after had been turned to right side pericardial drainage increased pt had drained 700cc and was continuing to drain. vss at time. ho notified. labs sent ho and cardiac fellow in to see pt. bp dropping 2 units of prbc infused bolus of 400cc lr given and dopa increased to 10mcg/kg/min. Cardiac echo done by fellow thoracic service notified and in to see pt..pt not a surgical candidate at present 2nd to plavix on board. Hct prior to transfusion returned at 24.7 down from 30.6. bp stablized out dopa brought back down to 6mcg/kg/min. maintance fluilds running LR at 200cc/hr. pt became very tachy after dopa increased with a rate up to 120's back down to 110's. pt to receive 8u plts this am. Will continue to gently irrigate pericardial drain to maintain patency. troponin has jumped from 6.4 post procedure to 23.6 this am. ?possible ischemia 2nd to low Hct.  
+",,
+13384,21328,16659,0,2866-10-01 13:40:00 EST,2866-10-01 14:41:00 EST,-1,"N",54,"Nursing/Other",,"
+
+CARDIAC~PERICARDIAL DRAIN IRRIGATED W/ 2 CC'S NS Q 2/HRS. IRRIGATES EASILY. NO DRAINAGE SINCE 0600. CARDIAC ECHO X2 TODAY. CLOT FORMING AROUND RV. CONT ON DOPAMINE @ 6 UCG/KG/MIN MAINTAINING SBP > 90. ATTEMPTED TO WEAN THIS AFTERNOON UNSUCCESSFUL. HR 120'S OCC ^130. NS BOLUS OF 500CC'S FOR CVP 4, W/^ 10. CT STABLE.
+ 
+NEURO~A+O X 3. MAE. FC. MSO4 FOR C/O CHEST DISCOMFORT W/ GOOD EFFECT. FAMILY INTO VISIT.   
+
+RESP~LUNGS CLEAR BUT DIMINISHED THRU OUT. ON 2L NP W/ SATS~98-100%.
+NEBS~Q 4 HRS PER RESP TX.
+
+GI/GU~NGT CLAMPED. EPISODE OF NAUSEA THIS AM POST MED ADMIN. NGT PLACED BRIEFLY TO LCS NAUSEA RESOLVED.  ADEQUATE U/O.  
+
+A/P~BLEEDING RESOLVING. PLAN TO LEAVE PLEURAL DRAIN IN UNTIL SUNDAY AM THEN TO D/C PER CCU + THORACIC TEAM.
+",,
+13384,21328,16659,0,2866-10-01 17:59:00 EST,2866-10-01 18:17:00 EST,-1,"N",54,"Nursing/Other",,"
+
+[**2866-10-1**]~ADDENDUM 3P-7P
+
+TYLENOL FOR C/O CHEST DISCOMFORT W/ GOOD EFFECT. HR 118-120 ST, NO ECTOPY. DROP IN CVP FROM [**9-17**], HCT~26.9. H.O. AWARE. TO TRANSFUSE W/ 2 UNITS PRBC'S THIS EVENING. DOPAMINE @ 6UCG/KG/MIN TO MAINTAIN A SBP > 90. NS @150 CC'S HR. LEFT LEG VENODYNE BOOT DC'D. LEG OOZING MOD SEROSANG DRAINAGE. SINCE 1000 AM MIN AMT OF DRAINAGE NOTED. POS PULSES IN ALL EXTREMITIES W/ DOPPLER. SWELLING IN EXTREMITIES SIG DECREASED. LAMBS WOOL TO HEELS AND UNDER RIGHT KNEE/LEG. COCCYX SL REDDENED TURNED FREQ FROM S/S.
+ 
+",,
+13384,21328,16659,,2866-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-10-2**] 9:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15313**]
+     Reason: r/o pulmonary edema in a patient with respiratory distress
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD, PVD and arthritis found to have 3 vessel dz on
+      cath, scheduled for stent.
+     REASON FOR THIS EXAMINATION:
+      r/o pulmonary edema in a patient with respiratory distress
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of respiratory distress in patient with COPD and coronary artery
+     disease scheduled for cardiac cath and stent.
+     
+     CV line introduced via right subclavian vein is in proximal SVC. Heart size is
+     normal with tortuousity of the thoracic aorta. There is flattening of the
+     diaphragms secondary to COPD with bilateral pleural effusions and obscuration
+     of the medial aspect of the left hemidiaphragm likely due to atelectasis in
+     the left lower lobe. No overt pulmonary edema. CHF is difficult to evaluate in
+     patient with severe emphysema.
+     
+     IMPRESSION: Emphysema with small bilateral pleural effusions but no overt
+     CHF/pulmonary edema. Atelectasis in left lower lobe obscuration of medial
+     portion of left hemidiaphragm.
+
+",,
+13384,21328,16659,0,2866-10-02 05:12:00 EST,2866-10-02 05:26:00 EST,3120,"N",54,"Nursing/Other",,"
+
+NEURO: PT AWAKE ALERT ORIENTED, VERY PLEASANT AND COOPERATIVE GENTLEMAN.
+RESP: PT ON 2L NP NO C/O SHORTNESS OF BREATH UNTIL 0400 PT CALLED TO SAY HE NEEDED HIS INHALERS AND A NEB TREATMENT. ATROVENT NEB GIVEN BUT SOB DID NOT RESOLVE. BREATH SOUNDS WERE CLEAR BUT DIMINISHED O2 SAT 94-96%. HEART RATE UP TO 130.  PT VERY TACHYPNIC. HO NOTIFIED FLUIDS SLWED TO 10CC/HR AND IN TO EVALUATE PT. PT GIVEN 1MG MSO4 AND TYLENOL FOR GENERAL DISCOMFORT. SHORTNESS OF BREATH SUBSIDED AND PT FELL ASLEEP. IV FLUIDS TO REMAIN AT KVO FOR NOW. PT IS POSITIVE >3L FOR YESTERDAY.
+C/V: DOPA WEANED OFF BP REMAINED >100. HEART RATE 110-130 SINUS TACH. PERICARDIAL DRAIN IN PLACE NO FURTHER DRAINAGE SEE. R ATRIAL PRESSURE [**7-26**]. 
+GI: NGT D/C'D PT TOLERATING SIPS OF H2O WITH PILLS
+GU: URINE OUTPUTS ADEQUATE.
+SKIN: PT EDEMATOUS WITH MULTIPLE AREAS OF BRUISING. ARMS KEPT UP ON PILLOWS FOR COMFORT. L LEG DRAINING SEROUS FLUID AND HAS AREAS OF BRUISING ?FROM VENODYNE SLEEVE. SLEEVE REMAINS OFF THAT LEG. RIGHT ARM 2 OPEN AREAS FROM SKIN TEARS ADAPTIC PLACED OVER AREAS WITH W-D DSG SECONDARY TO GAUZE STICKING TO WOUND WHEN REMOVED AND CAUSING PAIN.
+PAIN: PT COMPLAINS OF GENERALIZED PAIN WHEN EVER TOUCHED OR MOVED ALL OVER AND DOES CONTINUE TO COMPLAIN OF INTERMITTENT CHEST DISCOMFORT. TREATED WITH TYLENOLX2 WITH RELIEF PER PT.
+PLAN: MONITOR CLOSELY FOR TAMPONADE OVER WEEKEND IF STABLE CARDIOLGY PLANS TO REMOVE PERICARDIAL DRAIN ON SUNDAY. 
+
+
+",,
+13384,21328,16659,0,2866-10-02 15:21:00 EST,2866-10-02 15:39:00 EST,3025,"N",54,"Nursing/Other","UPDATE","
+UPDATE
+CV: ST, MORE TACHYCARDIC(ESP W/ ACTIVITY) , UP TO 130'S. CVP 7-10. 500ML NS BOLUS GIVEN W/ DECREASE IN HR TO MID 120'S.  PERICARDIAL DRAIN INTACT, NOT DRAINING.
+
+RESP: DIMINISHED BS ON L. I.S., COUGH W/O RAISING. CONT ON Q 4 HR ATROVENT NEBS. [** **] SPO2 ON 2L NPO2.
+
+NEURO: A&O, PLEASANT. C/O MILD CHEST DISCOMFORT NEAR DRAIN; PARTIALLY RESOLVED AFTER MSO4 AND TYLENOL.
+
+G.I.: DIET CHANGED TO CARDIAC DIET. TOL LIQS AND SM AMT FRUIT FOR LUNCH.
+
+G.U.: [**Last Name (LF) **], [**First Name3 (LF) **] HUO VIA FOLEY.
+
+SKIN: NO CHANGE FROM NIGHT SHIFT ASSESSMENT. W->D DRSGS TO R ARM SKIN TEARS.
+
+LINES: R FEM CVL D/C'D BY DR. [**Last Name (STitle) **]. SITE C&D, NO HEMATOMA. SUBCLAV CVL FLUSHED AND 2 OF 3 PORTS PATENT.
+
+LABS: REPEAT HCT AND K+ PENDING.
+
+A/P: LITTLE CLINICAL CHANGE. STABLE VS. MAINTENANCE IV INCREASED TO 150ML/HR BY DR. [**Last Name (STitle) 4759**]. WILL ASSESS EFFECT ON HR, CVP, RESP STATUS. PERICARDIAL DRAIN TO STAY IN UNTIL MONDAY. 
+",,
+13384,21328,16659,0,2866-10-03 03:12:00 EST,2866-10-03 03:30:00 EST,3159,"N",54,"Nursing/Other",,"
+
+Neuro: AOx3, MAE, very pleasant. c/o SOB at begining of shift, medicated and slept in short naps thru night.
+
+Resp: Wearing 2L NP, rr28-30, BS clear upper diminished in bases, weak cough, nonproductive. Nebulizer tx every 4hours.Sats 96-97%. CXRAY obtained for c/o SOB.
+
+Cardiac:Routine echo, no change.Then c/o chest pain so EKG obtained, enzymes sent. CVP up to 15. MSO4 given 1mg at a time. CCU team in and capped off pericardial drain. IV NTG started, lasix given brisk response.
+
+Integumentary: L arm continues to be purple in color and swollen. L leg purplish in color and draining clear serous drainage. R leg in venodyne boot. Skin very dry.
+
+A: Pt fluid overloaded and diuresed nicely.
+P: Continue to monitor, watch fluid status closely.
+
+",,
+13384,21328,16659,0,2866-10-03 18:00:00 EST,2866-10-03 18:20:00 EST,3025,"N",54,"Nursing/Other","update","
+update
+NEURO:PT TIRED AFTER BUSY NIGHT; SLEPT IN FREQ NAPS. LESS C/O DISCOMFORT TODAY.
+
+CV: LESS TACHYCARDIC TODAY. BP WNL. CVP 5-9. PERICARDIAL DRAIN REMAINS INTACT, CAPPED.
+
+RESP: PT DYSPNEIC AFTER MOST TREATMENTS; SEEMS TO BE RELATED PARTIALLY TO ANXIETY. ABLE TO ""TALK PT DOWN"" TO COMFORTABLE RR. Q 4 HR NEBS.
+
+G.I.: POOR APPETITE. SM AMT LIQS AND SOLIDS ONLY. TAKING PILLS O.K.
+
+G.U: EXCELLENT UO; -2L SO FAR FOR 24 HRS. K+ WNL, REPLACING CA+2.
+
+SKIN: NEW SKIN BREAKDOWN ON R SHIN, DRAINING LG AMT SEROUS FLUID ONTO VENODYNE BOOT. TEGADERM APPLIED. THIN DUODERM WAFER APPLIED TO SM CLOSED BLISTER ON R BUTTOCK. DR [**Last Name (STitle) 4760**] NOTIFIED OF SKIN STATUS.
+
+A: STABLE CV AND RESP STATUS. NEEDS TO IMPROVE NUTRITIONAL INTAKE TO PROMOTE HEALING. UNMEASURED FLUID LOSSES FROM WOUND DRNG.
+
+P: SC HEPARIN TO START IN LIEU OF VENODYNES. ENC PO'S. CONT MONITORING. PERICARD DRAIN TO BE D/C'D TOMORROW.
+
+
+",,
+13384,21328,16659,0,2866-10-03 23:48:00 EST,2866-10-03 23:50:00 EST,3538,"N",54,"Nursing/Other","CSRU Progress","
+CSRU Progress
+S/O: Episode of 5/10 chest pain while on bed pan. HR 145 ST with BP 166/76. Resolved with 1 NTG SL. No EKG changes. 
+A: Recurrent chest pain with minimal exertion.
+P: Cont to treat with NTG PRN.
+",,
+13384,21328,16659,,2866-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-10-4**] 5:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15314**]
+     Reason: assess for pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD s/p high risk cath, with tamponade and
+      pericardial drain placement. Pericardial cath. removed today. 
+     REASON FOR THIS EXAMINATION:
+      assess for pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, PORTABLE:
+     
+     HISTORY:  79 y/o man with COPD, CAD, with tamponade and pericardial drain
+     placement.  Assess for pneumonia.
+     
+     Comparison is made to a prior study of [**2866-10-2**].  The heart is normal in size.
+     The mediastinal and hilar contours are unremarkable.  The pulmonary
+     vasculature is normal.  There is some atelectasis at the right lung base.
+     This is improved.  There are small bilateral pleural effusions.  A right
+     central venous line is seen with its tip in the SVC.  There is no evidence for
+     a pneumothorax.
+     
+     IMPRESSION:  Small bilateral pleural effusions.  Improvement of right basilar
+     atelectasis.  No evidence of CHF.
+
+",,
+13384,21328,16659,0,2866-10-04 05:51:00 EST,2866-10-04 06:07:00 EST,-1,"N",54,"Nursing/Other",,"
+
+CARDIAC~ NO FURTHER EPISODES OF CP. REMAINS IN ST 120'S~130'S. PLEURAL DRAIN CAPPED. DSG D+I.
+
+NEURO~A+O. MSO4 FOR DISCOMFORT W/ GOOD EFFECT.
+
+GI/GU~TOL PO FLUIDS WELL. NUTRITIONAL STATUS POOR. C/O DISCOMFORT @ FOLEY SITE. SL BLOODY URINE NOTED, BLOOD SEEN AROUND CATH TIP.IRRIGATED FOLEY W/30 CC'S NS 30 CC'S BACK. SCROTUM AND PENIS VERY SWOLLEN, ELEVATED. OOZY STOOL. 
+
+RESP~LUNGS  CLEAR/DIMINISHED THRU OUT.  ALBUT TX Q4/HR.
+
+A/P~PLAN TO D/C  PLEURAL TUBE THIS AM. ? MOM THIS AM. CONT TO ASSESS U/O NOTIFY H.O.IF DRAINAGE WORSENS
+  
+
+",,
+13384,21328,16659,0,2866-10-04 11:34:00 EST,2866-10-04 12:04:00 EST,3556,"N",54,"Nursing/Other",,"
+
+CARDIAC : NSR TO ST WITHOUT ECTOPY,BP STABLE STARTED ON LOPRESSOR 12.5 MG BID.NEURO :AWAKE ALERT ORIENTED X3,MOVES ALL EXTREMITIES WITH EQUAL STRENGHT ON COMMAND. SKIN:SKIN WARM AND DRY BUT IMPAIRED,SEE ASSESMENT FOR DETAILS,SKIN CONSULT CALLED. GI: ABD SOFT WITH POSITIVE BOWEL SOUNDS,COMPLAINT OF NEEDING TO MOVE BOWELS,GIVEN DULCOLAX PO,HAD SMALL AMOUNT OF SOFT STOOL.APPETITE POOR,NUTRITIONAL CONSULT PUT IN. GU: FOLEY TO CD DRAINING  CLEAR TO RED TINGED URINE,SMALL AMOUNT OF BLOODY DRAINAGE AROUND PENIS,CARDIOLOGY AWARE WILL WATCH,IF CONDITION WORSENS,IF  URINE IS  VERY BLOODY  MAY CALL CONSULT.BOTH FEET EDEMATOUS WITH BIL DP AND PT PULSES PRESENT.DRAIN CLAMPED,CADIAC ECHO DONE DR [**First Name (STitle) **] REMOVE LATER.PT IS [**Hospital 4761**] TRANSFER TO CCU.
+",,
+13384,21328,16659,0,2866-10-04 13:24:00 EST,2866-10-04 13:24:00 EST,3556,"N",54,"Nursing/Other",,"
+
+REPORT GIVEN TRANSFER TO CCC.
+",,
+13384,21328,16659,0,2866-10-04 16:13:00 EST,2866-10-04 16:15:00 EST,102,"N",1,"Nursing/Other",,"
+
+Resp Care
+pt has hx of severe emphysema/home O2 and home nebs. presently being rx'd with just atrovent in neb q4h d/t hr issues. bs diminished/coarse. +prolonged expiratory/+pursed lip pattern with any exertion. will follow with atrovent neb q4h. assess need for albuterol if resp status worsens.
+",,
+13384,21328,16659,0,2866-10-04 16:14:00 EST,2866-10-04 17:01:00 EST,104,"N",1,"Nursing/Other","CCU Nursing Acceptance note","
+CCU Nursing Acceptance note
+This 79 year old male was admitted from an outside hospital on [**9-24**], s/p cath on [**9-23**] showing severe 3VD, EF 65%.  [**9-25**] - Pt. had hypotension and was transferred to the CSRU.  PMH includes: COPD/emphysema, PVD , CVA with transient residual right sided weakness, s/p bil CEA (98), rheumatoid arthritis, macular degeneration.
+CSRU  course:  
+CVS:  Pt. continues to have angina with little activity.  [**9-25**] - CT revealed 3cm AAA above iliac arteries.  Pt. refused for surgery.  [**9-30**]- 2 stents placed in circ and 2 stents to iliac.  Echo showed cardiac tamponade.  Pt. hypotensive with increased filling pressures.  Pericardial drain placed.  [**10-1**] increased bleeding from drain (800cc's).  Hypotensive. Treated with blood products. Drain removed [**10-4**]. Pt. tachycardic with HR 120 - 130 ST.  started on lopressor [**10-4**].  Pulses are dopplerable in arms,  DP dopplerable in feet.  Unable to get PT's.
+Neuro:  Pt. is very anxious.  Receiving ativan.  Pt. is intermittently confused.
+resp:  Pt. is receiving nebs. breathing is slightly labored
+ Received lasix for pulm edema on [**10-2**].  
+Skin:  Pt. has multiple skin tears and ecchymotic areas.  Skin care specialist in today.  Duoderm placed on coccyx,  adaptic and DSD applied to all skin tears.
+G.I.:  Pt. given ducolox [**10-4**] .  No BM yet.  Appetite is very poor .  Pt. in for a dietary consult for tomorrow.
+G.U.:  Pt. voiding via foley catheter without problem.
+A:  Severe 3VD,  AAA, s/p cardiac tamponade post stent placement, Unstable angina.
+P:  monitor for further chest pressure, increased SOB, check pulses,  observe for s/sx of tamponade, ativan for anxiety, skin care as above.
+",,
+13384,21328,16659,0,2866-10-05 05:28:00 EST,2866-10-05 05:52:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P LCX STENT/TAMPONADE","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P LCX STENT/TAMPONADE
+
+S- "" I THINK THE BREATHING IS OK""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT INITIALLY TACHYCARDIC TO 130'S AND APPEARING TACHYPNIC WITH ANY EXERTION. INCREASED LOPRESSOR FROM 12.5- 25 BID AFTER 2.5 IVP.
+HR CURRENTLY 100-104 ST, NO VEA.
+AM LABS/LYTES PENDING.
+DENIES CP.
+GROIN SITES STABLE, PULSES PRESENT DP, NOT PT- BASELINE.
+NO SIGN BLEED.
+
+RESP- PT WITH I/E WHEEZE; COARSE BREATH SOUNDS WITH RHONCHI- NO COUGH OR SPUTUM PRODUCTION.
+REMAIN ON MDI Q 4 HOUR AND INHALERS.
+O2 SATS- 95-96%.
+WITH EXERTION SATS DECREASED TO 88%.
+RESOLVING WITH REST.
+NO DIURESIS.
+APPEARS COMFORTABLE AT REST,LYING AT 15 DEGREE ANGLE.
+
+ID- AFEBRILE
+
+GU- UO- 30-70CC/HOUR.
+I/O (-) 1 LITER AT 12 AM.
+
+GI- SOFT STOOL X 2- ONCE- INCONTINENT WHILE ASLEEP.
+ATE SMALL BOWL SOUP FOR DINNER.
+
+MS- PT A/O- PLEASANT .
+SISTER AND DAUGHTER PRESENT ON EVES.
+SERAX 15 QHS. SLEPT WELL.
+
+SKIN- SKIN CARE NURSE CONSULT IN - SEE RECOMMENDATION IN CHART.
+REFER TO SKIN AREAS ON FLOWSHEET.
+
+A/P- PT S/P TAMPONADE AND L CX STENTS- CURRENTLY STABLE HEMODYNAMICS WITH SOME TACHYCARDIA WITH EXERTION.
+
+CONTINUE TO INCREASE B BLOCKER AS BP/HR ALLOWS.
+LASIX AS NEEDED- CLOSE ASSESSMENT OF I/O/ 
+BRONCHODILATORS AS ORDERED.
+HOLD AM COLACE.
+INCREASE DIET AS TOLERTED.
+SKIN CARE PER NSG RECOMMENDATION.
+KEEP PT AND FAMILY AWARE OF PLAN OF CARE.
+",,
+13384,21328,16659,1,2866-10-05 11:31:00 EST,2866-10-05 13:02:00 EST,104,"Y",1,"Nursing/Other","CCU TRANSFER NOTE","
+CCU TRANSFER NOTE
+low urine output 2pm. given 250cc NS bolus per HO. 
+Transfer to [**Hospital Ward Name **] 2.
+",,
+13384,21328,16659,0,2866-10-05 11:31:00 EST,2866-10-05 12:43:00 EST,104,"N",1,"Nursing/Other","CCU TRANSFER NOTE","
+CCU TRANSFER NOTE
+79 yo male admitted from OSH [**9-24**] s/p cath showing severe 3VD -RCA 100%, 70%LAD, 90%[**Last Name (LF) 3880**], [**First Name3 (LF) **] 65%.  At [**Hospital1 10**] [**9-25**] pt developed HYPOTENSION/syncopal episode and was transfered to the CSRU. Pt con't to have angiona w/ little activity. at CT revealed a 3cm AAA above the iliac arteries, pt not a surgical candidate. pt developed L thigh hematoma, had bleed to L arm, rec'd blood products. Pt had increasing anxiety and CP + SOB with any activity (especially since being refused for CTsurg). To cath lab [**9-30**] for stent placemet - 2 stents to circ and 2 stents to iliac placed. Pt became hypotensive, - echo showed pericardial effusion/tamponade, pericardial drain placed, draining large amts. Pt req'd blood products and IVF for blood lose thru drain. Episode of pulmonary edema [**10-2**] rec'd lasix and drain capped. [**10-4**] pericardial drain d/c'd. [**10-5**] this morning developed SOB w/ anxiety and went into RAF 180s developing CP. rec'd lopressor 5mg IV and MSO4 2mg w/ relief and conververted back to ST 110s. Plan to transfer to stepdown/telemetry.
+
+PMHX: endstage COPD/severe emphysema,severe 3VD-not a surgical candidate, PVD, CVA x 3 w/ residual R weakness, s/p bilat CEA '[**62**]%, [**Last Name (un) **] leg claudication, rheumatoid arthritis, macular degeneration both eyes (legally blind). 
+
+ALLERGIES: NKDA
+
+CODE: FULL CODE
+
+NEURO: pt very anxious, confused at times (more at HS), pt legally blind, good hearing. generalize pain in legs w/ movements. 
+
+CARDIAC: ST 100-120s, episode of RAF 180s post anxiety/SOB req'd lopressor 5mg IVP this morning. BP stable. Lopressor dose increased to 50mg BID po. dopplerable DP pulse, no PT pulse. palp/dopplerable radial pulses. heparin on hold currently (need to recheck w/ house staff re restarting).  Needs veinodyne boots bilat. old pericardial drain site mid chest has DSD, D+I.
+
+RESP: LS I/E wheezes, crackles 1/2up bilat lobes. SOB w/ any exertion/anxiety. O2 2L n/c. sats 95-96%. when SOB sats decrease to 88-92%. strong non productive cough. remains on q4H MDI/Inhalers. on medrol 4mg po qd.
+
+GI/GU: foley patent, amber coloured urine ~30cc/hr, some oozing/old blood at urethra. Abd soft, hypo BS. no stool. poor PO intake. taking po fluids well. protonix qd.
+
+SKIN: skin consult - adaptic to skin tears. old hematoma sites to L groin, L upper arm (L arm to fingertips ecchymotic) flanks ecchymotic. duoderm to coccyx. sheepskin to lwr extremities. on [**Doctor First Name **]-air bed. DSD to scabbed skin tear on L upper inner arm, adaptic and kling dsg to 2 skin tears R lwr arm -mod amt sanguinous drainage. Skin tear w/ DSD to behind L knee. 
+
+ID-afebrile. 
+
+
+PLAN: family meeting needs to be held for discussion of code status. transfer to stepdown/telemetry. observe for s/s of increased anxiety/sob and try to relax pt before he goes into RAF w/ CP. monitor VS. con't to titrate up Beta-Blocker (lopressor) as tolerated. ?start ace in future. dsg changes PRN. encourage PO intake. resp to con't q4h nebs + prn as needed. 
+",,
+13384,21328,,,2866-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-10-7**] 9:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15315**]
+     Reason: acute onset shortness of breath with chest pain
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD s/p high risk cath, with tamponade and
+      pericardial drain placement. Pericardial cath. removed today. 
+     REASON FOR THIS EXAMINATION:
+      acute onset shortness of breath with chest pain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P pericardial catheter removal with acute onset of shortness of
+     breath and chest pain.
+     
+     CHEST AP:
+     
+     FINDINGS: Comparison was made to the prior study dated [**2866-10-4**]. Again noted
+     are bilateral pleural effusions in the left lower lobe and right lower lobe,
+     obscuring the CP angles bilaterally. The heart is within normal size. The
+     hilar and mediastinal contours are within normal limits. No evidence of
+     pneumothorax or acute pulmonary infiltrate.
+     
+     IMPRESSION: Bilateral pleural effusions, unchanged from the prior study.
+
+",,
+13384,21328,,,2866-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2866-10-8**] 10:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15316**]
+     Reason: r/o flash pulmonary edema in a patient with respiratory dist
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with COPD, CAD s/p high risk cath, with tamponade and
+      pericardial drain placement. Pericardial cath. removed today. 
+     REASON FOR THIS EXAMINATION:
+      r/o flash pulmonary edema in a patient with respiratory distress
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Flash pulmonary edema.  Respiratory distress.
+     
+     A right subclavian central venous catheter is present, terminating in the
+     superior vena cava.  The cardiac and mediastinal contours are stable in the
+     interval.  The pulmonary vascularity is within normal limits for technique.
+     There remain moderate-sized right and smaller left partially layering pleural
+     effusions on this semi-erect study.
+     
+     IMPRESSION: Moderate right and small left partially layering pleural
+     effusions.  No evidence for pulmonary edema.
+
+",,
